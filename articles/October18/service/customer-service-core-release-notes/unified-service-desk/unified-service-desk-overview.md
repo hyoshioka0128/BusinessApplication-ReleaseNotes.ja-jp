@@ -5,7 +5,7 @@ author: MargoC
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: dd3a539b-eef7-4cd9-90f0-2c42873dc2aa
-ms.topic: article
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
@@ -21,9 +21,6 @@ ms.lasthandoff: 07/18/2018
 #  <a name="overview-of-unified-service-desk-october-18-release"></a>Unified Service Desk 2018 年 10 月リリースの概要
 
 [!include[unified-service-desk banner](../../../includes/unified-service-desk.md)]
-[!include[customer-service-core-release-notes banner](../../../includes/customer-service-core-release-notes.md)]
-
-
 
 Unified Service Desk for Dynamics 365 は、コール センター向けアプリケーションを簡単に構築するための構成可能なフレームワークを提供します。これにより、エージェントは Dynamics 365 に保存された顧客データの統合ビューを表示できるようになります。 2018 年 10 月リリースの一部として、次のことが可能になりました。
 
