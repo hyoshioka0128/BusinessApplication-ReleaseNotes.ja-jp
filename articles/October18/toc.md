@@ -51,7 +51,6 @@
 
 ### [Unified Service Desk](service/customer-service-core-release-notes/unified-service-desk/unified-service-desk-overview.md)
 #### [新機能の概要](service/customer-service-core-release-notes/unified-service-desk/planned-features.md)
-#### [Unified Service Desk への Web アプリケーションのホスティングにエッジ プロセスを使用](service/customer-service-core-release-notes/unified-service-desk/unified-service-desk-using-edge-process-hosting-web-applications-unified-service-desk.md)
 #### [統合クライアントでの Unified Service Desk 管理者エクスペリエンス](service/customer-service-core-release-notes/unified-service-desk/unified-service-desk-admin-experience-on-unified-client.md)
 
 ### [Dynamics 365 ポータル](service/dynamics365-portal/index.md)

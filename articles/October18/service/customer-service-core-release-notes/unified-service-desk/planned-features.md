@@ -23,6 +23,5 @@ ms.lasthandoff: 07/18/2018
 
 | 機能                                                                                                                                                                                       | リリースの種類   | 目標リリース月 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------------|
-| [Unified Service Desk への Web アプリケーションのホスティングにエッジ プロセスを使用](unified-service-desk-using-edge-process-hosting-web-applications-unified-service-desk.md) | パブリック プレビュー | 2018 年 10 月          |
 | [統合クライアントでの Unified Service Desk 管理者エクスペリエンス](unified-service-desk-admin-experience-on-unified-client.md)                                                                     | 一般提供             | 2018 年 10 月          |
 
