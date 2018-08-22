@@ -78,7 +78,6 @@ ms.lasthandoff: 07/18/2018
 > [!div class="mx-tableFixed"]
 > | 機能   | リリースの種類   | 目標リリース月 |
 > |-----------|----------------|----------------------|
-> |[使いやすさと生産性の更新](usability-productivity.md) | 一般提供|2018 年 10 月|
 > |[個人用設定の向上](personalization-improvements.md) | 一般提供|2018 年 10 月|
 > |[追加のデモ データ](additional-demo-data.md) | 一般提供|2018 年 10 月|
 > |[データ所在地サブスクリプション](data-resident-subscription.md) | 一般提供|2018 年 10 月|
