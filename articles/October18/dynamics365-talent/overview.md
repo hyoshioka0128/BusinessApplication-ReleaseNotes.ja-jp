@@ -3,28 +3,23 @@ title: "Microsoft Dynamics 365 for Talent 2018 年 10 月リリースの概要"
 description: "Microsoft Dynamics 365 for Talent 2018 年 10 月リリースの概要"
 author: josaw1
 manager: AnnBe
-ms.date: 07/22/2018
-ms.topic: article
+ms.date: 08/16/2018
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: josaw
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 2d62402092c80c1f2e0d953d379a8385f2e86947
+ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
+ms.openlocfilehash: d6acc6884fdc61ed68222562ae3ca6986d1f0456
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 #  <a name="overview-of-dynamics-365-for-talent-october-18-release"></a>Dynamics 365 for Talent 2018 年 10 月リリースの概要
 
-[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
-
-
-
-
-Dynamics 365 for Talent の 2018 年 10 月更新プログラムでは、申請者追跡システム (ATS) の機能や部門別オンボーディングのサポートが追加されたほか、給付金、従業員、組織の管理機能も新たに追加されています。 この最新リリースを使用することで、Dynamics パートナーは Talent を拡張し、アプリ用 Common Data Service (CDS) に追加機能を導入することができます。
+Dynamics 365 for Talent の 2018 年 10 月更新プログラムでは、申請者追跡システム (ATS) の機能や部門別オンボーディングのサポートが追加されたほか、給付金、従業員、組織の管理機能も新たに追加されています。 この最新リリースを使用することで、Dynamics パートナーは Talent を拡張し、アプリ用 Common Data Service (CDS) に追加機能を導入することができます。 (これらのリリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 ## <a name="streamlined-intelligent-and-compliant-recruiting"></a>効率性、インテリジェンス、コンプライアンスに優れた採用管理
 

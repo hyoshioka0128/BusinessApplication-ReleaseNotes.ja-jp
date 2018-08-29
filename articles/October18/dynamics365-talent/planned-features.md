@@ -3,27 +3,27 @@ title: "Microsoft Dynamics 365 for Talent の 2018 年 10 月リリースで計�
 description: "Microsoft Dynamics 365 for Talent の 2018 年 10 月リリースで計画されている機能の概要"
 author: josaw1
 manager: AnnBe
-ms.date: 07/22/2018
-ms.topic: article
+ms.date: 08/16/2018
+ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: josaw
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 560aef22ae7d563508bc590895382dc5e122376d
-ms.openlocfilehash: 303dc076773abd5e76e77299ad0709c56e4e7c9e
+ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
+ms.openlocfilehash: f2561b963a9acc8110ea4d6b8542086d6d731385
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/03/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-for-talent"></a>Dynamics 365 for Talent の新機能の概要
 
-[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
-
 このトピックでは、2018 年 10 月から 2019 年 3 月の間に Microsoft Dynamics 365 for Talent でリリースが計画されている機能の一覧を示します。 
 
-
+これらのリリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+    
+Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 
 
 
 ## <a name="attract"></a>Attract

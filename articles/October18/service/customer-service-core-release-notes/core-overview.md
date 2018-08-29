@@ -12,10 +12,10 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: c876db3795f892f1b8e030673c86f54850813b9e
+ms.sourcegitcommit: 9d939e87e6e747b4cdcadb7acb5958736f547145
+ms.openlocfilehash: fa492b0fec2071ecd3aeb36a5272b5b694c46754
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 # <a name="overview-of-dynamics-365-for-customer-service-october-18-release"></a>Dynamics 365 for Customer Service 2018 年 10 月リリースの概要
@@ -31,9 +31,9 @@ Dynamics 365 for Customer Service では、組織がユーザーに対して効�
 
 また最新リリースでは、Customer Service の管理環境が顧客サービス ハブ内で使用できるようになり、構成作業を一元的かつ簡単に行えるようになりました。 
 
-類似したサポート案件やナレッジ記事を提案するインテリジェント アシスタンス (いずれも Text Analytics API を使用して実現) は、Customer Service エージェントにインテリジェントな分析情報を提供し、サポート案件をすばやく効果的に解決できるようにすることで、KPI の改善を促進します。
+類似したサポート案件やナレッジ記事を提案するインテリジェント アシスタンス (いずれも Text Analytics API を使用して実現) は、顧客サービス エージェントにインテリジェントな分析情報を提供し、サポート案件をすばやく効果的に解決できるようにすることで、KPI の改善を促進します。
 
-UCI サポート情報検索コントロールに基づく関連性検索を使用すれば、エージェントはナレッジ記事の結果をサポート案件管理のコンテキスト内から、よりすばやく正確に取得することができます。 
+統一インターフェイスのサポート情報検索コントロールで関連性検索を使用すれば、エージェントはナレッジ記事の結果をサポート案件管理のコンテキスト内から、より迅速かつ正確に取得することができます。 
 
 One Admin Center の顧客サービスの正常性を使用すれば、サービス組織はサービス正常性や機能を効果的に監視し、生産性が低下する前に潜在的な問題を自己解決できます。
 

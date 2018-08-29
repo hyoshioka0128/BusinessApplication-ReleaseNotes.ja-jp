@@ -3,7 +3,8 @@ title: "アプリの速度の向上"
 description: "アプリのオーサリングと作成が時間の経過とともに速くなります"
 author: evchaki
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: f91b1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,18 +12,16 @@ ms.technology:
 ms.author: evchaki
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: ef414b86a281acb34806d81b0bf994f552578c59
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: b1d686ce746b5712fa1a149b299cf173851f4ea7
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
-# <a name="improved-speed-of-apps"></a>アプリの速度の向上
-
-[!include[powerapps banner](../includes/powerapps.md)]
+# <a name="improved-app-speed"></a>アプリの速度の向上
 
 
-
+[!include[banner](../../includes/banner.md)]
 
 Web 上での PowerApps のオーサリング エクスペリエンス、およびアプリ実行エクスペリエンスは、引き続き高速化しています。 古いアプリを更新してエンドユーザーに再公開するとき、そのステップは古いアプリを PowerApps の最新ビルドに再パッケージします。 エンドユーザーは、アプリを使用するときに、読み込み時間の短縮とパフォーマンスの向上を体感できます。
 

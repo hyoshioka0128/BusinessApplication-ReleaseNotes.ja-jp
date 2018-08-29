@@ -3,27 +3,23 @@ title: "Dynamics 365 for Retail 2018 年 10 月リリースの概要"
 description: "Dynamics 365 for Retail 2018 年 10 月リリースの概要"
 author: josaw1
 manager: AnnBe
-ms.date: 07/22/2018
-ms.topic: article
+ms.date: 08/16/2018
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: josaw
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f1fc9283f5dada51a46c3dccb2f16df75738fed5
+ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
+ms.openlocfilehash: 06098d28c29b43580510cc52245f9ed26e8a9eed
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 #  <a name="overview-of-dynamics-365-for-retail-october-18-release"></a>Dynamics 365 for Retail 2018 年 10 月リリースの概要
 
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
-
-
-
-
+これらのリリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 Dynamics 365 for Retail の 2018 年 10 月リリースには、次のテーマが反映されています。 
 

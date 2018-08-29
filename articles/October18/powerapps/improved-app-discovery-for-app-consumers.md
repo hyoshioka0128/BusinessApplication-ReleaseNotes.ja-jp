@@ -3,7 +3,8 @@ title: "コンシューマー向けのアプリの探索の向上"
 description: "PowerApps からモデル駆動型アプリおよびキャンバス アプリをより簡単に検索および実行できます。"
 author: shpareek
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: f71b1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,18 +12,16 @@ ms.technology:
 ms.author: shpareek
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 62f2cbb74e789526cc430f2febc63fa37369e284
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: 11d62e6d106783fad9118b1ea47e42a893dfe7a0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
-# <a name="improved-app-discovery-for-app-consumers"></a>アプリのコンシューマー向けのアプリの探索の向上
-
-[!include[powerapps banner](../includes/powerapps.md)]
+# <a name="improved-app-discovery-for-consumers"></a>コンシューマー向けのアプリの探索の向上
 
 
-
+[!include[banner](../../includes/banner.md)]
 
 アプリ利用者は、PowerApps の統一ランディング ページを通じて自分および自分の組織のモデル駆動型アプリとキャンバス アプリを検索、プレビュー、実行して、素早く生産性を高めることができます。
 

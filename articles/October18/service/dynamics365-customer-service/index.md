@@ -3,26 +3,26 @@ title: "サービス関連の最新機能の概要 "
 description: "サービス関連の新機能やエンゲージメントの概要について説明します"
 author: MargoC
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/15/2018
 ms.assetid: 557af355-3198-4b9d-b0e2-49b9533df482
-ms.topic: article
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 0f091b969e66062c6daf7b2378f999c5dcdcde9a
+ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9
+ms.openlocfilehash: 597744da4a07d43ac6f00b197d4404463b188194
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 #  <a name="overview-of-the-service-october-18-release"></a>サービス 2018 年 10 月リリースの概要 
 
 
 
-2018 年 10 月リリースでは、サービス関連の新機能が導入されています (Customer Service、Field Service、および Dynamics 365 Portal を含む)。
+2018 年 10 月リリースでは、サービス関連の新機能が導入されています (Customer Service、Field Service、および Dynamics 365 Portal を含む)。 (これらのリリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 **Dynamics 365 for Customer Service** の最新リリースでは、さまざまなタッチポイントを通じて全体的な顧客エンゲージメントを促進し、業務運営の効率や組織の生産性を改善できます。 新機能としては、Universal Resource Scheduling を使用したサービス スケジュールがあります。
 

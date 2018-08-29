@@ -1,29 +1,29 @@
 ---
 title: "権利の管理"
 description: "Field Service は、関連するシナリオに対して Customer Service アプリケーションで有効化される現在の権利機能を拡張しました。"
-author: MargoC
+author: shellyhaverkamp
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/16/2018
 ms.assetid: 0733f83d-bc07-436b-8af3-1ee4340f611d
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: jacoh
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: b25a4e0e5b629a63f6b9e3ffbfd9d3f3724d8c20
+ms.sourcegitcommit: 9d939e87e6e747b4cdcadb7acb5958736f547145
+ms.openlocfilehash: 6d2db42406bb27539fc7c57ccca51367a81fdb4f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 #  <a name="entitlement-management"></a>権利の管理
 
 [!include[field-service banner](../../includes/field-service.md)]
 
+このリリースの Field Service アプリケーションでは、権利を定義し、フィールド サービス シナリオの作業指示書と権利を関連付けることができます。 権利は、顧客に資格があるサービス条件をサービス エージェントが理解するのに役立ちます。
 
+この機能は、顧客に許可された権利と一致する適切なオンサイト サポートを顧客が受けていること、および交渉された条件に従って顧客への請求が行われていることを、サービス組織が確認するのに役立ちます。
 
-
-Field Service は、関連するシナリオに対して Customer Service アプリケーションで有効化される現在の権利機能を拡張しました。 これにより、顧客が権利を与えられるサポートのレベルを、フィールド サービスのコンテキストで指定できます。 権利の例は、取引先企業、取引先担当者、製品、作業指示書、作業指示書パフォーマンス指標などです。
 

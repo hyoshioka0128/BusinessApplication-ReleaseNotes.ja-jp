@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 8bd0b2bfcb632e855c73c73050a72ab08f153d0d
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: e523a6bbfc92d129f1c58869769e8054099b0fe4
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="relevance-search-for-knowledge-management"></a>ナレッジ マネージメントの関連性検索 
 
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Dynamics 365 サポート情報の検索コントロールは、サポート案件管理のコンテキスト内でエージェントにナレッジを提供します。 関連性検索を利用して、パフォーマンスと精度が向上した結果が提供されるようになりました。 
 
@@ -29,6 +31,6 @@ Dynamics 365 サポート情報の検索コントロールは、サポート案�
 
 組織が関連性検索を有効にすると、エージェントはこの強化された検索を既定でサポート情報検索コントロールで使用できます。 追加の構成は不要です。
 
-この機能は、既に使用可能になっている Web クライアントに加えて、統合クライアント顧客サービス ハブ アプリでも使用可能になりました。
+この機能は、既に使用可能になっている Web クライアントに加えて、統一インターフェイス顧客サービス ハブ アプリでも使用可能になりました。
  
 

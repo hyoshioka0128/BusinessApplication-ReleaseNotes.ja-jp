@@ -12,20 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 179e0b58e161a748fced74d0f4bc3d31d05efe97
+ms.sourcegitcommit: efc7a0d3cbfe55765f82a97ba1519becbe6e4cb6
+ms.openlocfilehash: 03532f98b31a51020700e8b58bfe9840e857dcf6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="power-bi-report-server"></a>Power BI Report Server
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-
-
-
-Power BI Report Server を使用すると、お客様は最新の Power BI レポートのメリットを享受しながら、政府機関や展開に関する固有の要件に準拠することができます。 Power BI Report Server の 2018 年 10 月更新プログラムでは、過去数か月間に Power BI Desktop でリリースされた機能の多くを利用することができます (メジャーに基づくドリルスルー、他の列に基づく条件付き書式など)。 
+Power BI Report Server を使用すると、お客様は最新の Power BI レポートのメリットを享受しながら、政府機関や展開に関する固有の要件に準拠することができます。 Power BI Report Server の 2018 年 11 月更新プログラムでは、過去数か月間に Power BI Desktop でリリースされた機能の多くを利用することができます (メジャーに基づくドリルスルー、他の列に基づく条件付き書式など)。 
 
 また、Power BI Report Server では、一般的なエンタープライズ レポート作成シナリオに対応するその他の機能もサポートされます。これには次の機能が含まれます。
 

@@ -1,9 +1,10 @@
 ---
-title: "Common Data Service の関連設定検索の強化"
-description: "Dynamics 365 App for Outlook の関連検索設定の信頼性向上"
+title: "Dynamics 365 の関連設定検索の強化"
+description: "Dynamics 365 の関連検索設定の信頼性向上"
 author: srihas
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/14/2018
+ms.assetid: 881c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,13 +12,13 @@ ms.technology:
 ms.author: srihas
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: bb4d67b6763923c94bedde75d30eb1cdf72638f6
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: d97407413689ea31e91e167b31ad2e076f14ea3a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
-# <a name="set-regarding-lookup-enhancements-in-common-data-service"></a>Common Data Service の関連設定検索の強化
+# <a name="set-regarding-lookup-enhancements-in-dynamics-365"></a>Dynamics 365 の関連設定検索の強化
 
 
 [!include[banner](../../includes/banner.md)]

@@ -11,16 +11,18 @@ ms.technology:
 ms.author: bmeier
 audience: admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: dc4cba05c950923d3277ab3cc9540b1dc7d89c6c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: b40a155e88e8ea4be2a9e63243bed82b98ef8d92
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="enhanced-power-bi-embed-experience"></a>強化された Power BI 埋め込みエクスペリエンス
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
+
 
 現在の Power BI 埋め込みエクスペリエンスに対する機能強化には、Power BI レポートの自動展開、既定のレポートの選択、Business Central を離れる必要のない Power BI レポートの管理機能が含まれます。
 
@@ -39,5 +41,5 @@ No regional restrictions. All Dynamics 365 Business Central supported markets.
 -->
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
-Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralfeedback) をご利用ください。
+Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralideas) をご利用ください。
 

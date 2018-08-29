@@ -11,30 +11,23 @@ ms.technology:
 ms.author: pborring
 audience: developer, customizer
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 161da5108c31c88f8e0f254abcf0f4b0fa6e950c
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 5b1d5c818fb0fafa973ed0e337cd9bb67ad9b137
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="improved-visual-studio-code-al-experience"></a>Visual Studio Code AL エクスペリエンスの向上
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 拡張機能を作成することは、Business Central をカスタマイズするための手段です。 2018 年 10 月リリースでは、開発エクスペリエンスの生産性が強化されたほか、追加の拡張シナリオもサポートされました。
 
 強化されたツールや拡張機能を使用することで、開発者はソリューションの開発やトラブルシューティングを行う際の生産性を高めると共に、拡張機能を通じて顧客のカスタマイズ要件に柔軟に対応できるようになります。
 
-## <a name="sandbox-with-production-data"></a>運用データを使用したサンドボックス
-サンドボックスを使用する際 (特にテストやトラブルシューティングを行う際) には、運用データを使用できたほうが望ましい場合がよくあります。 今回のリリースでは、クラウドにバックアップされた運用データの最新のコピーに基づいてサンドボックスを作成できる機能が追加されます。 運用データで設定されている統合とのクロストークを最小限に抑えるため、これらの統合はサンドボックスの作成時に無効化されます。 管理者ユーザーは、必要な注意を払ったうえで、これらの統合を必要に応じて有効化したり、再構成したりして、サンドボックスの使用目的に対応することができます。
-
-## <a name="new-object-extensions"></a>新しいオブジェクト拡張
-次のオブジェクトを拡張できるようになりました。
-
-- ベース アプリケーションからの列挙 (オプション)。拡張可能な列挙型を拡張機能内で新たに作成することもできます。
-- 拡張機能内のレポート データ セット。 レポート データのレイアウトは、引き続き置換での対応となります。
-- フィールド グループ。
+## <a name="cloud-sandbox-with-production-data"></a>運用データを使用したクラウド サンドボックス
+クラウド サンドボックスを使用する際 (特にテストやトラブルシューティングを行う際) には、運用データを使用できたほうが望ましい場合がよくあります。 今回のリリースでは、クラウドにバックアップされた運用データの最新のコピーに基づいてクラウド サンドボックスを作成できる機能が追加されます。 運用データで設定されている統合とのクロストークを最小限に抑えるため、これらの統合はサンドボックスの作成時に無効化されます。 管理者ユーザーは、必要な注意を払ったうえで、これらの統合を必要に応じて有効化したり、再構成したりして、クラウド サンドボックスの使用目的に対応することができます。
 
 ## <a name="event-discoverability"></a>イベントの見つけやすさ
 拡張機能を作成するうえで、イベントのサブスクライブは重要な操作となります。 しかし、特定のユーザー フローでどのイベントが使用できるかを把握することは、多くの開発者にとって共通の課題です。 デバッグは有効な手段ですが、既にサブスクライブされているイベントしか確認できません。 そこで、イベントや拡張ポイントを見つけやすくするために、クライアントに新しいイベント トレーサーが追加されました。 これを使用すると、ユーザー フローを記録して、発生したイベントをリストすることができます。これにより開発者は、イベントのサブスクライバー コードを生成して、AL コードに簡単にコピーできるようになります。
@@ -111,5 +104,5 @@ Globally
 -->
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
-Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム ([https://aka.ms/businesscentralfeedback](https://aka.ms/businesscentralfeedback)) をご利用ください。
+Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム ([https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas)) をご利用ください。
 
