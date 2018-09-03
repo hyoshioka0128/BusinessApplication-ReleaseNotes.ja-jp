@@ -3,27 +3,24 @@ title: "Microsoft Dynamics 365 for Finance and Operations 2018 年 10 月リリ�
 description: "Microsoft Dynamics 365 for Finance and Operations 2018 年 10 月リリースの概要"
 author: MargoC
 manager: AnnBe
-ms.date: 07/22/2018
-ms.topic: article
+ms.date: 08/16/2018
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: margoc
 audience: Admin, end-user, developer
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 7841e50443ffac2e0a4a86a002ca1f2c922c9c63
+ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
+ms.openlocfilehash: 362355fb385f518f4824ee7789ccf5d995bf05ca
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 #  <a name="overview-of-dynamics-365-for-finance-and-operations-october-18-release"></a>Dynamics 365 for Finance and Operations 2018 年 10 月リリースの概要
 
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-
-
-このトピックでは、Finance and Operations 2018 年 10 月リリースのテーマ領域について説明します。 
+このトピックでは、Finance and Operations 2018 年 10 月リリースのテーマ領域について説明します。 (これらのリリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 ## <a name="focus-on-fundamentals"></a>基本機能の徹底
 
@@ -50,7 +47,7 @@ Microsoft では、ビジネス アプリケーションの機能やエクスペ
 
 -   **営業とマーケティングの統合。** シームレスな統合は、Customer Service と Finance and Operations に対応した、CDS データ インテグレーターのサポート シナリオを利用して実現されています。 これらの統合機能では、プロジェクトベースの出張経費管理や、プランニングを管理するための作業分解構造のサポート、またプロジェクト マネージャーをサポートする請求管理機能など、新しいエクスペリエンスが継続的に導入されています。 Field Service を使用するフィールド技術者は、Finance and Operations に格納されている在庫の分析情報を使用して、在庫レベルを更新することや、材料の移動を完了することができます。 また、販売した商品の設置やサービス提供を行う企業は、営業からサービス提供までのプロセス全体について可視性を確保することができます。
 
--   **Dynamics 365 for Talent との統合。** CDS データ インテグレーターは、Finance and Operations と Dynamics 365 for Talent を使用している従業員向けに、双方向の統合機能を提供 します。 従業員は、これらのシステム間でデータを共有しながら、システム間をシームレスに移動できます。
+-   **Dynamics 365 for Talent 統合。** CDS データ インテグレーターは、Finance and Operations と Dynamics 365 for Talent を使用している従業員向けに、双方向の統合機能を提供 します。 従業員は、これらのシステム間でデータを共有しながら、システム間をシームレスに移動できます。
 
 -   **規制構成サービス。** 規制構成ツール (旧称: 電子申告) は、独立したサービスになりました。 このサービスでは、複数のバージョンの Finance and Operations や、以前の Microsoft Dynamics AX バージョン (AX 2012 や AX 2009 (インドのみ) など) を使用しているパートナーやお客様が、規制機能を 1 回だけ構成し、各種のバージョンに 1 つの共通サービスを使用することができます。 規制構成サービスでは、コード記述のないプログラミング アプローチを採用しています。これによりパワー ユーザーは、複数のアプリケーションでコードを記述しなくても、規制報告、電子請求書、支払い形式、および税規則についての法的要件を構成し、要件の頻繁な変更に効果的に対応できるようになります。 規制構成サービスは、規制サービスの最初のコンポーネントです。これにより、任意のビジネス アプリケーションと統合可能な規制機能が提供されます。 このサービスを使用することで、アプリケーション開発者は、世界各国で増え続ける法的要件への準拠にわずらわされることなく、各自の本来の中核業務に専念することができます。
 

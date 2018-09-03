@@ -11,18 +11,17 @@ ms.technology:
 ms.author: blazkote
 audience: end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 0ab4fdabd59b610bd0fdd02939ee7784cf9b903c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 9979f961a07e1238fad7f6f8e8295413ad456b59
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="refreshed-desktop-experience"></a>一新されたデスクトップ エクスペリエンス
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-[!include[banner](Includes/disclaimer.md)]
 
 
 新しいモダンなエクスペリエンスを使用すると、組織に Dynamics 365 Business Central を適応させ、ユーザーのラーニング パスを簡略化するのが簡単になります。 顧客は生産性の向上に役立つ新しい更新されたエクスペリエンスを利用し、Microsoft のパートナーは製品を市場に投入して新しい顧客をオンボードできる容易さに価値を見出します。 更新はビジュアル面にとどまりません。アプリケーション エクスペリエンスが調整、簡素化、および改善されます。
@@ -56,5 +55,5 @@ No regional restrictions. Available in all Dynamics 365 Business Central support
 -->
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
-Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralfeedback) をご利用ください。
+Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralideas) をご利用ください。
 

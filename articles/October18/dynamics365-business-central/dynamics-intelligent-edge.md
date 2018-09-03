@@ -12,16 +12,18 @@ ms.technology:
 ms.author: edupont
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: ab0610c7d9dacc44e4bfbefbab543e1b1bb5092e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: a4fc519fe5d22b76e5000b7c6d5d9cdd92dae898
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="intelligent-edge-for-dynamics-gp-dynamics-sl-and-dynamics-nav"></a>Dynamics GP、Dynamics SL、Dynamics NAV のインテリジェント エッジ
 
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Microsoft はインテリジェント クラウドへの大きな投資を続けており、ビジネス インテリジェンス、人工知能、機械学習、および他の多くのクラウド生産性向上および分析ツールをマーケットプレースに送り出しています。 オンプレミスのソリューションを使用しているユーザーは、これらのサービスを簡単に利用できませんでした。  
 
@@ -43,5 +45,5 @@ No regional restrictions. Available in all Dynamics 365 Business Central support
 -->
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
-Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralfeedback) をご利用ください。
+Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralideas) をご利用ください。
 

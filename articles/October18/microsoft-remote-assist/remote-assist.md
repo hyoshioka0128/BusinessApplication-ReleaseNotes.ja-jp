@@ -18,16 +18,16 @@ audience:
 - business analyst
 - IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 5734780e8716ed091b9354a083c55e96cc4f0edd
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: a40c29f90259e9a0883da066cbabe545b8cbfcd5
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="overview-of-microsoft-remote-assist-october-18-release"></a>2018 年 10 月リリースの Microsoft リモート アシストの概要
 
-[!include[banner](../../includes/banner.md)]
+
 
 Microsoft リモート アシストでは、通知、ハンズフリー ビデオ通話、イメージ共有、Mixed Reality の注釈に接続し、共同作業することができます。 第一線の作業者は、現場にとどまったまま HoloLens を使用して自分が見ているものを Microsoft Teams でエキスパートと共有し、一緒に問題を解決してタスクをより迅速に完了します。 エンタープライズ レベルのセキュリティを利用した Microsoft リモート アシストにより、安心してコミュニケーションを行うことができます。
 
@@ -59,8 +59,6 @@ PC デスクトップ上の Microsoft Teams の場合:
 -   画面を共有し、HoloLens ユーザーに情報を提示します。
 
 ## <a name="important-links"></a>重要なリンク
-
-[Microsoft リモート アシストの取得と展開](../hololens/hololens-microsoft-remote-assist-app)
 
 [Microsoft リモート アシストに関する FAQ](https://support.microsoft.com/help/4294428/windows-10-microsoft-remote-assist-faq)
 

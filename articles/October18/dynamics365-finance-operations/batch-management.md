@@ -11,18 +11,18 @@ ms.technology:
 ms.author: robadawy
 audience: admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f6c93fabbf746e3521e5a79695191e06391726f3
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 95b8f4ed8f61973de532c513eb8c7f410bc805a5
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="managing-batch-jobs"></a>バッチ ジョブの管理
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-2018 年 10 月のリリースでは、Finance and Operations 管理者にバッチ ジョブ管理に関する一連の新機能が提供されます。
+2018 年 10 月のリリース以降では、Finance and Operations 管理者にバッチ ジョブ管理に関する一連の新機能が提供されます。 これらの機能は、毎月のプラットフォーム更新プログラムの一部として段階的に提供されます。
 
 バッチ ジョブの作成、実行、調査の管理に役立つ生産性向上ツールは、管理者によるシステムのパフォーマンスと効率の管理を支援するのに不可欠です。
 

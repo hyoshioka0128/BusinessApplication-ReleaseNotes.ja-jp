@@ -3,26 +3,28 @@ title: "2018 年 10 月に Power BI に対して計画されている機能の�
 description: "2018 年 10 月に Power BI に対して計画されている機能の概要"
 author: KumarVivek
 manager: AnnBe
-ms.date: 07/22/2018
+ms.date: 08/16/2018
 ms.assetid: 09feb0b5-1463-4952-8db7-9102711e87a0
-ms.topic: article
+ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: kvivek
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 0291edeb85cbe46956dba170e1c35e009b0bdcf6
+ms.sourcegitcommit: 5d2d0b20482e7a8466673d76148974360b2ad719
+ms.openlocfilehash: 83b681b31d6e7fee227d456d3a8bbe6b4a9c16d0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/20/2018
 
 ---
 # <a name="summary-of-whats-new-in-business-intelligence"></a>ビジネス インテリジェンスの新機能の概要
 
 このトピックでは、2018 年 10 月から 2019 年 3 月の間にリリースが計画されている Power BI 機能の一覧を示します。 
 
-[!include[banner](../../includes/banner.md)]
+これらのリリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+    
+Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 ## <a name="power-bi-desktop"></a>Power BI Desktop
 
@@ -31,7 +33,7 @@ ms.lasthandoff: 07/18/2018
 |**ユーザー補助: スライサー** - エンド ユーザーはキーボードを使用してスライサーと対話できます   |一般提供   |2018 年 10 月    |
 |**Q&A での柔軟な照合** - ユーザーが質問するときに単語のスペルを間違った場合の Q&A 結果が向上します   |一般提供   |2018 年 10 月    |
 |[式ベースの書式設定](power-bi-desktop/expression-based-formatting.md)   |一般提供   |2018 年 10 月    |
-|[メジャーをクリック可能な URL として表示](power-bi-desktop/show-measures-clickable-urls.md)   |一般提供   |2018 年 10 月    |
+|[メジャーをクリック可能な URL として表示する](power-bi-desktop/show-measures-clickable-urls.md)   |一般提供   |2018 年 10 月    |
 |[レポート レベルとビジュアル コンテナーのスタイルをカバーしたテーマ化](power-bi-desktop/theming-over-report-level-visual-container-styles.md)   |一般提供   |2018 年 10 月    |
 |[テーマ化の一般提供](power-bi-desktop/theming-general-availability.md)   |一般提供   |2018 年 10 月    |
 |**ユーザー補助: フィルター ウィンドウ** - ユーザーはフィルター ウィンドウを操作でき、キーボードとスクリーン リーダーを介して新しいフィルターを追加できます   |パブリック プレビュー   |2018 年 10 月    |
@@ -121,10 +123,7 @@ ms.lasthandoff: 07/18/2018
 |機能   |リリースの種類   |目標リリース月    |
 |----------|---------------|------------------------|
 |[テーマの適用と変更](power-bi-embedded/apply-change-themes.md)   |一般提供   |2018 年 10 月    |
-|[Power BI Embedded ソリューションの自動エンド ツー エンド展開](power-bi-embedded/automatic-end-end-deployment-pbi-embedded-solutions.md)   |一般提供   |2018 年 10 月    |
-|[運用環境への更新したダッシュボードまたはタイルの展開](power-bi-embedded/deploy-updated-dashboard-or-tile-production.md)   |一般提供   |2018 年 10 月    |
 |[開発者がトラブルシューティングを実行可能](power-bi-embedded/enable-developers-troubleshoot.md)   |一般提供   |2018 年 10 月    |
-|[最新の情報に更新 API の向上](power-bi-embedded/improved-refresh-apis.md)   |一般提供   |2018 年 10 月    |
 |[Azure 診断との統合](power-bi-embedded/integration-azure-diagnostics.md)   |一般提供   |2018 年 10 月    |
 |[Azure Service Health との統合](power-bi-embedded/integration-azure-service-health.md)   |一般提供   |2018 年 10 月    |
 |[新しい開発者ポータル](power-bi-embedded/new-developer-portal.md)   |一般提供   |2018 年 10 月    |
@@ -142,9 +141,9 @@ ms.lasthandoff: 07/18/2018
 
 |機能   |リリースの種類   |目標リリース月    |
 |----------|---------------|------------------------|
-|[Power BI レポートの新機能のサポート](power-bi-report-server/index.md)   |一般提供   |2018 年 11 月    |
-|[行レベル セキュリティ (RLS)](power-bi-report-server/index.md)   |一般提供   |2018 年 11 月    |
-|[Excel へのエクスポート](power-bi-report-server/index.md)   |一般提供   |2018 年 11 月    |
+|[Power BI レポートの新機能のサポート](power-bi-report-server/index.md)   |一般提供        |2018 年 11 月    |
+|[行レベル セキュリティ (RLS)](power-bi-report-server/index.md)   |一般提供         |2018 年 11 月    |
+|[Excel へのエクスポート](power-bi-report-server/index.md)   |一般提供         |2018 年 11 月    |
 
 ## <a name="azure-analysis-services"></a>Azure Analysis Services
 

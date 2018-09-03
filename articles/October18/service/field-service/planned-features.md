@@ -3,23 +3,25 @@ title: "2018 年 10 月の Dynamics 365 for Field Service の概要"
 description: "2018 年 10 月の Dynamics 365 for Field Service の概要"
 author: krbjoran
 manager: shellyhaverkamp
-ms.date: 7/22/2018
-ms.topic: article
+ms.date: 8/16/2018
+ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: shellyha
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 057868f9243ae2e2935077a38f0b332da57e2b98
+ms.sourcegitcommit: 435753626044dbdbf7fd0b23ca1af110807c8edc
+ms.openlocfilehash: d8a6d893eb7f97459aa99bae0b87a7c2a8a30f78
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 #  <a name="summary-of-whats-new-for-dynamics-365-for-field-service-october-18"></a>2018 年 10 月の Dynamics 365 for Field Service の新機能の概要 
 
-
+これらのリリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+    
+Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 ## <a name="overall-field-service"></a>Field Service 全体
 
@@ -68,7 +70,7 @@ ms.lasthandoff: 07/18/2018
 
 | 機能                                                                                                                 | リリースの種類  |目標リリース月 |
 |-------------------------------------------------------------------------------------------------------------------------|------------------------------------|----------------------|
-| [より多くの目標を有効にする](../field-service/resource-scheduling-optimization-rso/enable-more-objectives.md)             | 一般提供                  |2018 年 11 月          |
+| [より多くの目標の有効化](../field-service/resource-scheduling-optimization-rso/enable-more-objectives.md)             | 一般提供                  |2018 年 11 月          |
 | [単一リソース最適化](../field-service/resource-scheduling-optimization-rso/single-resource-optimization.md) | 一般提供                 |2018 年 11 月          |
 | [what-if 分析の統計](../field-service/resource-scheduling-optimization-rso/what-if-analysis-statistic-ui.md) | 一般提供                 |2018 年 11 月          |
 

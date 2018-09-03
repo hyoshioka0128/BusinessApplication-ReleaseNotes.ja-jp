@@ -3,29 +3,28 @@ title: "ビジネス インテリジェンス"
 description: "Power BI は、分析情報とデータの価値を最大限に引き出します。 Power BI ドキュメントでは、Power BI のさまざまな使用ニーズに対応した、専門的な情報や回答が提供されています。"
 author: HaydnR
 manager: ArunUlag
-ms.date: 7/22/2018
+ms.date: 8/16/2018
 ms.assetid: e45f6b5f-4ba0-45c8-9f11-63331de61a44
-ms.topic: article
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: haydnr
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 224ae069f89ca1ec9bdce1418eaf9a5c6a221b61
+ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
+ms.openlocfilehash: 297eed37c9baed883c0586722dc9b78580bdbbe6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/17/2018
 
 ---
 
 # <a name="overview-of-business-intelligence-october-18-release"></a>ビジネス インテリジェンス 2018 年 10 月リリースの概要
 
-[!include[banner](../../includes/banner.md)]
-
 ビジネス ユーザーにソリューションのメリットをすばやく提供できるようにするため、Power BI では、事前パッケージ済みのコンテンツを利用できるようになったほか、レポートやダッシュボードを簡単に開発して共有できるようになりました。これによりユーザーは、独自のニーズに効果的に対応することができます。 分析情報へのアクセスがこのように容易になることは、組織がデータドリブンのビジネス手法を徹底させるうえで重要な鍵となります。
 
-2018 年 10 月リリースでは、ビジネス インテリジェンスをエンタープライズ組織の全域に行き渡らせるためのイノベーションが複数導入されています。
+2018 年 10 月リリースでは、ビジネス インテリジェンスをエンタープライズ組織の全域に行き渡らせるためのイノベーションが複数導入されています。 (これらのリリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+
 
 ## <a name="power-bi-desktop"></a>Power BI Desktop
 
@@ -66,7 +65,7 @@ Power BI Mobile アプリを使用すると、あらゆるデバイスにデー�
 
 2018 年 10 月リリースでは、次の機能が追加されています。
 
--   Power BI ソリューションの開発に必要なリソースを備えたディベロッパー センター。
+-   Power BI ソリューションの開発に必要なリソースを開発者に提供するデベロッパー センター。
 -   Power BI Embedded ソリューションの自動エンド ツー エンド展開。
 -   Azure 診断および Azure Health との統合。
 

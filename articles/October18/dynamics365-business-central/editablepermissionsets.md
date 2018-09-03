@@ -11,16 +11,18 @@ ms.technology:
 ms.author: bnielse
 audience: developer, admin, end user, customizer, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: d076a2face7adf8d869e4d3734bf4fec61fffff2
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 0e3b1f56fa7a29f3717c4bc622f175f275f1fe21
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="permission-sets-are-editable"></a>アクセス許可セットを編集可能
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
+
 
 顧客には Business Central でユーザーが実行できる必要があることについての独自の定義が存在することがよくあり、これらの定義が定義済みのアクセス許可セットと一致していないことがあります。 これに対処するため、アクセス許可セットを編集可能にして、追加、削除、変更できるようにしました。
 
@@ -44,5 +46,5 @@ No regional restrictions. All Dynamics 365 Business Central supported markets.
 -->
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
-Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralfeedback) をご利用ください。
+Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralideas) をご利用ください。
 

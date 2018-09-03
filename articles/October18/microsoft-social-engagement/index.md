@@ -2,33 +2,32 @@
 title: "概要"
 description: "概要"
 keywords: 
-ms.date: 07/22/2018
+ms.date: 08/15/2018
 ms.service: business-applications
-ms.topic: article
+ms.topic: overview
 ms.assetid: a96b7287-28b7-4f9d-a4ae-5eae53226d47
 author: m-hartmann
 ms.author: mhart
 manager: AnnBe
 topic-status: Drafting
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 6ead7a2ba994360aea83b40c5e9cb9d5955d3b08
+ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9
+ms.openlocfilehash: 844c026502f52540e9eec1b9105305f4f13e2f85
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 #  <a name="overview-of-microsoft-social-engagement-october-18-release"></a>Microsoft Social Engagement 2018 年 10 月リリースの概要
 
-[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
 
-
-
-Microsoft Social Engagement では、Web (ソーシャル、検索、閲覧) の機能を強化することで、ビジネス成果の達成を促進できます。 Web から取得したインテリジェンスを、営業チームやカスタマー サービス エージェント、ブランド マーケティング担当者に提供するだけでなく、組織全域のユーザーが活用できるようにすることで、従業員が分析情報を収集し、顧客や見込顧客と適切なチャネルでやり取りしながら、信頼性のあるソーシャル プレゼンスを構築できるようになります。
+Microsoft Social Engagement では、Web (ソーシャル、検索、閲覧) の機能を強化することで、ビジネス成果の達成を促進できます。 Web から取得したインテリジェンスを、営業チームや顧客サービス エージェント、ブランド マーケティング担当者に提供するだけでなく、組織全域のユーザーが活用できるようにすることで、従業員が分析情報を収集し、顧客や見込顧客と適切なチャネルでやり取りしながら、信頼性のあるソーシャル プレゼンスを構築できるようになります。
 
 マーケターや PR チームには、ブランドの評判を測定および管理するためのツールを提供することが重要です。 またサービス エージェントには、問題をあらゆるチャネルで効果的に解決できるようにするための手段が必要です。 さらに営業チームに関しては、新規の潜在顧客を獲得し、関連するコンテンツを使用して潜在顧客とのエンゲージメントを促進できるようにすることが重要です。 
 
-2018 年 10 月リリースでは、これらのニーズにより強力に応えるための新機能が追加されています。 今回のリリースの主要テーマは次のとおりです。
+2018 年 10 月リリースでは、これらのニーズにより強力に応えるための新機能が追加されています。 (これらのリリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+
+今回のリリースの主要テーマは次のとおりです。
 
 - **クイック セットアップと即時の分析情報**: Social Engagement では、今回のリリースで初めて、新しく作成されたソリューションのユーザーに対するガイドが提供されます。 これによりユーザーは、ソリューションに簡単にアクセスして設定を行い、数分で使用を開始することができます。 またユーザーには、インテリジェントな分析情報を使用してすぐに価値を得ることができます。 さらに、プロビジョニングも高速で、ユーザーは新しいソリューションの使用をスムーズに開始できます。
 

@@ -12,15 +12,17 @@ ms.technology:
 ms.author: haydnr
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: dedbbdef280c5697c74c15adff46428402c6a9fa
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 49ef3af21be65a76b9a3ac9776b7d32715731011
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="power-bi-service"></a>Power BI サービス
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 2018 年 10 月リリースで提供される新機能は、主に 2 つの領域に分類できます。ビッグデータの処理とエンタープライズ BI です。
 
@@ -30,7 +32,7 @@ ms.lasthandoff: 07/18/2018
 
 -   **ビッグデータに対応したセルフサービスのデータ準備** – Microsoft では、ビッグデータからの分析情報取得を支援する新機能によって、Power BI でのセルフサービス データ準備を拡張しています。 ビジネス アナリストは、Power BI Desktop や Excel の数百万人ものユーザーが使い慣れている、Power Query のエクスペリエンスを使用して、データの取り込み、変換、統合を行い、Power BI でデータをエンリッチすることができます。サポートされるデータ ソース (オンプレミスおよびクラウドベース) は幅広く、継続的に拡大されています (Dynamics 365、Salesforce、Azure SQL Data Warehouse、Excel、SharePoint など)。 ユーザーは、データを既知のエンティティに直接マップしたり、既存のエンティティを変更して拡張したり、ユーザー定義エンティティを作成することができます。またそれらの作業はすべて、Power BI 内で行うことができます。
  
--   **Azure を使用した高度な AI と分析** - Microsoft では、Power BI と Azure Data Lake Storage との間でのデータ アクセスを統合することで、ロール間でのコラボレーションを強化しています。 ビジネス アナリストは、Power BI のセルフサービス機能を使用して、Azure Data Lake Storage に格納されたデータをシームレスに操作することができます。また、エンジニア データ、データ サイエンティスト、およびその他のユーザーは、補助となる Azure データ サービス (Azure Data Factory、Azure Databricks、Azure Machine Learning など) の高度な分析機能や AI を使用して、分析情報へのアクセスを拡張できます。 たとえば、データ エンジニアは、データの追加、エンリッチ、オーケストレーションを行うことができますし、データ サイエンティストは、機械学習モデルを作成することができます。またビジネス アナリストは、他のユーザーの成果物や、Azure Data Lake Storage のデータを利用しながら、Power BI のセルフサービス ツールを使用して、分析情報を幅広く構築し、共有することができます。
+-   **Azure を使用した高度な AI と分析** – Microsoft では、Power BI と Azure Data Lake Storage との間でのデータ アクセスを統合することで、ロール間でのコラボレーションを強化しています。 ビジネス アナリストは、Power BI のセルフサービス機能を使用して、Azure Data Lake Storage に格納されたデータをシームレスに操作することができます。また、エンジニア データ、データ サイエンティスト、およびその他のユーザーは、補助となる Azure データ サービス (Azure Data Factory、Azure Databricks、Azure Machine Learning など) の高度な分析機能や AI を使用して、分析情報へのアクセスを拡張できます。 たとえば、データ エンジニアは、データの追加、エンリッチ、オーケストレーションを行うことができますし、データ サイエンティストは、機械学習モデルを作成することができます。またビジネス アナリストは、他のユーザーの成果物や、Azure Data Lake Storage のデータを利用しながら、Power BI のセルフサービス ツールを使用して、分析情報を幅広く構築し、共有することができます。
 
 ### <a name="enterprise-bi"></a>エンタープライズ BI
 

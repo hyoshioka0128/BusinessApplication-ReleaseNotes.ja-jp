@@ -12,16 +12,17 @@ ms.technology:
 ms.author: mikebc
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 31954e79880f4b4f2d2737a74321b6334af88889
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 0eab65dd0deeb5648202e8f6c15b2c87ed34f3d6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="improved-grid-with-copy-and-paste"></a>コピーと貼り付けによるグリッドの機能向上
 
-[!include[banner](../../includes/banner.md)]
-[!include[banner](Includes/disclaimer.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
+
 
 向上したグリッドのスケーラビリティと行をコピーして貼り付ける機能を使用すると、Dynamics 365 Business Central でのリストの作業が効率化されます。
 
@@ -52,5 +53,5 @@ No regional restrictions. Available to all Dynamics 365 Business Central support
 -->
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
-Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralfeedback) をご利用ください。
+Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralideas) をご利用ください。
 

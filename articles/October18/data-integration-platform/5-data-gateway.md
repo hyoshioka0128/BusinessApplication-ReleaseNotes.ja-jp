@@ -1,29 +1,27 @@
 ---
 title: "オンプレミス データ ゲートウェイを使用したエンタープライズ レベルのハイブリッド接続"
 description: "オンプレミス データ ゲートウェイを使用したエンタープライズ レベルのハイブリッド接続"
-author: MargoC
+author: shellyhaverkamp
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/16/2018
 ms.assetid: 5b0c45ea-97e4-4e6f-8555-f2bc05ccb336
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: a7d7af2618f94a26de1f78a89b253af4d0c4225a
+ms.sourcegitcommit: a1561a448e7906d9509fc41293ac499a4722f458
+ms.openlocfilehash: 29480860b839d38f18ef16541c9f2c3a45c0dff3
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 #  <a name="enterprise-grade-hybrid-connectivity-using-the-on-premises-data-gateway"></a>オンプレミス データ ゲートウェイを使用したエンタープライズ レベルのハイブリッド接続
 
-[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 このリリースには、オンプレミス データ ゲートウェイを向上するための複数の更新が含まれます。
 
@@ -36,12 +34,7 @@ ms.lasthandoff: 07/18/2018
 ![オンプレミス データ ゲートウェイにおけるカスタム コネクタのサポート](media/custom-connectors-support-premises-data-gateway-1.jpg "オンプレミス データ ゲートウェイにおけるカスタム コネクタのサポート")
 
 ## <a name="gateway-multi-geo-support-for-power-bi-premium"></a>Power BI Premium のゲートウェイ マルチ地域サポート
-
-Power BI サービスでマルチ地域をサポートする作業の一環として、オンプレミス データ ゲートウェイは、構成手順の最中にユーザーがテナントのホーム リージョンとは異なるリージョンを選択するのを可能にします。 これにより、データ ソースの情報および資格情報は選択された地域にとどまり、組織固有の規制要件に準拠できます。
-
-またエクスペリエンスを更新して、ユーザーがそれらのリージョンでオンプレミス データ ゲートウェイを使用できるようにする必要があります。 この取り組みには、データ ソースの情報 (たとえば、認証情報) がワークスペースの属するリージョンから離れないように見届けることが含まれます (データの主権に準拠するため)。
-
-![オンプレミス データ ゲートウェイにおけるマルチ地域のサポート](media/gateway-multi-geo-support-pbi-premium-1.png "オンプレミス データ ゲートウェイにおけるマルチ地域のサポート")
+優先順位が変化するため、この機能のタイムフレームは決められていません。 調査が続けられている間、https://ideas.powerbi.com で提案に投票して優先順位付けにご協力ください。
 
 ## <a name="guarantee-high-availability-of-gateways-via-clustering"></a>クラスタリングを介したゲートウェイの高い利用可能性の保証
 2017 年 11 月にリリースされたオンプレミス データ ゲートウェイにおける高い利用可能性の機能は、パブリック プレビューから一般提供に移行されます。 この取り組みには、より良いエラー報告とユーザー エクスペリエンスの向上をはじめとするむ、複数のエクスペリエンスの向上が含まれます。

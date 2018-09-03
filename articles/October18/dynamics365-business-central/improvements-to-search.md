@@ -12,19 +12,19 @@ ms.technology:
 ms.author: mikebc
 audience: end user, developer, customizer, business analyst
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 85a3d084efe34419cdac7224df384f5e09d7de84
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: d2e0f1bde539db34076464b379511892b3005d4a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 
 #  <a name="improvements-to-search"></a>検索機能の向上
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-[!include[banner](Includes/disclaimer.md)]
+
 
 Dynamics 365 Business Central の使用方法が簡単になりました。 ユーザーが必要なものを見つけるときの生産性が向上し、多くの場合検索はユーザーが何かを探す方法です。 したがって、検索のスコープを広げ、検索が使用するロジックを改善し、結果が関連するかどうかを判断しやすくしました。
 
@@ -44,5 +44,5 @@ No regional restrictions. Available in all Dynamics 365 Business Central support
 -->
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
-Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralfeedback) をご利用ください。
+Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralideas) をご利用ください。
 
