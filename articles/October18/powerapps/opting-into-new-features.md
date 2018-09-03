@@ -3,7 +3,8 @@ title: "新機能のオプトイン"
 description: "アプリ メーカーは、使用する準備ができた新機能をオプトインできます"
 author: evchaki
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/14/2018
+ms.assetid: 0b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,18 +12,16 @@ ms.technology:
 ms.author: evchaki
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 7a16190d190f02dbfdef8b2413bb1ee8ac2986f9
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: d3a5f2802d9e1fba3fb4b5a2c11f5497cd68b8e7
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 08/16/2018
 
 ---
-# <a name="opting-into-new-features"></a><span data-ttu-id="ff604-103">新機能のオプトイン</span><span class="sxs-lookup"><span data-stu-id="ff604-103">Opting into new features</span></span>
-
-[!include[powerapps banner](../includes/powerapps.md)]
+# <a name="opting-in-to-new-features"></a><span data-ttu-id="0e7d6-103">新機能のオプトイン</span><span class="sxs-lookup"><span data-stu-id="0e7d6-103">Opting in to new features</span></span>
 
 
+[!include[banner](../../includes/banner.md)]
 
-
-<span data-ttu-id="ff604-104">アプリ メーカーは、使用する準備ができた新機能を現在のアプリにオプトインすることを選択できます。</span><span class="sxs-lookup"><span data-stu-id="ff604-104">App makers can choose to opt into new features in their current apps when they are ready.</span></span> <span data-ttu-id="ff604-105">新機能は、機能がすべてのアプリで自動的に有効化される前に限られた期間利用できます。</span><span class="sxs-lookup"><span data-stu-id="ff604-105">New features are available for a limited time before the features are auto-enabled in all apps.</span></span> <span data-ttu-id="ff604-106">これにより、アプリ メーカーは、グローバルに展開する前に既存のアプリで機能を試し、必要な変更を加えることができます。</span><span class="sxs-lookup"><span data-stu-id="ff604-106">This allows app makers to try out the features in existing apps and make any changes needed before they are rolled out globally.</span></span> <span data-ttu-id="ff604-107">新しく作成されたアプリでは、使用可能な新機能が利用されます。</span><span class="sxs-lookup"><span data-stu-id="ff604-107">New apps created will take advantage of any new feature available.</span></span>
+<span data-ttu-id="0e7d6-104">アプリ メーカーは、使用する準備ができた新機能を現在のアプリにオプトインすることを選択できます。</span><span class="sxs-lookup"><span data-stu-id="0e7d6-104">App makers can choose to opt into new features in their current apps when they are ready.</span></span> <span data-ttu-id="0e7d6-105">新機能は、機能がすべてのアプリで自動的に有効化される前に限られた期間利用できます。</span><span class="sxs-lookup"><span data-stu-id="0e7d6-105">New features are available for a limited time before the features are auto-enabled in all apps.</span></span> <span data-ttu-id="0e7d6-106">これにより、アプリ メーカーは、グローバルに展開する前に既存のアプリで機能を試し、必要な変更を加えることができます。</span><span class="sxs-lookup"><span data-stu-id="0e7d6-106">This allows app makers to try out the features in existing apps and make any changes needed before they are rolled out globally.</span></span> <span data-ttu-id="0e7d6-107">新しく作成されたアプリでは、使用可能な新機能が利用されます。</span><span class="sxs-lookup"><span data-stu-id="0e7d6-107">New apps created will take advantage of any new feature available.</span></span>
 

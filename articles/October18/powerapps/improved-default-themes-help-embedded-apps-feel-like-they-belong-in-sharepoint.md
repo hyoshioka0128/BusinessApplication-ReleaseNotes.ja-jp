@@ -3,7 +3,8 @@ title: "既定のテーマの改善により埋め込みアプリが SharePoint 
 description: "テーマを使うと、キャンバス アプリを SharePoint に組み込むとき、カスタマイズされたフォームでも Web パーツでも、外観が非常にマッチします。"
 author: emcoope-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 221c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,21 +12,19 @@ ms.technology:
 ms.author: emcoope
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 2f5829b0251b220d4ff1784341e108cd4f95f906
+ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
+ms.openlocfilehash: 019bd2d90e42509aef64898d01d3c5939d2e6538
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 08/16/2018
 
 ---
-# <a name="improved-default-themes-help-embedded-apps-look-like-they-belong-in-sharepoint"></a><span data-ttu-id="ffb9d-103">既定のテーマの改善により埋め込みアプリが SharePoint に属するように見える</span><span class="sxs-lookup"><span data-stu-id="ffb9d-103">Improved default themes help embedded apps look like they belong in SharePoint</span></span>
-
-[!include[powerapps banner](../includes/powerapps.md)]
+# <a name="improved-default-themes-help-embedded-apps-look-like-they-belong-in-sharepoint"></a><span data-ttu-id="373ed-103">既定のテーマの改善により埋め込みアプリが SharePoint に属するように見える</span><span class="sxs-lookup"><span data-stu-id="373ed-103">Improved default themes help embedded apps look like they belong in SharePoint</span></span>
 
 
+[!include[banner](../../includes/banner.md)]
 
+<span data-ttu-id="373ed-104">アプリ開発者は、キャンバス アプリとフォームに 8 つの Office テーマを適用できます。</span><span class="sxs-lookup"><span data-stu-id="373ed-104">App makers can apply any of eight Office themes to their canvas apps and forms.</span></span> <span data-ttu-id="373ed-105">これらの新しいテーマは、既定の SharePoint テーマと調和するので、SharePoint の埋め込みシナリオを向上させます。</span><span class="sxs-lookup"><span data-stu-id="373ed-105">These new themes improve SharePoint embedding scenarios by aligning with the default SharePoint themes.</span></span>
 
-<span data-ttu-id="ffb9d-104">アプリ開発者は、キャンバス アプリとフォームに 8 つの Office テーマを適用できます。</span><span class="sxs-lookup"><span data-stu-id="ffb9d-104">App makers can apply any of eight Office themes to their canvas apps and forms.</span></span> <span data-ttu-id="ffb9d-105">これらの新しいテーマは、既定の SharePoint テーマと調和するので、SharePoint の埋め込みシナリオを向上させます。</span><span class="sxs-lookup"><span data-stu-id="ffb9d-105">These new themes improve SharePoint embedding scenarios by aligning with the default SharePoint themes.</span></span>
-
-<span data-ttu-id="ffb9d-106">![テーマ色](media/ThemeColors.jpg  "テーマ色")</span><span class="sxs-lookup"><span data-stu-id="ffb9d-106">![Theme colors](media/ThemeColors.jpg  "Theme colors")</span></span>
+<span data-ttu-id="373ed-106">![テーマ色](media/ThemeColors.jpg  "テーマ色")</span><span class="sxs-lookup"><span data-stu-id="373ed-106">![Theme colors](media/ThemeColors.jpg  "Theme colors")</span></span>
 
 

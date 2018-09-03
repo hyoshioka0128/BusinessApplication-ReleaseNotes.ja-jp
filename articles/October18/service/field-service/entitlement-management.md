@@ -1,29 +1,29 @@
 ---
 title: "権利の管理"
 description: "Field Service は、関連するシナリオに対して Customer Service アプリケーションで有効化される現在の権利機能を拡張しました。"
-author: MargoC
+author: shellyhaverkamp
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/16/2018
 ms.assetid: 0733f83d-bc07-436b-8af3-1ee4340f611d
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: jacoh
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: e66ff6d39ada1affba0e71c26bd14f1c7509d56c
+ms.sourcegitcommit: 9d939e87e6e747b4cdcadb7acb5958736f547145
+ms.openlocfilehash: 6d2db42406bb27539fc7c57ccca51367a81fdb4f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 08/17/2018
 
 ---
-#  <a name="entitlement-management"></a><span data-ttu-id="e6962-103">権利の管理</span><span class="sxs-lookup"><span data-stu-id="e6962-103">Entitlement management</span></span>
+#  <a name="entitlement-management"></a><span data-ttu-id="65158-103">権利の管理</span><span class="sxs-lookup"><span data-stu-id="65158-103">Entitlement management</span></span>
 
 [!include[field-service banner](../../includes/field-service.md)]
 
+<span data-ttu-id="65158-104">このリリースの Field Service アプリケーションでは、権利を定義し、フィールド サービス シナリオの作業指示書と権利を関連付けることができます。</span><span class="sxs-lookup"><span data-stu-id="65158-104">With this release, the Field Service application includes the ability to define entitlements and associate them with work orders in field service scenarios.</span></span> <span data-ttu-id="65158-105">権利は、顧客に資格があるサービス条件をサービス エージェントが理解するのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="65158-105">Entitlements help service agents understand the service terms that customers are eligible for.</span></span>
 
+<span data-ttu-id="65158-106">この機能は、顧客に許可された権利と一致する適切なオンサイト サポートを顧客が受けていること、および交渉された条件に従って顧客への請求が行われていることを、サービス組織が確認するのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="65158-106">This capability helps service organizations ensure customers receive the appropriate on-site support that aligns with their allowed entitlements, and that customers are charged according to their negotiated terms.</span></span>
 
-
-<span data-ttu-id="e6962-104">Field Service は、関連するシナリオに対して Customer Service アプリケーションで有効化される現在の権利機能を拡張しました。</span><span class="sxs-lookup"><span data-stu-id="e6962-104">Field Service has extended the current entitlement functionality enabled in the Customer Service application for its relevant scenarios.</span></span> <span data-ttu-id="e6962-105">これにより、顧客が権利を与えられるサポートのレベルを、フィールド サービスのコンテキストで指定できます。</span><span class="sxs-lookup"><span data-stu-id="e6962-105">This allows for levels of support to which a customer is entitled to be specified in the field service context.</span></span> <span data-ttu-id="e6962-106">権利の例は、取引先企業、取引先担当者、製品、作業指示書、作業指示書パフォーマンス指標などです。</span><span class="sxs-lookup"><span data-stu-id="e6962-106">Example entitlements include accounts, contacts, products, work orders and work order performance metrics.</span></span>
 
