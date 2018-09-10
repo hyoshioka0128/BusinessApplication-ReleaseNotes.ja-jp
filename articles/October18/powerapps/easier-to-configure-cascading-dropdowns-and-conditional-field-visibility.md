@@ -2,20 +2,20 @@
 title: "カスケード ドロップダウンとフィールドの条件付き表示の構成がより簡単に"
 description: "SharePoint フォーム カスタマイザーは、カスケード ドロップダウンなど複雑なフォーム シナリオの完了、または条件に基づいたフィールドの表示や非表示に向いています。"
 author: emcoope-msft
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 2e1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: emcoope
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 3319b8ccb5f1f19de21bde75dfa3547b023241af
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: bd6ddd345132608582956064da33ef9eb1bc453b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="easier-to-configure-cascading-dropdowns-and-conditional-field-visibility"></a><span data-ttu-id="137fa-103">カスケード ドロップダウンとフィールドの条件付き表示の構成がより簡単に</span><span class="sxs-lookup"><span data-stu-id="137fa-103">Easier to configure cascading dropdowns and conditional field visibility</span></span>

@@ -2,20 +2,20 @@
 title: "統一インターフェイス フォームの最適化"
 description: "フォームやグリッドのデータ密度が改善されました"
 author: shilpas
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 6c1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: shilpas
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: b96450200f004e432ea3140b850171c576e7e51f
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: 37ab69180e0db2b378ea50ffac5b2458e6a9d534
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="unified-interface-form-optimizations"></a><span data-ttu-id="9d495-103">統一インターフェイス フォームの最適化</span><span class="sxs-lookup"><span data-stu-id="9d495-103">Unified Interface form optimizations</span></span>

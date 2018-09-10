@@ -2,20 +2,20 @@
 title: "アプリ用 Common Data Service のキャンバス アプリで多対一リレーションシップを簡単に操作"
 description: "手動で参加または検索する必要がありません。 PowerApps は多対一リレーションシップを自動で拡張するため、必要な情報はすぐそこにあります。"
 author: gregli-msft
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 421c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: gregli
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: e930566a1ea39365f2ba2ab649585879eb7b5cd8
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: 659e0c32c9f23801ecb6e98a53d60423135cfb5b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="easy-to-work-with-many-to-one-relationships-in-canvas-apps-for-common-data-service-for-apps"></a><span data-ttu-id="60ce7-104">アプリ用 Common Data Service のキャンバス アプリで多対一リレーションシップを簡単に操作</span><span class="sxs-lookup"><span data-stu-id="60ce7-104">Easy to work with many-to-one relationships in canvas apps for Common Data Service for Apps</span></span>

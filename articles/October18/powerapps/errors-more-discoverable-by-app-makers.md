@@ -2,20 +2,20 @@
 title: "アプリ メーカーが検出しやすくなったエラー"
 description: "アプリ開発者は、アプリ内のエラーをより簡単に追跡および修正できます"
 author: lanced
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 511c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: lanced
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 8055b2e954cfbe172f9d83a395485143361d5811
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: cc0b60a43769e00e68d6663fd28f8af0e66ef1b8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="errors-more-discoverable-by-app-makers"></a><span data-ttu-id="dbdc6-103">アプリ メーカーが検出しやすくなったエラー</span><span class="sxs-lookup"><span data-stu-id="dbdc6-103">Errors more discoverable by app makers</span></span>

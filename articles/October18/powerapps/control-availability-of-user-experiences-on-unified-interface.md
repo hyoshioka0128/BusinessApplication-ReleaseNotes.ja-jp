@@ -2,20 +2,20 @@
 title: "統一インターフェイスのユーザー エクスペリエンスの利用可能性の制御"
 description: "顧客は統一インターフェイスで新しいユーザー エクスペリエンスをオフにできます"
 author: shilpas
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 671c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: shilpas
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 17797d18635af9118ff8d714be5182fc19ebb3d5
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: e2ea2adcc655513359a18c40c89855875136b240
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="control-availability-of-user-experiences-on-unified-interface"></a><span data-ttu-id="6746b-103">統一インターフェイスのユーザー エクスペリエンスの利用可能性の制御</span><span class="sxs-lookup"><span data-stu-id="6746b-103">Control availability of user experiences on Unified Interface</span></span>

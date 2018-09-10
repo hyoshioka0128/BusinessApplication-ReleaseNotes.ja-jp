@@ -2,20 +2,20 @@
 title: "Power BI 内の PowerApps のより深い統合"
 description: "Power BI 向けの PowerApps ビジュアルが一般提供されます"
 author: chmoncay
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 161c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: chmoncay
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: c07dc3e3eedce6897c0368445531cf0eaef40f0d
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: 776f0aeb8c1d74113921d1849894e2189be66943
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="deeper-powerapps-integration-in-power-bi"></a><span data-ttu-id="3ed39-103">Power BI 内の PowerApps のより深い統合</span><span class="sxs-lookup"><span data-stu-id="3ed39-103">Deeper PowerApps integration in Power BI</span></span>

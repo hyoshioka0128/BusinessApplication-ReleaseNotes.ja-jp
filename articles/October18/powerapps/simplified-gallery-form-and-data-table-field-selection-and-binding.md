@@ -2,20 +2,20 @@
 title: "簡略化されたギャラリー、フォーム、およびデータ テーブル フィールドの選択とバインド"
 description: "ギャラリーとフォームで、データ ソースからフィールドが提示されるようになるほか、検索とフィルター処理も改善されます。"
 author: clwesene
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 321c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: clwesene
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 08f58861f0a11d4a274a16a5532f685b060e5b9a
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: dba3d842f669aaaa82c94e1205ef996374e12913
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="simplified-gallery-form-and-data-table-field-selection-and-binding"></a><span data-ttu-id="9e908-103">簡略化されたギャラリー、フォーム、およびデータ テーブル フィールドの選択とバインド</span><span class="sxs-lookup"><span data-stu-id="9e908-103">Simplified gallery, form, and data table field selection and binding</span></span>

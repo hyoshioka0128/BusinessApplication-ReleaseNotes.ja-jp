@@ -2,26 +2,26 @@
 title: "2018 年 10 月に Microsoft PowerApps に対して計画されている機能の概要"
 description: "Microsoft PowerApps の 2018 年 10 月リリースで利用可能になる主要な新機能の全一覧です。"
 author: evchaki
-manager: AnnBe
-ms.date: 8/16/2018
+manager: KVivek
+ms.date: 9/9/2018
 ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: evchaki
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 435753626044dbdbf7fd0b23ca1af110807c8edc
-ms.openlocfilehash: 7a4db23493ee877d9eaabc90b974375d51e5908b
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: 95591436947ef21768bd770f1b837d7f293250b2
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/17/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 
 # <a name="summary-of-whats-new-in-microsoft-powerapps"></a><span data-ttu-id="acaba-103">Microsoft PowerApps の新機能の概要</span><span class="sxs-lookup"><span data-stu-id="acaba-103">Summary of what's new in Microsoft PowerApps</span></span>
 
 <span data-ttu-id="acaba-104">これらのリリース ノートで説明されている機能は、まだリリースされていない場合があります。</span><span class="sxs-lookup"><span data-stu-id="acaba-104">These release notes describe functionality that may not have been released yet.</span></span> <span data-ttu-id="acaba-105">提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。</span><span class="sxs-lookup"><span data-stu-id="acaba-105">Delivery timelines and projected functionality may change or may not ship (see [Microsoft policy](https://go.microsoft.com/fwlink/p/?linkid=2007332)).</span></span>
-    
+
 <span data-ttu-id="acaba-106">Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="acaba-106">For a list of the regions where Dynamics 365 business applications are available, see the [International availability guide](https://aka.ms/dynamics_365_international_availability_deck).</span></span>
 
 ## <a name="capabilities-for-app-creators"></a><span data-ttu-id="acaba-107">アプリの作成者向けの機能</span><span class="sxs-lookup"><span data-stu-id="acaba-107">Capabilities for app creators</span></span>

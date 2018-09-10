@@ -2,20 +2,20 @@
 title: "PowerApps Web パーツを使用した SharePoint ページへのアプリケーションの埋め込み"
 description: "SharePoint 向けの PowerApps Web パーツが一般提供されます"
 author: chmoncay
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 1b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: chmoncay
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 67f77c89166c9ff23e3c4fe72cd2d9927c548bf0
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: ff5ff2e4c17f12be1391a4a4e9cac96dafeb066f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="embed-applications-on-sharepoint-pages-using-a-powerapps-web-part"></a><span data-ttu-id="db8ff-103">PowerApps Web パーツを使用した SharePoint ページへのアプリケーションの埋め込み</span><span class="sxs-lookup"><span data-stu-id="db8ff-103">Embed applications on SharePoint pages using a PowerApps web part</span></span>

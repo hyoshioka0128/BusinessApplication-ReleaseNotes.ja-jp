@@ -2,20 +2,20 @@
 title: "管理者向けのヘルプとサポートの強化"
 description: "管理者には、組織の問題を診断および解決するためのより多くのツールが提供されます"
 author: saumil-msft
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: a21c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: sashri
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: a51ee13dfb1976d83a3bd000a2f774b3006e5a5f
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: b399ef2e5984867e5a610bdcf23e2eb8ff89200c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="enhanced-help-and-support-for-admins"></a><span data-ttu-id="88581-103">管理者向けのヘルプとサポートの強化</span><span class="sxs-lookup"><span data-stu-id="88581-103">Enhanced help and support for admins</span></span>

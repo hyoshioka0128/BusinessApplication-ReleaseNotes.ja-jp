@@ -2,20 +2,20 @@
 title: "レスポンシブ レイアウトでのキャンバス アプリの作成"
 description: "上級の作成者は、レスポンシブなアプリを作成して、さまざまな環境に動的に調整できます。"
 author: gregli-msft
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 1f1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: gregli
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: d05b7f98dacf2b7de00e82ea53c5314b3c703826
+ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.openlocfilehash: 3c31db17f2fecfe0b96c281ef9579648c8a7dfc6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="create-canvas-apps-with-responsive-layout-public-preview"></a><span data-ttu-id="3ce4b-103">レスポンシブ レイアウトでのキャンバス アプリの作成 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="3ce4b-103">Create canvas apps with responsive layout (Public Preview)</span></span>
