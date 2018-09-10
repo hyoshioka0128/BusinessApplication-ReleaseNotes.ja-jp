@@ -3,7 +3,7 @@ title: "フロー ボタンの機能拡張"
 description: "フロー ボタンは、数値フィールドやチェック ボックスなど、豊富な入力セットを受け取ることができます。"
 author: stepsic-microsoft-com
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 9/3/2018
 ms.assetid: 537e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 

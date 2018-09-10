@@ -3,7 +3,7 @@ title: "SharePoint リマインダー"
 description: "Microsoft Flow は、SharePoint の日時列に関するアラートを設定するために使用できます。"
 author: Mhade
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 9/3/2018
 ms.assetid: 430627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -24,5 +24,4 @@ ms.lasthandoff: 07/18/2018
 [!include[banner](../../includes/banner.md)]
 
 リストやライブラリに日時列がある場合、ユーザーは選択された列の日付に基づいてアラートを送信するフローをすばやくプロビジョニングできます。 
-
 

@@ -5,7 +5,7 @@ author: stepsic-microsoft-com
 manager: KVivek
 ms.date: 8/10/2018
 ms.assetid: 009005b1-8b41-e811-a954-000d3a15a7d1
-ms.topic: article
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 

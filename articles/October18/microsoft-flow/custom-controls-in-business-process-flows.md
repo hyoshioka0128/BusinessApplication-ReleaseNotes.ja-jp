@@ -3,7 +3,7 @@ title: "業務プロセス フロー内のカスタム コントロール"
 description: "業務プロセス フローは、カスタム コントロールや業務ルールを含むあらゆるフォーム機能をサポートします。"
 author: KaranSr
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 9/4/2018
 ms.assetid: 357e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -29,4 +29,5 @@ ms.lasthandoff: 08/20/2018
 > ![カスタム コントロールの例](media/custom-controls_01.png "カスタム コントロールの例")
 
 この機能は、わかりやすくてイマーシブなプロセス ランタイム エクスペリエンスの可能性を高めます。
+
 

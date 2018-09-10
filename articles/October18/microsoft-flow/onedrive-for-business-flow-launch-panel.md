@@ -3,7 +3,7 @@ title: "OneDrive for Business のフロー起動パネル"
 description: "OneDrive for Business に、フローを実行するための埋め込みフロー エクスペリエンスが備わります"
 author: Mhade
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 9/3/2018
 ms.assetid: 23bd3e38-aa74-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 

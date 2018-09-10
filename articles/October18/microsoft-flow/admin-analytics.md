@@ -3,7 +3,7 @@ title: "管理分析"
 description: "ビジネス アプリケーション プラットフォーム管理センターに追加された環境全体およびテナント全体の分析。"
 author: KentWeareMSFT
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 9/3/2018
 ms.assetid: 557e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
