@@ -3,7 +3,7 @@ title: "Microsoft Teams がフローをボットとして使用"
 description: "チーム チャネルのユーザーは、チャネルにコマンドを入力してやり取りするだけで、テキストを使用してフローと対話できます。"
 author: Mhade
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 9/3/2018
 ms.assetid: 450627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mhade
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 8a89a9ef9d7a84980eeebc44f72692acacc7e744
-ms.openlocfilehash: 505d2145b3e0b7498ea5a27e28ff3c0ccfc39f3b
+ms.sourcegitcommit: e073a7b0cc0815d1e9f95358976342e54af6538a
+ms.openlocfilehash: eda4675e9ef09a7bfb0c04ade07ca71081ac8469
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/20/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 # <a name="microsoft-teams-uses-flow-as-a-bot"></a><span data-ttu-id="998ad-103">Microsoft Teams がフローをボットとして使用</span><span class="sxs-lookup"><span data-stu-id="998ad-103">Microsoft Teams uses Flow as a bot</span></span>

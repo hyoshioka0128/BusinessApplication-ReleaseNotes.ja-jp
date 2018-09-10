@@ -5,17 +5,17 @@ author: stepsic-microsoft-com
 manager: KVivek
 ms.date: 8/10/2018
 ms.assetid: 009005b1-8b41-e811-a954-000d3a15a7d1
-ms.topic: article
+ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: stepsic
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 8a89a9ef9d7a84980eeebc44f72692acacc7e744
-ms.openlocfilehash: b9b39df75fd9871992c109b59fdd27e4eac38068
+ms.sourcegitcommit: e073a7b0cc0815d1e9f95358976342e54af6538a
+ms.openlocfilehash: efa65ecb4d06d67759d31f6f08938429b7517543
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/20/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 
