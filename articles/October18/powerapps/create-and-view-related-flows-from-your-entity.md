@@ -2,15 +2,15 @@
 title: "エンティティからの関連フローの作成と表示"
 description: "エンティティから直接、関連フローを表示してフローを作成します"
 author: clwesene
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 621c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: clwesene
-audience: Admin
+audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
 ms.openlocfilehash: a55195d34d5c7b99346ce48cdbfb25a26551f44a

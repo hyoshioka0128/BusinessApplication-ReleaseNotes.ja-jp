@@ -2,15 +2,15 @@
 title: "モデル駆動型ビュー デザイナーの機能強化"
 description: "編集中のモデル駆動型ビューのライブ プレビュー"
 author: matthewbolanos
-manager: AnnBe
-ms.date: 8/14/2018
+manager: KVivek
+ms.date: 9/4/2018
 ms.assetid: 941c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: mabolan
-audience: Admin
+audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
 ms.openlocfilehash: 8414638a5fa2ae15c54519d8a09c4f4fd10e6365

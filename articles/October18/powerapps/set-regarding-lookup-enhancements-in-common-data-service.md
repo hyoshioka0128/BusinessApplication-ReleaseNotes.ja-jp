@@ -2,15 +2,15 @@
 title: "Dynamics 365 の関連設定検索の強化"
 description: "Dynamics 365 の関連検索設定の信頼性向上"
 author: srihas
-manager: AnnBe
-ms.date: 8/14/2018
+manager: KVivek
+ms.date: 9/4/2018
 ms.assetid: 881c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: srihas
-audience: Admin
+audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
 ms.openlocfilehash: d97407413689ea31e91e167b31ad2e076f14ea3a

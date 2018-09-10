@@ -2,14 +2,14 @@
 title: "2018 年 10 月に Microsoft PowerApps に対して計画されている機能の概要"
 description: "Microsoft PowerApps の 2018 年 10 月リリースで利用可能になる主要な新機能の全一覧です。"
 author: evchaki
-manager: AnnBe
-ms.date: 8/16/2018
+manager: KVivek
+ms.date: 9/9/2018
 ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: evchaki
-audience: Admin
+audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: 435753626044dbdbf7fd0b23ca1af110807c8edc
 ms.openlocfilehash: 7a4db23493ee877d9eaabc90b974375d51e5908b
@@ -21,7 +21,7 @@ ms.lasthandoff: 08/17/2018
 # <a name="summary-of-whats-new-in-microsoft-powerapps"></a>Microsoft PowerApps の新機能の概要
 
 これらのリリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
-    
+
 Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 ## <a name="capabilities-for-app-creators"></a>アプリの作成者向けの機能

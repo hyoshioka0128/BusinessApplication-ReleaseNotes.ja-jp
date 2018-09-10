@@ -2,15 +2,15 @@
 title: "アプリの速度の向上"
 description: "アプリのオーサリングと作成が時間の経過とともに速くなります"
 author: evchaki
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: f91b1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: evchaki
-audience: Admin
+audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
 ms.openlocfilehash: b1d686ce746b5712fa1a149b299cf173851f4ea7

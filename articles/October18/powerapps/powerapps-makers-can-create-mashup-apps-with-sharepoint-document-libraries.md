@@ -2,15 +2,15 @@
 title: "PowerApps メーカーが SharePoint ドキュメント ライブラリを使用してマッシュアップ アプリを作成できる"
 description: "アプリ メーカーは、アプリを SharePoint ドキュメント ライブラリに接続して、アプリ ユーザーがフォルダーの参照、ファイルの表示、モバイルまたは Web 上のメタデータの編集を行えるマッシュアップ アプリケーションを構築できます。"
 author: shpareek
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 261c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: shpareek
-audience: Admin
+audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
 ms.openlocfilehash: 6a1aba1d6eb3a748d37d7430744d30e1428ec8b4
