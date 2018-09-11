@@ -12,10 +12,10 @@ ms.technology:
 ms.author: HaydnR
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 03cbc2b866f1a6fcea276802b4f755c06fcc558a
+ms.sourcegitcommit: f442a29de1c55105f6bf302fc691ba344e7b8ce7
+ms.openlocfilehash: 74e2c93f0924d110d8896072853b074154ce8edd
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/11/2018
 
 ---
 # <a name="xmla-endpoint-for-third-party-client-connectivity-and-lifecycle-management-public-preview"></a><span data-ttu-id="ff35a-102">サードパーティ クライアント接続とライフサイクル管理のための XMLA エンドポイント (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="ff35a-102">XMLA endpoint for third-party client connectivity and lifecycle management (Public Preview)</span></span>
