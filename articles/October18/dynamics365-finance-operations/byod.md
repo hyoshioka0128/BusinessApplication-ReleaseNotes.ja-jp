@@ -1,4 +1,16 @@
-title: Azure Data Lake と Power BI データ プールを使用して自分のデータベースを持ち込む description: Azure Data Lake と Power BI データ プールを使用して自分のデータベースを持ち込みます manager: AnnBe ms.date: 07/22/2018 ms.topic: article ms.prod: ms.service: business-applications ms.technology: author: margoc ms.author: margoc audience: Admin
+---
+
+title: Azure Data Lake と Power BI データ プールを使用して自分のデータベースを持ち込む 
+description: Azure Data Lake と Power BI データ プールを使用して自分のデータベースを持ち込みます 
+manager: AnnBe 
+ms.date: 07/22/2018 
+ms.topic: article 
+ms.prod: 
+ms.service: business-applications 
+ms.technology: 
+author: margoc 
+ms.author: margoc 
+audience: Admin
 
 ---
 #  <a name="bring-your-own-database-using-azure-data-lake-and-power-bi-data-pools"></a>Azure Data Lake と Power BI データ プールを使用して自分のデータベースを持ち込む
