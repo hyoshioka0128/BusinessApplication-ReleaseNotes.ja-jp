@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../change-history
 title: "パーソナライズされたホーム エクスペリエンス"
 description: "ホーム ランディング ページ"
 author: MargoC

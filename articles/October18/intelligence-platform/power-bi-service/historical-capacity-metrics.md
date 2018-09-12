@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../change-history
 title: "キャパシティ指標の履歴"
 description: 
 author: adamw

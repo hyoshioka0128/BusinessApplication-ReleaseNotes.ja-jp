@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../change-history
 title: "ページ付けされたレポート"
 description: "ページ付けされたレポートは、Power BI のアプリとワークスペース内で最上位のアーティファクトになります 。"
 author: MargoC
