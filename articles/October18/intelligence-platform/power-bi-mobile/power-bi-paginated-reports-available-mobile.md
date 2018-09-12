@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../change-history
 title: "ページ付けされたレポート"
 description: "ページ付けされたレポートは、Power BI のアプリとワークスペース内で最上位のアーティファクトになります 。"
 author: MargoC
@@ -12,10 +13,10 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 7e182ca4a575ba8d49efb2c6592aa1d20b0e07dc
+ms.sourcegitcommit: ee2135a112502c42c22914b5a1ba877dcda2591e
+ms.openlocfilehash: 39dbadd5741973864b3da1de3375e4b661755eb9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/12/2018
 
 ---
 # <a name="paginated-reports-public-preview"></a><span data-ttu-id="36d38-103">ページ付けされたレポート (パブリック プレビュー) </span><span class="sxs-lookup"><span data-stu-id="36d38-103">Paginated reports (Public Preview)</span></span>

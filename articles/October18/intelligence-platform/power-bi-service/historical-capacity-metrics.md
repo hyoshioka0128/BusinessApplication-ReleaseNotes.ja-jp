@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../change-history
 title: "キャパシティ指標の履歴"
 description: 
 author: adamw
@@ -12,10 +13,10 @@ ms.technology:
 ms.author: HaydnR
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 6bc23cf8596b5c5c6d11974930567ca264ce57e4
+ms.sourcegitcommit: ee2135a112502c42c22914b5a1ba877dcda2591e
+ms.openlocfilehash: 501154e2b12a948e00d2482d768187979acb23e4
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/12/2018
 
 ---
 #  <a name="historical-capacity-metrics"></a><span data-ttu-id="b238e-102">キャパシティ指標の履歴</span><span class="sxs-lookup"><span data-stu-id="b238e-102">Historical capacity metrics</span></span>

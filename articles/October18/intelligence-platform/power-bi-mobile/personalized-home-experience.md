@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../change-history
 title: "パーソナライズされたホーム エクスペリエンス"
 description: "ホーム ランディング ページ"
 author: MargoC
@@ -12,10 +13,10 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 6b20868eea3ffe01308557e2b6c7516e1f91d4d2
+ms.sourcegitcommit: ee2135a112502c42c22914b5a1ba877dcda2591e
+ms.openlocfilehash: 84d96617ce1d213cc586aab989ad8d4b1bf1a9dc
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/12/2018
 
 ---
 # <a name="personalized-home-experience-public-preview"></a><span data-ttu-id="02959-103">パーソナライズされたホーム エクスペリエンス (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="02959-103">Personalized Home experience (Public Preview)</span></span>
