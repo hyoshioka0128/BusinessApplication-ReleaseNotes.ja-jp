@@ -1,21 +1,21 @@
 ---
 title: "新しい管理分析レポート"
 description: "新しい PowerApps、Microsoft Flow、およびアプリ用 Common Data Service の使用状況レポートをすべての管理者が利用できます"
-author: saumil-msft
+author: jamesol-msft
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 9/11/2018
 ms.assetid: a81c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: sashri
+ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
-ms.openlocfilehash: aabc043003ba255ba2339d10ddd73b07dd564bb3
+ms.sourcegitcommit: 6f57991a7dbe0b89fb0cb342aecd60d427944fae
+ms.openlocfilehash: 61d413618bdaa068b263b4963d5de7976f6e3852
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 09/13/2018
 
 ---
 # <a name="new-admin-analytics-reports"></a><span data-ttu-id="e23eb-103">新しい管理分析レポート</span><span class="sxs-lookup"><span data-stu-id="e23eb-103">New admin analytics reports</span></span>
