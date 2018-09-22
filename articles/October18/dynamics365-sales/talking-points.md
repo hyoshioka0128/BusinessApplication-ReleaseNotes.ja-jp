@@ -1,4 +1,6 @@
 ---
+redirect_url: ../change-history
+robots: noindex,nofollow
 title: "話題機能を使用して関係者に関する情報を取得する"
 description: "話題機能を使用して関係者に関する情報を取得する"
 keywords: 

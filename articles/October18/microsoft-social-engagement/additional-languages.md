@@ -2,8 +2,8 @@
 title: "追加言語"
 description: "追加言語"
 author: m-hartmann
-manager: AnnBe
-ms.date: 07/22/2018
+manager: shellyha
+ms.date: 09/24/2018
 ms.assetid: a24f3596-fda2-425f-836c-04982dcd7ebc
 ms.topic: article
 ms.prod: 

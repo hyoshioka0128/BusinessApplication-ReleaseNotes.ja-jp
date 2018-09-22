@@ -2,8 +2,8 @@
 title: "Dynamics 365 for Marketing のソーシャル インサイト"
 description: "今日のマーケティングでは、顧客エンゲージメントを緊密化するために、ソーシャル メディアからのシグナルを活用することが不可欠です。"
 author: m-hartmann
-manager: AnnBe
-ms.date: 07/22/2018
+manager: shellyha
+ms.date: 09/24/2018
 ms.assetid: 77f58950-eb60-4556-b62d-7cde63f11b7d
 ms.topic: article
 ms.prod: 

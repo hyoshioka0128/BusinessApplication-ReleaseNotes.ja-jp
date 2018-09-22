@@ -1,4 +1,6 @@
 ---
+redirect_url: ../change-history
+robots: noindex,nofollow
 title: "コール センターの AI を使用したインサイド セールスの変換"
 description: "コール センターの AI を使用したインサイド セールスの変換"
 keywords: 

@@ -1,4 +1,6 @@
 ---
+redirect_url: ../change-history
+robots: noindex,nofollow
 title: "つながり検索のつながりグラフを使用して見込顧客を紹介してもらえば、電話勧誘よりも好意的なエンゲージメントを構築できます"
 description: "つながり検索のつながりグラフを使用して見込顧客を紹介してもらえば、電話勧誘よりも好意的なエンゲージメントを構築できます"
 keywords: 
