@@ -1,4 +1,6 @@
 ---
+redirect_url: ../change-history
+robots: noindex,nofollow
 title: "コール センターの AI を使用したインサイド セールスの変換"
 description: "コール センターの AI を使用したインサイド セールスの変換"
 keywords: 
@@ -11,10 +13,10 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 66dbe72e21762bb880fa2ec16781951fd213e146
+ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
+ms.openlocfilehash: a03e77866b8c23196dba0b05b587069197a04ae1
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/22/2018
 
 ---
 

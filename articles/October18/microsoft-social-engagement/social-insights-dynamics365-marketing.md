@@ -2,8 +2,8 @@
 title: "Dynamics 365 for Marketing のソーシャル インサイト"
 description: "今日のマーケティングでは、顧客エンゲージメントを緊密化するために、ソーシャル メディアからのシグナルを活用することが不可欠です。"
 author: m-hartmann
-manager: AnnBe
-ms.date: 07/22/2018
+manager: shellyha
+ms.date: 09/24/2018
 ms.assetid: 77f58950-eb60-4556-b62d-7cde63f11b7d
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mhart
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 333c71bac97c40e9c383dd1cdbea9d41e6a15aa9
+ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
+ms.openlocfilehash: 3cf38a932e10dbc9889006d55ea7c43d87fde165
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/22/2018
 
 ---
 #  <a name="social-insights-in-dynamics-365-for-marketing"></a><span data-ttu-id="ae297-103">Dynamics 365 for Marketing のソーシャル インサイト</span><span class="sxs-lookup"><span data-stu-id="ae297-103">Social Insights in Dynamics 365 for Marketing</span></span>

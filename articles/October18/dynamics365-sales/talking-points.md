@@ -1,4 +1,6 @@
 ---
+redirect_url: ../change-history
+robots: noindex,nofollow
 title: "話題機能を使用して関係者に関する情報を取得する"
 description: "話題機能を使用して関係者に関する情報を取得する"
 keywords: 
@@ -11,10 +13,10 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 03846903b814db1cac497cbaf1eb56e884392eea
+ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
+ms.openlocfilehash: 741a23327ddc3dd774ecf20e0f57fe97049371ba
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/22/2018
 
 ---
 

@@ -2,8 +2,8 @@
 title: "追加言語"
 description: "追加言語"
 author: m-hartmann
-manager: AnnBe
-ms.date: 07/22/2018
+manager: shellyha
+ms.date: 09/24/2018
 ms.assetid: a24f3596-fda2-425f-836c-04982dcd7ebc
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mhart
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 3110bc00cc5b926c877c9be3158d92fa669a16cc
+ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
+ms.openlocfilehash: ed19b54c4126281e33e3da8f9fa8a650d5278fbb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/22/2018
 
 ---
 

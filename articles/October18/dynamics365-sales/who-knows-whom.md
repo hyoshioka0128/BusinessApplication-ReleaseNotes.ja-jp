@@ -1,4 +1,6 @@
 ---
+redirect_url: ../change-history
+robots: noindex,nofollow
 title: "つながり検索のつながりグラフを使用して見込顧客を紹介してもらえば、電話勧誘よりも好意的なエンゲージメントを構築できます"
 description: "つながり検索のつながりグラフを使用して見込顧客を紹介してもらえば、電話勧誘よりも好意的なエンゲージメントを構築できます"
 keywords: 
@@ -11,10 +13,10 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 488651e3ab5518cae9b71174a6b808a629a0755e
+ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
+ms.openlocfilehash: 8b680b6339451ac7bd532a5643b03786392d3a04
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/22/2018
 
 ---
 
