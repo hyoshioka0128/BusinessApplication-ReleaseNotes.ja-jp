@@ -1,7 +1,7 @@
 ---
 title: "カスタム ビジュアルのユーザー補助サポート"
 description: "カスタム ビジュアルは、ユーザー補助のためのハイ コントラスト モードとキーボード ナビゲーションをサポートします"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 3993e8d0-6319-4e90-b5f3-e031d9d8a6fe
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: cd1b95677cb214e27c46190787ce49cd35aaa9ea
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: e9562f5e5856d85d9a512cedac3144b36dca33e0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="accessibility-support-for-custom-visuals"></a><span data-ttu-id="e209f-103">カスタム ビジュアルのユーザー補助サポート</span><span class="sxs-lookup"><span data-stu-id="e209f-103">Accessibility support for custom visuals</span></span>

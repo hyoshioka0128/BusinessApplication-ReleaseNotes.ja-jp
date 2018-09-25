@@ -1,7 +1,7 @@
 ---
 title: "より多くの目標の有効化"
 description: "より多くの目標の有効化"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 6e03df3c-e442-447b-bbcc-7cde4325ef8e
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 081d5f068d395eee05b857879cc816204505acd3
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: c83445a86d7944e65664a708a2546dff5b1a468a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 

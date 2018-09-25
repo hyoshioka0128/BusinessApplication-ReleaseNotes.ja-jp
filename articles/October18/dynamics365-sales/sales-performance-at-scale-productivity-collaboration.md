@@ -7,14 +7,14 @@ ms.service:
 - business-applications
 ms.topic: overview
 ms.assetid: d79ed975-8409-4abb-ab22-f299dac29690
-author: MargoC
-ms.author: margoc
+author: Annbe
+ms.author: Annbe
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9
-ms.openlocfilehash: b1624908a924254fac9bd8b7bbe64c1864155456
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 7184ba7d0eaedce58d427657124bd05d8c402958
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 

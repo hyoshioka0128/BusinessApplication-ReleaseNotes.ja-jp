@@ -1,7 +1,7 @@
 ---
 title: "複数地域サポート"
 description: "Power BI Embedded のお客様は、Power BI ホーム テナントが存在する地域以外の地域を含む複数地域で容量を購入できます。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 6371166e-fb35-4e7d-b94a-68e61483a58f
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 34e63adce3cd5b6f1976c11832e987ecc5ea026a
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: c7770d0de5734a0c26e129249925ba60339a7db2
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="multi-region-support-for-power-bi-embedded-public-preview"></a><span data-ttu-id="fc39f-103">Power BI Embedded の複数地域サポート (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="fc39f-103">Multi-region support for Power BI Embedded (Public Preview)</span></span> 

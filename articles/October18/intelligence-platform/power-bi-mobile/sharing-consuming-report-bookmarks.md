@@ -1,7 +1,7 @@
 ---
 title: "共有フィルター (ブックマーク) があるレポートの使用"
 description: "分析情報を共有するには、分析情報が明らかになるような方法でフィルター処理されたレポート データを表示しなければならない場合があります。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 01eb4a2d-7583-4f5e-b16d-de864ab637f2
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 3f7d67c49c05669ad38198071038f9f7e8327916
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: ae62bafbee1f03d3a0a18fbc280c80135ac30df8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="consuming-reports-with-shared-filters-bookmarks"></a><span data-ttu-id="4ea7a-103">共有フィルター (ブックマーク) があるレポートの使用</span><span class="sxs-lookup"><span data-stu-id="4ea7a-103">Consuming reports with shared filters (bookmarks)</span></span>

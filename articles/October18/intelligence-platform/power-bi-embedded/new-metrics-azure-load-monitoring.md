@@ -1,7 +1,7 @@
 ---
 title: "Azure ワークロード監視用の新しいメトリック"
 description: "Power BI Embedded のリソース消費を監視し、構成可能なしきい値を超えたときにアクションをトリガーするために、4 つの新しいメトリックが追加されました。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 082d21ac-805e-4007-8810-f1838369569c
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 38c5ad6fa4ff1160d482cb5d62a7701990bff15a
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 2aa697aa3c550a3dab9d23dec13b1746f583f3a7
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="new-metrics-for-azure-workload-monitoring"></a><span data-ttu-id="48eaf-103">Azure ワークロード監視用の新しいメトリック</span><span class="sxs-lookup"><span data-stu-id="48eaf-103">New metrics for Azure workload monitoring</span></span>

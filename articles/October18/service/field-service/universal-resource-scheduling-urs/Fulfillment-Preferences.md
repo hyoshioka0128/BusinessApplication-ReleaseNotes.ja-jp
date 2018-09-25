@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 9875fcc829e3605ee9e4e9ee604c763ede628984
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 70328e3d3319a9c6260634c84d4060c1e18ec7f5
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 
@@ -33,7 +33,7 @@ ms.lasthandoff: 08/15/2018
     * <span data-ttu-id="22c9b-107">資産管理コンサルテーション</span><span class="sxs-lookup"><span data-stu-id="22c9b-107">Wealth management consultations</span></span>
     * <span data-ttu-id="22c9b-108">電話のスケジュール</span><span class="sxs-lookup"><span data-stu-id="22c9b-108">Scheduled phone calls</span></span>
 * <span data-ttu-id="22c9b-109">**時間グループ** - スケジュールに使用できる時間ウィンドウを示します (9 ～ 12 時、12 ～ 3 時、3 ～ 6 時など)。</span><span class="sxs-lookup"><span data-stu-id="22c9b-109">**Time groups** - Present windows of availability to schedulers such as 9 to 12, 12 to 3, and 3 to 6.</span></span>
-        <span data-ttu-id="22c9b-110">*エアコン修理* 医者の予約</span><span class="sxs-lookup"><span data-stu-id="22c9b-110">* Air conditioning repair * Doctor appointments</span></span>
+        <span data-ttu-id="22c9b-110">*エアコン修理* 医者の予約</span><span class="sxs-lookup"><span data-stu-id="22c9b-110">\* Air conditioning repair \* Doctor appointments</span></span>
 * <span data-ttu-id="22c9b-111">**特定の時間を表示しない** - ウィンドウにスケジュールする場合に関係のない余分なデータを非表示にします。</span><span class="sxs-lookup"><span data-stu-id="22c9b-111">**Hide specific time** - Hide extra data that is not relevant if scheduling to a window.</span></span>
 * <span data-ttu-id="22c9b-112">**上位の結果だけを表示する** - 時間グループまたは間隔に関して冗長と思われる結果を制限することで、スケジュール画面を整理します。</span><span class="sxs-lookup"><span data-stu-id="22c9b-112">**Display only the top results** - Declutter scheduling screen by limiting results you deem redundant per time group, or per interval.</span></span>
 

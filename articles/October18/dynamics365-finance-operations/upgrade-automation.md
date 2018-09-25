@@ -1,20 +1,20 @@
 ---
 title: "アップグレードの自動化"
 description: "アップグレードの自動化"
-author: margoc
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 72e84cbaa8bcaf06ebdc8ffa14c0cd5d271bfa35
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: a7d916bde506f16791ab0ee34802f24d522890f4
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="upgrade-automation"></a><span data-ttu-id="4ab06-103">アップグレードの自動化</span><span class="sxs-lookup"><span data-stu-id="4ab06-103">Upgrade automation</span></span>

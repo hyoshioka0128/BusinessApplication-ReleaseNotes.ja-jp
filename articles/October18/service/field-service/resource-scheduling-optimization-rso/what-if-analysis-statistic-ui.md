@@ -1,7 +1,7 @@
 ---
 title: "what-if 分析の統計"
 description: "what-if 分析の統計"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 9835b5a6-abbe-49cc-878f-c79d443e8639
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 8234d3419b5e2f8fbbe52e1b10f8728888f8f016
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 0ce6805d00eff06874269d27f04a14ea3f7f9ced
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="what-if-analysis-statistics"></a><span data-ttu-id="9d9d9-103">what-if 分析の統計</span><span class="sxs-lookup"><span data-stu-id="9d9d9-103">What-if analysis statistics</span></span>

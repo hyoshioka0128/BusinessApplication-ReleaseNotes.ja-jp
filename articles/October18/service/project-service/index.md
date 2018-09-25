@@ -1,7 +1,7 @@
 ---
 title: "Dynamics 365 for Project Service 2018 年 10 月リリースの概要"
 description: Dynamics 365 for Project Service
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 9ef57e7f-ff9c-492d-939a-8c632e43a0b6
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: eaf160b3c1c910f7857142fc446fce542b039ef8
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 4c3aa9da7c8228c94ff56afd7bb3fb98eb32e0d0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 

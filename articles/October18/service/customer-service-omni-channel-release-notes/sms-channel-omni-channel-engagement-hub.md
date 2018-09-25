@@ -1,7 +1,7 @@
 ---
 title: "オムニチャネルに対応したチャット チャネル"
 description: "オムニチャネルに対応したチャット チャネル"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 303fa52e-5884-40cd-acc2-72d0512b0e39
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: ae0a7c4797d2707917bba75fc5870d6f1682c415
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 454f9c3d9551ec1c0c9c94937e8964e5cfaca62c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 

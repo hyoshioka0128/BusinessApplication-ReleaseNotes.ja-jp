@@ -1,7 +1,7 @@
 ---
 title: "Dynamics 365 for Finance and Operations の統合"
 description: "Dynamics 365 for Finance and Operations 統合"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 2bb18b35-334f-4921-8120-d662b1d39960
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: c9c98c20f526a71ef55f7616ece583ff8045ead1
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 7a5aed89b3ca11ca1100616d1e0ae669a63f3871
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="integration-with-dynamics-365-for-finance-and-operations"></a><span data-ttu-id="97cd3-103">Dynamics 365 for Finance and Operations の統合</span><span class="sxs-lookup"><span data-stu-id="97cd3-103">Integration with Dynamics 365 for Finance and Operations</span></span>

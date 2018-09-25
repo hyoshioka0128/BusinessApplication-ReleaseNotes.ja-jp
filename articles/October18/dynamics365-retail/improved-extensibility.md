@@ -1,7 +1,7 @@
 ---
 title: "拡張性の向上"
 description: "拡張性の向上"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 999c9a76-4cc9-4409-a92b-cc232c2bc5ad
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: f5c9bf81273cabd1639882d95d385b3c36774b43
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 77a8b41de71cfa24fb11d2512debad0b631e8504
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="improved-extensibility"></a><span data-ttu-id="06395-103">拡張性の向上</span><span class="sxs-lookup"><span data-stu-id="06395-103">Improved extensibility</span></span> 

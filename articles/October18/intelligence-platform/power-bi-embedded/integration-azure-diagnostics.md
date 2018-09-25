@@ -1,7 +1,7 @@
 ---
 title: "Azure 診断との統合"
 description: "Azure 診断は、展開されたアプリケーション上の診断データの収集を可能にする Azure 内の機能です。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 1aa2c782-8d80-49b8-9399-c0e9cfd3eea6
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 6d7f18f2f9aec961febfac03084b1cd7b736daa4
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: f620d4c932974b98b0c7cdb1232890f4e659a870
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="power-bi-embedded-integration-with-azure-diagnostics"></a><span data-ttu-id="7a6bf-103">Power BI Embedded と Azure 診断の統合</span><span class="sxs-lookup"><span data-stu-id="7a6bf-103">Power BI Embedded integration with Azure Diagnostics</span></span> 

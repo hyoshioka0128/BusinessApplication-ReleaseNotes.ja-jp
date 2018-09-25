@@ -1,20 +1,20 @@
 ---
 title: "自動元帳決済"
 description: "自動元帳決済"
-author: margoc
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 9901921c01ea6df9e3c76d1de7de99314b43cc8e
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: b6f2bf88e2fc36b45a2e2236c54388892919a493
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="automatic-ledger-settlements"></a><span data-ttu-id="f953d-103">自動元帳決済</span><span class="sxs-lookup"><span data-stu-id="f953d-103">Automatic ledger settlements</span></span>

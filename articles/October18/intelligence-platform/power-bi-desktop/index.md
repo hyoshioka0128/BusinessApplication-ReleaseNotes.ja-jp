@@ -1,7 +1,7 @@
 ---
 title: Power BI Desktop
 description: "2018 年 10 月リリースの新機能を搭載した Power BI Desktop。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 518b50fd-a604-4b68-bc07-240d24089b9a
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 3f0e231359d0356f1d7793832ef4b38ff063d12f
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 94042754a0ea3d779428fae503c875867f07c59b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="power-bi-desktop"></a><span data-ttu-id="933ef-103">Power BI Desktop</span><span class="sxs-lookup"><span data-stu-id="933ef-103">Power BI Desktop</span></span>

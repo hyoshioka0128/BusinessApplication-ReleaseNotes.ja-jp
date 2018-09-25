@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: e523a6bbfc92d129f1c58869769e8054099b0fe4
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 07a3af6ecfc8644fdd32bfd8158f99964759ff04
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="relevance-search-for-knowledge-management"></a><span data-ttu-id="c0a15-103">ナレッジ マネージメントの関連性検索</span><span class="sxs-lookup"><span data-stu-id="c0a15-103">Relevance search for knowledge management</span></span> 

@@ -1,7 +1,7 @@
 ---
 title: "フォーマンスとスケーラビリティの向上"
 description: "フォーマンスとスケーラビリティの向上"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 125c2ffa-b769-4b39-aac6-1df6b88a822a
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: cd83f4530b3581576b21163ce59cbe76b0b6934a
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 3b3342c6ca70d26be54a17a37c303579d5e8dc89
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="enhanced-performance-and-scalability"></a><span data-ttu-id="c233b-103">フォーマンスとスケーラビリティの向上</span><span class="sxs-lookup"><span data-stu-id="c233b-103">Enhanced performance and scalability</span></span>

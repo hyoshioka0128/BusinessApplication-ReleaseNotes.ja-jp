@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 747ac7982b876d4648c877c2194015ff1b3b1912
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: ade7b220bd079f4de7e99b121b3f7749b2322b9d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="dashboard-level-commenting"></a><span data-ttu-id="4656d-103">ダッシュボード レベルのコメント</span><span class="sxs-lookup"><span data-stu-id="4656d-103">Dashboard-level commenting</span></span>

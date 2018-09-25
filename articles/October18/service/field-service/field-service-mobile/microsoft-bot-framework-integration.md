@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Bot Framework 統合"
 description: "Microsoft Bot Framework 統合"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: f98775be-f51b-4aaa-86ba-bf14dfaf54d4
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: ba4386dd37a8be6e1159d1f8ae3f37393f829175
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 0b8e452a7fbe1e1f21d6ce27b6d7fa8631d84da8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="microsoft-bot-framework-integration"></a><span data-ttu-id="4dcdc-103">Microsoft Bot Framework 統合</span><span class="sxs-lookup"><span data-stu-id="4dcdc-103">Microsoft Bot Framework integration</span></span>

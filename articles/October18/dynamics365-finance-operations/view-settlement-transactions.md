@@ -1,20 +1,20 @@
 ---
 title: "決済トランザクションを表示する際の生産性"
 description: "決済トランザクションを表示する際の生産性"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: c2934ec25d87333467cd942f161661610602e5c4
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: adb44ce7682992852e49abd853d788f6a6d9b98c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="productivity-to-view-settlement-transactions"></a><span data-ttu-id="2ce66-103">決済トランザクションを表示する際の生産性</span><span class="sxs-lookup"><span data-stu-id="2ce66-103">Productivity to view settlement transactions</span></span>

@@ -1,7 +1,7 @@
 ---
 title: "新しい開発者ポータル"
 description: "Power BI 開発者用の新しい開発者ポータルには、開発者が Power BI Embedded の操作、Power BI ソリューションのプロセスの自動化、およびカスタム ビジュアルの作成を行うために必要なすべてのリソースが含まれます。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.assetid: dac523e2-7ed0-45bc-b093-c3c73ce4cce6
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: e0454619f38241cdf5158214dfa30324012081e5
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: db63d461c49feb9e98ee0bf03aab250c271d6f63
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="new-developer-portal"></a><span data-ttu-id="f03f3-103">新しい開発者ポータル</span><span class="sxs-lookup"><span data-stu-id="f03f3-103">New developer portal</span></span>

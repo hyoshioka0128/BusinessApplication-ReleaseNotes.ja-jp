@@ -1,20 +1,20 @@
 ---
 title: "Dynamics 365 for Field Service との統合 - 在庫とプロジェクト"
 description: "Dynamics 365 for Field Service との統合 - 在庫とプロジェクト"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin, developer, end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 18cabd0b981b829a6f84783894f29722aef1c2bd
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 3f6dc2e145bc06a060ac8b79d7401375b21908ef
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="integration-with-dynamics-365-for-field-service--inventory-and-projects"></a><span data-ttu-id="1cc02-103">Dynamics 365 for Field Service との統合 - 在庫とプロジェクト</span><span class="sxs-lookup"><span data-stu-id="1cc02-103">Integration with Dynamics 365 for Field Service – inventory and projects</span></span>

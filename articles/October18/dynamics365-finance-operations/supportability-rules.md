@@ -1,20 +1,20 @@
 ---
 title: "サポート可能性のルール"
 description: "サポート可能性のルール"
-author: margoc
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin, end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: e33740c6042378ad4976142905582c6699f0cc9a
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: c7c4dbc19b9d9e37e150701cc5a6e7b518f771f9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="supportability-rules"></a><span data-ttu-id="2b462-103">サポート可能性のルール</span><span class="sxs-lookup"><span data-stu-id="2b462-103">Supportability rules</span></span>

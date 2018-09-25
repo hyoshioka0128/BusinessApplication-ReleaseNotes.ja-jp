@@ -1,7 +1,7 @@
 ---
 title: "バックグラウンドでの位置情報の共有"
 description: "バックグラウンドでの位置情報の共有"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 6bb0ba1e-1805-4cf8-bd49-7fc45cffbefd
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 982f664c02545543c12b918b5fc5e9efbf0949f7
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 5c40ff13a6805ebaeaca6fc7fabdc664bbfdee9f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 

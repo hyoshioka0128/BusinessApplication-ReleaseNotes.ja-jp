@@ -1,7 +1,7 @@
 ---
 title: "ビジュアル構成"
 description: "ビジュアルは、アプリケーションの一部として統合される構成要素です。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 3167cae1-71d0-4d35-861a-ef471c4b5a71
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: bd2a89297bc0451a382ea798b4284551406e6cad
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: c7a13b0dbcec27aac796df21a3b8000663fc6b50
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="visual-configuration-for-power-bi-embedded"></a><span data-ttu-id="56e85-103">Power BI Embedded のビジュアル構成</span><span class="sxs-lookup"><span data-stu-id="56e85-103">Visual configuration for Power BI Embedded</span></span>

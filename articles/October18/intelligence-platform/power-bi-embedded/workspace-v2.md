@@ -1,7 +1,7 @@
 ---
 title: "アップグレードされたワークスペース"
 description: "Office 365 グループからデタッチし、セキュリティ グループ経由で共有することにより、ワークスペースの機能制限が解消されます。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 24295a19-f80d-4cd6-815d-7970ac9d7786
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 282bc6de73418a541793db59a16b7d6bdadb030e
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 7327c2d110446eb4f8cbd211189e8f1536711b3a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="upgraded-workspaces-public-preview"></a><span data-ttu-id="6e8b9-103">アップグレードされたワークスペース (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="6e8b9-103">Upgraded workspaces (Public Preview)</span></span>

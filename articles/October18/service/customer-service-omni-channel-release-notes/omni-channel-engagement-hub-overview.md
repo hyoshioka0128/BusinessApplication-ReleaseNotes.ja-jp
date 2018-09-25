@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Dynamics 365 の Omni-channel Engagement Hub 概要"
 description: "Microsoft Dynamics 365 の Omni-channel Engagement Hub 概要"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 06a6b5f4-e683-4e11-bf23-0749d0718b9d
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 2b06d7389865bf33fef2b57f43e25973c12d4b94
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: cbf183a91928ab52f99c6eedf230fc73bfd629e2
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="overview-of-omni-channel-engagement-hub-october-18-release"></a><span data-ttu-id="f950a-103">Omni-channel Engagement Hub 2018 年 10 月リリースの概要</span><span class="sxs-lookup"><span data-stu-id="f950a-103">Overview of Omni-channel Engagement Hub October '18 release</span></span> 

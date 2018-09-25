@@ -1,20 +1,20 @@
 ---
 title: "PowerBI.com での外部データのマッシュアップによる分析ワークスペースの拡張"
 description: "PowerBI.com での外部データのマッシュアップによる分析ワークスペースの拡張"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: end-user, developer
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: f45601128e9e8fb635615e1608c44425bffb99d9
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 19b3ca5e59fccbb5875d998076ab8617147b1b67
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="extend-analytical-workspaces-by-mashing-up-external-data-with-powerbicom"></a><span data-ttu-id="e8db0-103">PowerBI.com での外部データのマッシュアップによる分析ワークスペースの拡張</span><span class="sxs-lookup"><span data-stu-id="e8db0-103">Extend analytical workspaces by mashing up external data with PowerBI.com</span></span>

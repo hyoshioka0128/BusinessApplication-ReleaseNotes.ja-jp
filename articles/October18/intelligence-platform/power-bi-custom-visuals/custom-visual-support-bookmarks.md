@@ -1,7 +1,7 @@
 ---
 title: "ブックマークのカスタム ビジュアル サポート"
 description: "ブックマークのカスタム ビジュアル サポート"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: e9bf961f-1b67-471f-8256-c883be602335
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 148bd8445d1912fc7671281b54cb85895e422d81
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 04c7f6d348d552cf6a12386b512507f12191919d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="custom-visual-support-for-bookmarks"></a><span data-ttu-id="f7e52-103">ブックマークのカスタム ビジュアル サポート</span><span class="sxs-lookup"><span data-stu-id="f7e52-103">Custom visual support for bookmarks</span></span>

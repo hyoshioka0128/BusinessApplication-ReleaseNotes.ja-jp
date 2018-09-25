@@ -1,7 +1,7 @@
 ---
 title: "SLA 管理"
 description: "SLA 管理"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 156a44d7-22b9-42cd-9e0b-6b3cee0d1c1a
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 89f1571cbcc8cc237fadfea63934799cd5b644c5
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 652db53f164f55ed4262dd77eb321df499a90911
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="sla-management"></a><span data-ttu-id="2df39-103">SLA 管理</span><span class="sxs-lookup"><span data-stu-id="2df39-103">SLA Management</span></span>

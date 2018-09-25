@@ -1,7 +1,7 @@
 ---
 title: "Azure AD グループを使用したワークスペース"
 description: "Power BI ワークスペースでは、Office 365 グループとは分離された、独自のロールとアクセス許可が使用されます。これにより、ワークスペースの管理を制御できるようになっています。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 06/01/2018
 ms.assetid: 46cbb5ab-5f5e-49e9-b3b2-7b3950993df4
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 2956ce0a48d200283e493b6026be40adaab2bffe
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: ec07cae2109f72b2487c4641e9bca70f2ba6b76f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="workspaces-with-azure-ad-groups-public-preview"></a><span data-ttu-id="13e2c-103">Azure AD グループを使用したワークスペース (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="13e2c-103">Workspaces with Azure AD groups (Public Preview)</span></span>

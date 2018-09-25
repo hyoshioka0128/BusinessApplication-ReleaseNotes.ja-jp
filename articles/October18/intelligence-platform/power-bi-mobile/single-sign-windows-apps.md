@@ -1,7 +1,7 @@
 ---
 title: "Windows デバイスに対するシングル サインオン"
 description: "Windows デバイスで作業するユーザーは、デバイスへのログオン時に資格情報の入力を求められます。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: ba07928d-5b1a-4a26-80c5-23923de9ac46
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 101fef6d5c7ff67652d15c7111be28a39edbd6e0
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 6d960888a044a99d1a52f7abc53c357d0201b7a0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="single-sign-on-for-windows-devices"></a><span data-ttu-id="ed449-103">Windows デバイスに対するシングル サインオン</span><span class="sxs-lookup"><span data-stu-id="ed449-103">Single sign-on for Windows devices</span></span> 

@@ -1,20 +1,20 @@
 ---
 title: "手持在庫レポートのパフォーマンス"
 description: "手持在庫レポートのパフォーマンス"
-author: margoc
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: f61a0c4ad41344d5d461e09f8704986873b85c8a
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: fe51291bad2fc435d3fdc0a5b5f2d4fde546208e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="on-hand-inventory-report-performance"></a><span data-ttu-id="56499-103">手持在庫レポートのパフォーマンス</span><span class="sxs-lookup"><span data-stu-id="56499-103">On-hand inventory report performance</span></span>

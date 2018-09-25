@@ -1,7 +1,7 @@
 ---
 title: "マーケットプレースで認定されたカスタム ビジュアル"
 description: "マーケットプレースでのカスタム ビジュアルの開発者は、拡張されたセキュリティと品質のための追加証明プロセスを経て、Power BI チームから証明を取得できます。これにより、ビジュアルは PowerPoint および電子メール サブスクリプションへのエクスポートでサポートされるようになります。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: f1946113-70d6-4318-9b1a-29a02956dab9
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 2d065085c4aea2a7fe2f98bd89bce991287e3226
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 9ea29a067b3a97f767cc635919c23045071d7bfc
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="certified-custom-visuals-in-the-marketplace"></a><span data-ttu-id="1b612-103">マーケットプレースで認定されたカスタム ビジュアル</span><span class="sxs-lookup"><span data-stu-id="1b612-103">Certified custom visuals in the marketplace</span></span>

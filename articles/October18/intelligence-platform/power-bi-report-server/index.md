@@ -1,7 +1,7 @@
 ---
 title: Power BI Report Server
 description: "Power BI Report Server を使用すると、お客様は最新の Power BI レポートのメリットを享受しながら、政府機関や展開に関する固有の要件に準拠することができます。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 6e9f7001-f308-46e6-9996-1162d7a723dd
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: efc7a0d3cbfe55765f82a97ba1519becbe6e4cb6
-ms.openlocfilehash: 03532f98b31a51020700e8b58bfe9840e857dcf6
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 0314ce407d04573dcdb4c9b65c280b47160549fe
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="power-bi-report-server"></a><span data-ttu-id="51d1e-103">Power BI Report Server</span><span class="sxs-lookup"><span data-stu-id="51d1e-103">Power BI Report Server</span></span>

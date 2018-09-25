@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: eb3a0f46033cda0a613adca9026580c2546735c5
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 1f09ad3bf7b4d0ba1b27b8fa97959b73b173a64b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="customer-service-health-in-one-admin-center"></a><span data-ttu-id="113bd-103">One Admin Center での顧客サービスの正常性</span><span class="sxs-lookup"><span data-stu-id="113bd-103">Customer Service Health in One Admin Center</span></span>    

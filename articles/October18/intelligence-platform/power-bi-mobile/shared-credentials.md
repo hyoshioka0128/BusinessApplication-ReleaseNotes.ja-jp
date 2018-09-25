@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 592de5d72d757498c2f1d81fb1c131df2e217ae5
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: d5235c283c52ebb804c4582497d84ef75e3312d1
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="mobile-shared-credentials-ios-and-android"></a><span data-ttu-id="150fb-103">モバイルでの資格情報の共有 (iOS および Android) </span><span class="sxs-lookup"><span data-stu-id="150fb-103">Mobile shared credentials (iOS and Android)</span></span>

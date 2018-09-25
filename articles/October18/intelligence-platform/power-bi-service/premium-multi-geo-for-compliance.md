@@ -1,7 +1,7 @@
 ---
 title: "Premium コンプライアンス対応マルチ地域 (プレビュー)"
 description: 
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.assetid: c940dc31-464e-44ee-a322-061493b21b64
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: d1250bfae4a591680e3604140e88e1b98b287d30
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 0707ef30da7f8c75e6c9179ca9e36a20841737f1
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="multi-geo-for-compliance-public-preview"></a><span data-ttu-id="cb187-102">コンプライアンス対応マルチ地域 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="cb187-102">Multi-Geo for Compliance (Public Preview)</span></span>

@@ -1,20 +1,20 @@
 ---
 title: "二重通貨"
 description: "二重通貨"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 700a8a2c7f8e0951cc799b7a4aa7703de346d91e
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 348510b1dddd8228b6dd579a79fbeee5d65bf16c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="dual-currency"></a><span data-ttu-id="b6eeb-103">二重通貨</span><span class="sxs-lookup"><span data-stu-id="b6eeb-103">Dual currency</span></span>

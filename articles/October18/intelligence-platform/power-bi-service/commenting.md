@@ -1,7 +1,7 @@
 ---
 title: "コメント"
 description: "コンテキストを提供し、質問を行うための、レポートおよびダッシュボードでのコメント。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 1508b82e-6be4-47f9-a827-3659f79aa7a1
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 4a72e7ddd63f7bf926e3788a5d5cc3ce7264db44
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: ab027c8cbf3b34593faa20d577ff455ba04bd59f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 # <a name="commenting"></a><span data-ttu-id="da7d1-103">コメント</span><span class="sxs-lookup"><span data-stu-id="da7d1-103">Commenting</span></span>

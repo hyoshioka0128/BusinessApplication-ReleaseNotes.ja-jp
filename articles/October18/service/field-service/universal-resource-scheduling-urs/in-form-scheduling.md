@@ -1,7 +1,7 @@
 ---
 title: "フォーム内スケジューリング"
 description: "現在、柔軟性の高い UI を使用した予約の検索と作成に関連する魅力的な機能があります。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 295e0182-8a25-4eff-885f-753e752c0481
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 6b5f77e37929cf1603df8f905b962bcb9ed59863
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: ce98c4c5c441fe1153b3a36fbf6d3407939e5675
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 

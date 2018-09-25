@@ -1,7 +1,7 @@
 ---
 title: "データ統合の強化された管理者機能"
 description: "データ統合の強化された管理者機能"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: c3affd82-9c58-4cbd-bcdb-49b594752397
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: b84ada8884b93f4cbc4a931890a47992e4acd074
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: c30119627b3e41d5dd396926614662ec795b5e78
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="enhanced-administrator-capabilities-for-data-integration"></a><span data-ttu-id="149f3-103">データ統合の強化された管理者機能</span><span class="sxs-lookup"><span data-stu-id="149f3-103">Enhanced administrator capabilities for Data Integration</span></span>

@@ -1,7 +1,7 @@
 ---
 title: "分散型注文管理"
 description: "分散型注文管理"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 4da4d2a7-0f56-4565-bce3-3938d2af3d0c
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 93232bdaa449486fb1acb94d0f251ebb26d1e107
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: c7d6b7044538f8569129e6f39bf4ff749ee21c72
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="distributed-order-management"></a><span data-ttu-id="d11f9-103">分散型注文管理</span><span class="sxs-lookup"><span data-stu-id="d11f9-103">Distributed order management</span></span>

@@ -1,7 +1,7 @@
 ---
 title: "アプリケーションがスライサーをプログラムで使用可能"
 description: "スライサー API を使用すると、アプリケーションはセッション全体でユーザーが操作するスライサーを制御できます。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 21ca0fd2-7676-4c50-af47-f6b7cbc7fe8a
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 08cd043e2f07ded97401ba7d29967de52fbc5b2f
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: f1a07b0c712e65870086749c584cfe5c97d12dbc
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="enable-an-application-to-programmatically-use-slicers"></a><span data-ttu-id="de810-103">アプリケーションがスライサーをプログラムで使用可能</span><span class="sxs-lookup"><span data-stu-id="de810-103">Enable an application to programmatically use slicers</span></span>

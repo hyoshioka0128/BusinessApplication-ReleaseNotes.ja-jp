@@ -1,7 +1,7 @@
 ---
 title: "CFS - IoT Central との統合"
 description: "統合の最初のフェーズでは、統合ソリューションの焦点は Flow によるものです。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: ce0f2e97-8ded-4530-9c50-fc82ce4a6171
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: a93e3c09095e6033a960b8fccfcb04f2f3e1f470
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: ef5b92a8512bcadda31c515aab20c81d26fcac6d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="cfs---integration-with-iot-central"></a><span data-ttu-id="ce827-103">CFS - IoT Central との統合</span><span class="sxs-lookup"><span data-stu-id="ce827-103">CFS - Integration with IoT Central</span></span>

@@ -1,7 +1,7 @@
 ---
 title: "Azure SQL Database に対するシングル サインオン"
 description: "Azure SQL Database に対するシングル サインオン"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: defe56c9-38a5-48c6-ba86-e1c6371bfb75
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: c8d95cb4e81d995c1d99a28ea0516194cfa184c2
+ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.openlocfilehash: 36e6a56293de8aa7e11ba18e1114ca55830368df
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/25/2018
 
 ---
 #  <a name="power-bi-embedded-single-sign-on-for-azure-sql-database"></a><span data-ttu-id="e4045-103">Azure SQL Database に対する Power BI Embedded のシングル サインオン</span><span class="sxs-lookup"><span data-stu-id="e4045-103">Power BI Embedded single sign-on for Azure SQL Database</span></span>
