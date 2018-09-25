@@ -1,7 +1,7 @@
 ---
 title: "Retail クラウド スケール ユニット"
 description: "Retail クラウド スケール ユニット"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 18b230e4-931f-4843-b1d6-81ffa7aefecb
@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce

@@ -1,7 +1,7 @@
 ---
 title: "サービス関連の最新機能の概要 "
 description: "サービス関連の新機能やエンゲージメントの概要について説明します"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 8/15/2018
 ms.assetid: 557af355-3198-4b9d-b0e2-49b9533df482
@@ -9,7 +9,7 @@ ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9

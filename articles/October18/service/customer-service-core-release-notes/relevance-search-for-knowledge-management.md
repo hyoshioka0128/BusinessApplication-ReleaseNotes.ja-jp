@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602

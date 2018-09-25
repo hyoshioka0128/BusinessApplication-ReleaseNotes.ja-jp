@@ -1,7 +1,7 @@
 ---
 title: "Windows デバイスに対するシングル サインオン"
 description: "Windows デバイスで作業するユーザーは、デバイスへのログオン時に資格情報の入力を求められます。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: ba07928d-5b1a-4a26-80c5-23923de9ac46
@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce

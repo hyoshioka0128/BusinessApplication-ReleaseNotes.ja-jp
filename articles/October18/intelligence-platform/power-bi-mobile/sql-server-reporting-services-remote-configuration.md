@@ -1,7 +1,7 @@
 ---
 title: "Report Server のリモート構成"
 description: "管理者は、Power BI Report Server の構成を Enterprise Mobility Management (EMM) 組織ツールで定義できるようになります。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: f7b6accc-ebea-4479-94fb-bbd5d7f57d3b
@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce

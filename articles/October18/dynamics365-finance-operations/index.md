@@ -1,14 +1,14 @@
 ---
 title: "Microsoft Dynamics 365 for Finance and Operations 2018 年 10 月リリースの概要"
 description: "Microsoft Dynamics 365 for Finance and Operations 2018 年 10 月リリースの概要"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 08/16/2018
 ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin, end-user, developer
 ms.translationtype: HT
 ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be

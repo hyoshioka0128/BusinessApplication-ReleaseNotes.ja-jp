@@ -7,8 +7,8 @@ ms.service:
 - business-applications
 ms.topic: overview
 ms.assetid: d79ed975-8409-4abb-ab22-f299dac29690
-author: MargoC
-ms.author: margoc
+author: Annbe
+ms.author: Annbe
 manager: AnnBe
 ms.translationtype: HT
 ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9

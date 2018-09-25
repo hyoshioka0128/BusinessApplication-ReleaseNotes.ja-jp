@@ -1,7 +1,7 @@
 ---
 title: "大きなデータセットに対するクエリの迅速化"
 description: "大きなデータセットに対するクエリの迅速化"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.assetid: 04524b66-4727-4ce6-9cca-2b1439428497
@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce

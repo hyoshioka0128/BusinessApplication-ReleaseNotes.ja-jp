@@ -1,7 +1,7 @@
 ---
 title: "コメント"
 description: "コンテキストを提供し、質問を行うための、レポートおよびダッシュボードでのコメント。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 1508b82e-6be4-47f9-a827-3659f79aa7a1
@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce

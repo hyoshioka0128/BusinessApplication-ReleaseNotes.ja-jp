@@ -1,7 +1,7 @@
 ---
 title: "セルフサービス スケジュールの API"
 description: "セルフサービス スケジュールの API"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 73c5c664-4dbf-4cf5-804b-fad93e65b751
@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
 ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
