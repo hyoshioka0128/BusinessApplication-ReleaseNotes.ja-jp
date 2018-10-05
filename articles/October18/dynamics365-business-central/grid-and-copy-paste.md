@@ -1,9 +1,9 @@
 ---
-title: "コピーと貼り付けによるグリッドの機能向上"
-description: "リストの読み込みの向上と、行をコピーして貼り付ける機能。"
+title: "コピーと貼り付け"
+description: "行のコピーと貼り付けの機能がリストに追加されました。"
 author: mikebcMSFT
 manager: edupont04
-ms.date: 07/22/2018
+ms.date: 09/23/2018
 ms.assetid: 011c924e-f156-4cd7-a034-99a13b5a7869
 ms.topic: article
 ms.prod: 
@@ -12,26 +12,23 @@ ms.technology:
 ms.author: mikebc
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 0eab65dd0deeb5648202e8f6c15b2c87ed34f3d6
+ms.sourcegitcommit: 8b8612bb36ad0e7abd0c55439652b9015c944035
+ms.openlocfilehash: 799b0eda04f98750beadb573e3b820d7e17cea75
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/24/2018
 
 ---
-#  <a name="improved-grid-with-copy-and-paste"></a>コピーと貼り付けによるグリッドの機能向上
+#  <a name="copy-and-paste"></a>コピーと貼り付け
 
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 
 
-向上したグリッドのスケーラビリティと行をコピーして貼り付ける機能を使用すると、Dynamics 365 Business Central でのリストの作業が効率化されます。
+行をコピーして貼り付ける機能を使用すると、Dynamics 365 Business Central でのリストの作業が効率化されます。
 
-バックオフィスのインフォメーション ワーカーは、傾向と異常の分析やデータの入力と変更などで、リストに関する作業に多くの時間を費やします。 業務データベースが大きくなっても、エクスペリエンスはパフォーマンスを維持し、ユーザーが効率的に作業を続けられるようにする必要があります。 データの反復入力タスクは前に入力されているデータをコピーすると大幅に時間を短縮でき、ユーザーは、そのレベルの生産性向上のために Ctrl + C などの業界標準のキーボード ショートカットを期待します。 また、クリップボードにデータをコピーできると、ソフトウェアの境界をまたぐデータの移動が容易になります (たとえば、割引品目のリストを顧客へのメールに貼り付ける、など)。
+バックオフィスのインフォメーション ワーカーは、傾向と異常の分析やデータの入力と変更などで、リストに関する作業に多くの時間を費やします。 データの反復入力タスクは前に入力されているデータをコピーすると大幅に時間を短縮でき、ユーザーは、そのレベルの生産性向上のために Ctrl + C などの業界標準のキーボード ショートカットを期待します。 また、クリップボードにデータをコピーできると、ソフトウェアの境界をまたぐデータの移動が容易になります (たとえば、割引品目のリストを顧客へのメールに貼り付ける、など)。
 
-## <a name="improved-grid"></a>グリッドの機能向上
-リストの表示方法とデータのフェッチ方法が修正されて、グリッドに表示できる行数と列数が増えます。 これにより、グリッドのセル間の移動の全体的な機敏性が向上します。 行のプリロードの頻度が上がると、シームレスなスクロール エクスペリエンスに役立ちます。 ユーザーはキーボードまたはスクロール バーを使用してリスト内のどこにでもスクロールでき、ビュー内のデータはすぐに表示されます。
-
-## <a name="copy-and-paste"></a>コピーと貼り付け
+## <a name="copy-and-paste-rows"></a>行のコピーと貼り付け
 次のことができます。
 
 * リスト内の 1 つまたは複数の行をコピーし、同じ (または似た) リストに貼り付けます。
@@ -41,6 +38,15 @@ ms.lasthandoff: 08/15/2018
 
 ## <a name="keyboard-shortcuts"></a>キーボード ショートカット
 業界標準のショートカットである Ctrl + V および Ctrl + C に加えて、要望の多かった、上にあるセルをコピーする F8 ショートカットが追加されました。 Tab キーでセル間を移動し、上にある行の値をコピーしたいセルで F8 キーを押すことにより、新しい行にすばやく入力できます。
+
+## <a name="try-it-now"></a>試してみましょう
+勘定科目表で新しいコピー ショートカットを試すには、https://businesscentral.dynamics.com/?page=16 のオンライン環境にサインインしてから、すぐに **Ctrl + C** を押して最初の行をコピーします。
+
+## <a name="resources"></a>リソース
+[コピーと貼り付けに関してよく寄せられる質問](https://docs.microsoft.com/en-us/dynamics365/business-central/ui-copy-paste)
+
+[キーボード ショートカット](https://aka.ms/bckeys)
+
 
 <!--
 ### Who uses these features

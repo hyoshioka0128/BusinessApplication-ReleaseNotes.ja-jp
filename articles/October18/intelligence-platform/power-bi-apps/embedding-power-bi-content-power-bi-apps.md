@@ -1,7 +1,7 @@
 ---
-title: "Power BI アプリからの Power BI コンテンツの埋め込み"
+title: "Power BI サービス アプリからの Power BI コンテンツの埋め込み"
 description: "Power BI は、Power BI アプリから提供される Power BI コンテンツを利用するための主要なサービスです 。"
-author: MargoC
+author: ezaviv
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: e3832a31-c919-4c07-b342-27acaed19357
@@ -9,20 +9,18 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: avive
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f460daf34d2c6f866069998a7c2684197609affe
+ms.sourcegitcommit: 2ddd4b42d13f15731ed8fd2f46f3376477b2eb3c
+ms.openlocfilehash: c7d58b91680d76746548757215c04e88bd6bf851
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/11/2018
 
 ---
-# <a name="embedding-power-bi-content-from-power-bi-apps"></a>Power BI アプリからの Power BI コンテンツの埋め込み
+# <a name="embedding-power-bi-content-from-power-bi-service-apps"></a>Power BI サービス アプリからの Power BI コンテンツの埋め込み
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-
-
-Power BI アプリからのレポートやビジュアルを、SharePoint Online、Microsoft Teams、Dynamics 365 などの他のサービスやアプリケーションに埋め込む機能が追加されます。 
+Power BI サービス アプリからのレポートやビジュアルを、SharePoint Online、Microsoft Teams、Dynamics 365 などの他のサービスやアプリケーションに埋め込む機能が追加されます。 
 

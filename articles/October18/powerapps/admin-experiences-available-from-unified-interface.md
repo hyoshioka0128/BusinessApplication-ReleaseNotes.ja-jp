@@ -1,24 +1,24 @@
 ---
-title: "統一インターフェイスから使用可能な管理者エクスペリエンス"
+title: "Power Platform 管理センターからの管理設定の管理"
 description: "Common Data Service 管理者は、統一インターフェイスからすばやく情報にアクセスできます"
-author: shilpas
+author: jamesol-msft
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 9/11/2018
 ms.assetid: 971c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: shilpas
+ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 311a087ed1f383b7070f71a084078eead6df83b9
+ms.sourcegitcommit: 6f57991a7dbe0b89fb0cb342aecd60d427944fae
+ms.openlocfilehash: f850318c4c424051238985722a6ad4e582f65ba3
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/13/2018
 
 ---
-# <a name="admin-experiences-available-from-unified-interface"></a>統一インターフェイスから使用可能な管理者エクスペリエンス
+# <a name="manage-admin-settings-from-the-power-platform-admin-center-public-preview"></a>Power Platform 管理センターからの管理設定の管理 (パブリック プレビュー)
 
 
 [!include[banner](../../includes/banner.md)]

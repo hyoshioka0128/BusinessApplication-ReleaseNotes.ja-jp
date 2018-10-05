@@ -3,7 +3,7 @@ title: "PowerApps 監査イベント"
 description: "PowerApps 監査イベントが Office 365 セキュリティ/コンプライアンス センターで利用可能になりました"
 author: jamesol-msft
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 9/11/2018
 ms.assetid: 9f1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,13 +12,13 @@ ms.technology:
 ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 92548980b857749a977c38cd1d9e8dd6385951fa
+ms.sourcegitcommit: 6f57991a7dbe0b89fb0cb342aecd60d427944fae
+ms.openlocfilehash: ca43338c47a8970502fdda626e9050914adc7b96
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/13/2018
 
 ---
-# <a name="powerapps-audit-events"></a>PowerApps 監査イベント
+# <a name="powerapps-audit-events-public-preview"></a>PowerApps 監査イベント (パブリック プレビュー)
 
 
 [!include[banner](../../includes/banner.md)]

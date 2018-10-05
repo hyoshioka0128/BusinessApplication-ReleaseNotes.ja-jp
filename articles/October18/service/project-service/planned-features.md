@@ -11,20 +11,20 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9
-ms.openlocfilehash: b346f75f14e0004f353e121d5a5b84ce384d2c14
+ms.sourcegitcommit: a7bdb6880324a2b50449b8f9e926c84e2381490a
+ms.openlocfilehash: 8769ee895a7e64685acc4f5e151c0dfa798def15
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/20/2018
 
 ---
 #  <a name="summary-of-whats-new-in-dynamics-365-for-project-service"></a>Dynamics 365 for Project Service の新機能の概要
 
-これらのリリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 
 
 
-| 機能                                                                                                                                                                                                 | リリースの種類 | 目標リリース月 |
+| 機能                                                                                                                                                                                                 | リリースの種類 | 日付 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|----------------------|
 | [承認済みの時間、経費、仕訳帳明細行の調整](../project-service/customer-driven-enhancements/adjustments-approved-time-expense-journal-lines.md)                                       | 一般提供           | 2018 年 11 月          |
 | [セットアップ、見積もり、実績に対する出荷単位に対応した経費カテゴリの価格設定](../project-service/customer-driven-enhancements/unit-aware-expense-category-pricing-setup-estimation-actuals.md)           | 一般提供           | 2018 年 11 月          |

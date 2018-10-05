@@ -7,14 +7,14 @@ ms.service:
 - business-applications
 ms.topic: article
 ms.assetid: 479435f8-ed52-4371-b0ea-9be3b4c9ab9a
-author: MargoC
-ms.author: margoc
+author: Annbe
+ms.author: Annbe
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 981697b5186eb13f370ad7bbe9caa29b85a006b9
+ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
+ms.openlocfilehash: edca9eec6f2ba58dde70beaf4c0a3a6e896990f8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/22/2018
 
 ---
 
@@ -43,7 +43,8 @@ ms.lasthandoff: 07/18/2018
 - 取引先企業レベルでリードを生成し、需要生成フィルターを通して育てます。
 - 取引先企業のエンゲージメントを継続的に測定し、メッセージを最適化します。
 
-![体験についての取引先企業の分析情報を確認する](media/ABM_2.png  "体験についての取引先企業の分析情報を確認する")
+![アカウント ベースの顧客体験](media/ABM_CustomerJourney_LeadGeneration.png  "アカウント ベースの顧客体験")
+
 
 <!--
 ### Who uses this feature

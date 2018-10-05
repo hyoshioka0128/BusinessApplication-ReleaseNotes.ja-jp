@@ -3,7 +3,7 @@ title: "2018 年 10 月に Microsoft PowerApps に対して計画されている
 description: "Microsoft PowerApps の 2018 年 10 月リリースで利用可能になる主要な新機能の全一覧です。"
 author: evchaki
 manager: KVivek
-ms.date: 9/9/2018
+ms.date: 9/11/2018
 ms.topic: summary
 ms.prod: 
 ms.service: business-applications
@@ -11,16 +11,16 @@ ms.technology:
 ms.author: evchaki
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 435753626044dbdbf7fd0b23ca1af110807c8edc
-ms.openlocfilehash: 7a4db23493ee877d9eaabc90b974375d51e5908b
+ms.sourcegitcommit: a7bdb6880324a2b50449b8f9e926c84e2381490a
+ms.openlocfilehash: f27029d74393456c93089d007c8cfa9cd95c35b2
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/17/2018
+ms.lasthandoff: 09/20/2018
 
 ---
 
 # <a name="summary-of-whats-new-in-microsoft-powerapps"></a>Microsoft PowerApps の新機能の概要
 
-これらのリリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
@@ -28,7 +28,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 
 キャンバス アプリまたはモデル駆動型アプリを構築するユーザー向けの機能が増えました。
 
-| 機能    | リリースの種類    | 目標リリース月    |
+| 機能    | リリースの種類    | 日付    |
 | ---------- | ---------- | ---------- |
 | [Access ユーザー向けのヘルプの向上](improved-help-for-access-users.md) | 一般提供 |  2018 年 10 月  |
 | [あらゆるレベルのメーカー向けの PowerApps オーサリングの向上](improved-powerapps-authoring-for-makers-of-all-abilities.md) | 一般提供 |  2018 年 10 月  |
@@ -73,7 +73,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 
 Microsoft は高品質のエンドユーザー エクスペリエンスの提供に力を入れてきました。
 
-| 機能    | リリースの種類    | 目標リリース月    |
+| 機能    | リリースの種類    | 日付    |
 | ---------- | ---------- | ---------- |
 | [コンシューマー向けのアプリの探索の向上](improved-app-discovery-for-app-consumers.md) | 一般提供 |  2018 年 10 月  |
 | [アプリの速度の向上](improved-speed-of-apps.md) | 一般提供 |  2018 年 10 月  |
@@ -104,14 +104,14 @@ Microsoft は高品質のエンドユーザー エクスペリエンスの提供
 
 管理者のエクスペリエンスは、信頼できるプラットフォームの採用で重要な鍵となります。
 
-| 機能    | リリースの種類    | 目標リリース月    |
+| 機能    | リリースの種類    | 日付    |
 | ---------- | ---------- | ---------- |
 | [PowerApps が Intune をサポート](powerapps-supports-intune.md) | 一般提供 |  2018 年 10 月  |
 | [統一インターフェイスのユーザー エクスペリエンスの利用可能性の制御](control-availability-of-user-experiences-on-unified-interface.md) | 一般提供 |  2018 年 10 月  |
-| [統一インターフェイスから使用可能な管理者エクスペリエンス](admin-experiences-available-from-unified-interface.md) | 一般提供 |  2018 年 10 月  |
-| [サービス正常性ページの強化](enhanced-service-health-page.md) | 一般提供 |  2018 年 10 月  |
-| [PowerApps 監査イベント](powerapps-audit-events.md) | 一般提供 |  2018 年 10 月  |
 | [管理者向けのヘルプとサポートの強化](enhanced-help---support-for-admins.md) | 一般提供 |  2018 年 10 月  |
-| [統合環境管理](unified-environment-administration.md) | 一般提供 |  2018 年 10 月  |
+| [Power Platform 管理センターからの統合環境管理](unified-environment-administration.md) | 一般提供 |  2018 年 10 月  |
 | [新しい管理分析レポート](new-admin-analytics-reports.md) | 一般提供 |  2018 年 10 月  |
+| [Power Platform 管理センターからの管理設定の管理](admin-experiences-available-from-unified-interface.md) | パブリック プレビュー |  2018 年 10 月  |
+| [PowerApps 監査イベント](powerapps-audit-events.md) | パブリック プレビュー |  2018 年 12 月  |
+| [サービス正常性ページの強化](enhanced-service-health-page.md) | パブリック プレビュー |  2019 年 2 月  |
 
