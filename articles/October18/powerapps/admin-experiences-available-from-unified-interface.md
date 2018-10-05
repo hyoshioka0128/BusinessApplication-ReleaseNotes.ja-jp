@@ -1,27 +1,27 @@
 ---
-title: "統一インターフェイスから使用可能な管理者エクスペリエンス"
+title: "Power Platform 管理センターからの管理設定の管理"
 description: "Common Data Service 管理者は、統一インターフェイスからすばやく情報にアクセスできます"
-author: shilpas
+author: jamesol-msft
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 9/11/2018
 ms.assetid: 971c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: shilpas
+ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
-ms.openlocfilehash: 75c1c75dffbe9a67efea54b94f5caed62d93d8e3
+ms.sourcegitcommit: 6f57991a7dbe0b89fb0cb342aecd60d427944fae
+ms.openlocfilehash: f850318c4c424051238985722a6ad4e582f65ba3
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 09/13/2018
 
 ---
-# <a name="admin-experiences-available-from-unified-interface"></a><span data-ttu-id="ab949-103">統一インターフェイスから使用可能な管理者エクスペリエンス</span><span class="sxs-lookup"><span data-stu-id="ab949-103">Admin experiences available from Unified Interface</span></span>
+# <a name="manage-admin-settings-from-the-power-platform-admin-center-public-preview"></a><span data-ttu-id="9a857-103">Power Platform 管理センターからの管理設定の管理 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="9a857-103">Manage admin settings from the Power platform admin center (Public Preview)</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="ab949-104">管理者は、統一インターフェイスから必要なコンテンツやリンクにアクセスでき、PowerApps 管理センターにもすばやくアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="ab949-104">Administrators can access content and links that they need from Unified Interface, as well as quickly accessing the PowerApps admin center.</span></span>
+<span data-ttu-id="9a857-104">管理者は、統一インターフェイスから必要なコンテンツやリンクにアクセスでき、PowerApps 管理センターにもすばやくアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="9a857-104">Administrators can access content and links that they need from Unified Interface, as well as quickly accessing the PowerApps admin center.</span></span>
 
