@@ -1,4 +1,5 @@
 ---
+redirect_url: ../planned-features
 title: "Q&A テレメトリ パイプライン"
 description: "Power BI アプリを作成している ISV は、アプリで Q&A の使用状況データを利用して、実際の使用状況に基づいて言語スキーマや Q&A 結果を向上させる方法を確認できます。"
 author: MI77
@@ -11,10 +12,10 @@ ms.technology:
 ms.author: willthom
 audience: developer, application developer, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
-ms.openlocfilehash: 976b32ec1b3ad9ce7ff80cdfb82c72f386dc3c37
+ms.sourcegitcommit: 702a12f49e7ff97a14e102109badc3298b048a3a
+ms.openlocfilehash: f3bef850bf357614c736d4656cc6bb162e2de78a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/11/2018
 
 ---
 

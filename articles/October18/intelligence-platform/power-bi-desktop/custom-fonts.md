@@ -1,4 +1,5 @@
 ---
+redirect_url: ../planned-features
 title: "カスタム フォント"
 description: "作成者のコンピュータにインストールされている会社固有のフォントのサポート"
 author: MI77
@@ -11,10 +12,10 @@ ms.technology:
 ms.author: willthom
 audience: end user, developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
-ms.openlocfilehash: ab8b70b9b1a2063ba56e62d653fce4170ae6f7ed
+ms.sourcegitcommit: 702a12f49e7ff97a14e102109badc3298b048a3a
+ms.openlocfilehash: 1f4be9f7c0d43823790d0e58351f839e5b459a07
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/11/2018
 
 ---
 
