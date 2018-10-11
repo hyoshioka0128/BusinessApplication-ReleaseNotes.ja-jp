@@ -1,4 +1,5 @@
 ---
+redirect_url: ../planned-features
 title: "カスタム フォント"
 description: "作成者のコンピュータにインストールされている会社固有のフォントのサポート"
 author: MI77
