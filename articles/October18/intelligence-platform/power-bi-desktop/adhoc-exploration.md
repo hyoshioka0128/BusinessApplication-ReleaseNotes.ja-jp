@@ -35,6 +35,6 @@ This feature is intended for end users and business analysts.
 ### Development status
 In development
 #### Target timeframe
-October ‘18
+March ‘19
 -->
 

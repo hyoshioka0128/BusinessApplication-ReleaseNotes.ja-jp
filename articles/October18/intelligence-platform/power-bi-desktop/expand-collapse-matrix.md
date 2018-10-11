@@ -33,6 +33,6 @@ This feature is intended for end user, developer, citizen developer, customizer,
 ### Development status
 In development
 #### Target timeframe
-October ‘18
+November ‘18
 -->
 
