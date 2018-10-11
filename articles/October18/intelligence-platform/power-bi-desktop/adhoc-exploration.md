@@ -11,10 +11,10 @@ ms.technology:
 ms.author: willthom
 audience: end user, business analyst
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: d3c4231f8bfc85900ee190052095d96746e94d86
+ms.sourcegitcommit: f965528cf0653a2fc81d42bccfb0099d44f74639
+ms.openlocfilehash: 670142ba4161e31e49878c9aeaa9de9e271d0d4c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 10/11/2018
 
 ---
 
@@ -35,6 +35,6 @@ This feature is intended for end users and business analysts.
 ### Development status
 In development
 #### Target timeframe
-October ‘18
+March ‘19
 -->
 

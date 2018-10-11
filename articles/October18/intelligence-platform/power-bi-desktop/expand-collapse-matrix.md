@@ -11,10 +11,10 @@ ms.technology:
 ms.author: willthom
 audience: end user, developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
-ms.openlocfilehash: 3ca4c0afadf4af1ad7d87acba1bcc1299d5898ec
+ms.sourcegitcommit: f965528cf0653a2fc81d42bccfb0099d44f74639
+ms.openlocfilehash: d8dcf8ffa0eb7cbd4af252ac105ea4982f184c2d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/11/2018
 
 ---
 
@@ -33,6 +33,6 @@ This feature is intended for end user, developer, citizen developer, customizer,
 ### Development status
 In development
 #### Target timeframe
-October ‘18
+November ‘18
 -->
 

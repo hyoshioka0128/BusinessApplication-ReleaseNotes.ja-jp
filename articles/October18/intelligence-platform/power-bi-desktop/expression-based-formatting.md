@@ -11,10 +11,10 @@ ms.technology:
 ms.author: willthom
 audience: developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
-ms.openlocfilehash: bf1e3add265363a1d4424e361993e3f10efdbacf
+ms.sourcegitcommit: f965528cf0653a2fc81d42bccfb0099d44f74639
+ms.openlocfilehash: 3e356bbb3401dc01c6007290b99dd8c8bf49d532
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/11/2018
 
 ---
 
@@ -34,6 +34,6 @@ This feature is intended for report developers. It works without any additional 
 ### Development status
 In development
 #### Target timeframe
-October ‘18
+March ‘19
 -->
 
