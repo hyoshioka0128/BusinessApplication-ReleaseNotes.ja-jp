@@ -23,5 +23,5 @@ ms.lasthandoff: 08/16/2018
 
 [!include[banner](../../includes/banner.md)]
 
-カスタマイズ担当者は、このリリースでプレビューとして使用できる新しいフォーム デザイナーを使用して、エンティティ フォーム オーサリングでより多くのことを行うことができます。 新しいフォーム デザイナーは WYSIWYG オーサリング エクスペリエンスを提供し、フォームがエンド ユーザーからどのように見えるかをカスタマイズ担当者が直接確認できるようにすることで生産性の向上を支援します。 フォーム デザイナーでは、カスタマイズ担当者のニーズと希望を満たすキーボード アクセシビリティも完全にサポートされます。
+カスタマイズ担当者は、このリリースでプレビューとして使用できる新しいフォーム デザイナーを使用して、エンティティ フォーム作成時により多くのことを行うことができます。 The new form designer provides a WYSIWYG authoring experience, helping to boost productivity by enabling customizers to directly see what their form will look like to end users. The form designer also provides full support for keyboard accessibility to meet customizers' needs and preferences.
 

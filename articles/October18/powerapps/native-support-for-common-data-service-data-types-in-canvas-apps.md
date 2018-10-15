@@ -1,6 +1,6 @@
 ---
 title: "キャンバス アプリでの Common Data Service データ型のネイティブ サポート"
-description: "アプリ メーカーは、オプションセット、GUID、日付のみ、およびタイム ゾーンなしの日付のみのデータ型を簡単に処理できます。"
+description: "アプリ開発者は、オプションセット、GUID、日付のみ、およびタイム ゾーンなしの日付のみのデータ型を簡単に処理できます。"
 author: gregli-msft
 manager: KVivek
 ms.date: 9/3/2018
@@ -18,7 +18,7 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="native-support-for-common-data-service-data-types-in-canvas-apps"></a>キャンバス アプリでの Common Data Service データ型のネイティブ サポート
+# <a name="native-support-for-common-data-service-data-types-in-canvas-apps"></a>Native support for Common Data Service data types in canvas apps
 
 
 [!include[banner](../../includes/banner.md)]

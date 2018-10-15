@@ -1,6 +1,6 @@
 ---
-title: "PowerApps メーカーが SharePoint ドキュメント ライブラリを使用してマッシュアップ アプリを作成できる"
-description: "アプリ メーカーは、アプリを SharePoint ドキュメント ライブラリに接続して、アプリ ユーザーがフォルダーの参照、ファイルの表示、モバイルまたは Web 上のメタデータの編集を行えるマッシュアップ アプリケーションを構築できます。"
+title: "PowerApps アプリ開発者は SharePoint ドキュメント ライブラリをアプリへ組み込むことが可能に"
+description: "アプリ開発者は、アプリを SharePoint ドキュメント ライブラリに接続して、アプリ ユーザーがフォルダーの参照、ファイルの表示、モバイルまたは Web 上のメタデータの編集を行えるマッシュアップ アプリケーションを構築できます。"
 author: shpareek
 manager: KVivek
 ms.date: 9/3/2018
@@ -18,10 +18,10 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries"></a>PowerApps メーカーが SharePoint ドキュメント ライブラリを使用してマッシュアップ アプリを作成できる
+# <a name="powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries"></a>PowerApps makers can create mashup apps with SharePoint Document Libraries
 
 
 [!include[banner](../../includes/banner.md)]
 
-PowerApps のアプリ メーカーは、SharePoint ドキュメント ライブラリを使用してマッシュアップ アプリケーションを作成できるようになりました。これにより、フォルダーの参照、ネイティブ アプリケーション内のファイルの表示と起動、ファイルのメタデータのアップロードと強化を行うことができます。 SharePoint データ コネクタは特定の SharePoint サイト内のドキュメント ライブラリを一覧表示するように強化されたので、アプリ メーカーは接続先のドキュメント ライブラリを簡単に選択でき、ドキュメント ライブラリの名前を力する必要がなくなりました。
+PowerApps のアプリ開発者は、SharePoint ドキュメント ライブラリを組み込んだアプリケーションを作成できるようになりました。これにより、フォルダーの参照、ネイティブ アプリケーション内のファイルの表示と起動、ファイルのメタデータのアップロードと強化を行うことができます。 SharePoint データ コネクタは特定の SharePoint サイト内のドキュメント ライブラリを一覧表示するように強化されたので、アプリ開発者は接続先のドキュメント ライブラリを簡単に選択でき、ドキュメント ライブラリの名前を入力する必要がなくなりました。
 

@@ -1,6 +1,6 @@
 ---
 title: "キャンバス アプリのリッチ テキスト エディターおよび HTML ビュー コントロール"
-description: "アプリ メーカーは、キャンバス アプリでリッチ テキストを作成したり、SharePoint Online のリッチ テキスト フィールドを編集したりできるようになりました"
+description: "アプリ開発者は、キャンバス アプリでリッチ テキストを作成したり、SharePoint Online のリッチ テキスト フィールドを編集したりできるようになりました"
 author: fikaradz
 manager: KVivek
 ms.date: 9/3/2018
@@ -18,10 +18,10 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="rich-text-editor-and-html-view-controls-for-canvas-apps"></a>キャンバス アプリのリッチ テキスト エディターおよび HTML ビュー コントロール
+# <a name="rich-text-editor-and-html-view-controls-for-canvas-apps"></a>Rich Text Editor and HTML view controls for canvas apps
 
 
 [!include[banner](../../includes/banner.md)]
 
-アプリ メーカーは、キャンバス アプリの新しいリッチ テキスト エディター コントロールを利用して、エンド ユーザーがテキストのスタイル設定、一覧の組み込み、リンクの挿入を行えるようにすることができます。  この新しいコントロールと HTML ビュー コントロールにより、アプリのエンド ユーザーは、アプリでの電子メールやレポートの編集などのシナリオに対してテキストのカスタマイズを完全に制御できます。 
+アプリ開発者は、キャンバス アプリの新しいリッチ テキスト エディター コントロールを利用して、エンド ユーザーがテキストのスタイル設定、一覧の組み込み、リンクの挿入を行えるようにすることができます。  この新しいコントロールと HTML ビュー コントロールにより、アプリのエンド ユーザーは、アプリでの電子メールやレポートの編集などのシナリオに対してテキストのカスタマイズを完全に制御できます。 
 

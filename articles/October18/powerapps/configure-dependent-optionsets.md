@@ -1,5 +1,5 @@
 ---
-title: "依存オプション セットの構成"
+title: Configure dependent option sets
 description: "依存オプション セットを構成すると、アプリでカスケード ドロップダウンを提供し、ドロップダウン間で簡単なデータ検証を行えます。"
 author: clwesene
 manager: KVivek
@@ -23,5 +23,5 @@ ms.lasthandoff: 08/16/2018
 
 [!include[banner](../../includes/banner.md)]
 
-依存オプション セットを作成することで、オプション セット間で簡単にルールを設定して、選択した値の整合性を保てます。 たとえば、**国/地域**オプション セットおよび**州**オプション セットを作成できます。 ユーザーが最初のオプション セットのドロップダウン リストで**米国**を選択した場合、2 番目のオプション セットのドロップダウン リストには、その国/地域にある州だけが表示されます。 この構成がすべてのアプリで使用されるようエンティティ レベルで定義するなら、データの整合性と正確性を確保できます。
+依存オプション セットを作成することで、オプション セット間で簡単にルールを設定して、選択した値の整合性を保てます。 As an example, you can create a **Country/region** option set and a **States** option set. If a user selects **United States** in the drop-down list for the first option set, the drop-down list for the second option set should show only those states that are in that country/region. You can ensure that data is consistent and accurate by defining this structure at the entity level for consumption in all apps.
 

@@ -18,10 +18,10 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="access-team-on-unified-interface"></a>統一インターフェイス上のアクセス チーム
+# <a name="access-team-on-unified-interface"></a>Access team on Unified Interface
 
 
 [!include[banner](../../includes/banner.md)]
 
-アクセス チーム機能は統一インターフェイス ランタイムに反映されます。 アクセス チームは、Business Units、Security Roles、または Teams 経由でベース セキュリティ モデルを変更または更新することなく、部門チームにレコードを公開および共有する別の方法を提供します。
+アクセス チーム機能は統一インターフェイス ランタイムに反映されます。 アクセス チームは、組織、セキュリティ ロール、またはチーム経由でベース セキュリティ モデルを変更または更新することなく、部門チームにレコードを公開および共有する別の方法を提供します。
 

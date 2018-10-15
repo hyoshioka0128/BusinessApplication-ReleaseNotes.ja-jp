@@ -1,6 +1,6 @@
 ---
 title: "新機能のオプトイン"
-description: "アプリ メーカーは、使用する準備ができた新機能をオプトインできます"
+description: App makers can opt into new features when they are ready to use them
 author: evchaki
 manager: KVivek
 ms.date: 9/4/2018
@@ -18,10 +18,10 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 08/16/2018
 
 ---
-# <a name="opting-in-to-new-features"></a>新機能のオプトイン
+# <a name="opting-in-to-new-features"></a>Opting in to new features
 
 
 [!include[banner](../../includes/banner.md)]
 
-アプリ メーカーは、使用する準備ができた新機能を現在のアプリにオプトインすることを選択できます。 新機能は、機能がすべてのアプリで自動的に有効化される前に限られた期間利用できます。 これにより、アプリ メーカーは、グローバルに展開する前に既存のアプリで機能を試し、必要な変更を加えることができます。 新しく作成されたアプリでは、使用可能な新機能が利用されます。
+App makers can choose to opt into new features in their current apps when they are ready. New features are available for a limited time before the features are auto-enabled in all apps. This allows app makers to try out the features in existing apps and make any changes needed before they are rolled out globally. New apps created will take advantage of any new feature available.
 

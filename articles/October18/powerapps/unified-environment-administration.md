@@ -1,5 +1,5 @@
 ---
-title: "Power Platform 管理センターからの統合環境管理"
+title: "Power Platform 管理センターへの環境管理機能の統合"
 description: "管理者が、アプリ用 Common Data Service のすべての環境を 1 つの場所からプロビジョニングし、監視し、管理できるようになります"
 author: jamesol-msft
 manager: KVivek
@@ -18,10 +18,10 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 09/13/2018
 
 ---
-# <a name="unified-environment-administration-from-power-platform-admin-center"></a>Power Platform 管理センターからの統合環境管理
+# <a name="unified-environment-administration-from-power-platform-admin-center"></a>Unified environment administration from Power platform admin center
 
 
 [!include[banner](../../includes/banner.md)]
 
-PowerApps、Microsoft Flow、およびアプリ用 Common Data Service の活動と組織内での使用状況が把握しやすくなりました。 管理者は、テナントや環境に関するレポートを [Power Platform 管理センター](https://go.microsoft.com/fwlink/?linkid=875536)からレビューし、組織内のアクティブ ユーザー、アプリの使用状況、およびフローの使用状況を確認できます。
+PowerApps、Microsoft Flow、およびアプリ用 Common Data Service の活動と組織内での使用状況が把握しやすくなりました。 From the [Power platform admin center](https://go.microsoft.com/fwlink/?linkid=875536), admins can review tenant-wide and environment-level reports detailing active users, app usage, and flow usage across their organization.
 

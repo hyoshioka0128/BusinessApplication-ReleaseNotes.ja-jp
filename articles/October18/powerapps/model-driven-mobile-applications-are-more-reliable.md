@@ -18,10 +18,10 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="model-driven-mobile-applications-are-more-reliable"></a>モデル駆動型モバイル アプリケーションの信頼性が向上
+# <a name="model-driven-mobile-applications-are-more-reliable"></a>Model-driven mobile applications are more reliable
 
 
 [!include[banner](../../includes/banner.md)]
 
-モバイル アプリケーションは高速に実行され、ハングしません。 ユーザーに表示されるエラーはアクション可能であり、自己解決が可能か、Microsoft に関連情報を提供して迅速なサポートを受けることができます。
+モバイル アプリケーションは高速に実行され、フリーズしません。 ユーザーに表示されるエラーはアクション可能であり、自己解決が可能か、Microsoft に関連情報を提供して迅速なサポートを受けることができます。
 
