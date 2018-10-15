@@ -1,6 +1,6 @@
 ---
-title: "新しい管理分析レポート"
-description: "新しい PowerApps、Microsoft Flow、およびアプリ用 Common Data Service の使用状況レポートをすべての管理者が利用できます"
+title: New admin analytics reports
+description: New PowerApps, Microsoft Flow, and Common Data Service for Apps usage reports available to all admins
 author: jamesol-msft
 manager: KVivek
 ms.date: 9/11/2018
@@ -18,10 +18,10 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 09/13/2018
 
 ---
-# <a name="new-admin-analytics-reports"></a><span data-ttu-id="e23eb-103">新しい管理分析レポート</span><span class="sxs-lookup"><span data-stu-id="e23eb-103">New admin analytics reports</span></span>
+# <a name="new-admin-analytics-reports"></a><span data-ttu-id="3408b-103">New admin analytics reports</span><span class="sxs-lookup"><span data-stu-id="3408b-103">New admin analytics reports</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="e23eb-104">アプリ用 Common Data Service の管理者は、環境に組織の分析情報ソリューションをインストールする必要がなくなりました。組織の分析情報レポートはすべて [Power Platform 管理センター](https://go.microsoft.com/fwlink/?linkid=875536)から (既定で) 使用できます。</span><span class="sxs-lookup"><span data-stu-id="e23eb-104">For Common Data Service for Apps admins, there is no longer a need to install the Org Insights solution in their environment; all of the org insights reports are available (by default) from the [Power platform admin center](https://go.microsoft.com/fwlink/?linkid=875536).</span></span>
+<span data-ttu-id="3408b-104">アプリ用 Common Data Service の管理者は、環境に組織の分析情報ソリューションをインストールする必要がなくなりました。組織の分析情報レポートはすべて [Power Platform 管理センター](https://go.microsoft.com/fwlink/?linkid=875536)から (既定で) 使用できます。</span><span class="sxs-lookup"><span data-stu-id="3408b-104">For Common Data Service for Apps admins, there is no longer a need to install the Org Insights solution in their environment; all of the org insights reports are available (by default) from the [Power platform admin center](https://go.microsoft.com/fwlink/?linkid=875536).</span></span>
 

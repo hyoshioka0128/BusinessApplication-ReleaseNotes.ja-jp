@@ -1,6 +1,6 @@
 ---
-title: "自動番号順序の作成"
-description: "アプリ用 Common Data Service のレコードで連番が自動で生成されるよう番号順序を定義します。"
+title: "自動採番の作成"
+description: "アプリ用 Common Data Service のレコードで連番が自動で生成されるよう採番方法を定義します。"
 author: clwesene
 manager: KVivek
 ms.date: 9/3/2018
@@ -18,10 +18,10 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 09/10/2018
 
 ---
-# <a name="create-automatic-number-sequences"></a><span data-ttu-id="9566e-103">自動番号順序の作成</span><span class="sxs-lookup"><span data-stu-id="9566e-103">Create automatic number sequences</span></span>
+# <a name="create-automatic-number-sequences"></a><span data-ttu-id="88a4d-103">Create automatic number sequences</span><span class="sxs-lookup"><span data-stu-id="88a4d-103">Create automatic number sequences</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="9566e-104">PowerApps では、数字が自動で生成されてアプリ用  Common Data Service のエンティティに適用されるよう、1 つ以上のシーケンスを定義できます。</span><span class="sxs-lookup"><span data-stu-id="9566e-104">In PowerApps, you can define one or more sequences in which numbers are generated automatically and applied to entities in Common Data Service for Apps.</span></span>
+<span data-ttu-id="88a4d-104">In PowerApps, you can define one or more sequences in which numbers are generated automatically and applied to entities in Common Data Service for Apps.</span><span class="sxs-lookup"><span data-stu-id="88a4d-104">In PowerApps, you can define one or more sequences in which numbers are generated automatically and applied to entities in Common Data Service for Apps.</span></span>
 
