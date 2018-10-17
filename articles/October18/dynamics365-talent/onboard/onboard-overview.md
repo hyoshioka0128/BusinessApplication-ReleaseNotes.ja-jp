@@ -11,10 +11,10 @@ ms.technology:
 ms.author: josaw
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: ab04438f97c37ca2b738807b2e1fed6221c561f3
+ms.sourcegitcommit: db6bd454a549eb744ea9af564c1f91c4d8055faf
+ms.openlocfilehash: 30bd66e8732832b111c72189138e141c2ab3fef0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/12/2018
 
 ---
 
@@ -24,5 +24,6 @@ ms.lasthandoff: 07/18/2018
 
 
 
-お客様からのフィードバックに基づいて、Onboard は共同作業機能が強化され、より多くの人数でオンボーディング エクスペリエンスを作成し、実装できるようになっています。 Onboard には、テンプレート作成ワークフローが組み込まれ、テンプレートから作成したすべてのインスタンスにテンプレートの更新を反映できます。
+お客様からのフィードバックに基づいて、Onboard は共同作業機能が強化され、より多くの人数でオンボーディング エクスペリエンスを作成し、実装できるようになっています。 Onboard には、テンプレート作成ワークフローが組み込まれ、テンプレートから作成したすべてのインスタンスにテンプレートの更新を反映できます。 Onboard データは現在、顧客の他の Microsoft ビジネス アプリケーション データと共に、アプリ用 CDS に保存されています。 
+
 

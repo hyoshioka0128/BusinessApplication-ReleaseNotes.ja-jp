@@ -7,14 +7,14 @@ ms.service:
 - business-applications
 ms.topic: article
 ms.assetid: 0994039a-5ff0-4b3d-bc47-1e1cd78b242e
-author: MargoC
-ms.author: margoc
+author: Annbe
+ms.author: Annbe
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: ea14ae3f1a283c2b25cf4740c077c7732e57cdc8
+ms.sourcegitcommit: 0b8ff454a447437d56ecf070971f379361bd358b
+ms.openlocfilehash: 0eed3417c526daae780e95b5e84c30c8ee244d79
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/13/2018
 
 ---
 
@@ -24,22 +24,23 @@ ms.lasthandoff: 07/18/2018
 
 
 
-Dynamics 365 for Marketing は、プロフェッショナル ネットワークとリレーションシップからリードを生成するための LinkedIn の深い統合を提供します。 新しい統合機能では、LinkedIn でのターゲットを指定する体験を実行でき、オーケストレーション、スコアリング、セグメンテーションに結果の会話を利用できます。
+Dynamics 365 for Marketing は、プロフェッショナル ネットワークとリレーションシップからリードを生成するための LinkedIn の深い統合を提供します。 新しい統合機能では、LinkedIn でターゲットを指定した顧客体験を実行し、発生した対話をオーケストレーション、スコアリング、セグメンテーションに利用できます。
 
 LinkedIn の深い統合により次のものがもたらされます。
 
 - アカウント ベースのマーケティングによる LinkedIn での最適化された高品質のエンゲージメント。
 - Dynamics 365 for Marketing 内から育成される有望なリードの生成と、マーケティング投資収益率の向上。
  
-Dynamics 365 for Marketing は、LinkedIn Lead Gen フォームを使用して取得されたリードを既に同期できます。 次の機能を追加することでこの機能を拡張しています。
+Dynamics 365 for Marketing は、LinkedIn Lead Gen Forms を使用して取得されたリードを既に同期できます。 次の機能を追加することでこの機能を拡張しています。
 
-- LinkedIn で一致した対象ユーザーと Dynamics 365 for Marketing のセグメントを統合します。
-- LinkedIn Lead Gen フォームからの送信に対応するトリガーを含む体験をオーケストレーションします。
+- Dynamics 365 for Marketing で一致した対象ユーザーと LinkedIn のセグメントを統合します。
+- LinkedIn Lead Gen Forms からの送信に対応するトリガーを含む体験をオーケストレーションします。
 - Dynamics 365 for Marketing のエンゲージメント統計により LinkedIn ターゲットの成功を評価します 。
 - LinkedIn からフォームの送信を取得するときに、取引先企業レベルで Dynamics 365 for Marketing のリードを生成します。
 - LinkedIn フォーム送信対話に基づくリード スコアリングによりリードを育てます。
 
-![体験によりターゲットにされる LinkedIn 広告](media/LinkedIn_1.png "体験によりターゲットにされる LinkedIn 広告")
+![体験によりターゲットにされる LinkedIn 広告](media/LinkedIn%20Matched%20Audiences.PNG "体験によりターゲットにされる LinkedIn 広告")
+
 
 <!--
 ### Who uses this feature

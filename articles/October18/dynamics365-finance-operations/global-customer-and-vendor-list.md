@@ -1,5 +1,5 @@
 ---
-title: "グローバルな顧客仕入先一覧ページ"
+title: "グローバルな顧客および仕入先トランザクション一覧ページ"
 description: "グローバルな顧客仕入先一覧ページ"
 author: aolson
 manager: AnnBe
@@ -8,16 +8,16 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 861459555da229f0e6344629b620f316341dd920
+ms.sourcegitcommit: d2f94bd0acfdeba875b6af1f70171d0e5dde9b78
+ms.openlocfilehash: bdfdd0f848ea973ee22ed1015bb15f1dc61ebb02
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 09/11/2018
 
 ---
-#  <a name="global-customer-and-vendor-list-page"></a>グローバルな顧客仕入先一覧ページ
+#  <a name="global-customer-and-vendor-transactions-list-page"></a>グローバルな顧客および仕入先トランザクション一覧ページ
 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 

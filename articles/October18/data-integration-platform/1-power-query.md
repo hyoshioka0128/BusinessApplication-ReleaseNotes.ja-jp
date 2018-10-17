@@ -12,10 +12,10 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 94765585de94995c31436ad1b6b801aefa0389ce
+ms.sourcegitcommit: 5eda86ab05b375f2f919fc04c5089565ba4d7c86
+ms.openlocfilehash: 0f4fb80846d9a9ab2c5b4c5b34e97357faa6fcfb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/13/2018
 
 ---
 #  <a name="simpler-smarter-transformation-and-integration-of-enterprise-data-with-power-query-and-data-integration-platform"></a>Power Query およびデータ統合プラットフォームによるエンタープライズ データのよりシンプルかつスマートな変換と統合
@@ -76,19 +76,23 @@ Power Query 内の新しいコア機能に加えて、Microsoft は Power Query 
 <a name="flow-support-for-data-filtering--mashup"></a>  
 ### <a name="flow-support-for-data-filtering-and-mashup"></a>データ フィルター処理とマッシュアップの Flow サポート
 
-Microsoft Flow が Power Query Online と統合されたことにより、ユーザーは「Power Query を使用して行を取得する」ことが可能になります。これにより、SQL Server などの特定のコネクタで「行を取得する」一環としてデータ フィルター処理とマッシュアップを行えるようになります。
+Microsoft Flow が Power Query Online と統合されたことにより、ユーザーは "Power Query を使用して行を取得する" ことが可能になります。これにより、SQL Server などの特定のコネクタで "行を取得する" アクションの一部としてデータ フィルター処理とマッシュアップを行えるようになります。
+
+### <a name="power-query-documentation"></a>Power Query ドキュメント
+
+Microsoft Docs に Power Query のセクションが追加されました。 これらのドキュメントには、Power Query 用のカスタム コネクタを作成するためのサンプル、チュートリアル、ハウツー、開発者向けリファレンスが含まれます。 Power Query で使用されている言語である M での作業に関心のある開発者やエンド ユーザーは、ここで多くの質問への回答を得ることができます。
 
 ### <a name="power-query-community-website"></a>Power Query コミュニティ Web サイト
 
-新しい Power Query コミュニティ Web サイトが立ち上げられました。 これには、Power Query テクノロジの概要、詳細記事、フォーラム、UserVoice、コミュニティ主導のコンテンツ (ブログ投稿、ウェビナー) などが含まれます。 この新しいコミュニティは、パートナーがプラットフォーム上に新しいコネクタやデータ変換を構築するのを可能にする Power Query のコア機能に焦点を合わせており、以前から存在する製品ベースのリソース (Excel、Power BI、PowerApps など) を補完し、エンドユーザーの観点から特定の Power Query の統合に対応しています。
+新しい Power Query コミュニティ Web サイトが立ち上げられました。 これには、Power Query テクノロジの概要、詳細記事、フォーラム、UserVoice、コミュニティ主導のコンテンツ (ブログ投稿、ウェビナー) などが含まれます。 この新しいコミュニティは、パートナーがプラットフォーム上に新しいコネクタやデータ変換を構築するのを可能にする Power Query テクノロジの機能に焦点を合わせており、既存の製品ベースのリソース (Excel、Power BI、PowerApps など) を補完し、エンド ユーザーのための特定の Power Query の統合に対応しています。
 
 ##  <a name="enterprise-grade-connectors"></a>エンタープライズ レベルのコネクタ
 
 データ統合チームは引き続き、Power BI、アプリ用 Common Data Service、PowerApps、Microsoft Flow、および Logic Apps でエンタープライズ レベルのコネクタに貢献します。
 
-Power BI に関して、Microsoft は SAP ビジネス ウェアハウス コネクタ (アプリケーション サーバーとメッセージ サーバー) 向けに大幅な機能向上をリリースする予定で、これにより Microsoft Power BI は、SAP ビジネス ウェアハウス (BW) への接続性において、他のサード パーティ BI ベンダーと同等またはそれ以上の優れた機能を持つ製品となります。
+Power BI に関して、Microsoft は SAP Business Warehouse コネクタ (アプリケーション サーバーとメッセージ サーバー) 向けに大幅な機能向上をリリースする予定で、これにより Microsoft Power BI は、SAP Business Warehouse (BW) への接続性において、他のサード パーティ BI ベンダーと同等またはそれ以上の優れた機能を持つ製品となります。
 
-SAP は、**SAP HANA と SAP BW で Microsoft のコネクタを認定しています。** また、SAP HANA コネクタが強化され、Security Assertion Markup Language (SAML) ベースのシングル サインオンおよび SSL 認定検証など、大規模なエンタープライズ機能が可能になりました。 SAP BW コネクタも大幅に向上し、より良いパフォーマンスを提供する新しい実装や他の機能が追加されています。
+SAP は、**SAP HANA と SAP BW で Microsoft のコネクタを認定しています**。 また、SAP HANA コネクタが強化され、Security Assertion Markup Language (SAML) ベースのシングル サインオンおよび SSL 認定検証など、大規模なエンタープライズ機能が可能になりました。 SAP BW コネクタも大幅に向上し、より優れたパフォーマンスを提供する新しい実装や他の機能が追加されています。
 
 コネクタの他の機能強化としては、Spark オンプレミスでの Kerberos 経由のシングル サインオンのサポート、また **HDInsight Spark、Google BigQuery、Spark (HDInsight 以外)** など、既存のコネクタの一般提供開始などが含まれます。
 
@@ -115,7 +119,9 @@ SAP は、**SAP HANA と SAP BW で Microsoft のコネクタを認定してい�
 
 2018 年 4 月に、Microsoft は Power BI の最初のカスタム コネクタをリリースしました。これは M 言語の強力な機能を使用しており、パートナーは独自のコネクタを記述してすべての Power BI ユーザーに配布することができます。 ユーザーはすべてのデータ ソースからコネクタに簡単にアクセスできるようになり、ベンダーも顧客の要望に応じて新しいコネクタを簡単に記述でき、Power BI がベンダーとエンドユーザーの双方にとって最適な BI プラットフォームとなるよう役割が強化されています。
 
-2018 年 5 月、既存の Get Data エクスペリエンスとの整合性が図られ、既存の標準コネクタとのシームレスなエクスペリエンスを実現して、シングル クリックで利用できるコネクタの数が大幅に増えました。
+2018 年 5 月、この機能と既存の Get Data エクスペリエンスとの整合性が図られ、既存の標準コネクタとのシームレスなエクスペリエンスを実現して、シングル クリックで利用できるコネクタの数が大幅に増えました。
+
+2018 年 10 月、この機能は一般に提供されるようになり、Power BI はエンド ユーザーに新しい認定されたカスタム コネクタを定期的に提供するようになります。 コネクタ認定プログラムの詳細については、[こちら](https://docs.microsoft.com/en-us/power-query/connectorcertification)の Power Query ドキュメントを参照してください。
 
 
 

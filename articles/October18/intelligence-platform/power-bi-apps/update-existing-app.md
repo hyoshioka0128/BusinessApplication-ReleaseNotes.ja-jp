@@ -11,13 +11,13 @@ ms.technology:
 ms.author: avive
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: a870e8f0d03f19cfd9ba3d93a7bcfce85524d332
+ms.sourcegitcommit: 2ddd4b42d13f15731ed8fd2f46f3376477b2eb3c
+ms.openlocfilehash: 471d412ae40cbef021decc560fbc329cfd3fe5d8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/11/2018
 
 ---
-# <a name="update-an-existing-power-bi-app-in-appsource"></a>AppSource で既存の Power BI アプリを更新する
+# <a name="update-an-existing-power-bi-app-in-appsource-public-preview"></a>AppSource で既存の Power BI アプリを更新する (パブリック プレビュー)
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 

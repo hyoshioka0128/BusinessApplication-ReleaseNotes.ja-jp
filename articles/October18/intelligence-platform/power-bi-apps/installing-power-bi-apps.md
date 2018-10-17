@@ -1,7 +1,7 @@
 ---
 title: "Power BI アプリのインストール"
 description: "ユーザーは、アプリを使用する前に、ユーザーの Power BI テナントにアプリをインストールするインストーラーを実行する必要があります。"
-author: MargoC
+author: ezaviv
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 3884b1b0-10aa-4b15-bd2b-4bbc184d0c1b
@@ -9,16 +9,16 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: avive
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 33a629c48b3818b807f0ffb25af7d437f6275016
+ms.sourcegitcommit: 2ddd4b42d13f15731ed8fd2f46f3376477b2eb3c
+ms.openlocfilehash: 6f6b8974624aa3017e5041651faa49e31a570452
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/11/2018
 
 ---
-# <a name="installing-power-bi-apps-for-dataflows"></a>データフロー用の Power BI アプリのインストール
+# <a name="installing-power-bi-service-apps-for-dataflows-public-preview"></a>データフロー用の Power BI サービス アプリのインストール (パブリック プレビュー)
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 

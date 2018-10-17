@@ -7,14 +7,14 @@ ms.service:
 - business-applications
 ms.topic: article
 ms.assetid: dc1132a0-048c-433d-bab8-9487f076c2e6
-author: MargoC
-ms.author: margoc
+author: Annbe
+ms.author: Annbe
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 843cdb90d7e0b1dd1a91d7311357652661780899
+ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
+ms.openlocfilehash: dd78f6a0523d2430eb9318d1d6776320246c77c8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/22/2018
 
 ---
 
@@ -35,7 +35,7 @@ ms.lasthandoff: 07/18/2018
 
 マーケティング担当者はソーシャル タブを使用して、顧客体験やイベントに関連付けられた語句のコレクションを取りまとめ、それらの語句を含んだコメントをソーシャル メディア上で監視します。 ソーシャル リスニング機能は、すべての主要ソーシャル ネットワークからデータを収集し、各語句の時系列での出現頻度や、各コメントに関連付けられたセンチメント、語句を使用している潜在的インフルエンサーなど、関連する分析データをソーシャル タブ上の各種ウィジェットに入力します。
 
-![ソーシャル リスニング](media/SocialListening.png  "ソーシャル リスニング")
+![ソーシャル リスニング](media/SocialListeningEvent.png  "ソーシャル リスニング")
 
 
 <!--
@@ -44,4 +44,3 @@ Marketers, marketing managers, brand managers, and event managers
 ### Setup required
 Administrators can easily set up and configure the feature in the app settings.
 -->
-

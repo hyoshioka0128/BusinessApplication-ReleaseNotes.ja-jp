@@ -1,0 +1,83 @@
+---
+title: "Dynamics 365 リモート アシスト 2018 年 10 月リリースの概要"
+description: "ビデオ通話をハンズフリーの空間上で利用して、接続および共同作業することができます。"
+author: ReneeW-CPub
+manager: AnnBe
+ms.date: 09/24/2018
+ms.topic: article
+ms.prod: 
+ms.service: business-applications
+ms.technology: 
+ms.author: mapau
+audience: 
+ms.translationtype: HT
+ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
+ms.openlocfilehash: bbd67780a511640580ec9c0f925605cc0f35ed1d
+ms.contentlocale: ja-jp
+ms.lasthandoff: 09/22/2018
+
+---
+
+# <a name="overview-of-dynamics-365-remote-assist-october-18-release"></a>Dynamics 365 リモート アシスト 2018 年 10 月リリースの概要
+
+[!include[microsoft-remote-assist banner](../includes/microsoft-remote-assist.md)]
+
+初めての問題を早期に解決できるように技術者を支援します。 技術者は、Microsoft HoloLens のビデオ通話をハンズフリーの空間上で利用できるため、PC またはモバイル上のどのようなリモートのエキスパートとでも連携して状況に応じた問題のトラブルシューティングができます。 フィールド サービス運用を最新化して、時間と費用を最大限に効率化できます。
+
+
+> [!NOTE]
+> リモート アシストは 2018 年 4 月にプレビュー アプリとしてリリースされました。 10 月のリリース時点で、リモート アシストは一般提供されます。
+
+## <a name="on-hololens"></a>HoloLens の場合
+
+### <a name="make-and-receive-calls"></a>通話の発信と受信
+
+-   Microsoft Teams でエキスパートとのビデオ通話を開始します。 エキスパートは Teams の無料版をダウンロードし、無料の Microsoft アカウントでサインインすることができます。
+
+-   Teams を使用してエキスパートからビデオ通話を受信します。
+
+-   ビデオ通話を自分のスペースにピン留めするか、通話中の移動が追跡されるようにします。
+
+-   Dynamics 365 for Field Service を開き、フィールド サービス予約の状況に応じてエキスパートに迅速に電話することができます。
+
+### <a name="collaborate-and-annotate"></a>共同作業と注釈付け
+
+-   矢印を配置し、ファイル (イメージまたは PDF) を描画して通話中に自分のスペースに挿入します。
+
+-   矢印とインクの色を変更します。
+
+-   Microsoft Teams デスクトップを使用して、リモートのエキスパートが配置した矢印、描画、ファイルを表示します。
+
+-   通話中にいつでも注釈を消去または元に戻すことができます。
+
+-   Teams でエキスパートとテキスト チャットを行います。
+
+-   注釈のスナップショットを作成して、後で使用できるように保存します。
+
+### <a name="get-assistance-in-another-hololens-application-video"></a>別の HoloLens アプリケーション ビデオのサポートの利用
+
+-   リモート アシストの通話中に、ブルーム ジェスチャを使用してリモート アシスト アプリから離れ、別の HoloLens アプリを起動します。
+
+-   他のアプリケーションのビューを共有し、支援を受けます。
+
+## <a name="in-microsoft-teams-on-a-pc-desktop"></a>PC デスクトップ上の Microsoft Teams の場合
+
+-   HoloLens でリモート アシストを使用して発信や他のユーザーからの通話の受信を行います。
+
+-   デスクトップからリモート アシスト ユーザーの世界に矢印、描画、ファイル (イメージまたは PDF) を挿入します。
+
+-   挿入した注釈を消去して元に戻します。
+
+-   画面を共有し、HoloLens ユーザーに情報を提示します。
+
+-   HoloLens ユーザーとテキスト チャットを行います。
+
+<!-- update links to docs 
+### More information
+[Requirements](requirements.md) <br>
+[Buy and deploy](licensing/buy-and-deploy.md) <br>
+[User Guide](user-guide.md) <br>
+[Use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md) <br>
+[FAQ](faq.md)
+-->
+

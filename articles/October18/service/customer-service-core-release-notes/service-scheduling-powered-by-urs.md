@@ -3,19 +3,19 @@ title: "サービス スケジュール設定は、Universal Resource Scheduling
 description: "サービス スケジュール設定は、Universal Resource Scheduling によって機能強化されました。"
 author: vippand
 manager: mahesh
-ms.date: 7/22/2018
+ms.date: 9/07/2018
 ms.assetid: 7a4a5614-fe4a-4392-88fb-4a5f0996c65d
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: a014f3a7fd5aaf0b3d8f27deb84b0c2d886a809b
+ms.sourcegitcommit: f37556a7ddee0885758aa6cf4e9e442955bb0ccb
+ms.openlocfilehash: fa60b92f2d84953222429ba31271e59722b5a5a8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 09/10/2018
 
 ---
 
@@ -30,7 +30,7 @@ ms.lasthandoff: 07/18/2018
 
 Universal Resource Scheduling (URS) 上に構築された新しいサービス スケジュール設定ソリューションを使用すれば、顧客サービス組織は、サービスやサービス活動などの既存の構成概念を操作しながら、強力な URS 機能 (スケジュール ボードのフィルター ビュー、リソース検索、リソース並べ替え、サービス活動の時間/日付/週間/月間ビューなど) を活用することができます。 
 
-現在 Web クライアント上でサービス スケジュール設定を使用しているお客様には、URS 基づく最新のソリューションへアップグレードするための移行ツールが提供されます。
+現在 Web クライアント上でサービス スケジュール設定を使用しているお客様には、最新のソリューションへアップグレードするための詳細な移行ガイドが提供されます。
 
 > [!div class="mx-imgBorder"]
 > ![Universal Resource Scheduling](media/universal-resource-scheduling.png "Universal Resource Scheduling")

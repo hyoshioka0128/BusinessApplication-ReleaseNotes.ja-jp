@@ -2,19 +2,19 @@
 title: "イタリア向け会計プリンターの統合のサンプル"
 description: "イタリア向け会計プリンターの統合のサンプル"
 manager: AnnBe
-ms.date: 07/22/2018
+ms.date: 08/21/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-author: margoc
-ms.author: margoc
+author: Annbe
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 4c35b8f875fecafe9dd0af634ee42201a4cd175e
+ms.sourcegitcommit: 36a6cd497f6f5277e41135fa1cab5f5c28290f92
+ms.openlocfilehash: 2700b253a65341a58c0824a8c22c2c962ea2443d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/29/2018
 
 ---
 #  <a name="fiscal-printer-integration-sample-for-italy"></a>イタリア向け会計プリンターの統合のサンプル
@@ -23,6 +23,5 @@ ms.lasthandoff: 07/18/2018
 
 
 
-Microsoft Dynamics 365 for Retail には、イタリア向け会計プリンターとの POS の統合のサンプルが含まれるようになります。 統合のサンプルは、イタリアの市場で利用できる一般的な会計プリンター モデルの 1 つをサポートし、イタリアの店での主要な小売りシナリオで会計レシートを印刷できます。 このサンプルは Retail SDK の一部です。 そのままでビルドおよび使用できます。また、実装パートナーは、統合機能を拡張したり、サンプルに基づいて他の会計プリンター モデルで統合を作成したりすることもできます。 
- 
+Microsoft Dynamics 365 for Retail には、イタリア向け会計プリンターとの POS の統合のサンプルが含まれるようになります。 統合のサンプルは、イタリアの市場で利用できる一般的な会計プリンター モデルの 1 つをサポートし、イタリアの店での現金持ち帰り販売シナリオでサンプル会計レシートを印刷できます。 このサンプルは Retail SDK の一部です。 実装パートナーは、必要な小売シナリオすべてに対応できるように統合機能を拡張したり、サンプルに基づいて他の会計プリンター モデルで統合を作成したりすることができます。 
 

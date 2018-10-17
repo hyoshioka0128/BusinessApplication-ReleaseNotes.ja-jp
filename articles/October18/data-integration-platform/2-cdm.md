@@ -12,10 +12,10 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: a1561a448e7906d9509fc41293ac499a4722f458
-ms.openlocfilehash: 907b74b32252754cbfcdfb365f11358d40d80373
+ms.sourcegitcommit: f346fb3e54dd90b7fce25329eac8409b353ae17b
+ms.openlocfilehash: d4d414025d8270df6128791c3ff9954dcda1bffc
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 09/11/2018
 
 ---
 # <a name="easier-sharing-unification-and-enrichment-of-data-with-common-data-model-entities"></a>Common Data Model エンティティを使用した、より簡単なデータの共有、統合、強化
@@ -41,18 +41,13 @@ Microsoft は **ISV のエコシステムと協力**して、Common Data Model �
 <a name="industry"></a>
 ### <a name="industry-extensions-for-strategic-verticals"></a>戦略的な業種向けの業界拡張機能
 
-特定の業種を専門とするパートナーとの協力を通して、Common Data Model は、ヘルスケア、小売、財務分析、教育といった分野で、業界エンティティ パックにより拡張されています。 これらのエンティティ パックは、ビジネス アプリケーション プラットフォーム全体を含む、より大きな業界ソリューション サービスとしてリリースされています。
+特定の業種を専門とするパートナーとの協力を通して、Common Data Model は、ヘルスケア、小売、財務分析、教育といった分野で、業界エンティティ パックにより拡張されています。 これらのエンティティ パックは、ビジネス アプリケーション プラットフォーム全体に渡る、より大規模な業界ソリューション オファリングの一部としてリリースされています。
 
-そのようなパートナーに **CUNA Mutual Group** があります。その AdvantEdge Analytics ソリューションは、信用組合が顧客サービスを向上するのに役立っています。 Common Data Model と標準データ コネクタの拡張機能により、信用組合が使用する基幹業務向けアプリのデータを統合することができます。 
+そのようなパートナーに **CUNA Mutual Group** があります。その AdvantEdge Analytics ソリューションは、信用組合がメンバーへのサービスを向上するのに役立っています。 Common Data Model と標準データ コネクタの拡張機能により、信用組合が使用する基幹業務向けアプリのデータを統合することができます。 
 
 <a name="dynamics"></a>
-### <a name="key-scenarios-from-popular-dynamics-offerings"></a>人気のある Dynamics サービスにおける主要なシナリオ
-人気のある Dynamics サービスにおける主要なシナリオを対象として、他の CDM エンティティの定義が追加されています。これには、Finance、Operations、Marketing のシナリオも含まれます。 更新された Dynamics アプリケーションとともに、顧客は独自のシナリオでこれらの標準エンティティを活用できます。 
-
-### <a name="adobe-xdm"></a>Adobe XDM
-
-**Adobe** は CDM に関連して Microsoft と複数の分野で協力しています。これには、プロファイル エンリッチメントの統一表示および統一された顧客プロファイルが含まれ、Microsoft の CDM と Adobe の XDM を活用することで、各種のサービスやユーザー エクスペリエンスにまたがるスムーズな**相互運用性**を促進しています。
-
+### <a name="key-scenarios-from-popular-dynamics-offerings"></a>人気のある Dynamics オファリングにおける主要なシナリオ
+人気のある Dynamics オファリングにおける主要なシナリオを対象として、他の CDM エンティティの定義が追加されています。これには、Finance、Operations、Marketing のシナリオも含まれます。 更新された Dynamics アプリケーションとともに、顧客は独自のシナリオでこれらの標準エンティティを活用できます。 
 
 ##  <a name="common-data-model-community-content"></a>Common Data Model のコミュニティ コンテンツ
 
