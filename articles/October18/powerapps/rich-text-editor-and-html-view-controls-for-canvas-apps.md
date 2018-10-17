@@ -18,10 +18,10 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 09/10/2018
 
 ---
-# <a name="rich-text-editor-and-html-view-controls-for-canvas-apps"></a><span data-ttu-id="a5ced-103">Rich Text Editor and HTML view controls for canvas apps</span><span class="sxs-lookup"><span data-stu-id="a5ced-103">Rich Text Editor and HTML view controls for canvas apps</span></span>
+# <a name="rich-text-editor-and-html-view-controls-for-canvas-apps"></a><span data-ttu-id="10c93-103">キャンバス アプリのリッチ テキスト エディターおよび HTML ビュー コントロール</span><span class="sxs-lookup"><span data-stu-id="10c93-103">Rich Text Editor and HTML view controls for canvas apps</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="a5ced-104">アプリ開発者は、キャンバス アプリの新しいリッチ テキスト エディター コントロールを利用して、エンド ユーザーがテキストのスタイル設定、一覧の組み込み、リンクの挿入を行えるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="a5ced-104">App makers can leverage the new Rich Text Editor control in canvas apps to allow end users to style their text, include lists, and insert links.</span></span>  <span data-ttu-id="a5ced-105">この新しいコントロールと HTML ビュー コントロールにより、アプリのエンド ユーザーは、アプリでの電子メールやレポートの編集などのシナリオに対してテキストのカスタマイズを完全に制御できます。</span><span class="sxs-lookup"><span data-stu-id="a5ced-105">This new control along with the HTML view control gives end users of apps full control of customizing text for scenarios like email and report editing in an app.</span></span> 
+<span data-ttu-id="10c93-104">アプリ開発者は、キャンバス アプリの新しいリッチ テキスト エディター コントロールを利用して、エンド ユーザーがテキストのスタイル設定、一覧の組み込み、リンクの挿入を行えるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="10c93-104">App makers can leverage the new Rich Text Editor control in canvas apps to allow end users to style their text, include lists, and insert links.</span></span>  <span data-ttu-id="10c93-105">この新しいコントロールと HTML ビュー コントロールにより、アプリのエンド ユーザーは、アプリでの電子メールやレポートの編集などのシナリオに対してテキストのカスタマイズを完全に制御できます。</span><span class="sxs-lookup"><span data-stu-id="10c93-105">This new control along with the HTML view control gives end users of apps full control of customizing text for scenarios like email and report editing in an app.</span></span> 
 

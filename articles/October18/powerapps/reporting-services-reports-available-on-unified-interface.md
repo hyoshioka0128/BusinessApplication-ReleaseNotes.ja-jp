@@ -18,10 +18,10 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 09/10/2018
 
 ---
-# <a name="reporting-services-reports-will-be-available-on-unified-interface"></a><span data-ttu-id="7d7a6-103">Reporting Services Reports will be available on Unified Interface</span><span class="sxs-lookup"><span data-stu-id="7d7a6-103">Reporting Services Reports will be available on Unified Interface</span></span>
+# <a name="reporting-services-reports-will-be-available-on-unified-interface"></a><span data-ttu-id="9a2a7-103">Reporting Services レポートを統一インターフェイスで使用できる</span><span class="sxs-lookup"><span data-stu-id="9a2a7-103">Reporting Services Reports will be available on Unified Interface</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="7d7a6-104">レポートを使用して、ビジネスの管理、進行状況の状態の分析、または単純にアイテム レベルのデータ概要の表示を行います。</span><span class="sxs-lookup"><span data-stu-id="7d7a6-104">Use reports to manage your business, analyze the state of progress, or simply view a line-item level summary of data.</span></span> <span data-ttu-id="7d7a6-105">You can manage your SSRS reports and run entity-level reports from any record or grid.</span><span class="sxs-lookup"><span data-stu-id="7d7a6-105">You can manage your SSRS reports and run entity-level reports from any record or grid.</span></span>
+<span data-ttu-id="9a2a7-104">レポートを使用して、ビジネスの管理、進行状況の状態の分析、または単純にアイテム レベルのデータ概要の表示を行います。</span><span class="sxs-lookup"><span data-stu-id="9a2a7-104">Use reports to manage your business, analyze the state of progress, or simply view a line-item level summary of data.</span></span> <span data-ttu-id="9a2a7-105">SSRS レポートを管理し、レコードまたはグリッドからエンティティ レベルのレポートを実行できます。</span><span class="sxs-lookup"><span data-stu-id="9a2a7-105">You can manage your SSRS reports and run entity-level reports from any record or grid.</span></span>
 
