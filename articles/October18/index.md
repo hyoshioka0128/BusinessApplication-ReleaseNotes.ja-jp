@@ -23,9 +23,9 @@ ms.lasthandoff: 09/22/2018
 
 
 
-[![背景イメージ 1](../media/Landing-page-image-october2018.png)](https://go.microsoft.com/fwlink/p/?linkid=2005971)
+[![背景イメージ 1](../media/Landing-page-image-october2018.png)](https://go.microsoft.com/fwlink/?linkid=2005971&clcid=0x411)
 
-[2018 年 10 月リリース ノート PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2005971) (最終更新日 2018/9/24)
+[2018 年 10 月リリース ノート PDF のダウンロード](https://go.microsoft.com/fwlink/?linkid=2005971&clcid=0x411) (最終更新日 2018/9/24)
 
 Microsoft のビジネス アプリケーション リリース 2018 年 10 月ウェーブでは、ビジネスを変革するための重要な機能が提供されています。 これらの新しいサービスや機能は、2018 年 10 月から提供開始となります。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
