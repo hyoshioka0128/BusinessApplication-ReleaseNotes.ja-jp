@@ -18,7 +18,7 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="powerapps-forms-in-sharepoint-are-faster"></a>PowerApps forms in SharePoint are faster
+# <a name="powerapps-forms-in-sharepoint-are-faster"></a>SharePoint の PowerApps フォームの速度が向上
 
 
 [!include[banner](../../includes/banner.md)]

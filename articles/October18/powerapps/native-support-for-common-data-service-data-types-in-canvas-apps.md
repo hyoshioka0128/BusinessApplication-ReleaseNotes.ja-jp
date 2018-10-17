@@ -18,7 +18,7 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="native-support-for-common-data-service-data-types-in-canvas-apps"></a>Native support for Common Data Service data types in canvas apps
+# <a name="native-support-for-common-data-service-data-types-in-canvas-apps"></a>キャンバス アプリでの Common Data Service データ型のネイティブ サポート
 
 
 [!include[banner](../../includes/banner.md)]

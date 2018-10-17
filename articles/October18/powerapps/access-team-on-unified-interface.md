@@ -18,7 +18,7 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="access-team-on-unified-interface"></a>Access team on Unified Interface
+# <a name="access-team-on-unified-interface"></a>統一インターフェイス上のアクセス チーム
 
 
 [!include[banner](../../includes/banner.md)]

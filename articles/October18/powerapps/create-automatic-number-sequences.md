@@ -18,10 +18,10 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 08/16/2018
 
 ---
-# <a name="create-automatic-number-sequences"></a>Create automatic number sequences
+# <a name="create-automatic-number-sequences"></a>自動採番の作成
 
 
 [!include[banner](../../includes/banner.md)]
 
-In PowerApps, you can define one or more sequences in which numbers are generated automatically and applied to entities in Common Data Service for Apps.
+PowerApps では、数字が自動で生成されてアプリ用  Common Data Service のエンティティに適用されるよう、1 つ以上のシーケンスを定義できます。
 

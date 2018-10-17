@@ -18,7 +18,7 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="errors-more-discoverable-by-app-makers"></a>Errors more discoverable by app makers
+# <a name="errors-more-discoverable-by-app-makers"></a>アプリ開発者向けのエラー検出機能の強化
 
 
 [!include[banner](../../includes/banner.md)]

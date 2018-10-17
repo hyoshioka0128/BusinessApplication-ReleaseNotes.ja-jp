@@ -18,7 +18,7 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries"></a>PowerApps makers can create mashup apps with SharePoint Document Libraries
+# <a name="powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries"></a>PowerApps アプリ開発者は SharePoint ドキュメント ライブラリをアプリへ組み込むことが可能に
 
 
 [!include[banner](../../includes/banner.md)]

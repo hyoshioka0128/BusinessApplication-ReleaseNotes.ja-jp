@@ -18,7 +18,7 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="choose-your-own-size-of-app"></a>Choose your own size of app
+# <a name="choose-your-own-size-of-app"></a>アプリ サイズの自由な指定
 
 
 [!include[banner](../../includes/banner.md)]

@@ -18,7 +18,7 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="model-driven-mobile-applications-are-more-reliable"></a>Model-driven mobile applications are more reliable
+# <a name="model-driven-mobile-applications-are-more-reliable"></a>モデル駆動型モバイル アプリケーションの信頼性が向上
 
 
 [!include[banner](../../includes/banner.md)]

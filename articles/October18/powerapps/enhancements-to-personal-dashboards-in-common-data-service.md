@@ -18,7 +18,7 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="end-users-can-create-personal-dashboards-and-share-them-with-other-users-and-teams"></a>End users can create personal dashboards and share them with other users and teams
+# <a name="end-users-can-create-personal-dashboards-and-share-them-with-other-users-and-teams"></a>エンドユーザーは個人用ダッシュボードを作成して他のユーザーやチームと共有可能
 
 
 [!include[banner](../../includes/banner.md)]

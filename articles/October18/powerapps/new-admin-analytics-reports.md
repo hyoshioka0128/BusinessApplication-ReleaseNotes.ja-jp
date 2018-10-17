@@ -1,6 +1,6 @@
 ---
-title: New admin analytics reports
-description: New PowerApps, Microsoft Flow, and Common Data Service for Apps usage reports available to all admins
+title: "新しい管理者向け分析レポート"
+description: "新しい PowerApps、Microsoft Flow、およびアプリ用 Common Data Service の使用状況レポートをすべての管理者が利用できます"
 author: jamesol-msft
 manager: KVivek
 ms.date: 9/11/2018
@@ -18,7 +18,7 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 08/16/2018
 
 ---
-# <a name="new-admin-analytics-reports"></a>New admin analytics reports
+# <a name="new-admin-analytics-reports"></a>新しい管理者向け分析レポート
 
 
 [!include[banner](../../includes/banner.md)]

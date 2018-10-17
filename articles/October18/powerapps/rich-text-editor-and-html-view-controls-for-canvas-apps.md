@@ -18,7 +18,7 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="rich-text-editor-and-html-view-controls-for-canvas-apps"></a>Rich Text Editor and HTML view controls for canvas apps
+# <a name="rich-text-editor-and-html-view-controls-for-canvas-apps"></a>キャンバス アプリのリッチ テキスト エディターおよび HTML ビュー コントロール
 
 
 [!include[banner](../../includes/banner.md)]
