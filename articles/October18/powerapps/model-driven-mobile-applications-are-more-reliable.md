@@ -18,10 +18,10 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 09/10/2018
 
 ---
-# <a name="model-driven-mobile-applications-are-more-reliable"></a><span data-ttu-id="0a83e-103">モデル駆動型モバイル アプリケーションの信頼性が向上</span><span class="sxs-lookup"><span data-stu-id="0a83e-103">Model-driven mobile applications are more reliable</span></span>
+# <a name="model-driven-mobile-applications-are-more-reliable"></a><span data-ttu-id="30d6c-103">モデル駆動型モバイル アプリケーションの信頼性が向上</span><span class="sxs-lookup"><span data-stu-id="30d6c-103">Model-driven mobile applications are more reliable</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="0a83e-104">モバイル アプリケーションは高速に実行され、フリーズしません。</span><span class="sxs-lookup"><span data-stu-id="0a83e-104">Mobile applications run faster and don't hang.</span></span> <span data-ttu-id="0a83e-105">ユーザーに表示されるエラーはアクション可能であり、自己解決が可能か、Microsoft に関連情報を提供して迅速なサポートを受けることができます。</span><span class="sxs-lookup"><span data-stu-id="0a83e-105">Any errors that users see are actionable to enable self-resolution or provide relevant information to Microsoft for quick support.</span></span>
+<span data-ttu-id="30d6c-104">モバイル アプリケーションは高速に実行され、フリーズしません。</span><span class="sxs-lookup"><span data-stu-id="30d6c-104">Mobile applications run faster and don't hang.</span></span> <span data-ttu-id="30d6c-105">ユーザーに表示されるエラーはアクション可能であり、自己解決が可能か、Microsoft に関連情報を提供して迅速なサポートを受けることができます。</span><span class="sxs-lookup"><span data-stu-id="30d6c-105">Any errors that users see are actionable to enable self-resolution or provide relevant information to Microsoft for quick support.</span></span>
 

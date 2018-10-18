@@ -18,10 +18,10 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 09/10/2018
 
 ---
-# <a name="choose-your-own-size-of-app"></a><span data-ttu-id="0ee56-103">アプリ サイズの自由な指定</span><span class="sxs-lookup"><span data-stu-id="0ee56-103">Choose your own size of app</span></span>
+# <a name="choose-your-own-size-of-app"></a><span data-ttu-id="abd98-103">アプリ サイズの自由な指定</span><span class="sxs-lookup"><span data-stu-id="abd98-103">Choose your own size of app</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="0ee56-104">キャンバス アプリを作成するか更新するとき、幅と高さを自由に指定できます。</span><span class="sxs-lookup"><span data-stu-id="0ee56-104">When you create or update a canvas app, you can customize its width and height.</span></span> <span data-ttu-id="0ee56-105">たとえば、4K モニターで使用するアプリ、または Office や Dynamics 製品内のさまざまなアプリケーションに組み込むアプリを構成できます。</span><span class="sxs-lookup"><span data-stu-id="0ee56-105">For example, you can configure an app for use on 4K monitors or embedded into a variety of applications inside of Office and Dynamics products.</span></span>
+<span data-ttu-id="abd98-104">キャンバス アプリを作成するか更新するとき、幅と高さを自由に指定できます。</span><span class="sxs-lookup"><span data-stu-id="abd98-104">When you create or update a canvas app, you can customize its width and height.</span></span> <span data-ttu-id="abd98-105">たとえば、4K モニターで使用するアプリ、または Office や Dynamics 製品内のさまざまなアプリケーションに組み込むアプリを構成できます。</span><span class="sxs-lookup"><span data-stu-id="abd98-105">For example, you can configure an app for use on 4K monitors or embedded into a variety of applications inside of Office and Dynamics products.</span></span>
 

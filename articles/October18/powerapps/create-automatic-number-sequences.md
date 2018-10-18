@@ -18,10 +18,10 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 09/10/2018
 
 ---
-# <a name="create-automatic-number-sequences"></a><span data-ttu-id="975cf-103">自動採番の作成</span><span class="sxs-lookup"><span data-stu-id="975cf-103">Create automatic number sequences</span></span>
+# <a name="create-automatic-number-sequences"></a><span data-ttu-id="cebb0-103">自動採番の作成</span><span class="sxs-lookup"><span data-stu-id="cebb0-103">Create automatic number sequences</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="975cf-104">PowerApps では、数字が自動で生成されてアプリ用  Common Data Service のエンティティに適用されるよう、1 つ以上のシーケンスを定義できます。</span><span class="sxs-lookup"><span data-stu-id="975cf-104">In PowerApps, you can define one or more sequences in which numbers are generated automatically and applied to entities in Common Data Service for Apps.</span></span>
+<span data-ttu-id="cebb0-104">PowerApps では、数字が自動で生成されてアプリ用  Common Data Service のエンティティに適用されるよう、1 つ以上のシーケンスを定義できます。</span><span class="sxs-lookup"><span data-stu-id="cebb0-104">In PowerApps, you can define one or more sequences in which numbers are generated automatically and applied to entities in Common Data Service for Apps.</span></span>
 

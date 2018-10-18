@@ -18,10 +18,10 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 09/10/2018
 
 ---
-# <a name="access-team-on-unified-interface"></a><span data-ttu-id="52b0f-103">統一インターフェイス上のアクセス チーム</span><span class="sxs-lookup"><span data-stu-id="52b0f-103">Access team on Unified Interface</span></span>
+# <a name="access-team-on-unified-interface"></a><span data-ttu-id="48d9f-103">統一インターフェイス上のアクセス チーム</span><span class="sxs-lookup"><span data-stu-id="48d9f-103">Access team on Unified Interface</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="52b0f-104">アクセス チーム機能は統一インターフェイス ランタイムに反映されます。</span><span class="sxs-lookup"><span data-stu-id="52b0f-104">Access team capabilities will be honored during Unified Interface runtime.</span></span> <span data-ttu-id="52b0f-105">アクセス チームは、組織、セキュリティ ロール、またはチーム経由でベース セキュリティ モデルを変更または更新することなく、部門チームにレコードを公開および共有する別の方法を提供します。</span><span class="sxs-lookup"><span data-stu-id="52b0f-105">Access teams provide an alternate way of exposing and sharing records across functional teams without the need to modify or update the base security model via Business Units, Security Roles, or Teams.</span></span>
+<span data-ttu-id="48d9f-104">アクセス チーム機能は統一インターフェイス ランタイムに反映されます。</span><span class="sxs-lookup"><span data-stu-id="48d9f-104">Access team capabilities will be honored during Unified Interface runtime.</span></span> <span data-ttu-id="48d9f-105">アクセス チームは、組織、セキュリティ ロール、またはチーム経由でベース セキュリティ モデルを変更または更新することなく、部門チームにレコードを公開および共有する別の方法を提供します。</span><span class="sxs-lookup"><span data-stu-id="48d9f-105">Access teams provide an alternate way of exposing and sharing records across functional teams without the need to modify or update the base security model via Business Units, Security Roles, or Teams.</span></span>
 
