@@ -12,10 +12,10 @@ ms.technology:
 ms.author: nenandw
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 7e0954b5f4a23af4780aa48b1b609c68fc7ae6e3
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 4cc4cae09f6e22a6ec165d69a19c70777175b3ef
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/20/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="enable-voting-for-status-reasons"></a>ステータスに対して投票を有効にする

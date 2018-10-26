@@ -11,10 +11,10 @@ ms.technology:
 ms.author: avive
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 2ddd4b42d13f15731ed8fd2f46f3376477b2eb3c
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 49c41917c7724e5a2da819bdc03f38177f0d55a8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/11/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="create-a-power-bi-service-app-package-public-preview"></a>Power BI サービス アプリ パッケージの作成 (パブリック プレビュー)

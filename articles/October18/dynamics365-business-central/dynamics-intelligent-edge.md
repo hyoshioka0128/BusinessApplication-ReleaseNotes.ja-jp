@@ -12,10 +12,10 @@ ms.technology:
 ms.author: edupont
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: a4fc519fe5d22b76e5000b7c6d5d9cdd92dae898
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="intelligent-edge-for-dynamics-gp-dynamics-sl-and-dynamics-nav"></a>Dynamics GP、Dynamics SL、Dynamics NAV のインテリジェント エッジ

@@ -12,10 +12,10 @@ ms.technology:
 ms.author: jacoh
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 9d939e87e6e747b4cdcadb7acb5958736f547145
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 6d2db42406bb27539fc7c57ccca51367a81fdb4f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/17/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="entitlement-management"></a>権利の管理

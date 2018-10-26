@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mikebc
 audience: end user, developer, customizer, business analyst
 ms.translationtype: HT
-ms.sourcegitcommit: 8b8612bb36ad0e7abd0c55439652b9015c944035
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 431234897d8e0475e28e04bfcd51e605e6cb6d16
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/24/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 

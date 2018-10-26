@@ -11,10 +11,10 @@ ms.technology:
 ms.author: aolson
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 6e0e3883d3e4ceeada94c61e5623aa8852e8b374
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="reporting-currency-in-financial-reporting"></a>財務レポートのレポート通貨

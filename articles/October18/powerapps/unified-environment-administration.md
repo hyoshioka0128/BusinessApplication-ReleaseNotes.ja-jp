@@ -12,10 +12,10 @@ ms.technology:
 ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 6f57991a7dbe0b89fb0cb342aecd60d427944fae
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: a2713b66d46d4413b434ff21e9fd645b50b83cfd
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/13/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="unified-environment-administration-from-power-platform-admin-center"></a>Power Platform 管理センターへの環境管理機能の統合

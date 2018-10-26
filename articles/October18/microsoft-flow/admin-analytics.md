@@ -1,10 +1,10 @@
 ---
 redirect_url: ../../April18/microsoft-flow/admin-analytics
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbb3e04014348b979f24081a39066f4e42f4743
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 595f2acf65e7e4dbc53005336b37dc9b751f8193
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/05/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 

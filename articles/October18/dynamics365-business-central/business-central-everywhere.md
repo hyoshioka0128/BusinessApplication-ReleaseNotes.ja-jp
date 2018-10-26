@@ -11,10 +11,10 @@ ms.technology:
 ms.author: blazkote
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 5eda86ab05b375f2f919fc04c5089565ba4d7c86
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 475c85e3d78dcffbc0ea86554d26f56488aa8cda
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/13/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="business-central-everywhere"></a>どこからでも Business Central を使用可能
