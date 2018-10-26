@@ -12,10 +12,10 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: c45edf358d80b5831b80db4b1c423f39dcd79b63
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 6ca2d3391f48462fae54fd1065a6cd4814703dd1
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/07/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 

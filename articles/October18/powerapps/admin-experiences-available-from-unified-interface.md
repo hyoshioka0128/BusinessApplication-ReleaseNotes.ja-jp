@@ -12,10 +12,10 @@ ms.technology:
 ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 6f57991a7dbe0b89fb0cb342aecd60d427944fae
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: f850318c4c424051238985722a6ad4e582f65ba3
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/13/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="manage-admin-settings-from-the-power-platform-admin-center-public-preview"></a><span data-ttu-id="9a857-103">Power Platform 管理センターからの管理設定の管理 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="9a857-103">Manage admin settings from the Power platform admin center (Public Preview)</span></span>

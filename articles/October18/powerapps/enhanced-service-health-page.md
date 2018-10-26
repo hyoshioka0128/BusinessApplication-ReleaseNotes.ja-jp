@@ -12,10 +12,10 @@ ms.technology:
 ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 6f57991a7dbe0b89fb0cb342aecd60d427944fae
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 8cb300a2d7e46359aeb1e900f5d70fca8159b7ad
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/13/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="enhanced-service-health-page-public-preview"></a><span data-ttu-id="fa5ad-103">サービス正常性ページの強化 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="fa5ad-103">Enhanced Service Health page (Public Preview)</span></span>

@@ -12,10 +12,10 @@ ms.technology:
 ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 6f57991a7dbe0b89fb0cb342aecd60d427944fae
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: ca43338c47a8970502fdda626e9050914adc7b96
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/13/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="powerapps-audit-events-public-preview"></a><span data-ttu-id="ffae0-103">PowerApps 監査イベント (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="ffae0-103">PowerApps audit events (Public Preview)</span></span>

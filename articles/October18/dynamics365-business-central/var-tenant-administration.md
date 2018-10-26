@@ -12,10 +12,10 @@ ms.technology:
 ms.author: danderso
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 2d0118fd46a8b735e88c008b2c9a0677e8db750b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="tenant-administration-for-vars"></a><span data-ttu-id="03a6d-103">VAR 向けテナント管理</span><span class="sxs-lookup"><span data-stu-id="03a6d-103">Tenant administration for VARs</span></span>

@@ -12,10 +12,10 @@ ms.technology:
 ms.author: avive
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 2ddd4b42d13f15731ed8fd2f46f3376477b2eb3c
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 2a71bd79224142b3722603420726e17f96df2824
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/11/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="personalization-public-preview"></a><span data-ttu-id="a9875-103">個人用設定 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="a9875-103">Personalization (Public Preview)</span></span>

@@ -11,10 +11,10 @@ ms.author: mhart
 manager: shellyha
 topic-status: Drafting
 ms.translationtype: HT
-ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 378ec5ccc9f64dba9e2a87e49537b8fbf8bfbf4e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/22/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 

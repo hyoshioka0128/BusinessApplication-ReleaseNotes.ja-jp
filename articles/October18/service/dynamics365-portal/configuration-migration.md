@@ -12,10 +12,10 @@ ms.technology:
 ms.author: sandhan
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 7e0954b5f4a23af4780aa48b1b609c68fc7ae6e3
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 589c266f81868780f660f9c174dc5538728174ef
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/20/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="configuration-migration"></a><span data-ttu-id="bfe15-103">構成の移行</span><span class="sxs-lookup"><span data-stu-id="bfe15-103">Configuration migration</span></span>

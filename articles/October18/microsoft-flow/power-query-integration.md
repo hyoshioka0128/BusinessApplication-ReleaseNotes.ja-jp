@@ -1,10 +1,10 @@
 ---
 redirect_url: ../../April18/microsoft-flow/power-query-integration
 ms.translationtype: HT
-ms.sourcegitcommit: 9dbb3e04014348b979f24081a39066f4e42f4743
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: a4acaeebe66fd92492218f31221ad3675054ab6d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/05/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 

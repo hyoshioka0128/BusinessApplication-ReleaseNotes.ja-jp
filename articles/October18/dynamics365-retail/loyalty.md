@@ -12,10 +12,10 @@ ms.technology:
 ms.author: shajain
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 44e4c7e4f95b2418f178424eb9cf8a24fd6fdd1f
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 6653ee90991eed77d95fb021f107fef25920c991
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="loyalty-enhancements"></a><span data-ttu-id="641e6-103">ロイヤルティの機能強化</span><span class="sxs-lookup"><span data-stu-id="641e6-103">Loyalty enhancements</span></span>
