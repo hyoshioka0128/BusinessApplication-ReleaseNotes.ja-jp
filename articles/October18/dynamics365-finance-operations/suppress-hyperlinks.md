@@ -3,7 +3,7 @@ title: "ハイパーリンクの抑制"
 description: "開発者はコントロールのハイパーリンクを抑制できます"
 author: jasongre
 manager: AnnBe
-ms.date: 08/10/2018
+ms.date: 11/08/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,8 +19,6 @@ ms.lasthandoff: 10/26/2018
 ---
 
 # <a name="suppressing-hyperlinks"></a>ハイパーリンクの抑制
-
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 開発者は、**EnableFormRef** プロパティを **No** に設定することによって、フォーム コントロールのハイパーリンクを抑制できます。 このプロパティは、フォームとフォーム拡張機能の両方で設定できます。 ハイパーリンクを抑制すると、右クリック コンテキスト メニューの対応する**詳細の表示**オプションも表示されなくなります。 
  
