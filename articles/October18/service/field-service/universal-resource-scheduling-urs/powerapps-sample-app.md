@@ -1,7 +1,7 @@
 ---
 title: "PowerApps サンプル アプリ"
 description: "リソースの空き時間の検索 API と対話でき、予約を作成するための情報を返すことができる、URS 向けの標準 PowerApps サンプル アプリを提供しています。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 96e82715-35fd-4587-a004-bbf57a14c1b2
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: c5b3e04346db2cfad13763c6ebbf827187e6fea4
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 8231aa2c799b41eb22659ff64fd33b06637f1f30
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 

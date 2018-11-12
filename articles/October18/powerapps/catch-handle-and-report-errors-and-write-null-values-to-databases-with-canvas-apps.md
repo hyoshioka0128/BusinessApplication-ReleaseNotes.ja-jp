@@ -1,6 +1,6 @@
 ---
-title: Catch, handle, and report errors, and write Null values to databases with canvas apps
-description: App makers can take control of errors when they happen and, as a side benefit, write Null values.
+title: "キャンバス アプリによるエラーの捕捉、処理、レポートとデータベースへの Null 値の書き込み"
+description: "アプリ開発者は発生したエラーをコントロールし、補足的なメリットとして Null 値を書き込めます。"
 author: gregli-msft
 manager: KVivek
 ms.date: 9/3/2018
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: gregli
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: c198c53f04636c4cbef3f6723cfa5246afc06cfa
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 3c5fbf4a44a8de37d7b750f4c30a28967c62c10b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps-public-preview"></a>キャンバス アプリによるエラーの捕捉、処理、レポートとデータベースへの Null 値の書き込み (パブリック プレビュー)
@@ -23,7 +23,7 @@ ms.lasthandoff: 08/16/2018
 
 [!include[banner](../../includes/banner.md)]
 
-アプリを作成中にエラーが発生するのは仕方がないことです。  キャンバス アプリはエラーが発生したときの既定の動作を提供しますが、希望するものとは異なる場合があります。  With this feature, you can catch, interrogate, throw, suppress, log, and message errors to your users.
+アプリを作成中にエラーが発生するのは仕方がないことです。 キャンバス アプリはエラーが発生したときの既定の動作を提供しますが、希望するものとは異なる場合があります。 この機能を使用すると、エラーの補足、問い合わせ、スロー、抑制、ログ記録、ユーザーに対するメッセージの送信を行えます。
 
-Errors and Null values were previously indistinguishable, so pushing Null values to databases was a problem.  Null is a legitimate value in many database systems.  With errors properly separated out in canvas apps, you can write Null values to all databases.
+以前は、エラーと Null 値を判別できてないにもかかわらず、データベースに Null 値を書き込むのは問題でした。 Null は多くのデータベース システムでは正当な値です。 キャンバス アプリでエラーの場合と適切に分離することにより、すべてのデータベースに Null 値を書き込めます。
 

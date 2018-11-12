@@ -3,7 +3,7 @@ title: "複数選択とグループ化"
 description: "複数のモデルを選択し、まとめて移動または回転させることができます。"
 author: ReneeW-CPub
 manager: AnnBe
-ms.date: 09/24/2018
+ms.date: 10/10/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +11,10 @@ ms.technology:
 ms.author: gkaralis
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
-ms.openlocfilehash: 7cd67c6833fd1f463cd5605407dc0177c69aa52c
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: b327d75575a440b3913ea5faa19dadba3b59ecd9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/22/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
@@ -36,7 +36,7 @@ Microsoft Dynamics 365 レイアウトで、複数のモデルを選択し、ま
 
 *Mixed Reality での複数選択*
 
-<!-- link to user guide 
-[Learn more about multi-select.]()
--->
+
+[複数選択の詳細をご覧ください。](https://docs.microsoft.com/dynamics365/mixed-reality/layout/user-guide)
+
 

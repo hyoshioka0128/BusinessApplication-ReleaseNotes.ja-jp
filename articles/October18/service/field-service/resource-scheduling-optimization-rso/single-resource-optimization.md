@@ -1,7 +1,7 @@
 ---
 title: "単一リソース最適化"
 description: "単一リソース最適化を使用すると、選択されたリソースをすばやく簡単に再最適化することができるので、1 日の間に何らかのスケジュール変更が発生した場合でも、リソースのルーティングを最適に維持できます。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 01046635-c9ae-4684-bb62-ec566cc77884
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 295d8172409dd27f583cfac07b8f001906b45a4f
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: c3ba0d63476d8009b54e81e23ca55e905a2e0a92
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 

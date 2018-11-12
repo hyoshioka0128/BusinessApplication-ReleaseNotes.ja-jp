@@ -1,7 +1,7 @@
 ---
 title: "統合されたルーティングと作業の配分"
 description: "統合されたルーティング機能と作業配分機能を使用して、チャット、メッセージング、および Web ポータル チャネルから発生した作業項目を、組織内の複数の顧客サービス サポート チームにルーティングできます。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: ee759f9f-6625-4dd2-8c55-1c6d0d134038
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 858186ea47cd2226d5859e40ab82d6d744225480
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 9c9b459a85dd76c916382866e7b7d08986ebe91d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 

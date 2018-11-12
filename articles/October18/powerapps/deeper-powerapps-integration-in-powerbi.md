@@ -2,20 +2,20 @@
 title: "Power BI 内の PowerApps のより深い統合"
 description: "Power BI 向けの PowerApps ビジュアルが一般提供されます"
 author: chmoncay
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 161c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: chmoncay
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 7dce4c8d45efe14b590c914a39240d2df64d50f3
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 776f0aeb8c1d74113921d1849894e2189be66943
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="deeper-powerapps-integration-in-power-bi"></a>Power BI 内の PowerApps のより深い統合
@@ -23,5 +23,5 @@ ms.lasthandoff: 07/18/2018
 
 [!include[banner](../../includes/banner.md)]
 
-BI 作成者は、運用ソリューションの Power BI レポート内で PowerApps を使用できます。 レポート作成者は、PowerApps から Power BI レポートを最新の情報に更新して、レポート内のデータ ウェアハウスをより多くの方法でトランザクション操作できます。  BI 作成者は、各自のアプリとレポートに簡略化された共有オプションを使用することもできます。
+BI 作成者は、運用ソリューションの Power BI レポート内で PowerApps を使用できます。 レポート作成者は、PowerApps から Power BI レポートを最新の情報に更新して、レポート内のデータ ウェアハウスをより多くの方法でトランザクション操作できます。BI 作成者は、各自のアプリとレポートに簡略化された共有オプションを使用することもできます。
 

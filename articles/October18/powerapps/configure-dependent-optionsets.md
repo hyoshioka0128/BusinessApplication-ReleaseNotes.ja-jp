@@ -1,5 +1,5 @@
 ---
-title: Configure dependent option sets
+title: "依存オプション セットの構成"
 description: "依存オプション セットを構成すると、アプリでカスケード ドロップダウンを提供し、ドロップダウン間で簡単なデータ検証を行えます。"
 author: clwesene
 manager: KVivek
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: clwesene
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 675d9136f9d13c43bd36aa00a5c2da1f89242edf
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 47474939488d1eb295a7da01faa359c0f5859a37
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="configure-dependent-option-sets-public-preview"></a>依存オプション セットの構成 (パブリック プレビュー)
@@ -23,5 +23,5 @@ ms.lasthandoff: 08/16/2018
 
 [!include[banner](../../includes/banner.md)]
 
-依存オプション セットを作成することで、オプション セット間で簡単にルールを設定して、選択した値の整合性を保てます。 As an example, you can create a **Country/region** option set and a **States** option set. If a user selects **United States** in the drop-down list for the first option set, the drop-down list for the second option set should show only those states that are in that country/region. You can ensure that data is consistent and accurate by defining this structure at the entity level for consumption in all apps.
+依存オプション セットを作成することで、オプション セット間で簡単にルールを設定して、選択した値の整合性を保てます。 たとえば、**国/地域**オプション セットおよび**都道府県**オプション セットを作成できます。 ユーザーが最初のオプション セットのドロップダウン リストで**日本**を選択した場合、2 番目のオプション セットのドロップダウン リストには、その国/地域にある都道府県だけが表示されます。 この構成がすべてのアプリで使用されるようエンティティ レベルで定義することで、データの整合性と正確性を確保できます。
 

@@ -1,7 +1,7 @@
 ---
 title: "オムニチャネル注文処理の向上"
 description: "オムニチャネル注文処理の向上"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 5c07646b-1dc8-4149-af28-b8269992ff26
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 433811a25ce1b6b1a413ff25fed726c2f93a7763
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: ad4b2ab125b6e03f89711f536892d1d27ee03288
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="improved-omni-channel-order-processing"></a>オムニチャネル注文処理の向上

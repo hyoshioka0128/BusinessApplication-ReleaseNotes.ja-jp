@@ -11,13 +11,13 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: d793966c7933c8cf5ad1ce177161631d3b1eef3c
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: b766eaf6f4e412501b8756ca6f070ce21fcec6cb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-#  <a name="adjustments-to-approved-time-expense-and-journal-lines"></a>承認済みの時間、経費、仕訳帳明細行の調整 
+#  <a name="adjustments-to-approved-time-expense-and-journal-lines"></a>承認済みの時間、経費、仕訳帳明細行の調整 
 
 [!include[project-service banner](../../../includes/project-service.md)]
 

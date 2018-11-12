@@ -12,13 +12,13 @@ ms.technology:
 ms.author: shpareek
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 6a1aba1d6eb3a748d37d7430744d30e1428ec8b4
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 38affdcc3fe439ad8d026588bd7e72b116e89d28
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries"></a>PowerApps makers can create mashup apps with SharePoint Document Libraries
+# <a name="powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries"></a>PowerApps アプリ開発者は SharePoint ドキュメント ライブラリをアプリへ組み込むことが可能に
 
 
 [!include[banner](../../includes/banner.md)]

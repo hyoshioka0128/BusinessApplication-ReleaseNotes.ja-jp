@@ -11,10 +11,10 @@ ms.technology:
 ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: f37556a7ddee0885758aa6cf4e9e442955bb0ccb
-ms.openlocfilehash: b778352b3c38b1467362f8c6966a691b6fe2e482
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: b6a9664c7dee1e53db19eaf6ea09f30073f255ea
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="simplification-through-configurable-templates"></a>構成可能なテンプレートによる簡略化 

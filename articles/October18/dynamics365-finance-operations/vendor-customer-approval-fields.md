@@ -1,20 +1,20 @@
 ---
 title: "特定のフィールドに対する仕入先や顧客の承認"
 description: "特定のフィールドに対する仕入先や顧客の承認"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 704c4a4ef26fe21ad3ca9224cbf22cedb9145142
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 3e272b908e179e5092a842a806fe7e46941c6a91
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="vendor-or-customer-approvals-for-specific-fields"></a>特定のフィールドに対する仕入先や顧客の承認

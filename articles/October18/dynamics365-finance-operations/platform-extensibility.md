@@ -3,7 +3,7 @@ title: "プラットフォーム拡張性の機能強化"
 description: "プラットフォーム拡張性の機能強化"
 author: ChrisGarty
 manager: AnnBe
-ms.date: 08/10/2018
+ms.date: 11/08/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,16 +11,14 @@ ms.technology:
 ms.author: cgarty
 audience: developer, customizer
 ms.translationtype: HT
-ms.sourcegitcommit: 2b59c75306961c1f7182679096aa1336d32d508d
-ms.openlocfilehash: de401295109fbcad486c958530bafb8c8c7ce4a0
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: eef6fac3fa0da19d74941cd422a87e7b5a08a5ee
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/20/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
 # <a name="platform-extensibility-enhancements"></a>プラットフォーム拡張性の機能強化
-
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 プラットフォーム更新プログラム 16 からプラットフォーム更新プログラム 20 で強化された拡張性機能:
 

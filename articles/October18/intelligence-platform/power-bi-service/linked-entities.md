@@ -12,13 +12,13 @@ ms.technology:
 ms.author: adiregev
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: a1405107bbe7c17ce8b5b320a3f7c6a5937c1d52
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 04397101b7483a5275a37f07dfbe4db527d095e8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="linked-entities-public-preview"></a>リンクしているエンティティ (パブリック プレビュー) 
+# <a name="linked-entities-public-preview"></a>リンクしているエンティティ (パブリック プレビュー) 
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
@@ -26,5 +26,5 @@ ms.lasthandoff: 07/18/2018
 
 Power BI は、エンティティを複製することなくデータフロー間でリンクできるようにします。
 リンクしているエンティティは、新しいエンティティの変換、強化、または計算に使用できます。
-リンクしているエンティティの重複を回避すると、組織全体で単一のソースを維持できます。 リンクしているエンティティを最新の情報に更新するには、Power BI Premium が必要です。 
+リンクしているエンティティの重複を回避すると、組織全体で単一のソースを維持できます。 リンクしているエンティティを最新の情報に更新するには、Power BI Premium が必要です。 
 

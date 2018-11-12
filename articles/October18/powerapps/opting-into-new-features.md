@@ -1,9 +1,9 @@
 ---
 title: "新機能のオプトイン"
-description: App makers can opt into new features when they are ready to use them
+description: "アプリ開発者は、使用する準備ができた新機能をオプトインできます"
 author: evchaki
 manager: KVivek
-ms.date: 9/4/2018
+ms.date: 10/4/2018
 ms.assetid: 0b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,16 +12,20 @@ ms.technology:
 ms.author: evchaki
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: d3a5f2802d9e1fba3fb4b5a2c11f5497cd68b8e7
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 828e21e5a81459086515123bade3c017b0ab91c4
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="opting-in-to-new-features"></a>Opting in to new features
+# <a name="opting-in-to-new-features"></a>新機能のオプトイン
 
 
 [!include[banner](../../includes/banner.md)]
 
-App makers can choose to opt into new features in their current apps when they are ready. New features are available for a limited time before the features are auto-enabled in all apps. This allows app makers to try out the features in existing apps and make any changes needed before they are rolled out globally. New apps created will take advantage of any new feature available.
+アプリ開発者は、使用する準備ができた新機能を現在のアプリにオプトインすることを選択できます。 新機能は、機能がすべてのアプリで自動的に有効化される前に限られた期間利用できます。 これにより、アプリ開発者は、グローバルに展開する前に既存のアプリで機能を試し、必要な変更を加えることができます。 新しく作成されたアプリでは、使用可能な新機能が利用されます。
+
+##### <a name="related-topic"></a>関連項目
+
+[PowerApps の実験段階の機能とプレビュー機能について](https://docs.microsoft.com/powerapps/maker/canvas-apps/working-with-experimental)
 

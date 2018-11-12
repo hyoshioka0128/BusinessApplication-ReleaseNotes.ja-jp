@@ -2,20 +2,20 @@
 title: "Access ユーザー向けのヘルプの向上"
 description: "Access ユーザーは PowerApps を使用したアプリ作成の可能性について学べます"
 author: shpareek
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: f51b1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: shpareek
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 948a88316e2f7fb8c7f0814f9b4a82989a8b659c
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 596b2c5db3f972613927a42a4a569e91d5ee4e57
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="improved-help-for-access-users"></a>Access ユーザー向けのヘルプの向上

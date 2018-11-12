@@ -3,7 +3,7 @@ title: "モバイル デバイスのデバイス シグナルの利用"
 description: "ユーザーはジオフェンスなどのモバイル機能を活用できるフローを作成できます。"
 author: stepsic-microsoft-com
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 10/2/2018
 ms.assetid: 517e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: stepsic
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 0d05246bd56d49f7bf9539dc80728d7804f8e55f
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: d5bbae469ab75e11a658a2a9dad78d7514099bd4
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="leverage-device-signals-on-mobile-devices"></a>モバイル デバイスのデバイス シグナルの利用

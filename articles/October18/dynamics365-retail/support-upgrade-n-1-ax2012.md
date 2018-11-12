@@ -11,10 +11,10 @@ ms.technology:
 ms.author: epopov
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 8d07dc35453f0b3b96a28b7e14663214d4b4310a
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: e79031b9485656d3d47f92c6231ae8edf3ed7249
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="support-for-upgrade-and-n-1-ax-2012"></a>アップグレードと N-1 (AX 2012) のサポート

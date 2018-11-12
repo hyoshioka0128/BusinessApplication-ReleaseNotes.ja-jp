@@ -11,10 +11,10 @@ ms.technology:
 ms.author: aolson
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 4f6aa2fca76cfd5f050ffe7ccda7e43f1bbef7fd
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 1143913758670c05d6b51a335d253cd06a9614e5
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 

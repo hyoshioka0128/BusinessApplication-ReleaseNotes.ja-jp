@@ -2,20 +2,20 @@
 title: "式バーの機能拡張"
 description: "キャンバス アプリの式バーから式や下位式の結果を直接表示できます"
 author: gregli-msft
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 4d1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: gregli
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1c6cae377748262e2c08b5730db771293303a84c
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 0034141893452b42ad05ec3df70e98fba7433afd
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="formula-bar-enhanced"></a>式バーの機能拡張

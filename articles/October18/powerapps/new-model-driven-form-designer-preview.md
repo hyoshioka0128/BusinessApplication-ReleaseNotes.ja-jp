@@ -12,10 +12,10 @@ ms.technology:
 ms.author: aneesa
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: f0e9fd22a72476b73aabad66d8febeaf3e326222
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 78ed448f108bc0ff77f13c28a8fbcd632b66ea34
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="new-model-driven-form-designer-public-preview"></a>新しいモデル駆動型フォーム デザイナー (パブリック プレビュー)
@@ -23,5 +23,5 @@ ms.lasthandoff: 08/16/2018
 
 [!include[banner](../../includes/banner.md)]
 
-カスタマイズ担当者は、このリリースでプレビューとして使用できる新しいフォーム デザイナーを使用して、エンティティ フォーム作成時により多くのことを行うことができます。 The new form designer provides a WYSIWYG authoring experience, helping to boost productivity by enabling customizers to directly see what their form will look like to end users. The form designer also provides full support for keyboard accessibility to meet customizers' needs and preferences.
+カスタマイズ担当者は、このリリースでプレビューとして使用できる新しいフォーム デザイナーを使用して、エンティティ フォーム作成時により多くのことを行うことができます。 新しいフォーム デザイナーでは、プレビュー内容がそのまま本番と同じ内容となる開発方法を提供し、フォームがエンド ユーザーからどのように見えるかをカスタマイズ担当者が直感的に確認できるようにすることで生産性を向上できるようサポートします。 フォーム デザイナーでは、カスタマイズ担当者のニーズと希望を満たすキーボード アクセシビリティも完全にサポートされます。
 

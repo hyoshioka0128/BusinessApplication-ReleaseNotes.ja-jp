@@ -12,10 +12,10 @@ ms.technology:
 ms.author: HaydnR
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1d0e73fd334a0e60ace1d074c1181865aab6df57
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: f6ade07e6567099a5edabce284906b93ce3480ec
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="power-bi-home"></a>Power BI ホーム

@@ -1,7 +1,7 @@
 ---
 title: Dynamics 365 for Field Service
 description: Dynamics 365 for Field Service
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 42f4f1a9-cde4-48c2-8136-7d2993e86d73
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 54eb72ddeb8b4c744b9aed9f0e08b1d3db9e344d
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 2a52d1a6d6c84c5a708079953ab738e37cb7ee3e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
@@ -44,7 +44,7 @@ Dynamics 365 のリソース スケジュール機能では、スケジュール
 
 **Connected Field Service**
 
-IoT (モノのインターネット) の発達により、プロアクティブで予測的なサービスはますます進化しています。 Connected Field Service と Microsoft Azure IoT Central も共に進化を続け、オンライン デバイス向けのインテリジェントな SaaS (サービスとしてのソフトウェア) を提供できるようになっています。 既存の統合機能をベースに、双方向型のフローもサポートされるようになりました。 たとえば、Field Service から デバイスに、IoT Central 経由で更新プログラムを送信することもできます。 
+IoT (モノのインターネット) の発達により、プロアクティブで予測的なサービスはますます進化しています。 Connected Field Service と Microsoft Azure IoT Central も共に進化を続け、オンライン デバイス向けのインテリジェントな SaaS (サービスとしてのソフトウェア) を提供できるようになっています。 既存の統合機能をベースに、双方向型のフローもサポートされるようになりました。 たとえば、Field Service からデバイスに、IoT Central 経由で更新プログラムを送信することもできます。 
 
 
 

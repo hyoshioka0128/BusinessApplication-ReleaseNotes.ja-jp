@@ -1,7 +1,7 @@
 ---
 title: "Azure Active Directory アプリケーション認証のサポート"
 description: "Azure Active Directory アプリケーション認証のサポート"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: cba1b690-0d07-4400-8bf6-80de880157ba
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 3c644df8af2bbc07c910cc7dd6581d55fc95686e
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 4346342cb55725fb42d473f1f89085c5d48658bc
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="azure-active-directory-application-authentication-public-preview"></a>Azure Active Directory アプリケーション認証 (パブリック プレビュー) 

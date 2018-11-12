@@ -11,10 +11,10 @@ ms.technology:
 ms.author: atrukawk
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 46a4f8f033af5d95e0c398fbbb14c94aeb9e3039
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 8c7a861abccfc1aa959a4eaa2244148022ed6fb6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 

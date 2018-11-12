@@ -12,13 +12,13 @@ ms.technology:
 ms.author: ankitsar
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 8edd30cf0301c9b0e953ce23abaae464e7a949ca
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 335ffbb2bd19e618d3d0fac0bdec40261307978c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="model-driven-mobile-applications-are-more-reliable"></a>Model-driven mobile applications are more reliable
+# <a name="model-driven-mobile-applications-are-more-reliable"></a>モデル駆動型モバイル アプリケーションの信頼性が向上
 
 
 [!include[banner](../../includes/banner.md)]

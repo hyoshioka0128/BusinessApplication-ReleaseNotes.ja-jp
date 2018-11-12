@@ -3,7 +3,7 @@ title: "Visio でのデザイン フロー"
 description: "標準フローチャートの概念を使用して Visio でフローを作成し、簡単にビジュアル化できるようにフローを Visio にエクスポートします。"
 author: stepsic-microsoft-com
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 10/28/2018
 ms.assetid: 640627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,13 +12,13 @@ ms.technology:
 ms.author: stepsic
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 8a89a9ef9d7a84980eeebc44f72692acacc7e744
-ms.openlocfilehash: b06976765177970f86e4e46eec8b619eccbe8b06
+ms.sourcegitcommit: f569a3691cc7c3ac3d76ea67aaef6a06ce12ceef
+ms.openlocfilehash: b69745da8005f404cbe5c0b7bb99396a1a6589ef
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/20/2018
+ms.lasthandoff: 10/27/2018
 
 ---
-# <a name="design-flows-in-visio"></a>Visio でのデザイン フロー
+# <a name="design-flows-in-visio-public-preview"></a>Visio でのデザイン フロー (パブリック プレビュー)
 
 
 [!include[banner](../../includes/banner.md)]
@@ -30,5 +30,5 @@ Microsoft Visio の豊富なモデリング機能を使用して、業務プロ�
 
 多くのプロセスは共通モデルを共有しますが、組織全体で見ると小さなバリエーションがあります。 これにより、組織はマスター ワークフロー モデルを作成し、特殊なパラメーターでインスタンスを調整できます。
 
-この機能は、Visio Online Plan 2 サブスクリプション ユーザーが使用できます。 Office Insider は、2018 年 7 月にいち早くアクセスできます。 将来的には、既存のフローをエクスポートし、Visio で変更できるようになります。
+この機能は、Visio Online Plan 2 サブスクリプション ユーザーが使用できます。 Office Insider は、2019 年にいち早くアクセスできます。 将来的には、既存のフローをエクスポートし、Visio で変更できるようになります。
 

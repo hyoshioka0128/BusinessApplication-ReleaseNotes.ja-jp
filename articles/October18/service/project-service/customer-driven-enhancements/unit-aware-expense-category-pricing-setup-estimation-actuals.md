@@ -11,13 +11,13 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 9eef14478ecabd97bbc41b9fdacfa43fd342d9e7
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 39f5ce5cd6ea1175da11c76bb4269546dbad7eeb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-#  <a name="unit-aware-expense-category-pricing-for-setup-estimation-and-actuals"></a>セットアップ、見積もり、実績に対する出荷単位に対応した経費カテゴリの価格設定 
+#  <a name="unit-aware-expense-category-pricing-for-setup-estimation-and-actuals"></a>セットアップ、見積もり、実績に対する出荷単位に対応した経費カテゴリの価格設定 
 
 [!include[project-service banner](../../../includes/project-service.md)]
 

@@ -12,10 +12,10 @@ ms.technology:
 ms.author: v-erherz
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: d0f44f5d090be4428ccafcb13065423bcbdca60b
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: ae7dc1935e5e85594fac0894757f67e9d7a3f09d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="dataflow-refresh-public-preview"></a>データフローび更新 (パブリック プレビュー)

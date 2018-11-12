@@ -12,10 +12,10 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: a1561a448e7906d9509fc41293ac499a4722f458
-ms.openlocfilehash: ce32970c70fb9355ec8ba01f512cd67bf52a73cc
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 732fe2f8548ec752acd561e21d33e7a8c3b935b8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="richer-and-more-unified-connector-and-developer-ecosystem"></a>強化され、より統合されたコネクターと開発者エコシステム
@@ -36,7 +36,7 @@ ms.lasthandoff: 08/16/2018
 この統合により、コネクタが多くの統合に追加されることになり、エコシステムの開発者と消費者にとってエクスペリエンスが改善されます。  オンプレミス データ ゲートウェイの個人およびエンタープライズ バージョンの両方で、認定コネクタおよびカスタム コネクタの検出とデータ更新がサポートされるようになっています。
 
 -  [Power BI Desktop での認定コネクタのサポート](1-power-query.md#certified-custom-connectors-in-power-bi-desktop)
--  [個人およびエンタープライズ ゲートウェイのカスタム コネクタのサポート](5-data-gateway.md#certified-custom-connectors-in-power-bi-desktop)
+-  [個人およびエンタープライズ ゲートウェイのカスタム コネクタのサポート](5-data-gateway.md##on-premises-data-gateway-supports-custom-connectors)
 
 
 ## <a name="unified-connector-certification-program"></a>統一コネクタ認定プログラム

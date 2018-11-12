@@ -11,10 +11,10 @@ ms.technology:
 ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
-ms.openlocfilehash: bb4ffa8a57f78eea3bd9d720bf7f8765539a712f
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 6fa373d76121a69ea0bc7737208b531e4b9b78d1
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="settle-remainder"></a>残余の決済

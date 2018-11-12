@@ -11,10 +11,10 @@ ms.technology:
 ms.author: epopov
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 8a76153ab882b0ba0be284c3ceb9e3edf63b300c
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: fd542db7dae3d3dde3a609cdeab3670963b92974
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="support-for-upgrade-and-n-1-for-india"></a>インドでのアップグレードと N-1 のサポート

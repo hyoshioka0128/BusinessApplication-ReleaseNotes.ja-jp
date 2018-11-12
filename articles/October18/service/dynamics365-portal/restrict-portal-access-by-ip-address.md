@@ -12,10 +12,10 @@ ms.technology:
 ms.author: dileeps
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 8259579ac1b19d93a71a9bc7db8ae07fb3c6a5cb
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 6e8406073dd7c7d202d8152877222da082d27bd6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="restrict-portal-access-by-ip-address"></a>IP アドレスからポータルへのアクセスの制限

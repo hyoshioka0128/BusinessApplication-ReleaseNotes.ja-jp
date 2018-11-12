@@ -11,10 +11,10 @@ ms.technology:
 ms.author: josaw
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 8dfda43808c3f5b21dabfcecabb05faea984099b
-ms.openlocfilehash: e39017bc4c4cc50d5d7c3459c8e34d06c23ccd3a
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: afd00fb8773148d225aed4e97d8607473e91d02a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/20/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-for-talent"></a>Dynamics 365 for Talent の新機能の概要
@@ -22,6 +22,8 @@ ms.lasthandoff: 09/20/2018
 このトピックでは、2018 年 10 月から 2019 年 3 月の間に Microsoft Dynamics 365 for Talent でリリースが計画されている機能の一覧を示します。 
 
 リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+
+**日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
     
 Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 
 
@@ -63,9 +65,14 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 > | 機能   | リリースの種類   | 日付 |
 > |-----------|----------------|----------------------|
 > | [アプリ用 Common Data Service 上の Core HR エンティティのスコープの拡張](core-hr-entity-cds-apps.md) |    一般提供  | 2018 年 10 月  |
-> | [休暇の管理](core-hr-leave-absence.md)      | 一般提供    | 2018 年 12 月  |
+> | [休暇: 比例配分の更新](core-hr-leave-absence.md)      | 一般提供    | 2018 年 10 月  |
+> | [休暇: 見越計上の更新](core-hr-leave-absence.md)      | 一般提供    | 2018 年 10 月  |
+> | [休暇：休暇の更新](core-hr-leave-absence.md)      | 一般提供    | 2018 年 11 月  |
+> | [休暇：将来の休暇の予約](core-hr-leave-absence.md)      | 一般提供    | 2018 年 12 月  |
 > | [従業員福利厚生の機能強化](benefits-enhancements.md) |   一般提供  | 2018 年 12 月  |
-> | [高度な補償へのアクセス](Advanced-compensation.md) |  一般提供 | 2018 年 11 月 |
+> | [報酬の強化](Advanced-compensation.md) |  一般提供 | 2018 年 11 月 |
+> | [高度な報酬へのアクセス](Advanced-compensation.md) |  一般提供 | 2018 年 11 月 |
+> | [ディープ リンク](Talent-Deep-Links.md) |  一般提供 | 2018 年 11 月 |
 
 
 

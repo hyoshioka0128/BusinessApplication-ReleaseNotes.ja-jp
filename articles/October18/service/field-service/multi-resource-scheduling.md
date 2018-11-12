@@ -1,7 +1,7 @@
 ---
 title: "複数リソースのスケジューリング"
 description: "複数リソースのスケジューリングにより、単一の作業指示書に対して複数のリソースをスケジュールできます。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 3cf4815b-ae74-4c42-89a4-cc2ab31ebfad
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 5a1939dd94b06410ad736278f56786065f6710b2
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 1735f94d0f92dd51be23d11b340e2eea26b0ed25
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="multi-resource-scheduling"></a>複数リソースのスケジューリング

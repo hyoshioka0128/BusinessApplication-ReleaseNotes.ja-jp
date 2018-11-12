@@ -11,10 +11,10 @@ ms.technology:
 ms.author: avive
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f51d81be3f8a7ff44214b2c241749168c3f00428
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: f9143c8105652eb78f97158727d00b2efd1eb842
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="ecmascript-support"></a>ECMAScript のサポート

@@ -10,10 +10,10 @@ author: shellyhaverkamp
 ms.author: shellyha
 manager: annbe
 ms.translationtype: HT
-ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
-ms.openlocfilehash: 7619cd7f4e5eabab9879e6ae476701fa54739043
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 59c0ce34109fa3d91d50c3db5badaf14f7185400
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/22/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
@@ -25,7 +25,7 @@ ms.lasthandoff: 09/22/2018
 
 これらの AI 機能は次のとおりです。
 
-- **[AI for Customer Service Insights](dynamics365-ai-customer-service-insights.md)** 2018 年 10 月のパブリック プレビューでは、Dynamics 365 AI for Customer Service Insights により、Dynamics 365 Customer Service 組織からの重要なパフォーマンス指標、運用データ、最新トレンドに関するアクション可能な分析情報が提供されます。 
+- **[AI for Customer Service](dynamics365-ai-customer-service-insights.md)**。 2018 年 10 月のパブリック プレビューでは、Dynamics 365 AI for Customer Service により、Dynamics 365 Customer Service 組織からの重要なパフォーマンス指標、運用データ、最新トレンドに関するアクション可能な分析情報が提供されます。 
 
    組み込みダッシュボード、インタラクティブなグラフ、およびビジュアル フィルターによって、複数のチャネルにわたるサポート業務データを把握できます。また、向上すると最も大きな効果が得られる分野が強調表示され、主要業績評価指標 (KPI) と顧客満足レベルを迅速に評価して対応する際に役立ちます。 
 

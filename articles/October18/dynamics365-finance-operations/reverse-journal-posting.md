@@ -1,20 +1,20 @@
 ---
 title: "仕訳帳転記の取消"
 description: "仕訳帳転記の取消"
-author: margoc
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 11220369b11baa7015b631e2456cbde8f52e7241
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 1dce8160908a67581e4f8991b29c7dfc63996ee0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="reverse-journal-posting"></a>仕訳帳転記の取消

@@ -1,20 +1,20 @@
 ---
 title: "一貫性のある検証アクション"
 description: "一貫性のある検証アクション"
-author: margoc
+author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 697632ec43ef8d6ae76054998ecaccac3f9f7e80
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: e70ac2eaed600848a675c11416de0b037cac18cd
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="consistent-validation-actions"></a>一貫性のある検証アクション

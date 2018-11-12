@@ -3,7 +3,7 @@ title: "方向矢印の追加"
 description: "矢印が指す方向を指定することができます。"
 author: ReneeW-CPub
 manager: AnnBe
-ms.date: 09/24/2018
+ms.date: 10/10/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +11,10 @@ ms.technology:
 ms.author: mapau
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
-ms.openlocfilehash: 1b90951c7683ac0515f6685d63d29644389bdf38
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: f28c00f03612ec8529ed27bf6a2278b5e1ad4ca1
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/22/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
@@ -29,7 +29,6 @@ Dynamics 365 リモート アシストで注釈として矢印を追加すると
 
 *方向矢印*
 
-<!--update link
-[Learn more about adding arrows in Remote Assist.](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/user-guide)
--->
+
+[リモート アシストでの矢印の追加の詳細をご覧ください。](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/user-guide)
 

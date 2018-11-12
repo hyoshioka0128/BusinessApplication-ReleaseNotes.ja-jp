@@ -2,20 +2,20 @@
 title: "キャンバス アプリの共有の拡張"
 description: "キャンバス アプリとそのデータの共有が、インライン エクスペリエンスによってより簡単になります。"
 author: litran
-manager: AnnBe
-ms.date: 8/10/2018
+manager: KVivek
+ms.date: 9/3/2018
 ms.assetid: 3c1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: litran
-audience: Admin
+audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 2b9a737371dd23a900632edf15d82124e25286c6
-ms.openlocfilehash: 8456f034bbfddd5c6d33bd113d246a75726c0854
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 4c0731b110cd65541bf46cfb0db6cf46d4496ad4
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/02/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="sharing-enhancements-for-canvas-apps"></a>キャンバス アプリの共有の拡張

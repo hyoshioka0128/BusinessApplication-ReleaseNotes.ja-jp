@@ -12,16 +12,16 @@ ms.technology:
 ms.author: clwesene
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: d8af817c1320c797fa111380f73b2b2cc0c39919
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 3a7cc516eec4a0eec9a6bc6fe4739fab3453e13c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="create-automatic-number-sequences"></a>Create automatic number sequences
+# <a name="create-automatic-number-sequences"></a>自動採番の作成
 
 
 [!include[banner](../../includes/banner.md)]
 
-In PowerApps, you can define one or more sequences in which numbers are generated automatically and applied to entities in Common Data Service for Apps.
+PowerApps では、数字が自動で生成されてアプリ用  Common Data Service のエンティティに適用されるよう、1 つ以上のシーケンスを定義できます。
 

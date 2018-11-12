@@ -1,7 +1,7 @@
 ---
 title: "組織のビジュアル"
 description: "組織のビジュアルは、Power BI 管理者が組織内のカスタム ビジュアルの展開と管理に使用できる手段です。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 189c3f27-f2c0-4e65-8e49-f0dd340571e8
@@ -9,13 +9,13 @@ ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f36287c3340c95b1e1833c367d5c2cf8de01a6e0
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 01b3ac22046f88b0021218688747f71d67082b9a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="organization-visuals"></a>組織のビジュアル

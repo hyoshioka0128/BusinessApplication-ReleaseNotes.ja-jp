@@ -12,10 +12,10 @@ ms.technology:
 ms.author: dileeps
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f71636b14c957e7c7e51bab70ffc714bf91dd6d5
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 6dedc366770bc60d0c28f18a966aae076cbca6fb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="self-service-portal-diagnostics"></a>セルフサービス ポータル診断

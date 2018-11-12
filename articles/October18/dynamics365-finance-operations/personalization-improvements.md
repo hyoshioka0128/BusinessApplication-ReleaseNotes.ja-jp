@@ -3,7 +3,7 @@ title: "個人用設定の向上"
 description: "個人用設定の向上"
 author: Annbe
 manager: AnnBe
-ms.date: 09/19/2018
+ms.date: 11/08/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,17 +11,13 @@ ms.technology:
 ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 2b59c75306961c1f7182679096aa1336d32d508d
-ms.openlocfilehash: 2944020d58731b775a49923e4fb5eca9b1c7adcc
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: d24f7b84c210ff9f352417ac397ead3c02d6665c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/20/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="personalization-improvements"></a>個人用設定の向上
-
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
-
-
 
 よりシンプルでターゲットを絞ったフォームのビューを作成するビジネス ユーザーを支援するために、次のようないくつかの強化された個人用設定機能が追加されました。 
 

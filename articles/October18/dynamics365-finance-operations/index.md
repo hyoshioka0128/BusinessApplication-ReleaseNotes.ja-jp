@@ -1,26 +1,26 @@
 ---
 title: "Microsoft Dynamics 365 for Finance and Operations 2018 年 10 月リリースの概要"
 description: "Microsoft Dynamics 365 for Finance and Operations 2018 年 10 月リリースの概要"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 08/16/2018
 ms.topic: overview
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin, end-user, developer
 ms.translationtype: HT
-ms.sourcegitcommit: c58c9f253061fbe2d9aa8dc5336567e5593325be
-ms.openlocfilehash: 362355fb385f518f4824ee7789ccf5d995bf05ca
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 852b66d48233119f853b66bf4eb210c11fcbe6e3
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/17/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="overview-of-dynamics-365-for-finance-and-operations-october-18-release"></a>Dynamics 365 for Finance and Operations 2018 年 10 月リリースの概要
 
 
-このトピックでは、Finance and Operations 2018 年 10 月リリースのテーマ領域について説明します。 (これらのリリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+このトピックでは、Finance and Operations 2018 年 10 月リリースのテーマ領域について説明します。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 ## <a name="focus-on-fundamentals"></a>基本機能の徹底
 

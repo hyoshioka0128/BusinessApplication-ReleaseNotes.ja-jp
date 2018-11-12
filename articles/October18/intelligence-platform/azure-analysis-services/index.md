@@ -1,20 +1,20 @@
 ---
 title: Azure Analysis Services
 description: "Azure Analysis Services は、SQL Server Analysis Services の実績ある分析エンジンを、完全なマネージド ホスティング サービスとして提供するものです。"
-author: MargoC
+author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 40c03fe3d356a3c720bad3c186e6b13592e5486a
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: bc151b29e7bffd0bb1ff2b38d487fa177ac2eaad
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 

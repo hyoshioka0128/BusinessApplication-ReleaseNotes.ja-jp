@@ -11,10 +11,10 @@ author: Annbe
 ms.author: Annbe
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
-ms.openlocfilehash: 125c50decd9e876e64b72de95568bee933f7ef96
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: c4551ea062e618915d306a0d92f60afd23b13aa7
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/22/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
@@ -22,7 +22,7 @@ ms.lasthandoff: 09/22/2018
 
 [!include[ai banner](../includes/ai.md)] 
 
-新しい Dynamics 365 AI for Sales 営業マネージャー エクスペリエンスは、営業データから役に立つ分析情報を積極的かつ慣例的に提供することで、営業パフォーマンス分析から面倒な作業を取り除きます。 このエクスペリエンスは、営業マネージャーが Dynamics 365 および他の営業アプリケーションで営業チームのパフォーマンスを評価および改善するのを助けます。 リレーションシップ正常性スコアを使用するチャーン測定とパイプライン予測により、営業リーダーは営業戦略をいっそう適切に最適化できます。
+Dynamics 365 AI for Sales の営業マネージャー向け新機能は、営業データから役に立つ分析情報を積極的かつ慣例的に提供することで、営業パフォーマンス分析から面倒な作業を取り除きます。 このエクスペリエンスは、営業マネージャーが Dynamics 365 および他の営業アプリケーションで営業チームのパフォーマンスを評価および改善するのを助けます。 リレーションシップ正常性スコアを使用するチャーン測定とパイプライン予測により、営業リーダーは営業戦略をいっそう適切に最適化できます。
 
 営業マネージャー エクスペリエンスで提供される主要な機能は次のとおりです。
 

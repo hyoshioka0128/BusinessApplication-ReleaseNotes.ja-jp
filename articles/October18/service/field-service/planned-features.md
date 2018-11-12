@@ -11,15 +11,17 @@ ms.technology:
 ms.author: shellyha
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: a7bdb6880324a2b50449b8f9e926c84e2381490a
-ms.openlocfilehash: ca3251b7d843a79f0382be2998a0df51c1ed6c83
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 48b99f7d01cb733c89fe75d3bb7e8ae26783437f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/20/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="summary-of-whats-new-for-dynamics-365-for-field-service-october-18"></a>2018 年 10 月の Dynamics 365 for Field Service の新機能の概要 
 
 リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+
+**日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
 Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
@@ -54,7 +56,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [スケジュール ボードの分割ビュー](../field-service/universal-resource-scheduling-urs/Schedule-Board-Split-View.md) | 一般提供 | 2018 年 11 月        |
 | [拡張可能なリソースの空き時間](../field-service/universal-resource-scheduling-urs/extensibility-hook-resource-availability.md)      | パブリック プレビュー       | 2018 年 11 月        |
 | [フォーム内スケジューリング](../field-service/universal-resource-scheduling-urs/in-form-scheduling.md)  | パブリック プレビュー  | 2018 年 11 月  |
-| [PowerApps サンプル アプリ](../field-service/universal-resource-scheduling-urs/powerapps-sample-app.md) | パブリック プレビュー | 2018 年 11 月 |
+| [PowerApps サンプル アプリ](../field-service/universal-resource-scheduling-urs/powerapps-sample-app.md) | パブリック プレビュー | 2019 年 1 月 |
 | [セルフサービス スケジュールの API](../field-service/universal-resource-scheduling-urs//self-service-scheduling-apis.md) | パブリック プレビュー       | 2018 年 11 月        |
 | リソース稼働率ビュー     | パブリック プレビュー       | 2018 年 11 月        |
 | [URS のお客様主導による製品機能強化](../field-service/universal-resource-scheduling-urs/urs-customer-driven-product-enhancements.md) | パブリック プレビュー       | 2018 年 11 月        |
@@ -72,5 +74,6 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [より多くの目標の有効化](../field-service/resource-scheduling-optimization-rso/enable-more-objectives.md) | 一般提供 | 2018 年 11 月        |
 | [単一リソース最適化](../field-service/resource-scheduling-optimization-rso/single-resource-optimization.md) | 一般提供 | 2018 年 11 月        |
 | [what-if 分析の統計](../field-service/resource-scheduling-optimization-rso/what-if-analysis-statistic-ui.md) | 一般提供 | 2018 年 11 月        |
+| [その他の機能拡張](../field-service/resource-scheduling-optimization-rso/rso-other-enhancements.md) | 一般提供 | 2018 年 11 月        |
 
 

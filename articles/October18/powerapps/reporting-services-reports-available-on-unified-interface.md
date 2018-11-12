@@ -12,16 +12,16 @@ ms.technology:
 ms.author: prsi
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: b9db9a9b93c58ddb2de67914d8b9076841674eba
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: b604344ced04e5b1f2ab467520e91e3b03c23362
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="reporting-services-reports-will-be-available-on-unified-interface"></a>Reporting Services Reports will be available on Unified Interface
+# <a name="reporting-services-reports-will-be-available-on-unified-interface"></a>Reporting Services レポートを統一インターフェイスで使用できる
 
 
 [!include[banner](../../includes/banner.md)]
 
-レポートを使用して、ビジネスの管理、進行状況の状態の分析、または単純にアイテム レベルのデータ概要の表示を行います。 You can manage your SSRS reports and run entity-level reports from any record or grid.
+レポートを使用して、ビジネスの管理、進行状況の状態の分析、または単純にアイテム レベルのデータ概要の表示を行います。 SSRS レポートを管理し、レコードまたはグリッドからエンティティ レベルのレポートを実行できます。
 
