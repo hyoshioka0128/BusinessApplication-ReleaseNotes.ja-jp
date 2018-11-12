@@ -12,19 +12,19 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: dbd2ee62f2fca763e350fc7283fc2790312224eb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/25/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
-#  <a name="self-service-scheduling-apis"></a><span data-ttu-id="cf59b-103">セルフサービス スケジュールの API</span><span class="sxs-lookup"><span data-stu-id="cf59b-103">Self-service scheduling APIs</span></span>
+#  <a name="self-service-scheduling-apis"></a><span data-ttu-id="6ddb8-103">セルフサービス スケジュールの API</span><span class="sxs-lookup"><span data-stu-id="6ddb8-103">Self-service scheduling APIs</span></span>
 
 [!include[field-service banner](../../../includes/field-service.md)]
 
 
 
 
-<span data-ttu-id="cf59b-104">Universal Resource Scheduling のセルフサービス スケジュールの API を使用すると、組織は独自の Web アプリケーションにスケジュール ウィジェットを埋め込んで、顧客が利用可能性を検索したり、予約をしたりできるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="cf59b-104">Universal Resource Scheduling’s self-service scheduling APIs ultimately allow organizations to embed a scheduling widget on their own web application, enabling their customers to search for availability and book appointments.</span></span> <span data-ttu-id="cf59b-105">ウィジェットを作成すること自体も目的に含まれますが、最大の目的は、パートナーやお客様のエコシステムに API を公開して、皆様が独自のビジュアルを作成できるようにすることです。</span><span class="sxs-lookup"><span data-stu-id="cf59b-105">While we have goals of building the widget itself, the primary focus is to unleash the APIs to our partner and customer ecosystems, allowing them to build their own visuals.</span></span>
+<span data-ttu-id="6ddb8-104">Universal Resource Scheduling のセルフサービス スケジュールの API を使用すると、組織は独自の Web アプリケーションにスケジュール ウィジェットを埋め込んで、顧客が利用可能性を検索したり、予約をしたりできるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="6ddb8-104">Universal Resource Scheduling’s self-service scheduling APIs ultimately allow organizations to embed a scheduling widget on their own web application, enabling their customers to search for availability and book appointments.</span></span> <span data-ttu-id="6ddb8-105">ウィジェットを作成すること自体も目的に含まれますが、最大の目的は、パートナーやお客様のエコシステムに API を公開して、皆様が独自のビジュアルを作成できるようにすることです。</span><span class="sxs-lookup"><span data-stu-id="6ddb8-105">While we have goals of building the widget itself, the primary focus is to unleash the APIs to our partner and customer ecosystems, allowing them to build their own visuals.</span></span>
 

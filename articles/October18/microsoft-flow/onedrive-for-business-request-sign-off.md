@@ -3,7 +3,7 @@ title: "OneDrive for Business 要求のサインオフ"
 description: "OneDrive for Business に、SharePoint に似た埋め込みの要求のサインオフ エクスペリエンスが備わります。"
 author: Mhade
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 10/22/2018
 ms.assetid: 349e1b68-aa74-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
@@ -12,16 +12,16 @@ ms.technology:
 ms.author: mhade
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: e073a7b0cc0815d1e9f95358976342e54af6538a
-ms.openlocfilehash: c38e5f3a262cadbd409b8a07183bc63402af9af0
+ms.sourcegitcommit: f569a3691cc7c3ac3d76ea67aaef6a06ce12ceef
+ms.openlocfilehash: 5348978783a25896c143d6b80b6c0cbc4b229bc3
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 10/27/2018
 
 ---
-# <a name="onedrive-for-business-request-sign-off"></a><span data-ttu-id="032c3-103">OneDrive for Business 要求のサインオフ</span><span class="sxs-lookup"><span data-stu-id="032c3-103">OneDrive for Business request sign-off</span></span>
+# <a name="onedrive-for-business-request-sign-off"></a><span data-ttu-id="df32d-103">OneDrive for Business 要求のサインオフ</span><span class="sxs-lookup"><span data-stu-id="df32d-103">OneDrive for Business request sign-off</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="032c3-104">ユーザーは、埋め込みのフロー起動パネル エクスペリエンスを通じて標準のフローを作成および実行して、テナント内の任意のユーザーにサインオフ要求をメッセージと共に送信できます。</span><span class="sxs-lookup"><span data-stu-id="032c3-104">Through an embedded Flow launch panel experience, users will be able to create and run an out-of-box flow to send sign-off requests to any user in their tenant along with a message.</span></span> <span data-ttu-id="032c3-105">承認者が応答すると、承認者からのフィードバックを伝える確認電子メールが開始者に送信されます。</span><span class="sxs-lookup"><span data-stu-id="032c3-105">Once the approver responds, the initiator is sent a confirmation email with feedback from the approver.</span></span> 
+<span data-ttu-id="df32d-104">ユーザーは、埋め込みのフロー起動パネル エクスペリエンスを通じて標準のフローを作成および実行して、テナント内の任意のユーザーにサインオフ要求をメッセージと共に送信できます。</span><span class="sxs-lookup"><span data-stu-id="df32d-104">Through an embedded Flow launch panel experience, users will be able to create and run an out-of-box flow to send sign-off requests to any user in their tenant along with a message.</span></span> <span data-ttu-id="df32d-105">承認者が応答すると、承認者からのフィードバックを伝える確認電子メールが開始者に送信されます。</span><span class="sxs-lookup"><span data-stu-id="df32d-105">Once the approver responds, the initiator is sent a confirmation email with feedback from the approver.</span></span> 
 

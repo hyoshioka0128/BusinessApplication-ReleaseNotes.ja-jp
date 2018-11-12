@@ -12,16 +12,16 @@ ms.technology:
 ms.author: clwesene
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 3a7cc516eec4a0eec9a6bc6fe4739fab3453e13c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="create-automatic-number-sequences"></a><span data-ttu-id="cebb0-103">自動採番の作成</span><span class="sxs-lookup"><span data-stu-id="cebb0-103">Create automatic number sequences</span></span>
+# <a name="create-automatic-number-sequences"></a><span data-ttu-id="7c44c-103">自動採番の作成</span><span class="sxs-lookup"><span data-stu-id="7c44c-103">Create automatic number sequences</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="cebb0-104">PowerApps では、数字が自動で生成されてアプリ用  Common Data Service のエンティティに適用されるよう、1 つ以上のシーケンスを定義できます。</span><span class="sxs-lookup"><span data-stu-id="cebb0-104">In PowerApps, you can define one or more sequences in which numbers are generated automatically and applied to entities in Common Data Service for Apps.</span></span>
+<span data-ttu-id="7c44c-104">PowerApps では、数字が自動で生成されてアプリ用  Common Data Service のエンティティに適用されるよう、1 つ以上のシーケンスを定義できます。</span><span class="sxs-lookup"><span data-stu-id="7c44c-104">In PowerApps, you can define one or more sequences in which numbers are generated automatically and applied to entities in Common Data Service for Apps.</span></span>
 

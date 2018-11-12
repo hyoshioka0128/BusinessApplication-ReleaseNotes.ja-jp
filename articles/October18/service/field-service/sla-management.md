@@ -12,19 +12,19 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 652db53f164f55ed4262dd77eb321df499a90911
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/25/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-#  <a name="sla-management"></a><span data-ttu-id="2df39-103">SLA 管理</span><span class="sxs-lookup"><span data-stu-id="2df39-103">SLA Management</span></span>
+#  <a name="sla-management"></a><span data-ttu-id="94b4b-103">SLA 管理</span><span class="sxs-lookup"><span data-stu-id="94b4b-103">SLA Management</span></span>
 
 [!include[field-service banner](../../includes/field-service.md)]
 
 
 
 
-<span data-ttu-id="2df39-104">Field Service では、サービス レベル アグリーメント (SLA) 機能も使用できるようになりました。これにより、顧客との SLA を確立し、SLA の詳細を作業指示書に入力できるようになります。</span><span class="sxs-lookup"><span data-stu-id="2df39-104">Field Service also has enabled service level agreement (SLA) capability to establish SLAs for customers and populate SLA details into work orders.</span></span> <span data-ttu-id="2df39-105">また、スケジュール設定プロセスで、SLA に基づく確約の内容を考慮できるようになります。</span><span class="sxs-lookup"><span data-stu-id="2df39-105">This enables the scheduling processes to take into account commitments based on SLAs.</span></span>
+<span data-ttu-id="94b4b-104">Field Service では、サービス レベル アグリーメント (SLA) 機能も使用できるようになりました。これにより、顧客との SLA を確立し、SLA の詳細を作業指示書に入力できるようになります。</span><span class="sxs-lookup"><span data-stu-id="94b4b-104">Field Service also has enabled service level agreement (SLA) capability to establish SLAs for customers and populate SLA details into work orders.</span></span> <span data-ttu-id="94b4b-105">また、スケジュール設定プロセスで、SLA に基づく確約の内容を考慮できるようになります。</span><span class="sxs-lookup"><span data-stu-id="94b4b-105">This enables the scheduling processes to take into account commitments based on SLAs.</span></span>
 
 

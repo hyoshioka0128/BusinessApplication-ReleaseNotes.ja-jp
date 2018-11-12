@@ -12,16 +12,16 @@ ms.technology:
 ms.author: clwesene
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 0a3f3f2940939061193ff3baf0820b1bf4814ae0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="simplified-management-of-advanced-entity-properties"></a><span data-ttu-id="e8ff7-103">エンティティの詳細プロパティの管理を簡略化</span><span class="sxs-lookup"><span data-stu-id="e8ff7-103">Simplified management of advanced entity properties</span></span>
+# <a name="simplified-management-of-advanced-entity-properties"></a><span data-ttu-id="c9ab8-103">エンティティの詳細プロパティの管理を簡略化</span><span class="sxs-lookup"><span data-stu-id="c9ab8-103">Simplified management of advanced entity properties</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="e8ff7-104">現在、エンティティやフィールドに関連する詳細プロパティはソリューション エクスプローラーでしか利用できませんが、これが PowerApps ポータルでも利用できるようになるため、エンティティやフィールドの作成作業が簡略化され、作業の一貫性が改善されます。</span><span class="sxs-lookup"><span data-stu-id="e8ff7-104">Advanced properties related to entities and fields that are currently only available in the Solution Explorer will become available in the PowerApps portal for a simplified and consistent entity and field creation experience for app makers.</span></span>
+<span data-ttu-id="c9ab8-104">現在、エンティティやフィールドに関連する詳細プロパティはソリューション エクスプローラーでしか利用できませんが、これが PowerApps ポータルでも利用できるようになるため、エンティティやフィールドの作成作業が簡略化され、作業の一貫性が改善されます。</span><span class="sxs-lookup"><span data-stu-id="c9ab8-104">Advanced properties related to entities and fields that are currently only available in the Solution Explorer will become available in the PowerApps portal for a simplified and consistent entity and field creation experience for app makers.</span></span>
 

@@ -12,18 +12,18 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: c3ba0d63476d8009b54e81e23ca55e905a2e0a92
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/25/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
-#  <a name="single-resource-optimization"></a><span data-ttu-id="9ba5b-103">単一リソース最適化</span><span class="sxs-lookup"><span data-stu-id="9ba5b-103">Single resource optimization</span></span>
+#  <a name="single-resource-optimization"></a><span data-ttu-id="8bb78-103">単一リソース最適化</span><span class="sxs-lookup"><span data-stu-id="8bb78-103">Single resource optimization</span></span>
 
 [!include[field-service banner](../../../includes/field-service.md)]
 
 
 
-<span data-ttu-id="9ba5b-104">単一リソース最適化を使用すると、選択されたリソースをすばやく簡単に再最適化することができるので、1 日の間に何らかのスケジュール変更が発生した場合でも、リソースのルーティングを最適に維持できます。</span><span class="sxs-lookup"><span data-stu-id="9ba5b-104">Single resource optimization provides a quick and simple way to re-optimize a selected resource to ensure that resource still has an optimal route after some schedule change happens during the day.</span></span> <span data-ttu-id="9ba5b-105">たとえば、1 日の途中で緊急の作業指示書が割り当てられ、リソースの予約が重複した場合や、交通状況によって作業を時間内に完了できない可能性がある場合でも、適切に対応することができます。</span><span class="sxs-lookup"><span data-stu-id="9ba5b-105">For example, a resource may have overlapping bookings after getting assigned an emergency work order in the middle of the day or may not be able to make it in time for a booking due to traffic.</span></span>
+<span data-ttu-id="8bb78-104">単一リソース最適化を使用すると、選択されたリソースをすばやく簡単に再最適化することができるので、1 日の間に何らかのスケジュール変更が発生した場合でも、リソースのルーティングを最適に維持できます。</span><span class="sxs-lookup"><span data-stu-id="8bb78-104">Single resource optimization provides a quick and simple way to re-optimize a selected resource to ensure that resource still has an optimal route after some schedule change happens during the day.</span></span> <span data-ttu-id="8bb78-105">たとえば、1 日の途中で緊急の作業指示書が割り当てられ、リソースの予約が重複した場合や、交通状況によって作業を時間内に完了できない可能性がある場合でも、適切に対応することができます。</span><span class="sxs-lookup"><span data-stu-id="8bb78-105">For example, a resource may have overlapping bookings after getting assigned an emergency work order in the middle of the day or may not be able to make it in time for a booking due to traffic.</span></span>
 

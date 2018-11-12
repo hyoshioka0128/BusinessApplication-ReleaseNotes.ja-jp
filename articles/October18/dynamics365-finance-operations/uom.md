@@ -3,7 +3,7 @@ title: "バリアントの測定単位換算"
 description: "バリアントの測定単位換算"
 author: ShylaThompson
 manager: AnnBe
-ms.date: 07/22/2018
+ms.date: 10/02/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,18 +11,18 @@ ms.technology:
 ms.author: shylaw
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 11dbebe9ba676131c42085ab783ec23cd6c46476
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 0549c6162675e8cce05e11f80416febf8fbd3008
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-#  <a name="unit-of-measure-conversion-for-variant"></a><span data-ttu-id="bfef1-103">バリアントの測定単位換算</span><span class="sxs-lookup"><span data-stu-id="bfef1-103">Unit of measure conversion for variant</span></span>
+#  <a name="unit-of-measure-conversion-for-variants"></a><span data-ttu-id="786e8-103">バリアントの測定単位換算</span><span class="sxs-lookup"><span data-stu-id="786e8-103">Unit of measure conversion for variants</span></span>
 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 
 
-<span data-ttu-id="bfef1-104">この機能は、倉庫管理システム全体を通じて、独自の現物分析コードと測定単位 (UOM) 換算を製品バリアント レベルで構成できるようにするものです。</span><span class="sxs-lookup"><span data-stu-id="bfef1-104">Uptake throughout the warehouse management system, this functionality will provide support for configuring unique physical dimensions and unit of measure (UOM) conversions at the product variant level.</span></span> <span data-ttu-id="bfef1-105">現時点では、少数のシナリオしかサポートされていません。</span><span class="sxs-lookup"><span data-stu-id="bfef1-105">Currently, only the few scenarios are supported.</span></span>
+<span data-ttu-id="786e8-104">以前は、製品バリアント レベルでの測定単位 (UoM) の変換は、特定の倉庫管理シナリオのセットでのみサポートされていました。</span><span class="sxs-lookup"><span data-stu-id="786e8-104">Unit of measure (UoM) conversions at the product variant level have previously been supported only in a select set of warehouse management scenarios.</span></span> <span data-ttu-id="786e8-105">この機能が、アプリケーション全体の製品バリアント レベルでの UoM 変換をサポートするように拡張されました。</span><span class="sxs-lookup"><span data-stu-id="786e8-105">This functionality has now been expanded to provide support for UoM conversions at the product variant level throughout the application.</span></span>
 
 

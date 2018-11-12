@@ -12,19 +12,19 @@ ms.technology:
 ms.author: emcoope
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 94cc73a11a6f808f0d0717f22f16d3c98a9ed649
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="improved-default-themes-help-embedded-apps-look-like-they-belong-in-sharepoint"></a><span data-ttu-id="373ed-103">既定のテーマの改善により埋め込みアプリが SharePoint に属するように見える</span><span class="sxs-lookup"><span data-stu-id="373ed-103">Improved default themes help embedded apps look like they belong in SharePoint</span></span>
+# <a name="improved-default-themes-help-embedded-apps-look-like-they-belong-in-sharepoint"></a><span data-ttu-id="968c1-103">既定のテーマの改善により埋め込みアプリが SharePoint に属するように見える</span><span class="sxs-lookup"><span data-stu-id="968c1-103">Improved default themes help embedded apps look like they belong in SharePoint</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="373ed-104">アプリ開発者は、キャンバス アプリとフォームに 8 つの Office テーマを適用できます。</span><span class="sxs-lookup"><span data-stu-id="373ed-104">App makers can apply any of eight Office themes to their canvas apps and forms.</span></span> <span data-ttu-id="373ed-105">これらの新しいテーマは、既定の SharePoint テーマと調和するので、SharePoint の埋め込みシナリオを向上させます。</span><span class="sxs-lookup"><span data-stu-id="373ed-105">These new themes improve SharePoint embedding scenarios by aligning with the default SharePoint themes.</span></span>
+<span data-ttu-id="968c1-104">アプリ開発者は、キャンバス アプリとフォームに 8 つの Office テーマを適用できます。</span><span class="sxs-lookup"><span data-stu-id="968c1-104">App makers can apply any of eight Office themes to their canvas apps and forms.</span></span> <span data-ttu-id="968c1-105">これらの新しいテーマは、既定の SharePoint テーマと調和するので、SharePoint の埋め込みシナリオを向上させます。</span><span class="sxs-lookup"><span data-stu-id="968c1-105">These new themes improve SharePoint embedding scenarios by aligning with the default SharePoint themes.</span></span>
 
-<span data-ttu-id="373ed-106">![テーマ色](media/ThemeColors.jpg  "テーマ色")</span><span class="sxs-lookup"><span data-stu-id="373ed-106">![Theme colors](media/ThemeColors.jpg  "Theme colors")</span></span>
+<span data-ttu-id="968c1-106">![テーマ色](media/ThemeColors.jpg  "テーマ色")</span><span class="sxs-lookup"><span data-stu-id="968c1-106">![Theme colors](media/ThemeColors.jpg  "Theme colors")</span></span>
 
 

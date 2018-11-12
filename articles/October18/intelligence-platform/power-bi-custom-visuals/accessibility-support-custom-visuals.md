@@ -12,17 +12,17 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: e9562f5e5856d85d9a512cedac3144b36dca33e0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/25/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="accessibility-support-for-custom-visuals"></a><span data-ttu-id="e209f-103">カスタム ビジュアルのユーザー補助サポート</span><span class="sxs-lookup"><span data-stu-id="e209f-103">Accessibility support for custom visuals</span></span>
+# <a name="accessibility-support-for-custom-visuals"></a><span data-ttu-id="3b89e-103">カスタム ビジュアルのユーザー補助サポート</span><span class="sxs-lookup"><span data-stu-id="3b89e-103">Accessibility support for custom visuals</span></span>
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 
 
-<span data-ttu-id="e209f-104">カスタム ビジュアルは、[配色テーマ](https://docs.microsoft.com/power-bi/desktop-report-themes)に対するカスタム ビジュアルのサポートを追加することにより、ユーザー補助のためのハイ コントラスト モードとキーボード ナビゲーションをサポートします 。</span><span class="sxs-lookup"><span data-stu-id="e209f-104">Custom visuals support high-contrast mode and keyboard navigation for accessibility by adding custom visual support for [color themes](https://docs.microsoft.com/power-bi/desktop-report-themes).</span></span>
+<span data-ttu-id="3b89e-104">カスタム ビジュアルは、[配色テーマ](https://docs.microsoft.com/power-bi/desktop-report-themes)に対するカスタム ビジュアルのサポートを追加することにより、ユーザー補助のためのハイ コントラスト モードとキーボード ナビゲーションをサポートします 。</span><span class="sxs-lookup"><span data-stu-id="3b89e-104">Custom visuals support high-contrast mode and keyboard navigation for accessibility by adding custom visual support for [color themes](https://docs.microsoft.com/power-bi/desktop-report-themes).</span></span>
 

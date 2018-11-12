@@ -11,25 +11,25 @@ author: Annbe
 ms.author: Annbe
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 1c1e9adba7a9e90030d17e0277211987e1928c87
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/25/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
-# <a name="richer-segmentation-experience"></a><span data-ttu-id="20423-103">より充実したセグメント化エクスペリエンス</span><span class="sxs-lookup"><span data-stu-id="20423-103">Richer segmentation experience</span></span>
+# <a name="richer-segmentation-experience"></a><span data-ttu-id="45c84-103">より充実したセグメント化エクスペリエンス</span><span class="sxs-lookup"><span data-stu-id="45c84-103">Richer segmentation experience</span></span>
 
 [!include[marketing banner](../../includes/marketing.md)]
 
 
 
-<span data-ttu-id="20423-104">強化されたセグメント デザイナーを使用すると、マーケティング担当者とビジネス アナリストはセグメントをより簡単かつ効率的に作成できます。</span><span class="sxs-lookup"><span data-stu-id="20423-104">The improved segment designer enables marketers and business analysts to create segments more easily and efficiently.</span></span> <span data-ttu-id="20423-105">新しいビジネス中心の演算子のホストにより、ビジネス ユーザーは複雑なビジネス中心のマーケティング セグメントをよりシンプルに作成できるようになり、ターゲットを絞ったマーケティングのためのセグメントを簡単に作成できます。</span><span class="sxs-lookup"><span data-stu-id="20423-105">A host of new business-centric operators will make it simpler for business users to create complex, business-centric marketing segments, allowing them to easily create segments for targeted marketing.</span></span>
+<span data-ttu-id="45c84-104">強化されたセグメント デザイナーを使用すると、マーケティング担当者とビジネス アナリストはセグメントをより簡単かつ効率的に作成できます。</span><span class="sxs-lookup"><span data-stu-id="45c84-104">The improved segment designer enables marketers and business analysts to create segments more easily and efficiently.</span></span> <span data-ttu-id="45c84-105">新しいビジネス中心の演算子のホストにより、ビジネス ユーザーは複雑なビジネス中心のマーケティング セグメントをよりシンプルに作成できるようになり、ターゲットを絞ったマーケティングのためのセグメントを簡単に作成できます。</span><span class="sxs-lookup"><span data-stu-id="45c84-105">A host of new business-centric operators will make it simpler for business users to create complex, business-centric marketing segments, allowing them to easily create segments for targeted marketing.</span></span>
 
-<span data-ttu-id="20423-106">強化されたセグメント デザイナーは以下を提供します。</span><span class="sxs-lookup"><span data-stu-id="20423-106">The improved segment designer provides:</span></span>
+<span data-ttu-id="45c84-106">強化されたセグメント デザイナーは以下を提供します。</span><span class="sxs-lookup"><span data-stu-id="45c84-106">The improved segment designer provides:</span></span>
 
-- <span data-ttu-id="20423-107">より多くの演算子。</span><span class="sxs-lookup"><span data-stu-id="20423-107">More operators.</span></span>
-- <span data-ttu-id="20423-108">強化されたユーザー インターフェイス パフォーマンス。</span><span class="sxs-lookup"><span data-stu-id="20423-108">Improved user interface performance.</span></span>
+- <span data-ttu-id="45c84-107">より多くの演算子。</span><span class="sxs-lookup"><span data-stu-id="45c84-107">More operators.</span></span>
+- <span data-ttu-id="45c84-108">強化されたユーザー インターフェイス パフォーマンス。</span><span class="sxs-lookup"><span data-stu-id="45c84-108">Improved user interface performance.</span></span>
 
 <!--
 ### Who uses this feature

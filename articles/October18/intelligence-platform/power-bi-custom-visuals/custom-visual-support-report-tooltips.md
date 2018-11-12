@@ -12,17 +12,17 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: ab8260ecf55738ab6df0743dd19869a7822fd29f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/25/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="custom-visual-support-for-report-tooltips"></a><span data-ttu-id="a212b-103">レポート ツールヒントのカスタム ビジュアル サポート</span><span class="sxs-lookup"><span data-stu-id="a212b-103">Custom visual support for report tooltips</span></span>
+# <a name="custom-visual-support-for-report-tooltips"></a><span data-ttu-id="0c057-103">レポート ツールヒントのカスタム ビジュアル サポート</span><span class="sxs-lookup"><span data-stu-id="0c057-103">Custom visual support for report tooltips</span></span>
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 
 
-<span data-ttu-id="a212b-104">カスタム ビジュアルは、Power BI Desktop およびサービスでの[レポート ツールヒント](https://docs.microsoft.com/power-bi/desktop-tooltips)をサポートします。</span><span class="sxs-lookup"><span data-stu-id="a212b-104">Custom visuals will support [report tooltips](https://docs.microsoft.com/power-bi/desktop-tooltips) in the Power BI Desktop and service.</span></span>
+<span data-ttu-id="0c057-104">カスタム ビジュアルは、Power BI Desktop およびサービスでの[レポート ツールヒント](https://docs.microsoft.com/power-bi/desktop-tooltips)をサポートします。</span><span class="sxs-lookup"><span data-stu-id="0c057-104">Custom visuals will support [report tooltips](https://docs.microsoft.com/power-bi/desktop-tooltips) in the Power BI Desktop and service.</span></span>
 

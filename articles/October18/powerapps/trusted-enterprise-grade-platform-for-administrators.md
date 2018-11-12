@@ -12,16 +12,16 @@ ms.technology:
 ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 3118793a2c6c9392f9153d7d3cb0fa3f0e754688
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="better-platform-for-administrators"></a><span data-ttu-id="8a361-103">管理者向けプラットフォームの向上</span><span class="sxs-lookup"><span data-stu-id="8a361-103">Better platform for administrators</span></span>
+# <a name="better-platform-for-administrators"></a><span data-ttu-id="09c99-103">管理者向けプラットフォームの向上</span><span class="sxs-lookup"><span data-stu-id="09c99-103">Better platform for administrators</span></span>
 
 
 [!include[powerapps banner](../includes/powerapps.md)]
 
-<span data-ttu-id="8a361-104">Microsoft PowerApps では、組織内のアプリをかつてないほど簡単に保守および管理できます。</span><span class="sxs-lookup"><span data-stu-id="8a361-104">Microsoft PowerApps makes maintaining and managing apps across your organization easier than ever.</span></span> <span data-ttu-id="8a361-105">新しい管理センターでは、記憶域容量、環境、および展開を管理する管理者やパートナー向けのエクスペリエンスが改善され、管理の信頼性と統合性が向上しています。</span><span class="sxs-lookup"><span data-stu-id="8a361-105">With the launch of the new admin center, admins and partners are embracing the more reliable, unified experience to manage storage capacity, environments, and deployments.</span></span> <span data-ttu-id="8a361-106">管理者は、管理センターに統合されたヘルプとサポートのエクスペリエンスを通じて、問題を効果的に解決できます。</span><span class="sxs-lookup"><span data-stu-id="8a361-106">Admins are more successful resolving issues via the integrated Help & Support experience in the admin center.</span></span>
+<span data-ttu-id="09c99-104">Microsoft PowerApps では、組織内のアプリをかつてないほど簡単に保守および管理できます。</span><span class="sxs-lookup"><span data-stu-id="09c99-104">Microsoft PowerApps makes maintaining and managing apps across your organization easier than ever.</span></span> <span data-ttu-id="09c99-105">新しい管理センターでは、記憶域容量、環境、および展開を管理する管理者やパートナー向けのエクスペリエンスが改善され、管理の信頼性と統合性が向上しています。</span><span class="sxs-lookup"><span data-stu-id="09c99-105">With the launch of the new admin center, admins and partners are embracing the more reliable, unified experience to manage storage capacity, environments, and deployments.</span></span> <span data-ttu-id="09c99-106">管理者は、管理センターに統合されたヘルプとサポートのエクスペリエンスを通じて、問題を効果的に解決できます。</span><span class="sxs-lookup"><span data-stu-id="09c99-106">Admins are more successful resolving issues via the integrated Help & Support experience in the admin center.</span></span>
 

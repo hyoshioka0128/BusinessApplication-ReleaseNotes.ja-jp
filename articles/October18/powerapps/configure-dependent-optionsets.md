@@ -12,16 +12,16 @@ ms.technology:
 ms.author: clwesene
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 47474939488d1eb295a7da01faa359c0f5859a37
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="configure-dependent-option-sets-public-preview"></a><span data-ttu-id="21123-103">依存オプション セットの構成 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="21123-103">Configure dependent option sets (Public Preview)</span></span>
+# <a name="configure-dependent-option-sets-public-preview"></a><span data-ttu-id="2dcb6-103">依存オプション セットの構成 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="2dcb6-103">Configure dependent option sets (Public Preview)</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="21123-104">依存オプション セットを作成することで、オプション セット間で簡単にルールを設定して、選択した値の整合性を保てます。</span><span class="sxs-lookup"><span data-stu-id="21123-104">By creating dependent option sets, you can easily set rules between option sets to make sure that selected values make sense.</span></span> <span data-ttu-id="21123-105">たとえば、**国/地域**オプション セットおよび**都道府県**オプション セットを作成できます。</span><span class="sxs-lookup"><span data-stu-id="21123-105">As an example, you can create a **Country/region** option set and a **States** option set.</span></span> <span data-ttu-id="21123-106">ユーザーが最初のオプション セットのドロップダウン リストで**日本**を選択した場合、2 番目のオプション セットのドロップダウン リストには、その国/地域にある都道府県だけが表示されます。</span><span class="sxs-lookup"><span data-stu-id="21123-106">If a user selects **United States** in the drop-down list for the first option set, the drop-down list for the second option set should show only those states that are in that country/region.</span></span> <span data-ttu-id="21123-107">この構成がすべてのアプリで使用されるようエンティティ レベルで定義することで、データの整合性と正確性を確保できます。</span><span class="sxs-lookup"><span data-stu-id="21123-107">You can ensure that data is consistent and accurate by defining this structure at the entity level for consumption in all apps.</span></span>
+<span data-ttu-id="2dcb6-104">依存オプション セットを作成することで、オプション セット間で簡単にルールを設定して、選択した値の整合性を保てます。</span><span class="sxs-lookup"><span data-stu-id="2dcb6-104">By creating dependent option sets, you can easily set rules between option sets to make sure that selected values make sense.</span></span> <span data-ttu-id="2dcb6-105">たとえば、**国/地域**オプション セットおよび**都道府県**オプション セットを作成できます。</span><span class="sxs-lookup"><span data-stu-id="2dcb6-105">As an example, you can create a **Country/region** option set and a **States** option set.</span></span> <span data-ttu-id="2dcb6-106">ユーザーが最初のオプション セットのドロップダウン リストで**日本**を選択した場合、2 番目のオプション セットのドロップダウン リストには、その国/地域にある都道府県だけが表示されます。</span><span class="sxs-lookup"><span data-stu-id="2dcb6-106">If a user selects **United States** in the drop-down list for the first option set, the drop-down list for the second option set should show only those states that are in that country/region.</span></span> <span data-ttu-id="2dcb6-107">この構成がすべてのアプリで使用されるようエンティティ レベルで定義することで、データの整合性と正確性を確保できます。</span><span class="sxs-lookup"><span data-stu-id="2dcb6-107">You can ensure that data is consistent and accurate by defining this structure at the entity level for consumption in all apps.</span></span>
 

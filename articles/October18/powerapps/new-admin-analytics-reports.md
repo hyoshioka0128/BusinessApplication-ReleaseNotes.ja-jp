@@ -12,16 +12,16 @@ ms.technology:
 ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 6f57991a7dbe0b89fb0cb342aecd60d427944fae
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 61d413618bdaa068b263b4963d5de7976f6e3852
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/13/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="new-admin-analytics-reports"></a><span data-ttu-id="34e83-103">新しい管理者向け分析レポート</span><span class="sxs-lookup"><span data-stu-id="34e83-103">New admin analytics reports</span></span>
+# <a name="new-admin-analytics-reports"></a><span data-ttu-id="a25e8-103">新しい管理者向け分析レポート</span><span class="sxs-lookup"><span data-stu-id="a25e8-103">New admin analytics reports</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="34e83-104">アプリ用 Common Data Service の管理者は、環境に組織の分析情報ソリューションをインストールする必要がなくなりました。組織の分析情報レポートはすべて [Power Platform 管理センター](https://go.microsoft.com/fwlink/?linkid=875536)から (既定で) 使用できます。</span><span class="sxs-lookup"><span data-stu-id="34e83-104">For Common Data Service for Apps admins, there is no longer a need to install the Org Insights solution in their environment; all of the org insights reports are available (by default) from the [Power platform admin center](https://go.microsoft.com/fwlink/?linkid=875536).</span></span>
+<span data-ttu-id="a25e8-104">アプリ用 Common Data Service の管理者は、環境に組織の分析情報ソリューションをインストールする必要がなくなりました。組織の分析情報レポートはすべて [Power Platform 管理センター](https://go.microsoft.com/fwlink/?linkid=875536)から (既定で) 使用できます。</span><span class="sxs-lookup"><span data-stu-id="a25e8-104">For Common Data Service for Apps admins, there is no longer a need to install the Org Insights solution in their environment; all of the org insights reports are available (by default) from the [Power platform admin center](https://go.microsoft.com/fwlink/?linkid=875536).</span></span>
 

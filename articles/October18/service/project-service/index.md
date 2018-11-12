@@ -12,23 +12,23 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 4c3aa9da7c8228c94ff56afd7bb3fb98eb32e0d0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/25/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
 
 
-#  <a name="overview-of-dynamics-365-for-project-service-october-18-release"></a><span data-ttu-id="eb3d7-103">Dynamics 365 for Project Service 2018 年 10 月リリースの概要</span><span class="sxs-lookup"><span data-stu-id="eb3d7-103">Overview of Dynamics 365 for Project Service October '18 release</span></span>
+#  <a name="overview-of-dynamics-365-for-project-service-october-18-release"></a><span data-ttu-id="197f6-103">Dynamics 365 for Project Service 2018 年 10 月リリースの概要</span><span class="sxs-lookup"><span data-stu-id="197f6-103">Overview of Dynamics 365 for Project Service October '18 release</span></span>
 
 [!include[project-service banner](../../includes/project-service.md)]
 
-<span data-ttu-id="eb3d7-104">Project Service の 2018 年 10 月リリースでは、お客様主導の機能拡張に重点を置いたうえで、機能や使いやすさが、実用的かつ戦術的な観点から改善されています。</span><span class="sxs-lookup"><span data-stu-id="eb3d7-104">The October '18 release of Project Service focuses on customer-driven enhancements, with practical and tactical functional and usability improvements.</span></span> <span data-ttu-id="eb3d7-105">機能拡張には次のものが含まれます。</span><span class="sxs-lookup"><span data-stu-id="eb3d7-105">Among the enhancements:</span></span>
+<span data-ttu-id="197f6-104">Project Service の 2018 年 10 月リリースでは、お客様主導の機能拡張に重点を置いたうえで、機能や使いやすさが、実用的かつ戦術的な観点から改善されています。</span><span class="sxs-lookup"><span data-stu-id="197f6-104">The October '18 release of Project Service focuses on customer-driven enhancements, with practical and tactical functional and usability improvements.</span></span> <span data-ttu-id="197f6-105">機能拡張には次のものが含まれます。</span><span class="sxs-lookup"><span data-stu-id="197f6-105">Among the enhancements:</span></span>
 
-- <span data-ttu-id="eb3d7-106">承認済みの時間、経費、仕訳帳明細行の調整。</span><span class="sxs-lookup"><span data-stu-id="eb3d7-106">Adjustments to approved time, expense, and journal lines.</span></span>
-- <span data-ttu-id="eb3d7-107">ロール価格明細での時間単位のサポート。</span><span class="sxs-lookup"><span data-stu-id="eb3d7-107">Support for time unit on role price line.</span></span>
-- <span data-ttu-id="eb3d7-108">利幅率を追加することで価格表のコピーを作成する機能。</span><span class="sxs-lookup"><span data-stu-id="eb3d7-108">Ability to make copies of price lists by adding a markup percentage.</span></span>
-- <span data-ttu-id="eb3d7-109">プロジェクト作業見積の時間単位を組織の単位設定に合わせて構成できる機能。</span><span class="sxs-lookup"><span data-stu-id="eb3d7-109">Configurable unit of time for project work estimation to match org unit settings.</span></span>
+- <span data-ttu-id="197f6-106">承認済みの時間、経費、仕訳帳明細行の調整。</span><span class="sxs-lookup"><span data-stu-id="197f6-106">Adjustments to approved time, expense, and journal lines.</span></span>
+- <span data-ttu-id="197f6-107">ロール価格明細での時間単位のサポート。</span><span class="sxs-lookup"><span data-stu-id="197f6-107">Support for time unit on role price line.</span></span>
+- <span data-ttu-id="197f6-108">利幅率を追加することで価格表のコピーを作成する機能。</span><span class="sxs-lookup"><span data-stu-id="197f6-108">Ability to make copies of price lists by adding a markup percentage.</span></span>
+- <span data-ttu-id="197f6-109">プロジェクト作業見積の時間単位を組織の単位設定に合わせて構成できる機能。</span><span class="sxs-lookup"><span data-stu-id="197f6-109">Configurable unit of time for project work estimation to match org unit settings.</span></span>
 

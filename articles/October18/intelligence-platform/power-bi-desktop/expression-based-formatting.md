@@ -11,21 +11,21 @@ ms.technology:
 ms.author: willthom
 audience: developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: f965528cf0653a2fc81d42bccfb0099d44f74639
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 3e356bbb3401dc01c6007290b99dd8c8bf49d532
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/11/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
-# <a name="expression-based-formatting"></a><span data-ttu-id="fcaed-103">式ベースの書式設定</span><span class="sxs-lookup"><span data-stu-id="fcaed-103">Expression-based formatting</span></span>
+# <a name="expression-based-formatting"></a><span data-ttu-id="0143f-103">式ベースの書式設定</span><span class="sxs-lookup"><span data-stu-id="0143f-103">Expression-based formatting</span></span>
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-<span data-ttu-id="fcaed-104">レポート作成者は、ビジュアルを柔軟に書式設定できる必要があります。</span><span class="sxs-lookup"><span data-stu-id="fcaed-104">Report authors need flexibility over how their visuals are formatted.</span></span> <span data-ttu-id="fcaed-105">書式設定ウィンドウでの書式設定の定義と共に、[DAX](https://docs.microsoft.com/power-bi/desktop-quickstart-learn-dax-basics) 式を使用して書式を設定でき、ビジュアルの書式設定に使用されるビジネス ロジックを完全に制御できます。</span><span class="sxs-lookup"><span data-stu-id="fcaed-105">As well as defining formatting through the formatting pane, a [DAX](https://docs.microsoft.com/power-bi/desktop-quickstart-learn-dax-basics) expression can be used to set the formatting, giving full control over the business logic used to format the visual.</span></span>
+<span data-ttu-id="0143f-104">レポート作成者は、ビジュアルを柔軟に書式設定できる必要があります。</span><span class="sxs-lookup"><span data-stu-id="0143f-104">Report authors need flexibility over how their visuals are formatted.</span></span> <span data-ttu-id="0143f-105">書式設定ウィンドウでの書式設定の定義と共に、[DAX](https://docs.microsoft.com/power-bi/desktop-quickstart-learn-dax-basics) 式を使用して書式を設定でき、ビジュアルの書式設定に使用されるビジネス ロジックを完全に制御できます。</span><span class="sxs-lookup"><span data-stu-id="0143f-105">As well as defining formatting through the formatting pane, a [DAX](https://docs.microsoft.com/power-bi/desktop-quickstart-learn-dax-basics) expression can be used to set the formatting, giving full control over the business logic used to format the visual.</span></span>
 
 
-<span data-ttu-id="fcaed-106">作成者は、目標への進捗に基づいて KPI の色を設定するルール、カテゴリのパフォーマンスに基づいてグラフの線のスタイルを設定するルール、またはこれらの任意の組み合わせを作成できます。</span><span class="sxs-lookup"><span data-stu-id="fcaed-106">Authors can create rules that set the color of a KPI based on the progress towards a goal, set the style of a line on a chart based on which category is performing best, or any combination of these.</span></span> <span data-ttu-id="fcaed-107">作成者は、レポートの他の場所での選択に基づいて、ビジュアルのタイトルを動的に更新することさえできます。</span><span class="sxs-lookup"><span data-stu-id="fcaed-107">Authors can even dynamically update the title of a visual based on selections made elsewhere in the report.</span></span>
+<span data-ttu-id="0143f-106">作成者は、目標への進捗に基づいて KPI の色を設定するルール、カテゴリのパフォーマンスに基づいてグラフの線のスタイルを設定するルール、またはこれらの任意の組み合わせを作成できます。</span><span class="sxs-lookup"><span data-stu-id="0143f-106">Authors can create rules that set the color of a KPI based on the progress towards a goal, set the style of a line on a chart based on which category is performing best, or any combination of these.</span></span> <span data-ttu-id="0143f-107">作成者は、レポートの他の場所での選択に基づいて、ビジュアルのタイトルを動的に更新することさえできます。</span><span class="sxs-lookup"><span data-stu-id="0143f-107">Authors can even dynamically update the title of a visual based on selections made elsewhere in the report.</span></span>
 
 <!--
 ### Who uses this feature

@@ -1,6 +1,6 @@
 ---
 title: "あらゆるレベルのメーカー向けの PowerApps オーサリングの向上"
-description: "PowerApps オーサリングは、PowerApps.com のすべてのインライン エクスペリエンスにおいてアクセシビリティ要件に対応しています。"
+description: "PowerApps オーサリングは、PowerApps.com のすべてのインライン エクスペリエンスにおいて Microsoft ユーザー補助に関する基準に従っています。"
 author: aorth
 manager: KVivek
 ms.date: 9/3/2018
@@ -12,16 +12,16 @@ ms.technology:
 ms.author: aorth
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
-ms.openlocfilehash: f88ac1bbb0ce5bb40b5d150675416ab10852a074
+ms.sourcegitcommit: 29498c7887c736307187aba329a2a286c130041d
+ms.openlocfilehash: bdc98de3de3d54cf3ef487f39db13e2ee0dd4b6a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 10/27/2018
 
 ---
-# <a name="improved-powerapps-authoring-for-makers-of-all-abilities"></a><span data-ttu-id="147c2-103">あらゆるレベルのメーカー向けの PowerApps オーサリングの向上</span><span class="sxs-lookup"><span data-stu-id="147c2-103">Improved PowerApps authoring for makers of all abilities</span></span>
+# <a name="improved-powerapps-authoring-for-makers-of-all-abilities"></a><span data-ttu-id="89789-103">あらゆるレベルのメーカー向けの PowerApps オーサリングの向上</span><span class="sxs-lookup"><span data-stu-id="89789-103">Improved PowerApps authoring for makers of all abilities</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="147c2-104">PowerApps.com のインライン オーサリング エクスペリエンスは、Microsoft ユーザー補助に関する基準に従っており、すべての人がアプリを作成し、すべてのメーカーがより効率的にアプリを作成するのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="147c2-104">Inline authoring experiences on PowerApps.com comply with the Microsoft Accessibility Standards, which helps more people create apps and helps all makers create apps more efficiently.</span></span>
+<span data-ttu-id="89789-104">PowerApps.com のインライン オーサリング エクスペリエンスは、Microsoft ユーザー補助に関する基準に従っており、すべての人がアプリを作成し、すべてのメーカーがより効率的にアプリを作成するのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="89789-104">Inline authoring experiences on PowerApps.com comply with the Microsoft Accessibility Standards, which helps more people create apps and helps all makers create apps more efficiently.</span></span>
 

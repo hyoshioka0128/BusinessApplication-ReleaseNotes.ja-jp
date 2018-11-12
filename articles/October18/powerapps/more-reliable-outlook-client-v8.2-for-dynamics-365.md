@@ -12,16 +12,16 @@ ms.technology:
 ms.author: srihas
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 4ed7075b89a61ae84311796a1c77346bf4cddf9b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="more-reliable-outlook-client-v82-for-dynamics-365"></a><span data-ttu-id="87070-103">Dynamics 365 用の Outlook Client v8.2 の信頼性の向上</span><span class="sxs-lookup"><span data-stu-id="87070-103">More reliable Outlook Client v8.2 for Dynamics 365</span></span>
+# <a name="more-reliable-outlook-client-v82-for-dynamics-365"></a><span data-ttu-id="8e312-103">Dynamics 365 用の Outlook Client v8.2 の信頼性の向上</span><span class="sxs-lookup"><span data-stu-id="8e312-103">More reliable Outlook Client v8.2 for Dynamics 365</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="87070-104">新しいバージョンの Dynamics 365 for Outlook は、パフォーマンスが強化され、メタデータ キャッシュの更新による Outlook の起動とハングの問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="87070-104">The new version of Dynamics 365 for Outlook will have performance enhancements to address Outlook boot and hang issues due to metadata cache refresh.</span></span>
+<span data-ttu-id="8e312-104">新しいバージョンの Dynamics 365 for Outlook は、パフォーマンスが強化され、メタデータ キャッシュの更新による Outlook の起動とハングの問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="8e312-104">The new version of Dynamics 365 for Outlook will have performance enhancements to address Outlook boot and hang issues due to metadata cache refresh.</span></span>
 

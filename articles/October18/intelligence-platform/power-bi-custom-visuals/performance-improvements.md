@@ -12,17 +12,17 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 76fcf5df92aa9252a6215ef516372757ded3b94a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/25/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="performance-improvements"></a><span data-ttu-id="bf450-103">パフォーマンスの向上</span><span class="sxs-lookup"><span data-stu-id="bf450-103">Performance improvements</span></span>
+# <a name="performance-improvements"></a><span data-ttu-id="4803a-103">パフォーマンスの向上</span><span class="sxs-lookup"><span data-stu-id="4803a-103">Performance improvements</span></span>
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 
 
-<span data-ttu-id="bf450-104">単一ビジュアルと複数ビジュアルのカスタム ビジュアル読み込み時間がコア ビジュアルと同程度になります。</span><span class="sxs-lookup"><span data-stu-id="bf450-104">We will be bringing custom visual load times for single visuals and multi-visuals to be in the same order of magnitude as core visuals.</span></span>
+<span data-ttu-id="4803a-104">単一ビジュアルと複数ビジュアルのカスタム ビジュアル読み込み時間がコア ビジュアルと同程度になります。</span><span class="sxs-lookup"><span data-stu-id="4803a-104">We will be bringing custom visual load times for single visuals and multi-visuals to be in the same order of magnitude as core visuals.</span></span>
 

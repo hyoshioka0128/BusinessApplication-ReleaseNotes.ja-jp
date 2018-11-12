@@ -12,18 +12,18 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: ade7b220bd079f4de7e99b121b3f7749b2322b9d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/25/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="dashboard-level-commenting"></a><span data-ttu-id="4656d-103">ダッシュボード レベルのコメント</span><span class="sxs-lookup"><span data-stu-id="4656d-103">Dashboard-level commenting</span></span>
+# <a name="dashboard-level-commenting"></a><span data-ttu-id="5ba5f-103">ダッシュボード レベルのコメント</span><span class="sxs-lookup"><span data-stu-id="5ba5f-103">Dashboard-level commenting</span></span>
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 
 
-<span data-ttu-id="4656d-104">ビジネス ユーザーがモバイル アプリから直接データについての会話を開始して参加できるようにします。</span><span class="sxs-lookup"><span data-stu-id="4656d-104">Allows business users to start and participate in conversations about their data directly from their mobile app.</span></span> <span data-ttu-id="4656d-105">会話はダッシュボードまたはタイルにアタッチされ、それにアクセスできるすべてのユーザーが会話に寄与できます。</span><span class="sxs-lookup"><span data-stu-id="4656d-105">Conversation can be attached to a dashboard or a tile, and all users that have access to it can contribute to the conversation.</span></span> <span data-ttu-id="4656d-106">また、ユーザーは、他のユーザーが会話で自分に言及したときにモバイル プッシュ通知を受け取ることができ、すばやく最新の情報を得て、携帯電話から会話に返信できます。</span><span class="sxs-lookup"><span data-stu-id="4656d-106">Users also can receive mobile push notifications when someone mentions them in a conversation, so they can quickly be updated and reply back to the conversation from their mobile phone.</span></span>
+<span data-ttu-id="5ba5f-104">ビジネス ユーザーがモバイル アプリから直接データについての会話を開始して参加できるようにします。</span><span class="sxs-lookup"><span data-stu-id="5ba5f-104">Allows business users to start and participate in conversations about their data directly from their mobile app.</span></span> <span data-ttu-id="5ba5f-105">会話はダッシュボードまたはタイルにアタッチされ、それにアクセスできるすべてのユーザーが会話に寄与できます。</span><span class="sxs-lookup"><span data-stu-id="5ba5f-105">Conversation can be attached to a dashboard or a tile, and all users that have access to it can contribute to the conversation.</span></span> <span data-ttu-id="5ba5f-106">また、ユーザーは、他のユーザーが会話で自分に言及したときにモバイル プッシュ通知を受け取ることができ、すばやく最新の情報を得て、携帯電話から会話に返信できます。</span><span class="sxs-lookup"><span data-stu-id="5ba5f-106">Users also can receive mobile push notifications when someone mentions them in a conversation, so they can quickly be updated and reply back to the conversation from their mobile phone.</span></span>
 
 

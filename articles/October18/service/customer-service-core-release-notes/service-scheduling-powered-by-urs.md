@@ -12,26 +12,26 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 4ec6b4cb325f9dde8e06a1cd2a683beb2067e434
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/25/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
-#  <a name="service-scheduling-powered-by-universal-resource-scheduling"></a><span data-ttu-id="38172-103">Universal Resource Scheduling によって機能強化されたサービス スケジュール設定</span><span class="sxs-lookup"><span data-stu-id="38172-103">Service scheduling powered by Universal Resource Scheduling</span></span>  
+#  <a name="service-scheduling-powered-by-universal-resource-scheduling"></a><span data-ttu-id="84855-103">Universal Resource Scheduling によって機能強化されたサービス スケジュール設定</span><span class="sxs-lookup"><span data-stu-id="84855-103">Service scheduling powered by Universal Resource Scheduling</span></span>  
 
 [!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 
 
 
 
-<span data-ttu-id="38172-104">サービス スケジュール設定を使用すると、従業員、設備、および備品の利用可能性を考慮しながら、リソースの複雑な組み合わせを効率的にスケジュールできます。</span><span class="sxs-lookup"><span data-stu-id="38172-104">Service scheduling provides organizations with an efficient way to schedule complex combinations of resources by considering the availability of employees, facilities, and equipment.</span></span> <span data-ttu-id="38172-105">従業員の作業負荷が予測可能になることで、サービス品質が改善され、予定を入れ過ぎることもなくなり、顧客やクライアントに対する時間見積の信頼性が確保されます。</span><span class="sxs-lookup"><span data-stu-id="38172-105">It benefits organizations in improving service quality and preventing over-scheduling with predictable workloads for employees, as well as ensuring reliable time estimates for customers and clients.</span></span> 
+<span data-ttu-id="84855-104">サービス スケジュール設定を使用すると、従業員、設備、および備品の利用可能性を考慮しながら、リソースの複雑な組み合わせを効率的にスケジュールできます。</span><span class="sxs-lookup"><span data-stu-id="84855-104">Service scheduling provides organizations with an efficient way to schedule complex combinations of resources by considering the availability of employees, facilities, and equipment.</span></span> <span data-ttu-id="84855-105">従業員の作業負荷が予測可能になることで、サービス品質が改善され、予定を入れ過ぎることもなくなり、顧客やクライアントに対する時間見積の信頼性が確保されます。</span><span class="sxs-lookup"><span data-stu-id="84855-105">It benefits organizations in improving service quality and preventing over-scheduling with predictable workloads for employees, as well as ensuring reliable time estimates for customers and clients.</span></span> 
 
-<span data-ttu-id="38172-106">Universal Resource Scheduling (URS) 上に構築された新しいサービス スケジュール設定ソリューションを使用すれば、顧客サービス組織は、サービスやサービス活動などの既存の構成概念を操作しながら、強力な URS 機能 (スケジュール ボードのフィルター ビュー、リソース検索、リソース並べ替え、サービス活動の時間/日付/週間/月間ビューなど) を活用することができます。</span><span class="sxs-lookup"><span data-stu-id="38172-106">The new service scheduling solution built atop Universal Resource Scheduling (URS) allows customer service organizations to work with the existing constructs such as Services and Service Activities, while leveraging the power of URS functionalities such as Schedule Board - Filter View, Resource search, Resource sorting, and hours/day/week/month view of service activities.</span></span> 
+<span data-ttu-id="84855-106">Universal Resource Scheduling (URS) 上に構築された新しいサービス スケジュール設定ソリューションを使用すれば、顧客サービス組織は、サービスやサービス活動などの既存の構成概念を操作しながら、強力な URS 機能 (スケジュール ボードのフィルター ビュー、リソース検索、リソース並べ替え、サービス活動の時間/日付/週間/月間ビューなど) を活用することができます。</span><span class="sxs-lookup"><span data-stu-id="84855-106">The new service scheduling solution built atop Universal Resource Scheduling (URS) allows customer service organizations to work with the existing constructs such as Services and Service Activities, while leveraging the power of URS functionalities such as Schedule Board - Filter View, Resource search, Resource sorting, and hours/day/week/month view of service activities.</span></span> 
 
-<span data-ttu-id="38172-107">現在 Web クライアント上でサービス スケジュール設定を使用しているお客様には、最新のソリューションへアップグレードするための詳細な移行ガイドが提供されます。</span><span class="sxs-lookup"><span data-stu-id="38172-107">Customers currently using service scheduling on Web Client will be provided with a detailed migration guide to upgrade to the latest solution.</span></span>
+<span data-ttu-id="84855-107">現在 Web クライアント上でサービス スケジュール設定を使用しているお客様には、最新のソリューションへアップグレードするための詳細な移行ガイドが提供されます。</span><span class="sxs-lookup"><span data-stu-id="84855-107">Customers currently using service scheduling on Web Client will be provided with a detailed migration guide to upgrade to the latest solution.</span></span>
 
 > [!div class="mx-imgBorder"]
-> <span data-ttu-id="38172-108">![Universal Resource Scheduling](media/universal-resource-scheduling.png "Universal Resource Scheduling")</span><span class="sxs-lookup"><span data-stu-id="38172-108">![Universal Resource Scheduling](media/universal-resource-scheduling.png "Universal Resource Scheduling")</span></span>
+> <span data-ttu-id="84855-108">![Universal Resource Scheduling](media/universal-resource-scheduling.png "Universal Resource Scheduling")</span><span class="sxs-lookup"><span data-stu-id="84855-108">![Universal Resource Scheduling](media/universal-resource-scheduling.png "Universal Resource Scheduling")</span></span>
 

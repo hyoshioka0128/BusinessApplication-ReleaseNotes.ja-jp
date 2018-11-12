@@ -12,16 +12,16 @@ ms.technology:
 ms.author: shilpas
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 57640fcbf49abc83c1a1ead95d0a744b104f3e9c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="entities-added-to-the-unified-interface"></a><span data-ttu-id="7d662-103">統一インターフェイスに追加されたエンティティ</span><span class="sxs-lookup"><span data-stu-id="7d662-103">Entities added to the Unified Interface</span></span>
+# <a name="entities-added-to-the-unified-interface"></a><span data-ttu-id="ad18f-103">統一インターフェイスに追加されたエンティティ</span><span class="sxs-lookup"><span data-stu-id="ad18f-103">Entities added to the Unified Interface</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="7d662-104">エンドユーザーは、統一インターフェイスでレコードの種類 (ユーザー、チーム、職位、通貨など) を編集および使用できます。</span><span class="sxs-lookup"><span data-stu-id="7d662-104">End users can edit and use record types (such as Users, Teams, Position, and Currency) on Unified Interface.</span></span> 
+<span data-ttu-id="ad18f-104">エンドユーザーは、統一インターフェイスでレコードの種類 (ユーザー、チーム、職位、通貨など) を編集および使用できます。</span><span class="sxs-lookup"><span data-stu-id="ad18f-104">End users can edit and use record types (such as Users, Teams, Position, and Currency) on Unified Interface.</span></span> 
 

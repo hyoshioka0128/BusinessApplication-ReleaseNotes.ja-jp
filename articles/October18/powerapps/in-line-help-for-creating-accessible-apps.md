@@ -12,20 +12,20 @@ ms.technology:
 ms.author: emcoope
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 23a89baa2842d30c3c2841e8bc8c843df86709d6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="inline-help-for-creating-accessible-apps"></a><span data-ttu-id="4ff89-103">アクセスしやすいアプリを作成するためのインライン ヘルプ</span><span class="sxs-lookup"><span data-stu-id="4ff89-103">Inline help for creating accessible apps</span></span>
+# <a name="inline-help-for-creating-accessible-apps"></a><span data-ttu-id="00f71-103">アクセスしやすいアプリを作成するためのインライン ヘルプ</span><span class="sxs-lookup"><span data-stu-id="00f71-103">Inline help for creating accessible apps</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="4ff89-104">アクセシビリティ チェックは、スクリーン リーダー機能やキーボード ナビゲーション項目などで検出された問題のリストを提供して、開発者がアクセスしやすいアプリを作成するのをガイドします。</span><span class="sxs-lookup"><span data-stu-id="4ff89-104">The accessibility checker guides makers to create accessible apps by providing a list of detected issues related to screen-reader capabilities and keyboard navigation items.</span></span> <span data-ttu-id="4ff89-105">それぞれの問題について、影響を受けるプロパティに移動して、修正に関する情報を取得し、他のリソースへのリンクを見つけられます。</span><span class="sxs-lookup"><span data-stu-id="4ff89-105">For each issue, you can navigate to the affected property, get information about how to fix it, and find links to extra resources.</span></span> <span data-ttu-id="4ff89-106">各アプリ開発者は、ベスト プラクティス、色のコントラストの問題をチェックするための追加情報、アクセシビリティ チェックの使用について説明する文書を確認できます。</span><span class="sxs-lookup"><span data-stu-id="4ff89-106">Each app maker can review documentation that explains best practices, provides extra information about how to check for color contrast issues, and use the accessibility checker.</span></span>
+<span data-ttu-id="00f71-104">アクセシビリティ チェックは、スクリーン リーダー機能やキーボード ナビゲーション項目などで検出された問題のリストを提供して、開発者がアクセスしやすいアプリを作成するのをガイドします。</span><span class="sxs-lookup"><span data-stu-id="00f71-104">The accessibility checker guides makers to create accessible apps by providing a list of detected issues related to screen-reader capabilities and keyboard navigation items.</span></span> <span data-ttu-id="00f71-105">それぞれの問題について、影響を受けるプロパティに移動して、修正に関する情報を取得し、他のリソースへのリンクを見つけられます。</span><span class="sxs-lookup"><span data-stu-id="00f71-105">For each issue, you can navigate to the affected property, get information about how to fix it, and find links to extra resources.</span></span> <span data-ttu-id="00f71-106">各アプリ開発者は、ベスト プラクティス、色のコントラストの問題をチェックするための追加情報、アクセシビリティ チェックの使用について説明する文書を確認できます。</span><span class="sxs-lookup"><span data-stu-id="00f71-106">Each app maker can review documentation that explains best practices, provides extra information about how to check for color contrast issues, and use the accessibility checker.</span></span>
 
 
-<span data-ttu-id="4ff89-107">![アクセシビリティ チェック](media/AccessibilityChecker_01.png "アクセシビリティ チェック")</span><span class="sxs-lookup"><span data-stu-id="4ff89-107">![Accessibility checker](media/AccessibilityChecker_01.png "Accessibility checker")</span></span>
+<span data-ttu-id="00f71-107">![アクセシビリティ チェック](media/AccessibilityChecker_01.png "アクセシビリティ チェック")</span><span class="sxs-lookup"><span data-stu-id="00f71-107">![Accessibility checker](media/AccessibilityChecker_01.png "Accessibility checker")</span></span>
 
 

@@ -12,18 +12,18 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 1735f94d0f92dd51be23d11b340e2eea26b0ed25
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/25/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-#  <a name="multi-resource-scheduling"></a><span data-ttu-id="81099-103">複数リソースのスケジューリング</span><span class="sxs-lookup"><span data-stu-id="81099-103">Multi-resource scheduling</span></span>
+#  <a name="multi-resource-scheduling"></a><span data-ttu-id="4eb75-103">複数リソースのスケジューリング</span><span class="sxs-lookup"><span data-stu-id="4eb75-103">Multi-resource scheduling</span></span>
 
 [!include[field-service banner](../../includes/field-service.md)]
 
 
 
 
-<span data-ttu-id="81099-104">複数リソースのスケジューリングにより、単一の作業指示書に対して複数のリソースをスケジュールできます。</span><span class="sxs-lookup"><span data-stu-id="81099-104">Multi-resource scheduling allows for multiple resources to be scheduled against a single work order.</span></span> <span data-ttu-id="81099-105">これは、作業の完了に複数のリソースが必要な複雑な作業指示書を持つお客様からよくいただく要求でした。</span><span class="sxs-lookup"><span data-stu-id="81099-105">This has been a common request from customers who have complex work orders requiring more than a single resource to complete the work.</span></span> <span data-ttu-id="81099-106">インシデントの種類を要件グループ テンプレートに関連付けることができるので、作業指示書を作成し、インシデントの種類を選択するときに、作業指示書に要件のグループを追加して、複数リソースのスケジューリングを開始できます。</span><span class="sxs-lookup"><span data-stu-id="81099-106">Incident types will be able to be related to requirement group templates so that when you create a work order and select an incident type, a group of requirements can be added to the work order, lighting up multi-resource scheduling.</span></span>  <span data-ttu-id="81099-107">複数リソースのスケジューリングのインフラストラクチャは、2018 年春の Universal Resource Scheduling (URS) にプレビューとして含まれ、2018 年 10 月に GA (一般提供) となります。2018 年 10 月リリースからは Field Service によって利用されます。</span><span class="sxs-lookup"><span data-stu-id="81099-107">The infrastructure for multi-resource scheduling was included in Universal Resource Scheduling (URS) in Spring '18 as a preview, October '18 GA, and is now being leveraged by Field Service starting with the October '18 release.</span></span>
+<span data-ttu-id="4eb75-104">複数リソースのスケジューリングにより、単一の作業指示書に対して複数のリソースをスケジュールできます。</span><span class="sxs-lookup"><span data-stu-id="4eb75-104">Multi-resource scheduling allows for multiple resources to be scheduled against a single work order.</span></span> <span data-ttu-id="4eb75-105">これは、作業の完了に複数のリソースが必要な複雑な作業指示書を持つお客様からよくいただく要求でした。</span><span class="sxs-lookup"><span data-stu-id="4eb75-105">This has been a common request from customers who have complex work orders requiring more than a single resource to complete the work.</span></span> <span data-ttu-id="4eb75-106">インシデントの種類を要件グループ テンプレートに関連付けることができるので、作業指示書を作成し、インシデントの種類を選択するときに、作業指示書に要件のグループを追加して、複数リソースのスケジューリングを開始できます。</span><span class="sxs-lookup"><span data-stu-id="4eb75-106">Incident types will be able to be related to requirement group templates so that when you create a work order and select an incident type, a group of requirements can be added to the work order, lighting up multi-resource scheduling.</span></span>  <span data-ttu-id="4eb75-107">複数リソースのスケジューリングのインフラストラクチャは、2018 年春の Universal Resource Scheduling (URS) にプレビューとして含まれ、2018 年 10 月に GA (一般提供) となります。2018 年 10 月リリースからは Field Service によって利用されます。</span><span class="sxs-lookup"><span data-stu-id="4eb75-107">The infrastructure for multi-resource scheduling was included in Universal Resource Scheduling (URS) in Spring '18 as a preview, October '18 GA, and is now being leveraged by Field Service starting with the October '18 release.</span></span>
 

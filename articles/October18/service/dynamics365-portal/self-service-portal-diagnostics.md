@@ -12,21 +12,21 @@ ms.technology:
 ms.author: dileeps
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 6dedc366770bc60d0c28f18a966aae076cbca6fb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-#  <a name="self-service-portal-diagnostics"></a><span data-ttu-id="0ab71-103">セルフサービス ポータル診断</span><span class="sxs-lookup"><span data-stu-id="0ab71-103">Self-service portal diagnostics</span></span>
+#  <a name="self-service-portal-diagnostics"></a><span data-ttu-id="74e06-103">セルフサービス ポータル診断</span><span class="sxs-lookup"><span data-stu-id="74e06-103">Self-service portal diagnostics</span></span>
 
 [!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
 
 
 
-<span data-ttu-id="0ab71-104">Dynamics 365 Portal では、シンプルかつ効果的な方法で Web サイトを作成できます。</span><span class="sxs-lookup"><span data-stu-id="0ab71-104">Dynamics 365 Portal helps organizations create websites in a simple and effective manner.</span></span> <span data-ttu-id="0ab71-105">Microsoft では、Dynamics 365 Portal のサポート性を改善する取り組みの一環として、診断機能を改善し、お客様がセルフサービス診断機能を使って自ら問題を解決できるようにするべく取り組んでいます。</span><span class="sxs-lookup"><span data-stu-id="0ab71-105">As part of our investment to improve supportability of Dynamics 365 Portal, we are focusing on better diagnostics and providing customizers with the ability to resolve issues on their own using self-service diagnostic capabilities.</span></span>
+<span data-ttu-id="74e06-104">Dynamics 365 Portal では、シンプルかつ効果的な方法で Web サイトを作成できます。</span><span class="sxs-lookup"><span data-stu-id="74e06-104">Dynamics 365 Portal helps organizations create websites in a simple and effective manner.</span></span> <span data-ttu-id="74e06-105">Microsoft では、Dynamics 365 Portal のサポート性を改善する取り組みの一環として、診断機能を改善し、お客様がセルフサービス診断機能を使って自ら問題を解決できるようにするべく取り組んでいます。</span><span class="sxs-lookup"><span data-stu-id="74e06-105">As part of our investment to improve supportability of Dynamics 365 Portal, we are focusing on better diagnostics and providing customizers with the ability to resolve issues on their own using self-service diagnostic capabilities.</span></span>
 
-<span data-ttu-id="0ab71-106">この機能では、ポータル構成を参照し、構成に関する潜在的な問題を特定すると共に、問題の解決方法を示すセルフサービス診断ツールが提供されます。</span><span class="sxs-lookup"><span data-stu-id="0ab71-106">This feature provides a self-service diagnostic tool that looks at portal configuration and identifies potential configuration problems as well as provides solutions on how to resolve the issues.</span></span> <span data-ttu-id="0ab71-107">ポータルのカスタマイズ担当者は、このツールを使用して一般的な問題をすばやく解決し、問題の診断にかかる時間を減らすことができます。</span><span class="sxs-lookup"><span data-stu-id="0ab71-107">This tool can be used by portal customizers to quickly resolve common issues and reduce the amount of time spent on diagnosing any issues.</span></span>
+<span data-ttu-id="74e06-106">この機能では、ポータル構成を参照し、構成に関する潜在的な問題を特定すると共に、問題の解決方法を示すセルフサービス診断ツールが提供されます。</span><span class="sxs-lookup"><span data-stu-id="74e06-106">This feature provides a self-service diagnostic tool that looks at portal configuration and identifies potential configuration problems as well as provides solutions on how to resolve the issues.</span></span> <span data-ttu-id="74e06-107">ポータルのカスタマイズ担当者は、このツールを使用して一般的な問題をすばやく解決し、問題の診断にかかる時間を減らすことができます。</span><span class="sxs-lookup"><span data-stu-id="74e06-107">This tool can be used by portal customizers to quickly resolve common issues and reduce the amount of time spent on diagnosing any issues.</span></span>
 
 <!--
 ### Who uses this feature

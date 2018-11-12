@@ -12,16 +12,16 @@ ms.technology:
 ms.author: ankitsar
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 5b2badd67a697d89e63973f5afe0977e402aead0
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 65c19d485bee81215f1817ce13b0bfd2493301e1
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-# <a name="powerapps-supports-intune"></a><span data-ttu-id="86253-103">PowerApps が Intune をサポート</span><span class="sxs-lookup"><span data-stu-id="86253-103">PowerApps supports Intune</span></span>
+# <a name="powerapps-supports-intune"></a><span data-ttu-id="6ef86-103">PowerApps が Intune をサポート</span><span class="sxs-lookup"><span data-stu-id="6ef86-103">PowerApps supports Intune</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="86253-104">Android と iOS 上の PowerApps アプリが Intune と統合され、モバイル アプリケーション管理に対して Intune ポリシーをサポートするようになったので、お客様のデータに対する制御とセキュリティが向上します。</span><span class="sxs-lookup"><span data-stu-id="86253-104">PowerApps apps on Android and iOS are now integrated with Intune and support Intune policies for mobile application management, enabling customers to have better control and security over their data.</span></span>
+<span data-ttu-id="6ef86-104">Android と iOS 上の PowerApps アプリが Intune と統合され、モバイル アプリケーション管理に対して Intune ポリシーをサポートするようになったので、お客様のデータに対する制御とセキュリティが向上します。</span><span class="sxs-lookup"><span data-stu-id="6ef86-104">PowerApps apps on Android and iOS are now integrated with Intune and support Intune policies for mobile application management, enabling customers to have better control and security over their data.</span></span>
 

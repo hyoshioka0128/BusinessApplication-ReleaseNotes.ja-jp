@@ -12,18 +12,18 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: a2df00f14314358459ffb9680bd589d8764ecd35
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/25/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-#  <a name="dataset-metadata-translations"></a><span data-ttu-id="8b469-103">データセット メタデータ翻訳</span><span class="sxs-lookup"><span data-stu-id="8b469-103">Dataset metadata translations</span></span>
+#  <a name="dataset-metadata-translations"></a><span data-ttu-id="fea27-103">データセット メタデータ翻訳</span><span class="sxs-lookup"><span data-stu-id="fea27-103">Dataset metadata translations</span></span>
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 
 
 
-<span data-ttu-id="8b469-104">データセットまたは Analysis Services モデルで翻訳が定義されていると、Power BI ユーザーに対してクライアントのローケールまたは言語でデータ セット フィールドが表示されます。</span><span class="sxs-lookup"><span data-stu-id="8b469-104">Power BI users see dataset fields in their client locale or language when translations are defined in the dataset or Analysis Services model.</span></span>
+<span data-ttu-id="fea27-104">データセットまたは Analysis Services モデルで翻訳が定義されていると、Power BI ユーザーに対してクライアントのローケールまたは言語でデータ セット フィールドが表示されます。</span><span class="sxs-lookup"><span data-stu-id="fea27-104">Power BI users see dataset fields in their client locale or language when translations are defined in the dataset or Analysis Services model.</span></span>
 

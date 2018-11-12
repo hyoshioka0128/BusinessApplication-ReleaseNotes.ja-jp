@@ -11,17 +11,17 @@ ms.technology:
 ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: b1a0f1e04786d2daef091fc6f6f9c168f2b005e7
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: fe51291bad2fc435d3fdc0a5b5f2d4fde546208e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/25/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-#  <a name="on-hand-inventory-report-performance"></a><span data-ttu-id="56499-103">手持在庫レポートのパフォーマンス</span><span class="sxs-lookup"><span data-stu-id="56499-103">On-hand inventory report performance</span></span>
+#  <a name="on-hand-inventory-report-performance"></a><span data-ttu-id="94469-103">手持在庫レポートのパフォーマンス</span><span class="sxs-lookup"><span data-stu-id="94469-103">On-hand inventory report performance</span></span>
 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 
 
-<span data-ttu-id="56499-104">現在の設計では大量のリアルタイム処理が必要なので、大量の製品とトランザクションを持つお客様は即時の手持在庫情報を得るのが困難です。</span><span class="sxs-lookup"><span data-stu-id="56499-104">Customers with large volumes of products and transactions find it a challenge to ensure prompt on-hand inventory information, given that the current design requires significant real-time processing.</span></span> <span data-ttu-id="56499-105">手持在庫を計算およびレポートする方法のリファクタリングにより、はるかに応答性の高いエクスペリエンスが実現されます。</span><span class="sxs-lookup"><span data-stu-id="56499-105">Refactoring the approach to calculating and reporting on-hand inventory allows for a far more responsive experience.</span></span>
+<span data-ttu-id="94469-104">現在の設計では大量のリアルタイム処理が必要なので、大量の製品とトランザクションを持つお客様は即時の手持在庫情報を得るのが困難です。</span><span class="sxs-lookup"><span data-stu-id="94469-104">Customers with large volumes of products and transactions find it a challenge to ensure prompt on-hand inventory information, given that the current design requires significant real-time processing.</span></span> <span data-ttu-id="94469-105">手持在庫を計算およびレポートする方法のリファクタリングにより、はるかに応答性の高いエクスペリエンスが実現されます。</span><span class="sxs-lookup"><span data-stu-id="94469-105">Refactoring the approach to calculating and reporting on-hand inventory allows for a far more responsive experience.</span></span>
 
