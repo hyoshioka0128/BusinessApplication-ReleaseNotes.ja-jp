@@ -12,10 +12,10 @@ ms.technology:
 ms.author: prsi
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 13db0d172d76ebeec5d78a859d2f1a08d1c45ccd
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 357d79bcd4230dea81f23d40d798d9927361a92f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="end-users-can-create-personal-dashboards-and-share-them-with-other-users-and-teams"></a>エンドユーザーは個人用ダッシュボードを作成して他のユーザーやチームと共有可能

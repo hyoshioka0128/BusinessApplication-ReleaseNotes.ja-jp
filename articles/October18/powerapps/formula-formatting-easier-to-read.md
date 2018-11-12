@@ -12,10 +12,10 @@ ms.technology:
 ms.author: lanced
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 7fc08463e073d220a6d048d7bd2efa72ff4be876
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: fef8de97ee4d53be8f2cf0bb0d23cf70b98b1ff1
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="formula-formatting-easier-to-read"></a>読みやすくなった式の書式

@@ -3,7 +3,7 @@ title: "ビジネス インテリジェンス"
 description: "Power BI は、分析情報とデータの価値を最大限に引き出します。 Power BI ドキュメントでは、Power BI のさまざまな使用ニーズに対応した、専門的な情報や回答が提供されています。"
 author: HaydnR
 manager: ArunUlag
-ms.date: 8/16/2018
+ms.date: 10/23/2018
 ms.assetid: e45f6b5f-4ba0-45c8-9f11-63331de61a44
 ms.topic: overview
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: haydnr
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 2ddd4b42d13f15731ed8fd2f46f3376477b2eb3c
-ms.openlocfilehash: c243e9ff86fe2faf53a1d4bd7971954c550ca293
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: db7099ff3b9af87510c1f6293453dbd74d3e8604
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/11/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
@@ -44,7 +44,7 @@ Power BI Desktop では、AI と自然言語を使用して、作成者の作業
 
 -   **ビッグデータに対応したセルフサービスのデータ準備** – Microsoft では、ビッグデータからの分析情報取得を支援する新機能によって、Power BI でのセルフサービス データ準備を拡張しています。 ビジネス アナリストは、Power BI Desktop や Excel の数百万人ものユーザーが使い慣れている、Power Query のエクスペリエンスを使用して、データの取り込み、変換、統合を行い、Power BI でデータをエンリッチすることができます。サポートされるデータ ソース (オンプレミスおよびクラウドベース) は幅広く、継続的に拡大されています (Dynamics 365、Salesforce、Azure SQL Data Warehouse、Excel、SharePoint など)。 ユーザーは、データを既知のエンティティに直接マップしたり、既存のエンティティを変更して拡張したり、ユーザー定義エンティティを作成することができます。またそれらの作業はすべて、Power BI 内で行うことができます。
  
--   **Azure を使用した高度な分析と AI** – Power BI と Azure Data Lake Storage との間でのデータ アクセスを統合することで、ロール間でのコラボレーションを強化しています。 ビジネス アナリストは、Power BI のセルフサービス機能を使用して、Azure Data Lake Storage に格納されたデータをシームレスに操作することができます。また、エンジニア データ、データ サイエンティスト、およびその他のユーザーは、補助となる Azure Data Services (Azure Data Factory、Azure Databricks、Azure Machine Learning など) の高度な分析機能や AI を使用して、分析情報へのアクセスを拡張できます。 たとえば、データ エンジニアは、データの追加、エンリッチ、オーケストレーションを行うことができますし、データ サイエンティストは、機械学習モデルを作成することができます。またビジネス アナリストは、他のユーザーの成果物や、Azure Data Lake Storage のデータを利用しながら、Power BI のセルフサービス ツールを使用して、分析情報を幅広く構築し、共有することができます。
+-   **Azure を使用した高度な分析と AI** - Power BI と Azure Data Lake Storage との間でのデータ アクセスを統合することで、ロール間でのコラボレーションを強化しています。 ビジネス アナリストは、Power BI のセルフサービス機能を使用して、Azure Data Lake Storage に格納されたデータをシームレスに操作することができます。また、エンジニア データ、データ サイエンティスト、およびその他のユーザーは、補助となる Azure Data Services (Azure Data Factory、Azure Databricks、Azure Machine Learning など) の高度な分析機能や AI を使用して、分析情報へのアクセスを拡張できます。 たとえば、データ エンジニアは、データの追加、エンリッチ、オーケストレーションを行うことができますし、データ サイエンティストは、機械学習モデルを作成することができます。またビジネス アナリストは、他のユーザーの成果物や、Azure Data Lake Storage のデータを利用しながら、Power BI のセルフサービス ツールを使用して、分析情報を幅広く構築し、共有することができます。
 
 
 ### <a name="enterprise-bi"></a>エンタープライズ BI
@@ -57,7 +57,7 @@ Power BI Desktop では、AI と自然言語を使用して、作成者の作業
 
 ## <a name="power-bi-mobile"></a>Power BI Mobile
 
-Power BI Mobile アプリを使用すると、あらゆるデバイスにデータと分析情報を提供できます。 ビジネス ユーザーは、Power BI のダッシュボードやレポートに任意のデバイスから安全にアクセスし、モバイル用に最適化されたエクスペリエンス (Windows、iOS、Android に対応) でそれらを表示できます。 2018 年 10 月リリースの主な機能としては、Office アプリとの資格情報の共有、新しいパーソナル ナビゲーションとランディング エクスペリエンス、およびデータ操作のコラボレーション機能があります。
+Power BI Mobile アプリを使用すると、あらゆるデバイスにデータと分析情報を提供できます。 ビジネス ユーザーは、Power BI のダッシュボードやレポートに任意のデバイスから安全にアクセスし、モバイル用に最適化されたエクスペリエンス (Windows、iOS、Android に対応) でそれらを表示できます。 2018 年 10 月リリースの主な機能としては、Office アプリとの資格情報の共有、データ操作のコラボレーション機能、Windows に対するシングル サインオン、およびモバイルでのドリルスルーによる高度なデータ探索があります。
 
 ## <a name="power-bi-embedded"></a>Power BI Embedded
 
@@ -69,7 +69,7 @@ Power BI Mobile アプリを使用すると、あらゆるデバイスにデー�
 
 ## <a name="power-bi-report-server"></a>Power BI Report Server
 
-Power BI Report Server を使用すると、お客様は最新の Power BI レポートのメリットを享受しながら、政府機関や展開に関する固有の要件に準拠することができます。 Power BI Report Server の 2018 年 11 月更新プログラムでは、過去数か月間に Power BI Desktop でリリースされた機能の多くを利用することができます (メジャーに基づくドリルスルー、他の列に基づく条件付き書式など)。 
+Power BI Report Server を使用すると、お客様は最新の Power BI レポートのメリットを享受しながら、政府機関や展開に関する固有の要件に準拠することができます。 Power BI Report Server の 2019 年 1 月更新プログラムでは、過去数か月間に Power BI Desktop でリリースされた機能の多くを利用することができます (メジャーに基づくドリルスルー、他の列に基づく条件付き書式など)。 
 
 ## <a name="azure-analysis-services"></a>Azure Analysis Services
 

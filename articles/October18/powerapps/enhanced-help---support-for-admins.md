@@ -12,10 +12,10 @@ ms.technology:
 ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: a51ee13dfb1976d83a3bd000a2f774b3006e5a5f
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: ba8897cbf420e70129aee8460633e0167acb3c7e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="enhanced-help-and-support-for-admins"></a>管理者向けのヘルプとサポートの強化

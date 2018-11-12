@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 225f50c834532e1a7fcc78e6b282529e8115d19c
-ms.openlocfilehash: 41fcefa4b2c7e6d89f3b9500ceac17a1700599e2
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 0ac813b6a817281765a2650a6e1f3ab69e7b841f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/11/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 

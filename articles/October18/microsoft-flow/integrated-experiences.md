@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mhade
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: e073a7b0cc0815d1e9f95358976342e54af6538a
-ms.openlocfilehash: beff4326884e23199b57ed7d23f14442e4c9bba1
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: fef264f225602026aae6709e87b2fda13654066e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="integrated-experiences"></a>統合エクスペリエンス

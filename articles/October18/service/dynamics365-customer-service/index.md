@@ -12,23 +12,23 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9
-ms.openlocfilehash: 597744da4a07d43ac6f00b197d4404463b188194
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: b9d79d67dc2a5b678468dab0875c2b3804919e3e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="overview-of-the-service-october-18-release"></a>サービス 2018 年 10 月リリースの概要 
 
 
 
-2018 年 10 月リリースでは、サービス関連の新機能が導入されています (Customer Service、Field Service、および Dynamics 365 Portal を含む)。 (これらのリリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+2018 年 10 月リリースでは、サービス関連の新機能が導入されています (Customer Service、Field Service、および Dynamics 365 Portal を含む)。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 **Dynamics 365 for Customer Service** の最新リリースでは、さまざまなタッチポイントを通じて全体的な顧客エンゲージメントを促進し、業務運営の効率や組織の生産性を改善できます。 新機能としては、Universal Resource Scheduling を使用したサービス スケジュールがあります。
 
 **Omni-channel Engagement Hub** は、新たに導入されたチャネル (ライブ チャットと SMS) を通じて顧客とすばやく接続し、エンゲージメントを促進できる、クラウド ベースのサービスです。 カスタマイズ性と生産性に優れたこの最新アプリでは、エージェントが統一インターフェイスを通じて、さまざまなチャネルから顧客とやり取りできます。 
 
-**Unified Service Desk** for Dynamics 365 の新機能では、Microsoft Edge Webブラウザーを使用して Web アプリをホストすることができます。 これは、統一インターフェイス フレームワーク上に作成された管理者アプリを使用して構成することもできます。 
+**Unified Service Desk** for Dynamics 365 の新機能では、Microsoft Edge Web ブラウザーを使用して Web アプリをホストすることができます。 これは、統一インターフェイス フレームワーク上に作成された管理者アプリを使用して構成することもできます。 
 
 **Dynamics 365 Portal** 2018 年 10 月リリースでは、ポータルの設定やカスタマイズを診断するのに役立つツールが提供されます。 
 

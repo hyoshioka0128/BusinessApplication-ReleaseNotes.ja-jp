@@ -12,10 +12,10 @@ ms.technology:
 ms.author: evchaki
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 86083e53d804f350b1acdb9ca38363ad57beef4f
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: d73eec1d339fd6ab501626150f5184b8d9ef740f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 

@@ -11,10 +11,10 @@ ms.technology:
 ms.author: milindav
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 36225f093d48941c59e86c6a6460b4733588a71d
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: cd00f281b554bae6ce553082c3afb0d8ce799aa9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="real-time-power-bi-reports"></a>リアルタイム Power BI レポート

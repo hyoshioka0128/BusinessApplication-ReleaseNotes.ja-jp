@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: a7bdb6880324a2b50449b8f9e926c84e2381490a
-ms.openlocfilehash: 300212e720b15b9452b5b031f50d147945415768
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: ce382f22ea637011beb08029c2643a8048d9a705
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/20/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="payment-connector"></a>支払いコネクタ

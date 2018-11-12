@@ -11,10 +11,10 @@ ms.technology:
 ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: d7433e6bee60e145ca6c6ab871e3e68215d3c16b
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: adb44ce7682992852e49abd853d788f6a6d9b98c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="productivity-to-view-settlement-transactions"></a>決済トランザクションを表示する際の生産性

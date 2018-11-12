@@ -3,7 +3,7 @@ title: "テキスト チャット"
 description: "リモート アシストの通話でテキスト チャットを行うことができます。"
 author: ReneeW-CPub
 manager: AnnBe
-ms.date: 09/24/2018
+ms.date: 10/10/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +11,10 @@ ms.technology:
 ms.author: mapau
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
-ms.openlocfilehash: 76161944304441024b7e8607255b82e67256afae
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: eb33d70d9dcb823d7d4a2f13c212db259a755213
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/22/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
@@ -29,7 +29,7 @@ ms.lasthandoff: 09/22/2018
 
 *テキスト チャット*
 
-<!-- link to user guide 
-[Learn more about text chatting in Remote Assist.]()
--->
+
+[リモート アシストでのテキスト チャットの詳細をご覧ください。](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/user-guide)
+
 

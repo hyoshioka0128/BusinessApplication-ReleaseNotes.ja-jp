@@ -11,10 +11,10 @@ ms.technology:
 ms.author: rumant
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1344f8072ddc0842a6e0abead09478b68db6b6fe
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 557a26f9185f09b2ab5f5e207b7c5c3c95ae1991
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="ability-to-make-copies-of-price-lists-by-adding-a-markup-percentage"></a>利幅率を追加することで価格表のコピーを作成する機能

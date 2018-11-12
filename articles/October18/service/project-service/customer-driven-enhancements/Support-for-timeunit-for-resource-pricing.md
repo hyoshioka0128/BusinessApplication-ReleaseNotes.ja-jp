@@ -11,10 +11,10 @@ ms.technology:
 ms.author: rumant
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: d2aca752e4381437a0f7f984e963cfc188f1e9d3
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: ec0b4b4fbef8ec0a6ca8c3d59c5ded858615d6c3
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #   <a name="support-for-multiple-time-units-on-a-single-price-list"></a>1 つの価格表で複数の時間単位をサポート

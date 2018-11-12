@@ -12,10 +12,10 @@ ms.technology:
 ms.author: emcoope
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 019bd2d90e42509aef64898d01d3c5939d2e6538
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 94cc73a11a6f808f0d0717f22f16d3c98a9ed649
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="improved-default-themes-help-embedded-apps-look-like-they-belong-in-sharepoint"></a>既定のテーマの改善により埋め込みアプリが SharePoint に属するように見える

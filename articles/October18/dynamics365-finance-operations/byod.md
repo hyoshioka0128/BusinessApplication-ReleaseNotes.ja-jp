@@ -11,10 +11,10 @@ author: Annbe
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 36a6cd497f6f5277e41135fa1cab5f5c28290f92
-ms.openlocfilehash: 57a8ce11bee0d851cbd73bcbd32cb31506c8c877
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: cae506341f6a4c560633d426b21bc95ad613d093
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/29/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="bring-your-own-database-using-azure-data-lake-and-power-bi-data-pools-byod"></a>Azure Data Lake と Power BI データ プールを使用して自分のデータベースを持ち込む (BYOD)

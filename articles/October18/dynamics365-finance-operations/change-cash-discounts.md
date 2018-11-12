@@ -11,10 +11,10 @@ ms.technology:
 ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 7cf78688b3b9f3a1cc62cca66685b97401ce9905
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 3a6399b5119ead911f2d26188ff9c67e35f16d68
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="change-cash-discounts"></a>現金割引の変更

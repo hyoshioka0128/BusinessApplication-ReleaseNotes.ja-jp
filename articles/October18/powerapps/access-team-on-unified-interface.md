@@ -12,10 +12,10 @@ ms.technology:
 ms.author: shilpas
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 5c574bb3e803dfed2545f2be1b3241a0a107ac37
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 23eb826be9e22edc4ea02eee1171d05cf4af51fb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="access-team-on-unified-interface"></a>統一インターフェイス上のアクセス チーム

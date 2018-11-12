@@ -11,14 +11,14 @@ ms.technology:
 ms.author: willthom
 audience: end user, developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 5459d93f61f016f72d82beed1d6609adeb2c55d1
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: cc6b462fb0b00c685221c6799e1645f622a19ffe
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
-# <a name="quick-insights-for-non-additive-measures-public-preview"></a>非加法メジャーのクイック分析情報 (パブリック プレビュー)
+# <a name="quick-insights-for-non-additive-measures"></a>非加法メジャーのクイック分析情報
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
@@ -31,7 +31,7 @@ ms.lasthandoff: 07/18/2018
 This feature is intended for all report users. It works without any additional setup. 
 ## Status
 ### Development status
-In development
+Complete
 #### Target timeframe
 October ‘18
 -->

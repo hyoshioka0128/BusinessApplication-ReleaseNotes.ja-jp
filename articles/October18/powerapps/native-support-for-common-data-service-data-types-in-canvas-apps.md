@@ -12,10 +12,10 @@ ms.technology:
 ms.author: gregli
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 94039419a4491ff73e7b9b09418e964242036b59
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: b3406625715ca0d09c1eff9087f8fd3d5a2d2994
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="native-support-for-common-data-service-data-types-in-canvas-apps"></a>キャンバス アプリでの Common Data Service データ型のネイティブ サポート

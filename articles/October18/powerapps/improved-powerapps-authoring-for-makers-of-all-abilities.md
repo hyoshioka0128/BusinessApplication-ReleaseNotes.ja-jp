@@ -1,6 +1,6 @@
 ---
 title: "あらゆるレベルのメーカー向けの PowerApps オーサリングの向上"
-description: "PowerApps オーサリングは、PowerApps.com のすべてのインライン エクスペリエンスにおいてアクセシビリティ要件に対応しています。"
+description: "PowerApps オーサリングは、PowerApps.com のすべてのインライン エクスペリエンスにおいて Microsoft ユーザー補助に関する基準に従っています。"
 author: aorth
 manager: KVivek
 ms.date: 9/3/2018
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: aorth
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 7db3308c48bc16c3c182fe3a0ae9a1155b73ed71
+ms.sourcegitcommit: 29498c7887c736307187aba329a2a286c130041d
+ms.openlocfilehash: bdc98de3de3d54cf3ef487f39db13e2ee0dd4b6a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/27/2018
 
 ---
 # <a name="improved-powerapps-authoring-for-makers-of-all-abilities"></a>あらゆるレベルのメーカー向けの PowerApps オーサリングの向上

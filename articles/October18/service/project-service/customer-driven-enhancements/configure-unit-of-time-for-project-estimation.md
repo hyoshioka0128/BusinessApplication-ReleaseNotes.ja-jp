@@ -11,10 +11,10 @@ ms.technology:
 ms.author: rumant
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 25e88afe31f492f72f29e3fde9ce38530ecc1291
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 3d9c093dc2928be990b3737ca3d94d61a485c9a9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="configure-a-unit-of-time-for-estimating-work-on-project-tasks"></a>プロジェクト タスクでの作業を見積もるための時間単位の構成

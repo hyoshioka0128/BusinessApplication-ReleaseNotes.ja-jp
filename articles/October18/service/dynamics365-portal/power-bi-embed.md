@@ -12,10 +12,10 @@ ms.technology:
 ms.author: nenandw
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: b2cbc7080525e92e2e62f653eaaccb0e6c24b33d
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 68dd102a69ff83d447c451084a755c4c7fe7447e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/11/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="embed-power-bi-visualizations"></a>Power BI のビジュアル化の埋め込み

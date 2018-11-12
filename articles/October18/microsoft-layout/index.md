@@ -3,7 +3,7 @@ title: "2018 年 10 月リリースの Dynamics 365 レイアウトの概要"
 description: "レイアウトによって、物理デザインのコンセプトから完成に至るまで新たな方法がもたらされます。"
 author: ReneeW-CPub
 manager: AnnBe
-ms.date: 09/24/2018
+ms.date: 10/10/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +11,10 @@ ms.technology:
 ms.author: gkaralis
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
-ms.openlocfilehash: b9e8131b30e54920935262a02889d73097076888
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 1d0bf55ec7e77dc01c3ae8e673309f279d4e4f84
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/22/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
@@ -61,11 +61,10 @@ Microsoft Dynamics 365 レイアウトによって、物理デザインのコン
 
 -   PC で (たとえば Windows Mixed Reality ビューアーで) 表示するために空間を 3D GLTF にエクスポートします。
 
-<!-- link to docs 
-### See also
-[Device options and requirements](requirements.md) <br>
-[Buy and deploy](licensing/buy-and-deploy.md) <br>
-[User Guide](user-guide.md) <br>
-[FAQ](faq.md)
--->
+
+### <a name="see-also"></a>関連項目
+[デバイスのオプションと要件](https://docs.microsoft.com/dynamics365/mixed-reality/layout/requirements) <br>
+[購入と展開](https://docs.microsoft.com/dynamics365/mixed-reality/licensing/buy-and-deploy) <br>
+[ユーザー ガイド](https://docs.microsoft.com/dynamics365/mixed-reality/layout/user-guide) <br>
+[よくあるご質問](https://docs.microsoft.com/dynamics365/mixed-reality/layout/faq)
 

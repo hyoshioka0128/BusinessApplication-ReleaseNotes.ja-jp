@@ -12,10 +12,10 @@ ms.technology:
 ms.author: srihas
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: c1929bf69766c210d982c8a4f5467a94d159f3e9
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: a83fc6699acda1af70e817b5ef8170790cbe458d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="sync-specific-appointments-to-exchange"></a>特定の予定を Exchange に同期する

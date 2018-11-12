@@ -12,10 +12,10 @@ ms.technology:
 ms.author: anjlic
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: c3856f8355f75cdf7f53ccd90b904e79f7ac2397
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: d1a00f62071d8a716c71a8d5039dfa887d0acdca
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="integrated-help-and-support-experience-in-flow-designer"></a>フロー デザイナーへのヘルプとサポートのエクスペリエンスの統合

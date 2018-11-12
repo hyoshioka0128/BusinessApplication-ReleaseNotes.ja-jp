@@ -12,10 +12,10 @@ ms.technology:
 ms.author: ankitsar
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: a5085d17d93be5ee90234d769e8967d7e145108c
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 4169dd8692de2cdbab1b6ae41fe88afdcf140a48
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="dynamics-365-mobile-support-email-login"></a>Dynamics 365 Mobile が電子メール ログオンをサポート

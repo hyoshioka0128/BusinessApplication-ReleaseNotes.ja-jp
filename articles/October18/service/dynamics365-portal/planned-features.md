@@ -11,15 +11,17 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 119b1c04ebf38853ad07bcf9fa548db0f027aea2
-ms.openlocfilehash: 2585519c4a65a5667312edf12ededf75b979a30f
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 24cb157d35b4664ea67f44de03cd3323776d3868
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/24/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="summary-of-whats-new-in-dynamics-365-portal"></a>Dynamics 365 Portal の新機能の概要
 
 リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+
+**日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
 Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 
 

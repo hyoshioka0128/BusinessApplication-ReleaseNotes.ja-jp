@@ -3,7 +3,7 @@ title: "クラウドの代わりに PC を使用して Dynamics 365 インポー
 description: "インポート ツールで 3D モデルをインポートするためにクラウドまたは PC を選択します。"
 author: ReneeW-CPub
 manager: AnnBe
-ms.date: 09/24/2018
+ms.date: 10/10/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +11,10 @@ ms.technology:
 ms.author: gkaralis
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
-ms.openlocfilehash: 67b8506b8ecbe52d21a3bad42b1850578ea11f88
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 11d10397cbab594505414bd2c98f7f2d122b2225
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/22/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
@@ -33,7 +33,6 @@ ms.lasthandoff: 09/22/2018
 
 *3D ファイルを変換するための PC オプション*
 
-<!-- link to user guide 
-[Learn more about using the PC option to convert 3D files.](../../../dynamics365/mixed-reality/layout/user-guide)
--->
+[PC オプションを使用した 3D ファイルの変換の詳細をご覧ください。](https://docs.microsoft.com/dynamics365/mixed-reality/layout/user-guide)
+
 

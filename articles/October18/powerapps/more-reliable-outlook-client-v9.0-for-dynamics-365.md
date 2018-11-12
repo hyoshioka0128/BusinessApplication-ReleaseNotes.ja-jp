@@ -12,10 +12,10 @@ ms.technology:
 ms.author: srihas
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 2b9a737371dd23a900632edf15d82124e25286c6
-ms.openlocfilehash: 3ddd0e991d678d76a80823c107090bc49fbbe9e0
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 976ba3e8a2bb17a6d33b9438efebafdb54559585
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/02/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="more-reliable-outlook-client-v90-for-dynamics-365"></a>Dynamics 365 用の Outlook Client v9.0 の信頼性の向上

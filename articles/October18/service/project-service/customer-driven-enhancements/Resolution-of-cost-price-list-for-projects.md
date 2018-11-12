@@ -11,10 +11,10 @@ ms.technology:
 ms.author: rumant
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: dc40b9862dcb8c4e8eeb12168ab8497bc131c000
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: bac9c35f91f43541a6597feb3973c9bf40fe1a44
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="resolution-of-multi-currency-cost-price-list-on-projects"></a>プロジェクトでの複数通貨の原価価格表の解決 

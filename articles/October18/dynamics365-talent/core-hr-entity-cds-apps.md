@@ -11,10 +11,10 @@ ms.technology:
 ms.author: jcart
 audience: developer, admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: b0d42322654315da5fec933dd9c39067fbe4c25c
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: db1db92e190e4297ad79b08fde17d502d691700b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
@@ -34,7 +34,7 @@ ms.lasthandoff: 07/18/2018
 
 -   報酬エンティティ
 -   福利厚生エンティティ
--   Core HR エンティティに対する CDS でのカスタム フィールド サポート               
+-   Core HR エンティティに対する CDS でのカスタム フィールド サポート               
 
 
 

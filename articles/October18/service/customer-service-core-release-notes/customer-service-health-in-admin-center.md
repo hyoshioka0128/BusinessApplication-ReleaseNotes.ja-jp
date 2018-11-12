@@ -12,13 +12,13 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 3b82520b7aa37f6f64db04dff17adb95a22822ce
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 1f09ad3bf7b4d0ba1b27b8fa97959b73b173a64b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-#  <a name="customer-service-health-in-one-admin-center"></a>One Admin Center での顧客サービスの正常性    
+#  <a name="customer-service-health-in-one-admin-center"></a>One Admin Center での顧客サービスの正常性    
 
 [!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 

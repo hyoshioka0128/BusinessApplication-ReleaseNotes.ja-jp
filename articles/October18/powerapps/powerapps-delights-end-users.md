@@ -12,10 +12,10 @@ ms.technology:
 ms.author: palakk
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: ddec5bdcd52b550761014a8a74da4217963fb2b0
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 2f14f2b7951aa135b3aa46fac91868ae3f0075d6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="improvements-in-end-user-experiences"></a>エンドユーザー エクスペリエンスの向上

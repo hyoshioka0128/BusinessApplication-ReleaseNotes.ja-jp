@@ -12,13 +12,13 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: e874c9ca22384d799636b54080da55cb8b3199c9
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: f620d4c932974b98b0c7cdb1232890f4e659a870
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-#  <a name="power-bi-embedded-integration-with-azure-diagnostics"></a>Power BI Embedded と Azure 診断の統合 
+#  <a name="power-bi-embedded-integration-with-azure-diagnostics"></a>Azure 診断との Power BI Embedded の統合 
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 

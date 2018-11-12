@@ -12,10 +12,10 @@ ms.technology:
 ms.author: emcoope
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 3319b8ccb5f1f19de21bde75dfa3547b023241af
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: bd6ddd345132608582956064da33ef9eb1bc453b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="easier-to-configure-cascading-dropdowns-and-conditional-field-visibility"></a>カスケード ドロップダウンとフィールドの条件付き表示の構成がより簡単に

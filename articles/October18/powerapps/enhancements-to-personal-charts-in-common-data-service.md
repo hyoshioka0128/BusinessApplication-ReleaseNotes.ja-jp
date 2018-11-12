@@ -12,10 +12,10 @@ ms.technology:
 ms.author: prsi
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 2eb4495ab0ff954f122f9e87a95fecc7dc67ba0c
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 33199d3deb657537b6942a95383c89c60a3061dd
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="end-users-can-create-charts-and-share-them-with-other-users-and-teams"></a>エンドユーザーはグラフを作成して他のユーザーやチームと共有可能

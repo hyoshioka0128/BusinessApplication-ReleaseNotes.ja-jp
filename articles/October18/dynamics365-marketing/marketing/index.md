@@ -1,20 +1,18 @@
 ---
 title: Dynamics 365 for Marketing
 description: "Dynamics 365 for Marketing は、マルチチャネルのキャンペーンを作成して実行するための包括的な機能を提供します。お客様は、ドラッグ アンド ドロップ方式のシンプルな設計ツールを使用して、営業チームのリード生成を促進できます。"
-keywords: 
-ms.date: 8/15/2018
-ms.service:
-- business-applications
+ms.date: 11/01/2018
+ms.service: business-applications
 ms.topic: article
 ms.assetid: 9f37030b-1814-4582-a260-9ac6b370120b
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 8aeb33d0dfab90f9c80d928d3c7fab5da84518c9
-ms.openlocfilehash: 7e08a67618d0a78b38d3c1238089d26d66c86857
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 3f8d13b6d58b882ca7bd736a7f64094d889bf6c9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
@@ -22,7 +20,7 @@ ms.lasthandoff: 08/16/2018
 
 Dynamics 365 for Marketing は、マルチチャネルのキャンペーンを作成して実行するための包括的な機能を提供します。お客様は、ドラッグ アンド ドロップ方式のシンプルな設計ツールを使用して、営業チームのリード生成を促進できます。
 
-2018 年 10 月リリースでは、アカウント ベースのマーケティングや、LinkedIn 統合の強化などの新機能が提供されます。 マーケティング アプリでは、[追加言語がサポートされ、対応地域も拡大されています](regions.md)。 (これらのリリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+2018 年 10 月リリースでは、アカウント ベースのマーケティングや、LinkedIn 統合の強化などの新機能が提供されます。 マーケティング アプリでは、[追加言語がサポートされ、対応地域も拡大されています](regions.md)。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 主な強化として、以下の部分がマーケティング活動の最適化に役立つように設計されています。
 
@@ -33,6 +31,3 @@ Dynamics 365 for Marketing は、マルチチャネルのキャンペーンを�
 - **Microsoft サービスとの統合の強化**には、LinkedIn との統合の強化によるマーケティングの自動化の促進が含まれます。
 
 - **基本的な機能改善**では、パフォーマンスやスケーラビリティの改善に加え、電子メール マーケティング サービスのスループットも強化されています。 セグメンテーション ユーザー インターフェイスも強化され、最も一般的なシナリオ向けに、使いやすさとパフォーマンスが改善されています。
-
-
-

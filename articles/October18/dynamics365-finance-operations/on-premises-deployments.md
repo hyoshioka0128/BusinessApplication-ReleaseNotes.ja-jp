@@ -11,10 +11,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: ee1c935f0744f2ce4d62169ac0dbaca33c1ad174
-ms.openlocfilehash: 4b1354491d7a66aeb7552b01f423ea9c974a282a
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: d660cd5c4402f151ce1486ffa8a10d1f471c1967
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/13/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="on-premises-deployment-enhancements"></a>オンプレミス展開の機能強化

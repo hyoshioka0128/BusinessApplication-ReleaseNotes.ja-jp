@@ -12,10 +12,10 @@ ms.technology:
 ms.author: srihas
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 2b9a737371dd23a900632edf15d82124e25286c6
-ms.openlocfilehash: 0e40167ebdd93020971c797abc1f622ace46cc23
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 8b61ce05602f8758c4c1ab847b407190dd1493f2
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/02/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="support-for-delegate-users-in-dynamics-365"></a>Dynamics 365 での代理ユーザーのサポート

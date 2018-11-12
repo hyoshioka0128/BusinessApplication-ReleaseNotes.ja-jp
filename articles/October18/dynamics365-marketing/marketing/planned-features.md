@@ -11,16 +11,18 @@ author: Annbe
 ms.author: kamaybac
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: a7bdb6880324a2b50449b8f9e926c84e2381490a
-ms.openlocfilehash: 7fc2ae99659c2421befc6308d23e6f3dedcb1a99
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 7d1b705c69f10d787768e5fac038007c50c1258a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/20/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
 # <a name="summary-of-whats-new-in-dynamics-365-for-marketing"></a>Dynamics 365 for Marketing の新機能の概要
 
 リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+
+**日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
 Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。 
 

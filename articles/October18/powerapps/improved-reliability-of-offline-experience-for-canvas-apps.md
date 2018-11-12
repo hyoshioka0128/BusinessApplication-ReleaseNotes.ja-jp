@@ -12,10 +12,10 @@ ms.technology:
 ms.author: ankitsar
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 7648d1cc003f523ee2b1284017da390f898d733e
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: c0a356373d9027a69e4400233e710ffdff8e9e4f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="improved-reliability-of-offline-experience-for-canvas-apps-public-preview"></a>キャンバス アプリのオフライン エクスペリエンスの信頼性の向上 (パブリック プレビュー)

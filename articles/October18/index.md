@@ -3,7 +3,7 @@ title: " 2018 年 10 月リリースの概要"
 description: "2018 年 10 月リリースの概要"
 author: shellyhaverkamp
 manager: AnnBe
-ms.date: 09/24/2018
+ms.date: 10/26/2018
 ms.assetid: 1fb5c3f4-b808-cd82-956a-b51c4e2b061c
 ms.topic: overview
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
-ms.openlocfilehash: 7c98d5f41913546aef55d99aa5281f3ae72add26
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: d147911c812f4fe3e48dfd2eadfbf84a4b8bfca7
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/22/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
@@ -25,7 +25,7 @@ ms.lasthandoff: 09/22/2018
 
 [![背景イメージ 1](../media/Landing-page-image-october2018.png)](https://go.microsoft.com/fwlink/p/?linkid=2005971)
 
-[2018 年 10 月リリース ノート PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2005971) (最終更新日 2018/9/24)
+[2018 年 10 月リリース ノート PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2005971) (最終更新日 2018/10/26)
 
 Microsoft のビジネス アプリケーション リリース 2018 年 10 月ウェーブでは、ビジネスを変革するための重要な機能が提供されています。 これらの新しいサービスや機能は、2018 年 10 月から提供開始となります。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 

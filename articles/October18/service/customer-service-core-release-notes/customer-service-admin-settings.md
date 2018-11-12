@@ -12,13 +12,13 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: f37556a7ddee0885758aa6cf4e9e442955bb0ccb
-ms.openlocfilehash: 6f71b1b6428c0b473731cee61044941c97c2f3d7
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: c1bd196d6aab4e5f130453c32f9e05ca7f757b32
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 10/26/2018
 
 ---
-#  <a name="customer-service-admin-settings"></a>Customer Service 管理設定 
+#  <a name="customer-service-admin-settings"></a>Customer Service 管理設定 
 
 [!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 

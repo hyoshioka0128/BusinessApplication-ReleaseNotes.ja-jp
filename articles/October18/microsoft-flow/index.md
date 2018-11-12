@@ -12,10 +12,10 @@ ms.technology:
 ms.author: stepsic
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 8a89a9ef9d7a84980eeebc44f72692acacc7e744
-ms.openlocfilehash: b9b39df75fd9871992c109b59fdd27e4eac38068
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: efa65ecb4d06d67759d31f6f08938429b7517543
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/20/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 

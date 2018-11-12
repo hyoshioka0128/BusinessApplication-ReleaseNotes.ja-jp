@@ -11,10 +11,10 @@ ms.technology:
 ms.author: janeaug
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: e56816ca696ce846b0a629daf670c9b04b14ca70
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 1603957267bec07c2323edf292da204bc2f31aea
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="microsoft-dynamics-365-for-finance-and-operations---regulatory-services-configuration-service"></a>Microsoft Dynamics 365 for Finance and Operations - 規制サービス、構成サービス 

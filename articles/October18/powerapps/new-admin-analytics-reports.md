@@ -12,10 +12,10 @@ ms.technology:
 ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: bde3a552e8b23780a39ce08faa8a8406f814e792
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 61d413618bdaa068b263b4963d5de7976f6e3852
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="new-admin-analytics-reports"></a>新しい管理者向け分析レポート

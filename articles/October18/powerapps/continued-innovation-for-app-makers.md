@@ -12,10 +12,10 @@ ms.technology:
 ms.author: rycu
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: d2debf762093c5d6e433714faa3b0386a8b978fe
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 5e894bff8480b4e35b6134f66adc3fdb84de79b6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="capabilities-for-app-creators"></a>アプリの作成者向けの機能

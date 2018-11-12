@@ -12,10 +12,10 @@ ms.technology:
 ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: b37b20807dc6d4b6d0dc8c1ce96bb32ea622a4c1
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 3118793a2c6c9392f9153d7d3cb0fa3f0e754688
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="better-platform-for-administrators"></a>管理者向けプラットフォームの向上

@@ -12,10 +12,10 @@ ms.technology:
 ms.author: evchaki
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: e073a7b0cc0815d1e9f95358976342e54af6538a
-ms.openlocfilehash: da8a866121404f28ecabd19eb998d9ff9e1055a0
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 2926965582d6a17c73eab32a52ec310b0524964d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/10/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="empower-citizen-developers"></a>一般開発者の支援

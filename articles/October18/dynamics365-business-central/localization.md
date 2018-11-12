@@ -11,10 +11,10 @@ ms.technology:
 ms.author: ivkoleti
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: f1ce9cd6acb99d621466fb5e79b144f638630abb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
@@ -24,7 +24,7 @@ ms.lasthandoff: 08/15/2018
 
 
 
-Business Central では、Microsoft 主導とパートナー主導の両方のモデルをカバーした、複合型のローカライズ戦略をとっています。 Microsoft では、パートナー主導のシナリオに継続的に対応しており、Microsoft AppSource 内のローカライズ アプリの拡張を通じて提供対象の国を今後も追加していく予定です。 また、今回のリリースでは、以下の市場でも Business Central のローカライズ バージョンを提供します。
+Business Central では、Microsoft 主導とパートナー主導の両方のモデルをカバーした、複合型のローカライズ戦略をとっています。Microsoft では、パートナー主導のシナリオに継続的に対応しており、Microsoft AppSource 内のローカライズ アプリの拡張を通じて提供対象の国を今後も追加していく予定です。また、今回のリリースでは、以下の市場でも Business Central のローカライズ バージョンを提供します。
 
 - アイスランド
 - ノルウェー

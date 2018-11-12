@@ -1,9 +1,9 @@
 ---
-title: "フロー デザイナーの機能拡張"
-description: "アクションをコピーして貼り付ける機能や、リッチ テキスト電子メール用の新しい HTML エディターなど、向上した編集機能。"
+title: "新しい Microsoft Flow ポータルとデザイナー エクスペリエンス"
+description: "デザイナーの内部でのナビゲーションおよび検索アクション用の新しい Microsoft Flow エクスペリエンス。 これには、リッチ テキスト電子メール用の新しい HTML エディターによる編集機能の向上が含まれます。"
 author: sunayv
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 10/20/2018
 ms.assetid: 4f7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,16 +12,68 @@ ms.technology:
 ms.author: sunayv
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 6b4ecdeacebeb97754c46e0a25a1080a573133f2
+ms.sourcegitcommit: f569a3691cc7c3ac3d76ea67aaef6a06ce12ceef
+ms.openlocfilehash: 3de0bdba57cb0d446ed27d55a9887f135019cbf8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/27/2018
 
 ---
-# <a name="flow-designer-enhancements"></a>フロー デザイナーの機能拡張
+# <a name="new-flow-portal-and-designer-experience"></a>新しい Flow ポータルとデザイナー エクスペリエンス
 
 
 [!include[banner](../../includes/banner.md)]
 
-新しいリッチな HTML ベースのテキスト エディターは、HTML ベースの電子メール、Yammer 投稿用の HTML コンテンツ、ツイートなどの作成に役立ちます。
+10 月のリリースの一環として、Microsoft Flow ポータルとデザイナーのエクスペリエンスのいくつかの重要な側面をオーバーホールしています。
+
+## <a name="navigating-in-the-flow-portal"></a>Flow ポータル内のナビゲーション
+
+Microsoft Flow ポータルには、さまざまな重要ページを見つけるまったく新しい方法があります。 以前は、ポータルの*上部*にいくつかのリンクがありました。 一部のページ (**接続**や**カスタム コネクタ**など) は右上の設定ギアに追いやられ、多くの人にとってこれらのページを見つけることは困難でした。
+
+10 月のリリースでは、*左側*のナビゲーションに移動しています。 この新しいナビゲーションには、**データ** セクションがあります。このセクションには**接続**面へのアクセスだけでなく、Common Data Service の**エンティティ**へのアクセスも含まれます。
+
+> [!div class="mx-imgBorder"]
+> ![新しい左側のナビゲーション](media/flow-ui-enhancements-1.png "新しい左側のナビゲーション")
+
+この変更が重要である理由として、近日中に提供されるソリューション管理機能など、将来的にナビゲーションに項目を追加できるようになることもあります。 これにより、フローを論理コンポーネント (アイデア フォーラムの[上位のアイデア]( https://powerusers.microsoft.com/t5/Flow-Ideas/Provide-a-method-of-organising-Flows/idi-p/87796)の 1 つ) にグループ化することができます。
+
+最後に、左側のナビゲーションをナビゲーションの上部にあるボタンから展開および折りたたむことができます。
+
+## <a name="the-my-flows-list"></a>マイ フロー リスト
+
+マイ フロー リストのエクスペリエンスを簡略化し、他の Microsoft ユーザー インターフェイスと一貫させています。 
+
+> [!div class="mx-imgBorder"]
+> ![簡略化されたマイ フロー リスト](media/flow-ui-enhancements-2.png "簡略化されたマイ フロー リスト")
+
+この新しいエクスペリエンスでは、フロー リストから [実行] を選択することによって、*インスタント フロー* (モバイルの [フロー] ボタンによってトリガーされるフローなど) を実行できます。 また、オフになっているフローのアイコンを薄暗くすることで、どのフローがオンになっているのかを簡単に識別できるようにしました。 
+
+## <a name="adding-triggers-and-actions-in-the-flow-designer"></a>フロー デザイナーでのトリガーとアクションの追加
+
+第 3 に、フロー デザイナーでトリガーとアクションを追加するための新しいエクスペリエンスがあります。 **トリガー**を追加すると、次のようなエクスペリエンスが表示されます。
+
+> [!div class="mx-imgBorder"]
+> ![トリガーの追加](media/flow-ui-enhancements-3.png "トリガーの追加")
+
+この新しいエクスペリエンスにより、コネクタをカテゴリ別に参照することができます。 たとえば、環境内のどのコネクタが**プレミアム**または**カスタム** コネクタかを確認できます。
+
+次に、**新しいステップ**を選択したときに、アクションや条件などの追加の間に選択するセカンダリ ポップアップは表示されなくなります。 すぐに**アクションの選択**ダイアログが表示されるので、常に余分な選択を行う必要がなくなります。
+
+> [!div class="mx-imgBorder"]
+> ![アクションの選択](media/flow-ui-enhancements-4.png "アクションの選択")
+
+
+すべての**コントロール** アクションをこのダイアログにまとめたので、依然として**条件**をすぐに選択できます。 **コントロール** コネクタを検索または選択して、Apply to Each やスコープのような他の制御フローの概念にアクセスできます。
+
+> [!div class="mx-imgBorder"]
+> ![コントロール コネクタ](media/flow-ui-enhancements-5.png "コントロール コネクタ")
+
+
+## <a name="edit-rich-html-content"></a>豊富な HTML コンテンツの編集 
+
+HTML ベースの電子メール、Yammer 投稿用の HTML コンテンツ、ツイートなどの作成に役立ちつ新しいリッチな HTML ベースのテキスト エディターを追加しました。 
+
+> [!div class="mx-imgBorder"]
+> ![HTML エディター](media/flow-ui-enhancements-6.png "HTML エディター")
+
+このエディターでは、フォントのカスタマイズ、太字、イタリック、下線の使用、色のカスタマイズ、リストやリンクの作成を行うことができます。 現時点では、表などの高度な機能はサポートしていません。
 

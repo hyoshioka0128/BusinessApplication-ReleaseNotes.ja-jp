@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 62a44aa1eeb8959f7f51e9a6dbe34941159b1b16
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: cb0e85612f1da966bb75db8e19075c712a9f2fd7
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="api-to-apply-and-change-report-themes-in-power-bi-embedded"></a>Power BI Embedded でレポートのテーマを適用および変更するための API

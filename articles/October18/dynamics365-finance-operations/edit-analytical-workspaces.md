@@ -11,10 +11,10 @@ ms.technology:
 ms.author: Annbe
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 84830f3495521f02e2e7b80cb9375aabe47552c6
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 8f46415207b5c3f1e0a3c6f1cd6248d9d4061634
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="edit-analytical-workspaces-in-the-client"></a>クライアントでの分析ワークスペースの編集

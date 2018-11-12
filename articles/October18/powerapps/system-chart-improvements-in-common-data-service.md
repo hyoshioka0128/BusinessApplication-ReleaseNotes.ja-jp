@@ -12,10 +12,10 @@ ms.technology:
 ms.author: prsi
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 31556fab6ec7eedb2079126cbdc1d28fd39953af
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: e3a8342388492364810831fef3b8f6dfb61918af
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="general-usability-accessibility-and-styling-improvements-in-system-charts"></a>システム グラフにおける全般的な使いやすさ、アクセシビリティ、およびスタイル設定の改善

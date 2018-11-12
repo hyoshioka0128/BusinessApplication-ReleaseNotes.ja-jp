@@ -12,10 +12,10 @@ ms.technology:
 ms.author: karansr
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 91cc22318cd3d7fa3342987730650f4ca7c10ca9
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: ad828f8d3144bf28c8962ea1b38d1fd5b5752803
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="democratize-business-processes"></a>業務プロセスの一般化

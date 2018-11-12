@@ -11,14 +11,14 @@ ms.technology:
 ms.author: josaw
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: db6bd454a549eb744ea9af564c1f91c4d8055faf
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 30bd66e8732832b111c72189138e141c2ab3fef0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/12/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
-#  <a name="dynamics-365-for-talent-onboard"></a>Dynamics 365 for Talent: Onboard
+#  <a name="dynamics365-for-talent-onboard"></a>Dynamics 365 for Talent: Onboard
 
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 

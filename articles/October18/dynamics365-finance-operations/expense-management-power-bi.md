@@ -11,10 +11,10 @@ ms.technology:
 ms.author: shylaw
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: c45edf358d80b5831b80db4b1c423f39dcd79b63
-ms.openlocfilehash: 559763e03ea2523c787826a49d95d8299d69f188
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: a737bbf21c0758a10420f5a363e87a7e987e658c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/07/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="expense-management-power-bi"></a>経費管理 Power BI 

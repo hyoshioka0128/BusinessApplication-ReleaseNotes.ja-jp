@@ -3,7 +3,7 @@ title: "2018 年 10 月に Microsoft PowerApps に対して計画されている
 description: "Microsoft PowerApps の 2018 年 10 月リリースで利用可能になる主要な新機能の全一覧です。"
 author: evchaki
 manager: KVivek
-ms.date: 9/11/2018
+ms.date: 10/1/2018
 ms.topic: summary
 ms.prod: 
 ms.service: business-applications
@@ -11,16 +11,18 @@ ms.technology:
 ms.author: evchaki
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: a7bdb6880324a2b50449b8f9e926c84e2381490a
-ms.openlocfilehash: f27029d74393456c93089d007c8cfa9cd95c35b2
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: b29ac366f7eca78061b8e1fdff6b99e14825e587
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/20/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
 # <a name="summary-of-whats-new-in-microsoft-powerapps"></a>Microsoft PowerApps の新機能の概要
 
 リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+
+**日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
 Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
@@ -60,7 +62,6 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [同じツールでのエンティティとアプリの作成](create-and-edit-your-entities-in-canvas-studio-while-building-an-app.md) | 一般提供 |  2018 年 12 月  |
 | [エンティティの詳細プロパティの管理を簡略化](simplified-management-of-advanced-entity-properties.md) | 一般提供 |  2018 年 12 月  |
 | [PowerApps アプリ開発者は SharePoint ドキュメント ライブラリをアプリへ組み込むことが可能に](powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries.md) | 一般提供 |  2019 年 1 月  |
-| [埋め込みキャンバス アプリによる Dynamics 365 エンティティ フォームの拡張](extend-dynamics-365-entity-forms-with-embedded-canvas-apps.md) | パブリック プレビュー |  2018 年 10 月  |
 | [ソリューションを使用したキャンバス アプリの ALM の向上](improve-alm-for-canvas-app-with-solutions.md) | パブリック プレビュー |  2018 年 10 月  |
 | [エンティティからの関連フローの作成と表示](create-and-view-related-flows-from-your-entity.md) | パブリック プレビュー |  2018 年 10 月  |
 | [依存オプション セットの構成](configure-dependent-optionsets.md) | パブリック プレビュー |  2018 年 10 月  |
@@ -68,6 +69,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [レスポンシブ レイアウトでのキャンバス アプリの作成](create-canvas-apps-with-responsive-layout.md) | パブリック プレビュー |  2018 年 11 月  |
 | [キャンバス アプリによるエラーの捕捉、処理、レポートとデータベースへの Null 値の書き込み](catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps.md) | パブリック プレビュー |  2018 年 11 月  |
 | [新しいモデル駆動型フォーム デザイナー](new-model-driven-form-designer-preview.md) | パブリック プレビュー |  2018 年 11 月  |
+| [埋め込みキャンバス アプリによる Dynamics 365 エンティティ フォームの拡張](extend-dynamics-365-entity-forms-with-embedded-canvas-apps.md) | パブリック プレビュー |  2018 年 11 月  |
 
 ## <a name="improvements-in-end-user-experiences"></a>エンドユーザー エクスペリエンスの向上
 

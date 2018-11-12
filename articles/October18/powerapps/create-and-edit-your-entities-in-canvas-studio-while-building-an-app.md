@@ -12,10 +12,10 @@ ms.technology:
 ms.author: clwesene
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 4c4d2bab2eece4bfc98d11890cea115c3f45bacb
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 555830a44bde8e85df6d367b3e9525c8a795541e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="create-entities-and-apps-in-the-same-tool"></a>同じツールでのエンティティとアプリの作成

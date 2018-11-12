@@ -3,7 +3,7 @@ title: "編集可能なアクセス許可セット"
 description: "エンド ユーザーがアクセス許可セットを編集できるようになります"
 author: bnielse
 manager: edupont04
-ms.date: 07/22/2018
+ms.date: 10/17/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +11,10 @@ ms.technology:
 ms.author: bnielse
 audience: developer, admin, end user, customizer, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 0e3b1f56fa7a29f3717c4bc622f175f275f1fe21
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: c84d7d07b8705f47aa71d5cf2c6a59c6917ff895
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
@@ -22,18 +22,28 @@ ms.lasthandoff: 08/15/2018
 
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-
-
 顧客には Business Central でユーザーが実行できる必要があることについての独自の定義が存在することがよくあり、これらの定義が定義済みのアクセス許可セットと一致していないことがあります。 これに対処するため、アクセス許可セットを編集可能にして、追加、削除、変更できるようにしました。
 
-エンド ユーザーはアクセス許可セットをカスタマイズし、ビジネスの特定のニーズを満たす構造にすることができます。  
-
-アクセス許可セットのリストからは、簡単に新しいアクセス許可を追加したり、既存のアクセス許可セットをコピーしたりできます。 既存のアクセス許可セットをコピーする場合は、元のアクセス許可セットが変更されたら通知を受け取るようにすることができます。  
+アクセス許可セットのリストからは、新しいアクセス許可を追加したり、既存のアクセス許可セットをコピーしたりできます。 結果セットの種類はユーザー定義になります。 既存のアクセス許可セットをコピーする場合は、元のアクセス許可セットが変更されたら通知を受け取ることを選択できるので、必要に応じてカスタマイズ セットを更新できます。  
 
 > [!div class="mx-imgBorder"]
 > ![](media/editablepermissionsets_list.png "必要なアクセス許可セットを追加する。")
 
 さらに、アクセス許可セットの定義を含むファイル (パートナー提供のファイルや、別の会社からコピーされたファイルなど) をインポートしたり、RapidStart を使用してアクセス許可セットを追加したりすることもできます。
+
+# <a name="overview-of-effective-permissions-for-a-user"></a>ユーザーに対する有効なアクセス許可の概要
+
+セットアップとトラブルシューティングでは、ユーザーのアクセス許可がどこから付与され、ユーザーの資格 (ライセンス) によって何に対するアクセス権が与えられるのかについての情報が必要です。
+
+各ユーザー カードからの [有効なアクセス許可] ウィンドウには、ユーザーが持っているアクセス許可と、付与に使用されるアクセス許可セット (権利、既定のセット (システム)、またはカスタマイズ セット (ユーザー定義) のいずれか) が表示されます。 ここでは、ユーザー定義の種類のアクセス許可セットを変更することもできます。  
+
+> [!NOTE]
+> アクセス許可セットを編集すると、アクセス許可セットが割り当てられている他のユーザーにも変更内容が適用されます。
+
+> [!div class="mx-imgBorder"]
+> ![](media/effective_permission_sets.png "有効なアクセス許可の概要。")
+
+ヘルプ リンク: [ユーザーとアクセス許可の管理](https://docs.microsoft.com/en-us/dynamics365/business-central/ui-how-users-permissions)
 
 <!--
 ### Who uses this feature

@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 29d0dcdbf106257536681ac829ea09d9ff75a7c4
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: e3646d9456e134ff2c2f79dbfd12979d8f5ddac8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="support-for-on-premises-local-business-data-deployments"></a>オンプレミス (ローカル ビジネス データ) 展開のサポート

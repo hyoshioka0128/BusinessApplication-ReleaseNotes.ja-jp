@@ -12,10 +12,10 @@ ms.technology:
 ms.author: clwesene
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 8d4c2be4047e3a4afc22cec1c42bd663cae3c13e
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: dba3d842f669aaaa82c94e1205ef996374e12913
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="simplified-gallery-form-and-data-table-field-selection-and-binding"></a>簡略化されたギャラリー、フォーム、およびデータ テーブル フィールドの選択とバインド

@@ -12,10 +12,10 @@ ms.technology:
 ms.author: sunayv
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 8a89a9ef9d7a84980eeebc44f72692acacc7e744
-ms.openlocfilehash: 13d524f74e9c7d68c23243c5310f95f91ca8cef6
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: ade2aa78cb9bbda72e257d509661713d72dca187
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/20/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="diet-designer-for-all-templates"></a>すべてのテンプレートに対する Diet デザイナー

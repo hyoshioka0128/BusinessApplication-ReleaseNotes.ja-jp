@@ -3,7 +3,7 @@ title: "公的機関の機能強化"
 description: "2018 年 10 月リリースでの公的機関のお客様向けの新機能。"
 author: aprilolson
 manager: AnnBe
-ms.date: 07/22/2018
+ms.date: 09/25/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +11,10 @@ ms.technology:
 ms.author: aolson
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 3782cfceccd44f490e1ff58ec570927220d838a8
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: dc811c339864f650660d471d05a2be731ca50641
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 
@@ -22,6 +22,17 @@ ms.lasthandoff: 07/18/2018
 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-2018 年 10 月リリースでは、公的機関の会計担当者や財務担当者向けの新機能が追加されています。たとえば、レポートと照会の強化、新しい予算作成機能、債務の機能強化、仕入先コラボレーションの向上、仕入先 1099 の更新、現金残高に生じた利息の配分などです。
+2018 年 10 月のリリースでは、以下の公的機関向け新機能が会計と財務の専門家のために追加されています。
+
+- 一般予算引当と債務残高を簡単に調整できる新しい債務照会とレポート。
+- 報酬グリッドをコピーして、次の予算サイクルの予算計画設定の時間を節約できる、新しい予算編成機能。
+- 機関が買掛金勘定を配布した場合に仕入先請求書が適切な場所に送られるように、発注書で請求先住所の既定値の設定と選択を行う機能。
+- 要求から生成されたときに発注書の状態を下書きに設定する機能。 これにより、変更注文を作成する必要なしに、ワークフローを通じて発注書を送信することができます。
+- 入札ガイダンス、入札の代替、外部ベンダーとの入札要求を改善するその他の機能強化など、ベンダー コラボレーションの機能向上。
+- 一定期間システムにアクセスしなかったユーザーの無効化または削除を支援する休止中ユーザー アカウント レポート。 
+- ベンダー ファイルの重複レコードを防ぐための、連邦税 ID による重複ベンダーの検証。
+- 当期の運営予算から会計年度繰越予算を分離する事業体の前年度の取引として、詳細な元帳エントリおよび一般予算引当を転記する機能。
+-   小切手で支払われない仕入先および従業員に対する支払いの参照を提供する ACH 電子支払番号。
+
 
 

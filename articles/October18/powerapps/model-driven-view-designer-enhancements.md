@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mabolan
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b6df0f68e3460358864533346e69a712684da551
-ms.openlocfilehash: 8414638a5fa2ae15c54519d8a09c4f4fd10e6365
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: f521e23c522d96ab50866e43a694f91a01e4ef7e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="model-driven-view-designer-enhancements-public-preview"></a>モデル駆動型ビュー デザイナーの機能強化 (パブリック プレビュー)
