@@ -1,4 +1,4 @@
-﻿---
+---
 redirect_url: https://docs.microsoft.com/business-applications-release-notes/October18/dynamics365-finance-operations/planned-features
 redirect_document_id: true
 ms.translationtype: HT
@@ -8,4 +8,6 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 10/26/2018
 
 --- 
+
+
 
