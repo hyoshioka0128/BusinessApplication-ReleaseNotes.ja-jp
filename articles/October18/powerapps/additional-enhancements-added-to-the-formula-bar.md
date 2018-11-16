@@ -3,7 +3,7 @@ title: "式バーの機能拡張"
 description: "キャンバス アプリの式バーから式や下位式の結果を直接表示できます"
 author: gregli-msft
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/8/2018
 ms.assetid: 4d1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

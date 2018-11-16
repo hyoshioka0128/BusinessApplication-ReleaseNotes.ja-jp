@@ -3,7 +3,7 @@ title: "Dynamics 365 での代理ユーザーのサポート"
 description: "Dynamics 365 App for Outlook の代理ユーザーのサポート"
 author: srihas
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/13/2018
 ms.assetid: 8a1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

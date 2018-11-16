@@ -3,7 +3,7 @@ title: "アプリ用 Common Data Service のキャンバス アプリで多対�
 description: "手動で参加または検索する必要がありません。 PowerApps は多対一リレーションシップを自動で拡張するため、必要な情報はすぐそこにあります。"
 author: gregli-msft
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/14/2018
 ms.assetid: 421c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

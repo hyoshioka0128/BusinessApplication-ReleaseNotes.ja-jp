@@ -3,7 +3,7 @@ title: "SharePoint の PowerApps フォームの速度が向上"
 description: "エンドユーザーとアプリ開発者に対する SharePoint の埋め込み PowerApps フォームのパフォーマンスが向上します"
 author: yifwang
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/8/2018
 ms.assetid: 021c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
