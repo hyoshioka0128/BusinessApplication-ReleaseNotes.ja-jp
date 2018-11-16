@@ -3,7 +3,7 @@ title: "PowerApps からのソリューションの検索と操作がより簡�
 description: "PowerApps でソリューション リストとソリューション エクスプローラーを使用できます。"
 author: litran
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/8/2018
 ms.assetid: 351c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,16 +12,16 @@ ms.technology:
 ms.author: litran
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: d2a2b52f30778cafda6d25d35e3ede9f91964886
+ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
+ms.openlocfilehash: 34e1386756db23a9e7aa3e2ec15c84092a328f14
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/16/2018
 
 ---
 # <a name="easier-to-find-and-work-with-solutions-from-powerapps"></a><span data-ttu-id="cbedb-103">PowerApps からのソリューションの検索と操作がより簡単に</span><span class="sxs-lookup"><span data-stu-id="cbedb-103">Easier to find and work with solutions from PowerApps</span></span>
 
 
-[!include[banner](../../includes/banner.md)]
+
 
 <span data-ttu-id="cbedb-104">PowerApps のソリューション リストにアクセスすることで、ソリューションをより簡単に扱えます。</span><span class="sxs-lookup"><span data-stu-id="cbedb-104">You can work with solutions more easily by accessing the solution list in PowerApps.</span></span> <span data-ttu-id="cbedb-105">必要なソリューションを探し、それを開き、ソリューション エクスプローラーでソリューションのコンポーネントを検索できます。</span><span class="sxs-lookup"><span data-stu-id="cbedb-105">You can locate the solution that you need, open it, and search for a solution's component in the Solution Explorer.</span></span> <span data-ttu-id="cbedb-106">ソリューション内のコンポーネントを管理するために、従来のソリューション エクスプローラーにアクセスする必要はありません。</span><span class="sxs-lookup"><span data-stu-id="cbedb-106">You don't need to access the classic Solution Explorer to manage the components within a solution.</span></span>
 

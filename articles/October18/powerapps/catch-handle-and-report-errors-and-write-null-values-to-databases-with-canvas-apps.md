@@ -3,7 +3,7 @@ title: "キャンバス アプリによるエラーの捕捉、処理、レポ�
 description: "アプリ開発者は発生したエラーをコントロールし、補足的なメリットとして Null 値を書き込めます。"
 author: gregli-msft
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/8/2018
 ms.assetid: 461c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: gregli
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 3c5fbf4a44a8de37d7b750f4c30a28967c62c10b
+ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
+ms.openlocfilehash: 91e26d8d0a8cd2b8e48e71195babe67027e30e2c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/16/2018
 
 ---
 # <a name="catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps-public-preview"></a><span data-ttu-id="56bfe-103">キャンバス アプリによるエラーの捕捉、処理、レポートとデータベースへの Null 値の書き込み (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="56bfe-103">Catch, handle, and report errors, and write Null values to databases with canvas apps (Public Preview)</span></span>

@@ -3,7 +3,7 @@ title: "キャンバス アプリでの並列データ読み込みによる読�
 description: "アプリ開発者は、複数の読み込みオペレーションを並列で実行して、アプリ ユーザーの全体的な待ち時間を短縮できます。"
 author: gregli-msft
 manager: KVivek
-ms.date: 10/4/2018
+ms.date: 11/14/2018
 ms.assetid: 4b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: gregli
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 9dcc86299144009949bfa3d43b92bae5a26c331c
+ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
+ms.openlocfilehash: 0906627deb95579784e8fbf474dffc001f5f83c3
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/16/2018
 
 ---
 # <a name="faster-load-times-with-parallel-data-loading-in-canvas-apps"></a><span data-ttu-id="9984d-103">キャンバス アプリでの並列データ読み込みによる読み込み時間の短縮</span><span class="sxs-lookup"><span data-stu-id="9984d-103">Faster load times with parallel data loading in canvas apps</span></span>
@@ -27,7 +27,7 @@ ms.lasthandoff: 10/26/2018
 
 <span data-ttu-id="9984d-106">この機能を使用すると、アプリ開発者は複数のデータセットを並列で読み込むことができ、エンドユーザーの待ち時間を大幅に短縮できます。</span><span class="sxs-lookup"><span data-stu-id="9984d-106">With this feature, app makers can load multiple data sets in parallel, dramatically reducing the end users' wait.</span></span>  <span data-ttu-id="9984d-107">この機能は起動時だけに限定されておらず、並列処理がパフォーマンスを向上するどの場所でも使用できます。</span><span class="sxs-lookup"><span data-stu-id="9984d-107">And this facility isn't just limited to startup; makers can use it anywhere that parallel operations would improve performance.</span></span>
 
-##### <a name="related-topic"></a><span data-ttu-id="9984d-108">関連項目</span><span class="sxs-lookup"><span data-stu-id="9984d-108">Related topic</span></span>
+## <a name="related-topic"></a><span data-ttu-id="9984d-108">関連項目</span><span class="sxs-lookup"><span data-stu-id="9984d-108">Related topic</span></span>
 
 [<span data-ttu-id="9984d-109">新しい同時実行機能によって起動時間が短縮されます</span><span class="sxs-lookup"><span data-stu-id="9984d-109">Enjoy faster startup times with the new Concurrent function</span></span>](https://powerapps.microsoft.com/blog/enjoy-faster-startup-times-with-the-new-concurrent-function/)
 

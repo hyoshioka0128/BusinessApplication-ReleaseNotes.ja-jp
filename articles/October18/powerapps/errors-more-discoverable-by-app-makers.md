@@ -1,9 +1,9 @@
 ---
 title: "アプリ開発者向けのエラー検出機能の強化"
 description: "アプリ開発者は、アプリ内のエラーをより簡単に追跡および修正できます"
-author: lanced
+author: lancedMicrosoft
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/8/2018
 ms.assetid: 511c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: lanced
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: cc0b60a43769e00e68d6663fd28f8af0e66ef1b8
+ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
+ms.openlocfilehash: 82a576da57ab099546dc911c862a26c5c89c2368
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/16/2018
 
 ---
 # <a name="errors-more-discoverable-by-app-makers"></a><span data-ttu-id="82e8e-103">アプリ開発者向けのエラー検出機能の強化</span><span class="sxs-lookup"><span data-stu-id="82e8e-103">Errors more discoverable by app makers</span></span>

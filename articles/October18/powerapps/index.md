@@ -3,7 +3,7 @@ title: Microsoft PowerApps
 description: "PowerApps は、ブラウザー、携帯電話、タブレットで実行されるビジネス アプリを、コーディングなしで作成できるようにするサービスです。"
 author: evchaki
 manager: KVivek
-ms.date: 8/10/2018
+ms.date: 11/2/2018
 ms.assetid: fd8f05b1-8b41-e811-a954-000d3a15a7d1
 ms.topic: overview
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: evchaki
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: d73eec1d339fd6ab501626150f5184b8d9ef740f
+ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
+ms.openlocfilehash: dc92b93f5936e69d6222abfb4321dfb5bbdd6538
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/16/2018
 
 ---
 

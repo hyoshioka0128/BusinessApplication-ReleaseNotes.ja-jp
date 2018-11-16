@@ -3,7 +3,7 @@ title: "PowerApps アプリ開発者は SharePoint ドキュメント ライブ�
 description: "アプリ開発者は、アプリを SharePoint ドキュメント ライブラリに接続して、アプリ ユーザーがフォルダーの参照、ファイルの表示、モバイルまたは Web 上のメタデータの編集を行えるマッシュアップ アプリケーションを構築できます。"
 author: shpareek
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/8/2018
 ms.assetid: 261c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: shpareek
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 38affdcc3fe439ad8d026588bd7e72b116e89d28
+ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
+ms.openlocfilehash: 70faa62f507c6d231dca4039d93772275b7814ae
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/16/2018
 
 ---
 # <a name="powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries"></a><span data-ttu-id="4bda1-103">PowerApps アプリ開発者は SharePoint ドキュメント ライブラリをアプリへ組み込むことが可能に</span><span class="sxs-lookup"><span data-stu-id="4bda1-103">PowerApps makers can create mashup apps with SharePoint Document Libraries</span></span>

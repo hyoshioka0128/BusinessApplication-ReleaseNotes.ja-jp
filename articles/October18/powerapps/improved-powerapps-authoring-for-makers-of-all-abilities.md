@@ -3,7 +3,7 @@ title: "あらゆるレベルのメーカー向けの PowerApps オーサリン�
 description: "PowerApps オーサリングは、PowerApps.com のすべてのインライン エクスペリエンスにおいて Microsoft ユーザー補助に関する基準に従っています。"
 author: aorth
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/14/2018
 ms.assetid: 0d1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: aorth
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 29498c7887c736307187aba329a2a286c130041d
-ms.openlocfilehash: bdc98de3de3d54cf3ef487f39db13e2ee0dd4b6a
+ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
+ms.openlocfilehash: 2931be9d1600087cae0ed94161a4c552e2cea15a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/16/2018
 
 ---
 # <a name="improved-powerapps-authoring-for-makers-of-all-abilities"></a><span data-ttu-id="89789-103">あらゆるレベルのメーカー向けの PowerApps オーサリングの向上</span><span class="sxs-lookup"><span data-stu-id="89789-103">Improved PowerApps authoring for makers of all abilities</span></span>

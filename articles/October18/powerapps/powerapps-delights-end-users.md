@@ -1,21 +1,21 @@
 ---
 title: "エンドユーザー エクスペリエンスの向上"
 description: "Microsoft は高品質のエンドユーザー エクスペリエンスの提供に力を入れてきました。"
-author: PalakK
+author: evchaki
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/9/2018
 ms.assetid: d68cd080-3b73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: palakk
+ms.author: evchaki
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 2f14f2b7951aa135b3aa46fac91868ae3f0075d6
+ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
+ms.openlocfilehash: 5c54e80b2fda49be08d641577787f7f4cfb8c83b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/16/2018
 
 ---
 # <a name="improvements-in-end-user-experiences"></a><span data-ttu-id="a57d2-103">エンドユーザー エクスペリエンスの向上</span><span class="sxs-lookup"><span data-stu-id="a57d2-103">Improvements in end-user experiences</span></span>

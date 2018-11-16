@@ -3,7 +3,7 @@ title: "Dynamics 365 用の Outlook Client v9.0 の信頼性の向上"
 description: "Outlook COM アドイン、バージョン 9.0 の信頼性とパフォーマンスの強化"
 author: srihas
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/13/2018
 ms.assetid: 861c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: srihas
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 976ba3e8a2bb17a6d33b9438efebafdb54559585
+ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
+ms.openlocfilehash: 0f64e51b655d6a81934e7064a5cf47a851aa5147
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/16/2018
 
 ---
 # <a name="more-reliable-outlook-client-v90-for-dynamics-365"></a><span data-ttu-id="f3437-103">Dynamics 365 用の Outlook Client v9.0 の信頼性の向上</span><span class="sxs-lookup"><span data-stu-id="f3437-103">More reliable Outlook Client v9.0 for Dynamics 365</span></span>

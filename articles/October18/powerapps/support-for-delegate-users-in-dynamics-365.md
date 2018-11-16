@@ -3,7 +3,7 @@ title: "Dynamics 365 での代理ユーザーのサポート"
 description: "Dynamics 365 App for Outlook の代理ユーザーのサポート"
 author: srihas
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/13/2018
 ms.assetid: 8a1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: srihas
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 8b61ce05602f8758c4c1ab847b407190dd1493f2
+ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
+ms.openlocfilehash: d762f32e0b178e3e1169e83fb9e4d9485a2739b8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/16/2018
 
 ---
 # <a name="support-for-delegate-users-in-dynamics-365"></a><span data-ttu-id="9e8ec-103">Dynamics 365 での代理ユーザーのサポート</span><span class="sxs-lookup"><span data-stu-id="9e8ec-103">Support for delegate users in Dynamics 365</span></span>

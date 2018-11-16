@@ -3,7 +3,7 @@ title: "アクセスしやすいアプリを作成するためのインライン
 description: "アプリ開発者は、アプリのアクセシビリティに関する問題を修正する際にアクセシビリティ チェックを使用して問題を特定してヘルプを得ることができます"
 author: emcoope-msft
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/14/2018
 ms.assetid: 0f1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: emcoope
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 23a89baa2842d30c3c2841e8bc8c843df86709d6
+ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
+ms.openlocfilehash: 28ce6723294062e064fc53404d8e350709356718
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/16/2018
 
 ---
 # <a name="inline-help-for-creating-accessible-apps"></a><span data-ttu-id="00f71-103">アクセスしやすいアプリを作成するためのインライン ヘルプ</span><span class="sxs-lookup"><span data-stu-id="00f71-103">Inline help for creating accessible apps</span></span>

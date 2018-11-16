@@ -1,21 +1,21 @@
 ---
 title: "アプリの作成者向けの機能"
 description: "キャンバス アプリまたはモデル駆動型アプリを構築するユーザー向けの機能が増えました。"
-author: RyCu
+author: clwesene
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/11/2018
 ms.assetid: b99a5392-3a73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: rycu
+ms.author: clwesene
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 5e894bff8480b4e35b6134f66adc3fdb84de79b6
+ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
+ms.openlocfilehash: 3ad2bf7c35eb0112af36d701d681baa7f25f5b28
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/16/2018
 
 ---
 # <a name="capabilities-for-app-creators"></a><span data-ttu-id="b2b32-103">アプリの作成者向けの機能</span><span class="sxs-lookup"><span data-stu-id="b2b32-103">Capabilities for app creators</span></span>

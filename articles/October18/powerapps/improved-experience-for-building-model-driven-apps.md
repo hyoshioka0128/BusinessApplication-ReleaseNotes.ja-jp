@@ -3,7 +3,7 @@ title: "モデル駆動型アプリの構築のエクスペリエンスの向上
 description: "モデル駆動型アプリの作成は、ナビゲーションの構成や、モデル駆動型コンポーネントの選択と編集においてより簡単に行えます"
 author: aorth
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/14/2018
 ms.assetid: 8e1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: aorth
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 7a562cdc8baa7a9153034369bb28eddcf11419a3
+ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
+ms.openlocfilehash: 71c1a77e8b7eb58623f370696a2d756f054d30c7
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/16/2018
 
 ---
 # <a name="improved-experience-for-building-model-driven-apps"></a><span data-ttu-id="25a79-103">モデル駆動型アプリの構築のエクスペリエンスの向上</span><span class="sxs-lookup"><span data-stu-id="25a79-103">Improved experience for building model-driven apps</span></span>
