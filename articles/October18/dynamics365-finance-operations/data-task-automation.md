@@ -22,7 +22,6 @@ ms.lasthandoff: 10/26/2018
 
 #  <a name="data-entity-regression-testing-using-data-task-automation"></a>データ タスクの自動化を使用したデータ エンティティ リグレッション テスト 
 
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 Microsoft Dynamics 365 for Finance and Operations のデータ タスクの自動化を使用すると、ユーザーは、データ エンティティのリグレッション テストなど、多くの種類のデータ タスクを簡単に自動化できます。 データ タスクの自動化の詳細については、「[データ タスクの自動化](https://docs.microsoft.com/en-us/dynamics365/unified-operations/dev-itpro/data-entities/data-task-automation)」を参照してください。
 
 
