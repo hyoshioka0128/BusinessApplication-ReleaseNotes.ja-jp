@@ -1,15 +1,12 @@
 ---
 title: "クラウドの代わりに PC を使用して Dynamics 365 インポート ツール (プレビュー) で 3D モデルを変換する"
 description: "インポート ツールで 3D モデルをインポートするためにクラウドまたは PC を選択します。"
-author: ReneeW-CPub
-manager: AnnBe
+author: ornellaalt
 ms.date: 10/10/2018
 ms.topic: article
-ms.prod: 
 ms.service: business-applications
-ms.technology: 
-ms.author: gkaralis
-audience: 
+ms.author: ornella
+ms.reviewer: v-brycho
 ms.translationtype: HT
 ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 11d10397cbab594505414bd2c98f7f2d122b2225

@@ -1,15 +1,12 @@
 ---
 title: "Dynamics 365 for Field Service の統合"
 description: "リモート アシストでフィールド サービスの予約を表示します。"
-author: ReneeW-CPub
-manager: AnnBe
+author: MatthewJonPaul
 ms.date: 10/10/2018
 ms.topic: article
-ms.prod: 
 ms.service: business-applications
-ms.technology: 
 ms.author: mapau
-audience: 
+ms.reviewer: v-brycho
 ms.translationtype: HT
 ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 509d3bd1d9024e077196a8e8e2eec6e46c71eb91

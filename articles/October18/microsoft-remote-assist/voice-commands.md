@@ -1,15 +1,12 @@
 ---
 title: "音声コマンドの使用"
 description: "リモート アシストでジェスチャの代わりに音声コマンドを使用できます。"
-author: ReneeW-CPub
-manager: AnnBe
+author: MatthewJonPaul
 ms.date: 10/10/2018
 ms.topic: article
-ms.prod: 
 ms.service: business-applications
-ms.technology: 
 ms.author: mapau
-audience: 
+ms.reviewer: v-brycho
 ms.translationtype: HT
 ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: dcec83777e9eca89a4c7a4c5675ca2a70f9e3cb0

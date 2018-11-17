@@ -1,15 +1,12 @@
 ---
 title: "HoloLens でのオーディオの自動調整"
 description: "レイアウトの音量は騒音レベルに応じて調整されます。"
-author: ReneeW-CPub
-ms.author: gkaralis
-manager: AnnBe
+author: ornellaalt
+ms.author: ornella
 ms.date: 09/24/2018
 ms.topic: article
-ms.prod: 
 ms.service: business-applications
-ms.technology: 
-audience: 
+ms.reviewer: v-brycho
 ms.translationtype: HT
 ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 81a50346a04866f2b81e4b382eb344e9f176a507

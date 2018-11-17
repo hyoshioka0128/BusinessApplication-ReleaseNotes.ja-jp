@@ -1,15 +1,12 @@
 ---
 title: "テキスト チャット"
 description: "リモート アシストの通話でテキスト チャットを行うことができます。"
-author: ReneeW-CPub
-manager: AnnBe
+author: MatthewJonPaul
 ms.date: 10/10/2018
 ms.topic: article
-ms.prod: 
 ms.service: business-applications
-ms.technology: 
 ms.author: mapau
-audience: 
+ms.reviewer: v-brycho
 ms.translationtype: HT
 ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: eb33d70d9dcb823d7d4a2f13c212db259a755213

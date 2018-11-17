@@ -1,15 +1,12 @@
 ---
 title: "複数選択とグループ化"
 description: "複数のモデルを選択し、まとめて移動または回転させることができます。"
-author: ReneeW-CPub
-manager: AnnBe
+author: ornellaalt
 ms.date: 10/10/2018
 ms.topic: article
-ms.prod: 
 ms.service: business-applications
-ms.technology: 
-ms.author: gkaralis
-audience: 
+ms.author: ornella
+ms.reviewer: v-brycho
 ms.translationtype: HT
 ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: b327d75575a440b3913ea5faa19dadba3b59ecd9

@@ -1,15 +1,12 @@
 ---
 title: "別のアプリからのリモート アシストの起動 (プロトコルの有効化)"
 description: "HoloLens アプリを使用してリモート アシストに切り替えます。"
-author: ReneeW-CPub
-manager: AnnBe
+author: MatthewJonPaul
 ms.date: 10/10/2018
 ms.topic: article
-ms.prod: 
 ms.service: business-applications
-ms.technology: 
 ms.author: mapau
-audience: 
+ms.reviewer: v-brycho
 ms.translationtype: HT
 ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 605f9a52aaebe7d71f96f7eedbbda257b46fd0f7

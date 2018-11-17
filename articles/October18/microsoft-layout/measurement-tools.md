@@ -1,15 +1,12 @@
 ---
 title: "新しい測定ツール"
 description: "新しい測定ツールを使用して、レイアウト内に存続する測定値を配置できます。"
-author: ReneeW-CPub
-manager: AnnBe
+author: ornellaalt
 ms.date: 09/24/2018
 ms.topic: article
-ms.prod: 
 ms.service: business-applications
-ms.technology: 
-ms.author: gkaralis
-audience: 
+ms.author: ornella
+ms.reviewer: v-brycho
 ms.translationtype: HT
 ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 96d9ac2c700d04c6c3f7f0a6380398495c8d4970

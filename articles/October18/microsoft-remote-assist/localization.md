@@ -1,4 +1,5 @@
 ---
+redirect_url: https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/user-guide
 title: "リモート アシストのローカライズ"
 description: "リモート アシストは多くの言語にローカライズされています。"
 author: ReneeW-CPub
