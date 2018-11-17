@@ -3,7 +3,7 @@ title: "業務プロセス フロー内のカスタム コントロール"
 description: "業務プロセス フローは、カスタム コントロールや業務ルールを含むあらゆるフォーム機能をサポートします。"
 author: KaranSr
 manager: KVivek
-ms.date: 10/2/2018
+ms.date: 11/6/2018
 ms.assetid: 357e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: karansr
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: bb6e5b7b3d8381b78450112b7cb25eed2011e755
+ms.sourcegitcommit: 0151d1a2e4ea259905aef314b9725bfd54a7a681
+ms.openlocfilehash: 5466dc829cb222442e361d2022dca39a273ed2f6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/17/2018
 
 ---
 # <a name="custom-controls-in-business-process-flows-public-preview"></a><span data-ttu-id="91775-103">業務プロセス フロー内のカスタム コントロール (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="91775-103">Custom controls in business process flows (Public Preview)</span></span>

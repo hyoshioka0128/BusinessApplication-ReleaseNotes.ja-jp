@@ -1,4 +1,5 @@
 ---
+redirect_url: https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/user-guide
 title: "モバイル注釈"
 description: "エキスパートは、モバイル デバイス上で Teams を使用するときに注釈を追加できます。"
 author: ReneeW-CPub
@@ -11,10 +12,10 @@ ms.technology:
 ms.author: mapau
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: af9f24b9437eaaacc30dce4b15303f67691dc8ed
+ms.sourcegitcommit: 0151d1a2e4ea259905aef314b9725bfd54a7a681
+ms.openlocfilehash: 3fbac5df6a0263dfd67a852f4b23451e8b9c0d30
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/17/2018
 
 ---
 

@@ -1,4 +1,5 @@
 ---
+redirect_url: https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/user-guide
 title: "グループ通話"
 description: "複数のエキスパートが同時にリモート アシストのユーザーを支援することができます。"
 author: ReneeW-CPub
@@ -11,10 +12,10 @@ ms.technology:
 ms.author: mapau
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 43d7d94453072b3269097eff8f0bb25fe5a0ea3f
+ms.sourcegitcommit: 0151d1a2e4ea259905aef314b9725bfd54a7a681
+ms.openlocfilehash: 9a2f6cfd007988044365ae6509f28359b5dd839b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/17/2018
 
 ---
 

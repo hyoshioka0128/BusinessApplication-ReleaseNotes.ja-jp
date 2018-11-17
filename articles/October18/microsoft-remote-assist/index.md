@@ -1,20 +1,17 @@
 ---
 title: "Dynamics 365 リモート アシスト 2018 年 10 月リリースの概要"
 description: "ビデオ通話をハンズフリーの空間上で利用して、接続および共同作業することができます。"
-author: ReneeW-CPub
-manager: AnnBe
+author: MatthewJonPaul
 ms.date: 10/10/2018
-ms.topic: article
-ms.prod: 
+ms.topic: overview
 ms.service: business-applications
-ms.technology: 
 ms.author: mapau
-audience: 
+ms.reviewer: v-brycho
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: a2d439d7fe4dafd5efec0362afd552f4248e9006
+ms.sourcegitcommit: 0151d1a2e4ea259905aef314b9725bfd54a7a681
+ms.openlocfilehash: 6955224aa8fd171312927a1b21fb6bff5085b030
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/17/2018
 
 ---
 

@@ -3,7 +3,7 @@ title: "フロー管理コネクタ、SDK、API"
 description: "フローではすべての SDK と API が完全に文書化されます。たとえば、フロー承認 iFrame をアプリケーションに埋め込む機能や、フローをプログラムで作成または削除する機能などです。"
 author: KentWeareMSFT
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/6/2018
 ms.assetid: 417e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: keweare
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: fc692de27440dad99d66f21705216b72db485a98
+ms.sourcegitcommit: 0151d1a2e4ea259905aef314b9725bfd54a7a681
+ms.openlocfilehash: 824c769158d4b820650ec806f6b83b43dc3c9875
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/17/2018
 
 ---
 # <a name="flow-management-connector-sdk-and-apis"></a><span data-ttu-id="6abf7-103">フロー管理コネクタ、SDK、API</span><span class="sxs-lookup"><span data-stu-id="6abf7-103">Flow management connector, SDK, and APIs</span></span>

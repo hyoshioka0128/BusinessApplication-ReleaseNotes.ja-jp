@@ -1,20 +1,17 @@
 ---
 title: "2018 年 10 月リリースの Dynamics 365 レイアウトの概要"
 description: "レイアウトによって、物理デザインのコンセプトから完成に至るまで新たな方法がもたらされます。"
-author: ReneeW-CPub
-manager: AnnBe
+author: ornellaalt
 ms.date: 10/10/2018
-ms.topic: article
-ms.prod: 
+ms.topic: overview
 ms.service: business-applications
-ms.technology: 
-ms.author: gkaralis
-audience: 
+ms.author: ornella
+ms.reviewer: v-brycho
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 1d0bf55ec7e77dc01c3ae8e673309f279d4e4f84
+ms.sourcegitcommit: 0151d1a2e4ea259905aef314b9725bfd54a7a681
+ms.openlocfilehash: 5b22e24b8fcc472f7c8a8ff62adde67395efdcfe
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/17/2018
 
 ---
 

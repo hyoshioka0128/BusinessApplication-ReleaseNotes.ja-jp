@@ -1,4 +1,5 @@
 ---
+redirect_url: https://docs.microsoft.com/dynamics365/mixed-reality/layout/
 title: "アプリ内チュートリアル"
 description: "アプリ内チュートリアルは、アプリの最初の起動時に自動的に開始されます。"
 author: ReneeW-CPub
@@ -11,10 +12,10 @@ ms.technology:
 ms.author: gkaralis
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 4f2ef5a6a6b572ccb21e3529d08208a5e1532a08
+ms.sourcegitcommit: 0151d1a2e4ea259905aef314b9725bfd54a7a681
+ms.openlocfilehash: 912ea3dd6946010e361d3a1932fa5f646f4710b2
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/17/2018
 
 ---
 
