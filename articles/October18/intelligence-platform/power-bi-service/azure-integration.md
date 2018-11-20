@@ -3,7 +3,7 @@ title: "Azure 統合"
 description: "組織の Azure Data Lake Storage にデータフローのデータを格納するように、Power BI を構成できます。"
 author: erherz
 manager: AnnBe
-ms.date: 9/11/2018
+ms.date: 11/07/2018
 ms.assetid: 
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: v-erherz
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 5c0126234f215be6ade451c004f2b42d20c067f4
+ms.sourcegitcommit: 11487404f4c3e1a046eef9721548f1542cd78f38
+ms.openlocfilehash: cb2f0b886c3e7c4c47c724566c6e1ccb14d4dfd0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/20/2018
 
 ---
 # <a name="azure-integration-public-preview"></a><span data-ttu-id="55799-103">Azure 統合 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="55799-103">Azure integration (Public Preview)</span></span> 
