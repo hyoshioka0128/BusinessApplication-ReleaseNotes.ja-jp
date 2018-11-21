@@ -2,7 +2,7 @@
 title: "Dynamics 365 Portal 2018 年 10 月リリースの概要"
 description: "Dynamics 365 Portal を使用すると、Dynamics 365 のエンティティや機能を、顧客やパートナーなどの外部ユーザーに対して簡単に拡張することができます。"
 author: dileeps
-manager: prvenka
+manager: rycu
 ms.date: 7/22/2018
 ms.assetid: 4f672e28-56d9-49f9-9b0e-199df6c3ff44
 ms.topic: article
@@ -10,12 +10,13 @@ ms.prod:
 ms.service: business-applications
 ms.technology: 
 ms.author: dileeps
+ms.reviewer: shjais
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 3e89dc06b429a791355165b9176355b8cd8e37c5
+ms.sourcegitcommit: e35bcf943f7257d057015b8535340025f4e76c30
+ms.openlocfilehash: 2910c575def4d9e3b31dd65b0070e094b33392cb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/21/2018
 
 ---
 #  <a name="overview-of-dynamics-365-portal-october-18-release"></a><span data-ttu-id="15602-103">Dynamics 365 Portal 2018 年 10 月リリースの概要</span><span class="sxs-lookup"><span data-stu-id="15602-103">Overview of Dynamics 365 Portal October '18 release</span></span>
