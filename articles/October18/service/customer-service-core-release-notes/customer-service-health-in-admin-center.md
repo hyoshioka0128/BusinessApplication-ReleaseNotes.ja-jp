@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../change-history
 title: "Dynamics 365 for Customer Service の One Admin Center での顧客サービスの正常性の監視"
 description: "Dynamics 365 for Customer Service の One Admin Center で顧客サービスの正常性を監視する方法を説明します"
 author: vippand
