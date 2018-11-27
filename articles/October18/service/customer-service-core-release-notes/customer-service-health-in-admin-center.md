@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../change-history
 title: "Dynamics 365 for Customer Service の One Admin Center での顧客サービスの正常性の監視"
 description: "Dynamics 365 for Customer Service の One Admin Center で顧客サービスの正常性を監視する方法を説明します"
 author: vippand
@@ -12,10 +13,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 1f09ad3bf7b4d0ba1b27b8fa97959b73b173a64b
+ms.sourcegitcommit: 566d62b456ff1ad482f7bb4b1a7b423e246cc4b4
+ms.openlocfilehash: 02c395498095b0b7470c2a82a1a9de20c641c70f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/27/2018
 
 ---
 #  <a name="customer-service-health-in-one-admin-center"></a><span data-ttu-id="f6fd6-103">One Admin Center での顧客サービスの正常性</span><span class="sxs-lookup"><span data-stu-id="f6fd6-103">Customer Service Health in One Admin Center</span></span>    
