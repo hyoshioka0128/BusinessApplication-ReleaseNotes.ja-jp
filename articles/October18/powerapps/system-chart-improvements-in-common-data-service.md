@@ -3,7 +3,7 @@ title: "システム グラフにおける全般的な使いやすさ、アク�
 description: "システム グラフにおける全般的な使いやすさ、アクセシビリティ、およびスタイル設定の改善"
 author: prsi
 manager: KVivek
-ms.date: 11/14/2018
+ms.date: 11/20/2018
 ms.assetid: 761c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -21,7 +21,7 @@ ms.lasthandoff: 10/26/2018
 # <a name="general-usability-accessibility-and-styling-improvements-in-system-charts"></a>システム グラフにおける全般的な使いやすさ、アクセシビリティ、およびスタイル設定の改善
 
 
-[!include[banner](../../includes/banner.md)]
+
 
 グラフが機能強化され、フォーム、ダッシュボード、およびグリッド間でのやり取りや機能の一貫性が改善されます。 ユーザーは、新しい 2 種類のグラフ (ドーナツとタグ) でデータを視覚化できます。 また、カスタマイズ担当者向けの機能強化として、全般的なアクセシビリティとスタイル設定が改善されます。
 

@@ -3,7 +3,7 @@ title: "ソリューションを使用したキャンバス アプリの ALM の
 description: "ソリューションには、キャンバス アプリ、およびモデル駆動型アプリ、フロー、他のコンポーネントを含めることができます。"
 author: litran
 manager: KVivek
-ms.date: 11/8/2018
+ms.date: 11/20/2018
 ms.assetid: 381c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

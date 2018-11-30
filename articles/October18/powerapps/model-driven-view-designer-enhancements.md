@@ -3,7 +3,7 @@ title: "モデル駆動型ビュー デザイナーの機能強化"
 description: "編集中のモデル駆動型ビューのライブ プレビュー"
 author: matthewbolanos
 manager: KVivek
-ms.date: 11/8/2018
+ms.date: 11/20/2018
 ms.assetid: 941c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

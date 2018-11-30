@@ -3,7 +3,7 @@ title: "エンドユーザーはグラフを作成して他のユーザーやチ
 description: "エンドユーザーはグラフを作成して、他のユーザーと共有し、ビジュアルを作成することができます"
 author: prsi
 manager: KVivek
-ms.date: 11/14/2018
+ms.date: 11/27/2018
 ms.assetid: 721c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

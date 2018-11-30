@@ -3,7 +3,7 @@ title: "アプリ用 Common Data Service のデータを使用した Power BI �
 description: "アプリ開発者は、アプリ用 Common Data Service 向けの更新された Power BI コネクタを使用して Power BI デスクトップでレポートを作成できます。"
 author: matthewbolanos
 manager: KVivek
-ms.date: 11/14/2018
+ms.date: 11/20/2018
 ms.assetid: 181c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

@@ -3,7 +3,7 @@ title: "統一インターフェイス上の依存オプション セット"
 description: "依存オプション セットのコントロールが統一インターフェイスで利用できます"
 author: shilpas
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/20/2018
 ms.assetid: 6e1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

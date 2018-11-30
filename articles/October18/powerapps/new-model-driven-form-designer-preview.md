@@ -3,7 +3,7 @@ title: "新しいモデル駆動型フォーム デザイナー"
 description: "新しいモデル駆動型のフォーム デザイナーで、生産性の高い最新のフォーム オーサリングを体験します"
 author: aneesmsft
 manager: KVivek
-ms.date: 11/12/2018
+ms.date: 11/20/2018
 ms.assetid: 911c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

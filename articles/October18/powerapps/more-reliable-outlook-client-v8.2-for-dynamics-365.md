@@ -3,7 +3,7 @@ title: "Dynamics 365 用の Outlook Client v8.2 の信頼性の向上"
 description: "Outlook COM アドイン、バージョン 8.2 の信頼性とパフォーマンスの強化"
 author: srihas
 manager: KVivek
-ms.date: 11/13/2018
+ms.date: 11/20/2018
 ms.assetid: 841c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

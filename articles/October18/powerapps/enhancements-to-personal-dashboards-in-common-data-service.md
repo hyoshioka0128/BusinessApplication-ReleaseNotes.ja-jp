@@ -3,7 +3,7 @@ title: "エンドユーザーは個人用ダッシュボードを作成して他
 description: "エンドユーザーは個人用ダッシュボードでウィジェットを使用できます"
 author: prsi
 manager: KVivek
-ms.date: 11/14/2018
+ms.date: 11/27/2018
 ms.assetid: 701c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

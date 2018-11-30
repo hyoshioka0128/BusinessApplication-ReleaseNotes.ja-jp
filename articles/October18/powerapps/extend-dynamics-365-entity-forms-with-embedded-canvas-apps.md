@@ -3,7 +3,7 @@ title: "埋め込みキャンバス アプリによる Dynamics 365 エンティ
 description: "任意の Sales、Service、Marketing、またはカスタム エンティティ フォームにキャンバス アプリを埋め込んで、わずかなコーディングによる豊富なカスタマイズのほか、200 以上のデータ ソースをフル活用できます。"
 author: aneesmsft
 manager: KVivek
-ms.date: 11/12/2018
+ms.date: 11/20/2018
 ms.assetid: 131c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

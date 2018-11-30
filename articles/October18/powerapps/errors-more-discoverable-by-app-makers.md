@@ -3,7 +3,7 @@ title: "アプリ開発者向けのエラー検出機能の強化"
 description: "アプリ開発者は、アプリ内のエラーをより簡単に追跡および修正できます"
 author: lancedMicrosoft
 manager: KVivek
-ms.date: 11/8/2018
+ms.date: 11/27/2018
 ms.assetid: 511c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

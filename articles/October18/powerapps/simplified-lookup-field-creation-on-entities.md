@@ -3,7 +3,7 @@ title: "エンティティでの簡略化された検索フィールドの作成
 description: "アプリ作成者は、エンティティに検索フィールドをすばやく追加できるようになります。"
 author: matthewbolanos
 manager: KVivek
-ms.date: 11/14/2018
+ms.date: 11/20/2018
 ms.assetid: 581c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
