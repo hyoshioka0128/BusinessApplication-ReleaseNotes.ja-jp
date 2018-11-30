@@ -11,10 +11,10 @@ author: Annbe
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 7473e6afdd14b52df0f06820dbd4cb2007853b38
+ms.sourcegitcommit: d591d92aac42c2edbe447f9b38a455ed0baddcaa
+ms.openlocfilehash: fe2a4715aa867c1100e7a21fe737fdca50169972
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 #  <a name="fiscal-printer-integration-sample-for-italy"></a><span data-ttu-id="b1805-103">イタリア向け会計プリンターの統合のサンプル</span><span class="sxs-lookup"><span data-stu-id="b1805-103">Fiscal printer integration sample for Italy</span></span>
