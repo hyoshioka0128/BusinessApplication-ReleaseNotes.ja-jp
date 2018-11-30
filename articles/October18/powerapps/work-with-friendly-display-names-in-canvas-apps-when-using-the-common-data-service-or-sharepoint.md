@@ -3,7 +3,7 @@ title: "アプリ用 Common Data Service または SharePoint を使用してい
 description: "暗号的な開発者名を使用する必要がなくなります。 アプリ開発者は、開発者ポータルやアプリの UI で表示名を使用できるようになりました。"
 author: gregli-msft
 manager: KVivek
-ms.date: 11/8/2018
+ms.date: 11/20/2018
 ms.assetid: 491c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: gregli
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
-ms.openlocfilehash: 8d81b93b461b35b75e22bb6cbc017a71ecb5da36
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: 81610c646fc1a0bd0c20e1b29e032a5237c1fdc6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/16/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 # <a name="work-with-friendly-display-names-in-canvas-apps-when-using-common-data-service-for-apps-or-sharepoint"></a><span data-ttu-id="001ad-104">アプリ用 Common Data Service または SharePoint を使用している場合にキャンバス アプリでわかりやすい表示名を使用する</span><span class="sxs-lookup"><span data-stu-id="001ad-104">Work with friendly display names in canvas apps when using Common Data Service for Apps or SharePoint</span></span>

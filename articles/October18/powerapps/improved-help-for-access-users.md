@@ -3,7 +3,7 @@ title: "Access ユーザー向けのヘルプの向上"
 description: "Access ユーザーは PowerApps を使用したアプリ作成の可能性について学べます"
 author: gregli-msft
 manager: KVivek
-ms.date: 11/8/2018
+ms.date: 11/20/2018
 ms.assetid: f51b1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: gregli
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
-ms.openlocfilehash: 0840e90c90f00f0100f46afd37a968b9e84cc996
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: 598d200db6308aa077f47915575b05176b93f4b2
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/16/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 # <a name="improved-help-for-access-users"></a><span data-ttu-id="b44a8-103">Access ユーザー向けのヘルプの向上</span><span class="sxs-lookup"><span data-stu-id="b44a8-103">Improved help for Access users</span></span>

@@ -3,7 +3,7 @@ title: "エンドユーザーは個人用ダッシュボードを作成して他
 description: "エンドユーザーは個人用ダッシュボードでウィジェットを使用できます"
 author: prsi
 manager: KVivek
-ms.date: 11/14/2018
+ms.date: 11/27/2018
 ms.assetid: 701c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: prsi
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
-ms.openlocfilehash: 77a7c739f91197160dab82985eb5c1b044db628b
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: a2170f32dc6fdf45b212146fca94db3d3c0bc287
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/16/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 # <a name="end-users-can-create-personal-dashboards-and-share-them-with-other-users-and-teams"></a><span data-ttu-id="5ba07-103">エンドユーザーは個人用ダッシュボードを作成して他のユーザーやチームと共有可能</span><span class="sxs-lookup"><span data-stu-id="5ba07-103">End users can create personal dashboards and share them with other users and teams</span></span>

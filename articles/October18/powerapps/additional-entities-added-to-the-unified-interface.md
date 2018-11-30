@@ -3,7 +3,7 @@ title: "統一インターフェイスに追加されたエンティティ"
 description: "統一インターフェイスで追加のエンティティがサポートされています"
 author: shilpas
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/20/2018
 ms.assetid: 6a1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: shilpas
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 57640fcbf49abc83c1a1ead95d0a744b104f3e9c
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: f97edb77246bd3c5ab54ad5269c84f61760a79f2
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 # <a name="entities-added-to-the-unified-interface"></a><span data-ttu-id="ad18f-103">統一インターフェイスに追加されたエンティティ</span><span class="sxs-lookup"><span data-stu-id="ad18f-103">Entities added to the Unified Interface</span></span>

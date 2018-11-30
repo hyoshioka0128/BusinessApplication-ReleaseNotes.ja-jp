@@ -3,7 +3,7 @@ title: "Dynamics 365 用の Outlook Client v8.2 の信頼性の向上"
 description: "Outlook COM アドイン、バージョン 8.2 の信頼性とパフォーマンスの強化"
 author: srihas
 manager: KVivek
-ms.date: 11/13/2018
+ms.date: 11/20/2018
 ms.assetid: 841c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: srihas
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
-ms.openlocfilehash: 4ab03f4ab365d169f6f18070691c1a22b128a6de
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: f3d6cf47a67eb44464f448048417690bfaccf374
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/16/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 # <a name="more-reliable-outlook-client-v82-for-dynamics-365"></a><span data-ttu-id="8e312-103">Dynamics 365 用の Outlook Client v8.2 の信頼性の向上</span><span class="sxs-lookup"><span data-stu-id="8e312-103">More reliable Outlook Client v8.2 for Dynamics 365</span></span>

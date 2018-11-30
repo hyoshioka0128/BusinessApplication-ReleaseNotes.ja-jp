@@ -3,7 +3,7 @@ title: "アプリ用 Common Data Service のキャンバス アプリで多対�
 description: "手動で参加または検索する必要がありません。 PowerApps は多対一リレーションシップを自動で拡張するため、必要な情報はすぐそこにあります。"
 author: gregli-msft
 manager: KVivek
-ms.date: 11/14/2018
+ms.date: 11/26/2018
 ms.assetid: 421c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,16 +12,16 @@ ms.technology:
 ms.author: gregli
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
-ms.openlocfilehash: 7d6dfe39df53a398ca4f16abce87b2d3d702b35e
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: bed7137531560ede4b30b6f50cc45f8df572e874
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/16/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 # <a name="easy-to-work-with-many-to-one-relationships-in-canvas-apps-for-common-data-service-for-apps"></a><span data-ttu-id="11a6a-104">アプリ用 Common Data Service のキャンバス アプリで多対一リレーションシップを簡単に操作</span><span class="sxs-lookup"><span data-stu-id="11a6a-104">Easy to work with many-to-one relationships in canvas apps for Common Data Service for Apps</span></span>
 
 
-[!include[banner](../../includes/banner.md)]
+
 
 <span data-ttu-id="11a6a-105">リレーショナル データの活用はほとんどのビジネス アプリケーションで鍵となります。</span><span class="sxs-lookup"><span data-stu-id="11a6a-105">Working with relational data is key to most business applications.</span></span> <span data-ttu-id="11a6a-106">とはいえ、必要な情報を取り込み、外部キーを組み込み、プロジェクションを制御するクエリを記述するのは面倒な場合があります。</span><span class="sxs-lookup"><span data-stu-id="11a6a-106">Yet it can be tedious to write queries that pull in the necessary information, join on foreign keys, and control the projection.</span></span>
 

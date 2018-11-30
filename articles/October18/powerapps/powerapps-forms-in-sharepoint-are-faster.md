@@ -3,7 +3,7 @@ title: "SharePoint の PowerApps フォームの速度が向上"
 description: "エンドユーザーとアプリ開発者に対する SharePoint の埋め込み PowerApps フォームのパフォーマンスが向上します"
 author: yifwang
 manager: KVivek
-ms.date: 11/8/2018
+ms.date: 11/20/2018
 ms.assetid: 021c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,16 +12,16 @@ ms.technology:
 ms.author: yifwang
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
-ms.openlocfilehash: d48b47b257df4aee7e6243f66a739519b68d6ec0
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: 8520d225d23d5501a06a5a602ea9979d262fdf0e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/16/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 # <a name="powerapps-forms-in-sharepoint-are-faster"></a><span data-ttu-id="fb96f-103">SharePoint の PowerApps フォームの速度が向上</span><span class="sxs-lookup"><span data-stu-id="fb96f-103">PowerApps forms in SharePoint are faster</span></span>
 
 
-[!include[banner](../../includes/banner.md)]
+
 
 <span data-ttu-id="fb96f-104">埋め込み PowerApps フォームを使用する場合、SharePoint では次のような多くの点でパフォーマンスが向上します。</span><span class="sxs-lookup"><span data-stu-id="fb96f-104">A number of performance improvements are available in SharePoint when using embedded PowerApps forms, including:</span></span>
 

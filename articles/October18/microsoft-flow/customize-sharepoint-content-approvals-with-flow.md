@@ -3,7 +3,7 @@ title: "フローによる SharePoint コンテンツ承認のカスタマイズ
 description: "最新の SharePoint ページ ライブラリでは、サイト管理者と所有者が新しい編集のコンテンツ承認を有効にすることができます。"
 author: Mhade
 manager: KVivek
-ms.date: 10/22/2018
+ms.date: 11/20/2018
 ms.assetid: fbc151eb-4a98-e811-a969-000d3a1378f6
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mhade
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: f569a3691cc7c3ac3d76ea67aaef6a06ce12ceef
-ms.openlocfilehash: 3218a7c681df8f7e21068929ce66b1bfcd2d9af7
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: d7153d68c5c10dcbd5dfb501a4eaa5f24dc95d82
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 # <a name="customize-sharepoint-content-approvals-with-flow"></a><span data-ttu-id="09602-103">フローによる SharePoint コンテンツ承認のカスタマイズ</span><span class="sxs-lookup"><span data-stu-id="09602-103">Customize SharePoint content approvals with Flow</span></span>

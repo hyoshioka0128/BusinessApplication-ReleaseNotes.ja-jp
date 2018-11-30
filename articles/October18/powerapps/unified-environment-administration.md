@@ -3,7 +3,7 @@ title: "Power Platform 管理センターへの環境管理機能の統合"
 description: "管理者が、アプリ用 Common Data Service のすべての環境を 1 つの場所からプロビジョニングし、監視し、管理できるようになります"
 author: jamesol-msft
 manager: KVivek
-ms.date: 11/14/2018
+ms.date: 11/20/2018
 ms.assetid: a51c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
-ms.openlocfilehash: cbb790eb9d8bfcfd2f15674ebaa7688a31566895
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: e7d811a9836eb1d73c99f97bc0a4926721c010f0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/16/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 # <a name="unified-environment-administration-from-power-platform-admin-center"></a><span data-ttu-id="2a08d-103">Power Platform 管理センターへの環境管理機能の統合</span><span class="sxs-lookup"><span data-stu-id="2a08d-103">Unified environment administration from Power platform admin center</span></span>

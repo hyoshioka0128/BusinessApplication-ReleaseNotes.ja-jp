@@ -3,7 +3,7 @@ title: "統一インターフェイスでグリッド上のデータのフィル
 description: "エンドユーザーはグリッドでデータをフィルター処理できます"
 author: sidhartg
 manager: KVivek
-ms.date: 11/14/2018
+ms.date: 11/20/2018
 ms.assetid: 781c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: sidhartg
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
-ms.openlocfilehash: d1b9198b85f126a8ccc07872ddfb4cc7501e5e92
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: e64124b665389fb3ee0cdaed8ccec3acffafdc4f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/16/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 # <a name="filtering-data-on-grids-coming-to-unified-interface"></a><span data-ttu-id="4b88e-103">統一インターフェイスでグリッド上のデータのフィルター処理が可能</span><span class="sxs-lookup"><span data-stu-id="4b88e-103">Filtering data on grids coming to Unified Interface</span></span>

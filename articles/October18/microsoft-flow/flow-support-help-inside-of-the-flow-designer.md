@@ -3,7 +3,7 @@ title: "フロー デザイナーへのヘルプとサポートのエクスペ�
 description: "フローのコミュニティにはフローによる問題解決方法に関する豊富なコンテンツがあり、新しいサポート エクスペリエンスでは、サポート チケットを開くことなく、インラインでソリューションを簡単に検索できます。"
 author: anjlic
 manager: KVivek
-ms.date: 11/6/2018
+ms.date: 11/20/2018
 ms.assetid: 397e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: anjlic
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0151d1a2e4ea259905aef314b9725bfd54a7a681
-ms.openlocfilehash: 3b3d32b51b66a9ed1e7951e5f9052773050af0b2
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: 87028c819fa2d76e4de3d91a23dc1032e36a6557
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/17/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 # <a name="integrated-help-and-support-experience-in-flow-designer"></a><span data-ttu-id="97733-103">フロー デザイナーへのヘルプとサポートのエクスペリエンスの統合</span><span class="sxs-lookup"><span data-stu-id="97733-103">Integrated help and support experience in Flow designer</span></span>

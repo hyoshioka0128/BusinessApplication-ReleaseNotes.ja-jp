@@ -3,7 +3,7 @@ title: "エンティティでの簡略化された検索フィールドの作成
 description: "アプリ作成者は、エンティティに検索フィールドをすばやく追加できるようになります。"
 author: matthewbolanos
 manager: KVivek
-ms.date: 11/14/2018
+ms.date: 11/20/2018
 ms.assetid: 581c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mabolan
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
-ms.openlocfilehash: 0e2bea1259272a475d4fa2df87ac31caff0e9dce
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: 1ee0096ca7e1bbb3adde1e10979a20653d0887f7
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/16/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 # <a name="simplified-lookup-field-creation-on-entities"></a><span data-ttu-id="bee35-103">エンティティでの簡略化された検索フィールドの作成</span><span class="sxs-lookup"><span data-stu-id="bee35-103">Simplified lookup field creation on entities</span></span>

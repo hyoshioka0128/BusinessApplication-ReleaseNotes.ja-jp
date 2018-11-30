@@ -3,7 +3,7 @@ title: "統一インターフェイスのユーザー エクスペリエンス�
 description: "顧客は統一インターフェイスで新しいユーザー エクスペリエンスをオフにできます"
 author: shilpas
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/20/2018
 ms.assetid: 671c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: shilpas
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: e2ea2adcc655513359a18c40c89855875136b240
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: e859a1a28bb345e466d8bb5ffae657120ed52b29
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 # <a name="control-availability-of-user-experiences-on-unified-interface"></a><span data-ttu-id="6191f-103">統一インターフェイスのユーザー エクスペリエンスの利用可能性の制御</span><span class="sxs-lookup"><span data-stu-id="6191f-103">Control availability of user experiences on Unified Interface</span></span>

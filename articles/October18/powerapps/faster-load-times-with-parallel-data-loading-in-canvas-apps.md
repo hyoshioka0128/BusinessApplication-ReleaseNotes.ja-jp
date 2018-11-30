@@ -3,7 +3,7 @@ title: "キャンバス アプリでの並列データ読み込みによる読�
 description: "アプリ開発者は、複数の読み込みオペレーションを並列で実行して、アプリ ユーザーの全体的な待ち時間を短縮できます。"
 author: gregli-msft
 manager: KVivek
-ms.date: 11/14/2018
+ms.date: 11/27/2018
 ms.assetid: 4b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,16 +12,16 @@ ms.technology:
 ms.author: gregli
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
-ms.openlocfilehash: 0906627deb95579784e8fbf474dffc001f5f83c3
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: bbb1e150a1b08491938b04460e4dfa84070ea2e1
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/16/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 # <a name="faster-load-times-with-parallel-data-loading-in-canvas-apps"></a><span data-ttu-id="9984d-103">キャンバス アプリでの並列データ読み込みによる読み込み時間の短縮</span><span class="sxs-lookup"><span data-stu-id="9984d-103">Faster load times with parallel data loading in canvas apps</span></span>
 
 
-[!include[banner](../../includes/banner.md)]
+
 
 <span data-ttu-id="9984d-104">多くのキャンバス アプリ開発者は、パフォーマンスを向上させるために、アプリの開始時に複数のテーブルやエンティティをプリロードします。</span><span class="sxs-lookup"><span data-stu-id="9984d-104">For better performance, many canvas-app makers will preload multiple tables and entities when their app starts.</span></span> <span data-ttu-id="9984d-105">今日、これはロードごとに順次行われており、多くの場合はアプリの **OnStart** 式で行われます。</span><span class="sxs-lookup"><span data-stu-id="9984d-105">Today, this is done serially, one load after another, often in the **OnStart** formula of the app.</span></span> 
 
@@ -30,4 +30,3 @@ ms.lasthandoff: 11/16/2018
 ## <a name="related-topic"></a><span data-ttu-id="9984d-108">関連項目</span><span class="sxs-lookup"><span data-stu-id="9984d-108">Related topic</span></span>
 
 [<span data-ttu-id="9984d-109">新しい同時実行機能によって起動時間が短縮されます</span><span class="sxs-lookup"><span data-stu-id="9984d-109">Enjoy faster startup times with the new Concurrent function</span></span>](https://powerapps.microsoft.com/blog/enjoy-faster-startup-times-with-the-new-concurrent-function/)
-

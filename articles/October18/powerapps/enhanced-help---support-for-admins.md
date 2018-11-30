@@ -3,7 +3,7 @@ title: "管理者向けのヘルプとサポートの強化"
 description: "管理者には、組織の問題を診断および解決するためのより多くのツールが提供されます"
 author: jamesol-msft
 manager: KVivek
-ms.date: 11/13/2018
+ms.date: 11/20/2018
 ms.assetid: a21c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: jamesol
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: cefcf9f22fa7701234cd81e9c3e4e02b4dcb659c
-ms.openlocfilehash: b80ee3818d425202e6be4eb21ef468dc9e97027e
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: 40961afde90c72be6dc18afdc33bffc7cacb3292
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/16/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 # <a name="enhanced-help-and-support-for-admins"></a><span data-ttu-id="22939-103">管理者向けのヘルプとサポートの強化</span><span class="sxs-lookup"><span data-stu-id="22939-103">Enhanced help and support for admins</span></span>
