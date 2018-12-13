@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../change-history
 title: "Power BI での自動機械学習"
 description: "Power BI データフローを使用した機械学習モデルの作成"
 author: SantoshC
@@ -12,10 +13,10 @@ ms.technology:
 ms.author: SantoshC
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: d6aab7bce00b7aa33d78809d683e21364829152e
+ms.sourcegitcommit: f872ddf2157fa0b1a033b8d289c3d464c6293768
+ms.openlocfilehash: 01e174712534ba6065aca1714f7d0a3444f3c294
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 12/13/2018
 
 ---
 #  <a name="automated-machine-learning-in-power-bi-public-preview"></a><span data-ttu-id="69b6d-103">Power BI での自動機械学習 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="69b6d-103">Automated machine learning in Power BI (Public Preview)</span></span>

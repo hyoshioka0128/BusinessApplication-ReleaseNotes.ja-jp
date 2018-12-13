@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../change-history
 title: "Azure Machine Learning の統合"
 description: "Power Query を使用して Azure Machine Learning モデルにアクセスします。"
 author: SantoshC
@@ -12,10 +13,10 @@ ms.technology:
 ms.author: SantoshC
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: b70797c6019915d44f12ee61fa6541f5c8feab92
+ms.sourcegitcommit: f872ddf2157fa0b1a033b8d289c3d464c6293768
+ms.openlocfilehash: f1bed7384048ec88fccda25bdf680b3e14bc16d3
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 12/13/2018
 
 ---
 #  <a name="access-azure-machine-learning-models-in-power-query-public-preview"></a><span data-ttu-id="177a5-103">Power Query で Azure Machine Learning モデルにアクセスする (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="177a5-103">Access Azure Machine Learning models in Power Query (Public Preview)</span></span>
