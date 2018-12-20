@@ -1,9 +1,9 @@
 ---
-title: "Power BI サービス アプリの管理と埋め込みの API"
-description: "Power BI サービスだけでなく API でも Power BI アプリの管理や埋め込みを行うことができる拡張"
+title: "Power BI アプリを管理するための API"
+description: "列挙 API による Power BI アプリ管理機能の拡張。"
 author: ezaviv
-manager: AnnBe
-ms.date: 7/22/2018
+manager: AdamDWilson
+ms.date: 11/15/2018
 ms.assetid: 27032086-de7f-45f7-b74f-39bb4d455e92
 ms.topic: article
 ms.prod: 
@@ -12,15 +12,15 @@ ms.technology:
 ms.author: avive
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 5221311795270ffa2f747de429a5c10bf28e8665
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: 09a66fef261c5ca82f12f8a6ef06cf52f95f0434
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/30/2018
 
 ---
-# <a name="apis-to-manage-and-embed-power-bi-service-apps"></a><span data-ttu-id="5e50a-103">Power BI サービス アプリの管理と埋め込みの API</span><span class="sxs-lookup"><span data-stu-id="5e50a-103">APIs to manage and embed Power BI Service Apps</span></span>
+# <a name="apis-to-manage-power-bi-apps"></a><span data-ttu-id="9a50f-103">Power BI アプリを管理するための API</span><span class="sxs-lookup"><span data-stu-id="9a50f-103">APIs to manage Power BI Apps</span></span>
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-<span data-ttu-id="5e50a-104">Power BI サービスだけでなく、API でも Power BI アプリの管理や埋め込みを行うことができるように拡張されます。</span><span class="sxs-lookup"><span data-stu-id="5e50a-104">We will be expanding the ability to manage and embed Power BI apps through APIs and not just through the Power BI service.</span></span>
+<span data-ttu-id="9a50f-104">API によって Power BI アプリとその内容を列挙する機能を拡張します。</span><span class="sxs-lookup"><span data-stu-id="9a50f-104">We will be expanding the ability to enumerate Power BI apps and their content through APIs.</span></span>
 

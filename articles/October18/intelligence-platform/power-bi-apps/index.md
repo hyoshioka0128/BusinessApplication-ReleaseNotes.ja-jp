@@ -3,7 +3,7 @@ title: "Power BI アプリ"
 description: "Power BI アプリを使用すると、Power BI パートナーはコーディングなし (またはわずかなコーディング) で Power BI アプリを作成し、それらを AppSource に公開して、すべての Power BI カスタマーに提供することができます"
 author: ezaviv
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 11/27/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,20 +11,18 @@ ms.technology:
 ms.author: avive
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: e34fa5a0de0a18537a1b8f4ab6698c81107b3f53
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: 96d8d53cfd2d0f4123aa08869f5baf4f36a6076b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/30/2018
 
 ---
 
-# <a name="power-bi-apps"></a><span data-ttu-id="0fde5-103">Power BI アプリ</span><span class="sxs-lookup"><span data-stu-id="0fde5-103">Power BI apps</span></span>
+# <a name="power-bi-apps"></a><span data-ttu-id="26d67-103">Power BI アプリ</span><span class="sxs-lookup"><span data-stu-id="26d67-103">Power BI apps</span></span>
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 
 
-<span data-ttu-id="0fde5-104">Power BI アプリを使用すると、Power BI パートナーはコーディングなし (またはわずかなコーディング) で Power BI アプリを作成し、それらを AppSource に公開して、すべての Power BI カスタマーに提供することができます。</span><span class="sxs-lookup"><span data-stu-id="0fde5-104">Power BI apps will enable no-code/low-code experiences for Power BI partners to build Power BI apps and publish them in AppSource for all Power BI customers.</span></span> <span data-ttu-id="0fde5-105">プラットフォームは、パートナーのビジネス構築、販売、およびビジネス成長を迅速化できるよう設計されています。</span><span class="sxs-lookup"><span data-stu-id="0fde5-105">The platform will help our partners build, market, sell, and grow their business faster.</span></span>
-
-<span data-ttu-id="0fde5-106">2018 年 10 月リリースでは、Power BI アプリで Power BI データフローを使用することができます。これによりパートナーは、AppSource 内の Power BI アプリを使用して、自社のソリューションを拡張できるようになります。</span><span class="sxs-lookup"><span data-stu-id="0fde5-106">With the October '18 release, Power BI apps can leverage Power BI dataflows, enabling our partners to expand their offerings with Power BI apps in AppSource.</span></span> <span data-ttu-id="0fde5-107">パートナーのビジネス成長を促進するため、パートナーのライセンスを強制する機能や、アプリの使用状況を監視する機能が追加される予定です。</span><span class="sxs-lookup"><span data-stu-id="0fde5-107">To enable partners to grow their business, we are adding the ability to enforce partner licensing and to monitor an app’s usage.</span></span>
+<span data-ttu-id="26d67-104">Power BI アプリを使用すると、Power BI パートナーはコーディングなし (またはわずかなコーディング) で Power BI アプリを作成し、それらを AppSource に公開して、すべての Power BI カスタマーに提供することができます。</span><span class="sxs-lookup"><span data-stu-id="26d67-104">Power BI apps will enable no-code/low-code experiences for Power BI partners to build Power BI apps and publish them in AppSource for all Power BI customers.</span></span> <span data-ttu-id="26d67-105">プラットフォームは、パートナーのビジネス構築、販売、およびビジネス成長を迅速化できるよう設計されています。</span><span class="sxs-lookup"><span data-stu-id="26d67-105">The platform will help our partners build, market, sell, and grow their businesses faster.</span></span>
 

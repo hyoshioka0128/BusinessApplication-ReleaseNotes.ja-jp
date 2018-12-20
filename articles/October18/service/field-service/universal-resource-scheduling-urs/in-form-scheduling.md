@@ -12,26 +12,26 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: ce98c4c5c441fe1153b3a36fbf6d3407939e5675
+ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
+ms.openlocfilehash: e79f436426f591cfb3849c69e112044114acfb3a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/08/2018
 
 ---
 
-#  <a name="in-form-scheduling"></a><span data-ttu-id="68b39-103">フォーム内スケジューリング</span><span class="sxs-lookup"><span data-stu-id="68b39-103">In-form scheduling</span></span>
+#  <a name="in-form-scheduling"></a><span data-ttu-id="c14f4-103">フォーム内スケジューリング</span><span class="sxs-lookup"><span data-stu-id="c14f4-103">In-form scheduling</span></span>
 
 [!include[field-service banner](../../../includes/field-service.md)]
 
 
 
-<span data-ttu-id="68b39-104">現在、柔軟性の高い UI を使用した予約の検索と作成に関連する魅力的な機能があります。</span><span class="sxs-lookup"><span data-stu-id="68b39-104">Today we have a compelling capability around searching for and creating bookings with a flexible UI.</span></span> <span data-ttu-id="68b39-105">しかし、出荷係やリソース マネージャー以外のカジュアル ユーザーにはリソース スケジュールすべての機能が必要ではない場合があります。</span><span class="sxs-lookup"><span data-stu-id="68b39-105">However, in some cases, the full power of resource scheduling may not be needed for a casual user who is not a dispatcher or resource manager.</span></span> <span data-ttu-id="68b39-106">お客様と電話で話している顧客サービス担当者は、スケジュール ボードを取り出す代わりに、そのフローのコンテキストにとどまったまま単純に上位 3 件の予約の一覧から選択したい場合があります。</span><span class="sxs-lookup"><span data-stu-id="68b39-106">A customer service representative on the phone with a customer may simply want a list of the top three bookings to choose from, while remaining in the context of their flow, instead of having to pop out a schedule board.</span></span>
-<span data-ttu-id="68b39-107">フォーム内スケジューリングには、ユーザーがシンプルな一覧またはカレンダー ビュー内の上位オプションから選択できる軽量のウィジェットが含まれます。</span><span class="sxs-lookup"><span data-stu-id="68b39-107">In-form scheduling includes a lightweight widget where the user can select from the top options in a simple list or calendar view.</span></span>
+<span data-ttu-id="c14f4-104">現在、柔軟性の高い UI を使用した予約の検索と作成に関連する魅力的な機能があります。</span><span class="sxs-lookup"><span data-stu-id="c14f4-104">Today we have a compelling capability around searching for and creating bookings with a flexible UI.</span></span> <span data-ttu-id="c14f4-105">しかし、出荷係やリソース マネージャー以外のカジュアル ユーザーにはリソース スケジュールすべての機能が必要ではない場合があります。</span><span class="sxs-lookup"><span data-stu-id="c14f4-105">However, in some cases, the full power of resource scheduling may not be needed for a casual user who is not a dispatcher or resource manager.</span></span> <span data-ttu-id="c14f4-106">お客様と電話で話している顧客サービス担当者は、スケジュール ボードを取り出す代わりに、そのフローのコンテキストにとどまったまま単純に上位 3 件の予約の一覧から選択したい場合があります。</span><span class="sxs-lookup"><span data-stu-id="c14f4-106">A customer service representative on the phone with a customer may simply want a list of the top three bookings to choose from, while remaining in the context of their flow, instead of having to pop out a schedule board.</span></span>
+<span data-ttu-id="c14f4-107">フォーム内スケジューリングには、ユーザーがシンプルな一覧またはカレンダー ビュー内の上位オプションから選択できる軽量のウィジェットが含まれます。</span><span class="sxs-lookup"><span data-stu-id="c14f4-107">In-form scheduling includes a lightweight widget where the user can select from the top options in a simple list or calendar view.</span></span>
 
 
-<span data-ttu-id="68b39-108">![](media/in-form-scheduling-1.png "OWA UI を使用したフォーム内予約管理のカレンダーのワイヤーフレーム")
-<!-- picture --></span><span class="sxs-lookup"><span data-stu-id="68b39-108">![](media/in-form-scheduling-1.png "Wireframe of calendar in-form booking control using OWA UI")
+<span data-ttu-id="c14f4-108">![OWA UI を使用したフォーム内予約管理のカレンダーのワイヤーフレーム](media/in-form-scheduling-1.png "OWA UI を使用したフォーム内予約管理のカレンダーのワイヤーフレーム")
+<!-- picture --></span><span class="sxs-lookup"><span data-stu-id="c14f4-108">![Wireframe of calendar in-form booking control using OWA UI](media/in-form-scheduling-1.png "Wireframe of calendar in-form booking control using OWA UI")
 <!-- picture --></span></span>
 
-<span data-ttu-id="68b39-109">*OWA UI を使用したフォーム内予約管理のカレンダーのワイヤーフレーム*</span><span class="sxs-lookup"><span data-stu-id="68b39-109">*Wireframe of calendar in-form booking control using OWA UI*</span></span>
+<span data-ttu-id="c14f4-109">*OWA UI を使用したフォーム内予約管理のカレンダーのワイヤーフレーム*</span><span class="sxs-lookup"><span data-stu-id="c14f4-109">*Wireframe of calendar in-form booking control using OWA UI*</span></span>
 

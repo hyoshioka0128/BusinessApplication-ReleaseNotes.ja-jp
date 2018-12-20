@@ -1,27 +1,27 @@
 ---
 title: "モデル駆動型モバイル アプリケーションの信頼性が向上"
-description: "速度の向上やアクション可能なエラー メッセージにより、モバイル エクスペリエンスがさらに楽しくなります"
-author: sarafankit
+description: "快適なユーザー エクスペリエンスを実現するためのアプリの信頼性とパフォーマンスの向上"
+author: Kavishi
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/26/2018
 ms.assetid: fb1b1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: ankitsar
+ms.author: kaagar
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 335ffbb2bd19e618d3d0fac0bdec40261307978c
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: 64b11ad895ba7487c9c2c91f2adc72093d3891ac
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/30/2018
 
 ---
-# <a name="model-driven-mobile-applications-are-more-reliable"></a><span data-ttu-id="cd805-103">モデル駆動型モバイル アプリケーションの信頼性が向上</span><span class="sxs-lookup"><span data-stu-id="cd805-103">Model-driven mobile applications are more reliable</span></span>
+# <a name="model-driven-mobile-applications-are-more-reliable"></a><span data-ttu-id="3b515-103">モデル駆動型モバイル アプリケーションの信頼性が向上</span><span class="sxs-lookup"><span data-stu-id="3b515-103">Model-driven mobile applications are more reliable</span></span>
 
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="cd805-104">モバイル アプリケーションは高速に実行され、フリーズしません。</span><span class="sxs-lookup"><span data-stu-id="cd805-104">Mobile applications run faster and don't hang.</span></span> <span data-ttu-id="cd805-105">ユーザーに表示されるエラーはアクション可能であり、自己解決が可能か、Microsoft に関連情報を提供して迅速なサポートを受けることができます。</span><span class="sxs-lookup"><span data-stu-id="cd805-105">Any errors that users see are actionable to enable self-resolution or provide relevant information to Microsoft for quick support.</span></span>
+<span data-ttu-id="3b515-104">モバイル アプリケーションの動作がいっそう速く、確実になります。</span><span class="sxs-lookup"><span data-stu-id="3b515-104">Mobile applications run faster and are more reliable.</span></span> <span data-ttu-id="3b515-105">エラー メッセージはいっそうアクション可能になり、自分で解決するか、Microsoft に関連情報を提供して迅速なサポートを受けることができます。</span><span class="sxs-lookup"><span data-stu-id="3b515-105">Error messages are more actionable to enable self-resolution or provide relevant information to Microsoft for quick support.</span></span>
 

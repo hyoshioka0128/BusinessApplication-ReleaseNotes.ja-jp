@@ -11,26 +11,24 @@ ms.technology:
 ms.author: jasongre
 audience: developer, admin, end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 228d1bb94bf3019a1a228b65a5d7091dea0ea296
+ms.sourcegitcommit: 1db70c75920543a1b7c538839e9058609ee85323
+ms.openlocfilehash: a00e4cf74780f9417ceb031dea6d391454908664
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 12/04/2018
 
 ---
 
-# <a name="filtering-enhancements"></a><span data-ttu-id="d1eed-103">フィルター処理の機能強化</span><span class="sxs-lookup"><span data-stu-id="d1eed-103">Filtering enhancements</span></span>
+# <a name="filtering-enhancements"></a><span data-ttu-id="31c97-103">フィルター処理の機能強化</span><span class="sxs-lookup"><span data-stu-id="31c97-103">Filtering enhancements</span></span>
 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-<span data-ttu-id="d1eed-104">ユーザーは、フィルター処理に関する以下の追加機能を使用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="d1eed-104">Users now have additional filtering capabilities including:</span></span> 
+<span data-ttu-id="31c97-104">ユーザーは、フィルター処理に関する以下の追加機能を使用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="31c97-104">Users now have additional filtering capabilities including:</span></span> 
 
-- <span data-ttu-id="d1eed-105">日付フォルダーをフィルター処理する際に、日付ピッカーを使用できます</span><span class="sxs-lookup"><span data-stu-id="d1eed-105">The ability to use the date picker when filtering on date fields</span></span>
+- <span data-ttu-id="31c97-105">日付フォルダーをフィルター処理する際に、日付ピッカーを使用できます</span><span class="sxs-lookup"><span data-stu-id="31c97-105">The ability to use the date picker when filtering on date fields</span></span>
 
-- <span data-ttu-id="d1eed-106">列挙フィールドをフィルター処理する際に、使用可能な値を表示できます</span><span class="sxs-lookup"><span data-stu-id="d1eed-106">The ability to see the available values when filtering on enum fields</span></span>
+- <span data-ttu-id="31c97-106">列挙フィールドをフィルター処理する際に、使用可能な値を表示できます</span><span class="sxs-lookup"><span data-stu-id="31c97-106">The ability to see the available values when filtering on enum fields</span></span>
 
-- <span data-ttu-id="d1eed-107">[フィルター] ウィンドウまたはグリッド列ヘッダーを通じて、会社間フォーム内の法人をフィルター処理できます</span><span class="sxs-lookup"><span data-stu-id="d1eed-107">The ability to filter on legal entity in cross-company forms via the Filter Pane or grid column header</span></span>
+- <span data-ttu-id="31c97-107">グリッド列ヘッダーを使用して、より Excel に近い方法でフィルター処理できます</span><span class="sxs-lookup"><span data-stu-id="31c97-107">The ability to filter in a more Excel-like way using grid column headers</span></span>
 
-- <span data-ttu-id="d1eed-108">グリッド列ヘッダーを使用して、より Excel に近い方法でフィルター処理できます</span><span class="sxs-lookup"><span data-stu-id="d1eed-108">The ability to filter in a more Excel-like way using grid column headers</span></span>
-
-<span data-ttu-id="d1eed-109">ユーザーは、いっそう簡単にフィルター処理するフィールドを見つけることもできます。</span><span class="sxs-lookup"><span data-stu-id="d1eed-109">Users will also be able to find the fields they want to filter on more easily.</span></span>
+- <span data-ttu-id="31c97-108">ユーザーがいっそう簡単にフィルター処理するフィールドを見つけられる機能</span><span class="sxs-lookup"><span data-stu-id="31c97-108">The ability to find the fields they want to filter on more easily</span></span>
 
