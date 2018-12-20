@@ -3,7 +3,7 @@ title: "計算されたエンティティ"
 description: "計算されたエンティティのサポートにより、サード パーティは豊富な分析情報と AI 機能を備えたデータフローを利用して Power BI アプリを開発することができます。"
 author: adiregev
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 11/07/2018
 ms.assetid: 
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: adiregev
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 1cf4c587631512b432a437794c2825f40863f43f
+ms.sourcegitcommit: 11487404f4c3e1a046eef9721548f1542cd78f38
+ms.openlocfilehash: 1cdde742870006f7f55e9656668ed46d903a4779
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/20/2018
 
 ---
 # <a name="computed-entities-public-preview"></a>計算されたエンティティ (パブリック プレビュー)  
@@ -28,4 +28,8 @@ ms.lasthandoff: 10/26/2018
 
 計算されたエンティティのサポートにより、サード パーティは豊富な分析情報と AI 機能を備えたデータフローを利用して Power BI アプリを開発することができます。 たとえば、Dynamics 365 for Sales の顧客アカウント エンティティを、サービスに対する Dynamics 365 のオープン サービス チケットからの情報、および Office 365 の関連する顧客会議情報で補強できます 。
 計算されたエンティティを最新の情報に更新するには、Power BI Premium が必要です。 
+
+
+## <a name="resources"></a>リソース
+[Power BI Premium での計算されたエンティティの使用](https://docs.microsoft.com/en-us/power-bi/service-dataflows-computed-entities-premium)
 

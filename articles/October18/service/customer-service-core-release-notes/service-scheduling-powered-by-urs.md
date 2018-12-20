@@ -3,28 +3,26 @@ title: "サービス スケジュール設定は、Universal Resource Scheduling
 description: "サービス スケジュール設定は、Universal Resource Scheduling によって機能強化されました。"
 author: vippand
 manager: mahesh
-ms.date: 9/07/2018
+ms.date: 11/26/2018
 ms.assetid: 7a4a5614-fe4a-4392-88fb-4a5f0996c65d
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: Annbe
+ms.author: Karthik55217
+ms.reviewer: anjgupta
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 4ec6b4cb325f9dde8e06a1cd2a683beb2067e434
+ms.sourcegitcommit: 566d62b456ff1ad482f7bb4b1a7b423e246cc4b4
+ms.openlocfilehash: 3415b77f1cb548f7122269df1f4bdacb634191ff
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/27/2018
 
 ---
 
 #  <a name="service-scheduling-powered-by-universal-resource-scheduling"></a>Universal Resource Scheduling によって機能強化されたサービス スケジュール設定  
 
 [!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
-
-
-
 
 サービス スケジュール設定を使用すると、従業員、設備、および備品の利用可能性を考慮しながら、リソースの複雑な組み合わせを効率的にスケジュールできます。 従業員の作業負荷が予測可能になることで、サービス品質が改善され、予定を入れ過ぎることもなくなり、顧客やクライアントに対する時間見積の信頼性が確保されます。 
 
@@ -34,4 +32,8 @@ Universal Resource Scheduling (URS) 上に構築された新しいサービス �
 
 > [!div class="mx-imgBorder"]
 > ![Universal Resource Scheduling](media/universal-resource-scheduling.png "Universal Resource Scheduling")
+
+## <a name="resources"></a>リソース
+
+[サービス スケジュール設定ガイド](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/basics-service-service-scheduling)
 

@@ -11,10 +11,10 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: b766eaf6f4e412501b8756ca6f070ce21fcec6cb
+ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
+ms.openlocfilehash: ea0143a3c402cd8d4a171720f9024e3b4c89c1f3
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/08/2018
 
 ---
 #  <a name="adjustments-to-approved-time-expense-and-journal-lines"></a>承認済みの時間、経費、仕訳帳明細行の調整 
@@ -28,7 +28,7 @@ ms.lasthandoff: 10/26/2018
 
 また、あるタスクの時間を、同じプロジェクトの別のタスクまたは同じ顧客の異なるプロジェクトのタスクに再分類することもよくあります。 そのような場合の多くでは、この参照データを変更すると、ERP や会計システムでの帳簿の転記にも影響があります。 この機能では、承認済みの実績に対してこれらの更新を行うことができ、来歴で更新が処理されます。
 
-![](media/adjustments-approved-time-expense-journal-lines-1.png "承認済み経費の調整")
+![承認済み経費の調整](media/adjustments-approved-time-expense-journal-lines-1.png "承認済み経費の調整")
 <!-- Picture 2 -->
 
 

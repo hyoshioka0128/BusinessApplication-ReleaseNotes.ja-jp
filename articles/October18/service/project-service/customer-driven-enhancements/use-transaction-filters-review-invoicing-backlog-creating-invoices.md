@@ -11,10 +11,10 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 0bd46ff906bbc9766b3471909ace33c40d3ba953
+ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
+ms.openlocfilehash: a11652d80f920d4c7f0ea221cdc683ca9331f401
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/08/2018
 
 ---
 #  <a name="use-transaction-filters-to-review-invoicing-backlog-when-creating-invoices"></a>トランザクション フィルターを使用した、請求書作成時の請求バックログのレビュー 
@@ -27,7 +27,8 @@ ms.lasthandoff: 10/26/2018
 Project Service では、プロジェクトで記録されたすべての未請求売上実績から請求書が作成されます。 この機能では、ネイティブの XRM フィルター機能を使用して実績を絞り込み、請求の準備ができているトランザクションをマークできるビューが導入されます。 これにより、プロジェクト マネージャーは顧客への請求項目を期間ごとに制御できるようになります。
 
 > [!div class="mx-imgBorder"]
-> ![](media/use-transaction-filters-review-invoicing-backlog-creating-invoices-1.png "トランザクション フィルターを使用して請求バックログをレビューする")
+> ![トランザクション フィルターを使用して請求バックログをレビューする](media/use-transaction-filters-review-invoicing-backlog-creating-invoices-1.png "トランザクション フィルターを使用して請求バックログをレビューする")
+
 <!-- Picture 1 -->
 
 

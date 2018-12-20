@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 9c9b459a85dd76c916382866e7b7d08986ebe91d
+ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
+ms.openlocfilehash: 52e069f47ea050f222f49c270325387da0516e0d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/08/2018
 
 ---
 
@@ -28,7 +28,7 @@ ms.lasthandoff: 10/26/2018
 統合されたルーティング機能と作業配分機能を使用して、チャット、メッセージング、および Web ポータル チャネルから発生した作業項目を、組織内の複数の顧客サービス サポート チームにルーティングできます。 構成インターフェイスを通じて、エージェントが処理する作業プロファイルを厳密に定義できます。 実行時には、エージェントの能力と利用可能性に基づいて、各エージェントへの作業の流れが自動化されます。
 
 > [!div class="mx-imgBorder"]
-> ![](media/unified-routing-work-distribution-1.png "統合されたルーティングと作業配分の例")
+> ![統合されたルーティングと作業配分の例](media/unified-routing-work-distribution-1.png "統合されたルーティングと作業配分の例")
 <!-- picture -->
 
 

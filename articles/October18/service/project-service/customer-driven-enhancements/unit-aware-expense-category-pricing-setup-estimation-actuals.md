@@ -11,10 +11,10 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 39f5ce5cd6ea1175da11c76bb4269546dbad7eeb
+ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
+ms.openlocfilehash: 031018706b1c6aec6970c7a504e0e78c4fbdc733
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/08/2018
 
 ---
 #  <a name="unit-aware-expense-category-pricing-for-setup-estimation-and-actuals"></a>セットアップ、見積もり、実績に対する出荷単位に対応した経費カテゴリの価格設定 
@@ -33,7 +33,8 @@ ms.lasthandoff: 10/26/2018
 3.  外注の成果物を出荷単位として価格設定し、原価計算できるようにする。 外注の作業を、仕入先側で発生した時間や費用のレベルで詳細に追跡する必要がなく、完了後に仕入先から納品される生産物の単位で追跡すればよい場合は、仕入先の出荷単位を経費カテゴリとしてモデリングし、単位ごとに価格設定できるこの機能が、重要な機能となります。
 
     > [!div class="mx-imgBorder"]
-    > ![](media/unit-aware-expense-category-pricing-setup-estimation-actuals-1.png "単位ごとの価格設定")
+    > ![単位ごとの価格設定](media/unit-aware-expense-category-pricing-setup-estimation-actuals-1.png "単位ごとの価格設定")
+    
 <!-- Picture 4 -->
 
 

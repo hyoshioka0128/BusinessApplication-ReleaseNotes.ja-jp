@@ -1,28 +1,22 @@
 ---
 title: "マーケティング コンテンツのビデオ"
 description: "電子メールやマーケティング ページにマーケティング担当者がビデオを埋め込めるようになりました。"
-keywords: 
-ms.date: 7/22/2018
-ms.service:
-- business-applications
+ms.date: 11/01/2018
+ms.service: business-applications
 ms.topic: article
 ms.assetid: 29a9b90e-cf13-42c1-b8df-94e7afda07d7
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: f7a0ac38ef713b2b71ca860254a48237f3fc094c
+ms.sourcegitcommit: 2fc9f86108ecb8828fb95e6f8ee732f9f433f1a3
+ms.openlocfilehash: 3f3324060420cfa023451b6f0a08751a30237687
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/01/2018
 
 ---
 
 # <a name="videos-in-marketing-content"></a>マーケティング コンテンツのビデオ
-
-[!include[marketing banner](../../includes/marketing.md)]
-
-
 
 活字のコンテンツよりも視聴覚コンテンツを好む消費者が増えていることを受け、企業のマーケティング担当者は、会社のキャンペーンやアウトリーチ戦略にビデオを統合するようになりました。 Dynamics 365 for Marketing では、マーケティング ページや電子メールにビデオ コンテンツを追加するための機能が提供されています。
 
@@ -31,6 +25,14 @@ ms.lasthandoff: 10/26/2018
 Dynamics 365 for Marketing の新しいビデオ機能では、コンテンツにビデオ ブロックが追加されます。 マーケティング ページにビデオを追加するには、デザイナーのツールボックスからビデオ ブロックをドラッグし、目的の場所にドロップして、追加するビデオを選択します。
 
 ![ビデオ ブロックをドラッグしてコンテンツにビデオを埋め込む](media/VideoMarketing.png "ビデオ ブロックをドラッグしてコンテンツにビデオを埋め込む")
+
+## <a name="status"></a>状態
+
+パブリック プレビュー
+
+## <a name="resources"></a>リソース
+
+[ビデオ ライブラリを作成し、デザインにビデオを追加する](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/video-content)
 
 <!--
 ### Who uses this feature

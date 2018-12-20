@@ -1,28 +1,22 @@
 ---
 title: "LinkedIn の深い統合"
 description: "LinkedIn の統合への投資が続けられており、Dynamics 365 for Marketing はプロフェッショナル ネットワークと LinkedIn でのリレーションシップからリードを生成するための緊密な統合を提供します。"
-keywords: 
-ms.date: 7/22/2018
-ms.service:
-- business-applications
+ms.date: 11/01/2018
+ms.service: business-applications
 ms.topic: article
 ms.assetid: 0994039a-5ff0-4b3d-bc47-1e1cd78b242e
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 1dc88504148a851b09492a38720e397f1374bf0f
+ms.sourcegitcommit: 2fc9f86108ecb8828fb95e6f8ee732f9f433f1a3
+ms.openlocfilehash: 347216d4a681d2022fe1efce8bc27cf494b07b17
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/01/2018
 
 ---
 
 # <a name="deep-linkedin-integration"></a>LinkedIn の深い統合
-
-[!include[marketing banner](../../includes/marketing.md)]
-
-
 
 Dynamics 365 for Marketing は、プロフェッショナル ネットワークとリレーションシップからリードを生成するための LinkedIn の深い統合を提供します。 新しい統合機能では、LinkedIn でターゲットを指定した顧客体験を実行し、発生した対話をオーケストレーション、スコアリング、セグメンテーションに利用できます。
 
@@ -30,7 +24,7 @@ LinkedIn の深い統合により次のものがもたらされます。
 
 - アカウント ベースのマーケティングによる LinkedIn での最適化された高品質のエンゲージメント。
 - Dynamics 365 for Marketing 内から育成される有望なリードの生成と、マーケティング投資収益率の向上。
- 
+
 Dynamics 365 for Marketing は、LinkedIn Lead Gen Forms を使用して取得されたリードを既に同期できます。 次の機能を追加することでこの機能を拡張しています。
 
 - Dynamics 365 for Marketing で一致した対象ユーザーと LinkedIn のセグメントを統合します。
@@ -41,6 +35,11 @@ Dynamics 365 for Marketing は、LinkedIn Lead Gen Forms を使用して取得�
 
 ![体験によりターゲットにされる LinkedIn 広告](media/LinkedIn%20Matched%20Audiences.PNG "体験によりターゲットにされる LinkedIn 広告")
 
+## <a name="resources"></a>リソース
+
+- [LinkedIn Matched Audiences による LinkedIn での Dynamics 365 セグメントへのマーケッティング](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/linkedin-matched-audience)
+- [顧客体験のための LinkedIn キャンペーン タイル](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/customer-journey-tiles-reference#linkedin-tile)
+- [LinkedIn Lead Gen Integration](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/linkedin-lead-gen-integration)
 
 <!--
 ### Who uses this feature

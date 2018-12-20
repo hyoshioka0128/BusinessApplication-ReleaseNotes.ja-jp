@@ -11,10 +11,10 @@ ms.technology:
 ms.author: jasongre
 audience: developer, admin, end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 228d1bb94bf3019a1a228b65a5d7091dea0ea296
+ms.sourcegitcommit: 1db70c75920543a1b7c538839e9058609ee85323
+ms.openlocfilehash: a00e4cf74780f9417ceb031dea6d391454908664
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 12/04/2018
 
 ---
 
@@ -28,9 +28,7 @@ ms.lasthandoff: 10/26/2018
 
 - 列挙フィールドをフィルター処理する際に、使用可能な値を表示できます
 
-- [フィルター] ウィンドウまたはグリッド列ヘッダーを通じて、会社間フォーム内の法人をフィルター処理できます
-
 - グリッド列ヘッダーを使用して、より Excel に近い方法でフィルター処理できます
 
-ユーザーは、いっそう簡単にフィルター処理するフィールドを見つけることもできます。
+- ユーザーがいっそう簡単にフィルター処理するフィールドを見つけられる機能
 

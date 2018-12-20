@@ -11,10 +11,10 @@ ms.technology:
 ms.author: shellyha
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 48b99f7d01cb733c89fe75d3bb7e8ae26783437f
+ms.sourcegitcommit: 23952bf26c80bc6abc186a94dc4cea37b7f04432
+ms.openlocfilehash: e12fabaceb1dc1f364c3f9ca2b1c27d4a01ca90d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/14/2018
 
 ---
 #  <a name="summary-of-whats-new-for-dynamics-365-for-field-service-october-18"></a>2018 年 10 月の Dynamics 365 for Field Service の新機能の概要 
@@ -30,17 +30,17 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | 機能                      | リリースの種類         |  日付         |
 |---------------------|----------------------|----------------------------|
 | [Finance and Operations との統合](../field-service/dynamics365-finance-operations-integration.md) | 一般提供 |  2018 年 11 月 |
-| [権利の管理](../field-service/entitlement-management.md)      | 一般提供 |  2018 年 11 月 |
+| [権利の管理](../field-service/entitlement-management.md)      | 一般提供 |  2019 年 1 月 |
 | [複数リソースのスケジューリング (作業指示書向け)](../field-service/multi-resource-scheduling.md) | 一般提供 |  2018 年 11 月 |
-| [SLA 管理](../field-service/sla-management.md)         | 一般提供 |2018 年 11 月 |
+| [SLA 管理](../field-service/sla-management.md)         | 一般提供 |2018 年 12 月 |
 
-## <a name="field-service-mobile-app"></a>Field Service モバイル アプリ
+## <a name="field-service-mobile-app"></a>Field Service Mobile アプリ
 
 | 機能          | リリースの種類   | 日付 |
 |-----------------|----------------|----------------------------|
-| [Microsoft Bot Framework との統合](../field-service/field-service-mobile/microsoft-bot-framework-integration.md) | 一般提供             | 2018 年 11 月          |
-| [バックグラウンドでの位置情報の共有](../field-service/field-service-mobile/background-location-sharing.md) | パブリック プレビュー | 2018 年 11 月 |
-| [プッシュ通知](../field-service/field-service-mobile/push-notifications.md) | パブリック プレビュー | 2018 年 11 月    |
+| [Microsoft Bot Framework との統合](../field-service/field-service-mobile/microsoft-bot-framework-integration.md) | 一般提供             | 2018 年 12 月          |
+| [バックグラウンドでの位置情報の共有](../field-service/field-service-mobile/background-location-sharing.md) | パブリック プレビュー | 2018 年 12 月 |
+| [プッシュ通知](../field-service/field-service-mobile/push-notifications.md) | パブリック プレビュー | 2018 年 12 月    |
 
 ## <a name="universal-resource-scheduling-urs"></a>Universal Resource Scheduling (URS)
 
@@ -54,12 +54,12 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [フルフィルメントの基本設定](../field-service/universal-resource-scheduling-urs/Fulfillment-Preferences.md) | 一般提供 | 2018 年 11 月  |
 | [キャパシティのスケジューリング](../field-service/universal-resource-scheduling-urs/Capacity-Scheduling.md) | 一般提供 | 2018 年 11 月   |
 | [スケジュール ボードの分割ビュー](../field-service/universal-resource-scheduling-urs/Schedule-Board-Split-View.md) | 一般提供 | 2018 年 11 月        |
-| [拡張可能なリソースの空き時間](../field-service/universal-resource-scheduling-urs/extensibility-hook-resource-availability.md)      | パブリック プレビュー       | 2018 年 11 月        |
-| [フォーム内スケジューリング](../field-service/universal-resource-scheduling-urs/in-form-scheduling.md)  | パブリック プレビュー  | 2018 年 11 月  |
+| [拡張可能なリソースの空き時間](../field-service/universal-resource-scheduling-urs/extensibility-hook-resource-availability.md)      | パブリック プレビュー       | 2019 年 1 月        |
+| [フォーム内スケジューリング](../field-service/universal-resource-scheduling-urs/in-form-scheduling.md)  | パブリック プレビュー  | 2019 年 1 月  |
 | [PowerApps サンプル アプリ](../field-service/universal-resource-scheduling-urs/powerapps-sample-app.md) | パブリック プレビュー | 2019 年 1 月 |
-| [セルフサービス スケジュールの API](../field-service/universal-resource-scheduling-urs//self-service-scheduling-apis.md) | パブリック プレビュー       | 2018 年 11 月        |
-| リソース稼働率ビュー     | パブリック プレビュー       | 2018 年 11 月        |
-| [URS のお客様主導による製品機能強化](../field-service/universal-resource-scheduling-urs/urs-customer-driven-product-enhancements.md) | パブリック プレビュー       | 2018 年 11 月        |
+| [セルフサービス スケジュールの API](../field-service/universal-resource-scheduling-urs//self-service-scheduling-apis.md) | パブリック プレビュー       | 2019 年 1 月        |
+| リソース稼働率ビュー     | パブリック プレビュー       | 2019 年 1 月        |
+| [URS のお客様主導による製品機能強化](../field-service/universal-resource-scheduling-urs/urs-customer-driven-product-enhancements.md) | パブリック プレビュー       | 2019 年 1 月        |
 
 ## <a name="connected-field-service-iot"></a>Connected Field Service (IoT)
 

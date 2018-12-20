@@ -3,7 +3,7 @@ title: "モバイル POS の改善"
 description: "この機能により、モバイル POS クライアントのナビゲーションが向上し、受注処理のサポートが追加されます。"
 author: jblucher
 manager: AnnBe
-ms.date: 10/24/2018
+ms.date: 11/02/2018
 ms.assetid: 7b453328-5b4e-423a-90d9-3069f7cc918f
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: jeffbl
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: ee8657e3fef9112d4ac0bb30c9943d5f1894a764
+ms.sourcegitcommit: d97ce621f72ef6df872dea08e14e17513dd7cf94
+ms.openlocfilehash: 57443640049a671f9c92a012d37d2c8bb2c5e141
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/07/2018
 
 ---
 
@@ -47,7 +47,7 @@ ms.lasthandoff: 10/26/2018
 
 
 > [!div class="mx-imgBorder"]
-> ![モバイル注文のフルフィルメント - タイル(../../media/mobile-order-fulfillment1.JPG "")
+> ![モバイル注文のフルフィルメント - タイル](../../media/mobile-order-fulfillment1.JPG "")
 
 > [!div class="mx-imgBorder"]
 > ![モバイル注文のフルフィルメント - 行](../../media/mobile-order-fulfillment2.JPG "")

@@ -3,7 +3,7 @@ title: "ビジネス エリア全体で簡素化されたワークフロー"
 description: "さまざまな一般的なユーザー タスクがより簡単になりました。"
 author: bnielse
 manager: edupont04
-ms.date: 10/16/2018
+ms.date: 11/07/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,16 +11,16 @@ ms.technology:
 ms.author: bnielse
 audience: developer, admin, end user, customizer, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 299f98a5b8c34b3c10196697e8eddcb51d62277a
+ms.sourcegitcommit: cdbe692282951665ec1a0d55010d4adbeddb1cba
+ms.openlocfilehash: 848e07d6bb4043fd2fbee1f753b73e3e94fc9b4c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/07/2018
 
 ---
 
 # <a name="simpler-workflows-across-business-areas"></a>ビジネス エリア全体で簡素化されたワークフロー
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 ## <a name="simplified-payment-process"></a>簡略化された支払プロセス
 
@@ -29,7 +29,8 @@ ms.lasthandoff: 10/26/2018
 * 未処理の仕入先請求書の表示。 支払うものの選択。 支払仕訳帳の自動記入。
 * 未処理の顧客請求書の表示、支払受け取りの選択。 現金領収仕訳帳の自動記入。
 
-ヘルプ リンク: https://docs.microsoft.com/en-us/dynamics365/business-central/receivables-how-reconcile-customer-payments-list-unpaid-sales-documents#to-register-customer-payments-individually
+### <a name="resources"></a>リソース
+https://docs.microsoft.com/en-us/dynamics365/business-central/receivables-how-reconcile-customer-payments-list-unpaid-sales-documents#to-register-customer-payments-individually
 
 ## <a name="simplified-journals"></a>簡略化された仕訳帳
 
@@ -65,7 +66,8 @@ ms.lasthandoff: 10/26/2018
 
 ユーザーは、詳細な損益計算書や要約損益計算書など、同じ財務レポートのわずかに異なるバージョンを実行することがよくあります。 会計スケジュール ページにコピー アクションが追加され、ユーザーは会計スケジュールを最初から作成するのではなく、会計スケジュールをコピーして編集できるので、多くの時間を節約できます。 また、"システム" 会計スケジュールに関する警告がダイアログに変更されたため、ユーザーは "システム" 会計スケジュールを確認するかコピーを編集するかを決定することができます。
 
-ヘルプ リンク: https://docs.microsoft.com/en-us/dynamics365/business-central/bi-how-work-account-schedule
+### <a name="resources"></a>リソース
+https://docs.microsoft.com/en-us/dynamics365/business-central/bi-how-work-account-schedule
 
 ## <a name="check-avail-period-calc-setting-is-not-needed-for-basic-available-to-order-scenarios"></a>利用可能な期間の計算の確認の設定が基本的な注文可能シナリオには必要ない
 

@@ -3,7 +3,7 @@ title: "従業員福利厚生の機能強化"
 description: "この機能は、福利厚生管理者による福利厚生の構成を簡単にします。"
 author: josaw1
 manager: AnnBe
-ms.date: 07/22/2018
+ms.date: 11/09/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +11,10 @@ ms.technology:
 ms.author: josaw
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
-ms.openlocfilehash: 1d02c85339a71a3e5993f4e16785cb1d4fab40da
+ms.sourcegitcommit: 8a07a5bfe460bf829e6283d98d02c66ec1e9ff34
+ms.openlocfilehash: cd79f737209ec01a6e84e48066984a1a2083bed9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/16/2018
+ms.lasthandoff: 11/09/2018
 
 ---
 
@@ -26,7 +26,7 @@ ms.lasthandoff: 08/16/2018
 
 ## <a name="streamline-compliance"></a>コンプライアンスの合理化
 
-**ACA レポート** – 1094B および 1095C フォームを電子的に提出するだけでなく、HR は 1095B および 1095C フォームを印刷して従業員と IRS に配布できます。
+**ACA レポート** – HR は 1095B および 1095C フォームを印刷して従業員と IRS に配布できます。
 
 <!--
 ### Who uses this feature

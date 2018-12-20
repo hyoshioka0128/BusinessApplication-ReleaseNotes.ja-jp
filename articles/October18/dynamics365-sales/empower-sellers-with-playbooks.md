@@ -2,7 +2,7 @@
 title: "イベント駆動型営業活動によってガイドされるプレイブックでの販売担当者の支援"
 description: "イベント駆動型営業活動によってガイドされるプレイブックでの販売担当者の支援"
 keywords: 
-ms.date: 7/22/2018
+ms.date: 11/08/2018
 ms.service:
 - business-applications
 ms.topic: article
@@ -11,10 +11,10 @@ author: Annbe
 ms.author: Annbe
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 7e148ed093f750dc5ea479610bc0cedc42ee134b
+ms.sourcegitcommit: 188023697985845a5601af70f49d225751e60d91
+ms.openlocfilehash: 236c1b895fc974bae7bd505863a0dde1ed137a97
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/09/2018
 
 ---
 
@@ -39,3 +39,6 @@ Dynamics 365 for Sales では**プレイブック**が導入されています�
 -   特定のシナリオに対するプレイブックを探して開始します。
 -   実行しているプレイブックのステータスの進行状況で結果が成功かどうかを追跡します。
 
+## <a name="resources"></a>リソース
+
+[プレイブックでのベスト プラクティスの適用](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/sales-enterprise/enforce-best-practices-playbooks)

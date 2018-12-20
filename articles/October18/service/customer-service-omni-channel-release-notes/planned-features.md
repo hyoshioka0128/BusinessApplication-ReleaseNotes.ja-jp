@@ -2,7 +2,7 @@
 title: "Dynamics 365 Omni-channel Engagement Hub の新機能の概要"
 description: "Omni-channel Engagement Hub リリース ノート"
 keywords: 
-ms.date: 8/15/2018
+ms.date: 11/03/2018
 ms.service:
 - business-applications
 ms.topic: summary
@@ -11,10 +11,10 @@ author: krbjoran
 ms.author: krbjoran
 manager: shellyhaverkamp
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: a61b9127a55c20799ce868645574c224ab3018db
+ms.sourcegitcommit: 7722f91b7ada3034b43cdc1d76fc70bc7bb073c5
+ms.openlocfilehash: 1834d97c1b0ac2d0943b45d9d183dc1294a0a31b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/05/2018
 
 ---
 
@@ -33,7 +33,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [エージェントおよびスーパーバイザーのエクスペリエンス](agent-supervisor-experiences.md)                    | パブリック プレビュー | 2018 年 12 月         |
 | [統合されたルーティングと作業の配分](unified-routing-work-distribution.md)          | パブリック プレビュー | 2018 年 12 月         |
 | [ライブ チャット チャネル](chat-channel-omni-channel-engagement-hub.md)                                | パブリック プレビュー | 2018 年 12 月         |
-| [SMS チャネル](sms-channel-omni-channel-engagement-hub.md)                                  | パブリック プレビュー | 2018 年 12 月         |
-| [Channel Integration Framework](channel-integration-framework.md)                      | 一般提供 | 2018 年 10 月         |
-| [お客様が自分のボットを持ち込める機能](customer-owned-bots-omni-channel-engagement-hub.md) | パブリック プレビュー | 2018 年 12 月         |
+| [SMS チャネル](sms-channel-omni-channel-engagement-hub.md)                                  | パブリック プレビュー | 2019 年 2 月         |
+| [Channel Integration Framework](channel-integration-framework.md)                      | 一般提供 | 2018 年 11 月         |
+| [お客様が自分のボットを持ち込める機能](customer-owned-bots-omni-channel-engagement-hub.md) | パブリック プレビュー | 2019 年 1 月         |
 

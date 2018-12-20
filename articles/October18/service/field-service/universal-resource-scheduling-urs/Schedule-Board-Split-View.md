@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: cee89e6febd19f8c621550765c4db2056a10b56a
+ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
+ms.openlocfilehash: 10abde736803d60ffc43ab1e5334eed277d22979
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/08/2018
 
 ---
 
@@ -38,13 +38,13 @@ ms.lasthandoff: 10/26/2018
 スケジュール ボードを 2 つに分割します。 下半分は、スタッフとそのすべてのメンバー、プールとそのメンバー、または同じ職務に従事するように割り当てられているリソースのセットの表示専用にすることができます。
 
 > [!div class="mx-imgBorder"]
-> ![](media/Crew-in-Split-View.png "スケジュール ボード上のスタッフ")
+> ![分割スケジュール ボードにスタッフが表示されたスケジュール ボード](media/Crew-in-Split-View.png "スケジュール ボード上のスタッフ")
 <!-- picture -->
 
 *分割スケジュール ボードにスタッフが表示されたスケジュール ボード*
 
 > [!div class="mx-imgBorder"]
-> ![](media/Split-Schedule-Board-Grouped-Bookings.png "同じ要件グループで作業しているリソースが表示された分割スケジュール ボード")
+> ![同じ要件グループで作業しているリソースが表示された分割スケジュール ボード](media/Split-Schedule-Board-Grouped-Bookings.png "同じ要件グループで作業しているリソースが表示された分割スケジュール ボード")
 <!-- picture -->
 
 *同じ要件グループで作業しているリソースが表示された分割スケジュール ボード*

@@ -3,7 +3,7 @@ title: "ソリューション チェッカーを使用した高品質なモデ�
 description: "PowerApps プラットフォームのカスタマイズと拡張に関するベスト プラクティスを実行します"
 author: aheaney
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/26/2018
 ms.assetid: 041c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,13 +12,13 @@ ms.technology:
 ms.author: aheaney
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 34599b6150d1df7f32aeeb86ff2ba3eb16df3834
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: 655434db2d8714f55d8230453a330627697eebee
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/30/2018
 
 ---
-# <a name="build-model-driven-apps-of-higher-quality-with-solution-checker"></a>ソリューション チェッカーを使用した高品質なモデル駆動型アプリの構築
+# <a name="build-model-driven-apps-of-higher-quality-with-solution-checker-public-preview"></a>ソリューション チェッカーを使用した高品質なモデル駆動型アプリの構築 (パブリック プレビュー)
 
 
 [!include[banner](../../includes/banner.md)]

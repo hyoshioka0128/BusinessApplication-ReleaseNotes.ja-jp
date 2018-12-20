@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 4d97559e1d6e913ad90a38924531616ea3cd4492
+ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
+ms.openlocfilehash: 330e5cf91f11e571c5cc3279174c041206f7ffbe
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/08/2018
 
 ---
 
@@ -40,7 +40,7 @@ ms.lasthandoff: 10/26/2018
         * フォーカス ルームでの個人指導
 
 > [!div class="mx-imgBorder"]
-> ![](media/Facility-Scheduling.png "設備のスケジューリング")
+> ![設備でのスケジューリング](media/Facility-Scheduling.png "設備のスケジューリング")
 <!-- picture -->
 
 *設備でのスケジューリング*

@@ -3,7 +3,7 @@ title: "オンプレミス展開の機能強化"
 description: "オンプレミス展開の機能強化"
 author: Annbe
 manager: AnnBe
-ms.date: 09/12/2018
+ms.date: 11/13/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,21 +11,27 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: d660cd5c4402f151ce1486ffa8a10d1f471c1967
+ms.sourcegitcommit: 900d2dcf085155dfffe75c6f8385efb6552026d8
+ms.openlocfilehash: 4e7de6fbbb00da469f09592b4899c6ac98fdc465
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/14/2018
 
 ---
 #  <a name="on-premises-deployment-enhancements"></a>オンプレミス展開の機能強化
 
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
-
-
-
 Dynamics 365 for Finance and Operations のオンプレミス展開オプションは、セットアップ、操作、監視、サービスの簡素化に重点を置いて多くの領域が強化されました。
 
-Finance and Operations 8.1 リリースは、11 月のオンプレミス展開で利用可能になります。 このリリースには、クラウドの 8.1 で利用可能なすべての機能強化が含まれます。 このリリースでは Retail も利用可能になります。 サポートされていない機能の一覧は、「[オンプレミス展開で実装されていない機能](https://docs.microsoft.com/en-us/dynamics365/unified-operations/fin-and-ops/get-started/features-not-implemented-on-prem)」に一覧されている内容と同じままです。
+Finance and Operations 8.1 リリースが、オンプレミス展開で利用できるようになりました。 このリリースには、クラウドの 8.1 で利用可能なすべての機能強化が含まれます。 このリリースでは Retail も利用できます。 詳細については、次のコンテンツを参照してください。
+
+- [オンプレミス配置のホーム ページ](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/deployment/on-premises-deployment-landing-page)
+- [オンプレミス環境の設定と配置 (Platform update 12 以降)](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/deployment/setup-deploy-on-premises-pu12)
+- [オンプレミス展開で実装されていない機能](https://docs.microsoft.com/en-us/dynamics365/unified-operations/fin-and-ops/get-started/features-not-implemented-on-prem)
+- [オンプレミス配置で使用できる小売機能](https://docs.microsoft.com/dynamics365/unified-operations/retail/retail-onprem)
+- [オンプレミス環境での小売チャネルのコンポーネントのインストール手順](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/deployment/deploy-retail-onprem)
+- [Retail Modern POS (MPOS) の設定、インストール、および有効化](https://docs.microsoft.com/dynamics365/unified-operations/retail/retail-modern-pos-device-activation)
+- [Retail Store Scale Unit の構成とインストール](https://docs.microsoft.com/dynamics365/unified-operations/retail/dev-itpro/retail-store-scale-unit-configuration-installation)
+
+
 
 
 

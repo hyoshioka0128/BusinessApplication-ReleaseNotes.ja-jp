@@ -1,21 +1,22 @@
 ---
 title: "構成の移行"
-description: "環境の間で Dynamics 365 Portal の構成を移行します"
+description: "環境の間で Dynamics 365 ポータルの構成を移行します"
 author: sandhangitmsft
-manager: ramalingamkrishnan
-ms.date: 7/22/2018
+manager: rycu
+ms.date: 11/20/2018
 ms.assetid: f454a2d3-c047-4a57-8a9f-7ddf38781971
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: sandhan
+ms.reviewer: shjais
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 7e0954b5f4a23af4780aa48b1b609c68fc7ae6e3
-ms.openlocfilehash: 589c266f81868780f660f9c174dc5538728174ef
+ms.sourcegitcommit: e35bcf943f7257d057015b8535340025f4e76c30
+ms.openlocfilehash: 6d8652bcf7c057524a81f89745a9afe7564b3e0f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/20/2018
+ms.lasthandoff: 11/21/2018
 
 ---
 # <a name="configuration-migration"></a>構成の移行
@@ -32,24 +33,12 @@ Configuration Migration SDK ツールのすべての機能をこのスキーマ�
  - **データのエクスポート**: スキーマ ファイルを使用して環境から .zip ファイルにデータをエクスポートし、バックアップ、ソース管理、またはターゲット環境へのインポートに使用します。
  - **データのインポート**: エクスポートされたデータを使用して、ターゲット環境にインポートします。
 
-ポータル構成を移行する方法については、詳細なドキュメント「[Dynamics 365 Portal の構成を移行する](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/portals/migrate-portal-configuration)」を参照してください
-
-<!--
-### Who uses this feature
-This feature is intended for administrators and customizers who need to migrate their portal configuration between environments.
-## Status
-### Development status
-Generally available
-#### Target timeframe
-October 2018
-### Availability
-Cloud
-### Regional availability
-Global
--->
 
 ## <a name="wed-like-to-thank"></a>謝辞
 
 優先順位付けに役立つ投票とコメントを[このアイデア](https://experience.dynamics.com/ideas/idea/?ideaid=b75ece29-1481-e611-80c1-00155d460f3c)にお送りいただき、ありがとうございました。
 
+## <a name="resources"></a>リソース
+
+[Dynamics 365 ポータルの構成の移行](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/portals/migrate-portal-configuration)
 

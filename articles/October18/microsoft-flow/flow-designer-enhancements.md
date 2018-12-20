@@ -1,9 +1,9 @@
 ---
 title: "新しい Microsoft Flow ポータルとデザイナー エクスペリエンス"
-description: "デザイナーの内部でのナビゲーションおよび検索アクション用の新しい Microsoft Flow エクスペリエンス。 これには、リッチ テキスト電子メール用の新しい HTML エディターによる編集機能の向上が含まれます。"
+description: "デザイナーの内部でのナビゲーションおよび検索アクション用の新しい Microsoft Flow エクスペリエンス。"
 author: sunayv
 manager: KVivek
-ms.date: 10/20/2018
+ms.date: 11/20/2018
 ms.assetid: 4f7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,16 +12,16 @@ ms.technology:
 ms.author: sunayv
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: f569a3691cc7c3ac3d76ea67aaef6a06ce12ceef
-ms.openlocfilehash: 3de0bdba57cb0d446ed27d55a9887f135019cbf8
+ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
+ms.openlocfilehash: 3b237595c6354b2e614a344523f8d4ab7dd8a54a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/27/2018
+ms.lasthandoff: 11/30/2018
 
 ---
-# <a name="new-flow-portal-and-designer-experience"></a>新しい Flow ポータルとデザイナー エクスペリエンス
+# <a name="new-microsoft-flow-portal-and-designer-experience"></a>新しい Microsoft Flow ポータルとデザイナー エクスペリエンス
 
 
-[!include[banner](../../includes/banner.md)]
+
 
 10 月のリリースの一環として、Microsoft Flow ポータルとデザイナーのエクスペリエンスのいくつかの重要な側面をオーバーホールしています。
 
@@ -66,14 +66,3 @@ Microsoft Flow ポータルには、さまざまな重要ページを見つけ�
 
 > [!div class="mx-imgBorder"]
 > ![コントロール コネクタ](media/flow-ui-enhancements-5.png "コントロール コネクタ")
-
-
-## <a name="edit-rich-html-content"></a>豊富な HTML コンテンツの編集 
-
-HTML ベースの電子メール、Yammer 投稿用の HTML コンテンツ、ツイートなどの作成に役立ちつ新しいリッチな HTML ベースのテキスト エディターを追加しました。 
-
-> [!div class="mx-imgBorder"]
-> ![HTML エディター](media/flow-ui-enhancements-6.png "HTML エディター")
-
-このエディターでは、フォントのカスタマイズ、太字、イタリック、下線の使用、色のカスタマイズ、リストやリンクの作成を行うことができます。 現時点では、表などの高度な機能はサポートしていません。
-

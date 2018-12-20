@@ -12,10 +12,10 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: d147911c812f4fe3e48dfd2eadfbf84a4b8bfca7
+ms.sourcegitcommit: 2d040370f154c5099639e29ffab6ef539d498699
+ms.openlocfilehash: 8ecf37a76530b2dedb7e3d475823f3fb08084e9c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 12/09/2018
 
 ---
 
@@ -25,18 +25,18 @@ ms.lasthandoff: 10/26/2018
 
 [![背景イメージ 1](../media/Landing-page-image-october2018.png)](https://go.microsoft.com/fwlink/p/?linkid=2005971)
 
-[2018 年 10 月リリース ノート PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2005971) (最終更新日 2018/10/26)
+[2018 年 10 月リリース ノート PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2005971) (最終更新日 2018/12/7)
 
-Microsoft のビジネス アプリケーション リリース 2018 年 10 月ウェーブでは、ビジネスを変革するための重要な機能が提供されています。 これらの新しいサービスや機能は、2018 年 10 月から提供開始となります。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+Microsoft のビジネス アプリケーション リリース 2018 年 10 月ウェーブでは、ビジネスを変革するための重要な機能が提供されています。 これらの新しいサービスや機能は、2018 年 10 月から提供開始となります。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
-- **Dynamics 365 アプリケーションの機能強化**には数百もの新機能が含まれており、その対象範囲としては、Sales、Marketing、Customer Service、Portals、Omni-channel Engagement Hub、Field Service、Project Service、Social Engagement、Finance and Operations、Talent、Retail、および Business Central がカバーされています。 今リリースでは、Microsoft レイアウトと Microsoft リモート アシストを使用して、新しい複合現実エクスペリエンスが導入されています。
+- **Dynamics 365 アプリケーションの機能強化**には数百もの新機能が含まれており、その対象範囲としては、Sales、Marketing、Customer Service、ポータル、Omni-channel Engagement Hub、Field Service、Project Service、Social Engagement、Finance and Operations、Talent、Retail、および Business Central がカバーされています。 今リリースでは、Microsoft レイアウトと Microsoft リモート アシストを使用して、新しい複合現実エクスペリエンスが導入されています。
 
 - **新しいインテリジェンス アプリケーション**では、Microsoft Research が数十年にわたって開発してきた AI 技術によって、Dynamics 365 のインテリジェンス機能がさらに強化されています。 お客様は、新しい Dynamics 365 AI for Sales アプリケーションを使用して、営業のパフォーマンスとプランニングを強化することができます。 
 
-- **新しい Power Platform** 機能では、Power BI、PowerApps、Microsoft Flow、アプリ用 Common Data Service、および Power BI のデータフローを充実したツール内に統合して、Dynamics 365 と Office 365 を拡張、カスタマイズ、統合することができます。 
+- **新しい Power プラットフォーム**機能では、Power BI、PowerApps、Microsoft Flow、アプリ用 Common Data Service、および Power BI のデータフローを充実したツール内に統合して、Dynamics 365 と Office 365 を拡張、カスタマイズ、統合することができます。 
 
 
-- **データ統合**は、Power Platform やその他のプラットフォームへの組み込み接続を提供し、数百ものビジネス システムのデータを使用して、充実したインテリジェントなエクスペリエンスを実現します。 Common Data Model は、Dynamics 365、アプリ用 Common Data Service、および Power BI データフローの間に正規ビジネス エンティティのセマンティック面での一貫性を提供し、アプリケーション開発者、ISV パートナー、インテグレーターにとっての価値を高め、時間を短縮します。
+- **データ統合**は、Power プラットフォームやその他のプラットフォームへの組み込み接続を提供し、数百ものビジネス システムのデータを使用して、充実したインテリジェントなエクスペリエンスを実現します。 Common Data Model は、Dynamics 365、アプリ用 Common Data Service、および Power BI データフローの間に正規ビジネス エンティティのセマンティック面での一貫性を提供し、アプリケーション開発者、ISV パートナー、インテグレーターにとっての価値を高め、時間を短縮します。
 
 - **他の Microsoft 製品との統合もより緊密化**され、Dynamics 365 や Microsoft Outlook、Teams、SharePoint、Stream、Azure、および LinkedIn と連携したシームレスなエクスペリエンスが実現しています。 Dynamics 365 は、Office 365 や Bing から送られたデータや信号との連携性においても機能強化されています。
 

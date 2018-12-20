@@ -1,29 +1,26 @@
 ---
 title: "関連性検索が Dynamics 365 for Customer Service のナレッジ マネージメントでどのように動作するかの確認"
 description: "関連性検索機能を使用して Customer Service で検索語句の一致をハイライト表示すると、エージェントが最も関連性の高い記事をすばやく選択するのにどのように役立つかを理解します"
-author: vippand
-manager: mahesh
-ms.date: 7/22/2018
+ms.date: 11/26/2018
 ms.assetid: 30824d83-e8a9-4c0e-b19e-b08e4d628d2f
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: Annbe
+ms.author: Karthik55217
+ms.reviewer: anjgupta
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 07a3af6ecfc8644fdd32bfd8158f99964759ff04
+ms.sourcegitcommit: 566d62b456ff1ad482f7bb4b1a7b423e246cc4b4
+ms.openlocfilehash: 691b1b5b22d79d8b7c7f0a4d93a9fef342335e8d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/27/2018
 
 ---
+
 #  <a name="relevance-search-for-knowledge-management"></a>ナレッジ マネージメントの関連性検索 
 
 [!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
-
-
-
 
 Dynamics 365 サポート情報の検索コントロールは、サポート案件管理のコンテキスト内でエージェントにナレッジを提供します。 関連性検索を利用して、パフォーマンスと精度が向上した結果が提供されるようになりました。 
 
@@ -33,4 +30,7 @@ Dynamics 365 サポート情報の検索コントロールは、サポート案�
 
 この機能は、既に使用可能になっている Web クライアントに加えて、統一インターフェイス顧客サービス ハブ アプリでも使用可能になりました。
  
+## <a name="resources"></a>リソース
+
+[関連性検索を使用してサポート情報記事を検索する](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/customer-service-hub-user-guide-case-sla#search-for-knowledge-articles)
 
