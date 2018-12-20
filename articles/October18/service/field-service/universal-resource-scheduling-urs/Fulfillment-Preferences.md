@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: c0b8cbaece3b2a27257d46db87c0c42efd730dd3
+ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
+ms.openlocfilehash: 333d2399838c87721824066ace25ebe4e96628ad
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/08/2018
 
 ---
 
@@ -36,7 +36,7 @@ ms.lasthandoff: 10/26/2018
 
   - 電話のスケジュール
 
-- **時間グループ** - スケジュールに使用できる時間ウィンドウを示します (9 ～ 12 時、12 ～ 3 時、3 ～ 6 時など)。
+- **時間グループ** - スケジュールに使用できる時間ウィンドウを示します (9 - 12 時、12 - 3 時、3 - 6 時など)。
 
   - 空調修理
 
@@ -47,13 +47,13 @@ ms.lasthandoff: 10/26/2018
 - **上位の結果だけを表示する** - 時間グループまたは間隔に関して冗長と思われる結果を制限することで、スケジュール画面を整理します。
 
 > [!div class="mx-imgBorder"]
-> ![](media/Time-Group-Details.png "時間グループの詳細")
+> ![ウィンドウに分割された結果を表示するスケジュール アシスタント](media/Time-Group-Details.png "時間グループの詳細")
 <!-- picture -->
 
 *ウィンドウに分割された結果を表示するスケジュール アシスタント*
 
 > [!div class="mx-imgBorder"]
-> ![](media/Intervals-on-the-hour.png "間隔")
+> ![間隔スケジュール設定の一部として時間の結果を表示するスケジュール アシスタント](media/Intervals-on-the-hour.png "間隔")
 <!-- picture -->
 
 *間隔スケジュール設定の一部として時間の結果を表示するスケジュール アシスタント*

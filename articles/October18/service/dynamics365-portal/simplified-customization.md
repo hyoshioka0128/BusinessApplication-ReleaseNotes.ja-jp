@@ -2,20 +2,21 @@
 title: "簡略化されたカスタマイズ"
 description: "簡略化されたカスタマイズ"
 author: sandhangitmsft
-manager: ramalingamkrishnan
-ms.date: 07/22/2018
+manager: rycu
+ms.date: 11/20/2018
 ms.assetid: 24130fe3-f2bc-4d5b-9019-088b8717f913
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: sandhan
+ms.reviewer: shjais
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 5958cf8ce4a7ad173b43618c9a8917a55b4ce024
+ms.sourcegitcommit: e35bcf943f7257d057015b8535340025f4e76c30
+ms.openlocfilehash: 519415da2371638468807cced7d2a18ddeaed2e0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/21/2018
 
 ---
 #  <a name="simplified-customization"></a>簡略化されたカスタマイズ
@@ -25,7 +26,7 @@ ms.lasthandoff: 10/26/2018
 
 
 
-Dynamics 365 Portal のカスタマイズを簡略化するため、ポータルのカスタマイズ担当者と管理者の各ペルソナ用に機能強化が図られました。 直感的なエクスペリエンスによって、複雑なデータ モデルを抽象化し、ポータル カスタマイズの習得難度を緩和することで、ユーザー生産性の向上が図られています。 また、ペルソナに特化したツールが提供されることで、今後のリリースでのエクスペリエンス改善に向けた基盤が構築されることになります。
+Dynamics 365 ポータルのカスタマイズを簡略化するため、ポータルのカスタマイズ担当者と管理者の各ペルソナ用に機能強化が図られました。 直感的なエクスペリエンスによって、複雑なデータ モデルを抽象化し、ポータル カスタマイズの習得難度を緩和することで、ユーザー生産性の向上が図られています。 また、ペルソナに特化したツールが提供されることで、今後のリリースでのエクスペリエンス改善に向けた基盤が構築されることになります。
 
 カスタマイズ担当者と管理者には、次のメリットがもたらされます。
 
@@ -48,4 +49,7 @@ Cloud
 Global
 -->
 
+## <a name="resources"></a>リソース
+
+[新しいポータル コンテンツ エディターに関する入門情報](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/portals/portal-new-content-editor)
 

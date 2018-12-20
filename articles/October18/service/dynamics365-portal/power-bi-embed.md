@@ -1,21 +1,22 @@
 ---
-title: "Dynamics 365 Portal への Power BI ビジュアル化の埋め込み"
+title: "Dynamics 365 ポータルへの Power BI ビジュアル化の埋め込み"
 description: "ポータルのページに Power BI のビジュアル化を埋め込みます。"
 author: neerajnandwana-ms
-manager: ramalingamkrishnan
-ms.date: 09/06/2018
+manager: rycu
+ms.date: 11/20/2018
 ms.assetid: e2a02c53-de53-4890-9a21-73cf97965494
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: nenandw
+ms.reviewer: shjais
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 68dd102a69ff83d447c451084a755c4c7fe7447e
+ms.sourcegitcommit: e35bcf943f7257d057015b8535340025f4e76c30
+ms.openlocfilehash: 6a2dc97be2d85b05349f226a2f74d6ccf79c903a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/21/2018
 
 ---
 # <a name="embed-power-bi-visualizations"></a>Power BI のビジュアル化の埋め込み
@@ -24,7 +25,7 @@ ms.lasthandoff: 10/26/2018
 
 [Power BI](https://powerbi.microsoft.com) は、シンプルな対話型のビジュアル化によって分析情報を提供する最も優れたツールの 1 つです。 ポータル ユーザーに対して有効にする Power BI の機能とユース ケースの検討において、この機能は現在も最も投票数の多いアイデアの 1 つです。
 
-現在、ポータルへの安全な Power BI レポートの埋め込みは複雑な作業です。 これには、セキュリティ トークンを処理および管理するためのカスタム ロジックの作成が含まれます。 この機能により、Dynamics 365 Portal と Power BI の統合が合理化されます。 
+現在、ポータルへの安全な Power BI レポートの埋め込みは複雑な作業です。 これには、セキュリティ トークンを処理および管理するためのカスタム ロジックの作成が含まれます。 この機能により、Dynamics 365 ポータルと Power BI の統合が合理化されます。 
 
 ## <a name="enable-power-bi"></a>Power BI の有効化
 
@@ -53,7 +54,7 @@ Power BI レポートまたはダッシュボードのパス。 Power BI レポ�
 
 Power BI レポートまたはダッシュボードに必要な認証の種類。 このパラメーターの有効な値は **Anonymous** または **AAD** です。 既定値は **Anonymous** です。
 
-セキュリティ保護された Power BI レポートまたはダッシュボードを追加する場合は、Dynamics 365 Portal Azure Active Directory の認証済みユーザーと共有されていることを確認します。 
+セキュリティ保護された Power BI レポートまたはダッシュボードを追加する場合は、Dynamics 365 ポータル Azure Active Directory の認証済みユーザーと共有されていることを確認します。 
 
 ```
 {% powerbi authentication_type:"AAD" path:"https://app.powerbi.com/groups/00000000-0000-0000-0000-000000000000/reports/00000000-0000-0000-0000-000000000001/ReportSectionc01" %}
@@ -64,7 +65,7 @@ Power BI レポートまたはダッシュボードに必要な認証の種類�
 ダッシュボードの指定されたタイルを表示します。 タイルの ID を指定する必要があります。
 
 ```
-{% powerbi authentication_type:"AAD" path:"https://app.powerbi.com/groups/00000000-0000-0000-0000-000000000000/dashboards/00000000-0000-0000-0000-000000000001" tileid:"0000005" %}
+{% powerbi authentication_type:"AAD" path:"https://app.powerbi.com/groups/00000000-0000-0000-0000-000000000000/dashboards/00000000-0000-0000-0000-000000000001" tileid:"00000000-0000-0000-0000-000000000002" %}
 ```
 
 
@@ -91,4 +92,8 @@ This feature will be available globally.
 ## <a name="wed-like-to-thank"></a>謝辞
 
 優先順位付けに役立つ投票とコメントを[このアイデア](https://experience.dynamics.com/ideas/idea/?ideaid=76fe3c62-62ea-e611-80c1-00155d460d59)にお送りいただき、ありがとうございました。
+
+## <a name="resources"></a>リソース
+
+[Power BI 統合の設定](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/portals/set-up-power-bi-integration)
 

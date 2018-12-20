@@ -1,23 +1,24 @@
 ---
-title: "Dynamics 365 Portal の新機能の概要"
-description: "2018 年 10 月の Dynamics 365 Portal の概要"
-author: krbjoran
-manager: shellyhaverkamp
-ms.date: 08/15/2018
+title: "Dynamics 365 ポータルの新機能の概要"
+description: "2018 年 10 月の Dynamics 365 ポータルの概要"
+author: dileeps
+manager: rycu
+ms.date: 11/20/2018
 ms.topic: summary
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: krbjoran
+ms.author: dileeps
+ms.reviewer: shjais
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 24cb157d35b4664ea67f44de03cd3323776d3868
+ms.sourcegitcommit: e35bcf943f7257d057015b8535340025f4e76c30
+ms.openlocfilehash: da753f99a4ecb7640b2830dc72de1d80513be323
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/21/2018
 
 ---
-#  <a name="summary-of-whats-new-in-dynamics-365-portal"></a>Dynamics 365 Portal の新機能の概要
+#  <a name="summary-of-whats-new-in-dynamics-365-portal"></a>Dynamics 365 ポータルの新機能の概要
 
 リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
@@ -28,13 +29,13 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 
 | 機能                                                                           | リリースの種類   | 日付 |
 |-----------------------------------------------------------------------------------|----------------|----------------------|
-| [構成の移行](configuration-migration.md)                           | 一般提供             | 2018 年 10 月          |
-| [Power BI のビジュアル化の埋め込み](power-bi-embed.md)                              | 一般提供            | 2018 年 10 月          |
-| [IP アドレスからポータルへのアクセスの制限](restrict-portal-access-by-ip-address.md) | 一般提供            | 2018 年 10 月          |
-| [SharePoint ドキュメントの管理](sharepoint-integration.md)                        | 一般提供             | 2018 年 10 月          |
-| [簡略化されたカスタマイズ](simplified-customization.md)                         | パブリック プレビュー | 2018 年 10 月          |
+| [構成の移行](configuration-migration.md)                           | 一般提供             | 2018 年 10 月 22 日          |
+| [Power BI のビジュアル化の埋め込み](power-bi-embed.md)                              | 一般提供            | 2018 年 10 月 22 日          |
+| [IP アドレスからポータルへのアクセスの制限](restrict-portal-access-by-ip-address.md) | 一般提供            | 2018 年 10 月 22 日          |
+| [SharePoint ドキュメントの管理](sharepoint-integration.md)                        | 一般提供             | 2018 年 10 月 22 日          |
+| [簡略化されたカスタマイズ](simplified-customization.md)                         | パブリック プレビュー | 2018 年 10 月 22 日          |
 | [セルフサービス ポータル診断](self-service-portal-diagnostics.md)           | 一般提供             | 2019 年 1 月          |
-| [ステータスに対して投票を有効にする](enable-voting-for-status-reasons.md)         | 一般提供       | 2018 年 10 月 |
+| [ステータスに対して投票を有効にする](enable-voting-for-status-reasons.md)         | 一般提供       | 2018 年 10 月 22 日 |
 
 
 

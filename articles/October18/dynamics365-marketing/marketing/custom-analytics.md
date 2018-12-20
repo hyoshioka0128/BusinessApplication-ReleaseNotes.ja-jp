@@ -1,26 +1,22 @@
 ---
 title: "Marketing Insights アプリ"
 description: "Marketing Insights は、マーケティング イニシアチブ全体で作成される多様なデータと通信を収集、管理、分析し、マーケティング担当者がキャンペーンの対象にしてより効率的に実行できるように関連するアクションを識別します。"
-keywords: 
-ms.date: 7/22/2018
-ms.service:
-- business-applications
+ms.date: 11/01/2018
+ms.service: business-applications
 ms.topic: article
 ms.assetid: ed50382f-1d58-4c0c-b3fe-3b54b215f3a5
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 4346a586ed2d45f5a36ca991ea7e18d1409dc5cd
+ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
+ms.openlocfilehash: a589016c85c28cac2d54f6053761a036ee3c5e12
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/08/2018
 
 ---
 
 # <a name="custom-analytics"></a>カスタム分析
-
-[!include[marketing banner](../../includes/marketing.md)]
 
 Dynamics 365 for Marketing は、取引先担当者がマーケティング イニシアチブとやり取りする方法についての広範で詳細な情報を収集します。 カスタム分析を使用して、Marketing アプリ内でこのデータを編成および提示します。
 
@@ -35,6 +31,9 @@ Dynamics 365 for Marketing を使用して、組織固有のビジネス プロ�
 - または、Azure Blob Storage に格納されているマーケティング データに対するカスタム マッピングを利用して、Power BI レポートを作成することもできます。
 
 ## <a name="status"></a>状態
-
 パブリック プレビュー
+
+## <a name="resources"></a>リソース
+
+[Power BI でのカスタム分析の作成](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/custom-analytics)
 

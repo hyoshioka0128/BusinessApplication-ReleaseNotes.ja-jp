@@ -3,7 +3,7 @@ title: "財務、営業、購買の拡張"
 description: "財務、営業、購買機能が向上しました。"
 author: bnielse
 manager: edupont04
-ms.date: 10/16/2018
+ms.date: 11/07/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,16 +11,16 @@ ms.technology:
 ms.author: bnielse
 audience: developer, admin, end user, customizer, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: a925806da0b2b1828f55d5fe4cfb10b06d40a91c
+ms.sourcegitcommit: cdbe692282951665ec1a0d55010d4adbeddb1cba
+ms.openlocfilehash: f240b1860496e3d0f2a1d5e8f7ac8672836933c6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/07/2018
 
 ---
 
 # <a name="enhancements-to-finance-sales-and-purchasing"></a>財務、営業、購買の拡張
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 ## <a name="non-inventory-items"></a>非在庫品目
 
@@ -37,7 +37,7 @@ Business Central では、非在庫品目 (購入または販売できるが在�
 * アセンブリ消費
 * 生産消費
 
-詳細: [https://docs.microsoft.com/en-us/dynamics365/business-central/inventory-about-item-types](https://docs.microsoft.com/en-us/dynamics365/business-central/inventory-about-item-types)  
+### <a name="resources-httpsdocsmicrosoftcomen-usdynamics365business-centralinventory-about-item-typeshttpsdocsmicrosoftcomen-usdynamics365business-centralinventory-about-item-types"></a>リソース [https://docs.microsoft.com/en-us/dynamics365/business-central/inventory-about-item-types](https://docs.microsoft.com/en-us/dynamics365/business-central/inventory-about-item-types)  
 
 ## <a name="blocked-items-hidden-in-lookups"></a>ルックアップで非表示になっているブロックされた品目
 
@@ -45,13 +45,15 @@ Business Central では、非在庫品目 (購入または販売できるが在�
 
 10 月のリリースでは、ブロックされた品目は複数の仕訳帳とドキュメントのルックアップで非表示になります。
 
-詳細: https://docs.microsoft.com/en-us/dynamics365/business-central/inventory-how-block-items
+### <a name="resources"></a>リソース
+https://docs.microsoft.com/en-us/dynamics365/business-central/inventory-how-block-items
 
 ## <a name="block-items-from-sales-and-purchasing"></a>販売と購買からの品目のブロック
 
 特定の品目に対して許可される取引をより柔軟に指定できます。 品目が販売明細行または購買注文明細行に入力されないようにしたり、その品目がどの取引でも転記されないようにブロックしたりできます。
 
-詳細: https://docs.microsoft.com/en-us/dynamics365/business-central/inventory-how-block-items
+### <a name="resources"></a>リソース
+https://docs.microsoft.com/en-us/dynamics365/business-central/inventory-how-block-items
 
 ## <a name="updated-reports-layout"></a>更新されたレポート レイアウト
 
@@ -94,7 +96,8 @@ Business Central では、非在庫品目 (購入または販売できるが在�
 
 同様の情報を持つ販売明細行と購買注文明細行を頻繁に作成する必要がある場合は、定期補充注文など、定期的な販売および購買ドキュメントに挿入できる標準明細を設定できます。 10 月のリリースでは、ユーザーは異なる販売または購買ドキュメントを作成する際に、標準の販売コードまたは購買コードの入力方法を指定できます。
 
-詳細: https://docs.microsoft.com/en-us/dynamics365/business-central/sales-how-work-standard-lines
+### <a name="resources"></a>リソース
+https://docs.microsoft.com/en-us/dynamics365/business-central/sales-how-work-standard-lines
 
 ## <a name="fixed-assets-appreciation-posting-available-through-purchase-invoice"></a>購買請求書を通じて利用できる固定資産評価の転記
 
@@ -112,7 +115,8 @@ VAT 調整は、VAT 還付が税務当局に提出されるたびに、通常は
 
 アーカイブ機能を整理し、一括発注を含むように拡張しました。 また、追跡を改善したので、ユーザーは注文またはアーカイブされた注文から一括発注を検索することができ、その逆も可能です。
 
-詳細: https://docs.microsoft.com/en-us/dynamics365/business-central/across-how-to-archive-documents  
+### <a name="resources"></a>リソース
+https://docs.microsoft.com/en-us/dynamics365/business-central/across-how-to-archive-documents  
 https://docs.microsoft.com/en-us/dynamics365/business-central/across-how-to-track-document-lines
 
 ## <a name="tell-us-what-you-think"></a>フィードバック

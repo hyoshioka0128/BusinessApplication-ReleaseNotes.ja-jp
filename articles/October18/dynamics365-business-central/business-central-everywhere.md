@@ -11,10 +11,10 @@ ms.technology:
 ms.author: blazkote
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 475c85e3d78dcffbc0ea86554d26f56488aa8cda
+ms.sourcegitcommit: 3d3e98c3930dc2eff53328db03d6cca19a5bb501
+ms.openlocfilehash: 44403e121bbc2952bc9beea25b230dbe48ff427f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/20/2018
 
 ---
 #  <a name="business-central-everywhere"></a>どこからでも Business Central を使用可能
@@ -50,10 +50,7 @@ Business Central のモバイル/コンパニオン アプリの詳細につい�
 
 ## <a name="microsoft-dynamics-365-business-central-hybrid-deployment"></a>Microsoft Dynamics 365 Business Central のハイブリッド展開
 
-Business Central はクラウドファースト サービスですが、ワークロードをオンプレミスで、またはクラウドに接続されたインテリジェント エッジで実行する必要があるユーザーも、そうすることができるようになります。 Business Central では、クラウドでサービスにサインアップしたユーザーは、適当なハードウェアにローカルに展開することができます。 ユーザーが自分のハードウェアで Business Central を実行すると、クラウドにテナントが作成され、ユーザーのハードウェアからのデータはインテリジェントなクラウド シナリオ用にクラウドに複製されます。 常に、ユーザーには "クラウド対応" ステータスが通知され、クラウドに完全に移行する準備ができたら、簡単な手順で実行できます。  
-
-> [!div class="mx-imgBorder"]
-> ![Business Central のお客様がクラウド対応可能になったときの判断](media/dynamics365-business-central-available-premises-1.png "Business Central のお客様がクラウド対応可能になったときの判断")
+Business Central はクラウドファースト サービスですが、ワークロードをオンプレミスで、またはクラウドに接続されたインテリジェント エッジで実行する必要があるユーザーも、そうすることができるようになります。 Business Central では、クラウドでサービスにサインアップしたユーザーは、適当なハードウェアにローカルに展開することができます。 ユーザーが自分のハードウェアで Business Central を実行すると、クラウドにテナントが作成され、ユーザーのハードウェアからのデータはインテリジェントなクラウド シナリオ用にクラウドに複製されます。 常に、ユーザーには "レプリケーション成功率" が通知され、クラウドに完全に移行する準備ができたら、簡単な手順で実行できます。  顧客は、詳細にドリルダウンし、正常にレプリケートされなかったテーブルを参照することによって、レプリケーション成功率の詳細を調べることができます。
 
 顧客データは常にオンプレミスからクラウドにアップロードされ (ユーザーは必要に応じてオプトアウトできます)、インテリジェント エッジ上の Business Central の展開にインテリジェント クラウド機能が提供されます。 ユーザーが (パートナーを介して) ソリューションを展開した場所に関係なく、Business Central は CSP によって同じ価格でライセンスされます。  
 

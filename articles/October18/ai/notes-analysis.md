@@ -2,7 +2,7 @@
 title: "メモ分析を使用して生産性を高める"
 description: "メモ分析を使用して生産性を高める"
 keywords: 
-ms.date: 9/24/2018
+ms.date: 11/08/2018
 ms.service:
 - business-applications
 ms.topic: article
@@ -11,10 +11,10 @@ author: Annbe
 ms.author: Annbe
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: f99568725325a8e9fbba5b4768ecb9fbd3374030
+ms.sourcegitcommit: d32028a55c4b1ea163e60a25515a562172199e4a
+ms.openlocfilehash: fa5dbf750c7d46e11a2c9ee65250208f5113b6c0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/14/2018
 
 ---
 
@@ -23,4 +23,9 @@ ms.lasthandoff: 10/26/2018
 [!include[ai banner](../includes/ai.md)] 
 
 顧客についてメモを取りながらアプリ内でインテリジェンス分析情報を取得します。 メモ分析は、顧客との対話を参照して、実行できるアクションを提案します。 提案には、顧客をフォローアップするタスクの作成や顧客と会う予定の作成などがあります。
+
+## <a name="resources"></a>リソース
+
+- [メモ分析の構成](https://docs.microsoft.com/dynamics365/ai/sales/configure-enable-dynamics-365-ai-sales#configure-notes-analysis)
+- [メモ分析による提案の支援方法](https://docs.microsoft.com/dynamics365/ai/sales/notes-analysis)
 

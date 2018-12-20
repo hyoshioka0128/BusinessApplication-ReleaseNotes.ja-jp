@@ -11,10 +11,10 @@ ms.technology:
 ms.author: josaw
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: f421ca591a6a84f075524041619669e70e6d094c
+ms.sourcegitcommit: 8a07a5bfe460bf829e6283d98d02c66ec1e9ff34
+ms.openlocfilehash: 6f39017f79065246b55838b1bd838078d9c38f02
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/09/2018
 
 ---
 
@@ -34,11 +34,6 @@ ms.lasthandoff: 10/26/2018
 ## <a name="configure-how-employee-time-off-is-prorated"></a>従業員の休暇を比例配分する方法の構成
 組織は、従業員が会社に入社または退社した時期に基づいて異なる方法で休暇を付与します。 組織を離れる従業員の場合、退職日に付与を終了する必要がある場合もあれば、最終勤務日に依存して見越計上プロセスを停止する場合もあります。 また、開始日に従業員に配賦全体を付与することもあれば、付与を比例配分することもあります。 Talent は、休暇計画の作成時期と、従業員が組織に参加または離職したときに発生する比例配分の種類を選択する柔軟性を HR プロフェッショナルに提供します。 HR プロフェッショナルは、従業員の登録終了日と、組織を離れる従業員への付与が終了するタイミングを柔軟に選択することもできます。 
 
-## <a name="update-time-off"></a>休暇の更新
-従業員の休暇申請は、ワークフローで承認された後に更新またはキャンセルすることが必要になる場合があります。 多くの場合、HR または従業員のマネージャーがこれらの更新を行います。 Talent は、従業員の休暇申請を更新またはキャンセルする機能をマネージャーと HR に提供します。 
-
-## <a name="book-future-time-off"></a>将来の休暇の予約
-従業員のセルフサービス内では、現在の残り休暇日数だけでなく、将来の休暇の残りも表示されます。 また、次の休暇年度の休暇申請を提出することもできます。 
 
 <!--
 ## Status

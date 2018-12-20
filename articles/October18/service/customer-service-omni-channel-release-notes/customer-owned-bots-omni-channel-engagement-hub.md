@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 481a6c6ed40efa81a9ebe9035a761fa1f6872750
+ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
+ms.openlocfilehash: f8aa0a2bd77e2514057c779d893978cc415695c8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/08/2018
 
 ---
 
@@ -47,5 +47,5 @@ BYOB (Bring Your Own Bot) 機能の一環として、顧客は次のことがで
 **Omni-channel Engagement Hub での顧客所有ボットの概略図**
 
 > [!div class="mx-imgBorder"]
-> ![](media/bring-your-bot-to-omnichannel.png "Omni-channel Engagement Hub での顧客所有ボットの概略図")
+> ![Omni-channel Engagement Hub での顧客所有ボットの概略図](media/bring-your-bot-to-omnichannel.png "Omni-channel Engagement Hub での顧客所有ボットの概略図")
 

@@ -1,27 +1,28 @@
 ---
-title: "Power Platform 管理センターからの管理設定の管理"
-description: "Common Data Service 管理者は、統一インターフェイスからすばやく情報にアクセスできます"
-author: jamesol-msft
+title: "Power プラットフォーム管理センターからの管理設定の管理"
+description: "Common Data Service 管理者は Power プラットフォーム管理センターで設定にすばやくアクセスして管理できます"
+author: nigajula
 manager: KVivek
-ms.date: 9/11/2018
+ms.date: 11/14/2018
 ms.assetid: 971c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: jamesol
+ms.author: nigajula
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: f850318c4c424051238985722a6ad4e582f65ba3
+ms.sourcegitcommit: 6b6290afd87b7786a135a154041de9416f0dbc7f
+ms.openlocfilehash: 875a3fd37f85b4888b0f7702c8ab723d2a03331a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 12/05/2018
 
 ---
-# <a name="manage-admin-settings-from-the-power-platform-admin-center-public-preview"></a>Power Platform 管理センターからの管理設定の管理 (パブリック プレビュー)
+# <a name="manage-admin-settings-from-the-power-platform-admin-center-public-preview"></a>Power プラットフォーム管理センターからの管理設定の管理 (パブリック プレビュー)
 
 
 [!include[banner](../../includes/banner.md)]
 
-管理者は、統一インターフェイスから必要なコンテンツやリンクにアクセスでき、PowerApps 管理センターにもすばやくアクセスできます。
+管理者は、PowerApps 管理センターから必要なコンテンツやリンクにすばやくアクセスできます。 環境ハブを使用すると、管理者はリンクの設定ウォールに移動して、すべての環境設定を 1 か所で管理できます。 ビジネス ニーズに合わせて環境をカスタマイズするために必要な設定が簡単に見つかります。 詳細については、「[設定を管理する](https://docs.microsoft.com/power-platform/admin/admin-settings)」を参照してください。
+
 

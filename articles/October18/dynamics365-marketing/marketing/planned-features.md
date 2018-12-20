@@ -1,20 +1,18 @@
 ---
 title: "Dynamics 365 for Marketing の新機能の概要"
 description: "2018 年 10 月の Dynamics 365 for Marketing の概要"
-keywords: 
-ms.date: 8/15/2018
-ms.service:
-- business-applications
+ms.date: 11/01/2018
+ms.service: business-applications
 ms.topic: summary
 ms.assetid: f8275738-a6c7-61e1-5113-fbbd1dc562a5
 author: Annbe
-ms.author: kamaybac
+ms.author: Annbe
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 7d1b705c69f10d787768e5fac038007c50c1258a
+ms.sourcegitcommit: 2fc9f86108ecb8828fb95e6f8ee732f9f433f1a3
+ms.openlocfilehash: a82d6bc4e52e7c8f1db6aa329534fe2cb77d3879
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/01/2018
 
 ---
 
@@ -28,15 +26,12 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 
 | 機能                                                               | リリースの種類                     | 日付                  |
 |-----------------------------------------------------------------------|----------------------------------|-----------------------|
-| [アカウント ベースのマーケティング](account-based-marketing.md)                 | 一般提供             | 2018 年 10 月          |
-| [再利用可能なコンテンツ ブロック](reusable-content-blocks.md)                 | 一般提供             | 2018 年 10 月          |
-| [キャンペーンのソーシャル リスニング](social-listening-campaigns.md)  | 一般提供             | 2018 年 10 月          |
-| [計画用のマーケティング カレンダー](marketing-calendar-planning.md)     | 一般提供             | 2018 年 10 月          |
-| [LinkedIn の深い統合](deep-linkedin-integration.md)             | 一般提供             | 2018 年 10 月          |
-| [より充実したセグメント化エクスペリエンス](richer-segmentation-experience.md)   | 一般提供             | 2018 年 10 月          |
-| [追加言語および地域](regions.md)                    | 一般提供             | 2018 年 10 月          |
-| [カスタム分析](custom-analytics.md)                               | パブリック プレビュー                   | 2018 年 10 月          |
-| [マーケティング コンテンツのビデオ](video-content.md)                       | パブリック プレビュー                   | 2018 年 10 月          |
-
-
-
+| [アカウント ベースのマーケティング](account-based-marketing.md)                 | 一般提供             | 2018 年 10 月 31 日      |
+| [再利用可能なコンテンツ ブロック](reusable-content-blocks.md)                 | 一般提供             | 2018 年 10 月 31 日      |
+| [キャンペーンのソーシャル リスニング](social-listening-campaigns.md)  | 一般提供             | 2018 年 10 月 31 日      |
+| [計画用のマーケティング カレンダー](marketing-calendar-planning.md)     | 一般提供             | 2018 年 10 月 31 日      |
+| [LinkedIn の深い統合](deep-linkedin-integration.md)             | 一般提供             | 2018 年 10 月 31 日      |
+| [より充実したセグメント化エクスペリエンス](richer-segmentation-experience.md)   | 一般提供             | 2018 年 10 月 31 日      |
+| [追加言語および地域](regions.md)                    | 一般提供             | 2018 年 10 月 1 日      |
+| [カスタム分析](custom-analytics.md)                               | パブリック プレビュー                   | 2018 年 10 月 31 日      |
+| [マーケティング コンテンツのビデオ](video-content.md)                       | パブリック プレビュー                   | 2018 年 10 月 31 日      |

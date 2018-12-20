@@ -1,21 +1,22 @@
 ---
-title: "Dynamics 365 Portal でステータスに対して投票を有効にする"
+title: "Dynamics 365 ポータルでステータスに対して投票を有効にする"
 description: "ポータルにおいて、さまざまなテータスに対する投票を有効にします。"
 author: neerajnandwana-ms
-manager: ramalingamkrishnan
-ms.date: 09/20/2018
+manager: rycu
+ms.date: 11/20/2018
 ms.assetid: D81BD65F-E1D6-42CF-BF48-667DFA8A2852
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
 ms.author: nenandw
+ms.reviewer: shjais
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 4cc4cae09f6e22a6ec165d69a19c70777175b3ef
+ms.sourcegitcommit: e35bcf943f7257d057015b8535340025f4e76c30
+ms.openlocfilehash: cb6ed3c1e66696517736f20b11c10a4c620cb24a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/21/2018
 
 ---
 # <a name="enable-voting-for-status-reasons"></a>ステータスに対して投票を有効にする
@@ -30,7 +31,9 @@ ms.lasthandoff: 10/26/2018
 
 - **値**: 1;100000000;100000002
 
-ステータス値の検証や取得手順については、「[ステータスに対して投票を有効にする](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/portals/crowdsource-ideas#enable-voting-for-status-reasons)」で詳しい説明をご覧ください。
+## <a name="resources"></a>リソース
+
+[ステータスに対して投票を有効にする](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/portals/crowdsource-ideas#enable-voting-for-status-reasons)
 
 <!--
 ### Who uses this feature

@@ -2,19 +2,18 @@
 title: "Dynamics 365 AI の新機能の概要"
 description: "2018 年 10 月の人工知能ビジネス アプリケーションの概要"
 keywords: 
-ms.date: 9/25/2018
+ms.date: 11/08/2018
 ms.service: business-applications
 ms.topic: summary
 ms.assetid: 
 author: shellyhaverkamp
 ms.author: shellyha
 manager: annbe
-topic-status: Drafting
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 79ba9ccef0e5e1d993916907d0eb79e44f4f0dda
+ms.sourcegitcommit: d32028a55c4b1ea163e60a25515a562172199e4a
+ms.openlocfilehash: 37a47f6445c3b19345db215b15d7d075deb893ac
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/14/2018
 
 ---
 
@@ -26,22 +25,28 @@ ms.lasthandoff: 10/26/2018
 
 Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
-| 機能                                                         | リリースの種類   | 目標リリース月 |
-|-----------------------------------------------------------------|----------------|----------------------|
-|**AI for Customer Service** |
-| [Dynamics 365 AI for Customer Service](dynamics365-ai-customer-service-insights.md )     | パブリック プレビュー  | 2018 年 10 月            |
+| 機能                                                              | リリースの種類   | 日付 |
+|----------------------------------------------------------------------|----------------|----------------------|
+|**AI for Customer Service Insights** | |
+| [関連するサポート案件をトピックとして自動的にグループ化](automated-topic-clustering.md)| パブリック プレビュー | 2018 年 10 月 31 日 | 
+| [KPI サマリー ダッシュボード](kpi-summary-dashborad.md) | パブリック プレビュー | 2018 年 10 月 31 日 |
+| [受信サポート案件ダッシュボード](incoming-cases-dashboard.md)| パブリック プレビュー | 2018 年 10 月 31 日 | 
+| [顧客満足度ダッシュボード](customer-satisfaction-dashboard.md)| パブリック プレビュー | 2018 年 10 月 31 日 | 
+| [サポート案件の解決ダッシュボード](case-resolution-dashboard.md)| パブリック プレビュー | 2018 年 10 月 31 日 | 
+| [トピックの詳細ダッシュボード](topic-details-dashboard.md)| パブリック プレビュー | 2018 年 10 月 31 日 | 
+| [サポート案件タイトルのクレンジング](case-title-cleansing.md)| パブリック プレビュー | 2018 年 10 月 31 日 | 
 |**AI for Sales** |
-| [つながりを探す](who-knows-whom.md)                          | 一般提供          | 2018 年 10 月          |
-| [話題](talking-points.md)                          | 一般提供          | 2018 年 10 月          |
-| [メモ分析](notes-analysis.md)                          | 一般提供          | 2018 年 10 月          |
-| [予測リード スコアリング](predictive-lead-scoring.md)                          | 一般提供          | 2018 年 10 月          |
-| [予測営業案件スコアリング](predictive-opportunity-scoring.md)            | 一般提供          | 2018 年 10 月          |
-| [リレーションシップ分析](relationship-analytics.md) | 一般提供 | 2018 年 10 月 |
-| [営業チームの業績](dynamics-365-ai-sales-app.md)     | パブリック プレビュー  | 2018 年 10 月            |
-| [コール インテリジェンス](call-intelligence-sales-app.md)     | パブリック プレビュー  | 2018 年 10 月            |
+| [つながりを探す](who-knows-whom.md)                          | 一般提供          | 2018 年 10 月 31 日          |
+| [話題](talking-points.md)                          | 一般提供          | 2018 年 10 月 31 日          |
+| [メモ分析](notes-analysis.md)                          | 一般提供          | 2018 年 10 月 31 日          |
+| [予測リード スコアリング](predictive-lead-scoring.md)                          | 一般提供          | 2018 年 10 月 31 日          |
+| [予測営業案件スコアリング](predictive-opportunity-scoring.md)            | 一般提供          | 2018 年 10 月 31 日          |
+| [リレーションシップ分析](relationship-analytics.md) | 一般提供 | 2018 年 10 月 31 日 |
+| [営業チームのパフォーマンス](dynamics-365-ai-sales-app.md)     | パブリック プレビュー  | 2018 年 10 月 31 日            |
+| [コール インテリジェンス](call-intelligence-sales-app.md)     | パブリック プレビュー  | 2018 年 10 月 31 日            |
 |**AI for Market Insights** |
-| [Dynamics 365 AI for Market Insights](../market-insights/index.md)    | パブリック プレビュー | 2018 年 10 月         |
-| [Market Insights を試すためのクイック サインアップ](../market-insights/quick-sign-in.md)    | パブリック プレビュー | 2018 年 10 月         |
-| [クイック セットアップと即時の分析情報](../market-insights/quick-setup.md)              | パブリック プレビュー | 2018 年 10 月         |
-| [検索データとブラウザーの使用状況からの分析情報](../market-insights/search-browse.md) | パブリック プレビュー | 2018 年 10 月         |
+| [Dynamics 365 AI for Market Insights](../market-insights/index.md)    | パブリック プレビュー | 2018 年 10 月 31 日         |
+| [Market Insights を試すためのクイック サインアップ](../market-insights/quick-sign-in.md)    | パブリック プレビュー | 2018 年 10 月 31 日         |
+| [クイック セットアップと即時の分析情報](../market-insights/quick-setup.md)              | パブリック プレビュー | 2018 年 10 月 31 日         |
+| [検索データとブラウザーの使用状況からの分析情報](../market-insights/search-browse.md) | パブリック プレビュー | 2018 年 10 月 31 日         |
 

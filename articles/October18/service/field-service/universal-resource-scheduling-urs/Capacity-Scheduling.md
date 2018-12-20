@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 5a6f678c571705825c6df534cde997f417b8e272
+ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
+ms.openlocfilehash: 3315fe5725455f860b3e82a9c08ce8ef50dd123f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/08/2018
 
 ---
 
@@ -44,7 +44,7 @@ ms.lasthandoff: 10/26/2018
 > オンサイト作業を実行するリソースは、複数のキャパシティを持つことはできません。
 
 > [!div class="mx-imgBorder"]
-> ![](media/Additional-Capacity.png "追加キャパシティ")
+> ![追加容量行が展開されたリソースを示すスケジュール ボード](media/Additional-Capacity.png "追加キャパシティ")
 <!-- picture -->
 
 *追加容量行が展開されたリソースを示すスケジュール ボード*

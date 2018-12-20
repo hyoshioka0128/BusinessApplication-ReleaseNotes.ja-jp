@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: b1ad2c9013e08bd9acc1484f7afdd498d4743d56
+ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
+ms.openlocfilehash: 8d071de0d3a839fbeeceb69962d3b349e087fdf9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/08/2018
 
 ---
 
@@ -29,7 +29,7 @@ ms.lasthandoff: 10/26/2018
 複数の要件で構成される要件グループを作成し、リソースのチームをスケジュールします。 任意の特定の要件グループに対し、階層形式とすべて/任意の条件で要件を編成できるグリッド ベースのコントロールを使用して、ソース要件を定義できます。
 
 > [!div class="mx-imgBorder"]
-> ![](media/Requirement-Group.png "要件グループの定義")
+> ![要件グループの定義](media/Requirement-Group.png "要件グループの定義")
 <!-- picture -->
 
 *要件グループ コントロール*

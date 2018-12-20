@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: ce98c4c5c441fe1153b3a36fbf6d3407939e5675
+ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
+ms.openlocfilehash: e79f436426f591cfb3849c69e112044114acfb3a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/08/2018
 
 ---
 
@@ -29,7 +29,7 @@ ms.lasthandoff: 10/26/2018
 フォーム内スケジューリングには、ユーザーがシンプルな一覧またはカレンダー ビュー内の上位オプションから選択できる軽量のウィジェットが含まれます。
 
 
-![](media/in-form-scheduling-1.png "OWA UI を使用したフォーム内予約管理のカレンダーのワイヤーフレーム")
+![OWA UI を使用したフォーム内予約管理のカレンダーのワイヤーフレーム](media/in-form-scheduling-1.png "OWA UI を使用したフォーム内予約管理のカレンダーのワイヤーフレーム")
 <!-- picture -->
 
 *OWA UI を使用したフォーム内予約管理のカレンダーのワイヤーフレーム*

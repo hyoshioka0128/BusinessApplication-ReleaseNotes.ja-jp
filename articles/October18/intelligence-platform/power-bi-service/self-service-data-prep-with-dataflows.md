@@ -3,7 +3,7 @@ title: "データフローでのセルフサービス データの準備"
 description: "データフローを使用すると、複数のビジネス アプリケーションやデータ ソースにまたがったデータからビジネス分析を開発する際の時間、複雑さ、およびコストを削減できます。"
 author: adiregev
 manager: PaBenja
-ms.date: 08/30/2018
+ms.date: 11/09/2018
 ms.assetid: 
 ms.topic: article
 ms.prod: 
@@ -12,16 +12,18 @@ ms.technology:
 ms.author: adiregev
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 4014d1ee18bd9d36206ef308fb03982ee9703a62
+ms.sourcegitcommit: 11487404f4c3e1a046eef9721548f1542cd78f38
+ms.openlocfilehash: 62f10335873357d109b60818f06dbade11126186
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/20/2018
 
 ---
 
 # <a name="self-service-data-prep-with-dataflows-public-preview"></a>データフローでのセルフサービス データの準備 (パブリック プレビュー)
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI では、異なるソースのデータを統合し、それらをモデリング用に準備する作業を支援するために、データフローが導入されました。 アナリストは、使い慣れたセルフサービス ツールを使用して、データフローを簡単に作成できます。 データフローは、データ ソース接続、ETL ロジック、更新スケジュールなどを定義して、ビッグデータの取り込み、変換、統合、エンリッチを行うために使用されます。 データは、Azure Data Lake Storage Gen2 で、Common Data Model に準拠したフォルダー内のエンティティとして保存されます。 データフローは、Power BI サービスを使用して、アプリ ワークスペース内で作成および管理されます。   
 
@@ -34,4 +36,7 @@ Power BI では、異なるソースのデータを統合し、それらをモ�
 データフローの更新スケジュールは、データセットと同様、データフローが作成されたワークスペースから直接管理されます。 
 
 プレビューには、一般的なデータ ソースへのコネクタが 20 以上含まれています (Excel、SQL Server、Oracle、Azure SQL Data Warehouse、Dynamics 365、Salesforce など)。 
+
+## <a name="resources"></a>リソース
+[データフローでの Power BI データの準備](https://docs.microsoft.com/en-us/power-bi/service-dataflows-overview)
 

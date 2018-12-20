@@ -3,7 +3,7 @@ title: "Power BI の RDL レポート (プレビュー) "
 description: 
 author: adamw
 manager: PaBenj
-ms.date: 7/22/2018
+ms.date: 11/07/2018
 ms.assetid: 
 ms.topic: article
 ms.prod: 
@@ -12,15 +12,17 @@ ms.technology:
 ms.author: HaydnR
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 4c8e4968ad087e2af99c2f8b9f505d185b6303df
+ms.sourcegitcommit: 11487404f4c3e1a046eef9721548f1542cd78f38
+ms.openlocfilehash: d60ee3db786012b79db1d3c2d919bc2fc72fb051
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/20/2018
 
 ---
 # <a name="paginated-reports-in-power-bi-public-preview"></a>Power BI のページ付けされたレポート (パブリック プレビュー) 
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 
 
@@ -35,4 +37,8 @@ SQL Server Reporting Services (SSRS) レポート (\*.rdl 形式) を Power BI P
 
 > [!div class="mx-imgBorder"]
 > ![Power BI ワークスペースでのレポートの管理](media/rdl-report-list.png "Power BI ワークスペースでのレポートの管理")
+
+
+## <a name="resources"></a>リソース
+[Power BI のページ付けされたレポート](https://docs.microsoft.com/en-us/power-bi/paginated-reports-report-builder-power-bi)
 

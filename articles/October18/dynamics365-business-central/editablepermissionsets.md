@@ -3,7 +3,7 @@ title: "編集可能なアクセス許可セット"
 description: "エンド ユーザーがアクセス許可セットを編集できるようになります"
 author: bnielse
 manager: edupont04
-ms.date: 10/17/2018
+ms.date: 11/07/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +11,10 @@ ms.technology:
 ms.author: bnielse
 audience: developer, admin, end user, customizer, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: c84d7d07b8705f47aa71d5cf2c6a59c6917ff895
+ms.sourcegitcommit: cdbe692282951665ec1a0d55010d4adbeddb1cba
+ms.openlocfilehash: d402e30454de93e061c6923d9b8d22596d4e8bbd
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/07/2018
 
 ---
 
@@ -43,7 +43,8 @@ ms.lasthandoff: 10/26/2018
 > [!div class="mx-imgBorder"]
 > ![](media/effective_permission_sets.png "有効なアクセス許可の概要。")
 
-ヘルプ リンク: [ユーザーとアクセス許可の管理](https://docs.microsoft.com/en-us/dynamics365/business-central/ui-how-users-permissions)
+## <a name="resources"></a>リソース
+[ユーザーとアクセス許可の管理](https://docs.microsoft.com/en-us/dynamics365/business-central/ui-how-users-permissions)
 
 <!--
 ### Who uses this feature

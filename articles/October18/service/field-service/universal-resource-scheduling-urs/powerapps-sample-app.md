@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 8231aa2c799b41eb22659ff64fd33b06637f1f30
+ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
+ms.openlocfilehash: f1ed2a3023838788d8b27dfc044b0a84a73b65eb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/08/2018
 
 ---
 
@@ -29,7 +29,7 @@ ms.lasthandoff: 10/26/2018
 
 お客様は、顧客セルフ スケジュール アプリや "グリーター アプリ" などのあらゆる種類のスケジュール アプリの構築に取り組んでいます。 URS PowerApps サンプル アプリの提供により、Dynamics 365 CE のお客様は、他のスケジュール オプションを探さなくても、URS をスケジュール ソリューションとして使用しながら、Dynamics エコシステムにとどまることができます。 これにより、予約の作成時にお客様のすべての要件に基づいてリアルタイムの空き時間をクエリし、予約情報を返すことができます。 このサンプル アプリは、Dynamics 365 CE の外部のインターフェイスを使用してリソースをスケジュールするお客様を対象としています。
 
-![](media/powerapps-sample-app-1.png "スケジュール アプリの例")
+![スケジュール アプリの例](media/powerapps-sample-app-1.png "スケジュール アプリの例")
 <!-- picture -->
 
 

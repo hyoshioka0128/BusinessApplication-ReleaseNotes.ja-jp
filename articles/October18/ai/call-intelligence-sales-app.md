@@ -2,7 +2,7 @@
 title: "コール センターの AI を使用したインサイド セールスの変換"
 description: "コール センターの AI を使用したインサイド セールスの変換"
 keywords: 
-ms.date: 9/24/2018
+ms.date: 11/08/2018
 ms.service:
 - business-applications
 ms.topic: article
@@ -11,10 +11,10 @@ author: jasonmsft
 ms.author: jasonhui
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 5999a7295693b28eb9d7ba25732de5ec5377d27e
+ms.sourcegitcommit: d32028a55c4b1ea163e60a25515a562172199e4a
+ms.openlocfilehash: 99c0b82bbe63ee22de9d7042660a8b6a0ce78aff
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/14/2018
 
 ---
 
@@ -30,4 +30,8 @@ Microsoft のコール インテリジェンス オファリングは、より�
 -   担当者が会話のベスト プラクティスに従っているかどうかを示す、話した時間と聞いた時間の比率、最も長い顧客の独白、参加者切り替え率など、会話 KPI に対するベンチマーク。
 
 Dynamics 365 組織と非 Dynamics 組織は、Microsoft のコール インテリジェンス製品の機能を使用して、コール分析情報を生成し、担当者の出力を増やすことができます。
+
+## <a name="resources"></a>リソース
+
+[コール インテリジェンス](https://docs.microsoft.com/dynamics365/ai/sales/call-intelligence)
 

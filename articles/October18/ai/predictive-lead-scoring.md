@@ -2,7 +2,7 @@
 title: "営業案件になる見込みありと評価される可能性が高いリードの予測"
 description: "営業案件になる見込みありと評価される可能性が高いリードの予測"
 keywords: 
-ms.date: 9/24/2018
+ms.date: 11/08/2018
 ms.service:
 - business-applications
 ms.topic: article
@@ -11,10 +11,10 @@ author: jasonmsft
 ms.author: jasonhui
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 3507964d41b330312bc8f03ab83ffbf1ca7c3fe9
+ms.sourcegitcommit: d32028a55c4b1ea163e60a25515a562172199e4a
+ms.openlocfilehash: bed2dea0abdab404844ada7ec4f08036c031c64e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 11/14/2018
 
 ---
 
@@ -31,4 +31,9 @@ Dynamics 365 予測リード スコアリングは、営業案件になる可能
 -  標準フォームおよびビューでスコアの傾向や上位の理由と共に使用できるリード スコア。 
 
 Dynamics 365 予測リード スコアリングを使用すると、営業担当者は転換の可能性が高い取引を優先して作業することができます。 
+
+## <a name="resources"></a>リソース
+
+- [予測リード スコアリングの構成](https://docs.microsoft.com/dynamics365/ai/sales/configure-enable-dynamics-365-ai-sales#configure-predictive-lead-scoring)
+- [予測スコアを使用してリードの優先順位を決める](https://docs.microsoft.com/dynamics365/ai/sales/work-predictive-lead-scoring)
 
