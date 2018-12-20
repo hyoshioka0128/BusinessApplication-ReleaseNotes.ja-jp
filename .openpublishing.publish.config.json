@@ -8,6 +8,11 @@
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
       "build_entry_point": "docs",
       "template_folder": "_themes"
     }
@@ -46,16 +51,10 @@
   ],
   "branch_target_mapping": {
     "live": [
-      "Publish",
-      "Pdf"
+      "Publish"
     ],
     "master": [
-      "Publish",
-      "Pdf"
-    ],
-    "master-fall18": [
-      "Publish",
-      "Pdf"
+      "Publish"
     ]
   },
   "need_generate_pdf_url_template": false,
@@ -64,6 +63,6 @@
       "template_folder": "_themes.pdf"
     }
   },
-  "need_generate_pdf": false,
-  "need_generate_intellisense": false
+  "need_generate_intellisense": false,
+  "need_generate_pdf": false
 }
