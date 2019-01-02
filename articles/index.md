@@ -5,10 +5,17 @@ title: "ビジネス アプリケーション リリース ノート"
 description: "Dynamics 365、Power BI、PowerApps、Microsoft Flow、Microsoft Stream、その他の新機能について紹介します (Sales、Service、Marketing、Operations、Finance、Talent、Retail 関連の新機能を含む)。"
 ms.topic: hub-page
 ms.translationtype: HT
+<<<<<<< HEAD
 ms.sourcegitcommit: 82380167c785b7de5601f65bbf09905dd7e68921
 ms.openlocfilehash: 260cb4b56c67d43dd8cc175f22f3048b011404b9
 ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
+=======
+ms.sourcegitcommit: e76392c70c2a480ff77fa2475f7c4041452b7f9b
+ms.openlocfilehash: 260cb4b56c67d43dd8cc175f22f3048b011404b9
+ms.contentlocale: ja-jp
+ms.lasthandoff: 12/05/2018
+>>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 
 ---
 <div id="main" class="v2">

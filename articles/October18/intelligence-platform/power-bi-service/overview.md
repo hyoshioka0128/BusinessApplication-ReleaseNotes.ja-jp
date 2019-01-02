@@ -12,10 +12,10 @@ ms.technology:
 ms.author: haydnr
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 49ef3af21be65a76b9a3ac9776b7d32715731011
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="power-bi-service"></a>Power BI サービス

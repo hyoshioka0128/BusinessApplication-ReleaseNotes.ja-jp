@@ -12,10 +12,10 @@ ms.technology:
 ms.author: josaw
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 8dfda43808c3f5b21dabfcecabb05faea984099b
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 1dc7260a64f7471667792de289f68b9209acba0a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/20/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="attract"></a>Attract

@@ -3,7 +3,7 @@ title: "フローによる SharePoint コンテンツ承認のカスタマイズ
 description: "最新の SharePoint ページ ライブラリでは、サイト管理者と所有者が新しい編集のコンテンツ承認を有効にすることができます。"
 author: Mhade
 manager: KVivek
-ms.date: 10/22/2018
+ms.date: 11/20/2018
 ms.assetid: fbc151eb-4a98-e811-a969-000d3a1378f6
 ms.topic: article
 ms.prod: 

@@ -11,10 +11,10 @@ ms.technology:
 ms.author: sunilg
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 9d939e87e6e747b4cdcadb7acb5958736f547145
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: cc10edf459f22e4d5595305641a18194bf532d8a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/17/2018
+ms.lasthandoff: 10/26/2018
 
 --- 
 

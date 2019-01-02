@@ -1,15 +1,15 @@
 ---
 title: "Access ユーザー向けのヘルプの向上"
 description: "Access ユーザーは PowerApps を使用したアプリ作成の可能性について学べます"
-author: shpareek
+author: gregli-msft
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/20/2018
 ms.assetid: f51b1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: shpareek
+ms.author: gregli
 audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3

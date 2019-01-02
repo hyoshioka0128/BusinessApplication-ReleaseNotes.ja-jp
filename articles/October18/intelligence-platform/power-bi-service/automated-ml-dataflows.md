@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../change-history
 title: "Power BI での自動機械学習"
 description: "Power BI データフローを使用した機械学習モデルの作成"
 author: SantoshC

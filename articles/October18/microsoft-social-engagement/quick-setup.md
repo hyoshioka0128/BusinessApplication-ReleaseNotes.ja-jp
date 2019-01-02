@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mhart
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 2609b6a21363e412cc84c9d8e3a707c80bd752dc
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/22/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 #  <a name="quick-setup-and-instant-insights-in-social-engagement"></a>Social Engagement のクイック セットアップと即時の分析情報

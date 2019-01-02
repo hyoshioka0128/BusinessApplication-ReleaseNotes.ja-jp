@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../change-history
 title: "Azure Machine Learning の統合"
 description: "Power Query を使用して Azure Machine Learning モデルにアクセスします。"
 author: SantoshC

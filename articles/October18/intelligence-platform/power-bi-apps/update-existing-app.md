@@ -11,10 +11,10 @@ ms.technology:
 ms.author: avive
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 2ddd4b42d13f15731ed8fd2f46f3376477b2eb3c
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 471d412ae40cbef021decc560fbc329cfd3fe5d8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 09/11/2018
+ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="update-an-existing-power-bi-app-in-appsource-public-preview"></a>AppSource で既存の Power BI アプリを更新する (パブリック プレビュー)

@@ -1,15 +1,15 @@
 ---
 title: "アプリの作成者向けの機能"
 description: "キャンバス アプリまたはモデル駆動型アプリを構築するユーザー向けの機能が増えました。"
-author: RyCu
+author: clwesene
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/11/2018
 ms.assetid: b99a5392-3a73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: rycu
+ms.author: clwesene
 audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
