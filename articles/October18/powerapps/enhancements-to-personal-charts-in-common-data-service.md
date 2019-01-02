@@ -3,7 +3,11 @@ title: "エンドユーザーはグラフを作成して他のユーザーやチ
 description: "エンドユーザーはグラフを作成して、他のユーザーと共有し、ビジュアルを作成することができます"
 author: prsi
 manager: KVivek
+<<<<<<< HEAD
 ms.date: 9/3/2018
+=======
+ms.date: 11/27/2018
+>>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 ms.assetid: 721c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -21,7 +25,11 @@ ms.lasthandoff: 10/26/2018
 # <a name="end-users-can-create-charts-and-share-them-with-other-users-and-teams"></a>エンドユーザーはグラフを作成して他のユーザーやチームと共有可能
 
 
+<<<<<<< HEAD
 [!include[banner](../../includes/banner.md)]
+=======
+
+>>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 
 個人用グラフを作成して、リアルタイムでデータをビジュアル化できます。 ユーザーはこれらのグラフを組織内の他のユーザーやチームと共有できます。 これらのグラフは高度にカスタマイズできます。複数のシリーズを追加し、幅広いビジュアルや集約から選択することもできます。
 

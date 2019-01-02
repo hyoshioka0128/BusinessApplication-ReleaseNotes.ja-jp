@@ -3,7 +3,11 @@ title: "PowerApps アプリ開発者は SharePoint ドキュメント ライブ�
 description: "アプリ開発者は、アプリを SharePoint ドキュメント ライブラリに接続して、アプリ ユーザーがフォルダーの参照、ファイルの表示、モバイルまたは Web 上のメタデータの編集を行えるマッシュアップ アプリケーションを構築できます。"
 author: shpareek
 manager: KVivek
+<<<<<<< HEAD
 ms.date: 9/3/2018
+=======
+ms.date: 11/20/2018
+>>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 ms.assetid: 261c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

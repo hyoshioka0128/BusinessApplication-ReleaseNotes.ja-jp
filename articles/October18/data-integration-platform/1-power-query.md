@@ -12,10 +12,17 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
+<<<<<<< HEAD
 ms.sourcegitcommit: 5eda86ab05b375f2f919fc04c5089565ba4d7c86
 ms.openlocfilehash: 0f4fb80846d9a9ab2c5b4c5b34e97357faa6fcfb
 ms.contentlocale: ja-jp
 ms.lasthandoff: 09/13/2018
+=======
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 0f4fb80846d9a9ab2c5b4c5b34e97357faa6fcfb
+ms.contentlocale: ja-jp
+ms.lasthandoff: 10/26/2018
+>>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 
 ---
 #  <a name="simpler-smarter-transformation-and-integration-of-enterprise-data-with-power-query-and-data-integration-platform"></a>Power Query およびデータ統合プラットフォームによるエンタープライズ データのよりシンプルかつスマートな変換と統合

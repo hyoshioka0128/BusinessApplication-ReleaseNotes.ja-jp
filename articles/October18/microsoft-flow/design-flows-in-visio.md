@@ -3,7 +3,11 @@ title: "Visio でのデザイン フロー"
 description: "標準フローチャートの概念を使用して Visio でフローを作成し、簡単にビジュアル化できるようにフローを Visio にエクスポートします。"
 author: stepsic-microsoft-com
 manager: KVivek
+<<<<<<< HEAD
 ms.date: 10/28/2018
+=======
+ms.date: 11/20/2018
+>>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 ms.assetid: 640627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 

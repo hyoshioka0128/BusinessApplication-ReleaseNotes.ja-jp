@@ -1,4 +1,8 @@
 ---
+<<<<<<< HEAD
+=======
+redirect_url: ../../change-history
+>>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 title: "Power BI での自動機械学習"
 description: "Power BI データフローを使用した機械学習モデルの作成"
 author: SantoshC

@@ -3,7 +3,11 @@ title: "モバイル デバイスのデバイス シグナルの利用"
 description: "ユーザーはジオフェンスなどのモバイル機能を活用できるフローを作成できます。"
 author: stepsic-microsoft-com
 manager: KVivek
+<<<<<<< HEAD
 ms.date: 10/2/2018
+=======
+ms.date: 11/20/2018
+>>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 ms.assetid: 517e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 

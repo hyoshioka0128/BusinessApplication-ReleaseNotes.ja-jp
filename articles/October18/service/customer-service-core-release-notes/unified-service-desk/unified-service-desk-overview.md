@@ -11,10 +11,17 @@ author: kabala123
 ms.author: kabala
 manager: Shujoshi
 ms.translationtype: HT
+<<<<<<< HEAD
 ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
 ms.openlocfilehash: 7f9248eac032bffa7f78a9f861c795b320a5be0c
 ms.contentlocale: ja-jp
 ms.lasthandoff: 09/22/2018
+=======
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 7f9248eac032bffa7f78a9f861c795b320a5be0c
+ms.contentlocale: ja-jp
+ms.lasthandoff: 10/26/2018
+>>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 
 ---
 

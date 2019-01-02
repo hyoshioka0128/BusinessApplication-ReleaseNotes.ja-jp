@@ -11,10 +11,17 @@ ms.technology:
 ms.author: shylaw
 audience: end-user
 ms.translationtype: HT
+<<<<<<< HEAD
 ms.sourcegitcommit: e12bd3a4856f0d84810ac1efb532a3deb9cf3245
 ms.openlocfilehash: ed228f13c79c18f5958d4166e7f08249296616fe
 ms.contentlocale: ja-jp
 ms.lasthandoff: 09/10/2018
+=======
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: ed228f13c79c18f5958d4166e7f08249296616fe
+ms.contentlocale: ja-jp
+ms.lasthandoff: 10/26/2018
+>>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 
 ---
 

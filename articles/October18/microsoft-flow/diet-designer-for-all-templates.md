@@ -3,7 +3,11 @@ title: "すべてのテンプレートに対する Diet デザイナー"
 description: "フローの作成は、テンプレートの最初に構成するエクスペリエンスを使用するととても簡単です。ユーザーは、必要なパラメーターを指定して実行するだけです。"
 author: sunayv
 manager: KVivek
+<<<<<<< HEAD
 ms.date: 10/2/2018
+=======
+ms.date: 11/20/2018
+>>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 ms.assetid: 4b7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 

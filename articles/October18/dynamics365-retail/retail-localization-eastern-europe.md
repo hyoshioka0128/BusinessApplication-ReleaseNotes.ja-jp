@@ -11,10 +11,17 @@ ms.technology:
 ms.author: epopov
 audience: Admin
 ms.translationtype: HT
+<<<<<<< HEAD
 ms.sourcegitcommit: 36a6cd497f6f5277e41135fa1cab5f5c28290f92
 ms.openlocfilehash: 955812d94c09fab8ac2166b3192d292465478a33
 ms.contentlocale: ja-jp
 ms.lasthandoff: 08/29/2018
+=======
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 955812d94c09fab8ac2166b3192d292465478a33
+ms.contentlocale: ja-jp
+ms.lasthandoff: 10/26/2018
+>>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 
 ---
 #  <a name="retail-localizations-for-eastern-europe"></a>東ヨーロッパ向け Retail のローカライズ

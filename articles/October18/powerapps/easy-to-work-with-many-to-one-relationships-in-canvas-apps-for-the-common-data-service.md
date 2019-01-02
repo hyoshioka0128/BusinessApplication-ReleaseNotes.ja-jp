@@ -3,7 +3,11 @@ title: "アプリ用 Common Data Service のキャンバス アプリで多対�
 description: "手動で参加または検索する必要がありません。 PowerApps は多対一リレーションシップを自動で拡張するため、必要な情報はすぐそこにあります。"
 author: gregli-msft
 manager: KVivek
+<<<<<<< HEAD
 ms.date: 9/3/2018
+=======
+ms.date: 11/26/2018
+>>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 ms.assetid: 421c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -21,7 +25,11 @@ ms.lasthandoff: 10/26/2018
 # <a name="easy-to-work-with-many-to-one-relationships-in-canvas-apps-for-common-data-service-for-apps"></a>アプリ用 Common Data Service のキャンバス アプリで多対一リレーションシップを簡単に操作
 
 
+<<<<<<< HEAD
 [!include[banner](../../includes/banner.md)]
+=======
+
+>>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 
 リレーショナル データの活用はほとんどのビジネス アプリケーションで鍵となります。 とはいえ、必要な情報を取り込み、外部キーを組み込み、プロジェクションを制御するクエリを記述するのは面倒な場合があります。
 

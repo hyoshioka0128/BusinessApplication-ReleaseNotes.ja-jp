@@ -3,7 +3,11 @@ title: "アプリ用 Common Data Service または SharePoint を使用してい
 description: "暗号的な開発者名を使用する必要がなくなります。 アプリ開発者は、開発者ポータルやアプリの UI で表示名を使用できるようになりました。"
 author: gregli-msft
 manager: KVivek
+<<<<<<< HEAD
 ms.date: 9/3/2018
+=======
+ms.date: 11/20/2018
+>>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 ms.assetid: 491c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
