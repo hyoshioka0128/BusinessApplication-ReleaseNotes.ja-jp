@@ -3,11 +3,7 @@ title: "PowerApps Web パーツを使用した SharePoint ページへのアプ�
 description: "SharePoint 向けの PowerApps Web パーツが一般提供されます"
 author: chmoncay
 manager: KVivek
-<<<<<<< HEAD
-ms.date: 9/3/2018
-=======
 ms.date: 11/20/2018
->>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 ms.assetid: 1b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

@@ -3,11 +3,7 @@ title: "Azure 統合"
 description: "組織の Azure Data Lake Storage にデータフローのデータを格納するように、Power BI を構成できます。"
 author: erherz
 manager: AnnBe
-<<<<<<< HEAD
-ms.date: 9/11/2018
-=======
 ms.date: 11/07/2018
->>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 ms.assetid: 
 ms.topic: article
 ms.prod: 

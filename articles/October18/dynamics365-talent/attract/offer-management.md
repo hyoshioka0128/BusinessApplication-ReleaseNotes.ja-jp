@@ -11,17 +11,10 @@ ms.technology:
 ms.author: shielas
 audience: admin
 ms.translationtype: HT
-<<<<<<< HEAD
-ms.sourcegitcommit: 8dfda43808c3f5b21dabfcecabb05faea984099b
-ms.openlocfilehash: e40aa4718c6baee16fa146e5cd15143b7d862434
-ms.contentlocale: ja-jp
-ms.lasthandoff: 09/20/2018
-=======
 ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: e40aa4718c6baee16fa146e5cd15143b7d862434
 ms.contentlocale: ja-jp
 ms.lasthandoff: 10/26/2018
->>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 
 ---
 

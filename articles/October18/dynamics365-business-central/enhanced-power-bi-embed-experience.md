@@ -11,17 +11,10 @@ ms.technology:
 ms.author: bmeier
 audience: admin, end user
 ms.translationtype: HT
-<<<<<<< HEAD
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: b40a155e88e8ea4be2a9e63243bed82b98ef8d92
-ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
-=======
 ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: b40a155e88e8ea4be2a9e63243bed82b98ef8d92
 ms.contentlocale: ja-jp
 ms.lasthandoff: 10/26/2018
->>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 
 ---
 

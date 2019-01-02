@@ -12,17 +12,10 @@ ms.technology:
 ms.author: mhart
 audience: Admin
 ms.translationtype: HT
-<<<<<<< HEAD
-ms.sourcegitcommit: 9a509b6e98583d8782e00c5c0e081f7ec451180b
-ms.openlocfilehash: af3556970d9c6346d58c9aa7c7de30f29efb2731
-ms.contentlocale: ja-jp
-ms.lasthandoff: 09/22/2018
-=======
 ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: af3556970d9c6346d58c9aa7c7de30f29efb2731
 ms.contentlocale: ja-jp
 ms.lasthandoff: 10/26/2018
->>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 
 ---
 #  <a name="quick-setup-and-instant-insights-in-market-insights"></a>Market Insights のクイック セットアップと即時の分析情報

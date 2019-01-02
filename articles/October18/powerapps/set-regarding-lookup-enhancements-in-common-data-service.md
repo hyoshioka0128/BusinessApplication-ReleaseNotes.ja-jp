@@ -3,11 +3,7 @@ title: "Dynamics 365 の関連設定検索の強化"
 description: "Dynamics 365 の関連検索設定の信頼性向上"
 author: srihas
 manager: KVivek
-<<<<<<< HEAD
-ms.date: 9/4/2018
-=======
 ms.date: 11/20/2018
->>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 ms.assetid: 881c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

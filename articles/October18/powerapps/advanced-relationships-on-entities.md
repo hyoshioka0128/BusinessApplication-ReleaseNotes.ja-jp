@@ -1,25 +1,15 @@
 ---
 title: "エンティティ間の高度なリレーションシップ"
 description: "アプリ開発者は、PowerApps でより高度な一対多、多対一、多対多のリレーションシップを作成できます。"
-<<<<<<< HEAD
-author: clwesene
-manager: KVivek
-ms.date: 9/3/2018
-=======
 author: matthewbolanos
 manager: KVivek
 ms.date: 11/20/2018
->>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 ms.assetid: 561c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-<<<<<<< HEAD
-ms.author: clwesene
-=======
 ms.author: mabolan
->>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3

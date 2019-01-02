@@ -1,8 +1,5 @@
 ---
-<<<<<<< HEAD
-=======
 redirect_url: ../../change-history
->>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 title: "Azure Machine Learning の統合"
 description: "Power Query を使用して Azure Machine Learning モデルにアクセスします。"
 author: SantoshC

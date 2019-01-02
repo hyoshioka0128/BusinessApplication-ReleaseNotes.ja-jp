@@ -12,17 +12,10 @@ ms.technology:
 ms.author: mikebc
 audience: end user
 ms.translationtype: HT
-<<<<<<< HEAD
-ms.sourcegitcommit: 8b8612bb36ad0e7abd0c55439652b9015c944035
-ms.openlocfilehash: 637a7105e8150f02a2bc2bafc3c59d9fef51fdfa
-ms.contentlocale: ja-jp
-ms.lasthandoff: 09/24/2018
-=======
 ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 637a7105e8150f02a2bc2bafc3c59d9fef51fdfa
 ms.contentlocale: ja-jp
 ms.lasthandoff: 10/26/2018
->>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 
 ---
 #  <a name="improvements-to-scrolling-in-lists"></a>リストのスクロールの向上

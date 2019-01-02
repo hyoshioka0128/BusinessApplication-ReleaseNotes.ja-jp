@@ -3,11 +3,7 @@ title: "キャンバス アプリでの並列データ読み込みによる読�
 description: "アプリ開発者は、複数の読み込みオペレーションを並列で実行して、アプリ ユーザーの全体的な待ち時間を短縮できます。"
 author: gregli-msft
 manager: KVivek
-<<<<<<< HEAD
-ms.date: 10/4/2018
-=======
 ms.date: 11/27/2018
->>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 ms.assetid: 4b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -25,23 +21,12 @@ ms.lasthandoff: 10/26/2018
 # <a name="faster-load-times-with-parallel-data-loading-in-canvas-apps"></a>キャンバス アプリでの並列データ読み込みによる読み込み時間の短縮
 
 
-<<<<<<< HEAD
-[!include[banner](../../includes/banner.md)]
-=======
 
->>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
 
 多くのキャンバス アプリ開発者は、パフォーマンスを向上させるために、アプリの開始時に複数のテーブルやエンティティをプリロードします。 今日、これはロードごとに順次行われており、多くの場合はアプリの **OnStart** 式で行われます。 
 
 この機能を使用すると、アプリ開発者は複数のデータセットを並列で読み込むことができ、エンドユーザーの待ち時間を大幅に短縮できます。  この機能は起動時だけに限定されておらず、並列処理がパフォーマンスを向上するどの場所でも使用できます。
 
-<<<<<<< HEAD
-##### <a name="related-topic"></a>関連項目
-
-[新しい同時実行機能によって起動時間が短縮されます](https://powerapps.microsoft.com/blog/enjoy-faster-startup-times-with-the-new-concurrent-function/)
-
-=======
 ## <a name="related-topic"></a>関連項目
 
 [新しい同時実行機能によって起動時間が短縮されます](https://powerapps.microsoft.com/blog/enjoy-faster-startup-times-with-the-new-concurrent-function/)
->>>>>>> 87e028547d07f7115112632b834c7e86c5555bb3
