@@ -3,7 +3,7 @@ title: "グリッド内の既定の付箋アクション"
 description: "既定の付箋アクション機能は、個人用設定が適用された後で既定のアクション列がグリッド内に表示される位置を制御します。"
 author: jasongre
 manager: AnnBe
-ms.date: 10/09/2018
+ms.date: 01/08/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,8 +19,6 @@ ms.lasthandoff: 10/26/2018
 ---
 
 # <a name="sticky-default-actions-in-grids"></a>グリッド内の既定の付箋アクション
-
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 Finance and Operations の多くのグリッドで、*既定のアクション*が定義されています。 これは、すべての行の値が常にハイパーリンクとして表示されるグリッド内の単一の列です。これに対し、他の列では、アクティブな行の値のみがハイパーリンクとして表示されます。 これまでの Finance and Operations では、この既定のアクションは常に、ユーザーが個人用設定を適用する前の、グリッドの最初のテキスト列に表示されます。 たとえば、次のような**顧客**リストの**取引先企業**列について考えます。
 

@@ -3,7 +3,7 @@ title: "最適化された「次の値のいずれか」フィルタリング結
 description: "「次の値のいずれか」フィルター演算子が改善されました。 新しいエクスペリエンスでは、単一の入力フィールドからフィルター値を入力するときに、複数のフィルター値を入力するのに必要なキー ストロークが少なくなりました。"
 author: jasongre
 manager: AnnBe
-ms.date: 11/01/2018
+ms.date: 01/08/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,8 +19,6 @@ ms.lasthandoff: 11/01/2018
 ---
 
 # <a name="optimized-is-one-of-filtering-experience"></a>最適化された「次の値のいずれか」フィルタリング結果
-
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 フィルター ウィンドウおよびグリッド ヘッダーのドロップダウンリストを使用するとき、ほとんどのフィールドで「次の値のいずれか」フィルター演算子を使用できます。 この演算子を使用すると、複数の異なる値に基づいてフィールドをフィルター処理できます。 「次の値のいずれか」演算子の使いやすくなった新しいエクスペリエンスは、Platform Update 22 で利用できます。 改善点をよりよく理解するには、次の画像をご覧ください。
 

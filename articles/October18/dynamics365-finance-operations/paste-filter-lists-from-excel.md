@@ -20,8 +20,6 @@ ms.lasthandoff: 11/01/2018
 
 # <a name="paste-lists-from-excel-into-filter-fields-with-the-is-one-of-operator"></a>「次の値のいずれか」演算子を使用して Excel からフィルター フィールドに一覧を貼り付ける
 
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
-
 一部のタスクでは、ユーザーは Finance and Operations のデータをフィルター処理するために Excel 内の値の一覧を使用する場合があります。 たとえば、財務ユーザーはシステムで追加の調査が必要な 1 セットの伝票をレポートから特定している場合があり、このユーザーが Excel から Finance and Operations のフィルター フィールドに一覧を直接コピーできることが理想的です。   
 
 Platform Update 22 以降、[フィルター] ウィンドウの「次の値のいずれか」演算子とグリッド列フィルターでは Excel からコピーされた一覧が認識されるようになったので、それらをフィルター フィールドに直接貼り付けることができます。 これには、Excel 内のさまざまな行や列からコピーされた値のコレクションが含まれます。

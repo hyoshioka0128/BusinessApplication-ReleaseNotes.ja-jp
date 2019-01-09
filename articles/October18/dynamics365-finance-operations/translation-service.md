@@ -19,7 +19,6 @@ ms.lasthandoff: 11/20/2018
 ---
 #  <a name="translation-service"></a>Translation service
 
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 Lifecycle Services (LCS) にホストされている Dynamics Translation service (DTS) を使用すると、パートナーは、独自の言語資産と Microsoft の言語資産を利用して、既存の言語および新しい言語で Dynamics のソリューションと製品 (ERP のみ) を翻訳できます。 サポート ユーザー インターフェイスの翻訳に加えて、このサービスでは Microsoft Word および HTML 形式 (.docx、.html) でのユーザー アシスタンスの翻訳がサポートされます。 
 

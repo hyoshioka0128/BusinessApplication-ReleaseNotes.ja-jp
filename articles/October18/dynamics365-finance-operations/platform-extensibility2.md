@@ -3,7 +3,7 @@ title: "プラットフォーム拡張性の機能強化ウェーブ 2"
 description: "プラットフォーム拡張性の機能強化ウェーブ 2"
 author: ChrisGarty
 manager: AnnBe
-ms.date: 11/05/2018
+ms.date: 01/08/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,8 +19,6 @@ ms.lasthandoff: 11/06/2018
 ---
 
 # <a name="platform-extensibility-enhancements-wave-2"></a>プラットフォーム拡張性の機能強化ウェーブ 2
-
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 プラットフォーム更新プログラム 21 で強化された拡張性機能:
 

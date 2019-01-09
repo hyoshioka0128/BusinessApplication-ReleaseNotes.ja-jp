@@ -3,7 +3,7 @@ title: "スタイルが新しくなった個人用設定ツール バー"
 description: "個人用設定ツール バーは、個人用設定の使いやすさを向上させるためにスタイルが新しくなりました。"
 author: jasongre
 manager: AnnBe
-ms.date: 10/26/2018
+ms.date: 01/08/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,8 +19,6 @@ ms.lasthandoff: 11/01/2018
 ---
 
 # <a name="restyled-personalization-toolbar"></a>スタイルが新しくなった個人用設定ツール バー
-
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 個人用設定ツール バーは、Platform Update 22 でスタイルが新しくなり、ユーザーは Finance and Operations で自分のエクスペリエンスをより簡単に調整できます。 次の変更が行われました。 
 

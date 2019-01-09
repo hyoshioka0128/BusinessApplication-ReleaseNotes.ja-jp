@@ -3,7 +3,7 @@ title: "ナビゲーション ウィンドウの使いやすさの向上"
 description: "ナビゲーション ウィンドウにいくつかの機能拡張が追加され、使いやすさが向上しました。"
 author: jasongre
 manager: AnnBe
-ms.date: 10/25/2018
+ms.date: 01/08/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,8 +19,6 @@ ms.lasthandoff: 11/01/2018
 ---
 
 # <a name="improved-usability-of-the-navigation-pane"></a>ナビゲーション ウィンドウの使いやすさの向上
-
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 ナビゲーション ウィンドウは、Finance and Operations でよく使われるナビゲーション メカニズムであり、お気に入り、最近開いたページ、ワークスペース、メイン メニューへのアクセスを提供します。 使用頻度が高いので、ナビゲーション ウィンドウは使いやすさを向上させるためにいくつかの方法で強化されています。 これらの変更は、Platform Update 22 以降で利用できます。 
 
