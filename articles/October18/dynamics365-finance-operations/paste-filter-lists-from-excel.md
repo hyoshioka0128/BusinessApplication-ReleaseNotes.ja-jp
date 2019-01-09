@@ -11,16 +11,14 @@ ms.technology:
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: d97ebd0133cc27a2d24d0dc65beceac42894da89
-ms.openlocfilehash: e815b473ce35a4e8cf5311befd2308e403ecad96
+ms.sourcegitcommit: 847516428dc8bc5cd5e510b75545c9ea9293def0
+ms.openlocfilehash: c1ca90febc2724024625afc1462a1b874ecd1b88
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/01/2018
+ms.lasthandoff: 01/09/2019
 
 ---
 
 # <a name="paste-lists-from-excel-into-filter-fields-with-the-is-one-of-operator"></a><span data-ttu-id="119a5-103">「次の値のいずれか」演算子を使用して Excel からフィルター フィールドに一覧を貼り付ける</span><span class="sxs-lookup"><span data-stu-id="119a5-103">Paste lists from Excel into filter fields with the "is one of" operator</span></span>
-
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 <span data-ttu-id="119a5-104">一部のタスクでは、ユーザーは Finance and Operations のデータをフィルター処理するために Excel 内の値の一覧を使用する場合があります。</span><span class="sxs-lookup"><span data-stu-id="119a5-104">For some tasks, users might have a list of values in Excel that they'd like to use to filter data in Finance and Operations.</span></span> <span data-ttu-id="119a5-105">たとえば、財務ユーザーはシステムで追加の調査が必要な 1 セットの伝票をレポートから特定している場合があり、このユーザーが Excel から Finance and Operations のフィルター フィールドに一覧を直接コピーできることが理想的です。</span><span class="sxs-lookup"><span data-stu-id="119a5-105">As an example, a finance user might have identified a set of vouchers from a report that need additional research in the system, and it would be ideal for this user to be able to copy the list directly from Excel into a filter field in Finance and Operations.</span></span>   
 

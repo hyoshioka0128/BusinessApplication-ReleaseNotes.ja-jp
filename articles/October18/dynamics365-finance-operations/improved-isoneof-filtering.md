@@ -3,7 +3,7 @@ title: "最適化された「次の値のいずれか」フィルタリング結
 description: "「次の値のいずれか」フィルター演算子が改善されました。 新しいエクスペリエンスでは、単一の入力フィールドからフィルター値を入力するときに、複数のフィルター値を入力するのに必要なキー ストロークが少なくなりました。"
 author: jasongre
 manager: AnnBe
-ms.date: 11/01/2018
+ms.date: 01/08/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,16 +11,14 @@ ms.technology:
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: d97ebd0133cc27a2d24d0dc65beceac42894da89
-ms.openlocfilehash: e7c22bea50101ef89cebe1673cfb2e9528a7038f
+ms.sourcegitcommit: 847516428dc8bc5cd5e510b75545c9ea9293def0
+ms.openlocfilehash: 3b58c7caf610ccb8040083a00701a8c53ba7c070
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/01/2018
+ms.lasthandoff: 01/09/2019
 
 ---
 
 # <a name="optimized-is-one-of-filtering-experience"></a><span data-ttu-id="487c0-104">最適化された「次の値のいずれか」フィルタリング結果</span><span class="sxs-lookup"><span data-stu-id="487c0-104">Optimized "is one of" filtering experience</span></span>
-
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 <span data-ttu-id="487c0-105">フィルター ウィンドウおよびグリッド ヘッダーのドロップダウンリストを使用するとき、ほとんどのフィールドで「次の値のいずれか」フィルター演算子を使用できます。</span><span class="sxs-lookup"><span data-stu-id="487c0-105">The "is one of" filtering operator is available for most fields when using the Filter Pane and grid header drop-down lists.</span></span> <span data-ttu-id="487c0-106">この演算子を使用すると、複数の異なる値に基づいてフィールドをフィルター処理できます。</span><span class="sxs-lookup"><span data-stu-id="487c0-106">This operator allows a user to filter a field based on multiple, different values.</span></span> <span data-ttu-id="487c0-107">「次の値のいずれか」演算子の使いやすくなった新しいエクスペリエンスは、Platform Update 22 で利用できます。</span><span class="sxs-lookup"><span data-stu-id="487c0-107">A new and improved experience for the "is one of" operator is available in Platform Update 22.</span></span> <span data-ttu-id="487c0-108">改善点をよりよく理解するには、次の画像をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="487c0-108">To better understand the improvements, consider the following images.</span></span>
 

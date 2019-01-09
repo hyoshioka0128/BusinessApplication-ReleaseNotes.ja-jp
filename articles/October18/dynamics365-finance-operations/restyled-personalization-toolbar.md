@@ -3,7 +3,7 @@ title: "スタイルが新しくなった個人用設定ツール バー"
 description: "個人用設定ツール バーは、個人用設定の使いやすさを向上させるためにスタイルが新しくなりました。"
 author: jasongre
 manager: AnnBe
-ms.date: 10/26/2018
+ms.date: 01/08/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,16 +11,14 @@ ms.technology:
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: dbd8a17e3e500201426a03a48feb4bf5a2c7d024
-ms.openlocfilehash: 4a7eafefc76bf0185a9ee48616d793d256a06dce
+ms.sourcegitcommit: 847516428dc8bc5cd5e510b75545c9ea9293def0
+ms.openlocfilehash: 9bcf5921643de9ad046e7be21a147d67cdf43577
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/01/2018
+ms.lasthandoff: 01/09/2019
 
 ---
 
 # <a name="restyled-personalization-toolbar"></a><span data-ttu-id="7d1fa-103">スタイルが新しくなった個人用設定ツール バー</span><span class="sxs-lookup"><span data-stu-id="7d1fa-103">Restyled personalization toolbar</span></span>
-
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 <span data-ttu-id="7d1fa-104">個人用設定ツール バーは、Platform Update 22 でスタイルが新しくなり、ユーザーは Finance and Operations で自分のエクスペリエンスをより簡単に調整できます。</span><span class="sxs-lookup"><span data-stu-id="7d1fa-104">The personalization toolbar has been restyled in Platform Update 22 to help users more easily tailor their own experiences in Finance and Operations.</span></span> <span data-ttu-id="7d1fa-105">次の変更が行われました。</span><span class="sxs-lookup"><span data-stu-id="7d1fa-105">The following changes were made:</span></span> 
 

@@ -11,16 +11,14 @@ ms.technology:
 ms.author: robadawy
 audience: admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 95b8f4ed8f61973de532c513eb8c7f410bc805a5
+ms.sourcegitcommit: 847516428dc8bc5cd5e510b75545c9ea9293def0
+ms.openlocfilehash: a8c9b7666d428a779f75b2edcda35f2b3886145a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 01/09/2019
 
 ---
 
 # <a name="managing-batch-jobs"></a><span data-ttu-id="2f452-103">バッチ ジョブの管理</span><span class="sxs-lookup"><span data-stu-id="2f452-103">Managing batch jobs</span></span>
-
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 <span data-ttu-id="2f452-104">2018 年 10 月のリリース以降では、Finance and Operations 管理者にバッチ ジョブ管理に関する一連の新機能が提供されます。</span><span class="sxs-lookup"><span data-stu-id="2f452-104">Starting with the October 2018 release, Finance and Operations administrators will be presented with a set of new features in managing batch jobs.</span></span> <span data-ttu-id="2f452-105">これらの機能は、毎月のプラットフォーム更新プログラムの一部として段階的に提供されます。</span><span class="sxs-lookup"><span data-stu-id="2f452-105">These features will be incrementally delivered as a part of monthly platform updates.</span></span>
 

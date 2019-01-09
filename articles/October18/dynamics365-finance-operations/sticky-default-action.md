@@ -3,7 +3,7 @@ title: "グリッド内の既定の付箋アクション"
 description: "既定の付箋アクション機能は、個人用設定が適用された後で既定のアクション列がグリッド内に表示される位置を制御します。"
 author: jasongre
 manager: AnnBe
-ms.date: 10/09/2018
+ms.date: 01/08/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,16 +11,14 @@ ms.technology:
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 4e870aa1a93bbb42d8d9c61a539ff10bcf216d2e
+ms.sourcegitcommit: 847516428dc8bc5cd5e510b75545c9ea9293def0
+ms.openlocfilehash: 8c1d93c91cb5c9e1c8e1f19c9c1dbe57d27278e5
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 01/09/2019
 
 ---
 
 # <a name="sticky-default-actions-in-grids"></a><span data-ttu-id="378e3-103">グリッド内の既定の付箋アクション</span><span class="sxs-lookup"><span data-stu-id="378e3-103">Sticky default actions in grids</span></span>
-
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 <span data-ttu-id="378e3-104">Finance and Operations の多くのグリッドで、*既定のアクション*が定義されています。</span><span class="sxs-lookup"><span data-stu-id="378e3-104">Many grids in Finance and Operations have a defined *default action*.</span></span> <span data-ttu-id="378e3-105">これは、すべての行の値が常にハイパーリンクとして表示されるグリッド内の単一の列です。これに対し、他の列では、アクティブな行の値のみがハイパーリンクとして表示されます。</span><span class="sxs-lookup"><span data-stu-id="378e3-105">This is a single column in the grid where the value in every row always appears as a hyperlink, as opposed to other columns where only the value in the active row appears as a hyperlink.</span></span> <span data-ttu-id="378e3-106">これまでの Finance and Operations では、この既定のアクションは常に、ユーザーが個人用設定を適用する前の、グリッドの最初のテキスト列に表示されます。</span><span class="sxs-lookup"><span data-stu-id="378e3-106">To date, in Finance and Operations, this default action always appears on the first textual column in a grid before any user personalization is applied.</span></span> <span data-ttu-id="378e3-107">たとえば、次のような**顧客**リストの**取引先企業**列について考えます。</span><span class="sxs-lookup"><span data-stu-id="378e3-107">As an example, consider the **Account** column in the **Customer** list below.</span></span>
 

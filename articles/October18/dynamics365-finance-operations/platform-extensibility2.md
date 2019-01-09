@@ -3,7 +3,7 @@ title: "プラットフォーム拡張性の機能強化ウェーブ 2"
 description: "プラットフォーム拡張性の機能強化ウェーブ 2"
 author: ChrisGarty
 manager: AnnBe
-ms.date: 11/05/2018
+ms.date: 01/08/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,16 +11,14 @@ ms.technology:
 ms.author: cgarty
 audience: developer, customizer
 ms.translationtype: HT
-ms.sourcegitcommit: ec50925f3d4f9438b61b4dbc37210400b49dc9f1
-ms.openlocfilehash: b392fb8e999447e6586b6fa1afc48360cfdf1b2a
+ms.sourcegitcommit: 847516428dc8bc5cd5e510b75545c9ea9293def0
+ms.openlocfilehash: e1bf2b7819ecf72c69c49a1d0a5ccc63ac09c42a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/06/2018
+ms.lasthandoff: 01/09/2019
 
 ---
 
 # <a name="platform-extensibility-enhancements-wave-2"></a><span data-ttu-id="48752-103">プラットフォーム拡張性の機能強化ウェーブ 2</span><span class="sxs-lookup"><span data-stu-id="48752-103">Platform extensibility enhancements wave 2</span></span>
-
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 <span data-ttu-id="48752-104">プラットフォーム更新プログラム 21 で強化された拡張性機能:</span><span class="sxs-lookup"><span data-stu-id="48752-104">Enhanced extensibility capabilities in Platform update 21:</span></span>
 

@@ -3,7 +3,7 @@ title: "ナビゲーション ウィンドウの使いやすさの向上"
 description: "ナビゲーション ウィンドウにいくつかの機能拡張が追加され、使いやすさが向上しました。"
 author: jasongre
 manager: AnnBe
-ms.date: 10/25/2018
+ms.date: 01/08/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,16 +11,14 @@ ms.technology:
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: dbd8a17e3e500201426a03a48feb4bf5a2c7d024
-ms.openlocfilehash: 74c361095502d1cce0bd9d526eeeaaccabb77689
+ms.sourcegitcommit: 847516428dc8bc5cd5e510b75545c9ea9293def0
+ms.openlocfilehash: a83c2e17f40f1ebb71e90bc18b2b0dcf0decee1e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/01/2018
+ms.lasthandoff: 01/09/2019
 
 ---
 
 # <a name="improved-usability-of-the-navigation-pane"></a><span data-ttu-id="bb21d-103">ナビゲーション ウィンドウの使いやすさの向上</span><span class="sxs-lookup"><span data-stu-id="bb21d-103">Improved usability of the navigation pane</span></span>
-
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 <span data-ttu-id="bb21d-104">ナビゲーション ウィンドウは、Finance and Operations でよく使われるナビゲーション メカニズムであり、お気に入り、最近開いたページ、ワークスペース、メイン メニューへのアクセスを提供します。</span><span class="sxs-lookup"><span data-stu-id="bb21d-104">The navigation pane is a highly used navigation mechanism in Finance and Operations that provides access to favorites, recently opened pages, workspaces, and the main menu.</span></span> <span data-ttu-id="bb21d-105">使用頻度が高いので、ナビゲーション ウィンドウは使いやすさを向上させるためにいくつかの方法で強化されています。</span><span class="sxs-lookup"><span data-stu-id="bb21d-105">Because of its high usage, the navigation pane has been enhanced in a few ways to improve its usability.</span></span> <span data-ttu-id="bb21d-106">これらの変更は、Platform Update 22 以降で利用できます。</span><span class="sxs-lookup"><span data-stu-id="bb21d-106">These changes are available starting in Platform Update 22.</span></span> 
 
