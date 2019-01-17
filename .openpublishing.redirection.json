@@ -1,0 +1,311 @@
+{  
+  "redirections": [
+    {
+      "source_path": "articles/April18/index.md",
+      "redirect_url": "release-overview",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April18/microsoft-flow/customize-sharepoint-content-approvals-flow.md",
+      "redirect_url": "../../October18/microsoft-flow/customize-sharepoint-content-approvals-with-flow",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April18/microsoft-flow/repair-recommendations-sent-email-failed-flows.md",
+      "redirect_url": "../../October18/microsoft-flow/repair-recommendations-sent-in-email-for-failed-flows",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April18/power-bi/index.md",
+      "redirect_url": "overview.md",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-finance-operations/data-resident-subscription.md",
+      "redirect_url": "/business-applications-release-notes/October18/dynamics365-finance-operations/planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-finance-operations/supportability-rules.md",
+      "redirect_url": "https//docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-finance-operations/planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/intelligence-platform/power-bi-service/automated-ml-dataflows.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/intelligence-platform/power-bi-service/azure-ml-integration.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/microsoft-flow/admin-analytics.md",
+      "redirect_url": "../../April18/microsoft-flow/admin-analytics",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/microsoft-flow/power-query-integration.md",
+      "redirect_url": "../../April18/microsoft-flow/power-query-integration",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/mixed-reality/microsoft-layout/in-app-tutorial.md",
+      "redirect_url": "https//docs.microsoft.com/dynamics365/mixed-reality/layout/",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/mixed-reality/microsoft-layout/layout.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/mixed-reality/microsoft-remote-assist/group-calling.md",
+      "redirect_url": "https//docs.microsoft.com/dynamics365/mixed-reality/remote-assist/user-guide",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/mixed-reality/microsoft-remote-assist/localization.md",
+      "redirect_url": "https//docs.microsoft.com/dynamics365/mixed-reality/remote-assist/user-guide",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/mixed-reality/microsoft-remote-assist/mobile-annotations.md",
+      "redirect_url": "https//docs.microsoft.com/dynamics365/mixed-reality/remote-assist/user-guide",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/mixed-reality/microsoft-remote-assist/remote-assist.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/powerapps/enhancements-to-roll-up-views-in-common-data-service.md",
+      "redirect_url": "enhancements-to-roll-up-views-in-unified-interface",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/service/customer-service-omni-channel-release-notes/index.md",
+      "redirect_url": "omni-channel-engagement-hub-overview",
+      "redirect_document_id": "false"
+    },
+
+    {
+      "source_path": "articles/october18/service/customer-service-omni-channel-release-notes/agent-supervisor-experiences.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/service/customer-service-core-release-notes/customer-service-health-in-admin-center.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/intelligence-platform/power-bi-desktop/adhoc-exploration.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/powerapps/enhanced-service-health-page.md",
+      "redirect_url": "../change-history#powerapps",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/powerapps/simplified-gallery-form-and-data-table-field-selection-and-binding.md",
+      "redirect_url": "../change-history#powerapps",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/powerapps/rich-text-editor-and-html-view-controls-for-canvas-apps.md",
+      "redirect_url": "../change-history#powerapps",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/powerapps/support-for-custom-messages.md",
+      "redirect_url": "../change-history#powerapps",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/powerapps/improved-speed-of-apps.md",
+      "redirect_url": "../change-history#powerapps",
+      "redirect_document_id": "false"
+    },
+    {
+
+      "source_path": "articles/October18/powerapps/additional-enhancements-added-to-the-formula-bar.md",
+      "redirect_url": "../change-history#powerapps",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/intelligence-platform/power-bi-service/additional-report-url-parameter-support.md",
+      "redirect_url": "../../../April18/power-bi/service/additional-report-url-parameter-support",
+      "redirect_document_id": "true"
+    },
+    {
+      "source_path": "articles/October18/intelligence-platform/power-bi-service/filters-for-report-sharing.md",
+      "redirect_url": "../../../April18/power-bi/service/filters-for-report-sharing",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-sales/call-intelligence-sales-app.md",
+      "redirect_url": "../change-history",
+      "redirect_document_id": "true"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-sales/dynamics-365-ai-sales-app.md",
+      "redirect_url": "../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-sales/notes-analysis.md",
+      "redirect_url": "../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-sales/predictive-lead-scoring.md",
+      "redirect_url": "../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-sales/predictive-opportunity-scoring.md",
+      "redirect_url": "../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-sales/relationship-analytics.md",
+      "redirect_url": "../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-sales/talking-points.md",
+      "redirect_url": "../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-sales/who-knows-whom.md",
+      "redirect_url": "../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/intelligence-platform/power-bi-desktop/qna-telemetry-pipeline.md",
+      "redirect_url": "../planned-features",
+      "redirect_document_id": "true"
+    },
+    {
+      "source_path": "articles/October18/intelligence-platform/power-bi-desktop/custom-fonts.md",
+      "redirect_url": "../planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-business-central/LPP.md",
+      "redirect_url": "late-payment-prediction",
+      "redirect_document_id": "true"
+    },
+    {
+      "source_path": "articles/October18/powerapps/sharing-enhancements.md",
+      "redirect_url": "sharing-enhancements-for-canvas-apps",
+      "redirect_document_id": "true"
+    },
+    {
+      "source_path": "articles/October18/powerapps/support-for-delegate-users-in-common-data-service.md",
+      "redirect_url": "support-for-delegate-users-in-dynamics-365",
+      "redirect_document_id": "true"
+    },
+    {
+      "source_path": "articles/October18/powerapps/more-reliable-outlook-client-v8.2-for-common-data-sevice.md",
+      "redirect_url": "more-reliable-outlook-client-v8.2-for-dynamics-365",
+      "redirect_document_id": "true"
+    },
+    {
+      "source_path": "articles/October18/powerapps/more-reliable-outlook-client-v9.0-for-common-data-sevice.md",
+      "redirect_url": "more-reliable-outlook-client-v9.0-for-dynamics-365",
+      "redirect_document_id": "true"
+    },
+    {
+      "source_path": "articles/October18/powerapps/enhancements-to-roll-up-views-in-common-data-sevice.md",
+      "redirect_url": "enhancements-to-roll-up-views-in-unified-interface",
+      "redirect_document_id": "true"
+    },
+    {
+      "source_path": "articles/October18/powerapps/reporting-services-reports-in-dynamics-365-are-now-accessible.md",
+      "redirect_url": "reporting-services-reports-available-on-unified-interface",
+      "redirect_document_id": "true"
+    },
+    {
+      "source_path": "articles/October18/powerapps/enhanced-sharepoint-forms-functionality.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/powerapps/emerging-ecosystem-of-isvs-on-the-platform.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April18/power-bi/embedded/themes-support.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April18/power-bi/embedded/single-sign-sso-azure-sql-database.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/intelligence-platform/power-bi-service/historical-capacity-metrics.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/intelligence-platform/power-bi-mobile/power-bi-paginated-reports-available-mobile.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/intelligence-platform/power-bi-mobile/personalized-home-experience.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April18/power-bi/advanced-data-prep/linked-entities.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April18/power-bi/advanced-data-prep/index.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April18/power-bi/advanced-data-prep/datapools-on-premium-capacity.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April18/power-bi/advanced-data-prep/datapool-refresh.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April18/power-bi/advanced-data-prep/computed-entities.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April18/power-bi/advanced-data-prep/azure-integration.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April18/power-bi/advanced-data-prep/advanced-data-prep-datapools.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April18/availability.md",
+      "redirect_url": "https://aka.ms/dynamics_365_international_availability_deck",
+      "redirect_document_id": "false"
+    }
+  ]
+}
