@@ -2,8 +2,8 @@
 title: "読みやすくなった式の書式"
 description: "アプリ開発者は、自動フォーマットを有効にして、複雑な式を理解しやすくできます"
 author: lancedMicrosoft
-manager: KVivek
-ms.date: 11/27/2018
+ms.reviewer: anneta
+ms.date: 01/03/2019
 ms.assetid: 531c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: lanced
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: d90e25e054748e7191f0dadb90d43e64f74ec63f
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: 09443628ac6095496ff3f3d8b672fe763fc5df44
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="formula-formatting-easier-to-read"></a><span data-ttu-id="f00ec-103">読みやすくなった式の書式</span><span class="sxs-lookup"><span data-stu-id="f00ec-103">Formula formatting easier to read</span></span>

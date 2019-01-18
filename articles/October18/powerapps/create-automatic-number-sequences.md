@@ -2,8 +2,8 @@
 title: "自動採番の作成"
 description: "アプリ用 Common Data Service のレコードで連番が自動で生成されるよう採番方法を定義します。"
 author: matthewbolanos
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: anneta
+ms.date: 12/20/2018
 ms.assetid: 5a1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mabolan
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 1257915e82c89bd1dd50a93185f628d28f723080
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: 9c7818f2c92b569a24d4609ed10f2dbd86a43c36
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="create-automatic-number-sequences"></a><span data-ttu-id="7c44c-103">自動採番の作成</span><span class="sxs-lookup"><span data-stu-id="7c44c-103">Create automatic number sequences</span></span>

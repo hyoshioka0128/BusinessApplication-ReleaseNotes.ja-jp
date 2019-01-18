@@ -2,8 +2,8 @@
 title: "アプリ用 Common Data Service のデータを使用した Power BI レポートの作成"
 description: "アプリ開発者は、アプリ用 Common Data Service 向けの更新された Power BI コネクタを使用して Power BI デスクトップでレポートを作成できます。"
 author: matthewbolanos
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: anneta
+ms.date: 11/29/2018
 ms.assetid: 181c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mabolan
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 71f5a8c79523ca63d78125961cb9a79821f349a1
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: b049bae66d0da2d52b747085bd8190f3734f8fc6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="create-power-bi-reports-using-data-in-common-data-service-for-apps"></a><span data-ttu-id="f1638-103">アプリ用 Common Data Service のデータを使用した Power BI レポートの作成</span><span class="sxs-lookup"><span data-stu-id="f1638-103">Create Power BI reports using data in Common Data Service for Apps</span></span>

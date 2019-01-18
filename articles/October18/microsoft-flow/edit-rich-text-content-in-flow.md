@@ -2,8 +2,8 @@
 title: "Microsoft Flow でのリッチ テキスト コンテンツの編集"
 description: "Microsoft Flow デザイナーでは、HTML エディタでリッチ テキストの書式設定がサポートされるようになりました。"
 author: stepsic-microsoft-com
-manager: KVivek
-ms.date: 11/28/2018
+ms.reviewer: deonhe
+ms.date: 01/02/2019
 ms.assetid: 6dac8371-64d9-e811-a987-000d3a1362e3
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: stepsic
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: fbd1429fb97a757114aca0e6ec8c4b0758a39a19
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: 9150077f7c44a61a5101fca2d9b02294690d7674
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="edit-rich-text-content-in-microsoft-flow"></a><span data-ttu-id="580ca-103">Microsoft Flow でのリッチ テキスト コンテンツの編集</span><span class="sxs-lookup"><span data-stu-id="580ca-103">Edit Rich Text content in Microsoft Flow</span></span>

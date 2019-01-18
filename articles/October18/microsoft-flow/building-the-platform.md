@@ -3,7 +3,7 @@ title: "プラットフォームの構築"
 description: "メーカーと管理者のライフサイクルおよびコンプライアンス要件を満たすエンタープライズ グレードのプラットフォーム。"
 author: stepsic-microsoft-com
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/29/2018
 ms.assetid: 48ab17c8-3973-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: stepsic
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 52d7e5423e69581f9eb8c4a22edb9420bc2733e8
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: 070ab4a074fb9efb6184234d3984e918b99ae7a3
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="building-the-platform"></a><span data-ttu-id="c6e6e-103">プラットフォームの構築</span><span class="sxs-lookup"><span data-stu-id="c6e6e-103">Building the platform</span></span>

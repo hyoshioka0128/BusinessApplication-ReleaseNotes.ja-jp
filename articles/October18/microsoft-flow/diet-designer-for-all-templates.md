@@ -2,8 +2,8 @@
 title: "すべてのテンプレートに対する Diet デザイナー"
 description: "フローの作成は、テンプレートの最初に構成するエクスペリエンスを使用するととても簡単です。ユーザーは、必要なパラメーターを指定して実行するだけです。"
 author: sunayv
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: deonhe
+ms.date: 01/02/2019
 ms.assetid: 4b7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: sunayv
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 7aea1bda0af2b0d15791021502e824a5413d070b
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: 5fd9afa44aac94450b580e29a7e572403f5e8a03
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="diet-designer-for-all-templates"></a><span data-ttu-id="2ceeb-103">すべてのテンプレートに対する Diet デザイナー</span><span class="sxs-lookup"><span data-stu-id="2ceeb-103">Diet designer for all templates</span></span>

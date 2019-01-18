@@ -2,8 +2,8 @@
 title: "ソリューションを使用したキャンバス アプリの ALM の向上"
 description: "ソリューションには、キャンバス アプリ、およびモデル駆動型アプリ、フロー、他のコンポーネントを含めることができます。"
 author: litran
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: anneta
+ms.date: 11/29/2018
 ms.assetid: 381c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: litran
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: feffa942339c72da2171fd24dd9287cc6e9a6d49
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: f55c52fc449d9431a7086d393b65c9423f6dcfda
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="improve-alm-for-canvas-apps-with-solutions-public-preview"></a><span data-ttu-id="7ec81-103">ソリューションを使用したキャンバス アプリの ALM の向上 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="7ec81-103">Improve ALM for canvas apps with solutions (Public Preview)</span></span>

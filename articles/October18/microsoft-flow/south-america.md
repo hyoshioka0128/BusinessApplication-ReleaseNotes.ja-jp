@@ -2,8 +2,8 @@
 title: "南米地域"
 description: "Microsoft Flow は南米に現在展開されているため、主にブラジルにある環境を作成することができます。"
 author: stepsic-microsoft-com
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: deonhe
+ms.date: 01/02/2019
 ms.assetid: 437e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: stepsic
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: cbedc91dd7fcc291e4cf8b584b784688f9058038
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: e5b2aa54eb5dcec1d99acb13cff351c1558ac739
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="south-america-region"></a><span data-ttu-id="e01c0-103">南米地域</span><span class="sxs-lookup"><span data-stu-id="e01c0-103">South America region</span></span>

@@ -2,8 +2,8 @@
 title: "新しい Microsoft Flow ポータルとデザイナー エクスペリエンス"
 description: "デザイナーの内部でのナビゲーションおよび検索アクション用の新しい Microsoft Flow エクスペリエンス。"
 author: sunayv
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: deonhe
+ms.date: 01/02/2019
 ms.assetid: 4f7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: sunayv
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 3b237595c6354b2e614a344523f8d4ab7dd8a54a
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: 323bbf58429f60f09a78aeb5ac2f428b8b206660
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="new-microsoft-flow-portal-and-designer-experience"></a><span data-ttu-id="ae142-103">新しい Microsoft Flow ポータルとデザイナー エクスペリエンス</span><span class="sxs-lookup"><span data-stu-id="ae142-103">New Microsoft Flow portal and designer experience</span></span>

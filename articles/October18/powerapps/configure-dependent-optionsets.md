@@ -2,8 +2,8 @@
 title: "依存オプション セットの構成"
 description: "依存オプション セットを構成すると、アプリでカスケード ドロップダウンを提供し、ドロップダウン間で簡単なデータ検証を行えます。"
 author: matthewbolanos
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: anneta
+ms.date: 11/29/2018
 ms.assetid: 641c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mabolan
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: a28c422000afcdbe9f2662b731d28fdd82059a99
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: d48cdf4695a3fe1de51ac82262530b3a8364b566
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="configure-dependent-option-sets-public-preview"></a><span data-ttu-id="2dcb6-103">依存オプション セットの構成 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="2dcb6-103">Configure dependent option sets (Public Preview)</span></span>

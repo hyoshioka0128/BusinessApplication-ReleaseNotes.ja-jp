@@ -3,7 +3,7 @@ title: "業務プロセスの一般化"
 description: "すべてのユーザーが業務のプロセス キーを作成して実行できるように、業務プロセスを一般化します。"
 author: KaranSr
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/29/2018
 ms.assetid: f19c6917-3a73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: karansr
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: ad828f8d3144bf28c8962ea1b38d1fd5b5752803
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: e9a53d382f5793053527ee402acbe228172deed0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="democratize-business-processes"></a><span data-ttu-id="0c7c0-103">業務プロセスの一般化</span><span class="sxs-lookup"><span data-stu-id="0c7c0-103">Democratize business processes</span></span>

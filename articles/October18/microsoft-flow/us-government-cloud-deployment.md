@@ -2,8 +2,8 @@
 title: "米国政府機関クラウドの展開"
 description: "Microsoft Flow を政府機関クラウド SKU で使用できるようになります"
 author: stepsic-microsoft-com
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: deonhe
+ms.date: 01/02/2019
 ms.assetid: 457e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: stepsic
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: d2c3363d9c275bca1415dc204cbbb82ab6a9bfee
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: 2e1d034ea13866524445ee2a9054f0cfcfd9d6bb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="us-government-cloud-deployment-public-preview"></a><span data-ttu-id="2479e-103">米国政府機関クラウドの展開 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="2479e-103">US government cloud deployment (Public Preview)</span></span>

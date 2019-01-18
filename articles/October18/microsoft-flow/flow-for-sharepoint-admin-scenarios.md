@@ -2,8 +2,8 @@
 title: "Flow for SharePoint の管理シナリオ"
 description: "このフローは、ハブ参加やサイト プロビジョニングなどの SharePoint 管理シナリオに使用されます。"
 author: Mhade
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: deonhe
+ms.date: 01/09/2019
 ms.assetid: 410627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mhade
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 2413fe1d94475de8adb78b3df938d6ba4d54f089
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: b05bdc9695765334d775fd137b2c3a71f9c4a8da
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="flow-for-sharepoint-admin-scenarios"></a><span data-ttu-id="df09d-103">Flow for SharePoint の管理シナリオ</span><span class="sxs-lookup"><span data-stu-id="df09d-103">Flow for SharePoint admin scenarios</span></span>

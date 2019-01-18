@@ -2,8 +2,8 @@
 title: "承認のカスタム応答オプション"
 description: "開発者は、必要などのようなオプションをいくつでも含む承認フローを構築することができます。"
 author: Mhade
-manager: KVivek
-ms.date: 11/27/2018
+ms.reviewer: deonhe
+ms.date: 12/14/2018
 ms.assetid: e37358cb-f6c4-e811-a971-000d3a137208
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mhade
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 6aada4de4fc0ad92a1ed3ec27730d24bef079254
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: f53519b431399d5c07220dc95c13ac5c1958d935
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="custom-response-options-in-approvals"></a><span data-ttu-id="b5752-103">承認のカスタム応答オプション</span><span class="sxs-lookup"><span data-stu-id="b5752-103">Custom response options in Approvals</span></span>

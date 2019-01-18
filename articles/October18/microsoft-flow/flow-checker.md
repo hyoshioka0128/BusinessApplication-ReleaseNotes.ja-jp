@@ -2,8 +2,8 @@
 title: "フロー チェッカー"
 description: "フロー チェッカーは、向上した検証およびエラー修正エクスペリエンスを提供します。 フロー内のエラーや警告がある場所についてのコンテキスト内ヘルプを取得し、それらのエラーを修正する方法のガイドを参照できます。"
 author: sunayv
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: deonhe
+ms.date: 01/02/2019
 ms.assetid: 4d7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: sunayv
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 0bdaf0e948f9a1efcbcdc93a7be2d51f98d77b6b
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: 8a899a8318be46179187f04560465f3a61879cfb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="flow-checker"></a><span data-ttu-id="13add-104">フロー チェッカー</span><span class="sxs-lookup"><span data-stu-id="13add-104">Flow checker</span></span>

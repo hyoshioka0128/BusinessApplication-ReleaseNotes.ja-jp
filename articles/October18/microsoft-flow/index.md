@@ -3,7 +3,7 @@ title: Microsoft Flow
 description: "お気に入りのアプリを Microsoft Flow と統合することで、タスクを自動化します。 ワークフローの自動化で、反復的なタスクを簡単にします。"
 author: stepsic-microsoft-com
 manager: KVivek
-ms.date: 11/2/2018
+ms.date: 11/02/2018
 ms.assetid: 009005b1-8b41-e811-a954-000d3a15a7d1
 ms.topic: overview
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: stepsic
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 0151d1a2e4ea259905aef314b9725bfd54a7a681
-ms.openlocfilehash: 550c9eb75a40181cc71d24adaa4c8d1c973e2648
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: 745c10893602f782fe3a114bf791a41c58acdd3f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/17/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 

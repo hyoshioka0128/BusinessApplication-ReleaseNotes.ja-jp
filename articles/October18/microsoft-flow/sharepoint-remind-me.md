@@ -2,8 +2,8 @@
 title: "SharePoint リマインダー"
 description: "Microsoft Flow は、SharePoint の日時列に関するアラートを設定するために使用できます。"
 author: Mhade
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: deonhe
+ms.date: 01/02/2019
 ms.assetid: 430627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mhade
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: a26930dae68ecf01e37eb4cf37d3e1b76a032c19
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: 09896115c2ea385d508d9944b9a5ed55a5a1032d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="sharepoint-remind-me"></a><span data-ttu-id="cb654-103">SharePoint リマインダー</span><span class="sxs-lookup"><span data-stu-id="cb654-103">SharePoint Remind Me</span></span>

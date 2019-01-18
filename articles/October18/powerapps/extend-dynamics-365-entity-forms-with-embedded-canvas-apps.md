@@ -2,8 +2,8 @@
 title: "埋め込みキャンバス アプリによる Dynamics 365 エンティティ フォームの拡張"
 description: "任意の Sales、Service、Marketing、またはカスタム エンティティ フォームにキャンバス アプリを埋め込んで、わずかなコーディングによる豊富なカスタマイズのほか、200 以上のデータ ソースをフル活用できます。"
 author: aneesmsft
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: anneta
+ms.date: 12/19/2018
 ms.assetid: 131c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,16 +12,16 @@ ms.technology:
 ms.author: aneesa
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 62c02f3509cdec06cd453313d0efd091ceef217d
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: 2b3500332242a435d3d3ee4fdb392e1399dd0374
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="extend-dynamics-365-entity-forms-with-embedded-canvas-apps-public-preview"></a><span data-ttu-id="7d79c-103">埋め込みキャンバス アプリによる Dynamics 365 エンティティ フォームの拡張 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="7d79c-103">Extend Dynamics 365 entity forms with embedded canvas apps (Public Preview)</span></span>
 
 
-[!include[banner](../../includes/banner.md)]
+
 
 <span data-ttu-id="7d79c-104">キャンバス アプリにより、アプリ開発者はわずかなコーディングによるカスタマイズ機能を通じて豊富な美しいユーザー エクスペリエンスを提供できます。</span><span class="sxs-lookup"><span data-stu-id="7d79c-104">Canvas apps enable app makers to deliver a rich, pixel-perfect user experience via low-code customization capabilities.</span></span> <span data-ttu-id="7d79c-105">また、幅広いクラウド サービス (Office 365 や SharePoint) およびオンプレミス データ ソース (ゲートウェイ経由) を始めとする 200 以上のデータ ソースへの接続に対応しています。</span><span class="sxs-lookup"><span data-stu-id="7d79c-105">They also support connecting to more than 200 data sources including a range of cloud services (such as Office 365 and SharePoint) as well as on-premises data sources (via a gateway).</span></span> <span data-ttu-id="7d79c-106">アプリ開発者は、モデル駆動型フォームにキャンバス アプリを埋め込むことで、これらの機能をモデル駆動型アプリに直接もたらすことができます。</span><span class="sxs-lookup"><span data-stu-id="7d79c-106">Now app makers can bring these capabilities directly into their model-driven apps by embedding canvas apps in their model-driven forms.</span></span> 
  

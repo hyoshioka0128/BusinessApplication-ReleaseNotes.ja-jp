@@ -2,8 +2,8 @@
 title: "PowerApps からのソリューションの検索と操作がより簡単に"
 description: "PowerApps でソリューション リストとソリューション エクスプローラーを使用できます。"
 author: litran
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: anneta
+ms.date: 11/29/2018
 ms.assetid: 351c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: litran
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 6dd3bf455c1a36f988a3080584366cdfc76fb8ee
+ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
+ms.openlocfilehash: 3243aeeb440fc7fd80a558282d6c01588165c58a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/18/2019
 
 ---
 # <a name="easier-to-find-and-work-with-solutions-from-powerapps"></a><span data-ttu-id="cbedb-103">PowerApps からのソリューションの検索と操作がより簡単に</span><span class="sxs-lookup"><span data-stu-id="cbedb-103">Easier to find and work with solutions from PowerApps</span></span>
