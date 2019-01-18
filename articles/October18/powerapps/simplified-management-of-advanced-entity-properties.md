@@ -2,8 +2,8 @@
 title: "エンティティの詳細プロパティの管理を簡略化"
 description: "エンティティやフィールドの詳細プロパティを PowerApps ポータルから管理できるようになり、ソリューション エクスプローラーを使用する必要がなりくなります"
 author: matthewbolanos
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: anneta
+ms.date: 11/29/2018
 ms.assetid: 5f1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

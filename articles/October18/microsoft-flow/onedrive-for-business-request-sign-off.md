@@ -2,8 +2,8 @@
 title: "OneDrive for Business 要求のサインオフ"
 description: "OneDrive for Business に、SharePoint に似た埋め込みの要求のサインオフ エクスペリエンスが備わります。"
 author: Mhade
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: deonhe
+ms.date: 01/02/2019
 ms.assetid: 349e1b68-aa74-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 

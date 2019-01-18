@@ -2,8 +2,8 @@
 title: "エンドユーザーは個人用ダッシュボードを作成して他のユーザーやチームと共有可能"
 description: "エンドユーザーは個人用ダッシュボードでウィジェットを使用できます"
 author: prsi
-manager: KVivek
-ms.date: 11/27/2018
+ms.reviewer: mkaur
+ms.date: 01/02/2019
 ms.assetid: 701c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

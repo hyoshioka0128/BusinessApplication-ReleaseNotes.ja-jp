@@ -1,15 +1,15 @@
 ---
 title: "共有およびコネクタ管理分析レポート"
 description: "共有レポートとコネクタ レポートはどちらも Microsoft Flow 管理分析で使用できます。"
-author: KentWeareMSFT
-manager: KVivek
-ms.date: 11/20/2018
+author: stepsic-microsoft-com
+ms.reviewer: deonhe
+ms.date: 01/03/2019
 ms.assetid: a3632f34-4ad9-e811-a987-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: keweare
+ms.author: stepsic
 audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5

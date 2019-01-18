@@ -2,8 +2,8 @@
 title: "埋め込みキャンバス アプリによる Dynamics 365 エンティティ フォームの拡張"
 description: "任意の Sales、Service、Marketing、またはカスタム エンティティ フォームにキャンバス アプリを埋め込んで、わずかなコーディングによる豊富なカスタマイズのほか、200 以上のデータ ソースをフル活用できます。"
 author: aneesmsft
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: anneta
+ms.date: 12/19/2018
 ms.assetid: 131c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -21,7 +21,7 @@ ms.lasthandoff: 10/26/2018
 # <a name="extend-dynamics-365-entity-forms-with-embedded-canvas-apps-public-preview"></a>埋め込みキャンバス アプリによる Dynamics 365 エンティティ フォームの拡張 (パブリック プレビュー)
 
 
-[!include[banner](../../includes/banner.md)]
+
 
 キャンバス アプリにより、アプリ開発者はわずかなコーディングによるカスタマイズ機能を通じて豊富な美しいユーザー エクスペリエンスを提供できます。 また、幅広いクラウド サービス (Office 365 や SharePoint) およびオンプレミス データ ソース (ゲートウェイ経由) を始めとする 200 以上のデータ ソースへの接続に対応しています。 アプリ開発者は、モデル駆動型フォームにキャンバス アプリを埋め込むことで、これらの機能をモデル駆動型アプリに直接もたらすことができます。 
  

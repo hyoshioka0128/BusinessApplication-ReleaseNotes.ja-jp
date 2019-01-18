@@ -3,7 +3,7 @@ title: Microsoft Flow
 description: "お気に入りのアプリを Microsoft Flow と統合することで、タスクを自動化します。 ワークフローの自動化で、反復的なタスクを簡単にします。"
 author: stepsic-microsoft-com
 manager: KVivek
-ms.date: 11/2/2018
+ms.date: 11/02/2018
 ms.assetid: 009005b1-8b41-e811-a954-000d3a15a7d1
 ms.topic: overview
 ms.prod: 

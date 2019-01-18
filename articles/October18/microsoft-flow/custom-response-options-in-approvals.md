@@ -2,8 +2,8 @@
 title: "承認のカスタム応答オプション"
 description: "開発者は、必要などのようなオプションをいくつでも含む承認フローを構築することができます。"
 author: Mhade
-manager: KVivek
-ms.date: 11/27/2018
+ms.reviewer: deonhe
+ms.date: 12/14/2018
 ms.assetid: e37358cb-f6c4-e811-a971-000d3a137208
 ms.topic: article
 ms.prod: 

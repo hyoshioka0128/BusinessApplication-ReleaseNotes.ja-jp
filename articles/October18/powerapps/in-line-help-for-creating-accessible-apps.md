@@ -2,8 +2,8 @@
 title: "アクセスしやすいアプリを作成するためのインライン ヘルプ"
 description: "アプリ開発者は、アプリのアクセシビリティに関する問題を修正する際にアクセシビリティ チェックを使用して問題を特定してヘルプを得ることができます"
 author: emcoope-msft
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: anneta
+ms.date: 12/07/2018
 ms.assetid: 0f1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

@@ -2,8 +2,8 @@
 title: "新しい管理者向け分析レポート"
 description: "新しい PowerApps、Microsoft Flow、およびアプリ用 Common Data Service の使用状況レポートをすべての管理者が利用できます"
 author: jamesol-msft
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: jimholtz
+ms.date: 01/02/2019
 ms.assetid: a81c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

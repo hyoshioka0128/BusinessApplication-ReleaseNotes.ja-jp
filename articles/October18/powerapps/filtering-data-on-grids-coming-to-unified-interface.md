@@ -2,8 +2,8 @@
 title: "統一インターフェイスでグリッド上のデータのフィルター処理が可能"
 description: "エンドユーザーはグリッドでデータをフィルター処理できます"
 author: sidhartg
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: mkaur
+ms.date: 01/02/2019
 ms.assetid: 781c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

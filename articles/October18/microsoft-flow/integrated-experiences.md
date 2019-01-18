@@ -3,7 +3,7 @@ title: "統合エクスペリエンス"
 description: "Office 365 および Dynamics 365 との連携が向上し、SharePoint、Teams、Excel などに統合エクスペリエンスが提供されます。"
 author: Mhade
 manager: KVivek
-ms.date: 10/2/2018
+ms.date: 11/29/2018
 ms.assetid: 5e67a6cc-3773-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 

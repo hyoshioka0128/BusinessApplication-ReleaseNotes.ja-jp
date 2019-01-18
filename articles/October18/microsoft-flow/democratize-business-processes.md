@@ -3,7 +3,7 @@ title: "業務プロセスの一般化"
 description: "すべてのユーザーが業務のプロセス キーを作成して実行できるように、業務プロセスを一般化します。"
 author: KaranSr
 manager: KVivek
-ms.date: 9/3/2018
+ms.date: 11/29/2018
 ms.assetid: f19c6917-3a73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 

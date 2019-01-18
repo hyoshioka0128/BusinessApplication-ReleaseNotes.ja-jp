@@ -2,8 +2,8 @@
 title: "ソリューションを使用したフローの ALM の向上"
 description: "ソリューションには、キャンバス アプリ、およびモデル駆動型アプリ、フロー、他のコンポーネントを含めることができます。"
 author: stepsic-microsoft-com
-manager: KVivek
-ms.date: 11/27/2018
+ms.reviewer: deonhe
+ms.date: 01/02/2019
 ms.assetid: 66861f2b-56e1-e811-a976-000d3a137a43
 ms.topic: article
 ms.prod: 

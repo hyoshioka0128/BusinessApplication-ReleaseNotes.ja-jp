@@ -2,8 +2,8 @@
 title: "読みやすくなった式の書式"
 description: "アプリ開発者は、自動フォーマットを有効にして、複雑な式を理解しやすくできます"
 author: lancedMicrosoft
-manager: KVivek
-ms.date: 11/27/2018
+ms.reviewer: anneta
+ms.date: 01/03/2019
 ms.assetid: 531c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

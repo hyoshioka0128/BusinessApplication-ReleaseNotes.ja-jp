@@ -2,8 +2,8 @@
 title: "Flow for SharePoint の管理シナリオ"
 description: "このフローは、ハブ参加やサイト プロビジョニングなどの SharePoint 管理シナリオに使用されます。"
 author: Mhade
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: deonhe
+ms.date: 01/09/2019
 ms.assetid: 410627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 

@@ -2,8 +2,8 @@
 title: "レスポンシブ レイアウトでのキャンバス アプリの作成"
 description: "上級の作成者は、レスポンシブなアプリを作成して、さまざまな環境に動的に調整できます。"
 author: gregli-msft
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: anneta
+ms.date: 12/13/2018
 ms.assetid: 1f1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

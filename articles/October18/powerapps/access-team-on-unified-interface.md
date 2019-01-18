@@ -2,8 +2,8 @@
 title: "統一インターフェイス上のアクセス チーム"
 description: "アクセス チーム機能は統一インターフェイスで使用できるようになります"
 author: sidhartg
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: mkaur
+ms.date: 01/02/2019
 ms.assetid: 7a1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

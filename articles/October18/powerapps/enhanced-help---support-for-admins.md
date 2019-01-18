@@ -2,8 +2,8 @@
 title: "管理者向けのヘルプとサポートの強化"
 description: "管理者には、組織の問題を診断および解決するためのより多くのツールが提供されます"
 author: jamesol-msft
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: jimholtz
+ms.date: 01/02/2019
 ms.assetid: a21c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

@@ -2,8 +2,8 @@
 title: "既定のテーマの改善により埋め込みアプリが SharePoint に属するように見える"
 description: "テーマを使うと、キャンバス アプリを SharePoint に組み込むとき、カスタマイズされたフォームでも Web パーツでも、外観が非常にマッチします。"
 author: emcoope-msft
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: anneta
+ms.date: 12/07/2018
 ms.assetid: 221c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

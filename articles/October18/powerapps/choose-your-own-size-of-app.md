@@ -2,8 +2,8 @@
 title: "アプリ サイズの自由な指定"
 description: "アプリ開発者はカスタム サイズのキャンバス アプリを作成できます"
 author: evchaki
-manager: KVivek
-ms.date: 11/27/2018
+ms.reviewer: anneta
+ms.date: 01/02/2019
 ms.assetid: 1d1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

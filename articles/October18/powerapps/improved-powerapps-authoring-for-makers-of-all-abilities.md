@@ -2,8 +2,8 @@
 title: "あらゆるレベルのメーカー向けの PowerApps オーサリングの向上"
 description: "PowerApps オーサリングは、PowerApps.com のすべてのインライン エクスペリエンスにおいて Microsoft ユーザー補助に関する基準に従っています。"
 author: aorth
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: anneta
+ms.date: 12/05/2018
 ms.assetid: 0d1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

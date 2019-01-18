@@ -2,8 +2,8 @@
 title: "システム グラフにおける全般的な使いやすさ、アクセシビリティ、およびスタイル設定の改善"
 description: "システム グラフにおける全般的な使いやすさ、アクセシビリティ、およびスタイル設定の改善"
 author: prsi
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: mkaur
+ms.date: 01/02/2019
 ms.assetid: 761c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

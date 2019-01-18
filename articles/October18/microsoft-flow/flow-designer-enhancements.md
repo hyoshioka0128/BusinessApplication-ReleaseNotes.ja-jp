@@ -2,8 +2,8 @@
 title: "新しい Microsoft Flow ポータルとデザイナー エクスペリエンス"
 description: "デザイナーの内部でのナビゲーションおよび検索アクション用の新しい Microsoft Flow エクスペリエンス。"
 author: sunayv
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: deonhe
+ms.date: 01/02/2019
 ms.assetid: 4f7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 

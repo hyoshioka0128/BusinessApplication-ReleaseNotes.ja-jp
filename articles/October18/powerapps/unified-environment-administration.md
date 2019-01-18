@@ -2,8 +2,8 @@
 title: "Power Platform 管理センターへの環境管理機能の統合"
 description: "管理者が、アプリ用 Common Data Service のすべての環境を 1 つの場所からプロビジョニングし、監視し、管理できるようになります"
 author: jamesol-msft
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: jimholtz
+ms.date: 12/10/2018
 ms.assetid: a51c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

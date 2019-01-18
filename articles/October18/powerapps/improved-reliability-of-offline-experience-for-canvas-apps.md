@@ -1,15 +1,15 @@
 ---
 title: "キャンバス アプリのオフライン エクスペリエンスの信頼性の向上"
 description: "アプリ開発者は、オフライン サポート用のモバイル クライアントでより多くのデータを保存できます"
-author: sarafankit
-manager: KVivek
-ms.date: 11/20/2018
+author: gregli-msft
+ms.reviewer: anneta
+ms.date: 01/02/2019
 ms.assetid: 001c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: ankitsar
+ms.author: gregli
 audience: Power user
 ms.translationtype: HT
 ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3

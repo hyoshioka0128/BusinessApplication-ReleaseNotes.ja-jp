@@ -2,8 +2,8 @@
 title: "アプリ用 Common Data Service または SharePoint を使用している場合にキャンバス アプリでわかりやすい表示名を使用する"
 description: "暗号的な開発者名を使用する必要がなくなります。 アプリ開発者は、開発者ポータルやアプリの UI で表示名を使用できるようになりました。"
 author: gregli-msft
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: anneta
+ms.date: 12/10/2018
 ms.assetid: 491c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
