@@ -63,5 +63,5 @@
       "template_folder": "_themes.pdf"
     }
   },
-  "need_generate_intellisense": false,
+  "need_generate_intellisense": false
 }
