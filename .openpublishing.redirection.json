@@ -306,6 +306,11 @@
       "source_path": "articles/April18/availability.md",
       "redirect_url": "https://aka.ms/dynamics_365_international_availability_deck",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/service/customer-service-omni-channel-release-notes/customer-owned-bots-omni-channel-engagement-hub.md",
+      "redirect_url": "../../../April19/service/omni-channel-engagement-hub/customer-owned-bots-omni-channel-engagement-hub",
+      "redirect_document_id": "false"
     }
   ]
 }
