@@ -12,10 +12,10 @@ ms.technology:
 ms.author: adiregev
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 11487404f4c3e1a046eef9721548f1542cd78f38
-ms.openlocfilehash: 62f10335873357d109b60818f06dbade11126186
+ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
+ms.openlocfilehash: acea8e2112f4d29bfdfb279e6e61893488a84865
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/20/2018
+ms.lasthandoff: 01/22/2019
 
 ---
 
@@ -25,7 +25,7 @@ ms.lasthandoff: 11/20/2018
 
 
 
-<span data-ttu-id="c6e69-104">Power BI では、異なるソースのデータを統合し、それらをモデリング用に準備する作業を支援するために、データフローが導入されました。</span><span class="sxs-lookup"><span data-stu-id="c6e69-104">Power BI introduces dataflows to help organizations unify data from disparate sources and prepare it for modeling.</span></span> <span data-ttu-id="c6e69-105">アナリストは、使い慣れたセルフサービス ツールを使用して、データフローを簡単に作成できます。</span><span class="sxs-lookup"><span data-stu-id="c6e69-105">Analysts can easily create dataflows, using familiar, self-service tools.</span></span> <span data-ttu-id="c6e69-106">データフローは、データ ソース接続、ETL ロジック、更新スケジュールなどを定義して、ビッグデータの取り込み、変換、統合、エンリッチを行うために使用されます。</span><span class="sxs-lookup"><span data-stu-id="c6e69-106">Dataflows are used to ingest, transform, integrate, and enrich big data by defining data source connections, ETL logic, refresh schedules, and more.</span></span> <span data-ttu-id="c6e69-107">データは、Azure Data Lake Storage Gen2 で、Common Data Model に準拠したフォルダー内のエンティティとして保存されます。</span><span class="sxs-lookup"><span data-stu-id="c6e69-107">Data is stored as entities in Common Data Model-compliant folders in Azure Data Lake Storage Gen2.</span></span> <span data-ttu-id="c6e69-108">データフローは、Power BI サービスを使用して、アプリ ワークスペース内で作成および管理されます。</span><span class="sxs-lookup"><span data-stu-id="c6e69-108">Dataflows are created and managed in app workspaces by using the Power BI service.</span></span>   
+<span data-ttu-id="c6e69-104">Power BI では、異なるソースのデータを統合し、それらをモデリング用に準備する作業を支援するために、データフローが導入されました。</span><span class="sxs-lookup"><span data-stu-id="c6e69-104">Power BI introduces dataflows to help organizations unify data from disparate sources and prepare it for modeling.</span></span> <span data-ttu-id="c6e69-105">アナリストは、使い慣れたセルフサービス ツールを使用して、データフローを簡単に作成できます。</span><span class="sxs-lookup"><span data-stu-id="c6e69-105">Analysts can easily create dataflows, using familiar, self-service tools.</span></span> <span data-ttu-id="c6e69-106">データフローは、データ ソース接続、ETL ロジック、更新スケジュールなどを定義して、ビッグデータの取り込み、変換、統合、エンリッチを行うために使用されます。</span><span class="sxs-lookup"><span data-stu-id="c6e69-106">Dataflows are used to ingest, transform, integrate, and enrich big data by defining data source connections, ETL logic, refresh schedules, and more.</span></span> <span data-ttu-id="c6e69-107">データは、Azure Data Lake Storage Gen2 で、Common Data Model に準拠したフォルダー内のエンティティとして保存されます。</span><span class="sxs-lookup"><span data-stu-id="c6e69-107">Data is stored as entities in Common Data Model-compliant folders in Azure Data Lake Storage Gen2.</span></span> <span data-ttu-id="c6e69-108">データフローは、Power BI サービスを使用して、アプリ ワークスペース内で作成および管理されます。</span><span class="sxs-lookup"><span data-stu-id="c6e69-108">Dataflows are created and managed in app workspaces by using the Power BI service.</span></span>   
 
 <span data-ttu-id="c6e69-109">ユーザーはデータフローを使用して、サポートされているオンプレミスやクラウドベースのさまざまなデータ ソース (Dynamics 365、Salesforce、Azure SQL Database、Excel、SharePoint など) からデータを取り込むことができます。</span><span class="sxs-lookup"><span data-stu-id="c6e69-109">You can use dataflows to ingest data from a large and growing set of supported on-premises and cloud- based data sources including Dynamics 365, Salesforce, Azure SQL Database, Excel, SharePoint, and more.</span></span>
 
