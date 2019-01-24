@@ -11,10 +11,10 @@ author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 34c31c8887a1006ebe1575e5adc5cd168136e27c
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: da7b53c0cbc93db45e4b46e49b228fc899747fa6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -26,8 +26,7 @@ ms.lasthandoff: 11/08/2018
 
 <span data-ttu-id="3c380-105">顧客満足度ダッシュボードには、システムの顧客満足度データのグラフィカルな表示などのさまざまなチャートが含まれます。</span><span class="sxs-lookup"><span data-stu-id="3c380-105">The Customer satisfaction dashboard includes a variety of charts with graphical views of your system's customer satisfaction data.</span></span> 
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="3c380-106">![顧客満足度ダッシュボードには、顧客満足度に最も大きな影響を与えているカスタマー サポートのトピックが表示され、システムのパフォーマンスへの影響が最も大きい可能性のある改善領域を特定するのに役立ちます](media/customer-satisfaction-dashboard.png "顧客満足度ダッシュボードには、顧客満足度に最も大きな影響を与えているカスタマー サポートのトピックが表示され、システムのパフォーマンスへの影響が最も大きい可能性のある改善領域を特定するのに役立ちます")</span><span class="sxs-lookup"><span data-stu-id="3c380-106">![The Customer satisfaction dashboard shows you the customer support topics that are having the most impact on customer satisfaction, helping you identify areas for improvement that can have the greatest impact on system performance](media/customer-satisfaction-dashboard.png "The Customer satisfaction dashboard shows you the customer support topics that are having the most impact on customer satisfaction, helping you identify areas for improvement that can have the greatest impact on system performance")</span></span>
+<span data-ttu-id="3c380-106">![顧客満足度ダッシュボードには、顧客満足度に最も大きな影響を与えているカスタマー サポートのトピックが表示され、システムのパフォーマンスへの影響が最も大きい可能性のある改善領域を特定するのに役立ちます](media/customer-satisfaction-dashboard.png "顧客満足度ダッシュボードには、顧客満足度に最も大きな影響を与えているカスタマー サポートのトピックが表示され、システムのパフォーマンスへの影響が最も大きい可能性のある改善領域を特定するのに役立ちます")</span><span class="sxs-lookup"><span data-stu-id="3c380-106">![The Customer satisfaction dashboard shows you the customer support topics that are having the most impact on customer satisfaction, helping you identify areas for improvement that can have the greatest impact on system performance](media/customer-satisfaction-dashboard.png "The Customer satisfaction dashboard shows you the customer support topics that are having the most impact on customer satisfaction, helping you identify areas for improvement that can have the greatest impact on system performance")</span></span>
 
 <span data-ttu-id="3c380-107">*顧客満足度ダッシュボードには、顧客満足度に最も大きな影響を与えているカスタマー サポートのトピックが表示され、システムのパフォーマンスへの影響が最も大きい可能性のある改善領域を特定するのに役立ちます*</span><span class="sxs-lookup"><span data-stu-id="3c380-107">*The Customer satisfaction dashboard shows you the customer support topics that are having the most impact on customer satisfaction, helping you identify areas for improvement that can have the greatest impact on system performance*</span></span>
 

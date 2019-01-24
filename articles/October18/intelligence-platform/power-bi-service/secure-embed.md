@@ -12,10 +12,10 @@ ms.technology:
 ms.author: adamw
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 4a8d32cf5a54e3b9f7adb1b5414d59b4a1701cd1
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 770d77ac72857918ee4b25a4c9bf1a97723fb890
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 # <a name="secure-embed-codes"></a><span data-ttu-id="2110e-103">埋め込みコードのセキュリティ保護</span><span class="sxs-lookup"><span data-stu-id="2110e-103">Secure embed codes</span></span>
@@ -26,6 +26,5 @@ ms.lasthandoff: 10/26/2018
 
 <span data-ttu-id="2110e-107">新しい [埋め込み] オプションを使用してレポートを表示するには、レポートを使用するユーザーが Pro ライセンスを持っているか、またはレポートが EM や P などの Premium 容量のワークスペースに存在する必要があります。</span><span class="sxs-lookup"><span data-stu-id="2110e-107">To view a report using the new Embed option, the user consuming the report must have a Pro license or the report must be in a workspace that is in a Premium capacity, such as EM or P.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="2110e-108">![安全な埋め込みの例](media/secure-embed.png "安全な埋め込みの例")</span><span class="sxs-lookup"><span data-stu-id="2110e-108">![Secure embed example](media/secure-embed.png "Secure embed example")</span></span>
+<span data-ttu-id="2110e-108">![安全な埋め込みの例](media/secure-embed.png "安全な埋め込みの例")</span><span class="sxs-lookup"><span data-stu-id="2110e-108">![Secure embed example](media/secure-embed.png "Secure embed example")</span></span>
 

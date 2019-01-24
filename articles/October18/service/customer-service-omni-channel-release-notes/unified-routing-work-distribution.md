@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 52e069f47ea050f222f49c270325387da0516e0d
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 3f32735645523d8a693929dfc9bd76d368202f03
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -27,8 +27,7 @@ ms.lasthandoff: 11/08/2018
 
 <span data-ttu-id="36ff0-104">統合されたルーティング機能と作業配分機能を使用して、チャット、メッセージング、および Web ポータル チャネルから発生した作業項目を、組織内の複数の顧客サービス サポート チームにルーティングできます。</span><span class="sxs-lookup"><span data-stu-id="36ff0-104">Organizations can leverage the unified routing and work distribution capabilities to route work items originating from chat, messaging, and web portal channels to different customer service support teams within the organization.</span></span> <span data-ttu-id="36ff0-105">構成インターフェイスを通じて、エージェントが処理する作業プロファイルを厳密に定義できます。</span><span class="sxs-lookup"><span data-stu-id="36ff0-105">Through the configuration interfaces, organizations can tightly define the work profile that their agents are supposed to handle.</span></span> <span data-ttu-id="36ff0-106">実行時には、エージェントの能力と利用可能性に基づいて、各エージェントへの作業の流れが自動化されます。</span><span class="sxs-lookup"><span data-stu-id="36ff0-106">During runtime, the system will automate the flow of work to various agents based on their capacity and availability.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="36ff0-107">![統合されたルーティングと作業配分の例](media/unified-routing-work-distribution-1.png "統合されたルーティングと作業配分の例")
+<span data-ttu-id="36ff0-107">![統合されたルーティングと作業配分の例](media/unified-routing-work-distribution-1.png "統合されたルーティングと作業配分の例")
 <!-- picture --></span><span class="sxs-lookup"><span data-stu-id="36ff0-107">![Example of unified routing and work distribution](media/unified-routing-work-distribution-1.png "Example of unified routing and work distribution")
 <!-- picture --></span></span>
 

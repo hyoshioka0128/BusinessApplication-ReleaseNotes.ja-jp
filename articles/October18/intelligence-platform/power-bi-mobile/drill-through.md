@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 9e6b55afc8d6e6c4113b14ccefcd6eeb6c82fa9e
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 5a1f847442427a79a9d0c6a9a39a105e09370fbf
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 # <a name="drillthrough"></a><span data-ttu-id="85bb1-103">ドリルスルー</span><span class="sxs-lookup"><span data-stu-id="85bb1-103">Drillthrough</span></span>
@@ -29,6 +29,5 @@ ms.lasthandoff: 10/26/2018
 
 <span data-ttu-id="85bb1-105">ドリルスルーは、ビジュアル ツールヒントからアクティブ化されます。</span><span class="sxs-lookup"><span data-stu-id="85bb1-105">Drillthrough is activated from the visual tooltip.</span></span> <span data-ttu-id="85bb1-106">ユーザーがデータ ポイントを選択してドリルスルーすると、表示されるデータがその値でフィルター処理されます。</span><span class="sxs-lookup"><span data-stu-id="85bb1-106">When the user selects a data point and drills through, the data presented is filtered by that value.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="85bb1-107">![](media/drill-through-1.png "ドリルスルー")</span><span class="sxs-lookup"><span data-stu-id="85bb1-107">![](media/drill-through-1.png "Drillthrough")</span></span>
+<span data-ttu-id="85bb1-107">![](media/drill-through-1.png "ドリルスルー")</span><span class="sxs-lookup"><span data-stu-id="85bb1-107">![](media/drill-through-1.png "Drillthrough")</span></span>
 

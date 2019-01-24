@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 3315fe5725455f860b3e82a9c08ce8ef50dd123f
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: e3762649521666d594a0bf4d715fa80ce22c895e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -43,8 +43,7 @@ ms.lasthandoff: 11/08/2018
         * <span data-ttu-id="2a7f0-117">リソースとして「クラス」を作成し、最大 10 人の顧客をクラスに予約できます。</span><span class="sxs-lookup"><span data-stu-id="2a7f0-117">Create a “class” as a resource, and allow up to 10 customers to be booked to the class.</span></span>
 > <span data-ttu-id="2a7f0-118">オンサイト作業を実行するリソースは、複数のキャパシティを持つことはできません。</span><span class="sxs-lookup"><span data-stu-id="2a7f0-118">Resources that perform onsite work cannot have a capacity of more than one.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="2a7f0-119">![追加容量行が展開されたリソースを示すスケジュール ボード](media/Additional-Capacity.png "追加キャパシティ")
+<span data-ttu-id="2a7f0-119">![追加容量行が展開されたリソースを示すスケジュール ボード](media/Additional-Capacity.png "追加キャパシティ")
 <!-- picture --></span><span class="sxs-lookup"><span data-stu-id="2a7f0-119">![Schedule Board showing a resource with additional capacity row expanded](media/Additional-Capacity.png "Additional capacity")
 <!-- picture --></span></span>
 

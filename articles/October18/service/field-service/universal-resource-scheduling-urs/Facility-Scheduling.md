@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 330e5cf91f11e571c5cc3279174c041206f7ffbe
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: a96a8d37b75a6f25f1f223d84c928a0b36b49fe9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -39,8 +39,7 @@ ms.lasthandoff: 11/08/2018
         * <span data-ttu-id="204d3-113">銀行での資産管理コンサルテーション</span><span class="sxs-lookup"><span data-stu-id="204d3-113">Wealth management consultation at bank</span></span>
         * <span data-ttu-id="204d3-114">フォーカス ルームでの個人指導</span><span class="sxs-lookup"><span data-stu-id="204d3-114">Tutor in a focus room</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="204d3-115">![設備でのスケジューリング](media/Facility-Scheduling.png "設備のスケジューリング")
+<span data-ttu-id="204d3-115">![設備でのスケジューリング](media/Facility-Scheduling.png "設備のスケジューリング")
 <!-- picture --></span><span class="sxs-lookup"><span data-stu-id="204d3-115">![Scheduling at a facility](media/Facility-Scheduling.png "Facility scheduling")
 <!-- picture --></span></span>
 

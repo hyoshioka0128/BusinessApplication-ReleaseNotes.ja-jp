@@ -11,10 +11,10 @@ ms.technology:
 ms.author: pborring
 audience: developer, customizer
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 5b1d5c818fb0fafa973ed0e337cd9bb67ad9b137
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 2009f4ef0040d679325a27993601acc321afe0ca
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -32,8 +32,7 @@ ms.lasthandoff: 10/26/2018
 ## <a name="event-discoverability"></a><span data-ttu-id="b9569-112">イベントの見つけやすさ</span><span class="sxs-lookup"><span data-stu-id="b9569-112">Event discoverability</span></span>
 <span data-ttu-id="b9569-113">拡張機能を作成するうえで、イベントのサブスクライブは重要な操作となります。</span><span class="sxs-lookup"><span data-stu-id="b9569-113">A core aspect of creating extensions is to subscribe to events.</span></span> <span data-ttu-id="b9569-114">しかし、特定のユーザー フローでどのイベントが使用できるかを把握することは、多くの開発者にとって共通の課題です。</span><span class="sxs-lookup"><span data-stu-id="b9569-114">However, a common challenge is understanding which events are available in a given user flow.</span></span> <span data-ttu-id="b9569-115">デバッグは有効な手段ですが、既にサブスクライブされているイベントしか確認できません。</span><span class="sxs-lookup"><span data-stu-id="b9569-115">Debugging can help, but will only show events already being subscribed to.</span></span> <span data-ttu-id="b9569-116">そこで、イベントや拡張ポイントを見つけやすくするために、クライアントに新しいイベント トレーサーが追加されました。</span><span class="sxs-lookup"><span data-stu-id="b9569-116">To aid in the discoverability of events and extension points, there is a new event tracer in the client.</span></span> <span data-ttu-id="b9569-117">これを使用すると、ユーザー フローを記録して、発生したイベントをリストすることができます。これにより開発者は、イベントのサブスクライバー コードを生成して、AL コードに簡単にコピーできるようになります。</span><span class="sxs-lookup"><span data-stu-id="b9569-117">With this, a user flow can be recorded to list events that are raised, and the developer can have subscriber code for the event generated for easy copy into AL code.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="b9569-118">![イベント トレーサー](media/Event-tracer.png "イベント トレーサー")</span><span class="sxs-lookup"><span data-stu-id="b9569-118">![Event tracer](media/Event-tracer.png "Event tracer")</span></span>
+<span data-ttu-id="b9569-118">![イベント トレーサー](media/Event-tracer.png "イベント トレーサー")</span><span class="sxs-lookup"><span data-stu-id="b9569-118">![Event tracer](media/Event-tracer.png "Event tracer")</span></span>
 
 <span data-ttu-id="b9569-119">また、新しいイベントも多数追加され、より多くの場所での拡張が可能になりました。</span><span class="sxs-lookup"><span data-stu-id="b9569-119">Furthermore, a large number of new events has been added, making it possible to extend in more places.</span></span>
 
@@ -45,37 +44,31 @@ ms.lasthandoff: 10/26/2018
 ## <a name="debugger-enhancements"></a><span data-ttu-id="b9569-124">デバッガーの機能拡張</span><span class="sxs-lookup"><span data-stu-id="b9569-124">Debugger enhancements</span></span>
 <span data-ttu-id="b9569-125">レガシーの Dynamics NAV デバッガーのように、一般的な Break on Error と Break on Write を使用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="b9569-125">Just like in the legacy Dynamics NAV debugger, you can now use the common Break on Error, as well as Break on Write.</span></span> <span data-ttu-id="b9569-126">ベース アプリケーション コード内の定義に移動して、ブレークポイントを設定することもできます。</span><span class="sxs-lookup"><span data-stu-id="b9569-126">You can also go to definition in the base application code and set breakpoints there.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="b9569-127">![ベース アプリケーション コードの定義に移動する (F12)](media/Go-to-definition-F12.gif "ベース アプリケーション コードの定義に移動する (F12)")</span><span class="sxs-lookup"><span data-stu-id="b9569-127">![F12 Go to Definition for base application code](media/Go-to-definition-F12.gif "F12 Go to Definition for base application code")</span></span>
+<span data-ttu-id="b9569-127">![ベース アプリケーション コードの定義に移動する (F12)](media/Go-to-definition-F12.gif "ベース アプリケーション コードの定義に移動する (F12)")</span><span class="sxs-lookup"><span data-stu-id="b9569-127">![F12 Go to Definition for base application code](media/Go-to-definition-F12.gif "F12 Go to Definition for base application code")</span></span>
 
 ## <a name="intellisense-enhancements"></a><span data-ttu-id="b9569-128">IntelliSense の機能拡張</span><span class="sxs-lookup"><span data-stu-id="b9569-128">IntelliSense enhancements</span></span>
 <span data-ttu-id="b9569-129">AL 内のすべてのプロパティ (ホバーと IntelliSense の両方) で、関連するオンライン ドキュメントにリダイレクトするためのヘルプ リンクが提供されるようになりました。</span><span class="sxs-lookup"><span data-stu-id="b9569-129">All properties in AL, both on hover and in IntelliSense, now have Help links that redirect you to the related online documentation.</span></span> <span data-ttu-id="b9569-130">また、AL 言語の構成要素に関するドキュメントが自動生成されるようになり、それらをオンライン リファレンス ドキュメントと IntelliSense の両方に使用できるようになったことで、ドキュメントの最新性と統一性を維持できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="b9569-130">Furthermore, the documentation for AL language constructs is autogenerated and used for both online reference documentation and IntelliSense, ensuring up-to-date and aligned documentation.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="b9569-131">![IntelliSense からのヘルプ リンク](media/Help-link-from-IntelliSense.gif "IntelliSense からのヘルプ リンク")</span><span class="sxs-lookup"><span data-stu-id="b9569-131">![Help link from IntelliSense](media/Help-link-from-IntelliSense.gif "Help link from IntelliSense")</span></span>
+<span data-ttu-id="b9569-131">![IntelliSense からのヘルプ リンク](media/Help-link-from-IntelliSense.gif "IntelliSense からのヘルプ リンク")</span><span class="sxs-lookup"><span data-stu-id="b9569-131">![Help link from IntelliSense](media/Help-link-from-IntelliSense.gif "Help link from IntelliSense")</span></span>
 
 <span data-ttu-id="b9569-132">拡張機能での画像プロパティの提示機能では、現在のコンテキストで使用できるものだけが提示されるようになりました。現在のコンテキストで使用できない画像については警告が表示されます。ユーザーは、IntelliSense とホバーを使用して画像をプレビューできます。</span><span class="sxs-lookup"><span data-stu-id="b9569-132">Suggestions for Image properties in an extension now only propose the ones that can be used in the current context, displaying a warning for images that cannot be used in the current context, and you can preview images when using IntelliSense and on-hover.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="b9569-133">![IntelliSense での画像の選択とプレビュー](media/IntelliSense-Preview-Images.gif "IntelliSense での画像の選択とプレビュー")</span><span class="sxs-lookup"><span data-stu-id="b9569-133">![Select and preview images with IntelliSense](media/IntelliSense-Preview-Images.gif "Select and preview images with IntelliSense")</span></span>
+<span data-ttu-id="b9569-133">![IntelliSense での画像の選択とプレビュー](media/IntelliSense-Preview-Images.gif "IntelliSense での画像の選択とプレビュー")</span><span class="sxs-lookup"><span data-stu-id="b9569-133">![Select and preview images with IntelliSense](media/IntelliSense-Preview-Images.gif "Select and preview images with IntelliSense")</span></span>
 
 ## <a name="working-with-permissions"></a><span data-ttu-id="b9569-134">アクセス許可の操作</span><span class="sxs-lookup"><span data-stu-id="b9569-134">Working with permissions</span></span>
 <span data-ttu-id="b9569-135">アクセス許可を操作しやすくするため、クライアントを使用して、アクセス許可セットをアプリケーションからエクスポートし、それらを Visual Studio Code AL Extension にインポートできるようになりました。</span><span class="sxs-lookup"><span data-stu-id="b9569-135">To make working with permissions easier, it is now possible to export permission sets from the application, using the client, and import these into the Visual Studio Code AL Extension.</span></span> <span data-ttu-id="b9569-136">拡張機能内のオブジェクト用に使用する新しいアクセス許可ファイルは、Visual Studio Code AL プロジェクト内から生成することもできます。</span><span class="sxs-lookup"><span data-stu-id="b9569-136">New permission files for the objects in an extension can also be generated from within the Visual Studio Code AL project.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="b9569-137">![拡張機能オブジェクト用のアクセス許可ファイルを生成するための Visual Studio Code AL コマンド](media/Permissions-AL-command.png "拡張機能オブジェクト用のアクセス許可ファイルを生成するための Visual Studio Code AL コマンド")</span><span class="sxs-lookup"><span data-stu-id="b9569-137">![Visual Studio Code AL command for generating permissions file for extension objects](media/Permissions-AL-command.png "Visual Studio Code AL command for generating permissions file for extension objects")</span></span>
+<span data-ttu-id="b9569-137">![拡張機能オブジェクト用のアクセス許可ファイルを生成するための Visual Studio Code AL コマンド](media/Permissions-AL-command.png "拡張機能オブジェクト用のアクセス許可ファイルを生成するための Visual Studio Code AL コマンド")</span><span class="sxs-lookup"><span data-stu-id="b9569-137">![Visual Studio Code AL command for generating permissions file for extension objects](media/Permissions-AL-command.png "Visual Studio Code AL command for generating permissions file for extension objects")</span></span>
 
 ## <a name="net-interop"></a><span data-ttu-id="b9569-138">.NET 相互運用機能</span><span class="sxs-lookup"><span data-stu-id="b9569-138">.NET Interop</span></span>
 <span data-ttu-id="b9569-139">オンプレミス展開を対象とした Business Central ソリューションを取り扱う場合に、.NET相互運用機能を AL コード内に追加できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="b9569-139">When working with Business Central solutions that target on-premises deployments, you can now add .NET Interop in AL code.</span></span> <span data-ttu-id="b9569-140">ただしその場合、後からソリューションをクラウドへ移行するには、.NET 相互運用機能を置き換えなければならなくなります。</span><span class="sxs-lookup"><span data-stu-id="b9569-140">Note that this implies that the solution cannot be moved to the cloud later without replacing the .NET Interop.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="b9569-141">![オンプレミス AL 内の .NET 相互運用機能](media/DotNet-interop.png "オンプレミス AL 内の .NET 相互運用機能")</span><span class="sxs-lookup"><span data-stu-id="b9569-141">![.NET Interop in on-premises AL](media/DotNet-interop.png ".NET Interop in on-premises AL")</span></span>
+<span data-ttu-id="b9569-141">![オンプレミス AL 内の .NET 相互運用機能](media/DotNet-interop.png "オンプレミス AL 内の .NET 相互運用機能")</span><span class="sxs-lookup"><span data-stu-id="b9569-141">![.NET Interop in on-premises AL](media/DotNet-interop.png ".NET Interop in on-premises AL")</span></span>
 
 ## <a name="translation-enhancements"></a><span data-ttu-id="b9569-142">翻訳の機能強化</span><span class="sxs-lookup"><span data-stu-id="b9569-142">Translation enhancements</span></span>
 <span data-ttu-id="b9569-143">特定の文字列が適用されるオブジェクトや要素を記述した新しいコンテキスト情報が、生成後の XLIFF 翻訳ファイルに追加されました。</span><span class="sxs-lookup"><span data-stu-id="b9569-143">New contextual information that describes which object and element a given string applies to has been added to the generated XLIFF translation files.</span></span> <span data-ttu-id="b9569-144">これにより、文字列が UI のどこに表示されるのかを翻訳者が把握しやすくなり、翻訳の品質が向上します。</span><span class="sxs-lookup"><span data-stu-id="b9569-144">This helps translators get a better overview of where a string is displayed in the UI, thereby increasing the quality of the translation.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="b9569-145">![XLIFF 翻訳ファイルの note タグ](media/xliff-note.png "XLIFF 翻訳ファイルの note タグ")</span><span class="sxs-lookup"><span data-stu-id="b9569-145">![XLIFF translation file note tag](media/xliff-note.png "XLIFF translation file note tag")</span></span>
+<span data-ttu-id="b9569-145">![XLIFF 翻訳ファイルの note タグ](media/xliff-note.png "XLIFF 翻訳ファイルの note タグ")</span><span class="sxs-lookup"><span data-stu-id="b9569-145">![XLIFF translation file note tag](media/xliff-note.png "XLIFF translation file note tag")</span></span>
 
 ## <a name="odata-bound-actions-in-al"></a><span data-ttu-id="b9569-146">AL 内での OData バインド アクション</span><span class="sxs-lookup"><span data-stu-id="b9569-146">OData-bound actions in AL</span></span>
 <span data-ttu-id="b9569-147">AL 内で、OData にバインドされたアクションを宣言できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="b9569-147">It is now possible to declare OData bound actions in AL.</span></span> <span data-ttu-id="b9569-148">これを実現するために、新しい属性と新しい AL 型が導入されました。</span><span class="sxs-lookup"><span data-stu-id="b9569-148">A new attribute and a new AL type have been introduced to achieve this.</span></span>

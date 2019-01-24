@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Analyst
 ms.translationtype: HT
-ms.sourcegitcommit: 7d336b7079c5a48efde6fed8fc5c749f7bd5aaef
-ms.openlocfilehash: 29526ea82d210ca35dade9ab07aad0d5e55f8db1
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 712e7ffecb22a0731f198ab17bf93a70a0cd427a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/06/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 # <a name="shared-and-certified-datasets"></a><span data-ttu-id="d0265-103">共有データセットと認定データセット</span><span class="sxs-lookup"><span data-stu-id="d0265-103">Shared and certified datasets</span></span>
@@ -30,6 +30,5 @@ ms.lasthandoff: 11/06/2018
 
 <span data-ttu-id="d0265-112">*認定データセット*により、組織がユーザーを信頼できる正式なデータセットに誘導することが容易になります。</span><span class="sxs-lookup"><span data-stu-id="d0265-112">*Certified datasets* make it easier for organizations to steer users toward trusted and authoritative datasets.</span></span> <span data-ttu-id="d0265-113">データセットのこの "承認のスタンプ" は、新しいテナント設定で定義された特定の Power BI ユーザーグループだけが適用できます。</span><span class="sxs-lookup"><span data-stu-id="d0265-113">This "stamp of approval" for a dataset can only be applied by a specific group of Power BI users as defined in a new tenant setting.</span></span> <span data-ttu-id="d0265-114">データセットが認定されると、新しいデータセット検出エクスペリエンスに目立つように表示され、レポート作成者がこれらの高品質なデータ ソースを簡単に見つけて活用できるようにします。</span><span class="sxs-lookup"><span data-stu-id="d0265-114">Once a dataset is certified, it shows up prominently in the new dataset discovery experience, making sure report authors can effortlessly find and leverage these high-quality sources of data.</span></span> 
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="d0265-115">![コメントの例](media/certified-datasets.png "認定データセット")</span><span class="sxs-lookup"><span data-stu-id="d0265-115">![Commenting example](media/certified-datasets.png "Certified datasets")</span></span>
+<span data-ttu-id="d0265-115">![コメントの例](media/certified-datasets.png "認定データセット")</span><span class="sxs-lookup"><span data-stu-id="d0265-115">![Commenting example](media/certified-datasets.png "Certified datasets")</span></span>
 

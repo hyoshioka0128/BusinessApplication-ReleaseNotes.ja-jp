@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: dbd8a17e3e500201426a03a48feb4bf5a2c7d024
-ms.openlocfilehash: 6e374ca408d70db7c85a40ecec03aa7b13a7e1a4
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: c2b7fc7a136622d5fa38aae44d97e98c720fed8e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/01/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -42,8 +42,7 @@ ms.lasthandoff: 11/01/2018
 
   <span data-ttu-id="62b8b-116">(リソース プールでのサポートが計画されていないオンサイト要件。)</span><span class="sxs-lookup"><span data-stu-id="62b8b-116">(Onsite requirements not planned to be supported with resource pools.)</span></span>
 
-  > [!div class="mx-imgBorder"]
-  > <span data-ttu-id="62b8b-117">![リソース プールのシナリオ](media/ResourcePools.png "リソース プールのシナリオ")</span><span class="sxs-lookup"><span data-stu-id="62b8b-117">![Resource pool scenarios](media/ResourcePools.png "Resource pool scenarios")</span></span>
+  <span data-ttu-id="62b8b-117">![リソース プールのシナリオ](media/ResourcePools.png "リソース プールのシナリオ")</span><span class="sxs-lookup"><span data-stu-id="62b8b-117">![Resource pool scenarios](media/ResourcePools.png "Resource pool scenarios")</span></span>
   
   <span data-ttu-id="62b8b-118">*リソース プールのシナリオ*</span><span class="sxs-lookup"><span data-stu-id="62b8b-118">*Resource pool scenarios*</span></span>
 

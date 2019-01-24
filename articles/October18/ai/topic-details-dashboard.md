@@ -11,10 +11,10 @@ author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 2a773c2c681c384a7844c71d76a3966528f65318
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: b0ae210f53395f31bd0e1beb5e32abccbae67ad9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -26,8 +26,7 @@ ms.lasthandoff: 11/08/2018
 
 <span data-ttu-id="36596-105">AI Insight チャートの 1 つから、トピックの詳細ダッシュボードを KPI サマリー、受信サポート案件、顧客満足度、サポート案件の解決ダッシュボードに表示できます。</span><span class="sxs-lookup"><span data-stu-id="36596-105">You can display the Topic details dashboard from one of the AI Insights charts in the KPI summary, Incoming cases, Customer satisfaction, and Case resolution dashboards.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="36596-106">![トピックの詳細ダッシュボードには、トピックの主要業績評価指標をグラフィカルに表示したさまざまなチャートが含まれている](media/topic-details-dashboard.png "トピックの詳細ダッシュボードには、トピックの主要業績評価指標をグラフィカルに表示したさまざまなチャートが含まれている")</span><span class="sxs-lookup"><span data-stu-id="36596-106">![The Topic details dashboard includes a variety of charts with graphical views of key performance indicators for the topic](media/topic-details-dashboard.png "The Topic details dashboard includes a variety of charts with graphical views of key performance indicators for the topic")</span></span>
+<span data-ttu-id="36596-106">![トピックの詳細ダッシュボードには、トピックの主要業績評価指標をグラフィカルに表示したさまざまなチャートが含まれている](media/topic-details-dashboard.png "トピックの詳細ダッシュボードには、トピックの主要業績評価指標をグラフィカルに表示したさまざまなチャートが含まれている")</span><span class="sxs-lookup"><span data-stu-id="36596-106">![The Topic details dashboard includes a variety of charts with graphical views of key performance indicators for the topic](media/topic-details-dashboard.png "The Topic details dashboard includes a variety of charts with graphical views of key performance indicators for the topic")</span></span>
 
 <span data-ttu-id="36596-107">*トピックの詳細ダッシュボードには、トピックの主要業績評価指標をグラフィカルに表示したさまざまなチャートが含まれている*</span><span class="sxs-lookup"><span data-stu-id="36596-107">*The Topic details dashboard includes a variety of charts with graphical views of key performance indicators for the topic*</span></span>
 

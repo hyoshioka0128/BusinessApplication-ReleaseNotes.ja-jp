@@ -12,10 +12,10 @@ ms.technology:
 ms.author: HaydnR
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: f6ade07e6567099a5edabce284906b93ce3480ec
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: c9096b74edabe437ad111c9dfd4b68868e448cae
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 # <a name="power-bi-home"></a><span data-ttu-id="10af8-102">Power BI ホーム</span><span class="sxs-lookup"><span data-stu-id="10af8-102">Power BI Home</span></span>
@@ -28,6 +28,5 @@ ms.lasthandoff: 10/26/2018
 
 <span data-ttu-id="10af8-108">ホームは、最初はオプトイン プレビューとして使用できますが、その後はすべてのユーザーの既定のランディング エクスペリエンスになります。</span><span class="sxs-lookup"><span data-stu-id="10af8-108">Home will be available as an opt-in preview first, but will later become the default landing experience for all users.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="10af8-109">![](media/power-bi-home.png "Power BI ホーム")</span><span class="sxs-lookup"><span data-stu-id="10af8-109">![](media/power-bi-home.png "Power BI Home")</span></span>
+<span data-ttu-id="10af8-109">![](media/power-bi-home.png "Power BI ホーム")</span><span class="sxs-lookup"><span data-stu-id="10af8-109">![](media/power-bi-home.png "Power BI Home")</span></span>
 

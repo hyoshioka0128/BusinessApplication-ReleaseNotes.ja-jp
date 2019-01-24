@@ -8,10 +8,10 @@ ms.service: business-applications
 ms.author: mapau
 ms.reviewer: v-brycho
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: ed93cbd368cac3a45ff74fcdc203bb37ffea60ba
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 2aa34d645818b7a71c25ce2308f043a7b515ca3d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -21,8 +21,7 @@ ms.lasthandoff: 11/30/2018
 
 <span data-ttu-id="99711-104">Microsoft Dynamics 365 リモート アシストの通話中に、Mixed Reality の注釈の写真を撮って後で使用するために保存します。</span><span class="sxs-lookup"><span data-stu-id="99711-104">During a Microsoft Dynamics 365 Remote Assist call, take a photo of your mixed reality annotations to save for later.</span></span> <span data-ttu-id="99711-105">写真は HoloLens カメラ ロールに自動的に保存されます。</span><span class="sxs-lookup"><span data-stu-id="99711-105">The photo is automatically saved to your HoloLens camera roll.</span></span>
 
-> [!div class="mx-imgBorder"]
-> ![](media/3c36ac58613973bcdc9ec5dd3a162723.jpg)
+![](media/3c36ac58613973bcdc9ec5dd3a162723.jpg)
 
 <span data-ttu-id="99711-106">*スナップショットの作成*</span><span class="sxs-lookup"><span data-stu-id="99711-106">*Take a snapshot*</span></span>
 

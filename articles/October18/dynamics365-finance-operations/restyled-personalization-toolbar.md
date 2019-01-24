@@ -11,10 +11,10 @@ ms.technology:
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 847516428dc8bc5cd5e510b75545c9ea9293def0
-ms.openlocfilehash: 9bcf5921643de9ad046e7be21a147d67cdf43577
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: c64cc6b849e15c585ae3957c91cbdd67278bdd8f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/09/2019
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -28,15 +28,13 @@ ms.lasthandoff: 01/09/2019
 
 <span data-ttu-id="7d1fa-110">次の図は、Platform Update 22 より前に個人用設定ツール バーがどのように表示されていたかを示しています。</span><span class="sxs-lookup"><span data-stu-id="7d1fa-110">The following image shows how the personalization toolbar appeared before Platform Update 22.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="7d1fa-111">![Platform Update 22 より前の個人用設定ツール バー](media/oldPersonalizationToolbar.png  "Platform Update 22 より前の個人用設定ツール バー")</span><span class="sxs-lookup"><span data-stu-id="7d1fa-111">![Personalization toolbar before Platform Update 22](media/oldPersonalizationToolbar.png  "Personalization toolbar before Platform Update 22")</span></span>
+<span data-ttu-id="7d1fa-111">![Platform Update 22 より前の個人用設定ツール バー](media/oldPersonalizationToolbar.png  "Platform Update 22 より前の個人用設定ツール バー")</span><span class="sxs-lookup"><span data-stu-id="7d1fa-111">![Personalization toolbar before Platform Update 22](media/oldPersonalizationToolbar.png  "Personalization toolbar before Platform Update 22")</span></span>
 
 <span data-ttu-id="7d1fa-112">*前: Platform Update 22 より前の個人用設定ツール バー*</span><span class="sxs-lookup"><span data-stu-id="7d1fa-112">*Before: Personalization toolbar before Platform Update 22*</span></span>
 
 <span data-ttu-id="7d1fa-113">次の図は、Platform Update 22 で個人用設定ツール バーがどのように表示されるかを示しています。</span><span class="sxs-lookup"><span data-stu-id="7d1fa-113">The following image shows how the personalization toolbar appears in Platform Update 22.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="7d1fa-114">![Platform Update 22 の個人用設定ツール バー](media/restyledPersonalizationToolbar.png  "Platform Update 22 の個人用設定ツール バー")</span><span class="sxs-lookup"><span data-stu-id="7d1fa-114">![Personalization toolbar in Platform Update 22](media/restyledPersonalizationToolbar.png  "Personalization toolbar in Platform Update 22")</span></span>
+<span data-ttu-id="7d1fa-114">![Platform Update 22 の個人用設定ツール バー](media/restyledPersonalizationToolbar.png  "Platform Update 22 の個人用設定ツール バー")</span><span class="sxs-lookup"><span data-stu-id="7d1fa-114">![Personalization toolbar in Platform Update 22](media/restyledPersonalizationToolbar.png  "Personalization toolbar in Platform Update 22")</span></span>
 
 <span data-ttu-id="7d1fa-115">*後: Platform Update 22 の個人用設定ツール バー*</span><span class="sxs-lookup"><span data-stu-id="7d1fa-115">*After: Personalization toolbar in Platform Update 22*</span></span>
 

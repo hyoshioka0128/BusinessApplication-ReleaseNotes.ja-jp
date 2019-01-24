@@ -11,10 +11,10 @@ author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 5eb3d8b3e1b8e23abd84e194e10df8fed0658384
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: e350ab12511111852a9129f52894227c5274498a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -26,8 +26,7 @@ ms.lasthandoff: 11/08/2018
 
 <span data-ttu-id="d53eb-105">サポート案件の解決ダッシュボードには、システムのサポート案件解決データのグラフィカルな表示などのさまざまなチャートが含まれます。</span><span class="sxs-lookup"><span data-stu-id="d53eb-105">The Case resolution dashboard includes a variety of charts with graphical views of your system's case resolution data.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="d53eb-106">![サポート案件の解決ダッシュボードには、サポート案件解決時間に最も大きな影響を与えているカスタマー サポートのトピックが表示され、システムのパフォーマンスへの影響が最も大きい可能性のある改善領域を特定するのに役立ちます](media/case-resolution-dashboard.png "サポート案件の解決ダッシュボードには、サポート案件解決時間に最も大きな影響を与えているカスタマー サポートのトピックが表示され、システムのパフォーマンスへの影響が最も大きい可能性のある改善領域を特定するのに役立ちます")</span><span class="sxs-lookup"><span data-stu-id="d53eb-106">![The Case resolution dashboard shows you the customer support topics that are having the most impact on case resolution time, helping you identify areas for improvement that can have the greatest impact on system performance](media/case-resolution-dashboard.png "The Case resolution dashboard shows you the customer support topics that are having the most impact on case resolution time, helping you identify areas for improvement that can have the greatest impact on system performance")</span></span>
+<span data-ttu-id="d53eb-106">![サポート案件の解決ダッシュボードには、サポート案件解決時間に最も大きな影響を与えているカスタマー サポートのトピックが表示され、システムのパフォーマンスへの影響が最も大きい可能性のある改善領域を特定するのに役立ちます](media/case-resolution-dashboard.png "サポート案件の解決ダッシュボードには、サポート案件解決時間に最も大きな影響を与えているカスタマー サポートのトピックが表示され、システムのパフォーマンスへの影響が最も大きい可能性のある改善領域を特定するのに役立ちます")</span><span class="sxs-lookup"><span data-stu-id="d53eb-106">![The Case resolution dashboard shows you the customer support topics that are having the most impact on case resolution time, helping you identify areas for improvement that can have the greatest impact on system performance](media/case-resolution-dashboard.png "The Case resolution dashboard shows you the customer support topics that are having the most impact on case resolution time, helping you identify areas for improvement that can have the greatest impact on system performance")</span></span>
 
 <span data-ttu-id="d53eb-107">*サポート案件の解決ダッシュボードには、サポート案件解決時間に最も大きな影響を与えているカスタマー サポートのトピックが表示され、システムのパフォーマンスへの影響が最も大きい可能性のある改善領域を特定するのに役立ちます*</span><span class="sxs-lookup"><span data-stu-id="d53eb-107">*The Case resolution dashboard shows you the customer support topics that are having the most impact on case resolution time, helping you identify areas for improvement that can have the greatest impact on system performance*</span></span>
 

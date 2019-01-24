@@ -11,10 +11,10 @@ author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 652f00a3ae024cad761a9e64ab87e2fe857145c2
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: e290991bd9f2d23c1b1ecc08dfa7bee7b4c761ec
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -26,8 +26,7 @@ ms.lasthandoff: 11/08/2018
 
 <span data-ttu-id="53654-106">タグがトピックにグループ化されているときにタイトル内のタグを無視するようにデータ クレンジングの設定を指定することで、AI Insight チャートに表示される結果の品質を向上させることができます。</span><span class="sxs-lookup"><span data-stu-id="53654-106">You can improve the quality of the results displayed in AI Insights charts by specifying Data Cleansing settings to disregard tags in titles when they are grouped into topics.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="53654-107">![サポート案件のタイトルのクレンジング設定を使用すると、タグがトピックにグループ化されているときにタイトル内のタグを無視できます](media/case-title-cleansing.png "サポート案件のタイトルのクレンジング設定を使用すると、タグがトピックにグループ化されているときにタイトル内のタグを無視できます")</span><span class="sxs-lookup"><span data-stu-id="53654-107">![Case title cleansing settings allow you to disregard tags in titles when they are grouped into topics](media/case-title-cleansing.png "Case title cleansing settings allow you to disregard tags in titles when they are grouped into topics")</span></span>
+<span data-ttu-id="53654-107">![サポート案件のタイトルのクレンジング設定を使用すると、タグがトピックにグループ化されているときにタイトル内のタグを無視できます](media/case-title-cleansing.png "サポート案件のタイトルのクレンジング設定を使用すると、タグがトピックにグループ化されているときにタイトル内のタグを無視できます")</span><span class="sxs-lookup"><span data-stu-id="53654-107">![Case title cleansing settings allow you to disregard tags in titles when they are grouped into topics](media/case-title-cleansing.png "Case title cleansing settings allow you to disregard tags in titles when they are grouped into topics")</span></span>
 
 <span data-ttu-id="53654-108">*サポート案件のタイトルのクレンジング設定を使用すると、タグがトピックにグループ化されているときにタイトル内のタグを無視できます*</span><span class="sxs-lookup"><span data-stu-id="53654-108">*Case title cleansing settings allow you to disregard tags in titles when they are grouped into topics*</span></span>
 

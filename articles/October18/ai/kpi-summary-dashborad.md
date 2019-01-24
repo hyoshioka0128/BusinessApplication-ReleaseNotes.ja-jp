@@ -11,10 +11,10 @@ author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 321a5755f5ac7919a7e07fc2007c15834e062d24
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 1d252a1b492e3ea650c7b47bdc7942b69ce7d2f9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -26,8 +26,7 @@ ms.lasthandoff: 11/08/2018
 
 <span data-ttu-id="d8be5-105">KPI サマリー ダッシュボードには、システムの主要業績評価指標をグラフィカルに表示したさまざまなチャートが含まれています。</span><span class="sxs-lookup"><span data-stu-id="d8be5-105">The KPI summary dashboard includes a variety of charts with graphical views of your system's key performance indicators.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="d8be5-106">![KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます](media/ai-customer-service-insights.png "KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます")</span><span class="sxs-lookup"><span data-stu-id="d8be5-106">![The KPI summary dashboard gives you a snapshot of key performance indicators for measuring customer service](media/ai-customer-service-insights.png "The KPI summary dashboard gives you a snapshot of key performance indicators for measuring customer service")</span></span>
+<span data-ttu-id="d8be5-106">![KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます](media/ai-customer-service-insights.png "KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます")</span><span class="sxs-lookup"><span data-stu-id="d8be5-106">![The KPI summary dashboard gives you a snapshot of key performance indicators for measuring customer service](media/ai-customer-service-insights.png "The KPI summary dashboard gives you a snapshot of key performance indicators for measuring customer service")</span></span>
 
 <span data-ttu-id="d8be5-107">*KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます*</span><span class="sxs-lookup"><span data-stu-id="d8be5-107">*The KPI summary dashboard gives you a snapshot of key performance indicators for measuring customer service*</span></span>
 

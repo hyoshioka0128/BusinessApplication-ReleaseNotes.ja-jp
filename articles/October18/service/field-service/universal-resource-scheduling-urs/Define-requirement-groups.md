@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 8d071de0d3a839fbeeceb69962d3b349e087fdf9
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: a97beefa234e100aeb7ba03cd02bd44b1540bd28
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -28,8 +28,7 @@ ms.lasthandoff: 11/08/2018
 
 <span data-ttu-id="ecaa9-104">複数の要件で構成される要件グループを作成し、リソースのチームをスケジュールします。</span><span class="sxs-lookup"><span data-stu-id="ecaa9-104">Create requirement groups consisting of multiple requirements and schedule teams of resources.</span></span> <span data-ttu-id="ecaa9-105">任意の特定の要件グループに対し、階層形式とすべて/任意の条件で要件を編成できるグリッド ベースのコントロールを使用して、ソース要件を定義できます。</span><span class="sxs-lookup"><span data-stu-id="ecaa9-105">For any given requirement group, resource requirements can be defined using a grid-based control that allows for requirements to be organized in a hierarchical manner and with all/any conditions.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="ecaa9-106">![要件グループの定義](media/Requirement-Group.png "要件グループの定義")
+<span data-ttu-id="ecaa9-106">![要件グループの定義](media/Requirement-Group.png "要件グループの定義")
 <!-- picture --></span><span class="sxs-lookup"><span data-stu-id="ecaa9-106">![Requirement group definition](media/Requirement-Group.png "Requirement group definition")
 <!-- picture --></span></span>
 

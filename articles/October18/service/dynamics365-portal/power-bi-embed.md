@@ -13,10 +13,10 @@ ms.author: nenandw
 ms.reviewer: shjais
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e35bcf943f7257d057015b8535340025f4e76c30
-ms.openlocfilehash: 6a2dc97be2d85b05349f226a2f74d6ccf79c903a
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 8b036dfe01dc2effebc2c89debc5f50d648c8259
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/21/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 # <a name="embed-power-bi-visualizations"></a><span data-ttu-id="30416-103">Power BI のビジュアル化の埋め込み</span><span class="sxs-lookup"><span data-stu-id="30416-103">Embed Power BI visualizations</span></span>
@@ -31,8 +31,7 @@ ms.lasthandoff: 11/21/2018
 
 <span data-ttu-id="30416-110">管理者は、ポータルに対して Power BI を構成し、有効にすることができます。</span><span class="sxs-lookup"><span data-stu-id="30416-110">Administrators will be able to configure and enable Power BI for a portal.</span></span> <span data-ttu-id="30416-111">これには、適切な Power BI ライセンスが必要です。</span><span class="sxs-lookup"><span data-stu-id="30416-111">This will require an appropriate Power BI license.</span></span>
 
->[!div class="mx-imgBorder"]
-><span data-ttu-id="30416-112">![ポータル管理センターから Power BI 統合を有効にする](media/PBI_Admin_Center_EnablePBI.png "ポータル管理センターから Power BI 統合を有効にする")</span><span class="sxs-lookup"><span data-stu-id="30416-112">![Enable Power BI integration from Portal Admin Center](media/PBI_Admin_Center_EnablePBI.png "Enable Power BI integration from Portal Admin Center")</span></span>
+<span data-ttu-id="30416-112">![ポータル管理センターから Power BI 統合を有効にする](media/PBI_Admin_Center_EnablePBI.png "ポータル管理センターから Power BI 統合を有効にする")</span><span class="sxs-lookup"><span data-stu-id="30416-112">![Enable Power BI integration from Portal Admin Center](media/PBI_Admin_Center_EnablePBI.png "Enable Power BI integration from Portal Admin Center")</span></span>
 
 ## <a name="add-power-bi-visualization"></a><span data-ttu-id="30416-113">Power BI ビジュアル化の追加</span><span class="sxs-lookup"><span data-stu-id="30416-113">Add Power BI visualization</span></span>
 

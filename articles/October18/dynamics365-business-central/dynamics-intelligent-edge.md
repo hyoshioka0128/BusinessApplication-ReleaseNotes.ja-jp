@@ -12,10 +12,10 @@ ms.technology:
 ms.author: edupont
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 6bbe07a8ec524ab43d8b7cdef7051f2227a031b3
-ms.openlocfilehash: 68c220767d46a6e3ceaef189589369fc4adb7444
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 28843109bf5a47d1230823e9ef6ac578ee9c2b0c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 # <a name="intelligent-edge-for-dynamics-gp-dynamics-sl-and-dynamics-nav"></a><span data-ttu-id="4c2bc-103">Dynamics GP、Dynamics SL、Dynamics NAV のインテリジェント エッジ</span><span class="sxs-lookup"><span data-stu-id="4c2bc-103">Intelligent edge for Dynamics GP, Dynamics SL, and Dynamics NAV</span></span>
@@ -26,8 +26,7 @@ ms.lasthandoff: 11/08/2018
 
 <span data-ttu-id="4c2bc-106">Dynamics 365 Business Central によってインテリジェント クラウドにオンプレミスの Dynamics SMB ソリューションを接続し、Power BI、Microsoft Flow、PowerApps、機械学習、その他にアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="4c2bc-106">Connect your on-premises Dynamics SMB solution to the intelligent cloud through Dynamics 365 Business Central, and get access to Power BI, Microsoft Flow, PowerApps, machine learning, and others.</span></span>  
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="4c2bc-107">![エッジ デバイスから多くのクラウド ソリューションに](media/impact-dynamics-gp-dynamics-sl-customers-1.png "エッジ デバイスから多くのクラウド ソリューションに")</span><span class="sxs-lookup"><span data-stu-id="4c2bc-107">![From edge device to many cloud solutions](media/impact-dynamics-gp-dynamics-sl-customers-1.png "From edge device to many cloud solutions")</span></span>  
+<span data-ttu-id="4c2bc-107">![エッジ デバイスから多くのクラウド ソリューションに](media/impact-dynamics-gp-dynamics-sl-customers-1.png "エッジ デバイスから多くのクラウド ソリューションに")</span><span class="sxs-lookup"><span data-stu-id="4c2bc-107">![From edge device to many cloud solutions](media/impact-dynamics-gp-dynamics-sl-customers-1.png "From edge device to many cloud solutions")</span></span>  
 
 <span data-ttu-id="4c2bc-108">2018 年 10 月リリースの Business Central では、複数の Dynamics SMB 製品にインテリジェント エッジが組み込まれます。</span><span class="sxs-lookup"><span data-stu-id="4c2bc-108">With the October '18 release of Business Central, we’re bring the intelligent edge to several of our Dynamics SMB products.</span></span> <span data-ttu-id="4c2bc-109">インテリジェント エッジを使用すると、Business Central からインテリジェント クラウドのインスタンスにオンプレミスのソリューションをシームレスに接続できます。</span><span class="sxs-lookup"><span data-stu-id="4c2bc-109">With the intelligent edge, you can seamlessly connect your on-premises solution to an instance of our intelligent cloud through Business Central.</span></span> <span data-ttu-id="4c2bc-110">接続が行われると、オンプレミスのデータがインテリジェント クラウドに安全に複製されます。</span><span class="sxs-lookup"><span data-stu-id="4c2bc-110">When the connection is made, we securely replicate your on-premises data to the intelligent cloud.</span></span> <span data-ttu-id="4c2bc-111">ユーザーは複製する会社を決定するだけであり (すべてを選択することもできます)、その後は、オンプレミスのソリューションのメイン ページ内で、アクション可能な分析とコンテンツが提供されます。</span><span class="sxs-lookup"><span data-stu-id="4c2bc-111">You simply decide which companies you want to replicate (all if you choose), and then, within the main pages of your on-premises solution, we’ll deliver back actionable analysis and content.</span></span> <span data-ttu-id="4c2bc-112">インテリジェント クラウドは Power BI、PowerApps、Microsoft Flow、AI などのソリューションを利用して、業務の実行を向上させることができる分析情報とアクション可能なメッセージを提供します。</span><span class="sxs-lookup"><span data-stu-id="4c2bc-112">The intelligent cloud leverages solutions such as Power BI, PowerApps, Microsoft Flow, and AI to provide insight and actionable messages, enabling your business to run even better.</span></span>  
 

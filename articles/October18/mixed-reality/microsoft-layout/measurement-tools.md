@@ -8,10 +8,10 @@ ms.service: business-applications
 ms.author: ornella
 ms.reviewer: v-brycho
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 3fc99dca0eafb670698e98198d3dd1c21ae48ac9
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 1a58d180d94591b6008a08615a177a5b462ef384
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -26,7 +26,6 @@ ms.lasthandoff: 11/30/2018
 - <span data-ttu-id="40c60-109">測定単位をメートル法またはヤード ポンド法に切り替えます。</span><span class="sxs-lookup"><span data-stu-id="40c60-109">Switch the measurement unit between metric and imperial.</span></span> 
 - <span data-ttu-id="40c60-110">特定の測定に対する誤差のマージンに関する情報を取得します (許容誤差 1％ までの精度)。</span><span class="sxs-lookup"><span data-stu-id="40c60-110">Get information on the margin of error for a given measurement (accurate to 1% margin of error).</span></span> 
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="40c60-111">![測定モード](media/measuring-tools.PNG "測定モード")</span><span class="sxs-lookup"><span data-stu-id="40c60-111">![Measurement mode](media/measuring-tools.PNG "Measurement mode")</span></span>
+<span data-ttu-id="40c60-111">![測定モード](media/measuring-tools.PNG "測定モード")</span><span class="sxs-lookup"><span data-stu-id="40c60-111">![Measurement mode](media/measuring-tools.PNG "Measurement mode")</span></span>
 
 

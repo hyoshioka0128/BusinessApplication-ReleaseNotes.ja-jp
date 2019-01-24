@@ -8,10 +8,10 @@ ms.service: business-applications
 ms.author: mapau
 ms.reviewer: v-brycho
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: b29674cd9604220b4abc578609c75b5c9074070a
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: b83cd3a4bdfea356903cf7d7eb789215f0447beb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -24,8 +24,7 @@ ms.lasthandoff: 11/30/2018
 > [!NOTE]
 > <span data-ttu-id="23614-106">Field Service の予約を表示するためには [Dynamics 365 ライセンス](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand)が必要です。</span><span class="sxs-lookup"><span data-stu-id="23614-106">A [Dynamics 365 license](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) is required to view Field Service bookings.</span></span>
 
-> [!div class="mx-imgBorder"]
-> ![](media/field-service.jpg)
+![](media/field-service.jpg)
 
 <!--
 > ![](media/66a1f3d0ea3bc34ab53a3b63a1f33c07.png)

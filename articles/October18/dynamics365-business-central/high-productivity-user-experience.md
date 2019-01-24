@@ -11,10 +11,10 @@ ms.technology:
 ms.author: blazkote
 audience: end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: be8f1ad90d215007fea5f128d134d491fe024fa5
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: e4fac0f980cc94fc2ebeb9a8d0f7654849a94e50
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -29,8 +29,7 @@ ms.lasthandoff: 10/26/2018
 ## <a name="refreshed-desktop-experience"></a><span data-ttu-id="f84c4-106">一新されたデスクトップ エクスペリエンス</span><span class="sxs-lookup"><span data-stu-id="f84c4-106">Refreshed desktop experience</span></span>
 <span data-ttu-id="f84c4-107">外観が一新され、Business Central はいっそう使いやすくなっています。</span><span class="sxs-lookup"><span data-stu-id="f84c4-107">With a fresh new look, Business Central is now easier to use.</span></span> <span data-ttu-id="f84c4-108">更新されたデスクトップ エクスペリエンスで重視されているのは、データのレイアウトの向上、画面スペースの活用、データの見やすさと読みやすさの向上、アプリケーション全体での簡単なナビゲーションです。</span><span class="sxs-lookup"><span data-stu-id="f84c4-108">The refreshed desktop experience focuses on improved layout of data, taking advantage of screen space, better data visibility and readability, and easier navigation through the entire application.</span></span> <span data-ttu-id="f84c4-109">詳細ページ (顧客カードなど) も新しいルック アンド フィールになり、アプリケーション全体で改良が行われてアプリケーションのすべての領域の表示が更新されています。</span><span class="sxs-lookup"><span data-stu-id="f84c4-109">Details pages (such as the customer card) also get a new look and feel, completing the visual refresh of all the application areas with further refinements across the application.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="f84c4-110">![Business Central の新しいコマンド バー](media/commanding.png "Business Central の新しいコマンド バー")</span><span class="sxs-lookup"><span data-stu-id="f84c4-110">![New command bar in Business Central](media/commanding.png "New command bar in Business Central")</span></span>
+<span data-ttu-id="f84c4-110">![Business Central の新しいコマンド バー](media/commanding.png "Business Central の新しいコマンド バー")</span><span class="sxs-lookup"><span data-stu-id="f84c4-110">![New command bar in Business Central](media/commanding.png "New command bar in Business Central")</span></span>
 
 [<span data-ttu-id="f84c4-111">一新されたデスクトップ エクスペリエンスの詳細をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="f84c4-111">Learn more about the refreshed desktop experience.</span></span>](refreshed-ux.md)
 
@@ -49,8 +48,7 @@ ms.lasthandoff: 10/26/2018
 ## <a name="access-from-anywhere"></a><span data-ttu-id="f84c4-122">どこからでもアクセス可能</span><span class="sxs-lookup"><span data-stu-id="f84c4-122">Access from anywhere</span></span>
 <span data-ttu-id="f84c4-123">Business Central のユーザーは、デバイス、プラットフォーム、フォーム ファクター (ノート PC、デスクトップ、タブレット PC、スマートフォン) に関係なく、社内でも出先でも、生産性と接続を維持できます。</span><span class="sxs-lookup"><span data-stu-id="f84c4-123">Users of Business Central are able to remain productive and engaged at their desks or on the go, regardless of the device, platform, or form factor (laptop, desktop, tablet, phone).</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="f84c4-124">![どこからでも Dynamics 365 Business Central を使用可能](media/bc-apps2.png "Business Central のユーザーは、デスクトップ、スマートフォン、タブレット PC のいずれでも生産性を維持できます")</span><span class="sxs-lookup"><span data-stu-id="f84c4-124">![Dynamics 365 Business Central Everywhere](media/bc-apps2.png "Business Central users can remain productive whether on a desktop, phone, or tablet")</span></span>
+<span data-ttu-id="f84c4-124">![どこからでも Dynamics 365 Business Central を使用可能](media/bc-apps2.png "Business Central のユーザーは、デスクトップ、スマートフォン、タブレット PC のいずれでも生産性を維持できます")</span><span class="sxs-lookup"><span data-stu-id="f84c4-124">![Dynamics 365 Business Central Everywhere](media/bc-apps2.png "Business Central users can remain productive whether on a desktop, phone, or tablet")</span></span>
 
 <span data-ttu-id="f84c4-125">Business Central は Microsoft が提供する最新のビジネス ソリューションであり、Dynamics NAV のすべての機能とメリットをクラウドに移すだけでなく、現代の企業がすべての接続された世界でより簡単に競争し、デジタル変革を実現できるようにします。</span><span class="sxs-lookup"><span data-stu-id="f84c4-125">Business Central is a modern business solution from Microsoft that not only brings the full power and heritage of Dynamics NAV to the cloud but also enables modern businesses to compete much easier in the all-connected world and deliver on digital transformation.</span></span>
 

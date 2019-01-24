@@ -10,10 +10,10 @@ ms.service: business-applications
 ms.technology: 
 ms.author: FieldServiceDave
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: af31d668353deb81478181f8ee40f4869d933fba
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: c7e67ca8c13a21ccc8d5616b6fd1f6ee564ee115
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -27,15 +27,13 @@ ms.lasthandoff: 10/26/2018
 
 <span data-ttu-id="158a4-106">リソース スケジュール最適化ソリューションでは、ゴールはソリューションが最適化する対象です。</span><span class="sxs-lookup"><span data-stu-id="158a4-106">In the Resource Scheduling Optimization solution, a goal is what the solution optimizes.</span></span> <span data-ttu-id="158a4-107">たとえば、一般的なゴールとして、勤務時間の最大化と移動時間の最小化の 2 つがあります。</span><span class="sxs-lookup"><span data-stu-id="158a4-107">For example, two common goals are maximizing working hours and minimizing travel time.</span></span> <span data-ttu-id="158a4-108">既定では、ゴールに対して制約と目的が有効になっています。</span><span class="sxs-lookup"><span data-stu-id="158a4-108">By default, a goal has constraints and objectives enabled.</span></span> <span data-ttu-id="158a4-109">これらはいずれも必要に応じて変更できます。</span><span class="sxs-lookup"><span data-stu-id="158a4-109">Any of these can be modified as needed.</span></span>
 
-> [!div class="mx-imgBorder"]
-><span data-ttu-id="158a4-110">![生産性を最大化するための既定のゴールのスクリーンショット](../media/rso-default-goal-2.png "生産性を最大化するための既定のゴールのスクリーンショット")</span><span class="sxs-lookup"><span data-stu-id="158a4-110">![Screenshot of a default goal to maximize productivity](../media/rso-default-goal-2.png "Screenshot of a default goal to maximize productivity")</span></span>
+<span data-ttu-id="158a4-110">![生産性を最大化するための既定のゴールのスクリーンショット](../media/rso-default-goal-2.png "生産性を最大化するための既定のゴールのスクリーンショット")</span><span class="sxs-lookup"><span data-stu-id="158a4-110">![Screenshot of a default goal to maximize productivity](../media/rso-default-goal-2.png "Screenshot of a default goal to maximize productivity")</span></span>
 
 <span data-ttu-id="158a4-111">*生産性を最大化するための既定のゴール*</span><span class="sxs-lookup"><span data-stu-id="158a4-111">*Default goal to maximize productivity*</span></span>
 
 <span data-ttu-id="158a4-112">既定のゴールは、スケジュール ボードで単一リソース最適化が選択されているときに使用されます。</span><span class="sxs-lookup"><span data-stu-id="158a4-112">The default goal is used when single resource optimization is selected from the schedule board.</span></span> <span data-ttu-id="158a4-113">必要に応じて、ユーザーは新しい最適化ゴールを作成し、それを既定のゴールとして関連付けることができます。</span><span class="sxs-lookup"><span data-stu-id="158a4-113">If needed, a user can create a new optimization goal and associate it as a default goal.</span></span>
 
-> [!div class="mx-imgBorder"]
-><span data-ttu-id="158a4-114">![リソース スケジュール最適化で展開された既定のゴールのスクリーンショット](../media/rso-single-resource-1.png "リソース スケジュール最適化で展開された既定のゴールのスクリーンショット")</span><span class="sxs-lookup"><span data-stu-id="158a4-114">![Screenshot of default goal deployed with Resource Scheduling Optimization](../media/rso-single-resource-1.png "Screenshot of default goal deployed with Resource Scheduling Optimization")</span></span>
+<span data-ttu-id="158a4-114">![リソース スケジュール最適化で展開された既定のゴールのスクリーンショット](../media/rso-single-resource-1.png "リソース スケジュール最適化で展開された既定のゴールのスクリーンショット")</span><span class="sxs-lookup"><span data-stu-id="158a4-114">![Screenshot of default goal deployed with Resource Scheduling Optimization](../media/rso-single-resource-1.png "Screenshot of default goal deployed with Resource Scheduling Optimization")</span></span>
 
 <span data-ttu-id="158a4-115">*リソース スケジュール最適化で展開された既定のゴール*</span><span class="sxs-lookup"><span data-stu-id="158a4-115">*Default goal deployed with Resource Scheduling Optimization*</span></span>
 
@@ -62,8 +60,7 @@ ms.lasthandoff: 10/26/2018
 
 <span data-ttu-id="158a4-133">さらに、要件では複数選択が可能なので、特定の要件に必要な複数のリソースの種類を指定できます。</span><span class="sxs-lookup"><span data-stu-id="158a4-133">Additionally, requirements allow multi-select so you can specify which resource types are needed for a given requirement.</span></span>
 
-> [!div class="mx-imgBorder"]
-><span data-ttu-id="158a4-134">![要件での複数選択のリソースの種類属性のスクリーンショット](../media/rso-requirement-resource-type-field.png "要件での複数選択のリソースの種類属性のスクリーンショット")</span><span class="sxs-lookup"><span data-stu-id="158a4-134">![Screenshot of multi-select resource type attribute on requirement](../media/rso-requirement-resource-type-field.png "Screenshot of multi-select resource type attribute on requirement")</span></span>
+<span data-ttu-id="158a4-134">![要件での複数選択のリソースの種類属性のスクリーンショット](../media/rso-requirement-resource-type-field.png "要件での複数選択のリソースの種類属性のスクリーンショット")</span><span class="sxs-lookup"><span data-stu-id="158a4-134">![Screenshot of multi-select resource type attribute on requirement](../media/rso-requirement-resource-type-field.png "Screenshot of multi-select resource type attribute on requirement")</span></span>
 
 <span data-ttu-id="158a4-135">*要件での複数選択のリソースの種類属性*</span><span class="sxs-lookup"><span data-stu-id="158a4-135">*Multi-select resource type attribute on requirement*</span></span>
 
@@ -78,8 +75,7 @@ ms.lasthandoff: 10/26/2018
 
 <span data-ttu-id="158a4-143">リソースの種類を一致させる機能を有効にするには、**最適化の目的**に移動し、制約として機能を追加します。</span><span class="sxs-lookup"><span data-stu-id="158a4-143">To enable the matching resource type capability, go to **Optimization Goals** and add it as a constraint.</span></span>
 
-> [!div class="mx-imgBorder"]
-><span data-ttu-id="158a4-144">![最適化セットアップでのリソースの種類一致制約のスクリーンショット](../media/rso-resource-type-constraint.png "最適化セットアップでのリソースの種類一致制約のスクリーンショット")</span><span class="sxs-lookup"><span data-stu-id="158a4-144">![Screenshot of match resource type constraint in optimization setup](../media/rso-resource-type-constraint.png "Screenshot of match resource type constraint in optimization setup")</span></span>
+<span data-ttu-id="158a4-144">![最適化セットアップでのリソースの種類一致制約のスクリーンショット](../media/rso-resource-type-constraint.png "最適化セットアップでのリソースの種類一致制約のスクリーンショット")</span><span class="sxs-lookup"><span data-stu-id="158a4-144">![Screenshot of match resource type constraint in optimization setup](../media/rso-resource-type-constraint.png "Screenshot of match resource type constraint in optimization setup")</span></span>
 
 <span data-ttu-id="158a4-145">*最適化セットアップでのリソースの種類一致制約*</span><span class="sxs-lookup"><span data-stu-id="158a4-145">*Match resource type constraint in optimization setup*</span></span>
 

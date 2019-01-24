@@ -12,10 +12,10 @@ ms.technology:
 ms.author: sunayv
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
-ms.openlocfilehash: 8a899a8318be46179187f04560465f3a61879cfb
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 3fd331279ab4ae1b39f4b49486b1f0f49f8f092f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/18/2019
+ms.lasthandoff: 01/23/2019
 
 ---
 # <a name="flow-checker"></a><span data-ttu-id="13add-104">フロー チェッカー</span><span class="sxs-lookup"><span data-stu-id="13add-104">Flow checker</span></span>
@@ -29,12 +29,10 @@ ms.lasthandoff: 01/18/2019
 
 <span data-ttu-id="13add-109">まず、フローチェッカーがデザイナーのコマンド バーに表示され、フローで 1 つ以上のエラーが識別されると赤いドットが表示されます。</span><span class="sxs-lookup"><span data-stu-id="13add-109">To begin, the Flow checker appears in the command bar in the designer and will show a red dot when one or more errors are identified in your flow:</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="13add-110">![コマンド バーのフロー チェッカー](media/flow-checker-1.png "コマンド バーのフロー チェッカー")</span><span class="sxs-lookup"><span data-stu-id="13add-110">![Flow checker in the command bar](media/flow-checker-1.png "Flow checker in the command bar")</span></span>
+<span data-ttu-id="13add-110">![コマンド バーのフロー チェッカー](media/flow-checker-1.png "コマンド バーのフロー チェッカー")</span><span class="sxs-lookup"><span data-stu-id="13add-110">![Flow checker in the command bar](media/flow-checker-1.png "Flow checker in the command bar")</span></span>
 
 <span data-ttu-id="13add-111">このボタンを選択して、チェッカーを開きます。</span><span class="sxs-lookup"><span data-stu-id="13add-111">Select this button to open the checker.</span></span> <span data-ttu-id="13add-112">フローにエラーがある場合は、保存しようとするとチェッカーが開きます。</span><span class="sxs-lookup"><span data-stu-id="13add-112">If there are errors in the flow, the checker opens when you try to save it.</span></span> <span data-ttu-id="13add-113">チェッカーが開くと、フロー内のすべてのエラーと警告が表示されます。</span><span class="sxs-lookup"><span data-stu-id="13add-113">Once the checker opens, it shows all errors and warnings in your flow.</span></span> <span data-ttu-id="13add-114">各セクションの内側で、チェッカーはエラーまたは警告が発生したアクションを呼び出します。</span><span class="sxs-lookup"><span data-stu-id="13add-114">Inside each section, the checker calls out the actions where the error or warning occurs:</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="13add-115">![開いているフロー チェッカー ウィンドウ](media/flow-checker-2.png "開いているフロー チェッカー ウィンドウ")</span><span class="sxs-lookup"><span data-stu-id="13add-115">![Flow checker pane open](media/flow-checker-2.png "Flow checker pane open")</span></span>
+<span data-ttu-id="13add-115">![開いているフロー チェッカー ウィンドウ](media/flow-checker-2.png "開いているフロー チェッカー ウィンドウ")</span><span class="sxs-lookup"><span data-stu-id="13add-115">![Flow checker pane open](media/flow-checker-2.png "Flow checker pane open")</span></span>
 
 <span data-ttu-id="13add-116">エラーを修正するためにさらに詳細が必要な場合は、行を選択して追加のガイダンスを表示します。</span><span class="sxs-lookup"><span data-stu-id="13add-116">If you need more details to fix an error, select the row to receive additional guidance.</span></span> <span data-ttu-id="13add-117">フロー チェッカーはいくつかの基本的なシナリオで開始しますが、今後数か月にわたってガイダンスが追加される予定です。</span><span class="sxs-lookup"><span data-stu-id="13add-117">The Flow checker is now starting with some basic scenarios, but look forward to more guidance being added over the coming months.</span></span>

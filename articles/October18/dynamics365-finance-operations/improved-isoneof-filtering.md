@@ -11,10 +11,10 @@ ms.technology:
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 847516428dc8bc5cd5e510b75545c9ea9293def0
-ms.openlocfilehash: 3b58c7caf610ccb8040083a00701a8c53ba7c070
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: ac2796ef69e07e682cd8c16d6121b036c85f8458
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/09/2019
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -24,15 +24,13 @@ ms.lasthandoff: 01/09/2019
 
 <span data-ttu-id="487c0-109">この画像では、Platform Update 22 より前の「次の値のいずれか」フィルタリング結果が示されています。</span><span class="sxs-lookup"><span data-stu-id="487c0-109">This image shows the "is one of" filtering experience prior to Platform Update 22.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="487c0-110">![Platform Update 22 より前の「次の値のいずれか」フィルタリング結果](media/isOneOfBefore.png "Platform Update 22 より前の「次の値のいずれか」フィルタリング結果")</span><span class="sxs-lookup"><span data-stu-id="487c0-110">![The "is one of" filtering experience before Platform Update 22](media/isOneOfBefore.png "The 'is one of' filtering experience before Platform Update 22")</span></span>
+<span data-ttu-id="487c0-110">![Platform Update 22 より前の「次の値のいずれか」フィルタリング結果](media/isOneOfBefore.png "Platform Update 22 より前の「次の値のいずれか」フィルタリング結果")</span><span class="sxs-lookup"><span data-stu-id="487c0-110">![The "is one of" filtering experience before Platform Update 22](media/isOneOfBefore.png "The 'is one of' filtering experience before Platform Update 22")</span></span>
 
 <span data-ttu-id="487c0-111">*Platform Update 22 より前の「次の値のいずれか」フィルタリング結果*</span><span class="sxs-lookup"><span data-stu-id="487c0-111">*The "is one of" filtering experience before Platform Update 22*</span></span>
 
 <span data-ttu-id="487c0-112">次の画像では、Platform Update 22 での「次の値のいずれか」フィルタリング結果が示されています。</span><span class="sxs-lookup"><span data-stu-id="487c0-112">The following image shows the "is one of" filtering experience in Platform Update 22.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="487c0-113">![Platform Update 22 での「次の値のいずれか」フィルタリング 結果](media/isOneOfAfter.png  "Platform Update 22 での「次の値のいずれか」フィルタリング結果")</span><span class="sxs-lookup"><span data-stu-id="487c0-113">![The "is one of" filtering experience with the Platform Update 22](media/isOneOfAfter.png  "The 'is one of' filtering experience with the Platform Update 22")</span></span>
+<span data-ttu-id="487c0-113">![Platform Update 22 での「次の値のいずれか」フィルタリング 結果](media/isOneOfAfter.png  "Platform Update 22 での「次の値のいずれか」フィルタリング結果")</span><span class="sxs-lookup"><span data-stu-id="487c0-113">![The "is one of" filtering experience with the Platform Update 22](media/isOneOfAfter.png  "The 'is one of' filtering experience with the Platform Update 22")</span></span>
 
 <span data-ttu-id="487c0-114">*Platform Update 22 で最適化された「次の値のいずれか」フィルタリング結果*</span><span class="sxs-lookup"><span data-stu-id="487c0-114">*The "is one of" filtering experience with the optimized experience enabled in Platform Update 22*</span></span>
 

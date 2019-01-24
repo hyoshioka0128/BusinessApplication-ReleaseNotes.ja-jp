@@ -13,10 +13,10 @@ ms.author: sandhan
 ms.reviewer: shjais
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e35bcf943f7257d057015b8535340025f4e76c30
-ms.openlocfilehash: d81ef86027319442148014795f3d1584229c0efa
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: a64ca1209b67d8420c502b4f67ebfd4ec9536d60
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/21/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 #  <a name="manage-sharepoint-documents"></a><span data-ttu-id="936fa-103">SharePoint ドキュメントの管理</span><span class="sxs-lookup"><span data-stu-id="936fa-103">Manage SharePoint documents</span></span>
@@ -34,23 +34,19 @@ ms.lasthandoff: 11/21/2018
 
 ## <a name="add-documents"></a><span data-ttu-id="936fa-108">ドキュメントを追加する</span><span class="sxs-lookup"><span data-stu-id="936fa-108">Add documents</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="936fa-109">![サポート案件レコードにファイルを追加する](media/SP_Portal_Add_Files.png "サポート案件レコードにファイルを追加する")</span><span class="sxs-lookup"><span data-stu-id="936fa-109">![Add files to a case record](media/SP_Portal_Add_Files.png "Add files to a case record")</span></span>
+<span data-ttu-id="936fa-109">![サポート案件レコードにファイルを追加する](media/SP_Portal_Add_Files.png "サポート案件レコードにファイルを追加する")</span><span class="sxs-lookup"><span data-stu-id="936fa-109">![Add files to a case record](media/SP_Portal_Add_Files.png "Add files to a case record")</span></span>
 
 ## <a name="view-and-download-documents"></a><span data-ttu-id="936fa-110">ドキュメントを表示し、ダウンロードする</span><span class="sxs-lookup"><span data-stu-id="936fa-110">View and download documents</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="936fa-111">![サポート案件レコードに関連するドキュメントを表示する](media/SP_Portal_View_Files.png "サポート案件レコードに関連するドキュメントを表示する")</span><span class="sxs-lookup"><span data-stu-id="936fa-111">![View documents related to a case record](media/SP_Portal_View_Files.png "View documents related to a case record")</span></span> 
+<span data-ttu-id="936fa-111">![サポート案件レコードに関連するドキュメントを表示する](media/SP_Portal_View_Files.png "サポート案件レコードに関連するドキュメントを表示する")</span><span class="sxs-lookup"><span data-stu-id="936fa-111">![View documents related to a case record](media/SP_Portal_View_Files.png "View documents related to a case record")</span></span> 
 
 ## <a name="create-folder"></a><span data-ttu-id="936fa-112">フォルダーの作成</span><span class="sxs-lookup"><span data-stu-id="936fa-112">Create folder</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="936fa-113">![ドキュメント一覧内にサブフォルダーを作成してファイルを整理する](media/SP_Portal_Create_Folder.png "ドキュメント一覧内にサブフォルダーを作成してファイルを整理する")</span><span class="sxs-lookup"><span data-stu-id="936fa-113">![Create subfolder within document list to organize files](media/SP_Portal_Create_Folder.png "Create subfolder within document list to organize files")</span></span>
+<span data-ttu-id="936fa-113">![ドキュメント一覧内にサブフォルダーを作成してファイルを整理する](media/SP_Portal_Create_Folder.png "ドキュメント一覧内にサブフォルダーを作成してファイルを整理する")</span><span class="sxs-lookup"><span data-stu-id="936fa-113">![Create subfolder within document list to organize files](media/SP_Portal_Create_Folder.png "Create subfolder within document list to organize files")</span></span>
 
 ## <a name="delete-document"></a><span data-ttu-id="936fa-114">ドキュメントを削除する</span><span class="sxs-lookup"><span data-stu-id="936fa-114">Delete document</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="936fa-115">![サポート案件レコードからファイルを削除する](media/SP_Portal_Delete_File.png "サポート案件レコードからファイルを削除する")</span><span class="sxs-lookup"><span data-stu-id="936fa-115">![Delete files from a case record](media/SP_Portal_Delete_File.png "Delete files from a case record")</span></span>
+<span data-ttu-id="936fa-115">![サポート案件レコードからファイルを削除する](media/SP_Portal_Delete_File.png "サポート案件レコードからファイルを削除する")</span><span class="sxs-lookup"><span data-stu-id="936fa-115">![Delete files from a case record](media/SP_Portal_Delete_File.png "Delete files from a case record")</span></span>
 
 <!--
 ### Who uses this feature
@@ -64,13 +60,11 @@ This feature requires that document management is set up for [Dynamics 365 with 
 
 ### <a name="configuring-document-list-on-entity-forms"></a><span data-ttu-id="936fa-117">エンティティ フォームのドキュメント一覧を構成する</span><span class="sxs-lookup"><span data-stu-id="936fa-117">Configuring document list on entity forms</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="936fa-118">![サポート案件エンティティ フォームのドキュメント一覧サブグリッドを構成する](media/SP_Portal_configure_entity_form_doc_location.png "ドキュメントの場所サブグリッドの構成")</span><span class="sxs-lookup"><span data-stu-id="936fa-118">![Configure document list subgrid on case entity form](media/SP_Portal_configure_entity_form_doc_location.png "Document location subgrid configuration")</span></span>
+<span data-ttu-id="936fa-118">![サポート案件エンティティ フォームのドキュメント一覧サブグリッドを構成する](media/SP_Portal_configure_entity_form_doc_location.png "ドキュメントの場所サブグリッドの構成")</span><span class="sxs-lookup"><span data-stu-id="936fa-118">![Configure document list subgrid on case entity form](media/SP_Portal_configure_entity_form_doc_location.png "Document location subgrid configuration")</span></span>
 
 ### <a name="configuring-permissions-on-document-list"></a><span data-ttu-id="936fa-119">ドキュメント一覧に対するアクセス許可を構成する</span><span class="sxs-lookup"><span data-stu-id="936fa-119">Configuring permissions on document list</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="936fa-120">![ドキュメント一覧のアクセス許可を構成する](media/SP_Portal_configure_doc_permissions.png "アクセス許可を構成する")</span><span class="sxs-lookup"><span data-stu-id="936fa-120">![Configure document list permissions](media/SP_Portal_configure_doc_permissions.png "Configure permissions")</span></span>
+<span data-ttu-id="936fa-120">![ドキュメント一覧のアクセス許可を構成する](media/SP_Portal_configure_doc_permissions.png "アクセス許可を構成する")</span><span class="sxs-lookup"><span data-stu-id="936fa-120">![Configure document list permissions](media/SP_Portal_configure_doc_permissions.png "Configure permissions")</span></span>
 
 <span data-ttu-id="936fa-121">アクセス許可ベースのモデルを使用すると、特定の顧客シナリオを対象に、ファイルやフォルダーに対するこれらの操作を管理できます。</span><span class="sxs-lookup"><span data-stu-id="936fa-121">A permissions-based model allows controlling these actions on files and folders for specific customer scenarios.</span></span>
 

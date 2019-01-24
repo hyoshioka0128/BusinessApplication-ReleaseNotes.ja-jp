@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mikebc
 audience: end user, developer, customizer, business analyst
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 431234897d8e0475e28e04bfcd51e605e6cb6d16
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 7af88d223495a1dbecf483c2d5122429b8dcaa1c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -32,8 +32,7 @@ ms.lasthandoff: 10/26/2018
 <span data-ttu-id="1f87b-109">操作アシストにはアプリケーションのどこからでも **Alt + Q** キーボード ショートカットを使用してアクセスできます。または、Office 365 アプリケーションでは電球の形のアイコンを探してください。</span><span class="sxs-lookup"><span data-stu-id="1f87b-109">Access Tell Me from anywhere in the application using the **Alt+Q** keyboard shortcut, or look for the lightbulb icon as you would in Office 365 applications.</span></span>
 
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="1f87b-110">![alt text](media/search-dialog.png "顧客リストから操作アシストを使用したときの結果を表示しているウィンドウ。")</span><span class="sxs-lookup"><span data-stu-id="1f87b-110">![alt text](media/search-dialog.png "The Tell Me window showing some results when used from the Customer list.")</span></span>
+<span data-ttu-id="1f87b-110">![alt text](media/search-dialog.png "顧客リストから操作アシストを使用したときの結果を表示しているウィンドウ。")</span><span class="sxs-lookup"><span data-stu-id="1f87b-110">![alt text](media/search-dialog.png "The Tell Me window showing some results when used from the Customer list.")</span></span>
 
 <!--
 ### Who uses these features

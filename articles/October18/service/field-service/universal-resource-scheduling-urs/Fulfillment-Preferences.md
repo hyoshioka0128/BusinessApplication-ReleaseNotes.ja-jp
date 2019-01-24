@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 333d2399838c87721824066ace25ebe4e96628ad
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 9d995d374aa50287d4e5f4940e07bd7f4d6fbbd4
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -46,15 +46,13 @@ ms.lasthandoff: 11/08/2018
 
 - <span data-ttu-id="503de-113">**上位の結果だけを表示する** - 時間グループまたは間隔に関して冗長と思われる結果を制限することで、スケジュール画面を整理します。</span><span class="sxs-lookup"><span data-stu-id="503de-113">**Display only the top results** - Declutter scheduling screen by limiting results you deem redundant per time group, or per interval.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="503de-114">![ウィンドウに分割された結果を表示するスケジュール アシスタント](media/Time-Group-Details.png "時間グループの詳細")
+<span data-ttu-id="503de-114">![ウィンドウに分割された結果を表示するスケジュール アシスタント](media/Time-Group-Details.png "時間グループの詳細")
 <!-- picture --></span><span class="sxs-lookup"><span data-stu-id="503de-114">![Schedule Assistant displaying results broken into windows](media/Time-Group-Details.png "Time group details")
 <!-- picture --></span></span>
 
 <span data-ttu-id="503de-115">*ウィンドウに分割された結果を表示するスケジュール アシスタント*</span><span class="sxs-lookup"><span data-stu-id="503de-115">*Schedule Assistant displaying results broken into windows*</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="503de-116">![間隔スケジュール設定の一部として時間の結果を表示するスケジュール アシスタント](media/Intervals-on-the-hour.png "間隔")
+<span data-ttu-id="503de-116">![間隔スケジュール設定の一部として時間の結果を表示するスケジュール アシスタント](media/Intervals-on-the-hour.png "間隔")
 <!-- picture --></span><span class="sxs-lookup"><span data-stu-id="503de-116">![Schedule Assistant displaying results on the hour as part of interval scheduling](media/Intervals-on-the-hour.png "Intervals")
 <!-- picture --></span></span>
 

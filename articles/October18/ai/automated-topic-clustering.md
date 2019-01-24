@@ -11,10 +11,10 @@ author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: d9f1ffcc6b526da767c701ef21f6f5d56fb1a6a0
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 7737e67b142be184830f59d51c438c76c3169980
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -26,8 +26,7 @@ ms.lasthandoff: 11/08/2018
 
 <span data-ttu-id="7ffaa-105">トピックを使用すると、現在のトレンドや新たなトレンドを発見して適応し、ブランドのセンチメントを向上させ、問題のある領域を特定できます。</span><span class="sxs-lookup"><span data-stu-id="7ffaa-105">Topics enable you to discover and adapt to current and emerging trends, improve brand sentiment, and identify problem areas.</span></span> <span data-ttu-id="7ffaa-106">問題が顧客に影響を及ぼす前に問題を特定して修正することにより、優れた顧客サービス エクスペリエンスを提供できます。</span><span class="sxs-lookup"><span data-stu-id="7ffaa-106">By pinpointing and fixing issues before they impact customers, you can deliver better customer service experiences.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="7ffaa-107">![上位案件ボリューム影響要因と新規発生トピックのチャートには、最も発生量の多いサポート トピックと、指定期間内のボリューム順でボリューム変化の大きいサポートト ピックが表示されます](media/automated-topic-clustering.png "上位案件ボリューム影響要因と新規発生トピックのチャートには、最も発生量の多いサポート トピックと、指定期間内のボリューム順でボリューム変化の大きいサポートト ピックが表示されます")</span><span class="sxs-lookup"><span data-stu-id="7ffaa-107">![The Top case volume impactors and Emerging topics charts display support topics that are generating the most volume and that have a high volume change in order of volume over the specified time period](media/automated-topic-clustering.png "The Top case volume impactors and Emerging topics charts display support topics that are generating the most volume and that have a high volume change in order of volume over the specified time period")</span></span>
+<span data-ttu-id="7ffaa-107">![上位案件ボリューム影響要因と新規発生トピックのチャートには、最も発生量の多いサポート トピックと、指定期間内のボリューム順でボリューム変化の大きいサポートト ピックが表示されます](media/automated-topic-clustering.png "上位案件ボリューム影響要因と新規発生トピックのチャートには、最も発生量の多いサポート トピックと、指定期間内のボリューム順でボリューム変化の大きいサポートト ピックが表示されます")</span><span class="sxs-lookup"><span data-stu-id="7ffaa-107">![The Top case volume impactors and Emerging topics charts display support topics that are generating the most volume and that have a high volume change in order of volume over the specified time period](media/automated-topic-clustering.png "The Top case volume impactors and Emerging topics charts display support topics that are generating the most volume and that have a high volume change in order of volume over the specified time period")</span></span>
 
 <span data-ttu-id="7ffaa-108">*上位案件ボリューム影響要因と新規発生トピックのチャートには、最も発生量の多いサポート トピックと、指定期間内のボリューム順でボリューム変化の大きいサポートト ピックが表示されます*</span><span class="sxs-lookup"><span data-stu-id="7ffaa-108">*The Top case volume impactors and Emerging topics charts display support topics that are generating the most volume and that have a high volume change in order of volume over the specified time period*</span></span>
 

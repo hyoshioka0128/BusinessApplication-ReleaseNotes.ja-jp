@@ -12,10 +12,10 @@ ms.technology:
 ms.author: mikebc
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 8c2bc84d8e3e8291d5cc07b49e7ae853a5cb5df3
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: bfef23806c49aa0b060dd11dd2445f3c84b4faf7
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 # <a name="advanced-filtering"></a><span data-ttu-id="a788a-103">高度なフィルター</span><span class="sxs-lookup"><span data-stu-id="a788a-103">Advanced filtering</span></span>
@@ -31,8 +31,7 @@ ms.lasthandoff: 10/26/2018
 ## <a name="filtering-lists"></a><span data-ttu-id="a788a-108">リストのフィルター処理</span><span class="sxs-lookup"><span data-stu-id="a788a-108">Filtering lists</span></span>
 <span data-ttu-id="a788a-109">リストの横に固定された新しいフィルター ウィンドウは、わかりやすく、効率よく作業できる使い慣れたデザインになっています。</span><span class="sxs-lookup"><span data-stu-id="a788a-109">Anchored to the side of your lists, the new filter pane has a familiar design that is easy to learn and efficient to work with.</span></span> <span data-ttu-id="a788a-110">リストのあらかじめ定義されたフィルター ビューを切り替え、独自のフィルターを追加してビューを調整し、何もない状態からでも簡単に始めることができます。</span><span class="sxs-lookup"><span data-stu-id="a788a-110">Switch between predefined filtered views of your list, adjust a view by adding your own filters, or simply start from scratch.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="a788a-111">![alt text](media/list-page-with-advanced-filter.png "リストの横に表示されているフィルター ウィンドウ。")</span><span class="sxs-lookup"><span data-stu-id="a788a-111">![alt text](media/list-page-with-advanced-filter.png "The filter pane, shown alongside a list.")</span></span>
+<span data-ttu-id="a788a-111">![alt text](media/list-page-with-advanced-filter.png "リストの横に表示されているフィルター ウィンドウ。")</span><span class="sxs-lookup"><span data-stu-id="a788a-111">![alt text](media/list-page-with-advanced-filter.png "The filter pane, shown alongside a list.")</span></span>
 
 <span data-ttu-id="a788a-112">フィルター ウィンドウでは次のことができます。</span><span class="sxs-lookup"><span data-stu-id="a788a-112">The filter pane allows you to:</span></span>
 

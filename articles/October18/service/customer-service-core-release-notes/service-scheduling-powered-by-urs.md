@@ -13,10 +13,10 @@ ms.author: Karthik55217
 ms.reviewer: anjgupta
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 566d62b456ff1ad482f7bb4b1a7b423e246cc4b4
-ms.openlocfilehash: 3415b77f1cb548f7122269df1f4bdacb634191ff
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 06d2588d56752d17c3987e45f7f79c96c3aadca8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/27/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -30,8 +30,7 @@ ms.lasthandoff: 11/27/2018
 
 <span data-ttu-id="c54cd-107">現在 Web クライアント上でサービス スケジュール設定を使用しているお客様には、最新のソリューションへアップグレードするための詳細な移行ガイドが提供されます。</span><span class="sxs-lookup"><span data-stu-id="c54cd-107">Customers currently using service scheduling on Web Client will be provided with a detailed migration guide to upgrade to the latest solution.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="c54cd-108">![Universal Resource Scheduling](media/universal-resource-scheduling.png "Universal Resource Scheduling")</span><span class="sxs-lookup"><span data-stu-id="c54cd-108">![Universal Resource Scheduling](media/universal-resource-scheduling.png "Universal Resource Scheduling")</span></span>
+<span data-ttu-id="c54cd-108">![Universal Resource Scheduling](media/universal-resource-scheduling.png "Universal Resource Scheduling")</span><span class="sxs-lookup"><span data-stu-id="c54cd-108">![Universal Resource Scheduling](media/universal-resource-scheduling.png "Universal Resource Scheduling")</span></span>
 
 ## <a name="resources"></a><span data-ttu-id="c54cd-109">リソース</span><span class="sxs-lookup"><span data-stu-id="c54cd-109">Resources</span></span>
 

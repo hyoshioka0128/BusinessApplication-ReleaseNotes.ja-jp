@@ -11,10 +11,10 @@ ms.author: Karthik55217
 ms.reviewer: anjgupta
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 566d62b456ff1ad482f7bb4b1a7b423e246cc4b4
-ms.openlocfilehash: e403c9258fbf9fa81f6b98a0d7632ca72562f98a
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 4be9191d6b76705ed618a9f8860113b3c8f1635e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/27/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 #  <a name="knowledge-article-recommendations"></a><span data-ttu-id="eac1a-103">ナレッジ記事のレコメンデーション</span><span class="sxs-lookup"><span data-stu-id="eac1a-103">Knowledge article recommendations</span></span> 
@@ -25,7 +25,6 @@ ms.lasthandoff: 11/27/2018
 
 <span data-ttu-id="eac1a-107">次のスクリーンショットは、Dynamics 365 for Customer Service のナレッジ記事のレコメンデーションを示しています。</span><span class="sxs-lookup"><span data-stu-id="eac1a-107">The following screenshot shows knowledge article recommendations in Dynamics 365 for Customer Service:</span></span> 
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="eac1a-108">![ナレッジ記事のレコメンデーションの表示](media/knowledge-article-suggestion.png "ナレッジ記事のレコメンデーションの表示")</span><span class="sxs-lookup"><span data-stu-id="eac1a-108">![Displaying knowledge article recommendations](media/knowledge-article-suggestion.png "Displaying knowledge article recommendations")</span></span>
+<span data-ttu-id="eac1a-108">![ナレッジ記事のレコメンデーションの表示](media/knowledge-article-suggestion.png "ナレッジ記事のレコメンデーションの表示")</span><span class="sxs-lookup"><span data-stu-id="eac1a-108">![Displaying knowledge article recommendations](media/knowledge-article-suggestion.png "Displaying knowledge article recommendations")</span></span>
 
 

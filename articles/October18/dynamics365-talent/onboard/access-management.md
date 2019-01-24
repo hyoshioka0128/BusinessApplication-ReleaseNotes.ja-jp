@@ -12,10 +12,10 @@ ms.technology:
 ms.author: manavm77
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 8b9dec7b0e8a9af2786e5b342d1b8f7d07ff1102
-ms.openlocfilehash: 617084d5bc065e04ae5a1e40d29a0573b1092f57
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 1ce17991bda178c876ad3e688bf94d06870c9d07
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/26/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 #  <a name="share-and-manage-access-to-guides-or-templates"></a><span data-ttu-id="8de22-103">ガイドやテンプレートの共有とアクセスの管理</span><span class="sxs-lookup"><span data-stu-id="8de22-103">Share and manage access to guides or templates</span></span>
@@ -33,8 +33,7 @@ ms.lasthandoff: 11/26/2018
 
 <span data-ttu-id="8de22-110">共有エクスペリエンスは、テンプレートまたはガイドの内部の省略記号 (**…**) ドロップダウン メニュー内で見つけることができます。</span><span class="sxs-lookup"><span data-stu-id="8de22-110">The share experience can be found within the ellipsis (**…**) drop-down menu inside a template or a guide.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="8de22-111">![共有オプションを示すスクリーンショット](../media/share.png "共有オプションを示すスクリーンショット")</span><span class="sxs-lookup"><span data-stu-id="8de22-111">![A screenshot showing the share option](../media/share.png "A screenshot showing the share option")</span></span>
+<span data-ttu-id="8de22-111">![共有オプションを示すスクリーンショット](../media/share.png "共有オプションを示すスクリーンショット")</span><span class="sxs-lookup"><span data-stu-id="8de22-111">![A screenshot showing the share option](../media/share.png "A screenshot showing the share option")</span></span>
 
 <!--
 ## Who uses this feature

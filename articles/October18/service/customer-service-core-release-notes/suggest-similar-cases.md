@@ -13,10 +13,10 @@ ms.author: DeepapMS
 ms.reviewer: anjgupta
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 566d62b456ff1ad482f7bb4b1a7b423e246cc4b4
-ms.openlocfilehash: fef57954ad4e7b2cc1a4dc75c1abe9abc8f5e95f
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: de837702018017dd2ee74fffc25e5d1fb592791f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/27/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -28,6 +28,5 @@ ms.lasthandoff: 11/27/2018
 
 <span data-ttu-id="822ed-107">類似のサポート案件に関するインテリジェントな分析情報を活用すると、本来なら経験豊富なエージェントからしか提供できない知識や専門スキルを担当のエージェントに伝達し、対応力を強化することができます。</span><span class="sxs-lookup"><span data-stu-id="822ed-107">Intelligent insights on similar cases help customer service organizations empower agents with knowledge and expertise that was otherwise available only with experienced agents.</span></span>  <span data-ttu-id="822ed-108">類似サポート案件の提示機能を使用すれば、解決手順を組織全体で活用できるようになり、経験の浅いエージェントでも、経験豊富なエージェントと同等の対応ができるようになります。</span><span class="sxs-lookup"><span data-stu-id="822ed-108">Suggestions on similar cases help in leveraging resolution steps across the organization, thus making an inexperienced agent as productive as an experienced one.</span></span>  
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="822ed-109">![類似サポート案件の例](media/similar-cases.png "類似サポート案件の例")</span><span class="sxs-lookup"><span data-stu-id="822ed-109">![Example of similar cases](media/similar-cases.png "Example of similar cases")</span></span>
+<span data-ttu-id="822ed-109">![類似サポート案件の例](media/similar-cases.png "類似サポート案件の例")</span><span class="sxs-lookup"><span data-stu-id="822ed-109">![Example of similar cases](media/similar-cases.png "Example of similar cases")</span></span>
 

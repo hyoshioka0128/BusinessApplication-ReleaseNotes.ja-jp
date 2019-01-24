@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 10abde736803d60ffc43ab1e5334eed277d22979
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 69cd90c0882da0ce879b2ed901d5835992fb3b97
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -37,15 +37,13 @@ ms.lasthandoff: 11/08/2018
 
 <span data-ttu-id="36bcb-109">スケジュール ボードを 2 つに分割します。</span><span class="sxs-lookup"><span data-stu-id="36bcb-109">Split the schedule board in two.</span></span> <span data-ttu-id="36bcb-110">下半分は、スタッフとそのすべてのメンバー、プールとそのメンバー、または同じ職務に従事するように割り当てられているリソースのセットの表示専用にすることができます。</span><span class="sxs-lookup"><span data-stu-id="36bcb-110">The bottom half can be dedicated to display a crew and all of its members, a pool and its members, or a set of resources that are assigned to work on the same job.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="36bcb-111">![分割スケジュール ボードにスタッフが表示されたスケジュール ボード](media/Crew-in-Split-View.png "スケジュール ボード上のスタッフ")
+<span data-ttu-id="36bcb-111">![分割スケジュール ボードにスタッフが表示されたスケジュール ボード](media/Crew-in-Split-View.png "スケジュール ボード上のスタッフ")
 <!-- picture --></span><span class="sxs-lookup"><span data-stu-id="36bcb-111">![Schedule board with crew in split schedule board](media/Crew-in-Split-View.png "Crew on schedule board")
 <!-- picture --></span></span>
 
 <span data-ttu-id="36bcb-112">*分割スケジュール ボードにスタッフが表示されたスケジュール ボード*</span><span class="sxs-lookup"><span data-stu-id="36bcb-112">*Schedule board with crew in split schedule board*</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="36bcb-113">![同じ要件グループで作業しているリソースが表示された分割スケジュール ボード](media/Split-Schedule-Board-Grouped-Bookings.png "同じ要件グループで作業しているリソースが表示された分割スケジュール ボード")
+<span data-ttu-id="36bcb-113">![同じ要件グループで作業しているリソースが表示された分割スケジュール ボード](media/Split-Schedule-Board-Grouped-Bookings.png "同じ要件グループで作業しているリソースが表示された分割スケジュール ボード")
 <!-- picture --></span><span class="sxs-lookup"><span data-stu-id="36bcb-113">![Split schedule board with resources working on same requirement group](media/Split-Schedule-Board-Grouped-Bookings.png "Split schedule board with resources working on same requirement group")
 <!-- picture --></span></span>
 

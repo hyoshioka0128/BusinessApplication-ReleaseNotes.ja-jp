@@ -11,10 +11,10 @@ ms.technology:
 ms.author: bnielse
 audience: developer, admin, end user, customizer, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: cdbe692282951665ec1a0d55010d4adbeddb1cba
-ms.openlocfilehash: d402e30454de93e061c6923d9b8d22596d4e8bbd
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: a77e3e2b0c39e6073d538ef7e1c9eb4ece967fce
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/07/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -26,8 +26,7 @@ ms.lasthandoff: 11/07/2018
 
 <span data-ttu-id="871a3-106">アクセス許可セットのリストからは、新しいアクセス許可を追加したり、既存のアクセス許可セットをコピーしたりできます。</span><span class="sxs-lookup"><span data-stu-id="871a3-106">From the list of permission sets, you can add new and copy an existing permission set.</span></span> <span data-ttu-id="871a3-107">結果セットの種類はユーザー定義になります。</span><span class="sxs-lookup"><span data-stu-id="871a3-107">The resulting set will be of type User-Defined.</span></span> <span data-ttu-id="871a3-108">既存のアクセス許可セットをコピーする場合は、元のアクセス許可セットが変更されたら通知を受け取ることを選択できるので、必要に応じてカスタマイズ セットを更新できます。</span><span class="sxs-lookup"><span data-stu-id="871a3-108">If you copy an existing permission set, you can choose to be notified if the original permission set changes so that you can update the customized set if needed.</span></span>  
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="871a3-109">![](media/editablepermissionsets_list.png "必要なアクセス許可セットを追加する。")</span><span class="sxs-lookup"><span data-stu-id="871a3-109">![](media/editablepermissionsets_list.png "Add the permission sets you need.")</span></span>
+<span data-ttu-id="871a3-109">![](media/editablepermissionsets_list.png "必要なアクセス許可セットを追加する。")</span><span class="sxs-lookup"><span data-stu-id="871a3-109">![](media/editablepermissionsets_list.png "Add the permission sets you need.")</span></span>
 
 <span data-ttu-id="871a3-110">さらに、アクセス許可セットの定義を含むファイル (パートナー提供のファイルや、別の会社からコピーされたファイルなど) をインポートしたり、RapidStart を使用してアクセス許可セットを追加したりすることもできます。</span><span class="sxs-lookup"><span data-stu-id="871a3-110">Additionally, you can now import files with permission sets definitions, such as files provided by a partner or copied from another company, and you can use RapidStart to add permission sets.</span></span>
 
@@ -40,8 +39,7 @@ ms.lasthandoff: 11/07/2018
 > [!NOTE]
 > <span data-ttu-id="871a3-115">アクセス許可セットを編集すると、アクセス許可セットが割り当てられている他のユーザーにも変更内容が適用されます。</span><span class="sxs-lookup"><span data-stu-id="871a3-115">When you edit a permission set, the changes will also apply to other users that have the permission set assigned.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="871a3-116">![](media/effective_permission_sets.png "有効なアクセス許可の概要。")</span><span class="sxs-lookup"><span data-stu-id="871a3-116">![](media/effective_permission_sets.png "Overview of effective permissions.")</span></span>
+<span data-ttu-id="871a3-116">![](media/effective_permission_sets.png "有効なアクセス許可の概要。")</span><span class="sxs-lookup"><span data-stu-id="871a3-116">![](media/effective_permission_sets.png "Overview of effective permissions.")</span></span>
 
 ## <a name="resources"></a><span data-ttu-id="871a3-117">リソース</span><span class="sxs-lookup"><span data-stu-id="871a3-117">Resources</span></span>
 [<span data-ttu-id="871a3-118">ユーザーとアクセス許可の管理</span><span class="sxs-lookup"><span data-stu-id="871a3-118">Managing Users and Permissions</span></span>](https://docs.microsoft.com/en-us/dynamics365/business-central/ui-how-users-permissions)

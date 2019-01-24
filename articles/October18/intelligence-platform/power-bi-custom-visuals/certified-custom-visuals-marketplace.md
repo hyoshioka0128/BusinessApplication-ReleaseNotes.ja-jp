@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 9ea29a067b3a97f767cc635919c23045071d7bfc
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 53107364e143742e3687c1a29eddca7f8a7cc707
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 # <a name="certified-custom-visuals-in-the-marketplace"></a><span data-ttu-id="a515f-103">マーケットプレースで認定されたカスタム ビジュアル</span><span class="sxs-lookup"><span data-stu-id="a515f-103">Certified custom visuals in the marketplace</span></span>
@@ -28,7 +28,6 @@ ms.lasthandoff: 10/26/2018
 
 <span data-ttu-id="a515f-106">証明されたカスタム ビジュアルは、AppSource と統合 UI の両方で、「Power BI 証明済み」カテゴリおよびマーケットプレース リストのビジュアル マークでフィルターすることにより、マーケットプレースで明確に検出できます。</span><span class="sxs-lookup"><span data-stu-id="a515f-106">Certified custom visuals will be clearly discoverable in the marketplace by filtering with the “Power BI Certified” category, and with a visual mark on the marketplace listing, both in AppSource and in the integrated UI.</span></span>
 
-> [!div class="mx-imgBorder"]
-> ![](media/certified-custom-visuals-marketplace-1.png)
+![](media/certified-custom-visuals-marketplace-1.png)
 
 

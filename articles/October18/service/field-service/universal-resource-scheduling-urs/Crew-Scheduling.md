@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 3a4d97689d45cb057cf9462c695af92b60962698
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 5a13262f5b26db357e740b95c67957e232bb0804
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -37,15 +37,13 @@ ms.lasthandoff: 11/08/2018
     * <span data-ttu-id="06e92-114">フードとグリース トラップのクリーニング</span><span class="sxs-lookup"><span data-stu-id="06e92-114">Hood and grease trap cleaning</span></span>
     > <span data-ttu-id="06e92-115">クルーは日程の効率性を考慮して編成され、編成の期間は必要に応じてどのような長さにもできます。</span><span class="sxs-lookup"><span data-stu-id="06e92-115">Crews are assembled with date effectivity, enabling a crew to be assembled for as long or as little time as you choose.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="06e92-116">![スケジュール アシスタントでクルーを予約する](media/Crew-Book-Expanded.png "スケジュール アシスタントでクルーを予約する")
+<span data-ttu-id="06e92-116">![スケジュール アシスタントでクルーを予約する](media/Crew-Book-Expanded.png "スケジュール アシスタントでクルーを予約する")
 <!-- picture --></span><span class="sxs-lookup"><span data-stu-id="06e92-116">![Book crew with schedule assistant](media/Crew-Book-Expanded.png "Book crew with schedule assistant")
 <!-- picture --></span></span>
 
 <span data-ttu-id="06e92-117">*スケジュール アシスタントでのクルーの予約*</span><span class="sxs-lookup"><span data-stu-id="06e92-117">*Schedule Assistant booking crew*</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="06e92-118">![スケジュール ボードでのクルー](media/Bookings-for-entire-crew.png "スケジュール ボードでのクルー")
+<span data-ttu-id="06e92-118">![スケジュール ボードでのクルー](media/Bookings-for-entire-crew.png "スケジュール ボードでのクルー")
 <!-- picture --></span><span class="sxs-lookup"><span data-stu-id="06e92-118">![Crew on Schedule Board](media/Bookings-for-entire-crew.png "Crew on Schedule Board")
 <!-- picture --></span></span>
 

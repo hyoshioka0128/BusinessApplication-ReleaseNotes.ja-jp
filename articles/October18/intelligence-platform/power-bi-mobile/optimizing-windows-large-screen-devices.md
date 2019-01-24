@@ -8,10 +8,10 @@ ms.topic: article
 ms.service: business-applications
 ms.author: adamw
 ms.translationtype: HT
-ms.sourcegitcommit: 9bc6903dfd4118b470d30d2629da62fe7ee0854b
-ms.openlocfilehash: eb6550a4288f6fc36de53e7e08aa4b658160bb11
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: d88b2d070abc05573bc0d9b61aabe5d5368a5dba
 ms.contentlocale: ja-jp
-ms.lasthandoff: 12/03/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 #  <a name="presentation-mode-for-windows-large-screen-devices"></a><span data-ttu-id="55d77-103">Windows 大画面デバイス用プレゼンテーション モード</span><span class="sxs-lookup"><span data-stu-id="55d77-103">Presentation mode for Windows large-screen devices</span></span>
@@ -22,8 +22,7 @@ ms.lasthandoff: 12/03/2018
 
 <span data-ttu-id="55d77-105">プレゼンテーション モードは、データとビジュアルに焦点を当てたアプリの枠なしビューです。</span><span class="sxs-lookup"><span data-stu-id="55d77-105">Presentation mode is an app chromeless view that focuses on the data and visuals.</span></span> <span data-ttu-id="55d77-106">このビューでは、データをプレゼンテーションの中心に配置することによってミーティングをいっそう生産的にするのに役立ち、他のミーティング参加者と共同作業するためのツール (インク操作や共有など) が導入されます。</span><span class="sxs-lookup"><span data-stu-id="55d77-106">This view will help make meetings more productive by putting the data in the center of the presentation and will bring tools (such as inking and sharing) to collaborate with other meeting participants.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="55d77-107">![大画面 Windows デバイスのプレゼンテーション モードでの Power BI Windows アプリ](media/optimizing-windows-large-screen-devices-1.png "大画面 Windows デバイスのプレゼンテーション モードでの Power BI Windows アプリ")
+<span data-ttu-id="55d77-107">![大画面 Windows デバイスのプレゼンテーション モードでの Power BI Windows アプリ](media/optimizing-windows-large-screen-devices-1.png "大画面 Windows デバイスのプレゼンテーション モードでの Power BI Windows アプリ")
 <!-- picture --></span><span class="sxs-lookup"><span data-stu-id="55d77-107">![Power BI Windows app in presentation mode on a large-screen Windows device](media/optimizing-windows-large-screen-devices-1.png "Power BI Windows app in presentation mode on a large-screen Windows device")
 <!-- picture --></span></span>
 

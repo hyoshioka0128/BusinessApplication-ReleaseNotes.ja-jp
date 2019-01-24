@@ -11,10 +11,10 @@ ms.technology:
 ms.author: kfend
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 88b62c3336f0a6ec43c9864bedbf2b51a2a4611b
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 6ee97724f80c78d8bf2f84f5a0fbd59248b1b665
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 #  <a name="weekly-time-entry-with-support-for-customizations"></a><span data-ttu-id="56c13-103">カスタマイズをサポートする週単位の時間入力</span><span class="sxs-lookup"><span data-stu-id="56c13-103">Weekly time entry with support for customizations</span></span>
@@ -25,7 +25,6 @@ ms.lasthandoff: 11/30/2018
 
 <span data-ttu-id="56c13-108">今回の更新では、システム カスタマイズ担当者がカスタム フィールドを使用してこのビューをカスタマイズしたり、他のエンティティをルックアップしたりできるようになります。</span><span class="sxs-lookup"><span data-stu-id="56c13-108">With this update, it will be possible for system customizers to customize this view with custom fields or lookups to other entities.</span></span> <span data-ttu-id="56c13-109">カスタマイズ担当者は、組織の慣行をサポートするカスタム業務ルールを実装することもできます。</span><span class="sxs-lookup"><span data-stu-id="56c13-109">Customizers will also be able to implement custom business rules to support their organization's practices.</span></span> 
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="56c13-110">![カスタマイズをサポートする週単位の時間入力](media/weekly-time-entry.PNG "カスタマイズをサポートする週単位の時間入力")</span><span class="sxs-lookup"><span data-stu-id="56c13-110">![Weekly time entry with support for customizations](media/weekly-time-entry.PNG "Weekly time entry")</span></span>
+<span data-ttu-id="56c13-110">![カスタマイズをサポートする週単位の時間入力](media/weekly-time-entry.PNG "カスタマイズをサポートする週単位の時間入力")</span><span class="sxs-lookup"><span data-stu-id="56c13-110">![Weekly time entry with support for customizations](media/weekly-time-entry.PNG "Weekly time entry")</span></span>
 
 

@@ -12,10 +12,10 @@ ms.technology:
 ms.author: HaydnR
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 11487404f4c3e1a046eef9721548f1542cd78f38
-ms.openlocfilehash: d60ee3db786012b79db1d3c2d919bc2fc72fb051
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 7399a7cc82f6cea65a789566bb9afe84a0bdb9ab
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/20/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 # <a name="paginated-reports-in-power-bi-public-preview"></a><span data-ttu-id="b0d40-102">Power BI のページ付けされたレポート (パブリック プレビュー) </span><span class="sxs-lookup"><span data-stu-id="b0d40-102">Paginated reports in Power BI (Public Preview)</span></span>
@@ -30,13 +30,11 @@ ms.lasthandoff: 11/20/2018
 
 <span data-ttu-id="b0d40-104">レポートは、次に示すように、Power BI Web またはモバイル エクスペリエンスの内部にレンダリングします。</span><span class="sxs-lookup"><span data-stu-id="b0d40-104">A report will render inside the Power BI web or mobile experience as shown below.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="b0d40-105">![Power BI Web でのレポート](media/rdl-report-render.png "Power BI Web でのレポート")</span><span class="sxs-lookup"><span data-stu-id="b0d40-105">![Report in Power BI web](media/rdl-report-render.png "Report in Power BI web")</span></span>
+<span data-ttu-id="b0d40-105">![Power BI Web でのレポート](media/rdl-report-render.png "Power BI Web でのレポート")</span><span class="sxs-lookup"><span data-stu-id="b0d40-105">![Report in Power BI web](media/rdl-report-render.png "Report in Power BI web")</span></span>
 
 <span data-ttu-id="b0d40-106">ページ付けされたレポートは、Power BI ワークスペース内で既存の Power BI レポートと共に管理されます。</span><span class="sxs-lookup"><span data-stu-id="b0d40-106">Paginated reports are managed in Power BI workspaces alongside existing Power BI reports.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="b0d40-107">![Power BI ワークスペースでのレポートの管理](media/rdl-report-list.png "Power BI ワークスペースでのレポートの管理")</span><span class="sxs-lookup"><span data-stu-id="b0d40-107">![Manage reports in Power BI workspaces](media/rdl-report-list.png "Manage reports in Power BI workspaces")</span></span>
+<span data-ttu-id="b0d40-107">![Power BI ワークスペースでのレポートの管理](media/rdl-report-list.png "Power BI ワークスペースでのレポートの管理")</span><span class="sxs-lookup"><span data-stu-id="b0d40-107">![Manage reports in Power BI workspaces](media/rdl-report-list.png "Manage reports in Power BI workspaces")</span></span>
 
 
 ## <a name="resources"></a><span data-ttu-id="b0d40-108">リソース</span><span class="sxs-lookup"><span data-stu-id="b0d40-108">Resources</span></span>

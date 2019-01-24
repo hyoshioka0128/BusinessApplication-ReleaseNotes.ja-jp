@@ -12,10 +12,10 @@ ms.technology:
 ms.author: stepsic
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
-ms.openlocfilehash: 8187ad37ff3d4558288cdca22f2ce421a7405846
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 04015e4c4afa1eeb6e2f783020d6ff1ff1c0bfbb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/18/2019
+ms.lasthandoff: 01/23/2019
 
 ---
 # <a name="design-flows-in-visio-public-preview"></a><span data-ttu-id="1ebe3-103">Visio でのデザイン フロー (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="1ebe3-103">Design flows in Visio (Public Preview)</span></span>
@@ -25,8 +25,7 @@ ms.lasthandoff: 01/18/2019
 
 <span data-ttu-id="1ebe3-104">Microsoft Visio の豊富なモデリング機能を使用して、業務プロセスをキャプチャできます。</span><span class="sxs-lookup"><span data-stu-id="1ebe3-104">Microsoft Visio enables enterprises to capture their business processes using its rich modeling capabilities.</span></span> <span data-ttu-id="1ebe3-105">フローチャートまたは SharePoint のワークフローを作成するユーザーは、Visio を使用して Microsoft Flow のワークフローを設計できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="1ebe3-105">Anyone who creates flowcharts or SharePoint workflows can now use Visio to design Microsoft Flow workflows.</span></span> <span data-ttu-id="1ebe3-106">Visio の共有およびコメント機能を使って、複数の関係者とコラボレーションし、短い時間で完全なワークフローを作成できます。</span><span class="sxs-lookup"><span data-stu-id="1ebe3-106">You can use Visio's sharing and commenting capabilities to collaborate with multiple stakeholders and arrive at a complete workflow in little time.</span></span> <span data-ttu-id="1ebe3-107">[ここで](https://powerusers.microsoft.com/t5/Flow-Ideas/Interactively-Build-Microsoft-WORKFlows-visually-in-Visio-Two/idi-p/54269)要求されているように、ワークフローを Microsoft Flow に発行した後、パラメーターを指定してアクティブ化できます。</span><span class="sxs-lookup"><span data-stu-id="1ebe3-107">As requested [here](https://powerusers.microsoft.com/t5/Flow-Ideas/Interactively-Build-Microsoft-WORKFlows-visually-in-Visio-Two/idi-p/54269), you can publish the workflow to Microsoft Flow, then supply parameters to activate it.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="1ebe3-108">![Visio のスクリーンショット](media/visio_01.png "Visio のスクリーンショット")</span><span class="sxs-lookup"><span data-stu-id="1ebe3-108">![Screenshot of Visio](media/visio_01.png "Screenshot of Visio")</span></span>
+<span data-ttu-id="1ebe3-108">![Visio のスクリーンショット](media/visio_01.png "Visio のスクリーンショット")</span><span class="sxs-lookup"><span data-stu-id="1ebe3-108">![Screenshot of Visio](media/visio_01.png "Screenshot of Visio")</span></span>
 
 <span data-ttu-id="1ebe3-109">多くのプロセスは共通モデルを共有しますが、組織全体で見ると小さなバリエーションがあります。</span><span class="sxs-lookup"><span data-stu-id="1ebe3-109">Many processes share a common model but have minor variations throughout an organization.</span></span> <span data-ttu-id="1ebe3-110">これにより、組織はマスター ワークフロー モデルを作成し、特殊なパラメーターでインスタンスを調整できます。</span><span class="sxs-lookup"><span data-stu-id="1ebe3-110">This allows an organization to create a master workflow model and adjust instances with specialized parameters.</span></span>
 

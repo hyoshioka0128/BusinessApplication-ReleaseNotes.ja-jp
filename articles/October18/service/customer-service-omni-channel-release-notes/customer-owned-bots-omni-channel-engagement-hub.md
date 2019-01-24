@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: f8aa0a2bd77e2514057c779d893978cc415695c8
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 630b39675f950ea34b8a72b70cff3d2c3acc5416
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -46,6 +46,5 @@ ms.lasthandoff: 11/08/2018
 
 <span data-ttu-id="86d51-117">**Omni-channel Engagement Hub での顧客所有ボットの概略図**</span><span class="sxs-lookup"><span data-stu-id="86d51-117">**Schematic representation for customer-owned bots with Omni-channel Engagement Hub**</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="86d51-118">![Omni-channel Engagement Hub での顧客所有ボットの概略図](media/bring-your-bot-to-omnichannel.png "Omni-channel Engagement Hub での顧客所有ボットの概略図")</span><span class="sxs-lookup"><span data-stu-id="86d51-118">![Schematic representation for customer-owned bots with Omni-channel Engagement Hub](media/bring-your-bot-to-omnichannel.png "Schematic representation for customer-owned bots with Omni-channel Engagement Hub")</span></span>
+<span data-ttu-id="86d51-118">![Omni-channel Engagement Hub での顧客所有ボットの概略図](media/bring-your-bot-to-omnichannel.png "Omni-channel Engagement Hub での顧客所有ボットの概略図")</span><span class="sxs-lookup"><span data-stu-id="86d51-118">![Schematic representation for customer-owned bots with Omni-channel Engagement Hub](media/bring-your-bot-to-omnichannel.png "Schematic representation for customer-owned bots with Omni-channel Engagement Hub")</span></span>
 

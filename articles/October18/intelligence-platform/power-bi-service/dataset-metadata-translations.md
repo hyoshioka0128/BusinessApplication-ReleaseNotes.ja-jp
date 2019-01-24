@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../../april19/business-intelligence/power-bi-service/metadata-translations-analysis-services-models
 title: "データセット メタデータ翻訳"
 description: "データセットまたは Analysis Services モデルで翻訳が定義されていると、Power BI ユーザーに対してクライアントのローケールまたは言語でデータ セット フィールドが表示されます。"
 author: Annbe
@@ -12,10 +13,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: a2df00f14314358459ffb9680bd589d8764ecd35
+ms.sourcegitcommit: 4e2c065cc2ad74493d39effc6189e2b3c04c272c
+ms.openlocfilehash: 940ac1456c4b7e81210ef5fd881c4a0787460fe8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 01/24/2019
 
 ---
 #  <a name="dataset-metadata-translations"></a><span data-ttu-id="fea27-103">データセット メタデータ翻訳</span><span class="sxs-lookup"><span data-stu-id="fea27-103">Dataset metadata translations</span></span>

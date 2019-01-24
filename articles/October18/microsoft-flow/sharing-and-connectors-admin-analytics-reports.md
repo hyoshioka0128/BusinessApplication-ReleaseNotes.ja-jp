@@ -12,10 +12,10 @@ ms.technology:
 ms.author: stepsic
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
-ms.openlocfilehash: 1efcb62a39bbf3611d49c52d8e21fbac84ded552
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 6efc4cb93f764d5927c19b419a0467b7a5f02442
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/18/2019
+ms.lasthandoff: 01/23/2019
 
 ---
 # <a name="sharing-and-connectors-admin-analytics-reports-public-preview"></a><span data-ttu-id="1cfc7-103">共有およびコネクタ管理分析レポート (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="1cfc7-103">Sharing and Connectors Admin Analytics Reports (Public Preview)</span></span>
@@ -32,8 +32,7 @@ ms.lasthandoff: 01/18/2019
 
 <span data-ttu-id="1cfc7-112">[Power プラットフォーム管理センター](https://admin.powerplatform.microsoft.com/) に移動すると、Common Data Service、Microsoft Flow、PowerApps の分析を参照するために選択できる [分析] メニューが見つかります。</span><span class="sxs-lookup"><span data-stu-id="1cfc7-112">When you navigate to the [Power platform admin center](https://admin.powerplatform.microsoft.com/), you will find an Analytics menu where you can choose to browse analytics for the Common Data Service, Microsoft Flow, and PowerApps.</span></span> <span data-ttu-id="1cfc7-113">共有およびコネクタ レポートの場合は、[Microsoft Flow] を選択します。</span><span class="sxs-lookup"><span data-stu-id="1cfc7-113">For the Sharing and Connectors report, select Microsoft Flow.</span></span> 
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="1cfc7-114">![実行の使用方法](media/sharing-connectors-analytics-1.png "実行の使用方法")</span><span class="sxs-lookup"><span data-stu-id="1cfc7-114">![Run usage](media/sharing-connectors-analytics-1.png "Run usage")</span></span>
+<span data-ttu-id="1cfc7-114">![実行の使用方法](media/sharing-connectors-analytics-1.png "実行の使用方法")</span><span class="sxs-lookup"><span data-stu-id="1cfc7-114">![Run usage](media/sharing-connectors-analytics-1.png "Run usage")</span></span>
 
 <span data-ttu-id="1cfc7-115">Microsoft Flow 分析機能から、**共有**を選択して共有レポートにアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="1cfc7-115">From within the Microsoft Flow Analytics feature, you can select **Shared** to access your sharing report.</span></span> <span data-ttu-id="1cfc7-116">このレポートには、キャプチャする 3 つの異なるビジュアル化が表示されます。</span><span class="sxs-lookup"><span data-stu-id="1cfc7-116">Within this report you will see three different visualizations that capture:</span></span>
 
@@ -42,8 +41,7 @@ ms.lasthandoff: 01/18/2019
 - <span data-ttu-id="1cfc7-119">発生した共有の数。</span><span class="sxs-lookup"><span data-stu-id="1cfc7-119">The number of shares that have taken place.</span></span>
 - <span data-ttu-id="1cfc7-120">これらの共有イベントのトレンドライン レポート。</span><span class="sxs-lookup"><span data-stu-id="1cfc7-120">A trendline report of these shared events.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="1cfc7-121">![共有レポート](media/sharing-connectors-analytics-2.png "共有レポート")</span><span class="sxs-lookup"><span data-stu-id="1cfc7-121">![Sharing report](media/sharing-connectors-analytics-2.png "Sharing report")</span></span>
+<span data-ttu-id="1cfc7-121">![共有レポート](media/sharing-connectors-analytics-2.png "共有レポート")</span><span class="sxs-lookup"><span data-stu-id="1cfc7-121">![Sharing report](media/sharing-connectors-analytics-2.png "Sharing report")</span></span>
 
 <span data-ttu-id="1cfc7-122">共有レポートに加えて、コネクタの使用状況を強調するレポートもリリースしました。</span><span class="sxs-lookup"><span data-stu-id="1cfc7-122">In addition to the sharing report, we have also released a report that highlights connector usage.</span></span> <span data-ttu-id="1cfc7-123">コネクタ レポートには、次の項目があります。</span><span class="sxs-lookup"><span data-stu-id="1cfc7-123">The Connectors report provides:</span></span>
 
@@ -57,5 +55,4 @@ ms.lasthandoff: 01/18/2019
   - <span data-ttu-id="1cfc7-130">関係するフローの数。</span><span class="sxs-lookup"><span data-stu-id="1cfc7-130">Number of flows involved.</span></span>
   - <span data-ttu-id="1cfc7-131">そのコネクタを使用して実行されているフローの数。</span><span class="sxs-lookup"><span data-stu-id="1cfc7-131">Number of flow runs using that connector.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="1cfc7-132">![コネクタ レポート](media/sharing-connectors-analytics-3.png "コネクタ レポート")</span><span class="sxs-lookup"><span data-stu-id="1cfc7-132">![Connector report](media/sharing-connectors-analytics-3.png "Connector report")</span></span>
+<span data-ttu-id="1cfc7-132">![コネクタ レポート](media/sharing-connectors-analytics-3.png "コネクタ レポート")</span><span class="sxs-lookup"><span data-stu-id="1cfc7-132">![Connector report](media/sharing-connectors-analytics-3.png "Connector report")</span></span>

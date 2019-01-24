@@ -11,10 +11,10 @@ author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 5da6073b5a8d3c17dfa5b680142def4aff620642
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: ef32ee4b00eaf336fd42e5436a73d562f579ee47
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -28,8 +28,7 @@ ms.lasthandoff: 11/08/2018
 
 <span data-ttu-id="7ef86-108">AI に基づいたテクノロジによって、解決率の向上、待ち時間の短縮、顧客サービス コストの削減を図る方法についての意思決定を、より的確な情報に基づいて行うことができるようになります。</span><span class="sxs-lookup"><span data-stu-id="7ef86-108">The AI-driven technology empowers informed decision making about how to improve resolution rates, reduce wait times, and decrease customer service costs.</span></span> <span data-ttu-id="7ef86-109">サポート案件解決のための分析情報、オーダー残の傾向、履歴の比較を利用すると、エージェントのパフォーマンスと業務への影響を評価したり、システムの非効率性に対処したりできます。</span><span class="sxs-lookup"><span data-stu-id="7ef86-109">You can use case resolution insights, backlog trends, and historical comparisons to evaluate agent performance and business impact, and address inefficiencies in your system.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="7ef86-110">![KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます](media/ai-customer-service-insights.png "KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます")</span><span class="sxs-lookup"><span data-stu-id="7ef86-110">![The KPI summary dashboard gives you a snapshot of key performance indicators for measuring customer service](media/ai-customer-service-insights.png "The KPI summary dashboard gives you a snapshot of key performance indicators for measuring customer service")</span></span>
+<span data-ttu-id="7ef86-110">![KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます](media/ai-customer-service-insights.png "KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます")</span><span class="sxs-lookup"><span data-stu-id="7ef86-110">![The KPI summary dashboard gives you a snapshot of key performance indicators for measuring customer service](media/ai-customer-service-insights.png "The KPI summary dashboard gives you a snapshot of key performance indicators for measuring customer service")</span></span>
 
 <span data-ttu-id="7ef86-111">*KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます*</span><span class="sxs-lookup"><span data-stu-id="7ef86-111">*The KPI summary dashboard gives you a snapshot of key performance indicators for measuring customer service*</span></span>
 

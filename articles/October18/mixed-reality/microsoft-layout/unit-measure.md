@@ -11,10 +11,10 @@ ms.technology:
 ms.author: gkaralis
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 1df0c19f3aa8fd8776b3a84e2d4d8b34a7726c1d
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: afda8a989c4f19a0c4506cbafd7213702710354b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -24,15 +24,13 @@ ms.lasthandoff: 11/30/2018
 
 <span data-ttu-id="c1df8-104">ニーズに最も適した測定単位を Microsoft Dynamics 365 レイアウトで選択します。</span><span class="sxs-lookup"><span data-stu-id="c1df8-104">Choose the unit of measure that works best for your needs in Microsoft Dynamics 365 Layout.</span></span>
 
-> [!div class="mx-imgBorder"]
-> ![](media/50c7394667e082054dbc3c01c5046fdb.jpg)
+![](media/50c7394667e082054dbc3c01c5046fdb.jpg)
 
 <span data-ttu-id="c1df8-105">*HoloLens での測定単位の変更*</span><span class="sxs-lookup"><span data-stu-id="c1df8-105">*Change unit of measure on HoloLens*</span></span>
 
 <br>
 
-> [!div class="mx-imgBorder"]
-> ![](media/d97b032ed0ea60438054b475510343ec.jpg)
+![](media/d97b032ed0ea60438054b475510343ec.jpg)
 
 <span data-ttu-id="c1df8-106">*Mixed Reality での測定単位の変更*</span><span class="sxs-lookup"><span data-stu-id="c1df8-106">*Change unit of measure in mixed reality*</span></span>
 

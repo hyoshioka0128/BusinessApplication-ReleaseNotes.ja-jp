@@ -8,10 +8,10 @@ ms.service: business-applications
 ms.author: mapau
 ms.reviewer: v-brycho
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: d5a1c0ecc4d5b18c300523daa17070fb5f45405d
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 6e3f84b4714b3d5b4a2685dbdd4facdb5ed974ba
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -21,8 +21,7 @@ ms.lasthandoff: 11/30/2018
 
 <span data-ttu-id="7cb7b-104">Dynamics 365 リモート アシストで注釈として矢印を追加するときに、矢印が指す方向を指定できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="7cb7b-104">When you add an arrow as an annotation in Dynamics 365 Remote Assist, you can now specify the direction that the arrow points.</span></span>
 
-> [!div class="mx-imgBorder"]
-> ![](media/d729ab4910f718be12a04ec1972c02f5.jpg)
+![](media/d729ab4910f718be12a04ec1972c02f5.jpg)
 
 <span data-ttu-id="7cb7b-105">*方向矢印*</span><span class="sxs-lookup"><span data-stu-id="7cb7b-105">*Directional arrows*</span></span>
 

@@ -11,10 +11,10 @@ ms.technology:
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 847516428dc8bc5cd5e510b75545c9ea9293def0
-ms.openlocfilehash: a83c2e17f40f1ebb71e90bc18b2b0dcf0decee1e
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 287edd26bf4a52d9f1d65fd4cbfa237080431db3
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/09/2019
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -28,15 +28,13 @@ ms.lasthandoff: 01/09/2019
     
     <span data-ttu-id="bb21d-109">たとえば、次の画像は、Platform Update 21 以前のナビゲーション ウィンドウを示しています。</span><span class="sxs-lookup"><span data-stu-id="bb21d-109">For example, the following image shows the navigation pane in Platform Update 21 and earlier.</span></span> <span data-ttu-id="bb21d-110">ワークスペース タイルが多くの空間を占めることにご注意ください。</span><span class="sxs-lookup"><span data-stu-id="bb21d-110">Notice that the workspace tiles take up a lot of room.</span></span>
 
-    > [!div class="mx-imgBorder"]
-    > <span data-ttu-id="bb21d-111">![Platform Update 21 以前のナビゲーション ウィンドウ](media/oldNavPane.png "Platform Update 21 以前のナビゲーション ウィンドウ")</span><span class="sxs-lookup"><span data-stu-id="bb21d-111">![Navigation pane in Platform Update 21 and earlier](media/oldNavPane.png "Navigation pane in Platform Update 21 and earlier")</span></span>
+    <span data-ttu-id="bb21d-111">![Platform Update 21 以前のナビゲーション ウィンドウ](media/oldNavPane.png "Platform Update 21 以前のナビゲーション ウィンドウ")</span><span class="sxs-lookup"><span data-stu-id="bb21d-111">![Navigation pane in Platform Update 21 and earlier](media/oldNavPane.png "Navigation pane in Platform Update 21 and earlier")</span></span>
 
     <span data-ttu-id="bb21d-112">*前: Platform Update 21 以前のナビゲーション ウィンドウ*</span><span class="sxs-lookup"><span data-stu-id="bb21d-112">*Before: The navigation pane in Platform Update 21 and earlier*</span></span>
     
     <span data-ttu-id="bb21d-113">次の画像は、Platform Update 22 のナビゲーション ウィンドウを示しています。</span><span class="sxs-lookup"><span data-stu-id="bb21d-113">The following image shows the navigation pane in Platform Update 22.</span></span> <span data-ttu-id="bb21d-114">ワークスペース タイルがよりよく整理されていることにご注意ください。</span><span class="sxs-lookup"><span data-stu-id="bb21d-114">Notice that the workspace tiles fit better.</span></span>
 
-    > [!div class="mx-imgBorder"]
-    > <span data-ttu-id="bb21d-115">![Platform Update 22 より後のナビゲーション ウィンドウ](media/newNavPane.png  "Platform Update 22 より後のナビゲーション ウィンドウ")</span><span class="sxs-lookup"><span data-stu-id="bb21d-115">![Navigation pane after Platform Update 22](media/newNavPane.png  "Navigation pane after Platform Update 22")</span></span>
+    <span data-ttu-id="bb21d-115">![Platform Update 22 より後のナビゲーション ウィンドウ](media/newNavPane.png  "Platform Update 22 より後のナビゲーション ウィンドウ")</span><span class="sxs-lookup"><span data-stu-id="bb21d-115">![Navigation pane after Platform Update 22](media/newNavPane.png  "Navigation pane after Platform Update 22")</span></span>
 
     <span data-ttu-id="bb21d-116">*後: Platform Update 22 以降のナビゲーション ウィンドウ*</span><span class="sxs-lookup"><span data-stu-id="bb21d-116">*After: The navigation pane in Platform Update 22 and later*</span></span>
 
@@ -44,8 +42,7 @@ ms.lasthandoff: 01/09/2019
 
     <span data-ttu-id="bb21d-118">モジュール メニューをより使いやすく、ユーザーをわずらわせないものにするために、各ユーザーがほぼ完全に折りたたまれたモジュール メニューから開始するようにしています。次の画像に示すように、既定では**ワークスペース** フォルダーだけが展開されます。</span><span class="sxs-lookup"><span data-stu-id="bb21d-118">To make our module menus more approachable and less overwhelming to users, we are now starting each user off with almost completely collapsed module menus; only the **Workspaces** folder is expanded by default, as shown in the following image.</span></span>
 
-    > [!div class="mx-imgBorder"]
-    > <span data-ttu-id="bb21d-119">![メニューがほぼ完全に折りたたまれた状態で開始](media/collapsedNavPane.png  "メニューがほぼ完全に折りたたまれた状態で開始")</span><span class="sxs-lookup"><span data-stu-id="bb21d-119">![Menus now start out almost completely collapsed](media/collapsedNavPane.png  "Menus now start out almost completely collapsed")</span></span>
+    <span data-ttu-id="bb21d-119">![メニューがほぼ完全に折りたたまれた状態で開始](media/collapsedNavPane.png  "メニューがほぼ完全に折りたたまれた状態で開始")</span><span class="sxs-lookup"><span data-stu-id="bb21d-119">![Menus now start out almost completely collapsed](media/collapsedNavPane.png  "Menus now start out almost completely collapsed")</span></span>
 
     <span data-ttu-id="bb21d-120">*ユーザーが初めてモジュールを開いたとき、最初はほとんどのモジュール メニューが折りたたまれて表示される*</span><span class="sxs-lookup"><span data-stu-id="bb21d-120">*When users first open a module, they will see that most module menus are collapsed initially*</span></span>
 
@@ -59,8 +56,7 @@ ms.lasthandoff: 01/09/2019
     
     <span data-ttu-id="bb21d-128">たとえば、**ベンダー** フォルダーと**発注書**フォルダーに最も頻繁に使用するメニュー項目が含まれる場合、この 2 つのフォルダーを展開でき、次回このメニューを開いたときにそれらが展開されます。</span><span class="sxs-lookup"><span data-stu-id="bb21d-128">For example, if the **Vendors** and **Purchase orders** folders contain the menu items you use most often, you can expand those two folders, and they will be expanded for you the next time you open this menu.</span></span>
 
-    > [!div class="mx-imgBorder"]
-    > <span data-ttu-id="bb21d-129">![次回](media/partialNavPane.png  "次回")</span><span class="sxs-lookup"><span data-stu-id="bb21d-129">![The next time](media/partialNavPane.png  "The next time")</span></span>
+    <span data-ttu-id="bb21d-129">![次回](media/partialNavPane.png  "次回")</span><span class="sxs-lookup"><span data-stu-id="bb21d-129">![The next time](media/partialNavPane.png  "The next time")</span></span>
 
     <span data-ttu-id="bb21d-130">*システムに各メニューの拡大/縮小状態が記憶される*</span><span class="sxs-lookup"><span data-stu-id="bb21d-130">*The system now remembers the expand/collapse state of each menu*</span></span>
 

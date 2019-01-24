@@ -11,10 +11,10 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 031018706b1c6aec6970c7a504e0e78c4fbdc733
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: c395a8f6f1185bb31c17d2f7d2303a67c38182a0
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 #  <a name="unit-aware-expense-category-pricing-for-setup-estimation-and-actuals"></a><span data-ttu-id="2dd1e-103">セットアップ、見積もり、実績に対する出荷単位に対応した経費カテゴリの価格設定</span><span class="sxs-lookup"><span data-stu-id="2dd1e-103">Unit-aware expense category pricing for setup, estimation, and actuals</span></span> 
@@ -32,8 +32,7 @@ ms.lasthandoff: 11/08/2018
 
 3.  <span data-ttu-id="2dd1e-109">外注の成果物を出荷単位として価格設定し、原価計算できるようにする。</span><span class="sxs-lookup"><span data-stu-id="2dd1e-109">Providing a way to price and cost for subcontracted deliverables as delivery units.</span></span> <span data-ttu-id="2dd1e-110">外注の作業を、仕入先側で発生した時間や費用のレベルで詳細に追跡する必要がなく、完了後に仕入先から納品される生産物の単位で追跡すればよい場合は、仕入先の出荷単位を経費カテゴリとしてモデリングし、単位ごとに価格設定できるこの機能が、重要な機能となります。</span><span class="sxs-lookup"><span data-stu-id="2dd1e-110">When subcontracted work doesn't need to be tracked at the granularity of time or expenses incurred by the vendor but rather in terms of units of output completed and delivered by the vendor, the ability to model the vendor's delivery units as a category of expense that can be priced by unit will be a key capability.</span></span>
 
-    > [!div class="mx-imgBorder"]
-    > <span data-ttu-id="2dd1e-111">![単位ごとの価格設定](media/unit-aware-expense-category-pricing-setup-estimation-actuals-1.png "単位ごとの価格設定")</span><span class="sxs-lookup"><span data-stu-id="2dd1e-111">![Pricing per unit](media/unit-aware-expense-category-pricing-setup-estimation-actuals-1.png "Pricing per unit")</span></span>
+    <span data-ttu-id="2dd1e-111">![単位ごとの価格設定](media/unit-aware-expense-category-pricing-setup-estimation-actuals-1.png "単位ごとの価格設定")</span><span class="sxs-lookup"><span data-stu-id="2dd1e-111">![Pricing per unit](media/unit-aware-expense-category-pricing-setup-estimation-actuals-1.png "Pricing per unit")</span></span>
     
 <!-- Picture 4 -->
 

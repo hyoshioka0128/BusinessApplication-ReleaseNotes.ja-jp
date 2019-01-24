@@ -11,10 +11,10 @@ author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 7de3b1df482ad60831e66f0120850eba5a88c80d
+ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
+ms.openlocfilehash: 40fd7b7296a332ef6ec5b35fc9d032d98c92ccf2
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 01/23/2019
 
 ---
 
@@ -26,8 +26,7 @@ ms.lasthandoff: 11/08/2018
 
 <span data-ttu-id="1ea6f-105">受信サポート案件ダッシュボードには、システムの受信サポート案件のグラフィカルな表示などのさまざまなチャートが含まれます。</span><span class="sxs-lookup"><span data-stu-id="1ea6f-105">The Incoming cases dashboard includes a variety of charts with graphical views of your system's incoming support cases.</span></span> 
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="1ea6f-106">![受信サポート案件ダッシュボードでは、顧客サービス システムの新しいサポート案件のスナップショットが表示されます](media/incoming-cases-dashboard.png "受信サポート案件ダッシュボードでは、顧客サービス システムの新しいサポート案件のスナップショットが表示されます")</span><span class="sxs-lookup"><span data-stu-id="1ea6f-106">![The Incoming cases dashboard gives you a snapshot of new cases in your customer service system](media/incoming-cases-dashboard.png "The Incoming cases dashboard gives you a snapshot of new cases in your customer service system")</span></span>
+<span data-ttu-id="1ea6f-106">![受信サポート案件ダッシュボードでは、顧客サービス システムの新しいサポート案件のスナップショットが表示されます](media/incoming-cases-dashboard.png "受信サポート案件ダッシュボードでは、顧客サービス システムの新しいサポート案件のスナップショットが表示されます")</span><span class="sxs-lookup"><span data-stu-id="1ea6f-106">![The Incoming cases dashboard gives you a snapshot of new cases in your customer service system](media/incoming-cases-dashboard.png "The Incoming cases dashboard gives you a snapshot of new cases in your customer service system")</span></span>
 
 <span data-ttu-id="1ea6f-107">*受信サポート案件ダッシュボードでは、顧客サービス システムの新しいサポート案件のスナップショットが表示されます*</span><span class="sxs-lookup"><span data-stu-id="1ea6f-107">*The Incoming cases dashboard gives you a snapshot of new cases in your customer service system*</span></span>
 
