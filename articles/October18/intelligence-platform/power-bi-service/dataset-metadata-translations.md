@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../../april19/business-intelligence/power-bi-service/metadata-translations-analysis-services-models
 title: "データセット メタデータ翻訳"
 description: "データセットまたは Analysis Services モデルで翻訳が定義されていると、Power BI ユーザーに対してクライアントのローケールまたは言語でデータ セット フィールドが表示されます。"
 author: Annbe

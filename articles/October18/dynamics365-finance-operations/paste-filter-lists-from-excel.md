@@ -26,18 +26,15 @@ Platform Update 22 以降、[フィルター] ウィンドウの「次の値の�
 
 たとえば、Excel のこの伝票番号の一覧について考えてみましょう。 
 
-> [!div class="mx-imgBorder"]
-> ![Excel の伝票番号の一覧](media/excelFilterList.png  "Excel の伝票番号の一覧")
+![Excel の伝票番号の一覧](media/excelFilterList.png  "Excel の伝票番号の一覧")
 
 この一覧に基づいて Finance and Operations をフィルター処理する場合は、Excel から一覧を単純にコピーし、**伝票トランザクション** ページの [フィルター] ウィンドウで**伝票**フィールドを探し、フィルター演算子が**次の値のいずれか**に設定されていることを確認してから、クリップボードの内容をフィルター フィールドに貼り付けます。 次のように、Excel からの一覧がフィルター フィールドに展開されます。 
 
-> [!div class="mx-imgBorder"]
-> ![Excel からの値の一覧に貼り付けた後の伝票フィルター フィールド](media/oldPasteFromExcelFiltering.png  "Excel からの値の一覧に貼り付けた後の伝票フィルター フィールド")
+![Excel からの値の一覧に貼り付けた後の伝票フィルター フィールド](media/oldPasteFromExcelFiltering.png  "Excel からの値の一覧に貼り付けた後の伝票フィルター フィールド")
 
 同様に Platform Update 22 で使用可能な[最適化された「次の値のいずれか」フィルタリング結果](improved-isoneof-filtering.md)を有効にした場合、次の図に示すように、ビジュアル化が向上します。  
 
-> [!div class="mx-imgBorder"]
-> ![Excel からの値の一覧に貼り付けた後の最適化された伝票フィルター フィールド](media/newPasteFromExcelFiltering.png  "Excel からの値の一覧に貼り付けた後の最適化された伝票フィルター フィールド")
+![Excel からの値の一覧に貼り付けた後の最適化された伝票フィルター フィールド](media/newPasteFromExcelFiltering.png  "Excel からの値の一覧に貼り付けた後の最適化された伝票フィルター フィールド")
 
 
 

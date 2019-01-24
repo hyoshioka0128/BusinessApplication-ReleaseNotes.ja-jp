@@ -21,8 +21,7 @@ ms.lasthandoff: 11/30/2018
 
 現在、Dynamics 365 インポート ツール (プレビュー) で 3D モデルをインポートするためにクラウドまたは PC の使用を選択できます。 コンテンツをクラウドにアップロードしたくない組織には、セキュリティ/プライバシー目的で PC オプションの使用をお勧めします。
 
-> [!div class="mx-imgBorder"]
-> ![](media/layout-pc.png)
+![](media/layout-pc.png)
 
 <!--
 > ![](media/e4297facdc8705a177df052d06b761e5.png)

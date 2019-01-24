@@ -46,6 +46,5 @@ BYOB (Bring Your Own Bot) 機能の一環として、顧客は次のことがで
 
 **Omni-channel Engagement Hub での顧客所有ボットの概略図**
 
-> [!div class="mx-imgBorder"]
-> ![Omni-channel Engagement Hub での顧客所有ボットの概略図](media/bring-your-bot-to-omnichannel.png "Omni-channel Engagement Hub での顧客所有ボットの概略図")
+![Omni-channel Engagement Hub での顧客所有ボットの概略図](media/bring-your-bot-to-omnichannel.png "Omni-channel Engagement Hub での顧客所有ボットの概略図")
 

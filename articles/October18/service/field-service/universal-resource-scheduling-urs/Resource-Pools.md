@@ -42,8 +42,7 @@ ms.lasthandoff: 11/01/2018
 
   (リソース プールでのサポートが計画されていないオンサイト要件。)
 
-  > [!div class="mx-imgBorder"]
-  > ![リソース プールのシナリオ](media/ResourcePools.png "リソース プールのシナリオ")
+  ![リソース プールのシナリオ](media/ResourcePools.png "リソース プールのシナリオ")
   
   *リソース プールのシナリオ*
 

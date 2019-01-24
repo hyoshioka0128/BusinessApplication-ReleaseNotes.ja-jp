@@ -25,8 +25,7 @@ ms.lasthandoff: 10/27/2018
 
 Microsoft Visio の豊富なモデリング機能を使用して、業務プロセスをキャプチャできます。 フローチャートまたは SharePoint のワークフローを作成するユーザーは、Visio を使用して Microsoft Flow のワークフローを設計できるようになりました。 Visio の共有およびコメント機能を使って、複数の関係者とコラボレーションし、短い時間で完全なワークフローを作成できます。 [ここで](https://powerusers.microsoft.com/t5/Flow-Ideas/Interactively-Build-Microsoft-WORKFlows-visually-in-Visio-Two/idi-p/54269)要求されているように、ワークフローを Microsoft Flow に発行した後、パラメーターを指定してアクティブ化できます。
 
-> [!div class="mx-imgBorder"]
-> ![Visio のスクリーンショット](media/visio_01.png "Visio のスクリーンショット")
+![Visio のスクリーンショット](media/visio_01.png "Visio のスクリーンショット")
 
 多くのプロセスは共通モデルを共有しますが、組織全体で見ると小さなバリエーションがあります。 これにより、組織はマスター ワークフロー モデルを作成し、特殊なパラメーターでインスタンスを調整できます。
 

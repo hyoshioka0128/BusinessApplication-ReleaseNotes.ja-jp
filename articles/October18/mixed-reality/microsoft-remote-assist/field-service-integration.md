@@ -24,8 +24,7 @@ ms.lasthandoff: 11/30/2018
 > [!NOTE]
 > Field Service の予約を表示するためには [Dynamics 365 ライセンス](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand)が必要です。
 
-> [!div class="mx-imgBorder"]
-> ![](media/field-service.jpg)
+![](media/field-service.jpg)
 
 <!--
 > ![](media/66a1f3d0ea3bc34ab53a3b63a1f33c07.png)

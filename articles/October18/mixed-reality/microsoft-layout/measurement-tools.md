@@ -26,7 +26,6 @@ Dynamics 365 Layout の新しい測定モードを使用すると、次のこと
 - 測定単位をメートル法またはヤード ポンド法に切り替えます。 
 - 特定の測定に対する誤差のマージンに関する情報を取得します (許容誤差 1％ までの精度)。 
 
-> [!div class="mx-imgBorder"]
-> ![測定モード](media/measuring-tools.PNG "測定モード")
+![測定モード](media/measuring-tools.PNG "測定モード")
 
 

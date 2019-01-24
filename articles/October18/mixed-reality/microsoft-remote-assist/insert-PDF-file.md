@@ -21,8 +21,7 @@ ms.lasthandoff: 11/30/2018
 
 イメージ ファイルに加えて、Microsoft Dynamics 365 リモート アシストのどちらの側も PDF ファイルをスペースに挿入できるようになりました。 たとえば、エキスパートは、特定のデバイスのメンテナンス手順を説明する PDF ファイルを追加できます。
 
-> [!div class="mx-imgBorder"]
-> ![](media/5efd9fb3b595f9f4e3aa1725568206ef.jpg)
+![](media/5efd9fb3b595f9f4e3aa1725568206ef.jpg)
 
 *PDF ファイルの挿入*
 

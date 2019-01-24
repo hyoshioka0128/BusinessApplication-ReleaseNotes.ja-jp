@@ -21,8 +21,7 @@ ms.lasthandoff: 11/30/2018
 
 チャット ウィンドウを使用して、Microsoft Dynamics 365 リモート アシストの通話で他のユーザーとテキスト チャットを行います。 チャット ウィンドウには、通話中に送信されたメッセージだけが表示されます。
 
-> [!div class="mx-imgBorder"]
-> ![](media/07834575e1b074a79797cd7ca84c0c2e.jpg)
+![](media/07834575e1b074a79797cd7ca84c0c2e.jpg)
 
 *テキスト チャット*
 

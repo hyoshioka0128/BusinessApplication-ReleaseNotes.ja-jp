@@ -30,8 +30,7 @@ Universal Resource Scheduling (URS) 上に構築された新しいサービス �
 
 現在 Web クライアント上でサービス スケジュール設定を使用しているお客様には、最新のソリューションへアップグレードするための詳細な移行ガイドが提供されます。
 
-> [!div class="mx-imgBorder"]
-> ![Universal Resource Scheduling](media/universal-resource-scheduling.png "Universal Resource Scheduling")
+![Universal Resource Scheduling](media/universal-resource-scheduling.png "Universal Resource Scheduling")
 
 ## <a name="resources"></a>リソース
 

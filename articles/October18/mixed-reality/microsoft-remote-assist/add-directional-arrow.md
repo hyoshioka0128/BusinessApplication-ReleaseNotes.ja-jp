@@ -21,8 +21,7 @@ ms.lasthandoff: 11/30/2018
 
 Dynamics 365 リモート アシストで注釈として矢印を追加するときに、矢印が指す方向を指定できるようになりました。
 
-> [!div class="mx-imgBorder"]
-> ![](media/d729ab4910f718be12a04ec1972c02f5.jpg)
+![](media/d729ab4910f718be12a04ec1972c02f5.jpg)
 
 *方向矢印*
 

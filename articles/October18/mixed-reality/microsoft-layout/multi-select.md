@@ -21,15 +21,13 @@ ms.lasthandoff: 11/30/2018
 
 Microsoft Dynamics 365 レイアウトで、複数のモデルを選択し、まとめて移動または回転させることができます。 複数選択は、グループ化でも機能します。
 
-> [!div class="mx-imgBorder"]
-> ![](media/2585eb0568249a61a5d349584e82442f.jpg)
+![](media/2585eb0568249a61a5d349584e82442f.jpg)
 
 *HoloLens での複数選択*
 
 <br>
 
-> [!div class="mx-imgBorder"]
-> ![](media/b013bf0a5f5b5d1662cd44253469bfa2.jpg)
+![](media/b013bf0a5f5b5d1662cd44253469bfa2.jpg)
 
 *Mixed Reality での複数選択*
 

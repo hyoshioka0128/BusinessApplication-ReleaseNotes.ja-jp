@@ -24,15 +24,13 @@ ms.lasthandoff: 11/30/2018
 
 ニーズに最も適した測定単位を Microsoft Dynamics 365 レイアウトで選択します。
 
-> [!div class="mx-imgBorder"]
-> ![](media/50c7394667e082054dbc3c01c5046fdb.jpg)
+![](media/50c7394667e082054dbc3c01c5046fdb.jpg)
 
 *HoloLens での測定単位の変更*
 
 <br>
 
-> [!div class="mx-imgBorder"]
-> ![](media/d97b032ed0ea60438054b475510343ec.jpg)
+![](media/d97b032ed0ea60438054b475510343ec.jpg)
 
 *Mixed Reality での測定単位の変更*
 

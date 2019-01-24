@@ -26,8 +26,7 @@ ms.lasthandoff: 11/08/2018
 
 Project Service では、プロジェクトで記録されたすべての未請求売上実績から請求書が作成されます。 この機能では、ネイティブの XRM フィルター機能を使用して実績を絞り込み、請求の準備ができているトランザクションをマークできるビューが導入されます。 これにより、プロジェクト マネージャーは顧客への請求項目を期間ごとに制御できるようになります。
 
-> [!div class="mx-imgBorder"]
-> ![トランザクション フィルターを使用して請求バックログをレビューする](media/use-transaction-filters-review-invoicing-backlog-creating-invoices-1.png "トランザクション フィルターを使用して請求バックログをレビューする")
+![トランザクション フィルターを使用して請求バックログをレビューする](media/use-transaction-filters-review-invoicing-backlog-creating-invoices-1.png "トランザクション フィルターを使用して請求バックログをレビューする")
 
 <!-- Picture 1 -->
 

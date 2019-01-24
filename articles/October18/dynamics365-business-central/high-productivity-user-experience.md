@@ -29,8 +29,7 @@ ms.lasthandoff: 10/26/2018
 ## <a name="refreshed-desktop-experience"></a>一新されたデスクトップ エクスペリエンス
 外観が一新され、Business Central はいっそう使いやすくなっています。 更新されたデスクトップ エクスペリエンスで重視されているのは、データのレイアウトの向上、画面スペースの活用、データの見やすさと読みやすさの向上、アプリケーション全体での簡単なナビゲーションです。 詳細ページ (顧客カードなど) も新しいルック アンド フィールになり、アプリケーション全体で改良が行われてアプリケーションのすべての領域の表示が更新されています。
 
-> [!div class="mx-imgBorder"]
-> ![Business Central の新しいコマンド バー](media/commanding.png "Business Central の新しいコマンド バー")
+![Business Central の新しいコマンド バー](media/commanding.png "Business Central の新しいコマンド バー")
 
 [一新されたデスクトップ エクスペリエンスの詳細をご覧ください。](refreshed-ux.md)
 
@@ -49,8 +48,7 @@ ms.lasthandoff: 10/26/2018
 ## <a name="access-from-anywhere"></a>どこからでもアクセス可能
 Business Central のユーザーは、デバイス、プラットフォーム、フォーム ファクター (ノート PC、デスクトップ、タブレット PC、スマートフォン) に関係なく、社内でも出先でも、生産性と接続を維持できます。
 
-> [!div class="mx-imgBorder"]
-> ![どこからでも Dynamics 365 Business Central を使用可能](media/bc-apps2.png "Business Central のユーザーは、デスクトップ、スマートフォン、タブレット PC のいずれでも生産性を維持できます")
+![どこからでも Dynamics 365 Business Central を使用可能](media/bc-apps2.png "Business Central のユーザーは、デスクトップ、スマートフォン、タブレット PC のいずれでも生産性を維持できます")
 
 Business Central は Microsoft が提供する最新のビジネス ソリューションであり、Dynamics NAV のすべての機能とメリットをクラウドに移すだけでなく、現代の企業がすべての接続された世界でより簡単に競争し、デジタル変革を実現できるようにします。
 

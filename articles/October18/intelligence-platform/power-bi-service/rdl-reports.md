@@ -30,13 +30,11 @@ SQL Server Reporting Services (SSRS) レポート (\*.rdl 形式) を Power BI P
 
 レポートは、次に示すように、Power BI Web またはモバイル エクスペリエンスの内部にレンダリングします。
 
-> [!div class="mx-imgBorder"]
-> ![Power BI Web でのレポート](media/rdl-report-render.png "Power BI Web でのレポート")
+![Power BI Web でのレポート](media/rdl-report-render.png "Power BI Web でのレポート")
 
 ページ付けされたレポートは、Power BI ワークスペース内で既存の Power BI レポートと共に管理されます。
 
-> [!div class="mx-imgBorder"]
-> ![Power BI ワークスペースでのレポートの管理](media/rdl-report-list.png "Power BI ワークスペースでのレポートの管理")
+![Power BI ワークスペースでのレポートの管理](media/rdl-report-list.png "Power BI ワークスペースでのレポートの管理")
 
 
 ## <a name="resources"></a>リソース

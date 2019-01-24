@@ -26,8 +26,7 @@ Microsoft はインテリジェント クラウドへの大きな投資を続け
 
 Dynamics 365 Business Central によってインテリジェント クラウドにオンプレミスの Dynamics SMB ソリューションを接続し、Power BI、Microsoft Flow、PowerApps、機械学習、その他にアクセスできます。  
 
-> [!div class="mx-imgBorder"]
-> ![エッジ デバイスから多くのクラウド ソリューションに](media/impact-dynamics-gp-dynamics-sl-customers-1.png "エッジ デバイスから多くのクラウド ソリューションに")  
+![エッジ デバイスから多くのクラウド ソリューションに](media/impact-dynamics-gp-dynamics-sl-customers-1.png "エッジ デバイスから多くのクラウド ソリューションに")  
 
 2018 年 10 月リリースの Business Central では、複数の Dynamics SMB 製品にインテリジェント エッジが組み込まれます。 インテリジェント エッジを使用すると、Business Central からインテリジェント クラウドのインスタンスにオンプレミスのソリューションをシームレスに接続できます。 接続が行われると、オンプレミスのデータがインテリジェント クラウドに安全に複製されます。 ユーザーは複製する会社を決定するだけであり (すべてを選択することもできます)、その後は、オンプレミスのソリューションのメイン ページ内で、アクション可能な分析とコンテンツが提供されます。 インテリジェント クラウドは Power BI、PowerApps、Microsoft Flow、AI などのソリューションを利用して、業務の実行を向上させることができる分析情報とアクション可能なメッセージを提供します。  
 

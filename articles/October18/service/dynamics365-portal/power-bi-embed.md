@@ -31,8 +31,7 @@ ms.lasthandoff: 11/21/2018
 
 管理者は、ポータルに対して Power BI を構成し、有効にすることができます。 これには、適切な Power BI ライセンスが必要です。
 
->[!div class="mx-imgBorder"]
->![ポータル管理センターから Power BI 統合を有効にする](media/PBI_Admin_Center_EnablePBI.png "ポータル管理センターから Power BI 統合を有効にする")
+![ポータル管理センターから Power BI 統合を有効にする](media/PBI_Admin_Center_EnablePBI.png "ポータル管理センターから Power BI 統合を有効にする")
 
 ## <a name="add-power-bi-visualization"></a>Power BI ビジュアル化の追加
 

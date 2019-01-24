@@ -25,7 +25,6 @@ ms.lasthandoff: 11/27/2018
 
 次のスクリーンショットは、Dynamics 365 for Customer Service のナレッジ記事のレコメンデーションを示しています。 
 
-> [!div class="mx-imgBorder"]
-> ![ナレッジ記事のレコメンデーションの表示](media/knowledge-article-suggestion.png "ナレッジ記事のレコメンデーションの表示")
+![ナレッジ記事のレコメンデーションの表示](media/knowledge-article-suggestion.png "ナレッジ記事のレコメンデーションの表示")
 
 

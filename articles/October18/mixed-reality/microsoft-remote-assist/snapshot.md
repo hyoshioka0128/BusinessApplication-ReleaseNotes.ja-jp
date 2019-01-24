@@ -21,8 +21,7 @@ ms.lasthandoff: 11/30/2018
 
 Microsoft Dynamics 365 リモート アシストの通話中に、Mixed Reality の注釈の写真を撮って後で使用するために保存します。 写真は HoloLens カメラ ロールに自動的に保存されます。
 
-> [!div class="mx-imgBorder"]
-> ![](media/3c36ac58613973bcdc9ec5dd3a162723.jpg)
+![](media/3c36ac58613973bcdc9ec5dd3a162723.jpg)
 
 *スナップショットの作成*
 

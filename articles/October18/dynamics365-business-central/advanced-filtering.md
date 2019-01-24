@@ -31,8 +31,7 @@ ms.lasthandoff: 10/26/2018
 ## <a name="filtering-lists"></a>リストのフィルター処理
 リストの横に固定された新しいフィルター ウィンドウは、わかりやすく、効率よく作業できる使い慣れたデザインになっています。 リストのあらかじめ定義されたフィルター ビューを切り替え、独自のフィルターを追加してビューを調整し、何もない状態からでも簡単に始めることができます。
 
-> [!div class="mx-imgBorder"]
-> ![alt text](media/list-page-with-advanced-filter.png "リストの横に表示されているフィルター ウィンドウ。")
+![alt text](media/list-page-with-advanced-filter.png "リストの横に表示されているフィルター ウィンドウ。")
 
 フィルター ウィンドウでは次のことができます。
 

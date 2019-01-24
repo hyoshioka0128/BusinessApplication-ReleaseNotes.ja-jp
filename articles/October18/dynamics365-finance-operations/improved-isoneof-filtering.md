@@ -24,15 +24,13 @@ ms.lasthandoff: 11/01/2018
 
 この画像では、Platform Update 22 より前の「次の値のいずれか」フィルタリング結果が示されています。
 
-> [!div class="mx-imgBorder"]
-> ![Platform Update 22 より前の「次の値のいずれか」フィルタリング結果](media/isOneOfBefore.png "Platform Update 22 より前の「次の値のいずれか」フィルタリング結果")
+![Platform Update 22 より前の「次の値のいずれか」フィルタリング結果](media/isOneOfBefore.png "Platform Update 22 より前の「次の値のいずれか」フィルタリング結果")
 
 *Platform Update 22 より前の「次の値のいずれか」フィルタリング結果*
 
 次の画像では、Platform Update 22 での「次の値のいずれか」フィルタリング結果が示されています。
 
-> [!div class="mx-imgBorder"]
-> ![Platform Update 22 での「次の値のいずれか」フィルタリング 結果](media/isOneOfAfter.png  "Platform Update 22 での「次の値のいずれか」フィルタリング結果")
+![Platform Update 22 での「次の値のいずれか」フィルタリング 結果](media/isOneOfAfter.png  "Platform Update 22 での「次の値のいずれか」フィルタリング結果")
 
 *Platform Update 22 で最適化された「次の値のいずれか」フィルタリング結果*
 

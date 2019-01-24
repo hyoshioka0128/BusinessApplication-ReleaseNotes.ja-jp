@@ -39,8 +39,7 @@ ms.lasthandoff: 11/08/2018
         * 銀行での資産管理コンサルテーション
         * フォーカス ルームでの個人指導
 
-> [!div class="mx-imgBorder"]
-> ![設備でのスケジューリング](media/Facility-Scheduling.png "設備のスケジューリング")
+![設備でのスケジューリング](media/Facility-Scheduling.png "設備のスケジューリング")
 <!-- picture -->
 
 *設備でのスケジューリング*

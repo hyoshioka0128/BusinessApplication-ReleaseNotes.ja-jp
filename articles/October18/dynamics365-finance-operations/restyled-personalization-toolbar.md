@@ -28,15 +28,13 @@ ms.lasthandoff: 11/01/2018
 
 次の図は、Platform Update 22 より前に個人用設定ツール バーがどのように表示されていたかを示しています。
 
-> [!div class="mx-imgBorder"]
-> ![Platform Update 22 より前の個人用設定ツール バー](media/oldPersonalizationToolbar.png  "Platform Update 22 より前の個人用設定ツール バー")
+![Platform Update 22 より前の個人用設定ツール バー](media/oldPersonalizationToolbar.png  "Platform Update 22 より前の個人用設定ツール バー")
 
 *前: Platform Update 22 より前の個人用設定ツール バー*
 
 次の図は、Platform Update 22 で個人用設定ツール バーがどのように表示されるかを示しています。
 
-> [!div class="mx-imgBorder"]
-> ![Platform Update 22 の個人用設定ツール バー](media/restyledPersonalizationToolbar.png  "Platform Update 22 の個人用設定ツール バー")
+![Platform Update 22 の個人用設定ツール バー](media/restyledPersonalizationToolbar.png  "Platform Update 22 の個人用設定ツール バー")
 
 *後: Platform Update 22 の個人用設定ツール バー*
 

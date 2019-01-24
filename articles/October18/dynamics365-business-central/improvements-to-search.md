@@ -32,8 +32,7 @@ ms.lasthandoff: 10/26/2018
 操作アシストにはアプリケーションのどこからでも **Alt + Q** キーボード ショートカットを使用してアクセスできます。または、Office 365 アプリケーションでは電球の形のアイコンを探してください。
 
 
-> [!div class="mx-imgBorder"]
-> ![alt text](media/search-dialog.png "顧客リストから操作アシストを使用したときの結果を表示しているウィンドウ。")
+![alt text](media/search-dialog.png "顧客リストから操作アシストを使用したときの結果を表示しているウィンドウ。")
 
 <!--
 ### Who uses these features

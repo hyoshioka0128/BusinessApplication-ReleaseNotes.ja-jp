@@ -29,6 +29,5 @@ ms.lasthandoff: 10/26/2018
 
 ドリルスルーは、ビジュアル ツールヒントからアクティブ化されます。 ユーザーがデータ ポイントを選択してドリルスルーすると、表示されるデータがその値でフィルター処理されます。
 
-> [!div class="mx-imgBorder"]
-> ![](media/drill-through-1.png "ドリルスルー")
+![](media/drill-through-1.png "ドリルスルー")
 

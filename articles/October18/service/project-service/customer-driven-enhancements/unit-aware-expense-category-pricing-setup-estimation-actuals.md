@@ -32,8 +32,7 @@ ms.lasthandoff: 11/08/2018
 
 3.  外注の成果物を出荷単位として価格設定し、原価計算できるようにする。 外注の作業を、仕入先側で発生した時間や費用のレベルで詳細に追跡する必要がなく、完了後に仕入先から納品される生産物の単位で追跡すればよい場合は、仕入先の出荷単位を経費カテゴリとしてモデリングし、単位ごとに価格設定できるこの機能が、重要な機能となります。
 
-    > [!div class="mx-imgBorder"]
-    > ![単位ごとの価格設定](media/unit-aware-expense-category-pricing-setup-estimation-actuals-1.png "単位ごとの価格設定")
+    ![単位ごとの価格設定](media/unit-aware-expense-category-pricing-setup-estimation-actuals-1.png "単位ごとの価格設定")
     
 <!-- Picture 4 -->
 

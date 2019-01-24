@@ -28,7 +28,6 @@ ms.lasthandoff: 10/26/2018
 
 証明されたカスタム ビジュアルは、AppSource と統合 UI の両方で、「Power BI 証明済み」カテゴリおよびマーケットプレース リストのビジュアル マークでフィルターすることにより、マーケットプレースで明確に検出できます。
 
-> [!div class="mx-imgBorder"]
-> ![](media/certified-custom-visuals-marketplace-1.png)
+![](media/certified-custom-visuals-marketplace-1.png)
 
 

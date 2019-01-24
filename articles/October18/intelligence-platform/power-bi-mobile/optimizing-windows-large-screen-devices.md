@@ -22,8 +22,7 @@ ms.lasthandoff: 12/03/2018
 
 プレゼンテーション モードは、データとビジュアルに焦点を当てたアプリの枠なしビューです。 このビューでは、データをプレゼンテーションの中心に配置することによってミーティングをいっそう生産的にするのに役立ち、他のミーティング参加者と共同作業するためのツール (インク操作や共有など) が導入されます。
 
-> [!div class="mx-imgBorder"]
-> ![大画面 Windows デバイスのプレゼンテーション モードでの Power BI Windows アプリ](media/optimizing-windows-large-screen-devices-1.png "大画面 Windows デバイスのプレゼンテーション モードでの Power BI Windows アプリ")
+![大画面 Windows デバイスのプレゼンテーション モードでの Power BI Windows アプリ](media/optimizing-windows-large-screen-devices-1.png "大画面 Windows デバイスのプレゼンテーション モードでの Power BI Windows アプリ")
 <!-- picture -->
 
 

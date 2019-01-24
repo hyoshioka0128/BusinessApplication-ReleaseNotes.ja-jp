@@ -37,14 +37,12 @@ ms.lasthandoff: 11/08/2018
     * フードとグリース トラップのクリーニング
     > クルーは日程の効率性を考慮して編成され、編成の期間は必要に応じてどのような長さにもできます。
 
-> [!div class="mx-imgBorder"]
-> ![スケジュール アシスタントでクルーを予約する](media/Crew-Book-Expanded.png "スケジュール アシスタントでクルーを予約する")
+![スケジュール アシスタントでクルーを予約する](media/Crew-Book-Expanded.png "スケジュール アシスタントでクルーを予約する")
 <!-- picture -->
 
 *スケジュール アシスタントでのクルーの予約*
 
-> [!div class="mx-imgBorder"]
-> ![スケジュール ボードでのクルー](media/Bookings-for-entire-crew.png "スケジュール ボードでのクルー")
+![スケジュール ボードでのクルー](media/Bookings-for-entire-crew.png "スケジュール ボードでのクルー")
 <!-- picture -->
 
 *スケジュール ボードでのクルー*

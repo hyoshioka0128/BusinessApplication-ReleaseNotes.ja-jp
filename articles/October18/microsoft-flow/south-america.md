@@ -25,7 +25,6 @@ ms.lasthandoff: 10/27/2018
 
 Microsoft Flow で南米地域を取り扱えるようになりました。 つまり、ユーザーは南米地域で環境を作成できるようになり、すべてのフロー顧客データが南北アメリカ地域内だけで保持されるようになり、重要なアセットは主にブラジルに置かれます。 **新しい環境**ダイアログでオプションを選択することにより、南アメリカ地域に環境を作成できます。
 
-> [!div class="mx-imgBorder"]
-> ![[新しい環境] ダイアログ](media/south-america-1.png "[新しい環境] ダイアログ")
+![[新しい環境] ダイアログ](media/south-america-1.png "[新しい環境] ダイアログ")
 
 この展開では、Microsoft Flow は当社の商用製品においてすべての Dynamics 365 地域と完全に一致しています。 データの保存に関する Microsoft の取り組みについて詳しくは、[Microsoft Flow の Microsoft セキュリティ センター ページ](https://www.microsoft.com/TrustCenter/CloudServices/business-application-platform/data-location)を参照してください。

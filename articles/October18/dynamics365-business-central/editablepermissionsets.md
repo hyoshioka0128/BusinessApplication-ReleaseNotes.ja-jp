@@ -26,8 +26,7 @@ ms.lasthandoff: 11/07/2018
 
 アクセス許可セットのリストからは、新しいアクセス許可を追加したり、既存のアクセス許可セットをコピーしたりできます。 結果セットの種類はユーザー定義になります。 既存のアクセス許可セットをコピーする場合は、元のアクセス許可セットが変更されたら通知を受け取ることを選択できるので、必要に応じてカスタマイズ セットを更新できます。  
 
-> [!div class="mx-imgBorder"]
-> ![](media/editablepermissionsets_list.png "必要なアクセス許可セットを追加する。")
+![](media/editablepermissionsets_list.png "必要なアクセス許可セットを追加する。")
 
 さらに、アクセス許可セットの定義を含むファイル (パートナー提供のファイルや、別の会社からコピーされたファイルなど) をインポートしたり、RapidStart を使用してアクセス許可セットを追加したりすることもできます。
 
@@ -40,8 +39,7 @@ ms.lasthandoff: 11/07/2018
 > [!NOTE]
 > アクセス許可セットを編集すると、アクセス許可セットが割り当てられている他のユーザーにも変更内容が適用されます。
 
-> [!div class="mx-imgBorder"]
-> ![](media/effective_permission_sets.png "有効なアクセス許可の概要。")
+![](media/effective_permission_sets.png "有効なアクセス許可の概要。")
 
 ## <a name="resources"></a>リソース
 [ユーザーとアクセス許可の管理](https://docs.microsoft.com/en-us/dynamics365/business-central/ui-how-users-permissions)

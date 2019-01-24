@@ -27,7 +27,6 @@ ms.lasthandoff: 10/26/2018
 
 Power BI 開発者用の新しい開発者ポータルには、開発者が Power BI Embedded の操作、Power BI ソリューションのプロセスの自動化、およびカスタム ビジュアルの作成を行うために必要なすべてのリソースが含まれています。 ポータルには、関連ドキュメントへのリンクが含まれます。
 
-> [!div class="mx-imgBorder"]
-> ![](media/new-developer-portal-1.png "Power BI 用の新しい開発者ポータル")
+![](media/new-developer-portal-1.png "Power BI 用の新しい開発者ポータル")
 
 

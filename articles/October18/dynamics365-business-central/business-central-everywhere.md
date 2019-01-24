@@ -25,8 +25,7 @@ ms.lasthandoff: 11/20/2018
 
 Dynamics NAV と Dynamics 365 Business Central は同じコード ベースを共有するので、Dynamics NAV から Dynamics 365 Business Central への顧客の移行は、他の Dynamics NAV のアップグレードと同じようにシームレスです。 アップグレードのとき、ユーザー エクスペリエンスは Business Central の新しく更新された生産性の高いものになり、製品の名前は Dynamics NAV から **Dynamics 365 Business Central** に変わります。  
 
-> [!div class="mx-imgBorder"]
-> ![Dynamics 365 Business Central の開発ロードマップ](media/dynamics-nav-transitions-dynamics365-business-central-premises-1.png "Dynamics 365 Business Central の開発ロードマップ")
+![Dynamics 365 Business Central の開発ロードマップ](media/dynamics-nav-transitions-dynamics365-business-central-premises-1.png "Dynamics 365 Business Central の開発ロードマップ")
 
 2018 年 10 月のリリースでは、Business Central の Web ベースの最新の高生産性機能とユーザー エクスペリエンスが、Dynamics NAV から Dynamics 365 Business Central にアップグレードするオンプレミスとハイブリッドのユーザーに提供されます。 Business Central のオンプレミス、ハイブリッド、またはクラウドの展開に接続するユーザーは (接続方法に関係なく)、同じ高生産性の更新されたユーザー インターフェイスと機能のすべてのメリットを利用できます。  
 
@@ -42,8 +41,7 @@ Dynamics NAV と Dynamics 365 Business Central は同じコード ベースを�
 
 Business Central のモバイル/コンパニオン アプリの詳細については、「[モバイル デバイスで Business Central を使用する](https://docs.microsoft.com/dynamics365/business-central/install-mobile-app)」を参照してください。
 
-> [!div class="mx-imgBorder"]
-> ![Business Central はデスクトップ、タブレット PC、スマートフォンで使用できます](media/bc-everywhere.png "Business Central はデスクトップ、タブレット PC、スマートフォンで使用できます")
+![Business Central はデスクトップ、タブレット PC、スマートフォンで使用できます](media/bc-everywhere.png "Business Central はデスクトップ、タブレット PC、スマートフォンで使用できます")
 
 > [!NOTE]
 > Dynamics NAV アプリは Dynamics NAV プラットフォームを使用するユーザー用のアプリ ストアで引き続き使用でき、後で Business Central (オンプレミス、ハイブリッド、またはクラウド) への移行を計画できます。  

@@ -37,12 +37,10 @@ ms.lasthandoff: 11/08/2018
 - 移動時間を予測し、チームを招集して、事前に招集されたスタッフと動的にチームに加えられるスタッフの両方がお客様とオンサイトで会います。
 - 設備 - 特定の場所に割り当てられたリソースのグループを招集します。
 
-> [!div class="mx-imgBorder"]
-> ![チーム スケジュールのシナリオ](media/Multi-Resource-Scheduling-PPT.png "チーム スケジュールのシナリオ")
+![チーム スケジュールのシナリオ](media/Multi-Resource-Scheduling-PPT.png "チーム スケジュールのシナリオ")
 <!-- picture -->
 
-> [!div class="mx-imgBorder"]
-> ![リソースのチームの空き時間の検索](media/Team-Scheduling.png "チーム スケジュールのシナリオ")
+![リソースのチームの空き時間の検索](media/Team-Scheduling.png "チーム スケジュールのシナリオ")
 <!-- picture -->
 
 *リソースのチームの空き時間の検索*

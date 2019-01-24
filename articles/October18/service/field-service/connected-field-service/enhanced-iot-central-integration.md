@@ -27,8 +27,7 @@ ms.lasthandoff: 11/08/2018
 
 統合の最初のフェーズでは、統合ソリューションの焦点は Microsoft Flow によるものです。 これは、IoT Central から Connected Field Service への一方向の通信です。 IoT Central によるリモート デバイスの監視では、IoT Central で定義されているしきい値を測定値が超えると、CFS でアラートを生成するアクションがトリガーされます。 フィールド サービス マネージャーは、顧客の資産やインシデントの種類などの条件に基づいて、これらのアラートをグループ化できます。
 
-> [!div class="mx-imgBorder"]
-> ![強化された IoT Central 統合](media/enhanced-iot-central-integration-1.png "強化された IoT Central 統合")
+![強化された IoT Central 統合](media/enhanced-iot-central-integration-1.png "強化された IoT Central 統合")
 <!-- picture -->
 
 
