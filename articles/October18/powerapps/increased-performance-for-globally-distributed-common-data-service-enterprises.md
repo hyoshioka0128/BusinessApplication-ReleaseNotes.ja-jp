@@ -3,7 +3,7 @@ title: "グローバルに分散したアプリ用 Common Data Service エンタ
 description: "アプリ用 Common Data Service を使用するグローバル企業のための機能強化"
 author: RichdiMSFT
 ms.reviewer: mkaur
-ms.date: 01/02/2019
+ms.date: 01/11/2019
 ms.assetid: 9b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: RICHDI
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
-ms.openlocfilehash: bf77e346fd4b15cd6f38d773498f1178dd2ae2d3
+ms.sourcegitcommit: 9f8ad56cb1f4ec5ae14e890c656573e917dcd1a8
+ms.openlocfilehash: b71880435fdaf27dcfef1108a684da6c3f7615c4
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/18/2019
+ms.lasthandoff: 01/25/2019
 
 ---
 # <a name="increased-performance-for-globally-distributed-common-data-service-for-apps-enterprises"></a><span data-ttu-id="8cbf4-103">グローバルに分散したアプリ用 Common Data Service エンタープライズのパフォーマンスの向上</span><span class="sxs-lookup"><span data-stu-id="8cbf4-103">Increased performance for globally distributed Common Data Service for Apps enterprises</span></span>

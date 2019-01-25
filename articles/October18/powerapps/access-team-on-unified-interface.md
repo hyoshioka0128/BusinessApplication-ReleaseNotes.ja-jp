@@ -3,7 +3,7 @@ title: "統一インターフェイス上のアクセス チーム"
 description: "アクセス チーム機能は統一インターフェイスで使用できるようになります"
 author: sidhartg
 ms.reviewer: mkaur
-ms.date: 01/02/2019
+ms.date: 01/11/2019
 ms.assetid: 7a1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: sidhartg
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
-ms.openlocfilehash: a9cd00414c3ee47737c331adfff061ec1f1901bc
+ms.sourcegitcommit: 9f8ad56cb1f4ec5ae14e890c656573e917dcd1a8
+ms.openlocfilehash: f4c5e23f6b61eb7e69f4cb863475b8965dece258
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/18/2019
+ms.lasthandoff: 01/25/2019
 
 ---
 # <a name="access-team-on-unified-interface"></a><span data-ttu-id="25969-103">統一インターフェイス上のアクセス チーム</span><span class="sxs-lookup"><span data-stu-id="25969-103">Access team on Unified Interface</span></span>
@@ -24,4 +24,3 @@ ms.lasthandoff: 01/18/2019
 
 
 <span data-ttu-id="25969-104">アクセス チーム機能は統一インターフェイス ランタイムに反映されます。</span><span class="sxs-lookup"><span data-stu-id="25969-104">Access team capabilities will be honored during Unified Interface runtime.</span></span> <span data-ttu-id="25969-105">アクセス チームは、組織、セキュリティ ロール、またはチーム経由でベース セキュリティ モデルを変更または更新することなく、部門チームにレコードを公開および共有する別の方法を提供します。</span><span class="sxs-lookup"><span data-stu-id="25969-105">Access teams provide an alternate way of exposing and sharing records across functional teams without the need to modify or update the base security model via Business Units, Security Roles, or Teams.</span></span>
-

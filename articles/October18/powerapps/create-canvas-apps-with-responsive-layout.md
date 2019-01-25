@@ -1,27 +1,27 @@
 ---
 title: "レスポンシブ レイアウトでのキャンバス アプリの作成"
 description: "上級の作成者は、レスポンシブなアプリを作成して、さまざまな環境に動的に調整できます。"
-author: gregli-msft
+author: emcoope-msft
 ms.reviewer: anneta
-ms.date: 12/13/2018
+ms.date: 01/09/2019
 ms.assetid: 1f1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: gregli
+ms.author: emcoope
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
-ms.openlocfilehash: 0df7445250891ed4146c5408d15e51fcf39099d3
+ms.sourcegitcommit: 9f8ad56cb1f4ec5ae14e890c656573e917dcd1a8
+ms.openlocfilehash: 64b10cdd4643515361aa4e970ea9601aad6803f5
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/18/2019
+ms.lasthandoff: 01/25/2019
 
 ---
 # <a name="create-canvas-apps-with-responsive-layout-public-preview"></a><span data-ttu-id="6a2cb-103">レスポンシブ レイアウトでのキャンバス アプリの作成 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="6a2cb-103">Create canvas apps with responsive layout (Public Preview)</span></span>
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[powerapps banner](../includes/powerapps.md)]
 
 <span data-ttu-id="6a2cb-104">通常、キャンバス アプリの画面はアプリ ホストが提供するスペースに収まるように拡張または縮小されます。</span><span class="sxs-lookup"><span data-stu-id="6a2cb-104">Normally the screens of a canvas app are scaled to fit the space provided by the app host.</span></span> <span data-ttu-id="6a2cb-105">これにより、任意の画面で正しい比率で表示されるアプリを簡単に作成できるようになります。</span><span class="sxs-lookup"><span data-stu-id="6a2cb-105"> This makes it easy to create an app and know that it will look proportionally correct on any screen in which it's used.</span></span> <span data-ttu-id="6a2cb-106">ただし、デメリットもあります。画面が大きくなると、アプリは余分な領域を有効活用できなくなります。</span><span class="sxs-lookup"><span data-stu-id="6a2cb-106"> But it comes at a price - as screens get bigger, the app can't adapt to take advantage of the additional real estate.</span></span> <span data-ttu-id="6a2cb-107">今日の多くの Web サイトは "レスポンシブ" です。表示される画面に応じてサイズを調整し、スマートフォンの小さな画面からデスクトップの大きな画面にまで対応しています。</span><span class="sxs-lookup"><span data-stu-id="6a2cb-107"> Many websites today are "responsive" - they adjust depending on the size of the screen they are shown on, adapting from small screens on phones to large screens on desktops.</span></span>  
 

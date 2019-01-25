@@ -3,7 +3,7 @@ title: "カスタマイズ担当者がエンティティ フォームに Power B
 description: "カスタマイズ担当者はエンティティ フォームに Power BI タイルおよびレポートを埋め込めるようになりました"
 author: prsi
 ms.reviewer: mkaur
-ms.date: 01/02/2019
+ms.date: 01/11/2019
 ms.assetid: 741c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: prsi
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
-ms.openlocfilehash: 4d133c4e7e05d3e41623ad86eda64460a1470e4f
+ms.sourcegitcommit: 9f8ad56cb1f4ec5ae14e890c656573e917dcd1a8
+ms.openlocfilehash: 4196f90ccbeb5a7d9ab705ca68245ee99d0a037b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/18/2019
+ms.lasthandoff: 01/25/2019
 
 ---
 # <a name="customizers-can-embed-power-bi-tiles-and-reports-in-entity-forms"></a><span data-ttu-id="824a1-103">カスタマイズ担当者がエンティティ フォームに Power BI タイルおよびレポートを埋め込むことができる</span><span class="sxs-lookup"><span data-stu-id="824a1-103">Customizers can embed Power BI tiles and reports in entity forms</span></span>
