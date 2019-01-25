@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../../April19/service/omni-channel-engagement-hub/customer-owned-bots-omni-channel-engagement-hub
 title: "Omni-channel Engagement Hub 用の顧客所有ボット"
 description: "Omni-channel Engagement Hub を使用すると、顧客は、(Microsoft Bot Framework で構築された) 独自のボットを持ち込み、それを Omni-channel Engagement Hub のエコシステムと接続できます。"
 author: Annbe
