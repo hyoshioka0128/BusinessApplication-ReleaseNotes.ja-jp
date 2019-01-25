@@ -3,7 +3,7 @@ title: "エンティティからの関連フローの作成と表示"
 description: "エンティティから直接、関連フローを表示してフローを作成します"
 author: matthewbolanos
 ms.reviewer: anneta
-ms.date: 11/29/2018
+ms.date: 01/10/2019
 ms.assetid: 621c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -21,7 +21,7 @@ ms.lasthandoff: 10/26/2018
 # <a name="create-and-view-related-flows-from-an-entity-public-preview"></a>エンティティからの関連フローの作成と表示 (パブリック プレビュー)
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[powerapps banner](../includes/powerapps.md)]
 
 Microsoft Flow のアプリ用 Common Data Service 向けの豊富なサポートによって、特定のエンティティに関連したすべてのフローを PowerApps から直接表示できます。 また、アプリ用 Common Data Service 内に格納されたデータのフローを作成することもできます。
 

@@ -3,7 +3,7 @@ title: "キャンバス アプリの共有の拡張"
 description: "キャンバス アプリとそのデータの共有が、インライン エクスペリエンスによってより簡単になります。"
 author: litran
 ms.reviewer: anneta
-ms.date: 11/29/2018
+ms.date: 01/11/2019
 ms.assetid: 3c1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -19,9 +19,6 @@ ms.lasthandoff: 10/26/2018
 
 ---
 # <a name="sharing-enhancements-for-canvas-apps"></a>キャンバス アプリの共有の拡張
-
-
-
 
 キャンバス アプリの共有が簡単になります。アプリによって使用されるデータ ソースをユーザーが表示できるため、そのデータにアクセスするためのユーザー アクセス許可を個別に設定しやすくなります。 
 

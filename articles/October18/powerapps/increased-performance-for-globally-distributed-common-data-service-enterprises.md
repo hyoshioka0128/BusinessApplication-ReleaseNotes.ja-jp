@@ -3,7 +3,7 @@ title: "グローバルに分散したアプリ用 Common Data Service エンタ
 description: "アプリ用 Common Data Service を使用するグローバル企業のための機能強化"
 author: RichdiMSFT
 ms.reviewer: mkaur
-ms.date: 01/02/2019
+ms.date: 01/11/2019
 ms.assetid: 9b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

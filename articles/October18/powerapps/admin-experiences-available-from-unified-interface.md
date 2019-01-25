@@ -3,7 +3,7 @@ title: "Power プラットフォーム管理センターからの管理設定の
 description: "Common Data Service 管理者は Power プラットフォーム管理センターで設定にすばやくアクセスして管理できます"
 author: nigajula
 ms.reviewer: jimholtz
-ms.date: 01/03/2019
+ms.date: 01/11/2019
 ms.assetid: 971c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

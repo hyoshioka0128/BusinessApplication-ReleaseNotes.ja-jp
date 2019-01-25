@@ -3,7 +3,7 @@ title: "SharePoint の PowerApps フォームの速度が向上"
 description: "エンドユーザーとアプリ開発者に対する SharePoint の埋め込み PowerApps フォームのパフォーマンスが向上します"
 author: yifwang
 ms.reviewer: anneta
-ms.date: 12/13/2018
+ms.date: 01/11/2019
 ms.assetid: 021c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -30,5 +30,3 @@ ms.lasthandoff: 10/26/2018
 - SharePoint 埋め込みフォームは既定で段階的に読み込まれます。
 
 これらの機能強化により、エンド ユーザーとアプリ開発者のエクスペリエンスが全体的に向上します。
-
-

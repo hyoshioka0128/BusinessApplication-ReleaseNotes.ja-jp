@@ -3,7 +3,7 @@ title: "特定の予定を Exchange に同期する"
 description: "Dynamics 365 で予定を作成し、それらを Exchange へと同期せずに保存する"
 author: srihas
 ms.reviewer: mkaur
-ms.date: 01/02/2019
+ms.date: 01/11/2019
 ms.assetid: 8c1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

@@ -3,7 +3,7 @@ title: "Dynamics 365 での代理ユーザーのサポート"
 description: "Dynamics 365 App for Outlook の代理ユーザーのサポート"
 author: srihas
 ms.reviewer: mkaur
-ms.date: 01/02/2019
+ms.date: 01/04/2019
 ms.assetid: 8a1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -21,7 +21,7 @@ ms.lasthandoff: 10/26/2018
 # <a name="support-for-delegate-users-in-dynamics-365"></a>Dynamics 365 での代理ユーザーのサポート
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[powerapps banner](../includes/powerapps.md)]
 
 App for Outlook のユーザーは、自分のメールボックスに対する代理アクセス権をチーム メンバーに付与して、関連の追跡や設定などといったアクションを代理ユーザーに実行させることができます。 代理ユーザーは、メールボックス所有者のメールやカレンダー アイテムのコンテキスト内で App for Outlook を使用できます。
 

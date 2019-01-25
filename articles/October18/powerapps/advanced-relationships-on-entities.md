@@ -3,7 +3,7 @@ title: "エンティティ間の高度なリレーションシップ"
 description: "アプリ開発者は、PowerApps でより高度な一対多、多対一、多対多のリレーションシップを作成できます。"
 author: matthewbolanos
 ms.reviewer: anneta
-ms.date: 12/20/2018
+ms.date: 01/11/2019
 ms.assetid: 561c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -21,7 +21,6 @@ ms.lasthandoff: 10/26/2018
 # <a name="advanced-relationships-between-entities"></a>エンティティ間の高度なリレーションシップ
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[powerapps banner](../includes/powerapps.md)]
 
 PowerApps では、アプリ開発者は一対多、多対一、多対多のリレーションシップを作成できるだけでなく、階層を有効にしてエンティティ間でマッピングを構成することにより、レコード間のリレーションシップを設定する際にフィールドの既定値を構成できます。 より詳細な設定には、ソリューション エクスプローラーが必要です。
-

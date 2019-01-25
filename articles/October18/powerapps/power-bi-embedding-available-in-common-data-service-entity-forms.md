@@ -3,7 +3,7 @@ title: "カスタマイズ担当者がエンティティ フォームに Power B
 description: "カスタマイズ担当者はエンティティ フォームに Power BI タイルおよびレポートを埋め込めるようになりました"
 author: prsi
 ms.reviewer: mkaur
-ms.date: 01/02/2019
+ms.date: 01/11/2019
 ms.assetid: 741c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

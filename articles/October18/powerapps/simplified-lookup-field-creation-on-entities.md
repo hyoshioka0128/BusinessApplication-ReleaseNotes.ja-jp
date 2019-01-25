@@ -3,7 +3,7 @@ title: "エンティティでの簡略化された検索フィールドの作成
 description: "アプリ作成者は、エンティティに検索フィールドをすばやく追加できるようになります。"
 author: matthewbolanos
 ms.reviewer: anneta
-ms.date: 11/29/2018
+ms.date: 01/11/2019
 ms.assetid: 581c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -21,7 +21,6 @@ ms.lasthandoff: 10/26/2018
 # <a name="simplified-lookup-field-creation-on-entities"></a>エンティティでの簡略化された検索フィールドの作成
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[powerapps banner](../includes/powerapps.md)]
 
 検索フィールドは現在、多対一の関係定義の一部として作成されるようになっています。 これは今後もこの機能においてサポートされる予定ですが、ユーザーは、現在 SharePoint や Access で行っているのと同様に、エンティティに検索フィールドを追加するだけで、同じ種類の関係を作成できるようになります。
-

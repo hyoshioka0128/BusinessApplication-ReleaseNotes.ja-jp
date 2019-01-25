@@ -3,7 +3,7 @@ title: "キャンバス アプリのオフライン エクスペリエンスの�
 description: "アプリ開発者は、オフライン サポート用のモバイル クライアントでより多くのデータを保存できます"
 author: gregli-msft
 ms.reviewer: anneta
-ms.date: 01/02/2019
+ms.date: 01/09/2019
 ms.assetid: 001c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -21,7 +21,7 @@ ms.lasthandoff: 10/26/2018
 # <a name="improved-reliability-of-offline-experience-for-canvas-apps-public-preview"></a>キャンバス アプリのオフライン エクスペリエンスの信頼性の向上 (パブリック プレビュー)
 
 
-[!include[banner](../../includes/banner.md)]
+
 
 SaveData/LoadData を使用するデバイスのキャンバス アプリは、オフライン シナリオで信頼性が高まります。 アプリ開発者は、シングル コールで最大 20 MB のデータまたは 20 のイメージをオフラインでは保存できるため、より堅牢なフィールド サービス アプリを作成できます。
 

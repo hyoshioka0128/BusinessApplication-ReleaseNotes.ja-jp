@@ -3,7 +3,7 @@ title: "管理者向けプラットフォームの向上"
 description: "管理者のエクスペリエンスは、信頼できるプラットフォームの採用で重要な鍵となります。"
 author: jamesol-msft
 manager: KVivek
-ms.date: 11/29/2018
+ms.date: 01/11/2019
 ms.assetid: dd91d290-f7f3-e811-a97c-000d3a137063
 ms.topic: article
 ms.prod: 

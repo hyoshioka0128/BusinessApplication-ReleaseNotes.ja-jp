@@ -3,7 +3,7 @@ title: "エンティティの詳細プロパティの管理を簡略化"
 description: "エンティティやフィールドの詳細プロパティを PowerApps ポータルから管理できるようになり、ソリューション エクスプローラーを使用する必要がなりくなります"
 author: matthewbolanos
 ms.reviewer: anneta
-ms.date: 11/29/2018
+ms.date: 01/11/2019
 ms.assetid: 5f1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -21,7 +21,6 @@ ms.lasthandoff: 10/26/2018
 # <a name="simplified-management-of-advanced-entity-properties"></a>エンティティの詳細プロパティの管理を簡略化
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[powerapps banner](../includes/powerapps.md)]
 
 現在、エンティティやフィールドに関連する詳細プロパティはソリューション エクスプローラーでしか利用できませんが、これが PowerApps ポータルでも利用できるようになるため、エンティティやフィールドの作成作業が簡略化され、作業の一貫性が改善されます。
-
