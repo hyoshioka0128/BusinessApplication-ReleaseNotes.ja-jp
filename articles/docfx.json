@@ -40,12 +40,20 @@
     "externalReference": [],
     "globalMetadata": {
       "contributors_to_exclude": [
-        "OpenLocalizationService"
+        "OpenLocalizationService",
+        "buck1ey",
+        "bishalgoswami",
+        "kathleenmcgrath",
+        "marycc",
+        "tinaburden",
+        "almostdunh",
+        "v-jokell",
+        "v-maorou",
+        "Dealgan12",
+        "dgoldsch",
+        "krisre"
       ],
       "layout": "Conceptual",
-      "searchScope": [
-        "Release notes"
-      ],
       "extendBreadcrumb": "true",
       "breadcrumb_path": "/business-applications-release-notes/breadcrumb/toc.json",
       "uhfHeaderId": "MSDocsHeader-Dynamics365",
@@ -53,7 +61,14 @@
       "titleSuffix": "Release Notes", 
       "feedback_system": "None" 
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "searchScope":{
+        "**.*": ["Release notes"],
+        "October18/**.*":["Release notes","October 18"],
+        "April18/**.*":["Release notes","Spring 18"],
+        "April19/**.*":["Release notes","April 19"]
+      }
+    },
     "template": [],
     "dest": "business-applications-release-notes",
     "markdownEngineName": "markdig",
