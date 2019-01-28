@@ -11,10 +11,10 @@ ms.technology:
 ms.author: blazkote
 audience: end user, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 9979f961a07e1238fad7f6f8e8295413ad456b59
+ms.sourcegitcommit: ed546df153f3cadf69b2d8731171329707b8dca8
+ms.openlocfilehash: 874900c911163ac7c27814f4bf5c3ca66bcad694
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 01/28/2019
 
 ---
 

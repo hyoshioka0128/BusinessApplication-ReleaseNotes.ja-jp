@@ -13,10 +13,10 @@ ms.author: sandhan
 ms.reviewer: shjais
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e35bcf943f7257d057015b8535340025f4e76c30
-ms.openlocfilehash: 519415da2371638468807cced7d2a18ddeaed2e0
+ms.sourcegitcommit: 163b0e8ec8da8ef8bbe43f302c561bbaed43d0be
+ms.openlocfilehash: 6efc57638226b7e3fce6027984e08c26254f2865
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/21/2018
+ms.lasthandoff: 01/28/2019
 
 ---
 #  <a name="simplified-customization"></a><span data-ttu-id="1c25e-103">簡略化されたカスタマイズ</span><span class="sxs-lookup"><span data-stu-id="1c25e-103">Simplified customization</span></span>
@@ -30,9 +30,9 @@ ms.lasthandoff: 11/21/2018
 
 <span data-ttu-id="1c25e-107">カスタマイズ担当者と管理者には、次のメリットがもたらされます。</span><span class="sxs-lookup"><span data-stu-id="1c25e-107">Customizers and administrators benefit from:</span></span>
 
-- <span data-ttu-id="1c25e-108">WYSIWYG ベースのコンテンツ エディターによって、美しいビジュアル エクスペリエンスを作成できます。</span><span class="sxs-lookup"><span data-stu-id="1c25e-108">WYSIWYG-based content editors that help craft beautiful visual experiences.</span></span>  
+- <span data-ttu-id="1c25e-108">WYSIWYG ベースのコンテンツ エディターによって、美しいビジュアル エクスペリエンスを作成できます。</span><span class="sxs-lookup"><span data-stu-id="1c25e-108">WYSIWYG-based content editors that help craft beautiful visual experiences.</span></span>
 - <span data-ttu-id="1c25e-109">現代的で直感的な Web ページ作成エクスペリエンスが提供されます。</span><span class="sxs-lookup"><span data-stu-id="1c25e-109">Modern and intuitive web page authoring experience.</span></span>
-- <span data-ttu-id="1c25e-110">サイトマップ構成が改善されたことで、ナビゲーションやページ階層を効率よく管理できます。</span><span class="sxs-lookup"><span data-stu-id="1c25e-110">Improved sitemap configuration that helps users manage navigation and page hierarchies efficiently.</span></span>    
+- <span data-ttu-id="1c25e-110">サイトマップ構成が改善されたことで、ナビゲーションやページ階層を効率よく管理できます。</span><span class="sxs-lookup"><span data-stu-id="1c25e-110">Improved sitemap configuration that helps users manage navigation and page hierarchies efficiently.</span></span>
 - <span data-ttu-id="1c25e-111">状況依存のコンポーネント構成と管理機能によって、生産性を改善できます。</span><span class="sxs-lookup"><span data-stu-id="1c25e-111">Contextual component configuration and administration for improved productivity.</span></span>
 
 <!--
