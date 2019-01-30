@@ -1,51 +1,6 @@
 {  
   "redirections": [
     {
-      "source_path": "articles/October18/dynamics365-finance-operations/hyperlink-behavior.md",
-      "redirect_url": "../../April19/dynamics365-finance-operations/planned-features",
-      "redirect_document_id": "false"
-    },
-        {
-      "source_path": "articles/October18/dynamics365-finance-operations/custom-shortcuts.md",
-      "redirect_url": "../../April19/dynamics365-finance-operations/planned-features",
-      "redirect_document_id": "false"
-    },
-        {
-      "source_path": "articles/October18/dynamics365-finance-operations/filtering-enhancements.md",
-      "redirect_url": "../../April19/dynamics365-finance-operations/client-productivity-usability-improvements",
-      "redirect_document_id": "false"
-    },
-        {
-      "source_path": "articles/October18/dynamics365-finance-operations/grouping-in-grids.md",
-      "redirect_url": "../../April19/dynamics365-finance-operations/grid-experience",
-      "redirect_document_id": "false"
-    },
-        {
-      "source_path": "articles/October18/dynamics365-finance-operations/mass-update.md",
-      "redirect_url": "../../April19/dynamics365-finance-operations/planned-features",
-      "redirect_document_id": "false"
-    },
-        {
-      "source_path": "articles/October18/dynamics365-finance-operations/new-grid-control.md",
-      "redirect_url": "../../April19/dynamics365-finance-operations/grid-experience",
-      "redirect_document_id": "false"
-    },
-        {
-      "source_path": "articles/October18/dynamics365-finance-operations/personalization-improvements2.md",
-      "redirect_url": "../../April19/dynamics365-finance-operations/client-productivity-usability-improvements",
-      "redirect_document_id": "false"
-    },
-        {
-      "source_path": "articles/October18/dynamics365-finance-operations/saved-views.md",
-      "redirect_url": "../../April19/dynamics365-finance-operations/saved-views",
-      "redirect_document_id": "false"
-    },
-        {
-      "source_path": "articles/October18/dynamics365-finance-operations/grid-totals.md",
-      "redirect_url": "../../April19/dynamics365-finance-operations/grid-experience",
-      "redirect_document_id": "false"
-    },
-    {
       "source_path": "articles/April18/index.md",
       "redirect_url": "release-overview",
       "redirect_document_id": "false"
