@@ -1,27 +1,26 @@
 ---
-title: "管理者向けプラットフォームの向上"
-description: "管理者のエクスペリエンスは、信頼できるプラットフォームの採用で重要な鍵となります。"
+title: 管理者向けプラットフォームの向上
+description: 管理者のエクスペリエンスは、信頼できるプラットフォームの採用で重要な鍵となります。
 author: jamesol-msft
 manager: KVivek
-ms.date: 9/3/2018
-ms.assetid: 09a2bcdc-3b73-e811-a965-000d3a1362e3
+ms.date: 11/29/2018
+ms.assetid: dd91d290-f7f3-e811-a97c-000d3a137063
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: jamesol
 audience: Power user
+ms.openlocfilehash: 212af4a2bf9ba78c1c02a789a5e92f86090e7ef2
+ms.sourcegitcommit: 4516c399d430cc569513d46822c70670809fe5c6
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 3118793a2c6c9392f9153d7d3cb0fa3f0e754688
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/12/2019
+ms.locfileid: "202110"
 ---
-# <a name="better-platform-for-administrators"></a><span data-ttu-id="09c99-103">管理者向けプラットフォームの向上</span><span class="sxs-lookup"><span data-stu-id="09c99-103">Better platform for administrators</span></span>
+# <a name="better-platform-for-administrators"></a><span data-ttu-id="5e276-103">管理者向けプラットフォームの向上</span><span class="sxs-lookup"><span data-stu-id="5e276-103">Better platform for administrators</span></span>
 
 
 [!include[powerapps banner](../includes/powerapps.md)]
 
-<span data-ttu-id="09c99-104">Microsoft PowerApps では、組織内のアプリをかつてないほど簡単に保守および管理できます。</span><span class="sxs-lookup"><span data-stu-id="09c99-104">Microsoft PowerApps makes maintaining and managing apps across your organization easier than ever.</span></span> <span data-ttu-id="09c99-105">新しい管理センターでは、記憶域容量、環境、および展開を管理する管理者やパートナー向けのエクスペリエンスが改善され、管理の信頼性と統合性が向上しています。</span><span class="sxs-lookup"><span data-stu-id="09c99-105">With the launch of the new admin center, admins and partners are embracing the more reliable, unified experience to manage storage capacity, environments, and deployments.</span></span> <span data-ttu-id="09c99-106">管理者は、管理センターに統合されたヘルプとサポートのエクスペリエンスを通じて、問題を効果的に解決できます。</span><span class="sxs-lookup"><span data-stu-id="09c99-106">Admins are more successful resolving issues via the integrated Help & Support experience in the admin center.</span></span>
-
+<span data-ttu-id="5e276-104">Microsoft PowerApps では、組織内のアプリをかつてないほど簡単に保守および管理できます。</span><span class="sxs-lookup"><span data-stu-id="5e276-104">Microsoft PowerApps makes maintaining and managing apps across your organization easier than ever.</span></span> <span data-ttu-id="5e276-105">新しい管理センターでは、記憶域容量、環境、および展開を管理する管理者やパートナー向けのエクスペリエンスが改善され、管理の信頼性と統合性が向上しています。</span><span class="sxs-lookup"><span data-stu-id="5e276-105">With the launch of the new admin center, admins and partners are embracing the more reliable, unified experience to manage storage capacity, environments, and deployments.</span></span> <span data-ttu-id="5e276-106">管理者は、管理センターに統合されたヘルプとサポートのエクスペリエンスを通じて、問題を効果的に解決できます。</span><span class="sxs-lookup"><span data-stu-id="5e276-106">Admins are more successful resolving issues via the integrated Help & Support experience in the admin center.</span></span>

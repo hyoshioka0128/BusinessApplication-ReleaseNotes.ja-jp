@@ -1,36 +1,35 @@
 ---
-title: "Azure ワークロード監視用の新しい指標"
-description: "Power BI Embedded のリソース消費を監視し、構成可能なしきい値を超えたときにアクションをトリガーするために、4 つの新しいメトリックが追加されました。"
+title: Azure ワークロード監視用の新しい指標
+description: Power BI Embedded のリソース消費を監視し、構成可能なしきい値を超えたときにアクションをトリガーするために、4 つの新しいメトリックが追加されました。
 author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 082d21ac-805e-4007-8810-f1838369569c
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: b3d24273401dcee8ca67c3552fa42d89aa55f2f3
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "200080"
 ---
-#  <a name="new-metrics-for-azure-workload-monitoring"></a><span data-ttu-id="c1ee6-103">Azure ワークロード監視用の新しい指標</span><span class="sxs-lookup"><span data-stu-id="c1ee6-103">New metrics for Azure workload monitoring</span></span>
+#  <a name="new-metrics-for-azure-workload-monitoring"></a><span data-ttu-id="5a20a-103">Azure ワークロード監視用の新しい指標</span><span class="sxs-lookup"><span data-stu-id="5a20a-103">New metrics for Azure workload monitoring</span></span>
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 
 
-<span data-ttu-id="c1ee6-104">Power BI のページ付けされたレポートとデータ フローで新しいワークロードを使用できるようになったため、Power BI Embedded のリソースとワークロードの消費を監視して、構成可能なしきい値を超えたときにアクションをトリガーする、3 つの新しいメトリックが追加されます。</span><span class="sxs-lookup"><span data-stu-id="c1ee6-104">As new workloads now available in Power BI- Paginated reports and Data flows, three new metrics will be added to monitor Power BI Embedded resource and workload consumption and trigger actions when configurable thresholds are exceeded.</span></span> <span data-ttu-id="c1ee6-105">新しいメトリックは、リソースでの各ワークロードを反映します。</span><span class="sxs-lookup"><span data-stu-id="c1ee6-105">The new metrics will reflect each of the workloads in the resource.</span></span> <span data-ttu-id="c1ee6-106">新しいメトリックは次のとおりです。</span><span class="sxs-lookup"><span data-stu-id="c1ee6-106">The new metrics are:</span></span>
+<span data-ttu-id="5a20a-104">Power BI のページ付けされたレポートとデータ フローで新しいワークロードを使用できるようになったため、Power BI Embedded のリソースとワークロードの消費を監視して、構成可能なしきい値を超えたときにアクションをトリガーする、3 つの新しいメトリックが追加されます。</span><span class="sxs-lookup"><span data-stu-id="5a20a-104">As new workloads now available in Power BI- Paginated reports and Data flows, three new metrics will be added to monitor Power BI Embedded resource and workload consumption and trigger actions when configurable thresholds are exceeded.</span></span> <span data-ttu-id="5a20a-105">新しいメトリックは、リソースでの各ワークロードを反映します。</span><span class="sxs-lookup"><span data-stu-id="5a20a-105">The new metrics will reflect each of the workloads in the resource.</span></span> <span data-ttu-id="5a20a-106">新しいメトリックは次のとおりです。</span><span class="sxs-lookup"><span data-stu-id="5a20a-106">The new metrics are:</span></span>
 
-- <span data-ttu-id="c1ee6-107">CPU 消費量</span><span class="sxs-lookup"><span data-stu-id="c1ee6-107">CPU Consumption</span></span>
+- <span data-ttu-id="5a20a-107">CPU 消費量</span><span class="sxs-lookup"><span data-stu-id="5a20a-107">CPU Consumption</span></span>
 
-- <span data-ttu-id="c1ee6-108">メモリ消費量</span><span class="sxs-lookup"><span data-stu-id="c1ee6-108">Memory Consumption</span></span>
+- <span data-ttu-id="5a20a-108">メモリ消費量</span><span class="sxs-lookup"><span data-stu-id="5a20a-108">Memory Consumption</span></span>
 
-- <span data-ttu-id="c1ee6-109">メモリ コミット消費量 (メモリのページングを含む)</span><span class="sxs-lookup"><span data-stu-id="c1ee6-109">Memory Commit Consumption (Incl. memory paging)</span></span>
+- <span data-ttu-id="5a20a-109">メモリ コミット消費量 (メモリのページングを含む)</span><span class="sxs-lookup"><span data-stu-id="5a20a-109">Memory Commit Consumption (Incl. memory paging)</span></span>
 
-<span data-ttu-id="c1ee6-110">開発者は、Azure を使用してしきい値を定義し、アラートを使用して特定のアクションをトリガーできます (たとえば、特定のモニターが定義済みしきい値を超えたらリソースを自動スケールアップするなど)。</span><span class="sxs-lookup"><span data-stu-id="c1ee6-110">Developers can use Azure to define thresholds to trigger specific actions using alerts, such as automatic scale-up of the resource whenever a specific monitor crosses a defined threshold.</span></span>
-
+<span data-ttu-id="5a20a-110">開発者は、Azure を使用してしきい値を定義し、アラートを使用して特定のアクションをトリガーできます (たとえば、特定のモニターが定義済みしきい値を超えたらリソースを自動スケールアップするなど)。</span><span class="sxs-lookup"><span data-stu-id="5a20a-110">Developers can use Azure to define thresholds to trigger specific actions using alerts, such as automatic scale-up of the resource whenever a specific monitor crosses a defined threshold.</span></span>

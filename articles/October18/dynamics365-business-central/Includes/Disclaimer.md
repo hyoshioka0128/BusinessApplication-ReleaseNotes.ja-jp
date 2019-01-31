@@ -1,2 +1,2 @@
-<span data-ttu-id="8c2c2-101">この INCLUDE を使用しないでください <!--></span><span class="sxs-lookup"><span data-stu-id="8c2c2-101">Do not use this INCLUDE <!--></span></span> [!IMPORTANT]
-> <span data-ttu-id="8c2c2-102">この記事では、現在 **Microsoft Dynamics 365 Business Central** 用に_開発中_の機能について説明します。--></span><span class="sxs-lookup"><span data-stu-id="8c2c2-102">This article covers features that are currently _in development_ for **Microsoft Dynamics 365 Business Central**.--></span></span>
+<span data-ttu-id="f3045-101">この INCLUDE を使用しないでください <!--></span><span class="sxs-lookup"><span data-stu-id="f3045-101">Do not use this INCLUDE <!--></span></span> [!IMPORTANT]
+> <span data-ttu-id="f3045-102">この記事では、現在 **Microsoft Dynamics 365 Business Central** 用に_開発中_の機能について説明します。--></span><span class="sxs-lookup"><span data-stu-id="f3045-102">This article covers features that are currently _in development_ for **Microsoft Dynamics 365 Business Central**.--></span></span>

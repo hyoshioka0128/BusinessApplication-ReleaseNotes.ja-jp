@@ -1,27 +1,26 @@
 ---
-title: "コンシューマー向けのアプリの探索の向上"
-description: "PowerApps からモデル駆動型アプリおよびキャンバス アプリをより簡単に検索および実行できます。"
+title: コンシューマー向けのアプリの探索の向上
+description: PowerApps からモデル駆動型アプリおよびキャンバス アプリをより簡単に検索および実行できます。
 author: shpareek
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: anneta
+ms.date: 01/02/2019
 ms.assetid: f71b1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: shpareek
 audience: Power user
+ms.openlocfilehash: 0721f7530c4f08b247fae5e1d6b03631349908f4
+ms.sourcegitcommit: 4516c399d430cc569513d46822c70670809fe5c6
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 5066063c301aeb6434c563e5c5cc48e98522cc5d
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/12/2019
+ms.locfileid: "202159"
 ---
-# <a name="improved-app-discovery-for-consumers"></a><span data-ttu-id="742cf-103">コンシューマー向けのアプリの探索の向上</span><span class="sxs-lookup"><span data-stu-id="742cf-103">Improved app discovery for consumers</span></span>
+# <a name="improved-app-discovery-for-consumers"></a><span data-ttu-id="7344d-103">コンシューマー向けのアプリの探索の向上</span><span class="sxs-lookup"><span data-stu-id="7344d-103">Improved app discovery for consumers</span></span>
 
 
 
 
-<span data-ttu-id="742cf-104">アプリ利用者は、PowerApps の統一ランディング ページを通じて自分および自分の組織のモデル駆動型アプリとキャンバス アプリを検索、プレビュー、実行して、素早く生産性を高めることができます。</span><span class="sxs-lookup"><span data-stu-id="742cf-104">App consumers can be productive more quickly by discovering, previewing, and running their own and their org's model-driven and canvas apps through a unified landing page on PowerApps.</span></span>
-
+<span data-ttu-id="7344d-104">アプリ利用者は、PowerApps の統一ランディング ページを通じて自分および自分の組織のモデル駆動型アプリとキャンバス アプリを検索、プレビュー、実行して、素早く生産性を高めることができます。</span><span class="sxs-lookup"><span data-stu-id="7344d-104">App consumers can be productive more quickly by discovering, previewing, and running their own and their org's model-driven and canvas apps through a unified landing page on PowerApps.</span></span>

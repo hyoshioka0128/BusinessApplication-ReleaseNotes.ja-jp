@@ -1,26 +1,25 @@
 ---
-title: "Azure Data Lake と Power BI データ プールを使用して自分のデータベースを持ち込む (BYOD)"
-description: "Azure Data Lake と Power BI データ プールを使用して自分のデータベースを持ち込む"
+title: Azure Data Lake と Power BI データ プールを使用して自分のデータベースを持ち込む (BYOD)
+description: Azure Data Lake と Power BI データ プールを使用して自分のデータベースを持ち込む
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 author: Annbe
 ms.author: Annbe
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: cae506341f6a4c560633d426b21bc95ad613d093
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199016"
 ---
-#  <a name="bring-your-own-database-using-azure-data-lake-and-power-bi-data-pools-byod"></a><span data-ttu-id="84d56-103">Azure Data Lake と Power BI データ プールを使用して自分のデータベースを持ち込む (BYOD)</span><span class="sxs-lookup"><span data-stu-id="84d56-103">Bring your own database using Azure Data Lake and Power BI data pools (BYOD)</span></span>
+#  <a name="bring-your-own-database-using-azure-data-lake-and-power-bi-data-pools-byod"></a><span data-ttu-id="1a67d-103">Azure Data Lake と Power BI データ プールを使用して自分のデータベースを持ち込む (BYOD)</span><span class="sxs-lookup"><span data-stu-id="1a67d-103">Bring your own database using Azure Data Lake and Power BI data pools (BYOD)</span></span>
 
 [!include[banner](../../includes/banner.md)]
 
-<span data-ttu-id="84d56-104">この新しいオファリングは、エンティティ ストアの最良の機能と自分のデータベースの持ち込みを結合して、1 つのサービスにしたものです。</span><span class="sxs-lookup"><span data-stu-id="84d56-104">This new offering combines the best features of the entity store and Bring your own database into one service.</span></span> <span data-ttu-id="84d56-105">データ (エンティティ ストアのスキーマまたはエンティティ) を選択し、このサービスを使ってデータを最新の状態に維持できます。</span><span class="sxs-lookup"><span data-stu-id="84d56-105">You can choose data - Entity store schemas or Entities, and the service keeps the data refreshed.</span></span> <span data-ttu-id="84d56-106">エクスポート ジョブのスケジュールまたは監視は必要はありません。</span><span class="sxs-lookup"><span data-stu-id="84d56-106">No need to schedule or monitor export jobs.</span></span> <span data-ttu-id="84d56-107">データは Azure Data Lake に格納できます。</span><span class="sxs-lookup"><span data-stu-id="84d56-107">Data can be stored in Azure Data Lake.</span></span> <span data-ttu-id="84d56-108">Power BI はデータをデータ プールとして認識するので、Finance and Operations からのデータと他のソースからのデータを結合することにより、リッチなデータ マッシュアップを作成できます。</span><span class="sxs-lookup"><span data-stu-id="84d56-108">Because the data is visible to Power BI as data pools, you can create rich data mash-ups by combining data from Finance and Operations with other sources.</span></span> <span data-ttu-id="84d56-109">独自のデータを Azure Data Lake にインポートして、クラウド データ ウェアハウスを構築できるようになります。</span><span class="sxs-lookup"><span data-stu-id="84d56-109">Now you can import your own data into Azure Data Lake and build your cloud data warehouse.</span></span> <span data-ttu-id="84d56-110">データは自分の Azure サブスクリプション内にあるため、Azure Data Factory、Azure Machine Learning、Databricks、Hadoop などの他の Azure サービスを使用してデータにアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="84d56-110">Since the data is in your own Azure subscription, the data is accessible using other Azure services such as Azure Data Factory, Azure Machine Learning, Databricks, and Hadoop.</span></span>
-
+<span data-ttu-id="1a67d-104">この新しいオファリングは、エンティティ ストアの最良の機能と自分のデータベースの持ち込みを結合して、1 つのサービスにしたものです。</span><span class="sxs-lookup"><span data-stu-id="1a67d-104">This new offering combines the best features of the entity store and Bring your own database into one service.</span></span> <span data-ttu-id="1a67d-105">データ (エンティティ ストアのスキーマまたはエンティティ) を選択し、このサービスを使ってデータを最新の状態に維持できます。</span><span class="sxs-lookup"><span data-stu-id="1a67d-105">You can choose data - Entity store schemas or Entities, and the service keeps the data refreshed.</span></span> <span data-ttu-id="1a67d-106">エクスポート ジョブのスケジュールまたは監視は必要はありません。</span><span class="sxs-lookup"><span data-stu-id="1a67d-106">No need to schedule or monitor export jobs.</span></span> <span data-ttu-id="1a67d-107">データは Azure Data Lake に格納できます。</span><span class="sxs-lookup"><span data-stu-id="1a67d-107">Data can be stored in Azure Data Lake.</span></span> <span data-ttu-id="1a67d-108">Power BI はデータをデータ プールとして認識するので、Finance and Operations からのデータと他のソースからのデータを結合することにより、リッチなデータ マッシュアップを作成できます。</span><span class="sxs-lookup"><span data-stu-id="1a67d-108">Because the data is visible to Power BI as data pools, you can create rich data mash-ups by combining data from Finance and Operations with other sources.</span></span> <span data-ttu-id="1a67d-109">独自のデータを Azure Data Lake にインポートして、クラウド データ ウェアハウスを構築できるようになります。</span><span class="sxs-lookup"><span data-stu-id="1a67d-109">Now you can import your own data into Azure Data Lake and build your cloud data warehouse.</span></span> <span data-ttu-id="1a67d-110">データは自分の Azure サブスクリプション内にあるため、Azure Data Factory、Azure Machine Learning、Databricks、Hadoop などの他の Azure サービスを使用してデータにアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="1a67d-110">Since the data is in your own Azure subscription, the data is accessible using other Azure services such as Azure Data Factory, Azure Machine Learning, Databricks, and Hadoop.</span></span>
 

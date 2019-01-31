@@ -1,27 +1,35 @@
 ---
-title: "フロー管理コネクタ、SDK、API"
-description: "フローではすべての SDK と API が完全に文書化されます。たとえば、フロー承認 iFrame をアプリケーションに埋め込む機能や、フローをプログラムで作成または削除する機能などです。"
+title: Microsoft Flow Web API が利用可能に
+description: Microsoft Flow の API (フローをプログラムで作成、共有、削除する機能など) が文書化されました。
 author: KentWeareMSFT
-manager: KVivek
-ms.date: 11/27/2018
+ms.reviewer: deonhe
+ms.date: 01/02/2019
 ms.assetid: 417e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
-ms.author: keweare
+ms.technology: ''
+ms.author: c048022d691d492a9085a9ac20cdb5f8keweare
 audience: Power user
+ms.openlocfilehash: 76ae6004953d45d065042b3e08f7e2123607c6ba
+ms.sourcegitcommit: 851bbbbeaac02e33829dfbf5f6f8e4055acf0822
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: c8838f550dbac9d9b3e2cc11c26163367a36d0b4
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "203586"
 ---
-# <a name="flow-management-connector-sdk-and-apis"></a><span data-ttu-id="6abf7-103">フロー管理コネクタ、SDK、API</span><span class="sxs-lookup"><span data-stu-id="6abf7-103">Flow management connector, SDK, and APIs</span></span>
+# <a name="microsoft-flow-web-apis-available"></a><span data-ttu-id="8e7c6-103">Microsoft Flow Web API が利用可能に</span><span class="sxs-lookup"><span data-stu-id="8e7c6-103">Microsoft Flow Web APIs available</span></span>
 
+<span data-ttu-id="8e7c6-104">アプリケーション ライフサイクル管理タスクの自動化や、テナント内のフローのアクセス許可とガバナンスの自動化を求めるメーカーや管理者からの要望が高まっています。</span><span class="sxs-lookup"><span data-stu-id="8e7c6-104">We are seeing greater demand from makers and administrators who want to automate application lifecycle management tasks and the permissions and governance of flows within a tenant.</span></span> <span data-ttu-id="8e7c6-105">Microsoft は昨半期に、Microsoft Flow からのライフサイクル タスクを自動化できる[豊富な管理コネクタ](https://powerapps.microsoft.com/blog/new-connectors-for-powerapps-and-flow-resources/)を含む、Microsoft Flow のガバナンスについての[この詳細なガイダンス]( https://flow.microsoft.com/blog/security-governance-strategy/)をリリースしました。</span><span class="sxs-lookup"><span data-stu-id="8e7c6-105">Last semester we released [this detailed guidance]( https://flow.microsoft.com/blog/security-governance-strategy/) about governance of Microsoft Flow, including [rich management connectors](https://powerapps.microsoft.com/blog/new-connectors-for-powerapps-and-flow-resources/) that allow you to automate lifecycle tasks from  Microsoft Flow.</span></span>
 
-[!include[banner](../../includes/banner.md)]
+<span data-ttu-id="8e7c6-106">現在、組織がプロセス簡素化のための追加ツールを任意の言語で作成するために必要なすべての API の完全な文書化を進めています。</span><span class="sxs-lookup"><span data-stu-id="8e7c6-106">Now, we're fully documenting all the APIs that organizations need to build additional tooling to streamline their processes—in whatever language they want.</span></span> <span data-ttu-id="8e7c6-107">この API は、[アプリ用 Common Data Service  Web API](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webapi/perform-operations-web-api) に基づいています。</span><span class="sxs-lookup"><span data-stu-id="8e7c6-107">The APIs are based the [Common Data Service for Apps Web API](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webapi/perform-operations-web-api).</span></span> <span data-ttu-id="8e7c6-108">これには以下が含まれます。</span><span class="sxs-lookup"><span data-stu-id="8e7c6-108">They cover:</span></span>
 
-<span data-ttu-id="6abf7-104">メーカーや管理者によるアプリケーション ライフサイクル管理タスクの自動化や、テナント内のフローのアクセス許可とガバナンスの自動化について、顧客からは大きな要求がでています。</span><span class="sxs-lookup"><span data-stu-id="6abf7-104">We are seeing greater demand from customers looking for makers and administrators to automate application lifecycle management tasks and automate the permissions and governance of flows within a tenant.</span></span> <span data-ttu-id="6abf7-105">この機能の一部として、組織がプロセス簡素化のための追加ツールを作成できる API と SDK が文書化されます。</span><span class="sxs-lookup"><span data-stu-id="6abf7-105">As part of this feature, we will be documenting APIs and SDKs that allow organizations to build additional tooling to streamline their processes.</span></span>  <span data-ttu-id="6abf7-106">また、既存のフロー管理コネクタを拡張し、組織が Microsoft Flow で IT 運用を自動化できるようにします 。</span><span class="sxs-lookup"><span data-stu-id="6abf7-106">We will also be expanding upon our existing Flow management connector, allowing organizations to automate their IT operations through Microsoft Flow.</span></span>
+- <span data-ttu-id="8e7c6-109">フローの一覧表示</span><span class="sxs-lookup"><span data-stu-id="8e7c6-109">List flows</span></span>
+- <span data-ttu-id="8e7c6-110">フローの作成</span><span class="sxs-lookup"><span data-stu-id="8e7c6-110">Create a flow</span></span>
+- <span data-ttu-id="8e7c6-111">フローの更新</span><span class="sxs-lookup"><span data-stu-id="8e7c6-111">Update a flow</span></span>
+- <span data-ttu-id="8e7c6-112">フローを共有しているすべてのユーザーの取得</span><span class="sxs-lookup"><span data-stu-id="8e7c6-112">Get all users with whom a flow is shared</span></span>
+- <span data-ttu-id="8e7c6-113">フローの共有または共有解除</span><span class="sxs-lookup"><span data-stu-id="8e7c6-113">Share or unshare a flow</span></span>
+- <span data-ttu-id="8e7c6-114">フローのエクスポート</span><span class="sxs-lookup"><span data-stu-id="8e7c6-114">Export flows</span></span>
+- <span data-ttu-id="8e7c6-115">フローのインポート</span><span class="sxs-lookup"><span data-stu-id="8e7c6-115">Import flows</span></span>
 
+<span data-ttu-id="8e7c6-116">これらの API はメーカーと環境管理者の両方に役立ちます。</span><span class="sxs-lookup"><span data-stu-id="8e7c6-116">These APIs work for both makers and environment administrators.</span></span> <span data-ttu-id="8e7c6-117">これらの API は、Microsoft Flow の**ソリューション** タブに含まれるフローの管理を対象としています。</span><span class="sxs-lookup"><span data-stu-id="8e7c6-117">These APIs cover the management of flows included on the **Solutions** tab in Microsoft Flow.</span></span> <span data-ttu-id="8e7c6-118">現時点では、**マイ フロー**のフローはこれらの API でサポートされていません。</span><span class="sxs-lookup"><span data-stu-id="8e7c6-118">Currently, flows under **My Flows** are not supported by these APIs.</span></span> <span data-ttu-id="8e7c6-119">まずは、Microsoft Flow Web API について詳しく説明している[ドキュメント サイト](https://docs.microsoft.com/flow/web-api)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="8e7c6-119">Start on [our documentation site](https://docs.microsoft.com/flow/web-api) with the full Microsoft Flow Web API.</span></span>
