@@ -1,23 +1,22 @@
 ---
-title: "ビジネス エリア全体で簡素化されたワークフロー"
-description: "さまざまな一般的なユーザー タスクがより簡単になりました。"
+title: ビジネス エリア全体で簡素化されたワークフロー
+description: さまざまな一般的なユーザー タスクがより簡単になりました。
 author: bnielse
 manager: edupont04
 ms.date: 11/07/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: bnielse
 audience: developer, admin, end user, customizer, IT pro
-ms.translationtype: HT
-ms.sourcegitcommit: cdbe692282951665ec1a0d55010d4adbeddb1cba
 ms.openlocfilehash: 848e07d6bb4043fd2fbee1f753b73e3e94fc9b4c
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/07/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199848"
 ---
-
 # <a name="simpler-workflows-across-business-areas"></a>ビジネス エリア全体で簡素化されたワークフロー
 
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -103,4 +102,3 @@ EU Intrastat レポート定義には、EU ではオプションであるが、E
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralideas) をご利用ください。
-

@@ -1,22 +1,22 @@
 ---
-title: "Power Query およびデータ統合プラットフォームによるエンタープライズ データのよりシンプルかつスマートな変換と統合"
-description: "Power Query およびデータ統合プラットフォームによるエンタープライズ データのよりシンプルかつスマートな変換と統合"
+title: Power Query およびデータ統合プラットフォームによるエンタープライズ データのよりシンプルかつスマートな変換と統合
+description: Power Query およびデータ統合プラットフォームによるエンタープライズ データのよりシンプルかつスマートな変換と統合
 author: shellyhaverkamp
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 4870e3a2-ac78-4f21-be77-0ddf0ce91282
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: tpalmer
 audience: Admin
+ms.openlocfilehash: caacbc6ea7dd9868b1562d3c77d8f415124c73b9
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 0f4fb80846d9a9ab2c5b4c5b34e97357faa6fcfb
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199204"
 ---
 #  <a name="simpler-smarter-transformation-and-integration-of-enterprise-data-with-power-query-and-data-integration-platform"></a>Power Query およびデータ統合プラットフォームによるエンタープライズ データのよりシンプルかつスマートな変換と統合
 
@@ -52,7 +52,7 @@ Microsoft は、Microsoft Research 内のいくつかのプロジェクトへの
 
 ビジネス アナリストは、シングル クリックで人工知能ベースの変換にアクセスして、人工知能駆動型の分析情報を簡単に組み込むことができます。 この分野における初期段階の機能には、センチメント分析や自然言語テキストからのキーワードの抽出が含まれます。 OCR や画像分析などの他の機能は追って追加される予定です。
 
-アナリストや BI 専門家は、人工知能変換のための新しい標準機能や API にアクセスできます。 これにより、センチメント分析やキーワード抽出のための列変換が簡単になり、ボタンの 1回のクリックまたは「ApplySentimentIndex([textResponse])」のような 1 行のスクリプトで行えるようになります。
+アナリストや BI 専門家は、人工知能変換のための新しい標準機能や API にアクセスできます。 これにより、センチメント分析やキーワード抽出のための列変換が簡単になり、ボタンの 1 回のクリックまたは "ApplySentimentIndex([textResponse])" のような 1 行のスクリプトで行えるようになります。
 
 Power Query API は、Power BI アプリケーションのインストール時と構成時にも使用できるようサポートされるようになり、データフローを活用できます。 この場合、列変換のバッチ処理は、顧客の Power BI Premium 容量の一環として実行される Cognitive Services コンテナーにシームレスに誘導されます。
 
@@ -80,7 +80,7 @@ Microsoft Flow が Power Query Online と統合されたことにより、ユー
 
 ### <a name="power-query-documentation"></a>Power Query ドキュメント
 
-Microsoft Docs に Power Query のセクションが追加されました。 これらのドキュメントには、Power Query 用のカスタム コネクタを作成するためのサンプル、チュートリアル、ハウツー、開発者向けリファレンスが含まれます。 Power Query で使用されている言語である M での作業に関心のある開発者やエンド ユーザーは、ここで多くの質問への回答を得ることができます。
+Microsoft Docs に Power Query のセクションが追加されました。 これらのドキュメントには、Power Query 用のカスタム コネクタを作成するためのサンプル、チュートリアル、ハウツー ガイド、開発者向けリファレンスが含まれます。 Power Query で使用されている言語である M での作業に関心のある開発者やエンド ユーザーは、ここで多くの質問への回答を得ることができます。
 
 ### <a name="power-query-community-website"></a>Power Query コミュニティ Web サイト
 
@@ -122,6 +122,5 @@ SAP は、**SAP HANA と SAP BW で Microsoft のコネクタを認定してい�
 2018 年 5 月、この機能と既存の Get Data エクスペリエンスとの整合性が図られ、既存の標準コネクタとのシームレスなエクスペリエンスを実現して、シングル クリックで利用できるコネクタの数が大幅に増えました。
 
 2018 年 10 月、この機能は一般に提供されるようになり、Power BI はエンド ユーザーに新しい認定されたカスタム コネクタを定期的に提供するようになります。 コネクタ認定プログラムの詳細については、[こちら](https://docs.microsoft.com/en-us/power-query/connectorcertification)の Power Query ドキュメントを参照してください。
-
 
 

@@ -1,21 +1,20 @@
 ---
-title: "2018 年 10 月の変更履歴"
-description: "変更履歴"
+title: 2018 年 10 月の変更履歴
+description: 変更履歴
 author: Annbe
 manager: AnnBe
-ms.date: 12/03/2018
-ms.assetid: 
+ms.date: 01/18/2019
+ms.assetid: ''
 ms.topic: article
 ms.author: renwe@microsoft.com
 ms.service: business-applications
+ms.openlocfilehash: f7140172c3112c6e308da053779366f03f1b3fc5
+ms.sourcegitcommit: ec7924ecb67d29781917079ab15a41741aa7392d
 ms.translationtype: HT
-ms.sourcegitcommit: 6b6290afd87b7786a135a154041de9416f0dbc7f
-ms.openlocfilehash: ed838bfc5b48c89a4d61180fa39f849675a6ab87
-ms.contentlocale: ja-jp
-ms.lasthandoff: 12/05/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/21/2019
+ms.locfileid: "216887"
 ---
-
 # <a name="change-history"></a>変更履歴
 
 このトピックは、機能が追加された場合、または機能のリリース日が変更された場合に更新されます。 リリース ノートに対する更新について確認できるようにするには、Twitter で [@MSFTDynamics365](https://twitter.com/MSFTDynamics365) をフォローしてください。
@@ -83,23 +82,23 @@ ms.lasthandoff: 12/05/2018
 > [!div class="mx-tableFixed"]
 > | 機能 | 追加された日付 |
 > |---------|------------|
-> | [ステータスに対して投票を有効にする - Dynamics 365 ポータル](service/dynamics365-portal/enable-voting-for-status-reasons.md) | 9 月 24 日 |
+> | [ステータスに対して投票を有効にする - Dynamics 365 Portal](service/dynamics365-portal/enable-voting-for-status-reasons.md) | 9 月 24 日 |
 > | [リソース スケジュール最適化のその他の機能拡張](service/field-service/resource-scheduling-optimization-rso/rso-other-enhancements.md )        |  10 月 19 日          |
+> | Geofencing - Field Service Mobile        |  12 月 11 日          |
 
 
 ### <a name="release-date-changed"></a>リリース日の変更
 > [!div class="mx-tableFixed"]
 > | 機能 |    変更  | 変更日付 | 
 > |---------|----|----------|
-> | [セルフサービス ポータル診断 - Dynamics 365 ポータル](service/dynamics365-portal/self-service-portal-diagnostics.md) |  2018 年 10 月から 2019 年 1 月に変更されました | 9 月 24 日   |
+> | [セルフサービス ポータル診断 - Dynamics 365 Portal](service/dynamics365-portal/self-service-portal-diagnostics.md) |  2018 年 10 月から 2019 年 1 月に変更されました | 9 月 24 日   |
 > | [SMS チャネル](service/customer-service-omni-channel-release-notes/sms-channel-omni-channel-engagement-hub.md) | 目標リリース月が 2018 年 12 月から 2019 年 2 月に変更されました | 11 月 3 日 |
 > | [Channel Integration Framework](service/customer-service-omni-channel-release-notes/channel-integration-framework.md) | 目標リリース月が 2018 年 10 月から 2018 年 11 月に変更されました | 11 月 3 日 |
-> | [お客様が自分のボットを持ち込める機能](service/customer-service-omni-channel-release-notes/customer-owned-bots-omni-channel-engagement-hub.md) | 目標リリース月が 2018 年 12 月から 2019 年 1 月に変更されました | 11 月 3 日 |  
 > | [権利の管理 - Field Service アプリケーション](service/field-service/entitlement-management.md) | 2018 年 11 月から 2018 年 12 月に変更されました | 11 月 7 日 |
 > | [SLA 管理 - Field Service アプリケーション](service/field-service/sla-management.md)  | 2018 年 11 月から 2018 年 12 月に変更されました | 11 月 7 日 |
-> | [Microsoft Bot Framework との統合 - Field Service Mobile](service/field-service/field-service-mobile/microsoft-bot-framework-integration.md) | 2018 年 11 月から 2018 年 12 月に変更されました | 11 月 7 日 |
-> | [バックグラウンドでの位置情報の共有 - Field Service Mobile](service/field-service/field-service-mobile/background-location-sharing.md) | 2018 年 11 月から 2018 年 12 月に変更されました | 11 月 7 日 |
-> | [プッシュ通知 - Field Service Mobile](service/field-service/field-service-mobile/push-notifications.md) | 2018 年 11 月から 2018 年 12 月に変更されました | 11 月 7 日 |
+> | Microsoft Bot Framework - Field Service モバイルとの統合 | 2018 年 11 月から 2018 年 12 月に変更されました | 11 月 7 日 |
+> | [バックグラウンドでの位置情報の共有 - Field Service モバイル](service/field-service/field-service-mobile/background-location-sharing.md) | 2018 年 11 月から 2018 年 12 月に変更されました | 11 月 7 日 |
+> | [プッシュ通知 - Field Service モバイル](service/field-service/field-service-mobile/push-notifications.md) | 2018 年 11 月から 2018 年 12 月に変更されました | 11 月 7 日 |
 > | [拡張可能なリソースの空き時間 - URS](service/field-service/universal-resource-scheduling-urs/extensibility-hook-resource-availability.md)   | 2018 年 11 月から 2019 年 1 月に変更されました | 11 月 7 日 |
 > | [フォーム内スケジューリング - URS](service/field-service/universal-resource-scheduling-urs/in-form-scheduling.md)  | 2018 年 11 月から 2019 年 1 月に変更されました | 11 月 7 日 |
 > | [PowerApps サンプル アプリ - URS](service/field-service/universal-resource-scheduling-urs/powerapps-sample-app.md)  | 2018 年 11 月から 2019 年 1 月に変更されました | 11 月 7 日 |
@@ -107,12 +106,34 @@ ms.lasthandoff: 12/05/2018
 > | リソース稼働率ビュー - URS | 2018 年 11 月から 2019 年 1 月に変更されました | 11 月 7 日 |
 > | [URS のお客様主導による製品機能強化](service/field-service/universal-resource-scheduling-urs/urs-customer-driven-product-enhancements.md) | 2018 年 11 月から 2019 年 1 月に変更されました | 11 月 7 日 |
 > | [権利の管理 - Field Service アプリケーション](service/field-service/entitlement-management.md) | 2018 年 12 月から 2019 年 1 月に変更されました | 11 月 14 日 | 
+> | [Omni-channel Engagement Hubスーパーバイザー エクスペリエンス](service/customer-service-omni-channel-release-notes/supervisor-experience.md)|2018 年 12 月のパブリック プレビューからプライベート プレビューに変更されました|12 月 4 日|
+> | [バックグラウンドでの位置情報の共有 - Field Service モバイル](service/field-service/field-service-mobile/background-location-sharing.md) | 2018 年 12 月から 2019 年 1 月に変更されました | 12 月 11 日 | 
+> | [拡張可能なリソースの空き時間 - URS](service/field-service/universal-resource-scheduling-urs/extensibility-hook-resource-availability.md)   | 2019 年 1 月から 2019 年 3 月に変更されました | 12 月 11 日 |
+> | [クイック スケジューリング - URS](service/field-service/universal-resource-scheduling-urs/in-form-scheduling.md)  | 2019 年 1 月から 2019 年 3 月に変更されました | 12 月 11 日 |
+> | [PowerApps サンプル アプリ - URS](service/field-service/universal-resource-scheduling-urs/powerapps-sample-app.md)  | 2019 年 1 月から 2019 年 3 月に変更されました | 12 月 11 日 |
+> | [セルフサービス スケジュールの API - URS](service/field-service/universal-resource-scheduling-urs//self-service-scheduling-apis.md) | 2019 年 1 月から 2019 年 3 月に変更されました | 12 月 11 日 |
+> | [URS のお客様主導による製品機能強化](service/field-service/universal-resource-scheduling-urs/urs-customer-driven-product-enhancements.md) | 2019 年 1 月から 2019 年 3 月に変更されました | 12 月 11 日 |
+> | [エージェント エクスペリエンス](service/customer-service-omni-channel-release-notes/agent-experience.md) | 目標リリース月が 2018 年 12 月から 2019 年 1 月に変更されました | 12 月 19 日 |
+> | [スーパーバイザー エクスペリエンス](service/customer-service-omni-channel-release-notes/supervisor-experience.md) | 目標リリース月が 2018 年 12 月から 2019 年 1 月に変更されました | 12 月 19 日 |
+> | [統合されたルーティングと作業の配分](service/customer-service-omni-channel-release-notes/unified-routing-work-distribution.md) | 目標リリース月が 2018 年 12 月から 2019 年 1 月に変更されました | 12 月 19 日 |
+> | [ライブ チャット チャネル](service/customer-service-omni-channel-release-notes/chat-channel-omni-channel-engagement-hub.md) | 目標リリース月が 2018 年 12 月から 2019 年 1 月に変更されました | 12 月 19 日 |
+> | [権利の管理 - Field Service アプリケーション](service/field-service/entitlement-management.md) | 2019 年 1 月から 2019 年 2 月に変更されました | 1 月 14 日 | 
+> | お客様が自分のボットを持ち込める機能 - Omni-channel Engagement Hub | 2019 年 1 月から 2019 年 4 月に変更されました | 1 月 18 日 | 
 
 ### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 > [!div class="mx-tableFixed"]
 > | 機能 | 削除日付 |
 > |---------|------------|
 > | One Admin Center での顧客サービスの正常性      |   11 月 22 日         |
+> | Microsoft Bot Framework - Field Service モバイルとの統合 | 12 月 11 日 | 
+> | スケジューリングのためのサンプル キャンバス PowerApp - Universal Resource Scheduling | 1 月 15 日 | 
+> | スケジュール ボードでの追加の拡張性 - Universal Resource Scheduling | 1 月 15 日 | 
+
+### <a name="feature-description-changed"></a>機能の説明の変更
+> [!div class="mx-tableFixed"]
+> | 機能 | 変更日付 |
+> |---------|--------------|
+> | [クイック スケジューリング - URS](service/field-service/universal-resource-scheduling-urs/in-form-scheduling.md)  | 12 月 11 日 |
 
 
 ## <a name="finance-and-operations"></a>Finance and Operations
@@ -136,6 +157,7 @@ ms.lasthandoff: 12/05/2018
 > |[「次の値のいずれか」演算子を使用して Excel からフィルター フィールドに一覧を貼り付ける](dynamics365-finance-operations/paste-filter-lists-from-excel.md) | 11 月 1 日 |
 > |[マスター プランの再開](dynamics365-finance-operations/resume-master-planning.md) | 11 月 29 日 |
 > |[グリッド列ヘッダーを使用した法人のフィルタリング](dynamics365-finance-operations/legal-entity-filtering.md) | 12 月 3 日|
+> |[督促状](dynamics365-finance-operations/collection-letters.md) | 12 月 14 日 |
 
 ### <a name="release-date-changed"></a>リリース日の変更
 > [!div class="mx-tableFixed"]
@@ -156,7 +178,15 @@ ms.lasthandoff: 12/05/2018
 > |[Dynamics Translation Service 使用状況の指標](dynamics365-finance-operations/translation-service.md)  | 目標リリース月を「未定」に変更しました。 | 11 月 9 日 |
 > |[バリアントの測定単位換算](dynamics365-finance-operations/uom.md)|目標リリース月を未定に変更しました | 11 月 27 日|
 > |[Excel への最大 100 万行のエクスポート](dynamics365-finance-operations/export-more-rows.md) | 目標リリース月を 2018 年 12 月 - 2019 年 1 月に変更しました | 12 月 3 日 |
-
+> |[残余の決済](dynamics365-finance-operations/settle-remainder.md)| 未定から 2019 年 1 月に変更されました| 12 月 14 日|
+> |[ハイパーリンクのクリック動作を他の Office 製品と統一する](dynamics365-finance-operations/hyperlink-behavior.md)| 日付を "未定" に変更しました。 | 12 月 18 日|
+> |[開発者が定義するカスタム ショートカット](dynamics365-finance-operations/custom-shortcuts.md)| 日付を "未定" に変更しました。 | 12 月 18 日|
+> |[フィルター処理の機能強化](dynamics365-finance-operations/filtering-enhancements.md)| 日付を "未定" に変更しました。 | 12 月 18 日|
+> |[グリッドでのグループ化](dynamics365-finance-operations/grouping-in-grids.md)| 日付を "未定" に変更しました。 | 12 月 18 日|
+> |[グリッドでの一括更新](dynamics365-finance-operations/mass-update.md)| 日付を "未定" に変更しました。 | 12 月 18 日|
+> |[新しい機能強化されたグリッド コントロール](dynamics365-finance-operations/new-grid-control.md)| 日付を "未定" に変更しました。 | 12 月 18 日|
+> |[保存されているビュー](dynamics365-finance-operations/saved-views.md)| 日付を "未定" に変更しました。 | 12 月 18 日|
+> |[グリッドの合計](dynamics365-finance-operations/grid-totals.md)| 日付を "未定" に変更しました。 | 12 月 18 日|
 
 ### <a name="feature-description-changed"></a>機能の説明の変更
 > [!div class="mx-tableFixed"]
@@ -178,6 +208,7 @@ ms.lasthandoff: 12/05/2018
 > |[プラットフォーム拡張性の機能強化ウェーブ 2](dynamics365-finance-operations/platform-extensibility2.md) | 11 月 5 日 |
 > |[CW](dynamics365-finance-operations/catch-weight.md) | 11 月 30 日 |
 > |[Excel への最大 100 万行のエクスポート](dynamics365-finance-operations/export-more-rows.md) | 12 月 3 日 |
+> |[モバイル プロジェクト タイムシート](dynamics365-finance-operations/mobile-project-timesheets.md) | 1 月 7 日|
 
 
 ### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
@@ -207,7 +238,8 @@ ms.lasthandoff: 12/05/2018
 > |---------|------------|----------|
 > | ISO および SOC の認証を取得した Talent     |  この機能は削除されていません。 Talent は既に ISO 認証取得済み (27001、20017、27018) であり、SOC の認証は 2018 年の第 4 四半期に取得の予定です。   |  7 月 25 日          |
 > | 会社ベースの職務と職位 |            |  8 月 3 日 | 
-> | Skype 面接 |                |    9 月 1 日 |   
+> | Skype での面接 |                |    9 月 1 日 |  
+> | レポートと分析 |                 |  12 月 26 日   |
 
 ### <a name="release-date-changed"></a>リリース日の変更
 > [!div class="mx-tableFixed"]
@@ -249,12 +281,17 @@ ms.lasthandoff: 12/05/2018
 > |[ロイヤルティの機能強化ウェーブ 2](dynamics365-retail/loyalty-november-18.md)    |   11 月 13 日   |
 > |[e コマースでのサンプル注文のサポート](dynamics365-retail/ecommerce-zero-dollar-order-support.md) |11 月 21 日  |
 > |[注文属性](dynamics365-retail/order-attributes.md) |11 月 29 日  |
+> |[オムニチャネル注文処理の向上](dynamics365-retail/improved-omni-channel-order-processing.md) | 1 月 11 日   |
+> |[領収書のない返品に対する支払方法の制限](dynamics365-retail/returns-without-receipt.md)  | 1 月 17 日 |
+> |[小売顧客に対するギフト カード残高のキャッシュ アウト](dynamics365-retail/giftcard-cashout.md) | 1 月 17 日 |
+
 
 ### <a name="feature-description-changed"></a>機能の説明の変更
 > [!div class="mx-tableFixed"]
 > | 機能 | 変更  | 変更日付 | 
 > |---------|----|----------|
-> | [拡張性の向上](dynamics365-retail/improved-extensibility.md)     | 新しい拡張機能を含むように説明が更新されました | 11 月 9 日    |
+> |[拡張性の向上](dynamics365-retail/improved-extensibility.md)     | 新しい拡張機能を含むように説明が更新されました | 11 月 9 日    |
+> |[営業時間](dynamics365-retail/store-hours.md)  | 機能の説明を更新しました | 1 月 17 日  |
 
 ### <a name="release-date-changed"></a>リリース日の変更
 > [!div class="mx-tableFixed"]
@@ -266,6 +303,17 @@ ms.lasthandoff: 12/05/2018
 > |[支払いコネクタ](dynamics365-retail/payment-connector.md)         | オンプレミスの目標リリース日が 2018 年 10 月から 2018 年 11 月に変更されました      |  10 月 25 日        |
 > |[拡張性の向上](dynamics365-retail/improved-extensibility.md)     | 目標リリース日が 2018 年 10 月から 2018 年 11 月 15 日に変更されました | 11 月 9 日 |
 > |[オムニチャネル自動請求](dynamics365-retail/omni-channel-auto-charges.md)     | 目標リリース日が 2019 年 2 月から 2019 年 1 月 21 日に変更されました |11 月 21 日 |
+> |[営業時間](dynamics365-retail/store-hours.md)  | 目標リリース日が 2018 年 10 月から 2019 年 1 月に変更されました | 1 月 17 日  |
+
+### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
+> [!div class="mx-tableFixed"]
+> | 機能 | 削除日付 |
+> |---------|------------|
+> | オムニチャネル注文処理の向上 | 11 月 30 日 |
+> | イタリア向け会計プリンターの統合のサンプルの拡張 | 11 月 30 日 |
+> | オーストリア向け会計サービスの統合のサンプル | 11 月 30 日 |
+
+
 ## <a name="powerapps"></a>PowerApps
 
 ### <a name="feature-description-changed"></a>機能の説明の変更
@@ -286,12 +334,9 @@ ms.lasthandoff: 12/05/2018
 > | カスタム メッセージのサポート |  | 11 月 14 日  | 
 > | アプリの速度の向上 |  | 11 月 14 日 |
 > | サービス正常性ページの強化 | | 11 月 27 日 |
-> | PowerApps 監査イベント | | 11 月 27 日 |
 > | 簡略化されたギャラリー、フォーム、およびデータ テーブル フィールドの選択とバインド | | 11 月 27 日 |
 > | 式バーの機能拡張 | 次の半期に移動されました | 11 月 26 日 |
-> | オムニチャネル注文処理の向上 | 2019 年 4 月のリリース ノートに移動されました | 11 月 30 日 |
-> | イタリア向け会計プリンターの統合のサンプルの拡張 | 2019 年 4 月のリリース ノートに移動されました | 11 月 30 日 |
-> | オーストリア向け会計サービスの統合のサンプル | 2019 年 4 月のリリース ノートに移動されました | 11 月 30 日 |
+> | モデル駆動型モバイル アプリケーションの信頼性向上 | | 1 月 11 日 |
 
 ### <a name="release-date-changed"></a>リリース日の変更
 > [!div class="mx-tableFixed"]
@@ -299,28 +344,18 @@ ms.lasthandoff: 12/05/2018
 > |---------|----|----------|
 > | [新機能の概要](powerapps/planned-features.md) | 2018 年 10 月の GA (一般提供) としてすべての機能が一覧表示されていたエラーを修正しました。 目標リリース月、リリースの種類、またはその両方を修正するために、13 の機能が更新されました。 | 8 月 2 日   |
 > | [新機能のオプトイン](powerapps/opting-into-new-features.md) |  2018 年 10 月から 2018 年 12 月に変更されました |  8 月 8 日    |
-> | [モデル駆動型ビュー デザイナーの機能強化](powerapps/model-driven-view-designer-enhancements.md) | GA (一般提供) からパブリック プレビューに変更 | 8 月 8 日    |
 > | [Power プラットフォーム管理センターからの管理設定の管理](powerapps/admin-experiences-available-from-unified-interface.md) |  GA (一般提供) からパブリック プレビューに変更 | 9 月 12 日        |
-> | [埋め込みキャンバス アプリによる Dynamics 365 エンティティ フォームの拡張](powerapps/extend-dynamics-365-entity-forms-with-embedded-canvas-apps.md) |  2018 年 10 月から 2018 年 11 月に変更されました | 10 月 2 日          |
-> | [エンティティ間の高度なリレーションシップ](powerapps/advanced-relationships-on-entities.md) | 2018 年 10 月から 2019 年 1 月に変更されました | 11 月 14 日 |
-> | [キャンバス アプリによるエラーの捕捉、処理、レポートとデータベースへの Null 値の書き込み](powerapps/catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps.md) | 2018 年 11 月から 2018 年 12 月に変更されました | 11 月 14 日  |
 > | [依存オプション セットの構成](powerapps/configure-dependent-optionsets.md) | 2018 年 10 月から 2019 年 1 月に変更されました | 11 月 14 日  |
 > | [エンティティからの関連フローの作成と表示](powerapps/create-and-view-related-flows-from-your-entity.md) | 2018 年 10 月から 2019 年 1 月に変更されました | 11 月 14 日 |
-> | [自動採番の作成](powerapps/create-automatic-number-sequences.md) | 2018 年 12 月から 2019 年 1 月に変更されました | 11 月 14 日  |
 > | [レスポンシブ レイアウトでのキャンバス アプリの作成](powerapps/create-canvas-apps-with-responsive-layout.md) | 2018 年 11 月から 2019 年 1 月に変更されました | 11 月 14 日 |
-> | [同じツールでのエンティティとアプリの作成](powerapps/create-and-edit-your-entities-in-canvas-studio-while-building-an-app.md) | 2018 年 12 月から 2019 年 1 月に変更されました | 11 月 14 日 |
 > | [アプリ用 Common Data Service のデータを使用した Power BI レポートの作成](powerapps/create-powerbi-reports-using-data-in-the-common-data-service-for-apps.md) | 2018 年 10 月から 2019 年 3 月に変更されました | 11 月 14 日 |
 > | [Power BI 内の PowerApps のより深い統合 ](powerapps/deeper-powerapps-integration-in-powerbi.md) | 2018 年 10 月から 2018 年 12 月に変更されました | 11 月 14 日 |
 > | [カスケード ドロップダウンとフィールドの条件付き表示の構成がより簡単に](powerapps/easier-to-configure-cascading-dropdowns-and-conditional-field-visibility.md) | 2018 年 12 月から 2019 年 1 月に変更されました | 11 月 14 日 |
-> | [埋め込みキャンバス アプリによる Dynamics 365 エンティティ フォームの拡張](powerapps/extend-dynamics-365-entity-forms-with-embedded-canvas-apps.md) | 2018 年 11 月から 2018 年 12 月に変更されました | 11 月 14 日  |
 > | [Access ユーザー向けのヘルプの向上](powerapps/improved-help-for-access-users.md) | 2018 年 10 月から 2018 年 12 月に変更されました | 11 月 14 日  |
-> | [モデル駆動型ビュー デザイナーの機能強化](powerapps/model-driven-view-designer-enhancements.md) | 2018 年 10 月から 2018 年 11 月に変更されました | 11 月 14 日  |
-> | [新しいモデル駆動型フォーム デザイナー](powerapps/new-model-driven-form-designer-preview.md) | 2018 年 11 月から 2018 年 12 月に変更されました | 11 月 14 日  |
 > | [キャンバス アプリの共有の拡張](powerapps/sharing-enhancements-for-canvas-apps.md) | 2018 年 10 月から 2018 年 11 月に変更されました | 11 月 14 日  |
 > | [エンティティでの簡略化された検索フィールドの作成](powerapps/simplified-lookup-field-creation-on-entities.md) | 2018 年 10 月から 2019 年 1 月に変更されました | 11 月 14 日  |
 > | [エンティティの詳細プロパティの管理を簡略化](powerapps/simplified-management-of-advanced-entity-properties.md) | 2018 年 12 月から 2019 年 1 月に変更されました | 11 月 14 日  |
 > | [アプリ用 Common Data Service または SharePoint を使用している場合にキャンバス アプリでわかりやすい表示名を使用する](powerapps/work-with-friendly-display-names-in-canvas-apps-when-using-the-common-data-service-or-sharepoint.md) | 2018 年 10 月から 2019 年 1 月に変更されました | 11 月 14 日  |
-> | [ソリューション チェッカーを使用した高品質なモデル駆動型アプリの構築](powerapps/build-model-driven-apps-of-higher-quality-with-solution-checker.md) | 2018 年 10 月の一般提供から 2018 年 11 月のパブリック プレビューへの変更 | 11 月 14 日  |
 > | [Dynamics 365 用の Outlook Client v8.2 の信頼性の向上](powerapps/more-reliable-outlook-client-v8.2-for-dynamics-365.md) | 2018 年 10 月から 2018 年 12 月に変更されました | 11 月 14 日  |
 > | [Dynamics 365 用の Outlook Client v9.0 の信頼性の向上](powerapps/more-reliable-outlook-client-v9.0-for-dynamics-365.md) | 2018 年 10 月から 2018 年 12 月に変更されました | 11 月 14 日  |
 > | [Dynamics 365 の関連設定検索の強化](powerapps/set-regarding-lookup-enhancements-in-common-data-service.md) | 2018 年 10 月から 2018 年 11 月に変更されました | 11 月 14 日  |
@@ -328,7 +363,14 @@ ms.lasthandoff: 12/05/2018
 > | [新しい管理者向け分析レポート](powerapps/new-admin-analytics-reports.md) | 一般提供からパブリック プレビューに変更されました | 11 月 14 日  |
 > | [キャンバス アプリでの Common Data Service データ型のネイティブ サポート](powerapps/native-support-for-common-data-service-data-types-in-canvas-apps.md) | 一般提供からパブリック プレビューに変更されました | 11 月 27 日  |
 > | [キャンバス アプリによるエラーの捕捉、処理、レポートとデータベースへの Null 値の書き込み](powerapps/catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps.md) | 2018 年 12 月から 2019 年 2 月に変更されました | 11 月 27 日 |
-> | [Dynamics 365 Mobile が電子メール ログオンをサポート](powerapps/dynamics-365-mobile-support-email-login.md) | 2019 年 1 月から 2019 年 2 月に変更されました | 11 月 27 日 |
+> | [モバイル デバイスでの Dynamics 365 へのサインインがより簡単に](powerapps/dynamics-365-mobile-support-email-login.md) | 次の半期に移動されました | 1 月 11 日 |
+> | [エンティティ間の高度なリレーションシップ](powerapps/advanced-relationships-on-entities.md) | 2019 年 1 月から 2019 年 2 月に変更されました | 1 月 11 日 |
+> | [自動採番の作成](powerapps/create-automatic-number-sequences.md) | 2019 年 1 月から 2019 年 2 月に変更されました | 1 月 11 日 |
+> | [同じツールでのエンティティとアプリの作成](powerapps/create-and-edit-your-entities-in-canvas-studio-while-building-an-app.md) | 2019 年 1 月から 2019 年 2 月に変更されました | 1 月 11 日 |
+> | [モデル駆動型ビュー デザイナーの機能強化](powerapps/model-driven-view-designer-enhancements.md) | 2018 年 11 月から 2018 年 12 月に変更されました | 1 月 11 日 |
+> | [ソリューション チェッカーを使用した高品質なモデル駆動型アプリの構築](powerapps/build-model-driven-apps-of-higher-quality-with-solution-checker.md) | 2018 年 11 月から 2018 年 12 月に変更されました | 1 月 11 日 |
+> | [埋め込みキャンバス アプリによる Dynamics 365 エンティティ フォームの拡張](powerapps/extend-dynamics-365-entity-forms-with-embedded-canvas-apps.md) | 2018 年 12 月から 2019 年 1 月に変更されました | 1 月 11 日 |
+> | [新しいモデル駆動型フォーム デザイナー](powerapps/new-model-driven-form-designer-preview.md) | 2018 年 12 月から 2019 年 1 月に変更されました | 1 月 11 日 |
 
 ## <a name="microsoft-flow"></a>Microsoft Flow
 
@@ -366,13 +408,13 @@ ms.lasthandoff: 12/05/2018
 > | [モバイル デバイスのデバイス シグナルの利用](microsoft-flow/leverage-device-signals-on-mobile-devices.md) |  2018 年 10 月から 2018 年 11 月に変更されました | 10 月 3 日   |
 > | [Visio でのデザイン フロー](microsoft-flow/design-flows-in-visio.md) | 2018 年 10 月から 2018 年 12 月に変更されました | 10 月 3 日     |
 > | [フローによる SharePoint コンテンツ承認のカスタマイズ](microsoft-flow/customize-sharepoint-content-approvals-with-flow.md) |  2018 年 10 月から 2018 年 11 月に変更されました | 10 月 22 日   |
-> | [OneDrive for Business のフロー起動パネル](microsoft-flow/onedrive-for-business-flow-launch-panel.md) |  2018 年 10 月から 2018 年 12 月に変更されました | 10 月 22 日   |
+> | [OneDrive for Business Flow 起動パネル](microsoft-flow/onedrive-for-business-flow-launch-panel.md) |  2018 年 10 月から 2018 年 12 月に変更されました | 10 月 22 日   |
 > | [OneDrive for Business 要求のサインオフ](microsoft-flow/onedrive-for-business-request-sign-off.md) | 2018 年 10 月から 2018 年 12 月に変更されました | 10 月 22 日     |
 > | [Flow for SharePoint の管理シナリオ](microsoft-flow/flow-for-sharepoint-admin-scenarios.md) |  2018 年 10 月から 2018 年 12 月に変更されました | 10 月 22 日   |
 > | [SharePoint リマインダー](microsoft-flow/sharepoint-remind-me.md) |  2018 年 10 月から 2018 年 12 月に変更されました | 10 月 22 日   |
 > | [Microsoft Teams が Flow をボットとして使用](microsoft-flow/microsoft-teams-uses-flow-as-a-bot.md) | 2018 年 10 月から 2018 年 12 月に変更されました | 10 月 22 日     |
 > | [米国政府機関クラウドの展開](microsoft-flow/us-government-cloud-deployment.md) |  2018 年 10 月から 2018 年 11 月に変更されました | 10 月 28 日   |
-> | [フロー ボタンの機能拡張](microsoft-flow/flow-button-enhancements.md) | 2018 年 10 月から 2018 年 11 月に変更されました | 10 月 28 日     |
+> | [Flow ボタンの機能拡張](microsoft-flow/flow-button-enhancements.md) | 2018 年 10 月から 2018 年 11 月に変更されました | 10 月 28 日     |
 > | [フロー管理コネクタ、SDK、API](microsoft-flow/flow-management-connector-sdk-and-apis.md) | 2018 年 10 月から 2018 年 11 月に変更されました | 11 月 8 日     |
 > | [業務プロセス フロー内のカスタム コントロール](microsoft-flow/custom-controls-in-business-process-flows.md)  |  2018 年 10 月から 2018 年 11 月に変更されました | 11 月 8 日   |
 > | [フロー デザイナーへのヘルプとサポートのエクスペリエンスの統合](microsoft-flow/flow-support-help-inside-of-the-flow-designer.md) | 2018 年 10 月から 2018 年 11 月に変更されました | 11 月 8 日     |
@@ -387,6 +429,8 @@ ms.lasthandoff: 12/05/2018
 > | [レポート間でのコピーと貼り付け](intelligence-platform/power-bi-desktop/copy-paste-across-reports.md)  | 10 月 10 日 |
 > | [新しいフィルタリング エクスペリエンス](intelligence-platform/power-bi-desktop/new-filtering-experience.md)| 10 月 10 日 |
 > | [フィルター カードの検索](intelligence-platform/power-bi-desktop/search-in-filter-cards.md) |  10 月 10 日 |
+> | [スマート配置ガイド](intelligence-platform/power-bi-desktop/smart-alignment-guides.md) |  11 月 29 日  |
+> | [データ エクスポートのレポートごとの制御](intelligence-platform/power-bi-desktop/per-report-control-data-export.md) |  11 月 29 日 |
 
 ### <a name="release-date-changed"></a>リリース日の変更
 > [!div class="mx-tableFixed"]
@@ -402,10 +446,22 @@ ms.lasthandoff: 12/05/2018
 > | [メジャーをクリック可能な URL として表示する](https://docs.microsoft.com/business-applications-release-notes/April18/power-bi/desktop/show-measures-clickable-urls) |  2018 年 10 月から 2018 年 8 月に変更され、2018 年 4 月のリリース ノートに移動されました |  8 月 30 日      |
 > | [レポート レベルとビジュアル コンテナーのスタイルをカバーしたテーマ化](https://docs.microsoft.com/business-applications-release-notes/April18/power-bi/desktop/theming-over-report-level-visual-container-styles) | 2018 年 10 月から 2018 年 8 月に変更され、2018 年 4 月のリリース ノートに移動されました | 8 月 30 日     |
 > | [テーマ化の一般提供](https://docs.microsoft.com/business-applications-release-notes/April18/power-bi/desktop/theming-general-availability) | 2018 年 10 月から 2018 年 8 月に変更され、2018 年 4 月のリリース ノートに移動されました |  8 月 30 日       |
-> | [マトリックスのビジュアルの展開と折りたたみ](intelligence-platform/power-bi-desktop/expand-collapse-matrix.md) | 2018 年 10 月から 2018 年 11 月に変更されました | 10 月 10 日 |
+> |[セルフサービスのデータ準備](intelligence-platform/power-bi-service/self-service-data-prep.md)  |2018 年 10 月から 2018 年 11 月に変更されました   |10 月 10 日    |
+> |[Azure 統合](intelligence-platform/power-bi-service/azure-integration.md)  |2018 年 10 月から 2018 年 11 月に変更されました   |10 月 10 日    |
+> | [計算されたエンティティ](intelligence-platform/power-bi-service/computed-entities.md)  |2018 年 10 月から 2018 年 11 月に変更されました   |10 月 10 日    |
+> | [リンクしているエンティティ](intelligence-platform/power-bi-service/linked-entities.md)  |2018 年 10 月から 2018 年 11 月に変更されました   |10 月 10 日    |
+> | [データフローの更新](intelligence-platform/power-bi-service/dataflow-refresh.md)  |2018 年 10 月から 2018 年 11 月に変更されました   |10 月 10 日    |
+> | [Premium 容量に対するデータフロー](intelligence-platform/power-bi-service/dataflows-on-premium-capacity.md)  |2018 年 10 月から 2018 年 11 月に変更されました   |10 月 10 日    |
+> | [アド ホック探索](intelligence-platform/power-bi-desktop/adhoc-exploration.md) | 2018 年 10 月から 2019 年 3 月に変更されました | 10 月 10 日 |
+> | [マトリックスのビジュアルの展開と折りたたみ](intelligence-platform/power-bi-desktop/expand-collapse-matrix.md) | 2018 年 10 月から 2018 年 11 月パブリック プレビューに変更されました | 10 月 10 日 |
+> | [式ベースの書式設定](intelligence-platform/power-bi-desktop/expression-based-formatting.md)| 2018 年 10 月から 2019 年 3 月に変更されました | 10 月 10 日 |
 > | [非加法メジャーのクイック分析情報](intelligence-platform/power-bi-desktop/non-additive-measure-insights.md) | パブリック プレビューから一般提供に変更されました| 10 月 10 日 |
+> |[マトリックスのビジュアルの展開と折りたたみ](intelligence-platform/power-bi-desktop/expand-collapse-matrix.md)   |2018 年 11 月プライベート プレビューから一般提供に変更されました   |11 月 29 日    | 
+> |[レポート間でのコピーと貼り付け](/intelligence-platform/power-bi-desktop/copy-paste-across-reports.md)   |2018 年 11 月パブリック プレビューから一般提供に変更されました  |11 月 29 日    | 
+> |[アクセシビリティ - ユーザーはキーボード ナビゲーションとスクリーン リーダーを使用して Power BI Desktop を操作可能](intelligence-platform/power-bi-desktop/desktop-accessibility.md)   |2018 年 12 月パブリック プレビューから一般提供に変更されました   |11 月 29 日    |
 > | [新しいフィルタリング エクスペリエンス](intelligence-platform/power-bi-desktop/new-filtering-experience.md) | 2019 年 3 月から 2018 年 11 月に変更されました| 12 月 4 日 |
 > | [式ベースの書式設定](intelligence-platform/power-bi-desktop/expression-based-formatting.md)| 2019 年 3 月から 2019 年 4 月に変更されました | 12 月 4 日 |
+
 
 
 ### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
@@ -440,6 +496,8 @@ ms.lasthandoff: 12/05/2018
 > |[個人用ブックマーク](intelligence-platform/power-bi-service/personal-bookmarks.md)  |2018 年 11 月から 2018 年 12 月に変更されました  | 11 月 13 日 |
 > |[ホーム](intelligence-platform/power-bi-service/power-bi-home.md)  |2018 年 10 月の一般提供から 2018 年 10 月のプレビューに変更されました | 11 月 15 日 |
 > |[埋め込みコードのセキュリティ保護](intelligence-platform/power-bi-service/secure-embed.md)   |2018 年 11 月から 2019 年 1 月に変更されました   |11 月 27 日    |
+> |[コンプライアンス対応マルチ地域](intelligence-platform/power-bi-service/premium-multi-geo-for-compliance.md)   |2018 年 10 月のパブリック プレビューから 2019 年 3 月の一般提供に変更されました   |1 月 11 日    |
+> |[メタデータ翻訳](https://docs.microsoft.com/business-applications-release-notes/april19/business-intelligence/power-bi-service/metadata-translations-analysis-services-models)| 2018 年 10 月のリリース ノートから 2019 年 4 月に移動され、2019 年 3 月から 2019 年 5 月に変更されました  | 1 月 18 日 |
 
 ### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 
@@ -447,6 +505,8 @@ ms.lasthandoff: 12/05/2018
 > | 機能 | 削除日付 |
 > |---------|--------------|
 > |キャパシティ指標の履歴 (Power BI Premium) | 9 月 10 日|
+> |Power BI での自動機械学習 | 12 月 11 日|
+> |Power Query での Azure Machine Learning モデルへのアクセス | 12 月 11 日|
 
 ### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
 > [!div class="mx-tableFixed"]
@@ -460,6 +520,7 @@ ms.lasthandoff: 12/05/2018
 > | [エクスポートの機能強化](intelligence-platform/power-bi-service/export-enhancements.md)   |10 月 30 日   | 
 > | [電子メール サブスクリプションの機能強化](intelligence-platform/power-bi-service/subscription-enhancements.md)  | 10 月 30 日    |
 > | [Q&A を使って関連する質問を行う](intelligence-platform/power-bi-service/qna-follow-up.md) | 2018 年 11 月   |
+> | [カスタマイズ可能なアプリのナビゲーション](intelligence-platform/power-bi-service/app-navigation.md)    | 2018 年 12 月  |
 
 
 ### <a name="feature-description-changed"></a>機能の説明の変更
@@ -578,7 +639,7 @@ ms.lasthandoff: 12/05/2018
 > [!div class="mx-tableFixed"]
 > | 製品 |  変更 | 変更日付   |
 > |---------|----|----------|
-> | [AI for Customer Service](ai/dynamics365-ai-customer-service-insights.md)   |製品名が AI for Customer Service Insights から AI for Customer Service に変更されました  | 9 月 25 日   |
+> | [AI for Customer Service](ai/dynamics365-ai-customer-service-insights.md)   |製品名を AI for Customer Service Insights から AI for Customer Service に変更しました  | 9 月 25 日   |
 
 ## <a name="mixed-reality"></a>Mixed Reality
 
@@ -586,13 +647,15 @@ ms.lasthandoff: 12/05/2018
 > [!div class="mx-tableFixed"]
 > | 機能 | 追加された日付 |
 > |---------|------------|
-> | **Dynamics 365 レイアウト**                    | 
+> | **Dynamics 365 Layout**                    | 
 > | [PC を使用してインポート](mixed-reality/microsoft-layout/import-tool-PC-option.md)        | 9 月 24 日           | 
 > | [測定単位の選択](mixed-reality/microsoft-layout/unit-measure.md)        | 9 月 24 日           | 
 > | [複数選択とグループ化](mixed-reality/microsoft-layout/multi-select.md)        | 9 月 24 日           | 
 > | [ダイナミック オーディオ](mixed-reality/microsoft-layout/dynamics-audio.md)        |  9 月 24 日          | 
 > | [レイアウトの正確な調整](mixed-reality/microsoft-layout/precisely-realign-layout.md)        |  9 月 24 日          | 
 > | [新しい測定ツール](mixed-reality/microsoft-layout/measurement-tools.md)        | 9 月 24 日           | 
+> | [パフォーマンスの機能強化](mixed-reality/microsoft-layout/performance-mode-setting.md) | 12 月 4 日|
+> | [インポート ツールの改善](mixed-reality/microsoft-layout/import-tool.md) | 1 月 16 日|
 > | **Dynamics 365 Remote Assist**                   | 
 > | [Field Service の統合](mixed-reality/microsoft-remote-assist/field-service-integration.md)        |  9 月 24 日          | 
 > | [PDF ファイルの挿入](mixed-reality/microsoft-remote-assist/insert-PDF-file.md)        | 9 月 24 日            | 
@@ -602,6 +665,7 @@ ms.lasthandoff: 12/05/2018
 > | [ダイナミック オーディオ](mixed-reality/microsoft-remote-assist/dynamic-audio.md)        | 9 月 24 日            | 
 > | [音声コマンド](mixed-reality/microsoft-remote-assist/voice-commands.md)        | 9 月 24 日            | 
 > | [別のアプリからの Remote Assist の起動](mixed-reality/microsoft-remote-assist/protocol-activation.md) |  9 月 24 日  |
+> | [画面共有](mixed-reality/microsoft-remote-assist/screen-sharing.md) |  12 月 10 日  |
 
 
 ## <a name="data-integration"></a>データ統合
@@ -640,5 +704,4 @@ ms.lasthandoff: 12/05/2018
 > |**アプリ用 CDS と Power BI データフロー** <br> カスタム コネクタのサポート (ゲートウェイ経由) | この機能のサポートの調査はまだ行われています。ただし、そのサポートに対する明確なタイムラインはありません。 [PowerApps のアイデア](https://powerusers.microsoft.com/t5/PowerApps-Ideas/idb-p/PowerAppsIdeas)および [Power BI のアイデア](https://ideas.powerbi.com)で提案に投票して優先順位付けにご協力ください。 | 8 月 8 日 | 
 > |**Power BI** <br> 異なる容量の地域での Power BI Premium によるゲートウェイのサポート | 優先順位が変化するため、この機能のタイムフレームは決められていません。 調査が続けられている間、[Power BI のアイデア](https://ideas.powerbi.com)で提案に投票して優先順位付けにご協力ください。| 8 月 8 日 |
 > |**Power BI** <br> Power BI Desktop とのパリティを保つための追加のクラウド データ更新機能 | 優先順位が変化するため、この機能のタイムフレームは決められていません。 調査が続けられている間、[Power BI のアイデア](https://ideas.powerbi.com)で提案に投票して優先順位付けにご協力ください。| 10 月 11 日 |
-
 

@@ -1,27 +1,43 @@
 ---
-title: "フロー ボタンの機能拡張"
-description: "フロー ボタンは、数値フィールドやチェック ボックスなど、豊富な入力セットを受け取ることができます。"
+title: Microsoft Flow ボタン入力の機能拡張
+description: 作成者がボタンの入力をより細かく制御できます。
 author: stepsic-microsoft-com
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: deonhe
+ms.date: 01/02/2019
 ms.assetid: 537e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: stepsic
 audience: Power user
+ms.openlocfilehash: 36e8aae6b6ab247e08d9d24094479470285bb094
+ms.sourcegitcommit: 851bbbbeaac02e33829dfbf5f6f8e4055acf0822
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 340d77d45e632f9f181330f1900607675f5f33a8
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "203705"
 ---
-# <a name="flow-button-enhancements"></a>フロー ボタンの機能拡張
+# <a name="flow-button-input-enhancements"></a>Flow ボタン入力の機能拡張
 
 
-[!include[banner](../../includes/banner.md)]
 
-[このアイデア](https://powerusers.microsoft.com/t5/Flow-Ideas/Create-multiple-input-types-for-buttons/idi-p/33695)でカバーされているように、ユーザーは充実したデータをボタン フローに渡すことができます。
+
+ボタンを 1 回タップするだけで実行できることをだれもが望む多くの反復的なタスクがあります。 たとえば、毎日のチーム同期に参加するよう通知するためにチームに迅速に電子メールを送信する必要がある場合や、その日はそれ以上チェックインが予定されていないことが通知された後に新しい Visual Studio Online ビルドを開始することが必要な場合があります。 ボタン フローを使用すると、モバイル デバイスのボタンをタップするだけでこれらのタスクやその他のタスクを実行できます。
+
+ボタンの初期リリースでは、ボタンはテキストのような基本的な入力を受け取ることができました。 しかし、[このアイデア](https://powerusers.microsoft.com/t5/Flow-Ideas/Create-multiple-input-types-for-buttons/idi-p/33695)でカバーされているように、充実したデータをボタン フローに渡すことが求められてきました。 これに対応して、ボタン フローに以下のすべての種類のデータを要求できるようになりました。
+
+- テキスト
+- ドロップダウン (ラジオ ボタンなど)
+- 電子メール アドレス
+- ファイル (携帯電話上の写真など)
+- [はい] または [いいえ] のチェック ボックス
+- 数値
+- 日付 (カレンダー ピッカー付き)
+
+![入力の追加](media/flow-button-enhancements-1.png "入力の追加")
+
+さらに、一部の入力を必須として指定し、他の入力を省略可能として指定することができます。 これは各入力フィールドのアクション メニュー (右側にある **...** ボタン) から行うことができます。 ボタンあたり 5 入力の制限も引き上げました。
+
+![入力を省略可能にする](media/flow-button-enhancements-2.png "入力を省略可能にする")
 

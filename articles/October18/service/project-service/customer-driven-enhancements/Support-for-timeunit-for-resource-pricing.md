@@ -1,21 +1,21 @@
 ---
-title: "1 つの価格表で複数の時間単位をサポート"
-description: "価格表で、複数の時間単位に対して価格を指定できるようになります"
+title: 1 つの価格表で複数の時間単位をサポート
+description: 価格表で、複数の時間単位に対して価格を指定できるようになります
 author: rumant
 manager: shellyhaverkamp
 ms.date: 7/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: rumant
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: ec0b4b4fbef8ec0a6ca8c3d59c5ded858615d6c3
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199605"
 ---
 #   <a name="support-for-multiple-time-units-on-a-single-price-list"></a>1 つの価格表で複数の時間単位をサポート
 
@@ -32,4 +32,3 @@ Project Service では、リソース時間の価格設定がサポートされ�
 
 ![複数の時間単位に対して原価率が指定された価格表](media/multiple-time-unit-on-pricelist.png "複数の時間単位に対して原価率が指定された価格表")
 <!-- Picture 2 -->
-

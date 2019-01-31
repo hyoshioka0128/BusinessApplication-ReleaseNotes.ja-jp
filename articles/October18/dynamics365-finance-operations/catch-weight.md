@@ -1,21 +1,21 @@
 ---
-title: "倉庫管理での CW 製品処理"
-description: "倉庫管理での CW 製品処理"
+title: 倉庫管理での CW 製品処理
+description: 倉庫管理での CW 製品処理
 author: ShylaThompson
 manager: AnnBe
 ms.date: 11/30/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: shylaw
 audience: end-user
-ms.translationtype: HT
-ms.sourcegitcommit: 33e7838001134aeef7ec0a20edfcefce2b983f7f
 ms.openlocfilehash: ce2b140153ad67195a792c5db409df442029562d
-ms.contentlocale: ja-jp
-ms.lasthandoff: 12/03/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199401"
 ---
 #  <a name="catch-weight-product-processing-with-warehouse-management"></a>倉庫管理での CW 製品処理
 
@@ -112,6 +112,5 @@ ms.lasthandoff: 12/03/2018
 - コンテナーの再オープン。
 - 倉庫アプリによる完了したフォーミュラ製品としての報告。
 - 倉庫アプリによる輸送積荷処理。
-
 
 

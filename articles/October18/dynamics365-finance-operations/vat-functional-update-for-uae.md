@@ -1,23 +1,22 @@
 ---
-title: "アラブ首長国連邦用の VAT 報告機能"
-description: "アラブ首長国連邦用の VAT 報告機能"
+title: アラブ首長国連邦用の VAT 報告機能
+description: アラブ首長国連邦用の VAT 報告機能
 author: AdamTrukawka
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: atrukawk
 audience: end-user
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 8c7a861abccfc1aa959a4eaa2244148022ed6fb6
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199702"
 ---
-
 # <a name="vat-reporting-functionality-for-united-arab-emirates"></a>アラブ首長国連邦用の VAT 報告機能
 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -36,5 +35,4 @@ Microsoft Dynamics 365 for Finance and Operations の 2018 年 10 月リリー�
 - 標準監査ファイル機能は、UAE のローカル機能と共有されます。 FTA VAT 監査ファイル (FAF) は、税務当局の要件に従って必要な CSV 形式にエクスポートできます。
 
 UAE で業務を運営するすべての企業は、事業所得、コスト、および関連する VAT 課税額を正確に文書化し、定期的な VAT 報告書を税務当局に送付する義務があります。 VAT 報告機能は、Dynamics 365 for Finance and Operations のすべてのお客様によって導入されます。
-
 

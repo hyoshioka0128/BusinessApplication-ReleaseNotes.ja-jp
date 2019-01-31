@@ -1,21 +1,21 @@
 ---
-title: "Dynamics 365 for Customer Service のナレッジ記事のレコメンデーションのしくみの確認"
-description: "カスタマー エクスペリエンスとエージェントの生産性を向上させるナレッジ記事のレコメンデーション機能について理解します"
+title: Dynamics 365 for Customer Service のナレッジ記事のレコメンデーションのしくみの確認
+description: カスタマー エクスペリエンスとエージェントの生産性を向上させるナレッジ記事のレコメンデーション機能について理解します
 ms.date: 11/26/2018
 ms.assetid: b76abbb6-73ca-4056-bad7-60e84fea60c3
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: Karthik55217
 ms.reviewer: anjgupta
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: 566d62b456ff1ad482f7bb4b1a7b423e246cc4b4
 ms.openlocfilehash: e403c9258fbf9fa81f6b98a0d7632ca72562f98a
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/27/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199101"
 ---
 #  <a name="knowledge-article-recommendations"></a>ナレッジ記事のレコメンデーション 
 
@@ -25,6 +25,6 @@ ms.lasthandoff: 11/27/2018
 
 次のスクリーンショットは、Dynamics 365 for Customer Service のナレッジ記事のレコメンデーションを示しています。 
 
-![ナレッジ記事のレコメンデーションの表示](media/knowledge-article-suggestion.png "ナレッジ記事のレコメンデーションの表示")
-
+> [!div class="mx-imgBorder"]
+> ![ナレッジ記事のレコメンデーションの表示](media/knowledge-article-suggestion.png "ナレッジ記事のレコメンデーションの表示")
 

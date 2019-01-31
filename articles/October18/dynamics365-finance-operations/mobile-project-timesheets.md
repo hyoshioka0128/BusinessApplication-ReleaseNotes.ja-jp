@@ -1,23 +1,22 @@
 ---
-title: "モバイル プロジェクト タイムシート"
-description: "プロジェクト タイムシートを入力するためのモバイル アプリ"
+title: モバイル プロジェクト タイムシート
+description: プロジェクト タイムシートを入力するためのモバイル アプリ
 author: aprilolson
 manager: AnnBe
-ms.date: 10/23/2018
+ms.date: 01/07/2019
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: aolson
 audience: end user
+ms.openlocfilehash: 671854b47ba82edf1b4499a43852b71a8e2553c2
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.sourcegitcommit: dbd8a17e3e500201426a03a48feb4bf5a2c7d024
-ms.openlocfilehash: 910fc39bbe96eee31dca92684dc8b2963c0130c6
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/01/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "200026"
 ---
-
 # <a name="mobile-project-timesheets"></a>モバイル プロジェクト タイムシート
 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -33,14 +32,12 @@ ms.lasthandoff: 11/01/2018
 -   最近使用されたり割り当てられたりしたプロジェクト情報を表示するルックアップは、従業員のデータ入力を高速化します。
 -   レビュー担当者は、タイムシートを承認したり、送り返したり、別のレビュー担当者に委譲したりすることができます。
 -   承認者は従業員のコメントをすぐに見ることができ、タイムリーな承認レビューが可能です。
--   従業員に返されたタイムシートにアクセスすることで、迅速な対応が可能です。
 
 **例** 
 
 従業員は、新しいアプリを使用して、モバイル デバイスで 6 月 10 日〜 6 月 16 日の作業週のタイムシートを作成します。 従業員がアプリケーションにサインインすると、作業週の新しいタイムシートが作成されます。
 
 ![作業週のタイムシートの作成方法を示す 3 つのモバイル スクリーンショット](media/timesheet1.png "作業週のタイムシートの作成方法を示す 3 つのモバイル スクリーンショット")
-
 
 
 

@@ -1,23 +1,22 @@
 ---
-title: "アプリ用 Common Data Service 上の Core HR エンティティのスコープの拡張"
-description: "アプリ用 Common Data Service 上の Core HR エンティティのスコープの拡張"
+title: アプリ用 Common Data Service 上の Core HR エンティティのスコープの拡張
+description: アプリ用 Common Data Service 上の Core HR エンティティのスコープの拡張
 author: jcart1106
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: jcart
 audience: developer, admin, end user
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: db1db92e190e4297ad79b08fde17d502d691700b
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199943"
 ---
-
 # <a name="extended-core-hr-entity-scope-on-common-data-service-for-apps"></a>アプリ用 Common Data Service 上の Core HR エンティティのスコープの拡張
 
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
@@ -35,6 +34,5 @@ ms.lasthandoff: 10/26/2018
 -   報酬エンティティ
 -   福利厚生エンティティ
 -   Core HR エンティティに対する CDS でのカスタム フィールド サポート               
-
 
 

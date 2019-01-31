@@ -1,22 +1,22 @@
 ---
-title: "コピーと貼り付け"
-description: "行のコピーと貼り付けの機能がリストに追加されました。"
+title: コピーと貼り付け
+description: 行のコピーと貼り付けの機能がリストに追加されました。
 author: mikebcMSFT
 manager: edupont04
 ms.date: 09/23/2018
 ms.assetid: 011c924e-f156-4cd7-a034-99a13b5a7869
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: mikebc
 audience: end user
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 799b0eda04f98750beadb573e3b820d7e17cea75
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199037"
 ---
 #  <a name="copy-and-paste"></a>コピーと貼り付け
 
@@ -60,4 +60,3 @@ No regional restrictions. Available to all Dynamics 365 Business Central support
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralideas) をご利用ください。
-

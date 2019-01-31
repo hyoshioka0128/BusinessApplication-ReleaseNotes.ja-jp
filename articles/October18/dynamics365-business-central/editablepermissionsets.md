@@ -1,23 +1,22 @@
 ---
-title: "編集可能なアクセス許可セット"
-description: "エンド ユーザーがアクセス許可セットを編集できるようになります"
+title: 編集可能なアクセス許可セット
+description: エンド ユーザーがアクセス許可セットを編集できるようになります
 author: bnielse
 manager: edupont04
 ms.date: 11/07/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: bnielse
 audience: developer, admin, end user, customizer, IT pro
-ms.translationtype: HT
-ms.sourcegitcommit: cdbe692282951665ec1a0d55010d4adbeddb1cba
 ms.openlocfilehash: d402e30454de93e061c6923d9b8d22596d4e8bbd
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/07/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199954"
 ---
-
 # <a name="permission-sets-are-editable"></a>アクセス許可セットを編集可能
 
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -26,7 +25,8 @@ ms.lasthandoff: 11/07/2018
 
 アクセス許可セットのリストからは、新しいアクセス許可を追加したり、既存のアクセス許可セットをコピーしたりできます。 結果セットの種類はユーザー定義になります。 既存のアクセス許可セットをコピーする場合は、元のアクセス許可セットが変更されたら通知を受け取ることを選択できるので、必要に応じてカスタマイズ セットを更新できます。  
 
-![](media/editablepermissionsets_list.png "必要なアクセス許可セットを追加する。")
+> [!div class="mx-imgBorder"]
+> ![](media/editablepermissionsets_list.png "必要なアクセス許可セットを追加する。")
 
 さらに、アクセス許可セットの定義を含むファイル (パートナー提供のファイルや、別の会社からコピーされたファイルなど) をインポートしたり、RapidStart を使用してアクセス許可セットを追加したりすることもできます。
 
@@ -39,7 +39,8 @@ ms.lasthandoff: 11/07/2018
 > [!NOTE]
 > アクセス許可セットを編集すると、アクセス許可セットが割り当てられている他のユーザーにも変更内容が適用されます。
 
-![](media/effective_permission_sets.png "有効なアクセス許可の概要。")
+> [!div class="mx-imgBorder"]
+> ![](media/effective_permission_sets.png "有効なアクセス許可の概要。")
 
 ## <a name="resources"></a>リソース
 [ユーザーとアクセス許可の管理](https://docs.microsoft.com/en-us/dynamics365/business-central/ui-how-users-permissions)
@@ -56,4 +57,3 @@ No regional restrictions. All Dynamics 365 Business Central supported markets.
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralideas) をご利用ください。
-

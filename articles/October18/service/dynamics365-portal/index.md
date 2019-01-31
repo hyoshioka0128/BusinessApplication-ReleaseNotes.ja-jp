@@ -1,23 +1,23 @@
 ---
-title: "Dynamics 365 Portal 2018 年 10 月リリースの概要"
-description: "Dynamics 365 Portal を使用すると、Dynamics 365 のエンティティや機能を、顧客やパートナーなどの外部ユーザーに対して簡単に拡張することができます。"
+title: Dynamics 365 Portal 2018 年 10 月リリースの概要
+description: Dynamics 365 Portal を使用すると、Dynamics 365 のエンティティや機能を、顧客やパートナーなどの外部ユーザーに対して簡単に拡張することができます。
 author: dileeps
 manager: rycu
 ms.date: 7/22/2018
 ms.assetid: 4f672e28-56d9-49f9-9b0e-199df6c3ff44
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: dileeps
 ms.reviewer: shjais
 audience: Admin
+ms.openlocfilehash: 2910c575def4d9e3b31dd65b0070e094b33392cb
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 3e89dc06b429a791355165b9176355b8cd8e37c5
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199038"
 ---
 #  <a name="overview-of-dynamics-365-portal-october-18-release"></a>Dynamics 365 Portal 2018 年 10 月リリースの概要
 
@@ -40,4 +40,3 @@ Microsoft では、Office 365 やその他の Microsoft サービスを使用し
 **使いやすさ**
 
 多くの場合、お客様は操作性やプロセスに関する独自のニーズに対応するため、ポータルをカスタマイズします。 Microsoft では、シンプルで直感的な最新のカスタマイズ エクスペリエンスを提供するために、主要なカスタマイズ エクスペリエンスを刷新しました。
-

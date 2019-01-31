@@ -1,7 +1,7 @@
 ---
-title: "Microsoft Teams との緊密な統合による営業チームのコラボレーションの変換"
-description: "Microsoft Teams との緊密な統合による営業チームのコラボレーションの変換"
-keywords: 
+title: Microsoft Teams との緊密な統合による営業チームのコラボレーションの変換
+description: Microsoft Teams との緊密な統合による営業チームのコラボレーションの変換
+keywords: ''
 ms.date: 7/22/2018
 ms.service:
 - business-applications
@@ -10,14 +10,13 @@ ms.assetid: 5138b6e5-ad75-42e8-a5ea-a1aee0d0c870
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
+ms.openlocfilehash: cb31b132cabb6e1e38d8839c8b282a615220d1d9
+ms.sourcegitcommit: 2e55c448f4e1d2eb65e6859481868e2144233d98
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 1d1c7f313e4ed144215fa85b01280400a16ef32e
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/11/2019
+ms.locfileid: "200190"
 ---
-
 # <a name="transform-sales-team-collaboration-through-tight-integration-with-microsoft-teams"></a>Microsoft Teams との緊密な統合による営業チームのコラボレーションの変換
 
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -31,4 +30,4 @@ ms.lasthandoff: 10/26/2018
  
 ユーザーは、営業関連資料を Microsoft Teams または Dynamics 365 からシームレスにチーム全体と共有して共同で作成できます 。 ファイルは集中的に保管されるので、チーム全体が最新のドキュメントに簡単に、一貫して、安全にアクセスできることが保証されます。 
 
-
+詳細については、「[プレビュー: Dynamics 365 for Customer Engagement と Microsoft Teams の統合](https://docs.microsoft.com/dynamics365/customer-engagement/basics/teams-integration)」を参照してください。

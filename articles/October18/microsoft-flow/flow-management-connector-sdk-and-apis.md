@@ -1,27 +1,35 @@
 ---
-title: "フロー管理コネクタ、SDK、API"
-description: "フローではすべての SDK と API が完全に文書化されます。たとえば、フロー承認 iFrame をアプリケーションに埋め込む機能や、フローをプログラムで作成または削除する機能などです。"
+title: Microsoft Flow Web API が利用可能に
+description: Microsoft Flow の API (フローをプログラムで作成、共有、削除する機能など) が文書化されました。
 author: KentWeareMSFT
-manager: KVivek
-ms.date: 11/27/2018
+ms.reviewer: deonhe
+ms.date: 01/02/2019
 ms.assetid: 417e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
-ms.author: keweare
+ms.technology: ''
+ms.author: c048022d691d492a9085a9ac20cdb5f8keweare
 audience: Power user
+ms.openlocfilehash: 76ae6004953d45d065042b3e08f7e2123607c6ba
+ms.sourcegitcommit: 851bbbbeaac02e33829dfbf5f6f8e4055acf0822
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: fc692de27440dad99d66f21705216b72db485a98
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "203586"
 ---
-# <a name="flow-management-connector-sdk-and-apis"></a>フロー管理コネクタ、SDK、API
+# <a name="microsoft-flow-web-apis-available"></a>Microsoft Flow Web API が利用可能に
 
+アプリケーション ライフサイクル管理タスクの自動化や、テナント内のフローのアクセス許可とガバナンスの自動化を求めるメーカーや管理者からの要望が高まっています。 Microsoft は昨半期に、Microsoft Flow からのライフサイクル タスクを自動化できる[豊富な管理コネクタ](https://powerapps.microsoft.com/blog/new-connectors-for-powerapps-and-flow-resources/)を含む、Microsoft Flow のガバナンスについての[この詳細なガイダンス]( https://flow.microsoft.com/blog/security-governance-strategy/)をリリースしました。
 
-[!include[banner](../../includes/banner.md)]
+現在、組織がプロセス簡素化のための追加ツールを任意の言語で作成するために必要なすべての API の完全な文書化を進めています。 この API は、[アプリ用 Common Data Service  Web API](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webapi/perform-operations-web-api) に基づいています。 これには以下が含まれます。
 
-メーカーや管理者によるアプリケーション ライフサイクル管理タスクの自動化や、テナント内のフローのアクセス許可とガバナンスの自動化について、顧客からは大きな要求がでています。 この機能の一部として、組織がプロセス簡素化のための追加ツールを作成できる API と SDK が文書化されます。  また、既存のフロー管理コネクタを拡張し、組織が Microsoft Flow で IT 運用を自動化できるようにします 。
+- フローの一覧表示
+- フローの作成
+- フローの更新
+- フローを共有しているすべてのユーザーの取得
+- フローの共有または共有解除
+- フローのエクスポート
+- フローのインポート
 
+これらの API はメーカーと環境管理者の両方に役立ちます。 これらの API は、Microsoft Flow の**ソリューション** タブに含まれるフローの管理を対象としています。 現時点では、**マイ フロー**のフローはこれらの API でサポートされていません。 まずは、Microsoft Flow Web API について詳しく説明している[ドキュメント サイト](https://docs.microsoft.com/flow/web-api)を参照してください。

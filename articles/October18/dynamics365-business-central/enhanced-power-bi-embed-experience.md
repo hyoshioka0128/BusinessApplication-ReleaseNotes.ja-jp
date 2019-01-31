@@ -1,23 +1,22 @@
 ---
-title: "Power BI の埋め込み"
-description: "Business Central での埋め込み Power BI レポートの向上。"
+title: Power BI の埋め込み
+description: Business Central での埋め込み Power BI レポートの向上。
 author: bnielse
 manager: edupont04
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: bmeier
 audience: admin, end user
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: b40a155e88e8ea4be2a9e63243bed82b98ef8d92
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199286"
 ---
-
 # <a name="enhanced-power-bi-embed-experience"></a>強化された Power BI 埋め込みエクスペリエンス
 
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -42,4 +41,3 @@ No regional restrictions. All Dynamics 365 Business Central supported markets.
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralideas) をご利用ください。
-

@@ -1,7 +1,7 @@
 ---
-title: "Dynamics 365 for Sales ですぐに利用できる AI を活用したインサイトで営業の可能性を引き出す"
-description: "フィールド販売担当者とインサイド セールス担当者は、Dynamics 365 AI for Sales を使用してインサイトを取得する"
-keywords: 
+title: Dynamics 365 for Sales ですぐに利用できる AI を活用したインサイトで営業の可能性を引き出す
+description: フィールド販売担当者とインサイド セールス担当者は、Dynamics 365 AI for Sales を使用してインサイトを取得する
+keywords: ''
 ms.date: 11/08/2018
 ms.service:
 - business-applications
@@ -10,14 +10,13 @@ ms.assetid: ed1543db-b687-449c-90b6-ca1715de1358
 author: jasonmsft
 ms.author: jasonhui
 manager: AnnBe
-ms.translationtype: HT
-ms.sourcegitcommit: d32028a55c4b1ea163e60a25515a562172199e4a
 ms.openlocfilehash: 3398593bad4e859b4a2e83345f92399247444997
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/14/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199657"
 ---
-
 # <a name="unlock-sales-potential-with-ai-driven-insights-readily-available-for-dynamics-365-for-sales"></a>Dynamics 365 for Sales ですぐに利用できる AI を活用したインサイトで営業の可能性を引き出す
 
 [!include[ai banner](../includes/ai.md)] 
@@ -28,4 +27,3 @@ ms.lasthandoff: 11/14/2018
 
 - [販売担当者向けの Dynamics 365 AI for Sales の機能の有効化と構成](https://docs.microsoft.com/dynamics365/ai/sales/configure-enable-dynamics-365-ai-sales)
 - [販売担当者向けの Dynamics 365 AI for Sales の機能](https://docs.microsoft.com/dynamics365/ai/sales/dynamics-365-ai-for-sales)
-

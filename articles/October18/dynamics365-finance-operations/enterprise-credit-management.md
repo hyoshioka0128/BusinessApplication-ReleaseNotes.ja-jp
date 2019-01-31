@@ -1,23 +1,22 @@
 ---
-title: "エンタープライズ与信管理"
-description: "このトピックでは、組織で与信を管理するための新機能について説明します。"
+title: エンタープライズ与信管理
+description: このトピックでは、組織で与信を管理するための新機能について説明します。
 author: aprilolson
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: aolson
 audience: end user
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 383d33b0132ba75f86386cbd95ed6bf1cbd4ebc8
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199715"
 ---
-
 # <a name="enterprise-credit-management"></a>エンタープライズ与信管理
 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -35,4 +34,3 @@ ms.lasthandoff: 10/26/2018
 - 与信保留の動的解除
 - 与信限度額管理
 - 与信限度額履歴の追跡
-

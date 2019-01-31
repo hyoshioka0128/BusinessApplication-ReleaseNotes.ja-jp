@@ -1,26 +1,26 @@
 ---
-title: "Microsoft Dynamics 365 for Finance and Operations 2018 年 10 月リリースの概要"
-description: "Microsoft Dynamics 365 for Finance and Operations 2018 年 10 月リリースの概要"
+title: Microsoft Dynamics 365 for Finance and Operations 2018 年 10 月リリースの概要
+description: Microsoft Dynamics 365 for Finance and Operations 2018 年 10 月リリースの概要
 author: Annbe
 manager: AnnBe
 ms.date: 08/16/2018
 ms.topic: overview
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: Annbe
 audience: Admin, end-user, developer
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 852b66d48233119f853b66bf4eb210c11fcbe6e3
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199743"
 ---
 #  <a name="overview-of-dynamics-365-for-finance-and-operations-october-18-release"></a>Dynamics 365 for Finance and Operations 2018 年 10 月リリースの概要
 
 
-このトピックでは、Finance and Operations 2018 年 10 月リリースのテーマ領域について説明します。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+このトピックでは、Finance and Operations 2018 年 10 月リリースのテーマ領域について説明します。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 ## <a name="focus-on-fundamentals"></a>基本機能の徹底
 
@@ -50,4 +50,3 @@ Microsoft では、ビジネス アプリケーションの機能やエクスペ
 -   **Dynamics 365 for Talent 統合。** CDS データ インテグレーターは、Finance and Operations と Dynamics 365 for Talent を使用している従業員向けに、双方向の統合機能を提供 します。 従業員は、これらのシステム間でデータを共有しながら、システム間をシームレスに移動できます。
 
 -   **規制構成サービス。** 規制構成ツール (旧称: 電子申告) は、独立したサービスになりました。 このサービスでは、複数のバージョンの Finance and Operations や、以前の Microsoft Dynamics AX バージョン (AX 2012 や AX 2009 (インドのみ) など) を使用しているパートナーやお客様が、規制機能を 1 回だけ構成し、各種のバージョンに 1 つの共通サービスを使用することができます。 規制構成サービスでは、コード記述のないプログラミング アプローチを採用しています。これによりパワー ユーザーは、複数のアプリケーションでコードを記述しなくても、規制報告、電子請求書、支払い形式、および税規則についての法的要件を構成し、要件の頻繁な変更に効果的に対応できるようになります。 規制構成サービスは、規制サービスの最初のコンポーネントです。これにより、任意のビジネス アプリケーションと統合可能な規制機能が提供されます。 このサービスを使用することで、アプリケーション開発者は、世界各国で増え続ける法的要件への準拠にわずらわされることなく、各自の本来の中核業務に専念することができます。
-

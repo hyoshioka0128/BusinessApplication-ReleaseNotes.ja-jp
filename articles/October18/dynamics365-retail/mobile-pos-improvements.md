@@ -1,25 +1,23 @@
 ---
-title: "モバイル POS の改善"
-description: "この機能により、モバイル POS クライアントのナビゲーションが向上し、受注処理のサポートが追加されます。"
+title: モバイル POS の改善
+description: この機能により、モバイル POS クライアントのナビゲーションが向上し、受注処理のサポートが追加されます。
 author: jblucher
 manager: AnnBe
 ms.date: 11/02/2018
 ms.assetid: 7b453328-5b4e-423a-90d9-3069f7cc918f
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: jeffbl
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: d97ce621f72ef6df872dea08e14e17513dd7cf94
 ms.openlocfilehash: 57443640049a671f9c92a012d37d2c8bb2c5e141
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/07/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "200174"
 ---
-
-
 # <a name="mobile-pos-improvements"></a>モバイル POS の改善
 
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
@@ -54,4 +52,3 @@ ms.lasthandoff: 11/07/2018
 
 > [!div class="mx-imgBorder"]
 > ![モバイル注文のフルフィルメント - 明細行](../../media/mobile-order-fulfillment3.JPG "")
-

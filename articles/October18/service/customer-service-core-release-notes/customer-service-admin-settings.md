@@ -1,21 +1,21 @@
 ---
-title: "Dynamics 365 for Customer Service での顧客サービス管理設定の理解"
-description: "Dynamics 365 for Customer Service の管理設定の新機能を説明します"
+title: Dynamics 365 for Customer Service での顧客サービス管理設定の理解
+description: Dynamics 365 for Customer Service の管理設定の新機能を説明します
 ms.date: 11/26/2018
 ms.assetid: 516afbde-61a3-4718-8ce1-a4007ada5960
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: DeepapMS
 ms.reviewer: anjgupta
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: 566d62b456ff1ad482f7bb4b1a7b423e246cc4b4
 ms.openlocfilehash: 8e7aa066317bbcd9ac861563761c1fea406a938d
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/27/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199036"
 ---
 #  <a name="customer-service-admin-settings"></a>Customer Service 管理設定 
 
@@ -70,6 +70,5 @@ Service Management 内では、さまざまな機能をカスタマイズでき�
 ## <a name="resources"></a>リソース
 
 [サービス マネージャー ガイド (顧客サービス ハブおよび Customer Service アプリ)](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/service-manager-guide)
-
 
 

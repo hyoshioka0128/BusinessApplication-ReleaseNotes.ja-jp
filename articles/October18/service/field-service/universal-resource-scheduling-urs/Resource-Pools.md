@@ -1,24 +1,23 @@
 ---
-title: "リソース プール"
-description: "リソース プールを使用すると、スケジュール担当者は、実際に作業を実行するリソースを決定する必要なしに、汎用プールに作業を予約できます。"
+title: リソース プール
+description: リソース プールを使用すると、スケジュール担当者は、実際に作業を実行するリソースを決定する必要なしに、汎用プールに作業を予約できます。
 author: Dgittler
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 96e82715-35fd-4587-a004-bbf57a14c1b2
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: dbd8a17e3e500201426a03a48feb4bf5a2c7d024
 ms.openlocfilehash: 6e374ca408d70db7c85a40ecec03aa7b13a7e1a4
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/01/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199283"
 ---
-
 #  <a name="resource-pools"></a>リソース プール
 
 [!include[field-service banner](../../../includes/field-service.md)]
@@ -42,7 +41,7 @@ ms.lasthandoff: 11/01/2018
 
   (リソース プールでのサポートが計画されていないオンサイト要件。)
 
-  ![リソース プールのシナリオ](media/ResourcePools.png "リソース プールのシナリオ")
+  > [!div class="mx-imgBorder"]
+  > ![リソース プールのシナリオ](media/ResourcePools.png "リソース プールのシナリオ")
   
   *リソース プールのシナリオ*
-

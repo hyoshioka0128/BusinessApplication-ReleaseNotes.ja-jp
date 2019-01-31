@@ -1,23 +1,22 @@
 ---
-title: "2018 年 10 月に Microsoft Flow に対して計画されている機能の概要"
-description: "Microsoft Flow の 2018 年 10 月リリースで利用可能になる主要な新機能の全一覧です。"
+title: 2018 年 10 月に Microsoft Flow に対して計画されている機能の概要
+description: Microsoft Flow の 2018 年 10 月リリースで利用可能になる主要な新機能の全一覧です。
 author: stepsic-microsoft-com
 manager: KVivek
-ms.date: 11/27/2018
+ms.date: 01/08/2019
 ms.topic: summary
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: stepsic
 audience: Power user
+ms.openlocfilehash: c4fad2789aa983a1810dff2f1ad545cddf9b9a37
+ms.sourcegitcommit: 851bbbbeaac02e33829dfbf5f6f8e4055acf0822
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: e7548952b02447837c38817f602e624a054d18fb
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "203614"
 ---
-
 # <a name="summary-of-whats-new-in-microsoft-flow"></a>Microsoft Flow の新機能の概要
 
 リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
@@ -32,13 +31,14 @@ Office 365 および Dynamics 365 との連携が向上し、SharePoint、Teams�
 
 | 機能    | リリースの種類    | 日付    |
 | ---------- | ---------- | ---------- |
-| [フローによる SharePoint コンテンツ承認のカスタマイズ](customize-sharepoint-content-approvals-with-flow.md) | 一般提供 |  2018 年 11 月  |
-| [OneDrive for Business のフロー起動パネル](onedrive-for-business-flow-launch-panel.md) | 一般提供 |  2018 年 12 月  |
-| [OneDrive for Business 要求のサインオフ](onedrive-for-business-request-sign-off.md) | 一般提供 |  2018 年 12 月  |
-| [Flow for SharePoint の管理シナリオ](flow-for-sharepoint-admin-scenarios.md) | 一般提供 |  2018 年 12 月  |
-| [SharePoint リマインダー](sharepoint-remind-me.md) | 一般提供 |  2018 年 12 月  |
-| [Microsoft Teams が Flow をボットとして使用](microsoft-teams-uses-flow-as-a-bot.md) | 一般提供 |  2018 年 12 月  |
-| [Visio でのデザイン フロー](design-flows-in-visio.md) | パブリック プレビュー |  2018 年 12 月  |
+| [Teams の Microsoft Flow タブ](microsoft-teams-uses-flow-as-a-bot.md) | 一般提供 |  2018 年 11 月 29 日  |
+| [Flow による SharePoint ページの承認のカスタマイズ](customize-sharepoint-content-approvals-with-flow.md) | 一般提供 |  2019 年 1 月 7 日  |
+| [OneDrive for Business Flow 起動パネル](onedrive-for-business-flow-launch-panel.md) | 一般提供 |  2019 年 1 月  |
+| [OneDrive for Business 要求のサインオフ](onedrive-for-business-request-sign-off.md) | 一般提供 |  2019 年 1 月  |
+| [Microsoft Teams でより充実したメッセージを投稿](post-richer-messages-in-microsoft-teams.md) | 一般提供 |  2019 年 1 月  |
+| [SharePoint リマインダー](sharepoint-remind-me.md) | 一般提供 |  2019 年 1 月  |
+| [Flow for SharePoint の管理シナリオ](flow-for-sharepoint-admin-scenarios.md) | 一般提供 |  2019 年 3 月  |
+| [Visio でのデザイン フロー](design-flows-in-visio.md) | パブリック プレビュー |  2019 年 1 月  |
 
 ## <a name="building-the-platform"></a>プラットフォームの構築
 
@@ -48,10 +48,11 @@ Office 365 および Dynamics 365 との連携が向上し、SharePoint、Teams�
 | ---------- | ---------- | ---------- |
 | [南米地域](south-america.md) | 一般提供 |  2018 年 10 月 22 日  |
 | [Microsoft Flow が Intune をサポート](microsoft-flow-supports-intune.md) | 一般提供 |  2018 年 10 月 31 日  |
-| [フロー管理コネクタ、SDK、API](flow-management-connector-sdk-and-apis.md) | 一般提供 |  2018 年 11 月  |
 | [ソリューションを使用したフローの ALM の向上](improved-alm-for-flows-with-solutions.md) | 一般提供 |  2018 年 11 月 8 日  |
+| [Microsoft Flow Web API が利用可能に](flow-management-connector-sdk-and-apis.md) | 一般提供 |  2018 年 12 月 10 日  |
 | [共有およびコネクタ管理分析レポート](sharing-and-connectors-admin-analytics-reports.md) | パブリック プレビュー |  2018 年 10 月 31 日  |
-| [米国政府機関クラウドの展開](us-government-cloud-deployment.md) | パブリック プレビュー |  2018 年 11 月  |
+| [米国政府機関クラウドの展開](us-government-cloud-deployment.md) | パブリック プレビュー |  2019 年 1 月  |
+| [組織内でフローのコピーを共有](share-copies-of-flows-inside-organizations.md) | パブリック プレビュー |  2019 年 2 月  |
 
 ## <a name="democratize-business-processes"></a>業務プロセスの一般化
 
@@ -59,7 +60,8 @@ Office 365 および Dynamics 365 との連携が向上し、SharePoint、Teams�
 
 | 機能    | リリースの種類    | 日付    |
 | ---------- | ---------- | ---------- |
-| [業務プロセス フロー内のカスタム コントロール](custom-controls-in-business-process-flows.md) | パブリック プレビュー |  2018 年 11 月  |
+| [業務プロセス フローの作成エクスペリエンスの合理化](streamlined-authoring-for-business-process-flows.md) | 一般提供 |  2019 年 1 月 18 日  |
+| [業務プロセス フロー内のカスタム コントロール](custom-controls-in-business-process-flows.md) | パブリック プレビュー |  2019 年 1 月 18 日  |
 
 ## <a name="empower-citizen-developers"></a>一般開発者の支援
 
@@ -69,11 +71,13 @@ Office 365 および Dynamics 365 との連携が向上し、SharePoint、Teams�
 | ---------- | ---------- | ---------- |
 | [失敗したフローに対する電子メールでの修復のヒント](repair-recommendations-sent-in-email-for-failed-flows.md) | 一般提供 |  2018 年 10 月 16 日  |
 | [新しい Microsoft Flow ポータルとデザイナー エクスペリエンス](flow-designer-enhancements.md) | 一般提供 |  2018 年 10 月 31 日  |
-| [フロー デザイナーへのヘルプとサポートのエクスペリエンスの統合](flow-support-help-inside-of-the-flow-designer.md) | 一般提供 |  2018 年 11 月  |
-| [すべてのテンプレートに対する Diet デザイナー](diet-designer-for-all-templates.md) | 一般提供 |  2018 年 11 月  |
-| [モバイル デバイスのデバイス シグナルの利用](leverage-device-signals-on-mobile-devices.md) | 一般提供 |  2018 年 11 月  |
-| [フロー ボタンの機能拡張](flow-button-enhancements.md) | 一般提供 |  2018 年 11 月  |
 | [フロー チェッカー](flow-checker.md) | 一般提供 |  2018 年 11 月 8 日  |
 | [Microsoft Flow でのリッチ テキスト コンテンツの編集](edit-rich-text-content-in-flow.md) | 一般提供 |  2018 年 11 月 16 日  |
-| [承認のカスタム応答オプション](custom-response-options-in-approvals.md) | 一般提供 |  2018 年 11 月  |
-
+| [Flow ポータルへのヘルプとサポートのエクスペリエンスの統合](flow-support-help-inside-of-the-flow-designer.md) | 一般提供 |  2018 年 11 月 29 日  |
+| [Flow ポータルでのリソースのフィルター処理](filter-resources-in-the-flow-portal.md) | 一般提供 |  2018 年 12 月 14 日  |
+| [Flow ボタン入力の機能拡張](flow-button-enhancements.md) | 一般提供 |  2018 年 12 月 14 日  |
+| [失敗通知のノイズを削減](reduced-noise-of-failure-notifications.md) | 一般提供 |  2018 年 12 月 14 日  |
+| [Word 文書の生成](word-document-generation.md) | 一般提供 |  2019 年 1 月  |
+| [モバイル デバイスのデバイス シグナルの利用](leverage-device-signals-on-mobile-devices.md) | 一般提供 |  2019 年 1 月  |
+| [承認のカスタム応答オプション](custom-response-options-in-approvals.md) | 一般提供 |  2019 年 1 月  |
+| [すべてのテンプレートに対する Diet デザイナー](diet-designer-for-all-templates.md) | 一般提供 |  2019 年 3 月  |

@@ -1,29 +1,28 @@
 ---
-title: "ビジネス インテリジェンス"
-description: "Power BI は、分析情報とデータの価値を最大限に引き出します。 Power BI ドキュメントでは、Power BI のさまざまな使用ニーズに対応した、専門的な情報や回答が提供されています。"
+title: ビジネス インテリジェンス
+description: Power BI は、分析情報とデータの価値を最大限に引き出します。 Power BI ドキュメントでは、Power BI のさまざまな使用ニーズに対応した、専門的な情報や回答が提供されています。
 author: HaydnR
 manager: ArunUlag
 ms.date: 10/23/2018
 ms.assetid: e45f6b5f-4ba0-45c8-9f11-63331de61a44
 ms.topic: overview
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: haydnr
-audience: 
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+audience: ''
 ms.openlocfilehash: db7099ff3b9af87510c1f6293453dbd74d3e8604
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199135"
 ---
-
 # <a name="overview-of-business-intelligence-october-18-release"></a>ビジネス インテリジェンス 2018 年 10 月リリースの概要
 
 ビジネス ユーザーにソリューションのメリットをすばやく提供できるようにするため、Power BI では、事前パッケージ済みのコンテンツを利用できるようになったほか、レポートやダッシュボードを簡単に開発して共有できるようになりました。これによりユーザーは、独自のニーズに効果的に対応することができます。 分析情報へのアクセスがこのように容易になることは、組織がデータドリブンのビジネス手法を徹底させるうえで重要な鍵となります。
 
-2018 年 10 月リリースでは、ビジネス インテリジェンスをエンタープライズ組織の全域に行き渡らせるためのイノベーションが複数導入されています。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+2018 年 10 月リリースでは、ビジネス インテリジェンスをエンタープライズ組織の全域に行き渡らせるためのイノベーションが複数導入されています。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 
 ## <a name="power-bi-desktop"></a>Power BI Desktop
@@ -44,7 +43,7 @@ Power BI Desktop では、AI と自然言語を使用して、作成者の作業
 
 -   **ビッグデータに対応したセルフサービスのデータ準備** – Microsoft では、ビッグデータからの分析情報取得を支援する新機能によって、Power BI でのセルフサービス データ準備を拡張しています。 ビジネス アナリストは、Power BI Desktop や Excel の数百万人ものユーザーが使い慣れている、Power Query のエクスペリエンスを使用して、データの取り込み、変換、統合を行い、Power BI でデータをエンリッチすることができます。サポートされるデータ ソース (オンプレミスおよびクラウドベース) は幅広く、継続的に拡大されています (Dynamics 365、Salesforce、Azure SQL Data Warehouse、Excel、SharePoint など)。 ユーザーは、データを既知のエンティティに直接マップしたり、既存のエンティティを変更して拡張したり、ユーザー定義エンティティを作成することができます。またそれらの作業はすべて、Power BI 内で行うことができます。
  
--   **Azure を使用した高度な分析と AI** - Power BI と Azure Data Lake Storage との間でのデータ アクセスを統合することで、ロール間でのコラボレーションを強化しています。 ビジネス アナリストは、Power BI のセルフサービス機能を使用して、Azure Data Lake Storage に格納されたデータをシームレスに操作することができます。また、エンジニア データ、データ サイエンティスト、およびその他のユーザーは、補助となる Azure Data Services (Azure Data Factory、Azure Databricks、Azure Machine Learning など) の高度な分析機能や AI を使用して、分析情報へのアクセスを拡張できます。 たとえば、データ エンジニアは、データの追加、エンリッチ、オーケストレーションを行うことができますし、データ サイエンティストは、機械学習モデルを作成することができます。またビジネス アナリストは、他のユーザーの成果物や、Azure Data Lake Storage のデータを利用しながら、Power BI のセルフサービス ツールを使用して、分析情報を幅広く構築し、共有することができます。
+-   **Azure を使用した高度な分析と AI** - Power BI と Azure Data Lake Storage との間でのデータ アクセスを統合することで、ロール間でのコラボレーションを強化しています。 ビジネス アナリストは、Power BI のセルフサービス機能を使用して、Azure Data Lake Storage に格納されたデータをシームレスに操作することができます。また、データ エンジニア、データ サイエンティスト、およびその他のユーザーは、補助となる Azure Data Services (Azure Data Factory、Azure Databricks、Azure Machine Learning など) の高度な分析機能や AI を使用して、分析情報へのアクセスを拡張できます。 たとえば、データ エンジニアは、データの追加、エンリッチ、オーケストレーションを行うことができますし、データ サイエンティストは、機械学習モデルを作成することができます。またビジネス アナリストは、他のユーザーの成果物や、Azure Data Lake Storage のデータを利用しながら、Power BI のセルフサービス ツールを使用して、分析情報を幅広く構築し、共有することができます。
 
 
 ### <a name="enterprise-bi"></a>エンタープライズ BI
@@ -77,4 +76,3 @@ Azure Analysis Services は、SQL Server Analysis Services の実績ある分析
 
 - **リソース ガバナンス プロパティ** – クエリあたりの最大メモリ サイズや、結果あたりの最大行数を設定して、リソース使用の制御性を改善することができます。
 - **MDX 列コントロール** – 特定の列の MDX 使用をオフにして、処理時間とメモリ消費を劇的に減らすことができます。
-

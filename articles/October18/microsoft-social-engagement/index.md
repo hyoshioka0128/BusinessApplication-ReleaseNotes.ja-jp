@@ -1,7 +1,7 @@
 ---
-title: "概要"
-description: "概要"
-keywords: 
+title: 概要
+description: 概要
+keywords: ''
 ms.date: 09/24/2018
 ms.service: business-applications
 ms.topic: overview
@@ -10,14 +10,13 @@ author: m-hartmann
 ms.author: mhart
 manager: shellyha
 topic-status: Drafting
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 378ec5ccc9f64dba9e2a87e49537b8fbf8bfbf4e
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "200079"
 ---
-
 #  <a name="overview-of-microsoft-social-engagement-october-18-release"></a>Microsoft Social Engagement 2018 年 10 月リリースの概要
 
 
@@ -25,7 +24,7 @@ Microsoft Social Engagement では、ソーシャル データの分析の機能
 
 マーケターや PR チームには、ブランドの評判を測定および管理するためのツールを提供することが重要です。 またサービス エージェントには、問題をあらゆるチャネルで効果的に解決できるようにするための手段が必要です。 さらに営業チームに関しては、新規の潜在顧客を獲得し、関連するコンテンツを使用して潜在顧客とのエンゲージメントを促進できるようにすることが重要です。 
 
-2018 年 10 月リリースでは、これらのニーズにより強力に応えるための新機能が追加されています。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+2018 年 10 月リリースでは、これらのニーズにより強力に応えるための新機能が追加されています。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 今回のリリースの主要テーマは次のとおりです。
 
@@ -38,4 +37,3 @@ Microsoft Social Engagement では、ソーシャル データの分析の機能
 - **追加言語**: Microsoft Social Engagement では、複数の言語が新たにサポートされます。これにより、対応地域が大幅に拡大され、新しい市場や地域のお客様にもソリューションをご利用いただけるようになります。 追加言語は、UI とデータ取得の両方を対象に追加されます。
 
 - **Dynamics 365 for Marketing のソーシャル インサイト**: Dynamics 365 for Marketing アプリ内の Microsoft Social Engagement からは、コンテキストに応じたソーシャル インサイトを取得できます。 ユーザーは、キャンペーンやイベントを追跡し、それらの成果をソーシャル メディア上で確認できます。 また、カスタマイズ可能なダッシュボードで、ブランドの評判を分析することができます。 Dynamics 365 for Marketing のソーシャル インサイトを取得するための構成は簡単で、すばやく利用を開始できます。
-

@@ -1,23 +1,22 @@
 ---
-title: "グリッド内の既定の付箋アクション"
-description: "既定の付箋アクション機能は、個人用設定が適用された後で既定のアクション列がグリッド内に表示される位置を制御します。"
+title: グリッド内の既定の付箋アクション
+description: 既定の付箋アクション機能は、個人用設定が適用された後で既定のアクション列がグリッド内に表示される位置を制御します。
 author: jasongre
 manager: AnnBe
 ms.date: 01/08/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
+ms.openlocfilehash: 8c1d93c91cb5c9e1c8e1f19c9c1dbe57d27278e5
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 4e870aa1a93bbb42d8d9c61a539ff10bcf216d2e
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "200081"
 ---
-
 # <a name="sticky-default-actions-in-grids"></a>グリッド内の既定の付箋アクション
 
 Finance and Operations の多くのグリッドで、*既定のアクション*が定義されています。 これは、すべての行の値が常にハイパーリンクとして表示されるグリッド内の単一の列です。これに対し、他の列では、アクティブな行の値のみがハイパーリンクとして表示されます。 これまでの Finance and Operations では、この既定のアクションは常に、ユーザーが個人用設定を適用する前の、グリッドの最初のテキスト列に表示されます。 たとえば、次のような**顧客**リストの**取引先企業**列について考えます。
@@ -41,7 +40,6 @@ Platform Update 21 以降で利用可能な**既定の付箋アクション**機
 *既定の付箋アクションをオンにすると、個人用設定に関係なく、[取引先企業] 列が引き続き既定のアクション列です。*
 
 Platform Update 21 では、既定の付箋アクション機能はオフになっていますが、システム管理者は環境に対してオンにすることができます。 この機能を有効にするには、**システム管理**の**クライアント パフォーマンス オプション** ページにある、**既定の付箋アクションの有効化**スイッチを使用します。   
-
 
 
 

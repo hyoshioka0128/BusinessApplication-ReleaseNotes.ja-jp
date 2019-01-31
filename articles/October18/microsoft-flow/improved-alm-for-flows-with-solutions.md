@@ -1,22 +1,22 @@
 ---
-title: "ソリューションを使用したフローの ALM の向上"
-description: "ソリューションには、キャンバス アプリ、およびモデル駆動型アプリ、フロー、他のコンポーネントを含めることができます。"
+title: ソリューションを使用したフローの ALM の向上
+description: ソリューションには、キャンバス アプリ、およびモデル駆動型アプリ、フロー、他のコンポーネントを含めることができます。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
 ms.date: 01/02/2019
 ms.assetid: 66861f2b-56e1-e811-a976-000d3a137a43
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: stepsic
 audience: Power user
+ms.openlocfilehash: fd34a5ddeb486f9fc770a014b181ea732c1e8228
+ms.sourcegitcommit: 851bbbbeaac02e33829dfbf5f6f8e4055acf0822
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: deb13c779fe624fc20d8a5ab1fb3c1c0a548371b
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "203607"
 ---
 # <a name="improved-alm-for-flows-with-solutions"></a>ソリューションを使用したフローの ALM の向上
 

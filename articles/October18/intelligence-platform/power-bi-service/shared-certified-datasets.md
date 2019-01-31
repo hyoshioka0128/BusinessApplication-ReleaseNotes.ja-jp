@@ -1,22 +1,22 @@
 ---
-title: "共有データセットと認定データセット"
-description: "単一バージョンの事実を維持するために、ユーザー間でデータセットを共有します。"
+title: 共有データセットと認定データセット
+description: 単一バージョンの事実を維持するために、ユーザー間でデータセットを共有します。
 author: Annbe
 manager: AnnBe
 ms.date: 11/05/2018
 ms.assetid: 1508b82e-6be4-47f9-a827-3659f79aa7a1
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: Annbe
 audience: Analyst
-ms.translationtype: HT
-ms.sourcegitcommit: 7d336b7079c5a48efde6fed8fc5c749f7bd5aaef
 ms.openlocfilehash: 29526ea82d210ca35dade9ab07aad0d5e55f8db1
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/06/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199097"
 ---
 # <a name="shared-and-certified-datasets"></a>共有データセットと認定データセット
 
@@ -30,5 +30,5 @@ Power BI レポートの背後にあるデータ モデルまたは Analysis Ser
 
 *認定データセット*により、組織がユーザーを信頼できる正式なデータセットに誘導することが容易になります。 データセットのこの "承認のスタンプ" は、新しいテナント設定で定義された特定の Power BI ユーザーグループだけが適用できます。 データセットが認定されると、新しいデータセット検出エクスペリエンスに目立つように表示され、レポート作成者がこれらの高品質なデータ ソースを簡単に見つけて活用できるようにします。 
 
-![コメントの例](media/certified-datasets.png "認定データセット")
-
+> [!div class="mx-imgBorder"]
+> ![コメントの例](media/certified-datasets.png "認定データセット")

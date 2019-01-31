@@ -1,21 +1,21 @@
 ---
-title: "2018 年 10 月の Dynamics 365 for Project Service の概要"
-description: "2018 年 10 月の Dynamics 365 for Project Service の概要"
+title: 2018 年 10 月の Dynamics 365 for Project Service の概要
+description: 2018 年 10 月の Dynamics 365 for Project Service の概要
 author: krbjoran
 manager: shellyhaverkamp
 ms.date: 8/15/2018
 ms.topic: summary
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: krbjoran
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: 56295ae98a9cf96837e423810569a153442c4a9b
 ms.openlocfilehash: e3ac174b3546c7fedced261c687577e1cffb2fbb
-ms.contentlocale: ja-jp
-ms.lasthandoff: 12/04/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "200140"
 ---
 #  <a name="summary-of-whats-new-in-dynamics-365-for-project-service"></a>Dynamics 365 for Project Service の新機能の概要
 
@@ -37,5 +37,4 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [1 つの価格表で複数の時間単位をサポート](../project-service/customer-driven-enhancements/Support-for-timeunit-for-resource-pricing.md)                                              | 一般提供           | 2019 年 3 月          |
 | [利幅率を追加することで価格表のコピーを作成する機能](../project-service/customer-driven-enhancements/Copies-of-price-list-adding-markup.md)                                         | 一般提供           | 2018 年 12 月          |
 | [プロジェクトでの複数通貨の原価価格表の解決](../project-service/customer-driven-enhancements/Resolution-of-cost-price-list-for-projects.md)                                           | 一般提供           | 2019 年 3 月          |
-
 

@@ -1,23 +1,22 @@
 ---
-title: "ナビゲーション ウィンドウの使いやすさの向上"
-description: "ナビゲーション ウィンドウにいくつかの機能拡張が追加され、使いやすさが向上しました。"
+title: ナビゲーション ウィンドウの使いやすさの向上
+description: ナビゲーション ウィンドウにいくつかの機能拡張が追加され、使いやすさが向上しました。
 author: jasongre
 manager: AnnBe
 ms.date: 01/08/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
+ms.openlocfilehash: a83c2e17f40f1ebb71e90bc18b2b0dcf0decee1e
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.sourcegitcommit: dbd8a17e3e500201426a03a48feb4bf5a2c7d024
-ms.openlocfilehash: 74c361095502d1cce0bd9d526eeeaaccabb77689
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/01/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199386"
 ---
-
 # <a name="improved-usability-of-the-navigation-pane"></a>ナビゲーション ウィンドウの使いやすさの向上
 
 ナビゲーション ウィンドウは、Finance and Operations でよく使われるナビゲーション メカニズムであり、お気に入り、最近開いたページ、ワークスペース、メイン メニューへのアクセスを提供します。 使用頻度が高いので、ナビゲーション ウィンドウは使いやすさを向上させるためにいくつかの方法で強化されています。 これらの変更は、Platform Update 22 以降で利用できます。 
@@ -28,13 +27,15 @@ ms.lasthandoff: 11/01/2018
     
     たとえば、次の画像は、Platform Update 21 以前のナビゲーション ウィンドウを示しています。 ワークスペース タイルが多くの空間を占めることにご注意ください。
 
-    ![Platform Update 21 以前のナビゲーション ウィンドウ](media/oldNavPane.png "Platform Update 21 以前のナビゲーション ウィンドウ")
+    > [!div class="mx-imgBorder"]
+    > ![Platform Update 21 以前のナビゲーション ウィンドウ](media/oldNavPane.png "Platform Update 21 以前のナビゲーション ウィンドウ")
 
     *前: Platform Update 21 以前のナビゲーション ウィンドウ*
     
     次の画像は、Platform Update 22 のナビゲーション ウィンドウを示しています。 ワークスペース タイルがよりよく整理されていることにご注意ください。
 
-    ![Platform Update 22 より後のナビゲーション ウィンドウ](media/newNavPane.png  "Platform Update 22 より後のナビゲーション ウィンドウ")
+    > [!div class="mx-imgBorder"]
+    > ![Platform Update 22 より後のナビゲーション ウィンドウ](media/newNavPane.png  "Platform Update 22 より後のナビゲーション ウィンドウ")
 
     *後: Platform Update 22 以降のナビゲーション ウィンドウ*
 
@@ -42,7 +43,8 @@ ms.lasthandoff: 11/01/2018
 
     モジュール メニューをより使いやすく、ユーザーをわずらわせないものにするために、各ユーザーがほぼ完全に折りたたまれたモジュール メニューから開始するようにしています。次の画像に示すように、既定では**ワークスペース** フォルダーだけが展開されます。
 
-    ![メニューがほぼ完全に折りたたまれた状態で開始](media/collapsedNavPane.png  "メニューがほぼ完全に折りたたまれた状態で開始")
+    > [!div class="mx-imgBorder"]
+    > ![メニューがほぼ完全に折りたたまれた状態で開始](media/collapsedNavPane.png  "メニューがほぼ完全に折りたたまれた状態で開始")
 
     *ユーザーが初めてモジュールを開いたとき、最初はほとんどのモジュール メニューが折りたたまれて表示される*
 
@@ -56,8 +58,8 @@ ms.lasthandoff: 11/01/2018
     
     たとえば、**ベンダー** フォルダーと**発注書**フォルダーに最も頻繁に使用するメニュー項目が含まれる場合、この 2 つのフォルダーを展開でき、次回このメニューを開いたときにそれらが展開されます。
 
-    ![次回](media/partialNavPane.png  "次回")
+    > [!div class="mx-imgBorder"]
+    > ![次回](media/partialNavPane.png  "次回")
 
     *システムに各メニューの拡大/縮小状態が記憶される*
-
 

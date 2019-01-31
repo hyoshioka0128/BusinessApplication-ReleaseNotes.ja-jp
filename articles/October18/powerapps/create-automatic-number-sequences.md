@@ -1,26 +1,26 @@
 ---
-title: "自動採番の作成"
-description: "アプリ用 Common Data Service のレコードで連番が自動で生成されるよう採番方法を定義します。"
+title: 自動採番の作成
+description: アプリ用 Common Data Service のレコードで連番が自動で生成されるよう採番方法を定義します。
 author: matthewbolanos
 ms.reviewer: anneta
-ms.date: 01/11/2019
+ms.date: 12/20/2018
 ms.assetid: 5a1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: mabolan
 audience: Power user
+ms.openlocfilehash: 9c7818f2c92b569a24d4609ed10f2dbd86a43c36
+ms.sourcegitcommit: 4516c399d430cc569513d46822c70670809fe5c6
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 3a7cc516eec4a0eec9a6bc6fe4739fab3453e13c
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/12/2019
+ms.locfileid: "202236"
 ---
 # <a name="create-automatic-number-sequences"></a>自動採番の作成
 
 
-[!include[powerapps banner](../includes/powerapps.md)]
+[!include[banner](../../includes/banner.md)]
 
 PowerApps では、数字が自動で生成されてアプリ用  Common Data Service のエンティティに適用されるよう、1 つ以上のシーケンスを定義できます。

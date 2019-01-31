@@ -1,27 +1,23 @@
 ---
-title: "クルーのスケジューリング"
-description: "クルーのスケジューリング"
+title: クルーのスケジューリング
+description: クルーのスケジューリング
 author: Dgittler
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 96e82715-35fd-4587-a004-bbf57a14c1b2
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
 ms.openlocfilehash: 3a4d97689d45cb057cf9462c695af92b60962698
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199687"
 ---
-
-
-
-
 #  <a name="predefined-crews"></a>定義済みのクルー
 
 [!include[field-service banner](../../../includes/field-service.md)]
@@ -37,14 +33,15 @@ ms.lasthandoff: 11/08/2018
     * フードとグリース トラップのクリーニング
     > クルーは日程の効率性を考慮して編成され、編成の期間は必要に応じてどのような長さにもできます。
 
-![スケジュール アシスタントでクルーを予約する](media/Crew-Book-Expanded.png "スケジュール アシスタントでクルーを予約する")
+> [!div class="mx-imgBorder"]
+> ![スケジュール アシスタントでクルーを予約する](media/Crew-Book-Expanded.png "スケジュール アシスタントでクルーを予約する")
 <!-- picture -->
 
 *スケジュール アシスタントでのクルーの予約*
 
-![スケジュール ボードでのクルー](media/Bookings-for-entire-crew.png "スケジュール ボードでのクルー")
+> [!div class="mx-imgBorder"]
+> ![スケジュール ボードでのクルー](media/Bookings-for-entire-crew.png "スケジュール ボードでのクルー")
 <!-- picture -->
 
 *スケジュール ボードでのクルー*
-
 

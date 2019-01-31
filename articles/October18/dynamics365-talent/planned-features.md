@@ -1,21 +1,21 @@
 ---
-title: "Microsoft Dynamics 365 for Talent の 2018 年 10 月リリースで計画されている機能の概要"
-description: "Microsoft Dynamics 365 for Talent の 2018 年 10 月リリースで計画されている機能の概要"
+title: Microsoft Dynamics 365 for Talent の 2018 年 10 月リリースで計画されている機能の概要
+description: Microsoft Dynamics 365 for Talent の 2018 年 10 月リリースで計画されている機能の概要
 author: josaw1
 manager: AnnBe
-ms.date: 11/20/2018
+ms.date: 12/26/2018
 ms.topic: summary
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: josaw
 audience: Admin, end user
+ms.openlocfilehash: 3d0f1d1e56fcf4d25c27992203d1f5c6d99b4838
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.sourcegitcommit: 8b9dec7b0e8a9af2786e5b342d1b8f7d07ff1102
-ms.openlocfilehash: 13e30036f7e8a8dc9aa812bb818f7238b1e0292b
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199311"
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-for-talent"></a>Dynamics 365 for Talent の新機能の概要
 
@@ -42,7 +42,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 > | [タレント プール](attract/talent-pools.md)       |   一般提供 | 2018 年 10 月 8 日                   |
 > | 電子メール テンプレート ライブラリとブランディング | 一般提供  | 2018 年 10 月 8 日    |
 > | [妥当な職務と候補者](attract/relevant-jobs-candidates.md)       |     パブリック プレビュー  | 2018 年 10 月 8 日       |
-> | [レポートと分析](attract/attract.md)   | パブリック プレビュー    |   2018 年 11 月     |
+
 
 ## <a name="onboard"></a>Onboard
 
@@ -85,4 +85,3 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 > | アプリ用 CDS 上の Onboard |  一般提供  | 2018 年 10 月  |
 > | アプリ用 CDS 上の Attract |  一般提供  | 2018 年 10 月  |
 > | Finance and Operations との統合を可能にするための Core HR エンティティの同期 | 一般提供 | 2018 年 10 月 31 日  |
-

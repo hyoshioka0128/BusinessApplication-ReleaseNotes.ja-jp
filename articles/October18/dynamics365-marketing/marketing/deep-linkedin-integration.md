@@ -1,6 +1,6 @@
 ---
-title: "LinkedIn の深い統合"
-description: "LinkedIn の統合への投資が続けられており、Dynamics 365 for Marketing はプロフェッショナル ネットワークと LinkedIn でのリレーションシップからリードを生成するための緊密な統合を提供します。"
+title: LinkedIn の深い統合
+description: LinkedIn の統合への投資が続けられており、Dynamics 365 for Marketing はプロフェッショナル ネットワークと LinkedIn でのリレーションシップからリードを生成するための緊密な統合を提供します。
 ms.date: 11/01/2018
 ms.service: business-applications
 ms.topic: article
@@ -8,14 +8,13 @@ ms.assetid: 0994039a-5ff0-4b3d-bc47-1e1cd78b242e
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
-ms.translationtype: HT
-ms.sourcegitcommit: 2fc9f86108ecb8828fb95e6f8ee732f9f433f1a3
 ms.openlocfilehash: 347216d4a681d2022fe1efce8bc27cf494b07b17
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/01/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199524"
 ---
-
 # <a name="deep-linkedin-integration"></a>LinkedIn の深い統合
 
 Dynamics 365 for Marketing は、プロフェッショナル ネットワークとリレーションシップからリードを生成するための LinkedIn の深い統合を提供します。 新しい統合機能では、LinkedIn でターゲットを指定した顧客体験を実行し、発生した対話をオーケストレーション、スコアリング、セグメンテーションに利用できます。
@@ -37,7 +36,7 @@ Dynamics 365 for Marketing は、LinkedIn Lead Gen Forms を使用して取得�
 
 ## <a name="resources"></a>リソース
 
-- [LinkedIn Matched Audiences による LinkedIn での Dynamics 365 セグメントへのマーケッティング](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/linkedin-matched-audience)
+- [LinkedIn Matched Audiences を使用した LinkedIn での Dynamics 365 セグメントへのマーケティング](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/linkedin-matched-audience)
 - [顧客体験のための LinkedIn キャンペーン タイル](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/customer-journey-tiles-reference#linkedin-tile)
 - [LinkedIn Lead Gen Integration](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/linkedin-lead-gen-integration)
 
@@ -47,4 +46,3 @@ Marketers and marketing managers
 ### Setup required
 Administrators can easily set up and configure the feature in the app settings.
 -->
-

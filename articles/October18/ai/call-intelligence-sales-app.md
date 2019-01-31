@@ -1,7 +1,7 @@
 ---
-title: "コール センターの AI を使用したインサイド セールスの変換"
-description: "コール センターの AI を使用したインサイド セールスの変換"
-keywords: 
+title: コール センターの AI を使用したインサイド セールスの変換
+description: コール センターの AI を使用したインサイド セールスの変換
+keywords: ''
 ms.date: 11/08/2018
 ms.service:
 - business-applications
@@ -10,14 +10,13 @@ ms.assetid: c87a6ec3-58ff-4030-8587-e0c8541f25c0
 author: jasonmsft
 ms.author: jasonhui
 manager: AnnBe
-ms.translationtype: HT
-ms.sourcegitcommit: d32028a55c4b1ea163e60a25515a562172199e4a
 ms.openlocfilehash: 99c0b82bbe63ee22de9d7042660a8b6a0ce78aff
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/14/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199321"
 ---
-
 # <a name="transform-inside-sales-using-ai-in-the-call-center"></a>コール センターの AI を使用したインサイド セールスの変換
 
 [!include[ai banner](../includes/ai.md)] 
@@ -34,4 +33,3 @@ Dynamics 365 組織と非 Dynamics 組織は、Microsoft のコール インテ�
 ## <a name="resources"></a>リソース
 
 [コール インテリジェンス](https://docs.microsoft.com/dynamics365/ai/sales/call-intelligence)
-

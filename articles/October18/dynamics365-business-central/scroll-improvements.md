@@ -1,22 +1,22 @@
 ---
-title: "リストのスクロールの向上。"
-description: "リストの行の読み込みとスクロールが向上しました。"
+title: リストのスクロールの向上。
+description: リストの行の読み込みとスクロールが向上しました。
 author: mikebcMSFT
 manager: edupont04
 ms.date: 09/23/2018
 ms.assetid: 011c924e-f156-4cd7-a034-99a13b5a7869
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: mikebc
 audience: end user
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 637a7105e8150f02a2bc2bafc3c59d9fef51fdfa
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199859"
 ---
 #  <a name="improvements-to-scrolling-in-lists"></a>リストのスクロールの向上
 
@@ -37,4 +37,3 @@ ms.lasthandoff: 10/26/2018
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralideas) をご利用ください。
-

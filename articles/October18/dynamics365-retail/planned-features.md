@@ -1,22 +1,22 @@
 ---
-title: "Dynamics 365 for Retail の新機能の概要"
-description: "2018 年 10 月に Retail に対して計画されている機能の概要"
+title: Dynamics 365 for Retail の新機能の概要
+description: 2018 年 10 月に Retail に対して計画されている機能の概要
 author: josaw1
 manager: AnnBe
-ms.date: 11/27/2018
+ms.date: 01/18/2019
 ms.assetid: 09feb0b5-1463-4952-8db7-9102711e87a0
 ms.topic: summary
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: josaw
 audience: Admin
+ms.openlocfilehash: a3ba64f7a77696a7e2c60d8f837e8481e7531e2f
+ms.sourcegitcommit: bdd8328c237beb442560635fa9459e8cd118273d
 ms.translationtype: HT
-ms.sourcegitcommit: d591d92aac42c2edbe447f9b38a455ed0baddcaa
-ms.openlocfilehash: c29bebc81ad9b1a7a0bc106984e966c07c587a03
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/18/2019
+ms.locfileid: "213894"
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-for-retail"></a>Dynamics 365 for Retail の新機能の概要
 
@@ -34,7 +34,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | 機能                     | リリースの種類   | クラウドまたはオンプレミス                      |日付 |
 |-----------------------------|----------------|----------------------------------------------|-----------------------|
 |[アップグレードと N-1 のサポート](support-upgrade-n-1-ax2012.md)     |一般提供   |  クラウド  |2018 年 10 月   |
-|[営業時間](store-hours.md)        |一般提供    | クラウド    |2018 年 10 月     |
+|[営業時間](store-hours.md)        |一般提供    | 両方    | 2018 年 12 月 29 日     |
 |[分散型注文管理 (DOM)](distributed-order-management.md)   |一般提供     |   クラウド  |2018 年 10 月 1 日      |
 |[インドでのアップグレードと N-1 のサポート](retail-upgrade-n-1-india.md)     |一般提供   |   クラウド  |2018 年 10 月 1 日 |
 |[東ヨーロッパ向け Retail のローカライズ](retail-localization-eastern-europe.md) |一般提供  |  クラウド  |2018 年 11 月  |
@@ -48,7 +48,9 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 |[拡張性の向上](improved-extensibility.md)  |一般提供           |    クラウド |2018 年 11 月 30 日   |
 |[ロイヤルティの機能強化ウェーブ 2](loyalty-november-18.md)|一般提供 | 両方 |2018 年 12 月 10 日 |
 |[POS 仕訳帳の向上](POS-journal-improvements.md)       | 一般提供        | 両方         |2018 年 12 月 |
-|[オムニチャネル自動請求](omni-channel-auto-charges.md)  |一般提供  |   クラウド|2019 年 1 月 21 日 |
-|[e コマース チャネルでのサンプル注文のサポート](ecommerce-zero-dollar-order-support.md) |一般提供| クラウド| 2019 年 1 月 21 日
-| [注文属性](order-attributes.md) |一般提供| クラウド| 2019 年 1 月 21 日 |
-
+|[領収書のない返品に対する支払方法の制限](returns-without-receipt.md)  | 一般提供 |  両方  | 2019 年 1 月 21 日 |
+|[オムニチャネル自動請求](omni-channel-auto-charges.md)  |一般提供  |   クラウド| 2019 年 1 月 21 日 |
+|[e コマース チャネルでのサンプル注文のサポート](ecommerce-zero-dollar-order-support.md) |一般提供| クラウド| 2019 年 1 月 21 日 |
+|[注文属性](order-attributes.md) |一般提供| クラウド| 2019 年 1 月 21 日 |
+|[オムニチャネル注文処理の向上](improved-omni-channel-order-processing.md) | 一般提供 | クラウド |  2019 年 2 月 |
+|[小売顧客に対するギフト カード残高のキャッシュ アウト](giftcard-cashout.md)   |  一般提供 | 両方 | 2019 年 1 月 21 日 |

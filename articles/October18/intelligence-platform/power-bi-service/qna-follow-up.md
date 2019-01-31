@@ -1,25 +1,24 @@
 ---
-title: "Q&A - 関連する質問を行う"
-description: "Q&A を使って関連する質問を行う"
+title: Q&A - 関連する質問を行う
+description: Q&A を使って関連する質問を行う
 author: mohaali
 manager: RichTk
 ms.date: 11/29/2018
-ms.assetid: 
+ms.assetid: ''
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: mohaali
 audience: Admin
 ms.reviewer: mihart
-ms.translationtype: HT
-ms.sourcegitcommit: 19f14e3ac903928dc13e8c49378725ac0b01f73b
 ms.openlocfilehash: 573e65ba4aec69b7701ff7f0b003c1cdf27e380c
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
-
---- 
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199812"
+---
 #  <a name="ask-related-questions-using-qa"></a>Q&A を使って関連する質問を行う
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)] 
@@ -28,6 +27,6 @@ Q&A では、フォローアップや関連する質問を行う機能がサポ�
 
 マイクロソフトでは、フォローアップの質問を使用できるさまざまな方法をサポートしています。 元の質問の変更、関連する質問、元の質問への追加を行ったり、必要な答えが得られるまで続けたりすことができます。
 
-![関連する質問を行う](media/qnafollowup.png "関連する質問を行う")
-
+> [!div class="mx-imgBorder"] 
+> ![関連する質問を行う](media/qnafollowup.png "関連する質問を行う")
 

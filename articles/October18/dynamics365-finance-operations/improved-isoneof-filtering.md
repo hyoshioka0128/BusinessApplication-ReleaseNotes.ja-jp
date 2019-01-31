@@ -1,36 +1,37 @@
 ---
-title: "最適化された「次の値のいずれか」フィルタリング結果"
-description: "「次の値のいずれか」フィルター演算子が改善されました。 新しいエクスペリエンスでは、単一の入力フィールドからフィルター値を入力するときに、複数のフィルター値を入力するのに必要なキー ストロークが少なくなりました。"
+title: 最適化された「次の値のいずれか」フィルタリング結果
+description: 「次の値のいずれか」フィルター演算子が改善されました。 新しいエクスペリエンスでは、単一の入力フィールドからフィルター値を入力するときに、複数のフィルター値を入力するのに必要なキー ストロークが少なくなりました。
 author: jasongre
 manager: AnnBe
 ms.date: 01/08/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
+ms.openlocfilehash: 3b58c7caf610ccb8040083a00701a8c53ba7c070
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.sourcegitcommit: d97ebd0133cc27a2d24d0dc65beceac42894da89
-ms.openlocfilehash: e7c22bea50101ef89cebe1673cfb2e9528a7038f
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/01/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199623"
 ---
-
 # <a name="optimized-is-one-of-filtering-experience"></a>最適化された「次の値のいずれか」フィルタリング結果
 
 フィルター ウィンドウおよびグリッド ヘッダーのドロップダウンリストを使用するとき、ほとんどのフィールドで「次の値のいずれか」フィルター演算子を使用できます。 この演算子を使用すると、複数の異なる値に基づいてフィールドをフィルター処理できます。 「次の値のいずれか」演算子の使いやすくなった新しいエクスペリエンスは、Platform Update 22 で利用できます。 改善点をよりよく理解するには、次の画像をご覧ください。
 
 この画像では、Platform Update 22 より前の「次の値のいずれか」フィルタリング結果が示されています。
 
-![Platform Update 22 より前の「次の値のいずれか」フィルタリング結果](media/isOneOfBefore.png "Platform Update 22 より前の「次の値のいずれか」フィルタリング結果")
+> [!div class="mx-imgBorder"]
+> ![Platform Update 22 より前の「次の値のいずれか」フィルタリング結果](media/isOneOfBefore.png "Platform Update 22 より前の「次の値のいずれか」フィルタリング結果")
 
 *Platform Update 22 より前の「次の値のいずれか」フィルタリング結果*
 
 次の画像では、Platform Update 22 での「次の値のいずれか」フィルタリング結果が示されています。
 
-![Platform Update 22 での「次の値のいずれか」フィルタリング 結果](media/isOneOfAfter.png  "Platform Update 22 での「次の値のいずれか」フィルタリング結果")
+> [!div class="mx-imgBorder"]
+> ![Platform Update 22 での「次の値のいずれか」フィルタリング 結果](media/isOneOfAfter.png  "Platform Update 22 での「次の値のいずれか」フィルタリング結果")
 
 *Platform Update 22 で最適化された「次の値のいずれか」フィルタリング結果*
 
@@ -53,7 +54,6 @@ ms.lasthandoff: 11/01/2018
 ## <a name="enabling-the-optimized-is-one-of-filtering-experience"></a>最適化された「次の値のいずれか」フィルタリング結果を有効にする 
 
 Platform Update 22 では、最適化された「次の値のいずれか」フィルタリング結果は既定でオフになっていますが、システム管理者は環境でこの機能をオンにすることができます。 この機能を有効にするには、**システム管理**の**クライアント パフォーマンス オプション** ページにある、**最適化された「次の値のいずれか」フィルタリング結果**スイッチを使用します。   
-
 
 
 

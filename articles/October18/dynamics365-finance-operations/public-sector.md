@@ -1,23 +1,22 @@
 ---
-title: "公的機関の機能強化"
-description: "2018 年 10 月リリースでの公的機関のお客様向けの新機能。"
+title: 公的機関の機能強化
+description: 2018 年 10 月リリースでの公的機関のお客様向けの新機能。
 author: aprilolson
 manager: AnnBe
 ms.date: 09/25/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: aolson
 audience: end user
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: dc811c339864f650660d471d05a2be731ca50641
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199519"
 ---
-
 # <a name="public-sector-enhancements"></a>公的機関の機能強化
 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -33,6 +32,5 @@ ms.lasthandoff: 10/26/2018
 - ベンダー ファイルの重複レコードを防ぐための、連邦税 ID による重複ベンダーの検証。
 - 当期の運営予算から会計年度繰越予算を分離する事業体の前年度の取引として、詳細な元帳エントリおよび一般予算引当を転記する機能。
 -   小切手で支払われない仕入先および従業員に対する支払いの参照を提供する ACH 電子支払番号。
-
 
 

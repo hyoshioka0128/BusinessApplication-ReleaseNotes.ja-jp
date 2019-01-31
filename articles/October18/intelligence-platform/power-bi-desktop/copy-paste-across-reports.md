@@ -1,23 +1,22 @@
 ---
-title: "レポート間でのコピーと貼り付け"
-description: "異なる PBIX ファイル間でのビジュアルのコピー"
+title: レポート間でのコピーと貼り付け
+description: 異なる PBIX ファイル間でのビジュアルのコピー
 author: MI77
 manager: kimani
 ms.date: 10/8/18
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: willthom
 audience: end user, business analyst
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: d63afabc3e369cec8b482efd0be847019fc42834
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199495"
 ---
-
 # <a name="copy-and-paste-across-reports"></a>レポート間でのコピーと貼り付け
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
@@ -33,4 +32,3 @@ In development
 #### Target timeframe
 October ‘18
 -->
-

@@ -1,21 +1,21 @@
 ---
-title: "構成可能なテンプレートによる簡略化"
-description: "構成可能なテンプレートによる簡略化"
+title: 構成可能なテンプレートによる簡略化
+description: 構成可能なテンプレートによる簡略化
 author: Annbe
 manager: AnnBe
 ms.date: 09/06/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: Annbe
 audience: end-user
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: b6a9664c7dee1e53db19eaf6ea09f30073f255ea
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199301"
 ---
 #  <a name="simplification-through-configurable-templates"></a>構成可能なテンプレートによる簡略化 
 
@@ -27,4 +27,3 @@ ms.lasthandoff: 10/26/2018
 > 2018 年 10 月リリースでは、パブリック レビューに使用した自由書式の請求書テンプレートのサンプル構成と、それがベースとするデータ モデル (顧客請求書モデル) が廃止され、使用できなくなりました。
 
 ![構成可能な自由書式の請求書の例](media/configurablefti.png "構成可能な自由書式の請求書の例")
-

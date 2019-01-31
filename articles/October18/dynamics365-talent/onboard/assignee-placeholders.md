@@ -1,22 +1,22 @@
 ---
-title: "担当者のプレースホルダー"
-description: "マネージャーは、担当者のプレースホルダーをテンプレートに挿入し、後で置き換えることができます。"
+title: 担当者のプレースホルダー
+description: マネージャーは、担当者のプレースホルダーをテンプレートに挿入し、後で置き換えることができます。
 author: tbisaacs
 manager: AnnBe
 ms.date: 07/22/2018
 ms.assetid: 26ef02e5-0935-4110-b73c-2dc9cecd3572
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: tbisaacs
 audience: end user
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: f3db7db9b5315245dcec2184cb33f440f4166cc4
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199191"
 ---
 #  <a name="assignee-placeholders"></a>担当者のプレースホルダー
 
@@ -38,4 +38,3 @@ In development
 # Target timeframe
 Public Preview: July
 -->
-

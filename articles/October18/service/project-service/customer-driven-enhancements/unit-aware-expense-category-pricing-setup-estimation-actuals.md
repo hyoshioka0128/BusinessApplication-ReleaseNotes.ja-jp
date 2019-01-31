@@ -1,21 +1,21 @@
 ---
-title: "セットアップ、見積もり、実績に対する出荷単位に対応した経費カテゴリの価格設定"
-description: "この機能は、Project Service で、経費カテゴリごとに単位ベースの価格設定方法を使用できるようにするものです。"
+title: セットアップ、見積もり、実績に対する出荷単位に対応した経費カテゴリの価格設定
+description: この機能は、Project Service で、経費カテゴリごとに単位ベースの価格設定方法を使用できるようにするものです。
 author: krbjoran
 manager: shellyhaverkamp
 ms.date: 7/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: krbjoran
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
 ms.openlocfilehash: 031018706b1c6aec6970c7a504e0e78c4fbdc733
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199098"
 ---
 #  <a name="unit-aware-expense-category-pricing-for-setup-estimation-and-actuals"></a>セットアップ、見積もり、実績に対する出荷単位に対応した経費カテゴリの価格設定 
 
@@ -32,8 +32,8 @@ ms.lasthandoff: 11/08/2018
 
 3.  外注の成果物を出荷単位として価格設定し、原価計算できるようにする。 外注の作業を、仕入先側で発生した時間や費用のレベルで詳細に追跡する必要がなく、完了後に仕入先から納品される生産物の単位で追跡すればよい場合は、仕入先の出荷単位を経費カテゴリとしてモデリングし、単位ごとに価格設定できるこの機能が、重要な機能となります。
 
-    ![単位ごとの価格設定](media/unit-aware-expense-category-pricing-setup-estimation-actuals-1.png "単位ごとの価格設定")
+    > [!div class="mx-imgBorder"]
+    > ![単位ごとの価格設定](media/unit-aware-expense-category-pricing-setup-estimation-actuals-1.png "単位ごとの価格設定")
     
 <!-- Picture 4 -->
-
 

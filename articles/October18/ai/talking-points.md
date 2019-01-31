@@ -1,7 +1,7 @@
 ---
-title: "話題機能を使用して関係者に関する情報を取得する"
-description: "話題機能を使用して関係者に関する情報を取得する"
-keywords: 
+title: 話題機能を使用して関係者に関する情報を取得する
+description: 話題機能を使用して関係者に関する情報を取得する
+keywords: ''
 ms.date: 11/08/2018
 ms.service:
 - business-applications
@@ -10,14 +10,13 @@ ms.assetid: f39e71d4-0eef-4579-b949-24e3672cb0a3
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
-ms.translationtype: HT
-ms.sourcegitcommit: d32028a55c4b1ea163e60a25515a562172199e4a
 ms.openlocfilehash: 77aeaffffd4ed03b06ccf87bdda2528e1371676e
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/14/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "200177"
 ---
-
 # <a name="never-forget-that-detail-about-your-stakeholder-with-talking-points"></a>話題機能を使用して関係者に関する情報を取得する
 
 [!include[ai banner](../includes/ai.md)] 
@@ -28,4 +27,3 @@ ms.lasthandoff: 11/14/2018
 
 - [話題の構成](https://docs.microsoft.com/dynamics365/ai/sales/configure-enable-dynamics-365-ai-sales#configure-talking-points)
 - [話題](https://docs.microsoft.com/dynamics365/ai/sales/talking-points)
-

@@ -1,23 +1,22 @@
 ---
-title: "グローバリゼーション - 構成可能性の強化"
-description: "このトピックでは、電子レポートおよびグローバリゼーション税エンジンでの強化された構成可能性について説明します。"
+title: グローバリゼーション - 構成可能性の強化
+description: このトピックでは、電子レポートおよびグローバリゼーション税エンジンでの強化された構成可能性について説明します。
 author: yijialuan
 manager: sshvedov
 ms.date: 10/17/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: riluan
 audience: Admin, developer, end-user
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 4cf45d0be337e3876e7d0b9691804e60f969f5a0
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199872"
 ---
-
 # <a name="globalization--enhanced-configurability"></a>グローバリゼーション - 構成可能性の強化
 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -44,4 +43,3 @@ ms.lasthandoff: 10/26/2018
 *税務書類での税措置の表示の構成*
 
 詳しくは、「[電子申告](https://docs.microsoft.com/en-us/dynamics365/unified-operations/dev-itpro/analytics/general-electronic-reporting?toc=/fin-and-ops/toc.json)」および「[税エンジンの概要](https://docs.microsoft.com/en-us/dynamics365/unified-operations/financials/general-ledger/tax-engine)」をご覧ください。
-

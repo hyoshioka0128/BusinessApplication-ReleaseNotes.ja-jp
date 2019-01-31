@@ -1,27 +1,23 @@
 ---
-title: "フルフィルメントの基本設定"
-description: "フルフィルメントの基本設定"
+title: フルフィルメントの基本設定
+description: フルフィルメントの基本設定
 author: Dgittler
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 96e82715-35fd-4587-a004-bbf57a14c1b2
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
 ms.openlocfilehash: 333d2399838c87721824066ace25ebe4e96628ad
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199400"
 ---
-
-
-
-
 #  <a name="fulfillment-preferences"></a>フルフィルメントの基本設定
 
 [!include[field-service banner](../../../includes/field-service.md)]
@@ -46,14 +42,15 @@ ms.lasthandoff: 11/08/2018
 
 - **上位の結果だけを表示する** - 時間グループまたは間隔に関して冗長と思われる結果を制限することで、スケジュール画面を整理します。
 
-![ウィンドウに分割された結果を表示するスケジュール アシスタント](media/Time-Group-Details.png "時間グループの詳細")
+> [!div class="mx-imgBorder"]
+> ![ウィンドウに分割された結果を表示するスケジュール アシスタント](media/Time-Group-Details.png "時間グループの詳細")
 <!-- picture -->
 
 *ウィンドウに分割された結果を表示するスケジュール アシスタント*
 
-![間隔スケジュール設定の一部として時間の結果を表示するスケジュール アシスタント](media/Intervals-on-the-hour.png "間隔")
+> [!div class="mx-imgBorder"]
+> ![間隔スケジュール設定の一部として時間の結果を表示するスケジュール アシスタント](media/Intervals-on-the-hour.png "間隔")
 <!-- picture -->
 
 *間隔スケジュール設定の一部として時間の結果を表示するスケジュール アシスタント*
-
 

@@ -1,25 +1,25 @@
 ---
-title: "Microsoft Dynamics 365 for Talent 2018 年 10 月リリースの概要"
-description: "Microsoft Dynamics 365 for Talent 2018 年 10 月リリースの概要"
+title: Microsoft Dynamics 365 for Talent 2018 年 10 月リリースの概要
+description: Microsoft Dynamics 365 for Talent 2018 年 10 月リリースの概要
 author: josaw1
 manager: AnnBe
 ms.date: 09/20/2018
 ms.topic: overview
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: josaw
 audience: Admin, end user
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 67a04f4a64c17c6939fc9a66cafaf33f8a5e88f8
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199240"
 ---
 #  <a name="overview-of-dynamics-365-for-talent-october-18-release"></a>Dynamics 365 for Talent 2018 年 10 月リリースの概要
 
-Dynamics 365 for Talent の 2018 年 10 月更新プログラムでは、申請者追跡システム (ATS) の機能や部門別オンボーディングのサポートが追加されたほか、給付金、従業員、組織の管理機能も新たに追加されています。 この最新リリースを使用することで、Dynamics パートナーは Talent を拡張し、アプリ用 Common Data Service に追加機能を導入することができます。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
+Dynamics 365 for Talent の 2018 年 10 月更新プログラムでは、申請者追跡システム (ATS) の機能や部門別オンボーディングのサポートが追加されたほか、給付金、従業員、組織の管理機能も新たに追加されています。 この最新リリースを使用することで、Dynamics パートナーは Talent を拡張し、アプリ用 Common Data Service に追加機能を導入することができます。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 ## <a name="streamlined-intelligent-and-compliant-recruiting"></a>効率性、インテリジェンス、コンプライアンスに優れた採用管理
 
@@ -42,4 +42,3 @@ Core HR では、休暇の申請や追跡を、従業員が直感的な方法で
 ## <a name="digital-transformation-of-hr-at-your-own-pace"></a>組織のペースに応じたデジタル人事変革
 
 近年では、多くの企業が人事業務の変革に取り組んでいます。このニーズは、多数の異種システムを稼働している企業においては特に切迫したものとなっています。 今回のリリースでは、すべてのシステムを アプリ用 Common Data Service に取りまとめて、従業員のエクスペリエンスと人事プロセスを変革できるようになりました。  Talent は、ビジネスの継続的な進化に適応する、柔軟でスケーラブルなソリューションを構築できるように設計されています。  お客様は、Common Data Service を利用して従業員向けの直感的なソリューションを作成し、Microsoft PowerApps、Microsoft Flow、および Microsoft Power BI を使用して、データ拡張および分析することができます。 また、給与管理や勤怠管理などのサード パーティ システムを Talent と統合して、従業員にシームレスなエクスペリエンスを提供することができます。 
-

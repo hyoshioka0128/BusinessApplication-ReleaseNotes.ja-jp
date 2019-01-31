@@ -1,23 +1,22 @@
 ---
-title: "報酬の強化"
-description: "この新しいロール ベースのアクセスは、報酬および報酬の処理を管理するときの専門性に対応しています。"
+title: 報酬の強化
+description: この新しいロール ベースのアクセスは、報酬および報酬の処理を管理するときの専門性に対応しています。
 author: josaw1
 manager: AnnBe
 ms.date: 09/07/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: josaw
 audience: end user
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 5a5cda20d14963d3f348e876df8aa0aa70a68b83
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "200126"
 ---
-
 # <a name="compensation-enhancements"></a>報酬の強化
 
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
@@ -37,4 +36,3 @@ ms.lasthandoff: 10/26/2018
 General Availability
 November 2018
 -->
-

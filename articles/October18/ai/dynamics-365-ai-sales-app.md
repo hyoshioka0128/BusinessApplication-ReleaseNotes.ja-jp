@@ -1,7 +1,7 @@
 ---
-title: "Dynamics 365 AI for Sales スタンドアロン エクスペリエンスによる営業のパフォーマンスとプランニングの強化"
-description: "Dynamics 365 AI for Sales スタンドアロン エクスペリエンスを使用した営業パフォーマンスの強化と営業プランニングの向上"
-keywords: 
+title: Dynamics 365 AI for Sales スタンドアロン エクスペリエンスによる営業のパフォーマンスとプランニングの強化
+description: Dynamics 365 AI for Sales スタンドアロン エクスペリエンスを使用した営業パフォーマンスの強化と営業プランニングの向上
+keywords: ''
 ms.date: 11/08/2018
 ms.service:
 - business-applications
@@ -10,14 +10,13 @@ ms.assetid: ed1543db-b687-449c-90b6-ca1715de1358
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
-ms.translationtype: HT
-ms.sourcegitcommit: d32028a55c4b1ea163e60a25515a562172199e4a
 ms.openlocfilehash: fad03a430806e817824272c89550c8d7da9e372c
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/14/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199658"
 ---
-
 # <a name="enhance-team-performance-with-ai-and-insights"></a>AI とインサイトによるチーム パフォーマンスの強化 
 
 [!include[ai banner](../includes/ai.md)] 
@@ -36,4 +35,3 @@ Dynamics 365 AI for Sales の営業マネージャー向け新機能は、営業
 ## <a name="resources"></a>リソース
 
 [営業マネージャー向けの Dynamics 365 AI for Sales の機能](https://docs.microsoft.com/dynamics365/ai/sales/dynamics365-ai-sales-app)
-

@@ -1,23 +1,22 @@
 ---
-title: "プラットフォーム拡張性の機能強化"
-description: "プラットフォーム拡張性の機能強化"
+title: プラットフォーム拡張性の機能強化
+description: プラットフォーム拡張性の機能強化
 author: ChrisGarty
 manager: AnnBe
 ms.date: 11/08/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: cgarty
 audience: developer, customizer
+ms.openlocfilehash: efbe2b3b45358e01e6277b5dcb3c1253259dfedf
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: eef6fac3fa0da19d74941cd422a87e7b5a08a5ee
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "200077"
 ---
-
 # <a name="platform-extensibility-enhancements"></a>プラットフォーム拡張性の機能強化
 
 プラットフォーム更新プログラム 16 からプラットフォーム更新プログラム 20 で強化された拡張性機能:
@@ -45,4 +44,3 @@ ms.lasthandoff: 10/26/2018
 - データソースとコントロールを含む、フォーム内の入れ子になった型でコマンド チェーンを有効にします。
 
 拡張機能の詳細については、[拡張機能のホーム ページ](/dynamics365/unified-operations/dev-itpro/extensibility/extensibility-home-page)を参照してください。
-

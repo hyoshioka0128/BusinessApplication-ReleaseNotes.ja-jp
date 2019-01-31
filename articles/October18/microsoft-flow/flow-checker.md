@@ -1,22 +1,22 @@
 ---
-title: "フロー チェッカー"
-description: "フロー チェッカーは、向上した検証およびエラー修正エクスペリエンスを提供します。 フロー内のエラーや警告がある場所についてのコンテキスト内ヘルプを取得し、それらのエラーを修正する方法のガイドを参照できます。"
+title: フロー チェッカー
+description: フロー チェッカーは、向上した検証およびエラー修正エクスペリエンスを提供します。 フロー内のエラーや警告がある場所についてのコンテキスト内ヘルプを取得し、それらのエラーを修正する方法のガイドを参照できます。
 author: sunayv
 ms.reviewer: deonhe
 ms.date: 01/02/2019
 ms.assetid: 4d7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: sunayv
 audience: Power user
+ms.openlocfilehash: 8a899a8318be46179187f04560465f3a61879cfb
+ms.sourcegitcommit: 851bbbbeaac02e33829dfbf5f6f8e4055acf0822
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 0bdaf0e948f9a1efcbcdc93a7be2d51f98d77b6b
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "203712"
 ---
 # <a name="flow-checker"></a>フロー チェッカー
 
@@ -29,10 +29,12 @@ ms.lasthandoff: 11/30/2018
 
 まず、フローチェッカーがデザイナーのコマンド バーに表示され、フローで 1 つ以上のエラーが識別されると赤いドットが表示されます。
 
-![コマンド バーのフロー チェッカー](media/flow-checker-1.png "コマンド バーのフロー チェッカー")
+> [!div class="mx-imgBorder"]
+> ![コマンド バーのフロー チェッカー](media/flow-checker-1.png "コマンド バーのフロー チェッカー")
 
 このボタンを選択して、チェッカーを開きます。 フローにエラーがある場合は、保存しようとするとチェッカーが開きます。 チェッカーが開くと、フロー内のすべてのエラーと警告が表示されます。 各セクションの内側で、チェッカーはエラーまたは警告が発生したアクションを呼び出します。
 
-![開いているフロー チェッカー ウィンドウ](media/flow-checker-2.png "開いているフロー チェッカー ウィンドウ")
+> [!div class="mx-imgBorder"]
+> ![開いているフロー チェッカー ウィンドウ](media/flow-checker-2.png "開いているフロー チェッカー ウィンドウ")
 
 エラーを修正するためにさらに詳細が必要な場合は、行を選択して追加のガイダンスを表示します。 フロー チェッカーはいくつかの基本的なシナリオで開始しますが、今後数か月にわたってガイダンスが追加される予定です。

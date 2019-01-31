@@ -1,24 +1,22 @@
 ---
-title: "注文属性"
-description: "注文属性フレームワークの拡張。"
+title: 注文属性
+description: 注文属性フレームワークの拡張。
 author: mugunthanm
 manager: AnnBe
 ms.date: 11/29/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: mumani
 audience: admin
-ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
 ms.openlocfilehash: 9909513e4885c6c185a58c09b66e5389bceca87b
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199753"
 ---
-
-
 # <a name="order-attributes"></a>注文属性
 
 現金持ち帰り (C&C) トランザクションと顧客注文の属性値を POS (販売時点管理) から直接表示し、更新するように注文属性フレームワークを機能強化しました。 前回のリリースでは、さまざまなシナリオ用の属性をサポートするように CRT フレームワークを機能強化しましたが、値を設定するために POS で使用できる UI はなく、拡張機能で UI を構築し、CRT から手動で読み取って更新する必要がありました。 この新機能により、開発者は本社の画面レイアウト デザイナーで属性パネルを構成し、POS でそのパネルにアクセスして C&C トランザクションと顧客注文の両方の属性値を設定することができます。 
@@ -30,5 +28,4 @@ C&C トランザクションまたは顧客注文の追加データを取得し�
 最低限のビジネス ロジックを持つ新しいフィールドを C&C トランザクション、顧客注文、またはコール センター注文に追加する場合や、POS または小売用バックオフィスに情報を取り込む場合は、注文属性を使用します。 以前は、POS での C&C トランザクション (トランザクション ヘッダーまたは行) または顧客注文に新しいフィールドを追加するには、小売用バックオフィスとチャネル データベースに新しい拡張テーブルを作成してから、さまざまな画面や操作を処理するために CRT および POS コードにインライン変更を行う必要がありました。 チャネル データベースと小売用バックオフィスの間でデータを同期するように Commerce Data Exchange を構成する必要もありました。 顧客属性により、コードを記述したりカスタム拡張テーブルを作成したりすることなく、構成を通じてこれらすべてのアクションを実行できるようになりました。 (コア ビジネス ロジックと POS UI は依然として作成する必要があります)。
 
 機能の詳細については、「[注文属性](https://docs.microsoft.com/en-us/dynamics365/unified-operations/retail/dev-itpro/order-attributes)」をご覧ください。
-
 

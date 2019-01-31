@@ -1,29 +1,31 @@
 ---
-title: "フロー デザイナーへのヘルプとサポートのエクスペリエンスの統合"
-description: "フローのコミュニティにはフローによる問題解決方法に関する豊富なコンテンツがあり、新しいサポート エクスペリエンスでは、サポート チケットを開くことなく、インラインでソリューションを簡単に検索できます。"
-author: anjlic
-manager: KVivek
-ms.date: 11/20/2018
+title: Microsoft Flow へのヘルプとサポートのエクスペリエンスの統合
+description: Microsoft Flow のコミュニティには、問題解決方法に関する豊富なコンテンツがあります。 この新しいサポート エクスペリエンスにより、サポート チケットを開くことなく、インラインでソリューションを簡単に検索できるようになります。
+author: stepsic-microsoft-com
+ms.reviewer: deonhe
+ms.date: 01/02/2019
 ms.assetid: 397e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
-ms.author: anjlic
+ms.technology: ''
+ms.author: stepsic
 audience: Power user
+ms.openlocfilehash: 713b04616591b73e388da6243e6d2c44189f954e
+ms.sourcegitcommit: 851bbbbeaac02e33829dfbf5f6f8e4055acf0822
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: d1a00f62071d8a716c71a8d5039dfa887d0acdca
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "203628"
 ---
-# <a name="integrated-help-and-support-experience-in-flow-designer"></a>フロー デザイナーへのヘルプとサポートのエクスペリエンスの統合
+# <a name="integrated-help-and-support-experience-in-flow-portal"></a>Flow ポータルへのヘルプとサポートのエクスペリエンスの統合
 
+Microsoft Flow 内からヘルプとサポートを探すことがはるかに簡単になります。 以前は、サポート サイトの汎用的なエクスペリエンスにリダイレクトされていました。 現在では、サポートが必要なときに [Microsoft Flow](https://flow.microsoft.com/support/) から開始できます。 まず、論理的な質問のセットに回答して絞り込みを行います。 次に、考えられる解決策のリストが表示されます。 これらの解決策は、Microsoft Flow の公式ドキュメント、投稿、コミュニティ フォーラム、KB 記事から提供されます。
 
-[!include[banner](../../includes/banner.md)]
+![新しいサポート要求](media/new-support-request-1.png "新しいサポート要求")
 
-ユーザーは、support.microsoft.com にリダイレクトされるのではなく、製品 (Web サイトとモバイルの両方) 内から簡単にヘルプとサポートを利用できます。 ユーザーは、論理的な質問のセットに回答し、質問の詳細を提供することで (ハウツーの質問から、自分が作成したフローの具体的な実行失敗の選択まで)、発生している問題に絞り込むことができます。 
+これらのセルフヘルプの解決策により、問題をすばやく自力で解決できます。 さらに支援が必要な場合は、コンテキストを失うことなく、Microsoft Flow からサポート チケットを開くことができます。 最後に、影響を受けるフローの URL や実行の詳細など、より具体的な詳細情報を入力できます。
 
-また、ユーザーは、Flow のドキュメント、ブログ投稿、コミュニティ フォーラム、KB 記事から選別された、問題の解決策のリストを提供され、問題に対するセルフヘルプを入手できます。 セルフヘルプの解決策により、ユーザーはサポート チケットを開かずに自分で問題を修正することができます。 サポート チケットを開くことを選択した場合、ユーザーにはサポート チームが連絡を取るタイムラインが提供されます。 
+![サポート要求の詳細](media/new-support-request-2.png "サポート要求の詳細")
+
 

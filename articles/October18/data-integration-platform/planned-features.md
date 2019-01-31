@@ -1,22 +1,22 @@
 ---
-title: "データ統合の新機能"
-description: "Microsoft ビジネス アプリケーションの 2018 年 10 月のリリースで提供されるデータ統合の新機能の概要をご覧ください。"
+title: データ統合の新機能
+description: Microsoft ビジネス アプリケーションの 2018 年 10 月のリリースで提供されるデータ統合の新機能の概要をご覧ください。
 author: shellyhaverkamp
 manager: AnnBe
 ms.date: 11/16/2018
 ms.assetid: 7326561e-192f-4897-ad72-af64d29849da
 ms.topic: summary
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: tpalmer
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: 5b123151c49668d6a5b055fb349c59520484def1
 ms.openlocfilehash: faf8d4a48b64969256126bdef357964c7cd823c4
-ms.contentlocale: ja-jp
-ms.lasthandoff: 12/06/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199754"
 ---
 # <a name="summary-of-whats-new-in-data-integration"></a>データ統合の新機能の概要
 
@@ -84,7 +84,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | Azure Data Factory コネクタ | パブリック プレビュー | 2018 年 4 月 30 日 |
 | 新しいコネクタ: Dynamic Signal、Marketo、ElasticOCR、MailParser | パブリック プレビュー | 2018 年 5 月 31 日 |
 | 新しいコネクタ PoliteMail と Cloud Connect Studio | パブリック プレビュー | 2018 年 6 月 30 日 |
-| 新しいコネクタ ProjectWise Design Integration、LMS365、Azure IoT Central、Survey123 | パブリック プレビュー | 2018 年 7 月 31 日 |
+| 新しいコネクタ ProjectWise Design Integration, LMS365、Azure IoT Central、Survey123 | パブリック プレビュー | 2018 年 7 月 31 日 |
 | 新しいコネクタの管理者向け Power プラットフォーム、PowerApps for App Makers、PowerApps for Admins、Microsoft Flow for Admins、Project Roadmap、NetDocuments、Microsoft School Data Sync | パブリック プレビュー | 2018 年 8 月 31 日 |
 | 新しいコネクタ: TeleSign SMS、AppsForOps、K2 Workflow | パブリック プレビュー | 2018 年 9 月 30 日 |
 
@@ -116,4 +116,3 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [インタラクティブでグラフィカルな Common Data Model エンティティ エクスプローラーおよび CDM GitHub の機能強化](2-cdm.md#explorer) | 一般提供 | 2018 年 10 月 31 日 |
 | [医療、財務サービス、小売などの産業ソリューション向けの初期 CDM エンティティ パック](2-cdm.md#industry) | パブリック プレビュー | 2018 年 10 月 31 日 |
 | [Finance、Operations、Marketing など人気のある Dynamics オファリングにおける主要なシナリオを対象とした他の CDM エンティティの定義](2-cdm.md#dynamics) | パブリック プレビュー | 2018 年 10 月 31 日 |
-

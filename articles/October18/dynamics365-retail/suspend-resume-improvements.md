@@ -1,22 +1,22 @@
 ---
-title: "中断/再開の改善"
-description: "この機能により、POS でトランザクションを中断および再開するユーザーの機能が向上し、POS 仕訳帳およびバックオフィス トランザクション履歴に監査機能が追加されます。"
+title: 中断/再開の改善
+description: この機能により、POS でトランザクションを中断および再開するユーザーの機能が向上し、POS 仕訳帳およびバックオフィス トランザクション履歴に監査機能が追加されます。
 author: jblucher
 manager: AnnBe
 ms.date: 10/15/2018
 ms.assetid: 7b453328-5b4e-423a-90d9-3069f7cc918f
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: jeffbl
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 212f292c41bc405136663d6a86e5f9d49f320a55
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199482"
 ---
 ---
 
@@ -48,6 +48,5 @@ POS ユーザーは、"トランザクションの中断" 伝票に印刷され�
 
 ### <a name="ability-to-bulk-select-and-void-suspended-transactions"></a>中断されたトランザクションを一括選択して無効にする機能
 シフト終了時に中断されたトランザクションを必要に応じて無効にすることに加え、アクセス許可を持つユーザーは、POS 内から中断されたトランザクションを複数選択して無効にすることができます。 
-
 
 

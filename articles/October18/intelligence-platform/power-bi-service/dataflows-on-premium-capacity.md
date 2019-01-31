@@ -1,22 +1,22 @@
 ---
-title: "Premium 容量に対するデータフロー"
-description: "Power BI 管理者は、データフローを含むワークスペースを Premium 容量に簡単に割り当てて、Power BI Premium サブスクリプションの一部として使用を管理できます。"
+title: Premium 容量に対するデータフロー
+description: Power BI 管理者は、データフローを含むワークスペースを Premium 容量に簡単に割り当てて、Power BI Premium サブスクリプションの一部として使用を管理できます。
 author: erherz
 manager: AnnBe
 ms.date: 11/07/2018
-ms.assetid: 
+ms.assetid: ''
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: v-erherz
-audience: 
-ms.translationtype: HT
-ms.sourcegitcommit: 11487404f4c3e1a046eef9721548f1542cd78f38
+audience: ''
 ms.openlocfilehash: bde18f67d5103ba162f9f948c7a729558003a582
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/20/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199119"
 ---
 # <a name="dataflows-on-premium-capacity-public-preview"></a>Premium 容量に対するデータフロー (パブリック プレビュー) 
 
@@ -33,4 +33,3 @@ Premium 容量でホストされているデータフローは、計算された
 
 ## <a name="resources"></a>リソース
 [Power BI でのセルフサービスのデータ準備](https://docs.microsoft.com/en-us/power-bi/service-dataflows-overview)
-

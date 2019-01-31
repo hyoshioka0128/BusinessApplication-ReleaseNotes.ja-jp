@@ -1,24 +1,23 @@
 ---
-title: "ロシア語ローカライズ"
-description: "Microsoft Dynamics 365 for Finance and Operations では、ロシアで必須の規制要件がサポートされるようになりました (オンプレミス展開の場合のみ)。"
+title: ロシア語ローカライズ
+description: Microsoft Dynamics 365 for Finance and Operations では、ロシアで必須の規制要件がサポートされるようになりました (オンプレミス展開の場合のみ)。
 author: Anasyash
 manager: AnnBe
 ms.reviewer: shylaw
 ms.date: 11/13/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: anasyash
 audience: end-user
-ms.translationtype: HT
-ms.sourcegitcommit: 188a8a4a4e31001537ccdd38d349df16f7eb8193
 ms.openlocfilehash: c20573f5f4b0ab295ca5b7d0b33e93ad45d77a00
-ms.contentlocale: ja-jp
-ms.lasthandoff: 12/06/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199847"
 ---
-
 # <a name="russian-localization"></a>ロシア語ローカライズ
 
 Microsoft Dynamics 365 for Finance and Operations では、2018 年 10 月時点でロシア語のローカライズがサポートされています。 ロシア語以外のテナントを持つお客様はロシアの住所を持つ法人を作成することができ、それによってロシア語ローカライズ機能を有効にすることができます。また、お客様はロシア語ローカライズ機能の実装の検討を開始することができます。
@@ -72,4 +71,3 @@ Microsoft Dynamics 365 for Finance and Operations では、2018 年 10 月時点
 ロシア語 Retail ローカライズとロシア語の給与は、2018 年 10 月リリース期間 (2018 年 10 月から 2019 年 3 月) には利用可能になりません。 ロシア語 Retail ローカライズとロシア語の給与の計画は、計画が確定した時点でリリース ノートに掲載されます。
 
 詳細については、[ロシア語ローカライズのヘルプ コンテンツ](https://docs.microsoft.com/en-us/dynamics365/unified-operations/financials/localizations/russia)を参照してください。
-

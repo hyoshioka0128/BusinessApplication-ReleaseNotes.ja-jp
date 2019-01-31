@@ -1,22 +1,22 @@
 ---
-title: "システム グラフにおける全般的な使いやすさ、アクセシビリティ、およびスタイル設定の改善"
-description: "システム グラフにおける全般的な使いやすさ、アクセシビリティ、およびスタイル設定の改善"
+title: システム グラフにおける全般的な使いやすさ、アクセシビリティ、およびスタイル設定の改善
+description: システム グラフにおける全般的な使いやすさ、アクセシビリティ、およびスタイル設定の改善
 author: prsi
 ms.reviewer: mkaur
-ms.date: 01/11/2019
+ms.date: 01/02/2019
 ms.assetid: 761c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: prsi
 audience: Power user
+ms.openlocfilehash: 0b587540dddb0c1eabf44246535f77c167931044
+ms.sourcegitcommit: 4516c399d430cc569513d46822c70670809fe5c6
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: e3a8342388492364810831fef3b8f6dfb61918af
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/12/2019
+ms.locfileid: "202313"
 ---
 # <a name="general-usability-accessibility-and-styling-improvements-in-system-charts"></a>システム グラフにおける全般的な使いやすさ、アクセシビリティ、およびスタイル設定の改善
 

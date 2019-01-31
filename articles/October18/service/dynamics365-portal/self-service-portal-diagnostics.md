@@ -1,23 +1,23 @@
 ---
-title: "セルフサービス ポータル診断"
-description: "Microsoft では、Dynamics 365 Portal のサポート性を改善する取り組みの一環として、診断機能を改善し、お客様がセルフサービス機能を使って自ら問題を解決できるようにするべく取り組んでいます。"
+title: セルフサービス ポータル診断
+description: Microsoft では、Dynamics 365 Portal のサポート性を改善する取り組みの一環として、診断機能を改善し、お客様がセルフサービス機能を使って自ら問題を解決できるようにするべく取り組んでいます。
 author: dileeps
 manager: rycu
 ms.date: 07/22/2018
 ms.assetid: 578b0c1e-1182-4bef-9e33-4149d2c6bf19
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: dileeps
 ms.reviewer: shjais
 audience: Admin
+ms.openlocfilehash: 79d4c311fea3ff8ad4b31ee8bd6c7dfd955a9663
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 6dedc366770bc60d0c28f18a966aae076cbca6fb
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199900"
 ---
 #  <a name="self-service-portal-diagnostics"></a>セルフサービス ポータル診断
 
@@ -42,4 +42,3 @@ Cloud
 ### Regional availability
 Global
 -->
-

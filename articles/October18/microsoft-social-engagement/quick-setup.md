@@ -1,22 +1,22 @@
 ---
-title: "Social Engagement への円滑で迅速なオンボーディング"
-description: "ソーシャル メディアは、成功するマーケティング組織のブランド管理機能の一部になりました。"
+title: Social Engagement への円滑で迅速なオンボーディング
+description: ソーシャル メディアは、成功するマーケティング組織のブランド管理機能の一部になりました。
 author: m-hartmann
 manager: shellyha
 ms.date: 09/24/2018
 ms.assetid: 91cd6fc6-df55-4db6-9541-207b8548a22c
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: mhart
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 2609b6a21363e412cc84c9d8e3a707c80bd752dc
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199931"
 ---
 #  <a name="quick-setup-and-instant-insights-in-social-engagement"></a>Social Engagement のクイック セットアップと即時の分析情報
 
@@ -33,5 +33,4 @@ ms.lasthandoff: 10/26/2018
 -   **即時の分析情報**: クイック セットアップの直後にブランドの履歴データが取得されて読み込まれ、ソーシャル メディアからブランドの即時の分析情報が提供されます。 その後すぐに対話型分析の探索を開始できます。
 
 <!-- Picture 3 -->
-
 
