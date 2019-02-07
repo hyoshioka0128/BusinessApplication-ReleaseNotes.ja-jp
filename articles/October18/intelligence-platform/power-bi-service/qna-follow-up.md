@@ -12,12 +12,12 @@ ms.technology: ''
 ms.author: mohaali
 audience: Admin
 ms.reviewer: mihart
-ms.openlocfilehash: 573e65ba4aec69b7701ff7f0b003c1cdf27e380c
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: e287a9014db53ff6ce45e341f1f92855fc38c961
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199812"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287464"
 ---
 #  <a name="ask-related-questions-using-qa"></a>Q&A を使って関連する質問を行う
 
@@ -27,6 +27,5 @@ Q&A では、フォローアップや関連する質問を行う機能がサポ�
 
 マイクロソフトでは、フォローアップの質問を使用できるさまざまな方法をサポートしています。 元の質問の変更、関連する質問、元の質問への追加を行ったり、必要な答えが得られるまで続けたりすことができます。
 
-> [!div class="mx-imgBorder"] 
-> ![関連する質問を行う](media/qnafollowup.png "関連する質問を行う")
+![関連する質問を行う](media/qnafollowup.png "関連する質問を行う")
 

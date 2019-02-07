@@ -10,12 +10,12 @@ ms.assetid: ''
 author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
-ms.openlocfilehash: 7de3b1df482ad60831e66f0120850eba5a88c80d
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 40fd7b7296a332ef6ec5b35fc9d032d98c92ccf2
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199152"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286621"
 ---
 # <a name="incoming-cases-dashboard"></a>受信サポート案件ダッシュボード
 
@@ -25,8 +25,7 @@ ms.locfileid: "199152"
 
 受信サポート案件ダッシュボードには、システムの受信サポート案件のグラフィカルな表示などのさまざまなチャートが含まれます。 
 
-> [!div class="mx-imgBorder"]
-> ![受信サポート案件ダッシュボードでは、顧客サービス システムの新しいサポート案件のスナップショットが表示されます](media/incoming-cases-dashboard.png "受信サポート案件ダッシュボードでは、顧客サービス システムの新しいサポート案件のスナップショットが表示されます")
+![受信サポート案件ダッシュボードでは、顧客サービス システムの新しいサポート案件のスナップショットが表示されます](media/incoming-cases-dashboard.png "受信サポート案件ダッシュボードでは、顧客サービス システムの新しいサポート案件のスナップショットが表示されます")
 
 *受信サポート案件ダッシュボードでは、顧客サービス システムの新しいサポート案件のスナップショットが表示されます*
 

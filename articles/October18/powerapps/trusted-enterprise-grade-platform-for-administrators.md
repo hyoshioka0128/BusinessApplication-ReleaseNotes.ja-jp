@@ -3,7 +3,7 @@ title: 管理者向けプラットフォームの向上
 description: 管理者のエクスペリエンスは、信頼できるプラットフォームの採用で重要な鍵となります。
 author: jamesol-msft
 manager: KVivek
-ms.date: 11/29/2018
+ms.date: 01/11/2019
 ms.assetid: dd91d290-f7f3-e811-a97c-000d3a137063
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: jamesol
 audience: Power user
-ms.openlocfilehash: 212af4a2bf9ba78c1c02a789a5e92f86090e7ef2
-ms.sourcegitcommit: 4516c399d430cc569513d46822c70670809fe5c6
+ms.openlocfilehash: 1af7492bd21ba9880e2bc111606d8a503a1ce39b
+ms.sourcegitcommit: abbfbdaff6d71a53e5dd36fecb6673080c49e5d6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/12/2019
-ms.locfileid: "202110"
+ms.lasthandoff: 01/26/2019
+ms.locfileid: "289921"
 ---
 # <a name="better-platform-for-administrators"></a>管理者向けプラットフォームの向上
 

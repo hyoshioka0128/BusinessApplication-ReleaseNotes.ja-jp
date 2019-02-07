@@ -3,7 +3,7 @@ title: Word 文書の生成
 description: Word Online (Business) コネクタを使用すると、Microsoft Graph でサポートされているドキュメント ライブラリ内の Word ファイルを操作して、テンプレートからファイルを生成したりファイルの PDF バージョンを作成したりできます。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/03/2019
+ms.date: 01/20/2019
 ms.assetid: a49f123a-d50e-e911-a98c-000d3a1362e3
 ms.topic: article
 ms.prod: ''
@@ -11,17 +11,17 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: ad4684a9873ad351dcf2958a983ca183b00bc57b
-ms.sourcegitcommit: 851bbbbeaac02e33829dfbf5f6f8e4055acf0822
+ms.openlocfilehash: 0c2351000543c46ab22e3c321dbc710ce073f1d8
+ms.sourcegitcommit: 1de869f4ccb74ccc9b9cd26817e3d5c30734c3c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "203927"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "288660"
 ---
-# <a name="word-document-generation"></a>Word 文書の生成
+# <a name="word-document-generation-public-preview"></a>Word 文書の生成 (パブリック プレビュー)
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
 新しい [Word Online (Business)](https://flow.microsoft.com/services/) コネクタを使用すると、Microsoft Graph (OneDrive for Business、SharePoint サイト、および Office 365 グループ) でサポートされているドキュメント ライブラリ内の Word ファイルを操作できます。 現時点では 2 つのアクションがあります。
 

@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.openlocfilehash: 10abde736803d60ffc43ab1e5334eed277d22979
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 69cd90c0882da0ce879b2ed901d5835992fb3b97
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200105"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287324"
 ---
 #  <a name="schedule-board-split-view"></a>スケジュール ボードの分割ビュー
 
@@ -33,14 +33,12 @@ ms.locfileid: "200105"
 
 スケジュール ボードを 2 つに分割します。 下半分は、スタッフとそのすべてのメンバー、プールとそのメンバー、または同じ職務に従事するように割り当てられているリソースのセットの表示専用にすることができます。
 
-> [!div class="mx-imgBorder"]
-> ![分割スケジュール ボードにスタッフが表示されたスケジュール ボード](media/Crew-in-Split-View.png "スケジュール ボード上のスタッフ")
+![分割スケジュール ボードにスタッフが表示されたスケジュール ボード](media/Crew-in-Split-View.png "スケジュール ボード上のスタッフ")
 <!-- picture -->
 
 *分割スケジュール ボードにスタッフが表示されたスケジュール ボード*
 
-> [!div class="mx-imgBorder"]
-> ![同じ要件グループで作業しているリソースが表示された分割スケジュール ボード](media/Split-Schedule-Board-Grouped-Bookings.png "同じ要件グループで作業しているリソースが表示された分割スケジュール ボード")
+![同じ要件グループで作業しているリソースが表示された分割スケジュール ボード](media/Split-Schedule-Board-Grouped-Bookings.png "同じ要件グループで作業しているリソースが表示された分割スケジュール ボード")
 <!-- picture -->
 
 *同じ要件グループで作業しているリソースが表示された分割スケジュール ボード*

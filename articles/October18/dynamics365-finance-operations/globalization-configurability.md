@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: riluan
 audience: Admin, developer, end-user
-ms.openlocfilehash: 4cf45d0be337e3876e7d0b9691804e60f969f5a0
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: c7b53cab54a81a39cc293c4d4fa862b514430dfe
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199872"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287040"
 ---
 # <a name="globalization--enhanced-configurability"></a>グローバリゼーション - 構成可能性の強化
 
@@ -37,8 +37,7 @@ ms.locfileid: "199872"
 - **税通貨と消費税コードによる税コンフィギュレーションの有効化** - 複数の税エンティティを持つ企業は、異なる税エンティティで使用される税コンポーネントに異なる税通貨を維持する必要があります。 この機能のリリースにより、ユーザーは、ルックアップ テーブルで税コンポーネントの税通貨を定義することができます。 ユーザーは、税設定で消費税コードを保守し、ルック アップテーブル内の消費税コードに税コンポーネントをマップし、これらの消費税コードの期間およびレポート コードを保守することもできます。
 - **税務書類での税措置の表示の構成の有効化** - 税式で使用される中間的な税措置の一部は、Dynamics 365 Finance and Operations の税務書類ページに表示する必要がありません。これらの税措置は非表示にすることができます。
 
-> [!div class="mx-imgBorder"]
-> ![税務書類での税措置の表示の構成](../../media/Configure-tax-measure-visibility.png)
+![税務書類での税措置の表示の構成](../../media/Configure-tax-measure-visibility.png)
 
 *税務書類での税措置の表示の構成*
 

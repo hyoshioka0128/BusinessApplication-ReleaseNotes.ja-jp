@@ -10,12 +10,12 @@ ms.assetid: ''
 author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
-ms.openlocfilehash: 321a5755f5ac7919a7e07fc2007c15834e062d24
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 1d252a1b492e3ea650c7b47bdc7942b69ce7d2f9
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199020"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287101"
 ---
 # <a name="kpi-summary-dashboard"></a>KPI サマリー ダッシュボード
 
@@ -25,8 +25,7 @@ KPI (主要業績評価指標) サマリー ダッシュボードでは顧客サ
 
 KPI サマリー ダッシュボードには、システムの主要業績評価指標をグラフィカルに表示したさまざまなチャートが含まれています。
 
-> [!div class="mx-imgBorder"]
-> ![KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます](media/ai-customer-service-insights.png "KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます")
+![KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます](media/ai-customer-service-insights.png "KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます")
 
 *KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます*
 

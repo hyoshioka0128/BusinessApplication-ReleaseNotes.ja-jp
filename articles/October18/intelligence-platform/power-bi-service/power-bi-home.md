@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: HaydnR
 audience: ''
-ms.openlocfilehash: f6ade07e6567099a5edabce284906b93ce3480ec
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: c9096b74edabe437ad111c9dfd4b68868e448cae
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200114"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288031"
 ---
 # <a name="power-bi-home"></a>Power BI ホーム
 
@@ -28,5 +28,4 @@ Power BI ホームには、ユーザーの最も重要なメトリックの概�
 
 ホームは、最初はオプトイン プレビューとして使用できますが、その後はすべてのユーザーの既定のランディング エクスペリエンスになります。
 
-> [!div class="mx-imgBorder"]
-> ![](media/power-bi-home.png "Power BI ホーム")
+![](media/power-bi-home.png "Power BI ホーム")

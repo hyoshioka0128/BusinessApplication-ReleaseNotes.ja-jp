@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mapau
 ms.reviewer: v-brycho
-ms.openlocfilehash: d5a1c0ecc4d5b18c300523daa17070fb5f45405d
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 6e3f84b4714b3d5b4a2685dbdd4facdb5ed974ba
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199217"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286682"
 ---
 # <a name="add-directional-arrows"></a>方向矢印の追加
 
@@ -20,8 +20,7 @@ ms.locfileid: "199217"
 
 Dynamics 365 Remote Assist で注釈として矢印を追加するときに、矢印が指す方向を指定できるようになりました。
 
-> [!div class="mx-imgBorder"]
-> ![](media/d729ab4910f718be12a04ec1972c02f5.jpg)
+![](media/d729ab4910f718be12a04ec1972c02f5.jpg)
 
 *方向矢印*
 

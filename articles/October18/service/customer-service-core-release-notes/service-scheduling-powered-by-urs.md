@@ -12,12 +12,12 @@ ms.technology: ''
 ms.author: Karthik55217
 ms.reviewer: anjgupta
 audience: Admin
-ms.openlocfilehash: 3415b77f1cb548f7122269df1f4bdacb634191ff
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 06d2588d56752d17c3987e45f7f79c96c3aadca8
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199886"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287069"
 ---
 #  <a name="service-scheduling-powered-by-universal-resource-scheduling"></a>Universal Resource Scheduling によって機能強化されたサービス スケジュール設定  
 
@@ -29,8 +29,7 @@ Universal Resource Scheduling (URS) 上に構築された新しいサービス �
 
 現在 Web クライアント上でサービス スケジュール設定を使用しているお客様には、最新のソリューションへアップグレードするための詳細な移行ガイドが提供されます。
 
-> [!div class="mx-imgBorder"]
-> ![Universal Resource Scheduling](media/universal-resource-scheduling.png "Universal Resource Scheduling")
+![Universal Resource Scheduling](media/universal-resource-scheduling.png "Universal Resource Scheduling")
 
 ## <a name="resources"></a>リソース
 

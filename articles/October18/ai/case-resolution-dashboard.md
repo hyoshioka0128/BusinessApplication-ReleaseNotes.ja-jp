@@ -10,12 +10,12 @@ ms.assetid: ''
 author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
-ms.openlocfilehash: 5eb3d8b3e1b8e23abd84e194e10df8fed0658384
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: e350ab12511111852a9129f52894227c5274498a
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199880"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288174"
 ---
 # <a name="case-resolution-dashboard"></a>サポート案件の解決ダッシュボード
 
@@ -25,8 +25,7 @@ ms.locfileid: "199880"
 
 サポート案件の解決ダッシュボードには、システムのサポート案件解決データのグラフィカルな表示などのさまざまなチャートが含まれます。
 
-> [!div class="mx-imgBorder"]
-> ![サポート案件の解決ダッシュボードには、サポート案件解決時間に最も大きな影響を与えているカスタマー サポートのトピックが表示され、システムのパフォーマンスへの影響が最も大きい可能性のある改善領域を特定するのに役立ちます](media/case-resolution-dashboard.png "サポート案件の解決ダッシュボードには、サポート案件解決時間に最も大きな影響を与えているカスタマー サポートのトピックが表示され、システムのパフォーマンスへの影響が最も大きい可能性のある改善領域を特定するのに役立ちます")
+![サポート案件の解決ダッシュボードには、サポート案件解決時間に最も大きな影響を与えているカスタマー サポートのトピックが表示され、システムのパフォーマンスへの影響が最も大きい可能性のある改善領域を特定するのに役立ちます](media/case-resolution-dashboard.png "サポート案件の解決ダッシュボードには、サポート案件解決時間に最も大きな影響を与えているカスタマー サポートのトピックが表示され、システムのパフォーマンスへの影響が最も大きい可能性のある改善領域を特定するのに役立ちます")
 
 *サポート案件の解決ダッシュボードには、サポート案件解決時間に最も大きな影響を与えているカスタマー サポートのトピックが表示され、システムのパフォーマンスへの影響が最も大きい可能性のある改善領域を特定するのに役立ちます*
 

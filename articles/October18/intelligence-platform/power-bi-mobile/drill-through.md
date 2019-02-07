@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.openlocfilehash: 9e6b55afc8d6e6c4113b14ccefcd6eeb6c82fa9e
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 5a1f847442427a79a9d0c6a9a39a105e09370fbf
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199552"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286539"
 ---
 # <a name="drillthrough"></a>ドリルスルー
 
@@ -29,5 +29,4 @@ ms.locfileid: "199552"
 
 ドリルスルーは、ビジュアル ツールヒントからアクティブ化されます。 ユーザーがデータ ポイントを選択してドリルスルーすると、表示されるデータがその値でフィルター処理されます。
 
-> [!div class="mx-imgBorder"]
-> ![](media/drill-through-1.png "ドリルスルー")
+![](media/drill-through-1.png "ドリルスルー")

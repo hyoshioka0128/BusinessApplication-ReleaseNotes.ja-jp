@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../../April19/service/omni-channel-engagement-hub/customer-owned-bots-omni-channel-engagement-hub
 title: Omni-channel Engagement Hub 用の顧客所有ボット
 description: Omni-channel Engagement Hub を使用すると、顧客は、(Microsoft Bot Framework で構築された) 独自のボットを持ち込み、それを Omni-channel Engagement Hub のエコシステムと接続できます。
 author: Annbe
@@ -11,12 +12,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.openlocfilehash: f8aa0a2bd77e2514057c779d893978cc415695c8
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: aed3fae2a40e2178c3653383892cc872c295396b
+ms.sourcegitcommit: 64d4ab0a574d9b68931a7533fe6d0b5226d81bbf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199908"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "289146"
 ---
 #  <a name="enable-customers-to-bring-their-bots"></a>お客様が自分のボットを持ち込める機能
 
@@ -45,5 +46,4 @@ BYOB (Bring Your Own Bot) 機能の一環として、顧客は次のことがで
 
 **Omni-channel Engagement Hub での顧客所有ボットの概略図**
 
-> [!div class="mx-imgBorder"]
-> ![Omni-channel Engagement Hub での顧客所有ボットの概略図](media/bring-your-bot-to-omnichannel.png "Omni-channel Engagement Hub での顧客所有ボットの概略図")
+![Omni-channel Engagement Hub での顧客所有ボットの概略図](media/bring-your-bot-to-omnichannel.png "Omni-channel Engagement Hub での顧客所有ボットの概略図")

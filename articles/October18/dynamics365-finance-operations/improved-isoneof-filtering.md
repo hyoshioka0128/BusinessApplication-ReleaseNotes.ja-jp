@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
-ms.openlocfilehash: 3b58c7caf610ccb8040083a00701a8c53ba7c070
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: ac2796ef69e07e682cd8c16d6121b036c85f8458
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199623"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288038"
 ---
 # <a name="optimized-is-one-of-filtering-experience"></a>最適化された「次の値のいずれか」フィルタリング結果
 
@@ -23,15 +23,13 @@ ms.locfileid: "199623"
 
 この画像では、Platform Update 22 より前の「次の値のいずれか」フィルタリング結果が示されています。
 
-> [!div class="mx-imgBorder"]
-> ![Platform Update 22 より前の「次の値のいずれか」フィルタリング結果](media/isOneOfBefore.png "Platform Update 22 より前の「次の値のいずれか」フィルタリング結果")
+![Platform Update 22 より前の「次の値のいずれか」フィルタリング結果](media/isOneOfBefore.png "Platform Update 22 より前の「次の値のいずれか」フィルタリング結果")
 
 *Platform Update 22 より前の「次の値のいずれか」フィルタリング結果*
 
 次の画像では、Platform Update 22 での「次の値のいずれか」フィルタリング結果が示されています。
 
-> [!div class="mx-imgBorder"]
-> ![Platform Update 22 での「次の値のいずれか」フィルタリング 結果](media/isOneOfAfter.png  "Platform Update 22 での「次の値のいずれか」フィルタリング結果")
+![Platform Update 22 での「次の値のいずれか」フィルタリング 結果](media/isOneOfAfter.png  "Platform Update 22 での「次の値のいずれか」フィルタリング結果")
 
 *Platform Update 22 で最適化された「次の値のいずれか」フィルタリング結果*
 

@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: cgarty
 audience: developer, customizer
-ms.openlocfilehash: e1bf2b7819ecf72c69c49a1d0a5ccc63ac09c42a
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 0a5bb977b1831d2439d9ada34004004c15392011
+ms.sourcegitcommit: 163b0e8ec8da8ef8bbe43f302c561bbaed43d0be
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200153"
+ms.lasthandoff: 01/28/2019
+ms.locfileid: "290673"
 ---
 # <a name="platform-extensibility-enhancements-wave-2"></a>プラットフォーム拡張性の機能強化ウェーブ 2
 
@@ -43,4 +43,3 @@ ms.locfileid: "200153"
 
 参照番号は、内部的に使用される、外部から利用可能な特定の拡張機能の要求 ID に対応します。
 すべての拡張機能の詳細については、[拡張機能のホーム ページ](/dynamics365/unified-operations/dev-itpro/extensibility/extensibility-home-page)を参照してください。
-)。

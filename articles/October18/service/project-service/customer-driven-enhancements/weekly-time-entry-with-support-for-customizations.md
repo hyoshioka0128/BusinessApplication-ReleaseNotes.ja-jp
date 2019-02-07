@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: kfend
 audience: Admin
-ms.openlocfilehash: 88b62c3336f0a6ec43c9864bedbf2b51a2a4611b
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 6ee97724f80c78d8bf2f84f5a0fbd59248b1b665
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199100"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288311"
 ---
 #  <a name="weekly-time-entry-with-support-for-customizations"></a>カスタマイズをサポートする週単位の時間入力
 
@@ -25,6 +25,5 @@ ms.locfileid: "199100"
 
 今回の更新では、システム カスタマイズ担当者がカスタム フィールドを使用してこのビューをカスタマイズしたり、他のエンティティをルックアップしたりできるようになります。 カスタマイズ担当者は、組織の慣行をサポートするカスタム ビジネス ルールを実装することもできます。 
 
-> [!div class="mx-imgBorder"]
-> ![カスタマイズをサポートする週単位の時間入力](media/weekly-time-entry.PNG "カスタマイズをサポートする週単位の時間入力")
+![カスタマイズをサポートする週単位の時間入力](media/weekly-time-entry.PNG "カスタマイズをサポートする週単位の時間入力")
 

@@ -7,12 +7,12 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: ffe96d73e8e8e707a70134a1c9986f8befef6dec
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: e8e1b70489280570834b80dac422293e18c2fab1
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199705"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287857"
 ---
 #  <a name="power-bi-paginated-reports"></a>Power BI のページ付けされたレポート
 
@@ -22,13 +22,11 @@ ms.locfileid: "199705"
 
 ページ付けされたレポートは、Power BI のサービスとモバイル アプリによって完全にサポートされる予定です。 他の種類のレポートと同様に、Power BIモバイル ユーザーは、モバイル アプリケーションからページ付けされたレポートにアクセスできます。 ユーザーは、ワークスペース、お気に入り、最近のレポート一覧セクションで、ページ付けされたレポートを表示できます。 ページ付けされたレポートには、PBIX レポートと RDL レポートを区別するための異なるアイコンがあります。
 
-> [!div class="mx-imgBorder"]
-> ![Power BI モバイル アプリ カタログ内のページ付けされたレポート](media/power-bi-paginated-reports-1.jpeg "Power BI モバイル アプリ カタログ内のページ付けされたレポート")
+![Power BI モバイル アプリ カタログ内のページ付けされたレポート](media/power-bi-paginated-reports-1.jpeg "Power BI モバイル アプリ カタログ内のページ付けされたレポート")
 <!-- Picture 1 -->
 
 ユーザーは、レポートを縦または横向きで表示したり、レポート ページ間でページ付けしたり、そのパラメーターに基づいてレポートをフィルター処理したりすることができます。
 
-> [!div class="mx-imgBorder"]
-> ![モバイル アプリ内のページ付けされたレポートの横向きの表示](media/power-bi-paginated-reports-2.jpeg "モバイル アプリ内のページ付けされたレポートの横向きの表示")
+![モバイル アプリ内のページ付けされたレポートの横向きの表示](media/power-bi-paginated-reports-2.jpeg "モバイル アプリ内のページ付けされたレポートの横向きの表示")
 <!-- Picture 3 -->
 

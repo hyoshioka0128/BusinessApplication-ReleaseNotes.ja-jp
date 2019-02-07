@@ -3,17 +3,17 @@ title: 2018 年 10 月の変更履歴
 description: 変更履歴
 author: Annbe
 manager: AnnBe
-ms.date: 01/18/2019
+ms.date: 01/28/2019
 ms.assetid: ''
 ms.topic: article
 ms.author: renwe@microsoft.com
 ms.service: business-applications
-ms.openlocfilehash: f7140172c3112c6e308da053779366f03f1b3fc5
-ms.sourcegitcommit: ec7924ecb67d29781917079ab15a41741aa7392d
+ms.openlocfilehash: cb85a33529a7ae4d43b4c0a3592e84779eae744d
+ms.sourcegitcommit: 837d0b244af0c46ac2f5e84181ae3e6ec8533c40
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/21/2019
-ms.locfileid: "216887"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "291043"
 ---
 # <a name="change-history"></a>変更履歴
 
@@ -158,6 +158,7 @@ ms.locfileid: "216887"
 > |[マスター プランの再開](dynamics365-finance-operations/resume-master-planning.md) | 11 月 29 日 |
 > |[グリッド列ヘッダーを使用した法人のフィルタリング](dynamics365-finance-operations/legal-entity-filtering.md) | 12 月 3 日|
 > |[督促状](dynamics365-finance-operations/collection-letters.md) | 12 月 14 日 |
+> |[プラットフォームの拡張性ウェーブ 4](dynamics365-finance-operations/platform-extensibility4.md)| 1 月 28 日 |
 
 ### <a name="release-date-changed"></a>リリース日の変更
 > [!div class="mx-tableFixed"]
@@ -219,7 +220,15 @@ ms.locfileid: "216887"
 > | 封緘された入札 | 9 月 6 日 |
 > | データ所在地サブスクリプション | 9 月 24 日 |
 > | サポート可能性のルール | 10 月 3 日 |
-
+> | ハイパーリンクのクリック動作を他の Office 製品と統一する  | 1 月 24 日 |
+> | 開発者が定義するカスタム ショートカット    | 1 月 24 日 |
+> | フィルター処理の機能強化    | 1 月 24 日 |
+> | グリッドでのグループ化    | 1 月 24 日 |
+> | グリッドでの一括更新    | 1 月 24 日 |
+> | 新しい機能強化されたグリッド コントロール    | 1 月 24 日 |
+> | 個人用設定の向上ウェーブ 2   | 1 月 24 日 |
+> | 保存されているビュー  | 1 月 24 日 |
+> | グリッドの合計    | 1 月 24 日 |
 
 
 ## <a name="talent"></a>Talent
@@ -231,6 +240,7 @@ ms.locfileid: "216887"
 > |[レポートと分析](dynamics365-talent/attract/attract.md)        | 9 月 18 日   | 
 > |[ディープ リンク](dynamics365-talent/Talent-Deep-Links.md) |  9 月 28 日  |
 > |[ガイドやテンプレートの共有とアクセスの管理](dynamics365-talent/onboard/access-management.md)  |  11 月 19 日         |
+> |[英国地域](dynamics365-talent/attract/united-kingdom-region.md) | 1 月 24 日|
 
 ### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 > [!div class="mx-tableFixed"]
@@ -323,7 +333,7 @@ ms.locfileid: "216887"
 > | [ソリューションを使用したキャンバス アプリの ALM の向上](powerapps/improve-alm-for-canvas-app-with-solutions.md) | ユーザーはアプリを含めるソリューションを選択できますが、PowerApps は既定ではソリューションを作成しません。 | 8 月 2 日    |
 > | [キャンバス アプリの共有の拡張](powerapps/sharing-enhancements-for-canvas-apps.md) |  機能拡張はキャンバス アプリにのみ関係し、モデル駆動型アプリには関係しません。 | 8 月 2 日     |
 > | [埋め込みキャンバス アプリによる Dynamics 365 エンティティ フォームの拡張](powerapps/extend-dynamics-365-entity-forms-with-embedded-canvas-apps.md) | パブリック プレビューで利用できる内容を明確にしました | 10 月 2 日 |
-> | [カスケード ドロップダウンの構成がより簡単に](powerapps/easier-to-configure-cascading-dropdowns-and-conditional-field-visibility.md) |  | 11 月 14 日
+> | [カスケード ドロップダウン リストの構成がより簡単に](powerapps/easier-to-configure-cascading-dropdowns-and-conditional-field-visibility.md) |  | 11 月 14 日
 
 ### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 > [!div class="mx-tableFixed"]
@@ -337,6 +347,9 @@ ms.locfileid: "216887"
 > | 簡略化されたギャラリー、フォーム、およびデータ テーブル フィールドの選択とバインド | | 11 月 27 日 |
 > | 式バーの機能拡張 | 次の半期に移動されました | 11 月 26 日 |
 > | モデル駆動型モバイル アプリケーションの信頼性向上 | | 1 月 11 日 |
+> | モバイル デバイスでの Dynamics 365 へのサインインがより簡単に | 次の半期に移動されました | 1 月 11 日 |
+> | 統一インターフェイス フォームの最適化 | | 1 月 24 日 |
+> | 統一インターフェイス上の依存オプション セット | | 1 月 24 日 |
 
 ### <a name="release-date-changed"></a>リリース日の変更
 > [!div class="mx-tableFixed"]
@@ -345,25 +358,19 @@ ms.locfileid: "216887"
 > | [新機能の概要](powerapps/planned-features.md) | 2018 年 10 月の GA (一般提供) としてすべての機能が一覧表示されていたエラーを修正しました。 目標リリース月、リリースの種類、またはその両方を修正するために、13 の機能が更新されました。 | 8 月 2 日   |
 > | [新機能のオプトイン](powerapps/opting-into-new-features.md) |  2018 年 10 月から 2018 年 12 月に変更されました |  8 月 8 日    |
 > | [Power プラットフォーム管理センターからの管理設定の管理](powerapps/admin-experiences-available-from-unified-interface.md) |  GA (一般提供) からパブリック プレビューに変更 | 9 月 12 日        |
-> | [依存オプション セットの構成](powerapps/configure-dependent-optionsets.md) | 2018 年 10 月から 2019 年 1 月に変更されました | 11 月 14 日  |
-> | [エンティティからの関連フローの作成と表示](powerapps/create-and-view-related-flows-from-your-entity.md) | 2018 年 10 月から 2019 年 1 月に変更されました | 11 月 14 日 |
-> | [レスポンシブ レイアウトでのキャンバス アプリの作成](powerapps/create-canvas-apps-with-responsive-layout.md) | 2018 年 11 月から 2019 年 1 月に変更されました | 11 月 14 日 |
-> | [アプリ用 Common Data Service のデータを使用した Power BI レポートの作成](powerapps/create-powerbi-reports-using-data-in-the-common-data-service-for-apps.md) | 2018 年 10 月から 2019 年 3 月に変更されました | 11 月 14 日 |
+> | [Common Data Service for Apps のデータを使用した Power BI レポートの作成](powerapps/create-powerbi-reports-using-data-in-the-common-data-service-for-apps.md) | 2018 年 10 月から 2019 年 3 月に変更されました | 11 月 14 日 |
 > | [Power BI 内の PowerApps のより深い統合 ](powerapps/deeper-powerapps-integration-in-powerbi.md) | 2018 年 10 月から 2018 年 12 月に変更されました | 11 月 14 日 |
 > | [カスケード ドロップダウンとフィールドの条件付き表示の構成がより簡単に](powerapps/easier-to-configure-cascading-dropdowns-and-conditional-field-visibility.md) | 2018 年 12 月から 2019 年 1 月に変更されました | 11 月 14 日 |
 > | [Access ユーザー向けのヘルプの向上](powerapps/improved-help-for-access-users.md) | 2018 年 10 月から 2018 年 12 月に変更されました | 11 月 14 日  |
 > | [キャンバス アプリの共有の拡張](powerapps/sharing-enhancements-for-canvas-apps.md) | 2018 年 10 月から 2018 年 11 月に変更されました | 11 月 14 日  |
 > | [エンティティでの簡略化された検索フィールドの作成](powerapps/simplified-lookup-field-creation-on-entities.md) | 2018 年 10 月から 2019 年 1 月に変更されました | 11 月 14 日  |
 > | [エンティティの詳細プロパティの管理を簡略化](powerapps/simplified-management-of-advanced-entity-properties.md) | 2018 年 12 月から 2019 年 1 月に変更されました | 11 月 14 日  |
-> | [アプリ用 Common Data Service または SharePoint を使用している場合にキャンバス アプリでわかりやすい表示名を使用する](powerapps/work-with-friendly-display-names-in-canvas-apps-when-using-the-common-data-service-or-sharepoint.md) | 2018 年 10 月から 2019 年 1 月に変更されました | 11 月 14 日  |
+> | [Common Data Service for Apps または SharePoint を使用している場合にキャンバス アプリでわかりやすい表示名を使用する](powerapps/work-with-friendly-display-names-in-canvas-apps-when-using-the-common-data-service-or-sharepoint.md) | 2018 年 10 月から 2019 年 1 月に変更されました | 11 月 14 日  |
 > | [Dynamics 365 用の Outlook Client v8.2 の信頼性の向上](powerapps/more-reliable-outlook-client-v8.2-for-dynamics-365.md) | 2018 年 10 月から 2018 年 12 月に変更されました | 11 月 14 日  |
-> | [Dynamics 365 用の Outlook Client v9.0 の信頼性の向上](powerapps/more-reliable-outlook-client-v9.0-for-dynamics-365.md) | 2018 年 10 月から 2018 年 12 月に変更されました | 11 月 14 日  |
 > | [Dynamics 365 の関連設定検索の強化](powerapps/set-regarding-lookup-enhancements-in-common-data-service.md) | 2018 年 10 月から 2018 年 11 月に変更されました | 11 月 14 日  |
-> | [Dynamics 365 での代理ユーザーのサポート](powerapps/support-for-delegate-users-in-dynamics-365.md) | 2018 年 10 月から 2018 年 11 月に変更されました | 11 月 14 日  |
 > | [新しい管理者向け分析レポート](powerapps/new-admin-analytics-reports.md) | 一般提供からパブリック プレビューに変更されました | 11 月 14 日  |
 > | [キャンバス アプリでの Common Data Service データ型のネイティブ サポート](powerapps/native-support-for-common-data-service-data-types-in-canvas-apps.md) | 一般提供からパブリック プレビューに変更されました | 11 月 27 日  |
 > | [キャンバス アプリによるエラーの捕捉、処理、レポートとデータベースへの Null 値の書き込み](powerapps/catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps.md) | 2018 年 12 月から 2019 年 2 月に変更されました | 11 月 27 日 |
-> | [モバイル デバイスでの Dynamics 365 へのサインインがより簡単に](powerapps/dynamics-365-mobile-support-email-login.md) | 次の半期に移動されました | 1 月 11 日 |
 > | [エンティティ間の高度なリレーションシップ](powerapps/advanced-relationships-on-entities.md) | 2019 年 1 月から 2019 年 2 月に変更されました | 1 月 11 日 |
 > | [自動採番の作成](powerapps/create-automatic-number-sequences.md) | 2019 年 1 月から 2019 年 2 月に変更されました | 1 月 11 日 |
 > | [同じツールでのエンティティとアプリの作成](powerapps/create-and-edit-your-entities-in-canvas-studio-while-building-an-app.md) | 2019 年 1 月から 2019 年 2 月に変更されました | 1 月 11 日 |
@@ -371,6 +378,11 @@ ms.locfileid: "216887"
 > | [ソリューション チェッカーを使用した高品質なモデル駆動型アプリの構築](powerapps/build-model-driven-apps-of-higher-quality-with-solution-checker.md) | 2018 年 11 月から 2018 年 12 月に変更されました | 1 月 11 日 |
 > | [埋め込みキャンバス アプリによる Dynamics 365 エンティティ フォームの拡張](powerapps/extend-dynamics-365-entity-forms-with-embedded-canvas-apps.md) | 2018 年 12 月から 2019 年 1 月に変更されました | 1 月 11 日 |
 > | [新しいモデル駆動型フォーム デザイナー](powerapps/new-model-driven-form-designer-preview.md) | 2018 年 12 月から 2019 年 1 月に変更されました | 1 月 11 日 |
+> | [Dynamics 365 での代理ユーザーのサポート](powerapps/support-for-delegate-users-in-dynamics-365.md) | 2018 年 11 月から 2019 年 6 月に変更されました | 1 月 24 日  |
+> | [レスポンシブ レイアウトでのキャンバス アプリの作成](powerapps/create-canvas-apps-with-responsive-layout.md) | 2019 年 1 月から 2019 年 2 月に変更されました | 1 月 24 日 |
+> | [エンティティからの関連フローの作成と表示](powerapps/create-and-view-related-flows-from-your-entity.md) | 2019 年 1 月から 2019 年 4 月に変更されました | 1 月 24 日 |
+> | [依存オプション セットの構成](powerapps/configure-dependent-optionsets.md) | 2019 年 1 月から 2019 年 3 月に変更されました | 1 月 24 日  |
+> | [Dynamics 365 用の Outlook Client v9.0 の信頼性の向上](powerapps/more-reliable-outlook-client-v9.0-for-dynamics-365.md) | 2018 年 12 月から変更されました | 1 月 24 日  |
 
 ## <a name="microsoft-flow"></a>Microsoft Flow
 
@@ -492,12 +504,12 @@ ms.locfileid: "216887"
 > |[レポート フィルタリング用の追加の URL パラメーター](https://docs.microsoft.com/business-applications-release-notes/April18/power-bi/service/additional-report-url-parameter-support)   |2018 年 10 月から 2018 年 7 月に変更され、2018 年 4 月のリリース ノートに移動されました  |10 月 19 日   |
 > |[ダッシュボードのコメント](https://docs.microsoft.com/business-applications-release-notes/April18/power-bi/service/commenting)    |2018 年 10 月から 2018 年 9 月に変更され、2018 年 4 月のリリース ノートに移動されました  | 10 月 19 日 |
 > |[レポート共有のフィルター](https://docs.microsoft.com/business-applications-release-notes/April18/power-bi/service/filters-for-report-sharing)   |2018 年 10 月から 2018 年 7 月に変更され、2018 年 4 月のリリース ノートに移動されました   | 10 月 19 日  |
-> |[レポートのコメント](intelligence-platform/power-bi-service/commenting.md)  |2018 年 10 月から 2019 年 3 月に変更されました  | 10 月 19 日 |
 > |[個人用ブックマーク](intelligence-platform/power-bi-service/personal-bookmarks.md)  |2018 年 11 月から 2018 年 12 月に変更されました  | 11 月 13 日 |
 > |[ホーム](intelligence-platform/power-bi-service/power-bi-home.md)  |2018 年 10 月の一般提供から 2018 年 10 月のプレビューに変更されました | 11 月 15 日 |
 > |[埋め込みコードのセキュリティ保護](intelligence-platform/power-bi-service/secure-embed.md)   |2018 年 11 月から 2019 年 1 月に変更されました   |11 月 27 日    |
 > |[コンプライアンス対応マルチ地域](intelligence-platform/power-bi-service/premium-multi-geo-for-compliance.md)   |2018 年 10 月のパブリック プレビューから 2019 年 3 月の一般提供に変更されました   |1 月 11 日    |
 > |[メタデータ翻訳](https://docs.microsoft.com/business-applications-release-notes/april19/business-intelligence/power-bi-service/metadata-translations-analysis-services-models)| 2018 年 10 月のリリース ノートから 2019 年 4 月に移動され、2019 年 3 月から 2019 年 5 月に変更されました  | 1 月 18 日 |
+> |[レポートのコメント](https://docs.microsoft.com/business-applications-release-notes/april19/business-intelligence/power-bi-service/commenting.md)  |2018 年 10 月のリリース ノートから 2019 年 4 月に移動され、2019 年 3 月から 2019 年 4 月に変更されました  | 1 月 29 日 |
 
 ### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 
@@ -675,7 +687,7 @@ ms.locfileid: "216887"
 > | 機能 |  変更    |  追加された日付 | 
 > |---------|----|----------|
 > | **Power BI** <br> 新しい機能強化されたコネクタ: <br> - IBM DB2 DirectQuery <br> - PBI サービスの Vertica (ゲートウェイ経由) <br> - PBI サービスの HDInsight 対話型クエリ (ゲートウェイ経由) | 新機能 | 8 月 8 日   |
-> | **アプリ用 CDS と Power BI データフロー** <br> - PowerApps メーカー ポータルでのデータ統合プロジェクトに対するスケジュールされた更新のサポート <br> - ソース エンティティが関連しているときのデータ統合によるエンティティ間の関連付けの自動作成 | 新機能 | 8 月 8 日   |
+> | **CDS for Apps と Power BI データフロー** <br> - PowerApps メーカー ポータルでのデータ統合プロジェクトに対するスケジュールされた更新のサポート <br> - ソース エンティティが関連しているときのデータ統合によるエンティティ間の関連付けの自動作成 | 新機能 | 8 月 8 日   |
 > | **CDM** <br> エンティティの定義がオープン ソース化されていて、追加のドキュメントとツールが含まれる、GitHub リポジトリ | 新機能 | 8 月 8 日  |
 > | **Microsoft Flow および PowerApps** <br> 新しいコネクタ: <br/> - Azure Data Factory <br/> - Dynamic Signal <br/> - Marketo <br/> - ElasticOCR <br/> - MailParser <br/> - PoliteMail <br/> - Cloud Connect Studio <br> - ProjectWise Design Integration <br> - LMS365 <br> - Azure IoT Central <br> - Survey123 <br/> - 管理者向け Power プラットフォーム <br/> - PowerApps for App Makers <br/> - PowerApps for Admins <br/> - Microsoft Flow for Admins <br/> - Project Roadmap <br/> - NetDocuments <br/> - Microsoft School Data Sync  <br/> - TeleSign SMS <br/> - AppsForOps <br/> - K2 Workflow | 新機能 | 10 月 11 日  |
 
@@ -686,22 +698,22 @@ ms.locfileid: "216887"
 > |---------|----|----------|
 > | **Power BI** <br> 新しい PDF コネクタ |  リリース日が更新されました。 | 8 月 8 日   |
 > | **Power BI** <br> "あいまい統合" の変換 |  リリースの種類が変更されました。 | 8 月 8 日 |
-> | **アプリ用 CDS と Power BI データフロー** <br> - GDPR (ユーザー データをエクスポートする機能、ユーザーがすべての CRUD 業務を監査する機能、DPIA 文書) <br> - 管理者向けデータ統合の機能強化 | リリースの種類が変更されました。 | 8 月 8 日  |
+> | **CDS for Apps と Power BI データフロー** <br> - GDPR (ユーザー データをエクスポートする機能、ユーザーがすべての CRUD 業務を監査する機能、DPIA 文書) <br> - 管理者向けデータ統合の機能強化 | リリースの種類が変更されました。 | 8 月 8 日  |
 > | **Microsoft Flow および PowerApps** <br> Excel Online - 更新操作のサポート |  リリースの種類が変更されました。 | 8 月 8 日  |
 > | **Power Query** <br> - データ準備ワークロードの一部としてエラーや異常値を簡単に識別するためのデータ プロファイル機能 <br> - M 言語の IntelliSense サポート | リリースの種類が変更されました。 | 8 月 8 日   |
-> | **アプリ用 CDS と Power BI データフロー** <br> [データフローでのセルフサービス データの準備](intelligence-platform/power-bi-service/self-service-data-prep-with-dataflows.md) |  リリースの種類が変更されました。 | 8 月 30 日   |
+> | **CDS for Apps と Power BI データフロー** <br> [データフローでのセルフサービス データの準備](intelligence-platform/power-bi-service/self-service-data-prep-with-dataflows.md) |  リリースの種類が変更されました。 | 8 月 30 日   |
 > | **Power BI** <br> D365 管理ポータルですべてのテナントのゲートウェイを管理する機能 | リリース日の変更。 | 9 月 7 日  |
 > | **Power BI** <br> - AtScale コネクタ <br> - Essbase コネクタ | パブリック プレビュー日付が変更されました。 | 9 月 7 日   |
 > | **Microsoft Flow および PowerApps** <br> 新しい地域のサポート: <br> - 米国政府 (GCC) |  リリース日と種類が変更されました。 | 9 月 7 日   |
 > | **Power Query** <br> [コミュニティ Web サイトの開始](data-integration-platform/1-power-query.md#power-query-community-website) | リリース日の変更。 | 10 月 11 日   |
 > | **Power Query** <br> [新しい PDF コネクタ](data-integration-platform/1-power-query.md#enterprise-grade-connectors) | リリースの種類が変更されました。 | 10 月 11 日   |
-> | **アプリ用 CDS** <br> 公開されたテンプレートからマーケットプレースで DI プロジェクトを作成する機能 (DI またはマーケットプレースから始める) | リリースの種類が変更されました。 | 10 月 11 日   |
+> | **CDS for Apps** <br> 公開されたテンプレートからマーケットプレースで DI プロジェクトを作成する機能 (DI またはマーケットプレースから始める) | リリースの種類が変更されました。 | 10 月 11 日   |
 
 ### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 > [!div class="mx-tableFixed"]
 > | 機能 |  追加情報 | 削除日付    |
 > |---------|--------------|----------|
-> |**アプリ用 CDS と Power BI データフロー** <br> カスタム コネクタのサポート (ゲートウェイ経由) | この機能のサポートの調査はまだ行われています。ただし、そのサポートに対する明確なタイムラインはありません。 [PowerApps のアイデア](https://powerusers.microsoft.com/t5/PowerApps-Ideas/idb-p/PowerAppsIdeas)および [Power BI のアイデア](https://ideas.powerbi.com)で提案に投票して優先順位付けにご協力ください。 | 8 月 8 日 | 
+> |**CDS for Apps と Power BI データフロー** <br> カスタム コネクタのサポート (ゲートウェイ経由) | この機能のサポートの調査はまだ行われています。ただし、そのサポートに対する明確なタイムラインはありません。 [PowerApps のアイデア](https://powerusers.microsoft.com/t5/PowerApps-Ideas/idb-p/PowerAppsIdeas)および [Power BI のアイデア](https://ideas.powerbi.com)で提案に投票して優先順位付けにご協力ください。 | 8 月 8 日 | 
 > |**Power BI** <br> 異なる容量の地域での Power BI Premium によるゲートウェイのサポート | 優先順位が変化するため、この機能のタイムフレームは決められていません。 調査が続けられている間、[Power BI のアイデア](https://ideas.powerbi.com)で提案に投票して優先順位付けにご協力ください。| 8 月 8 日 |
 > |**Power BI** <br> Power BI Desktop とのパリティを保つための追加のクラウド データ更新機能 | 優先順位が変化するため、この機能のタイムフレームは決められていません。 調査が続けられている間、[Power BI のアイデア](https://ideas.powerbi.com)で提案に投票して優先順位付けにご協力ください。| 10 月 11 日 |
 

@@ -3,7 +3,7 @@ title: 失敗したフローに対する電子メールでの修復のヒント
 description: フローが失敗した場合に、特定のエラーに関する具体的かつアクション可能なフィードバックを含むメールを受け取ります。 修復のヒントでは、フローが失敗した理由と解決方法が正確に示されます。 Flow ポータルで実行失敗をクリックして、修復のヒントを見ることもできます。
 author: sunayv
 ms.reviewer: deonhe
-ms.date: 01/02/2019
+ms.date: 01/17/2019
 ms.assetid: 36726ff5-4a98-e811-a96c-000d3a137a43
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: sunayv
 audience: Power user
-ms.openlocfilehash: dd26dfd8b461a0a3ec5cf89d53113d20eb4df42a
-ms.sourcegitcommit: 851bbbbeaac02e33829dfbf5f6f8e4055acf0822
+ms.openlocfilehash: 4aaad3a867d9a124f53e0110c930a074a580645e
+ms.sourcegitcommit: 1de869f4ccb74ccc9b9cd26817e3d5c30734c3c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "203502"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "288881"
 ---
 # <a name="repair-tips-in-email-for-failed-flows"></a>失敗したフローに対する電子メールでの修復のヒント
 
@@ -25,22 +25,21 @@ ms.locfileid: "203502"
 
 作成したフローが失敗することがあります。 そうなった場合は、修正方法を素早く知ることが重要です。 フローが失敗したときは、そのフローに関するメール通知が常に送信されています。
 
-> [!div class="mx-imgBorder"]
-> ![失敗に関するダイジェスト メール](media/repair-tips-0.png "失敗に関するダイジェスト メール")
+![失敗に関するダイジェスト メール](media/repair-tips-0.png "失敗に関するダイジェスト メール")
 
 ただし、これらの通知には、フローを修復するためにできることについての具体的な推奨は含まれません。 修復に役立つように、**修復のヒント**が導入されました。 修復のヒントでは、特定のエラーに関する具体的かつアクション可能なフィードバックを含むメールが送られます。 たとえば、よくあるエラーの 1 つは、Office 365 でユーザーのマネージャーを取得するフローを設定したのに、Azure AD でマネージャーが構成されていない場合です。 これまでは `404 – Not Found` とだけ表示されており、ほとんどの人にはその意味がわかりませんでした。 現在では、次のようなメールが届きます。
 
-> [!div class="mx-imgBorder"]
-> ![修復のヒントのメール](media/repair-tips-1.png "修復のヒントのメール")
+
+![修復のヒントのメール](media/repair-tips-1.png "修復のヒントのメール")
+
 
 このメールには、**起こったこと** (マネージャが構成されていなかった) と、**修正方法** (Azure AD でマネージャーを設定する) に関するセクションが含まれます。 また、多要素認証 (MFA) による接続エラーに関する修復のヒントも提供されます。
 
 特定のフローに対する修復のヒントを受け取りたくない場合は、[フローのプロパティ] ページの**詳細...** メニューで無効にできます。 新しいメニュー項目**修復のヒント**が表示されるので、それを選択してオフにできます。
 
-> [!div class="mx-imgBorder"]
-> ![[修復のヒント] メニュー項目](media/repair-tips-3.png "[修復のヒント] メニュー項目")
+![[修復のヒント] メニュー項目](media/repair-tips-3.png "[修復のヒント] メニュー項目")
 
 最後に、メールを受け取りたくない場合でも、修復のヒントが提供されているエラーがあるフロー実行を開くと常に、修復のヒントが表示されます。 実行の**詳細**ウィンドウで、**エラーの詳細**セクションと**修正方法**セクションを見ることができます。
 
-> [!div class="mx-imgBorder"]
-> ![[修復のヒント] メニュー項目](media/repair-tips-2.png "[修復のヒント] メニュー項目")
+
+![[修復のヒント] メニュー項目](media/repair-tips-2.png "[修復のヒント] メニュー項目")

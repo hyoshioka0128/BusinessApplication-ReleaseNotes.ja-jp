@@ -1,27 +1,27 @@
 ---
 title: レスポンシブ レイアウトでのキャンバス アプリの作成
 description: 上級の作成者は、レスポンシブなアプリを作成して、さまざまな環境に動的に調整できます。
-author: gregli-msft
+author: emcoope-msft
 ms.reviewer: anneta
-ms.date: 12/13/2018
+ms.date: 01/09/2019
 ms.assetid: 1f1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
-ms.author: gregli
+ms.author: emcoope
 audience: Power user
-ms.openlocfilehash: 0df7445250891ed4146c5408d15e51fcf39099d3
-ms.sourcegitcommit: 4516c399d430cc569513d46822c70670809fe5c6
+ms.openlocfilehash: 64b10cdd4643515361aa4e970ea9601aad6803f5
+ms.sourcegitcommit: abbfbdaff6d71a53e5dd36fecb6673080c49e5d6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/12/2019
-ms.locfileid: "202194"
+ms.lasthandoff: 01/26/2019
+ms.locfileid: "289763"
 ---
 # <a name="create-canvas-apps-with-responsive-layout-public-preview"></a>レスポンシブ レイアウトでのキャンバス アプリの作成 (パブリック プレビュー)
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[powerapps banner](../includes/powerapps.md)]
 
 通常、キャンバス アプリの画面はアプリ ホストが提供するスペースに収まるように拡張または縮小されます。 これにより、任意の画面で正しい比率で表示されるアプリを簡単に作成できるようになります。 ただし、デメリットもあります。画面が大きくなると、アプリは余分な領域を有効活用できなくなります。 今日の多くの Web サイトは "レスポンシブ" です。表示される画面に応じてサイズを調整し、スマートフォンの小さな画面からデスクトップの大きな画面にまで対応しています。  
 

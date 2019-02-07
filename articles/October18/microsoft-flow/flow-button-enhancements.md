@@ -3,7 +3,7 @@ title: Microsoft Flow ボタン入力の機能拡張
 description: 作成者がボタンの入力をより細かく制御できます。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/02/2019
+ms.date: 01/17/2019
 ms.assetid: 537e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: ''
@@ -11,14 +11,14 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 36e8aae6b6ab247e08d9d24094479470285bb094
-ms.sourcegitcommit: 851bbbbeaac02e33829dfbf5f6f8e4055acf0822
+ms.openlocfilehash: 0b6eb3ad67346007d805ef50e64afb7fd4466a74
+ms.sourcegitcommit: 1de869f4ccb74ccc9b9cd26817e3d5c30734c3c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "203705"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "288811"
 ---
-# <a name="flow-button-input-enhancements"></a>Flow ボタン入力の機能拡張
+# <a name="microsoft-flow-button-input-enhancements"></a>Microsoft Flow ボタン入力の機能拡張
 
 
 
@@ -40,4 +40,3 @@ ms.locfileid: "203705"
 さらに、一部の入力を必須として指定し、他の入力を省略可能として指定することができます。 これは各入力フィールドのアクション メニュー (右側にある **...** ボタン) から行うことができます。 ボタンあたり 5 入力の制限も引き上げました。
 
 ![入力を省略可能にする](media/flow-button-enhancements-2.png "入力を省略可能にする")
-

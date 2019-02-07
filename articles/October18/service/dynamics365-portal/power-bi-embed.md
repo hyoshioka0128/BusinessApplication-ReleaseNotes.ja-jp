@@ -12,12 +12,12 @@ ms.technology: ''
 ms.author: nenandw
 ms.reviewer: shjais
 audience: Admin
-ms.openlocfilehash: 6a2dc97be2d85b05349f226a2f74d6ccf79c903a
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 8b036dfe01dc2effebc2c89debc5f50d648c8259
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200119"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287850"
 ---
 # <a name="embed-power-bi-visualizations"></a>Power BI のビジュアル化の埋め込み
 
@@ -25,14 +25,13 @@ ms.locfileid: "200119"
 
 [Power BI](https://powerbi.microsoft.com) は、シンプルな対話型のビジュアル化によって分析情報を提供する最も優れたツールの 1 つです。 ポータル ユーザーに対して有効にする Power BI の機能とユース ケースの検討において、この機能は現在も最も投票数の多いアイデアの 1 つです。
 
-現在、ポータルへの安全な Power BI レポートの埋め込みは複雑な作業です。 これには、セキュリティ トークンを処理および管理するためのカスタム ロジックの作成が含まれます。 この機能により、Dynamics 365 Portal と Power BI の統合が合理化されます。 
+現在、ポータルへの安全な Power BI レポートの埋め込みは複雑な作業です。 これには、セキュリティ トークンを処理および管理するためのカスタム ロジックの作成が含まれます。 この機能により、Dynamics 365 Portal と Power BI の統合が効率化されます。 
 
 ## <a name="enable-power-bi"></a>Power BI の有効化
 
 管理者は、ポータルに対して Power BI を構成し、有効にすることができます。 これには、適切な Power BI ライセンスが必要です。
 
->[!div class="mx-imgBorder"]
->![ポータル管理センターから Power BI 統合を有効にする](media/PBI_Admin_Center_EnablePBI.png "ポータル管理センターから Power BI 統合を有効にする")
+![ポータル管理センターから Power BI 統合を有効にする](media/PBI_Admin_Center_EnablePBI.png "ポータル管理センターから Power BI 統合を有効にする")
 
 ## <a name="add-power-bi-visualization"></a>Power BI ビジュアル化の追加
 

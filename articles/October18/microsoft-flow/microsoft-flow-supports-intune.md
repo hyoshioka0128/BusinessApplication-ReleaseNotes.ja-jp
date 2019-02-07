@@ -3,7 +3,7 @@ title: Microsoft Flow が Intune をサポート
 description: Android と iOS 上の Microsoft Flow アプリが、Intune モバイル アプリケーション管理をサポートするようになりました。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/03/2019
+ms.date: 01/17/2019
 ms.assetid: 3a5abc17-66d9-e811-a987-000d3a1362e3
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 5d850596d1810833e34e530e2fb43c8cabd36702
-ms.sourcegitcommit: 851bbbbeaac02e33829dfbf5f6f8e4055acf0822
+ms.openlocfilehash: 0a0c6b16db63104a2341b0aa246182be3650401b
+ms.sourcegitcommit: 1de869f4ccb74ccc9b9cd26817e3d5c30734c3c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "203572"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "288990"
 ---
 # <a name="microsoft-flow-supports-intune"></a>Microsoft Flow が Intune をサポート
 
@@ -35,7 +35,7 @@ MAM を使用すると、テナント内でのアプリケーションの使用�
 
 ## <a name="your-device-doesnt-need-to-be-enrolled"></a>デバイスを登録する必要はありません
 
-登録なしの Intune MAM では、ユーザーは Intune MAM に自分のデバイスを登録する必要はありません。 ただし、ポリシーを適用するには、ポータル サイト アプリケーションをデバイスにインストールする必要があります。 MAM が機能するために、会社のポータル アプリケーションにログインする必要はありません。 ポータル サイト アプリケーションは、Apple ストアおよび Android アプリ ストアからダウンロードできます。
+登録なしの Intune MAM では、ユーザーは Intune MAM に自分のデバイスを登録する必要はありません。 ただし、ポリシーを適用するには、ポータル サイト アプリケーションをデバイスにインストールする必要があります。 MAM が機能するために、ポータル サイト アプリケーションにログインする必要はありません。 ポータル サイト アプリケーションは、Apple ストアおよび Android アプリ ストアからダウンロードできます。
 
 ![ポータル サイト](media/microsoft-flow-supports-intune/intune-mam-1-companyportal.png "ポータル サイト")
 
@@ -66,8 +66,7 @@ MAM を使用すると、テナント内でのアプリケーションの使用�
     ![必要なアプリの選択](media/microsoft-flow-supports-intune/intune-mam-3-selectrequiredapps.png "必要なアプリの選択")
 
 - ここで、**必要な設定の構成**を選択して、特定のアプリケーション動作を強制するポリシーを定義する必要があります。
-- **必要な設定の構成**エクスペリエンスでは、**データ再配置**、**アクセス要件**、**条件付き起動**の 3 つの領域を構成する必要があります。
-- まずは**データ再配置**を設定します。 Microsoft Flow アプリはローカル データの生成に使用されないので、既定のポリシーを使用できます。
+- **必要な設定の構成**エクスペリエンスでは、**データ再配置**、**アクセス要件**、**条件付き起動**の 3 つの領域を構成する必要があります。 まずは**データ再配置**を設定します。 Microsoft Flow アプリはローカル データの生成に使用されないので、既定のポリシーを使用できます。
 
     > [!NOTE]
     > このポリシーは例として使用されています。 組織のニーズに合わせてそれを変更してください。
@@ -93,9 +92,9 @@ Azure AD グループを選択するには、**含めるグループを選択**�
 
 ## <a name="testing"></a>テスト
 
-次に、Microsoft Flow モバイル アプリにログインし、次の手順に従って、MAM ポリシーをテストします。
+次に Microsoft Flow モバイル アプリにサインインし、次の手順に従って MAM ポリシーをテストします。
 
-- iOS または Android アプリが最新バージョンであることを確認します (**バージョン 2.31.0** 以降)。
+- iOS または Android アプリが最新バージョン (**バージョン 2.31.0** 以降) であることを確認します。
 - Microsoft Flow モバイル アプリを閉じます。
 - Microsoft Flow モバイル アプリを起動します。
 - 次のメッセージが表示されます。

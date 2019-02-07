@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: kvivek
 audience: Admin
-ms.openlocfilehash: ff2bad9cf8b15cda737e4ef7738daf80bc639fe5
-ms.sourcegitcommit: 241bddaf9e01c93ffd6f98c50ced54a03e394a20
+ms.openlocfilehash: 8f35f819801a3c8cabedc2d407506ff1ea787419
+ms.sourcegitcommit: 837d0b244af0c46ac2f5e84181ae3e6ec8533c40
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "213851"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "291000"
 ---
 # <a name="summary-of-whats-new-in-business-intelligence"></a>ビジネス インテリジェンスの新機能の概要
 
@@ -49,7 +49,6 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 > |機能   |リリースの種類   |日付    |
 > |----------|---------------|------------------------|
 > |[ホーム](power-bi-service/power-bi-home.md)   |パブリック プレビュー  |2018 年 10 月    |
-> |[レポートのコメント](power-bi-service/commenting.md)   |一般提供   |2019 年 3 月    |
 > |**他のユーザーを電子メールに登録** - 他のユーザーまたは配布リストをレポートおよびダッシュボードのスケジュールされた電子メールに登録します   |一般提供   |2018 年 10 月    |
 > |[管理 API](power-bi-service/admin-apis.md)   |一般提供   |2018 年 10 月    |
 > |**PowerApps カスタム ビジュアル** - BI 作成者は、運用ソリューションの Power BI レポート内で PowerApps を使用できるようになりました。 レポート作成者は、PowerApps から Power BI レポートを最新の情報に更新して、レポート内のデータ ウェアハウスをより多くの方法でトランザクション操作できるようになりました。 BI 作成者は、各自のアプリとレポートに簡略化された共有オプションを使用することもできます。   |一般提供   |2018 年 10 月    |

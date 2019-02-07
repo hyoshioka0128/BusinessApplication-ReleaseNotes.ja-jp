@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: HaydnR
 audience: ''
-ms.openlocfilehash: bf7b612c01046d23cd3fbb3bb79554a38924585b
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: aa1f2a59232f132937772cca8771426726d9d569
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200031"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288056"
 ---
 # <a name="personal-bookmarks"></a>個人用ブックマーク
 
@@ -24,5 +24,4 @@ ms.locfileid: "200031"
 
 個人用ブックマークを使用すると、エンド ユーザーは、フィルターやビジュアルの状態を含むレポートのビューを取り込み、簡単にアクセスするためのフレンドリ名を付けることができます。 ユーザーはブックマークのコレクションを作成し、そのいずれかを既定としてマークできるので、レポートに戻るたびに保存したブックマークが適用されます。
 
-> [!div class="mx-imgBorder"]
-> ![個人用ブックマーク](media/personal-bookmarks.jpg "個人用ブックマーク")
+![個人用ブックマーク](media/personal-bookmarks.jpg "個人用ブックマーク")

@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.openlocfilehash: 6e374ca408d70db7c85a40ecec03aa7b13a7e1a4
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: c2b7fc7a136622d5fa38aae44d97e98c720fed8e
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199283"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288106"
 ---
 #  <a name="resource-pools"></a>リソース プール
 
@@ -41,7 +41,6 @@ ms.locfileid: "199283"
 
   (リソース プールでのサポートが計画されていないオンサイト要件。)
 
-  > [!div class="mx-imgBorder"]
-  > ![リソース プールのシナリオ](media/ResourcePools.png "リソース プールのシナリオ")
+  ![リソース プールのシナリオ](media/ResourcePools.png "リソース プールのシナリオ")
   
   *リソース プールのシナリオ*

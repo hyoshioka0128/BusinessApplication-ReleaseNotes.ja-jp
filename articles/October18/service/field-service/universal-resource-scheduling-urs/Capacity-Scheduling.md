@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.openlocfilehash: 3315fe5725455f860b3e82a9c08ce8ef50dd123f
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: e3762649521666d594a0bf4d715fa80ce22c895e
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199096"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287198"
 ---
 #  <a name="capacity-scheduling"></a>キャパシティのスケジューリング
 
@@ -39,8 +39,7 @@ ms.locfileid: "199096"
         * リソースとして「クラス」を作成し、最大 10 人の顧客をクラスに予約できます。
 > オンサイト作業を実行するリソースは、複数のキャパシティを持つことはできません。
 
-> [!div class="mx-imgBorder"]
-> ![追加容量行が展開されたリソースを示すスケジュール ボード](media/Additional-Capacity.png "追加キャパシティ")
+![追加容量行が展開されたリソースを示すスケジュール ボード](media/Additional-Capacity.png "追加キャパシティ")
 <!-- picture -->
 
 *追加容量行が展開されたリソースを示すスケジュール ボード*

@@ -12,12 +12,12 @@ ms.technology: ''
 ms.author: sandhan
 ms.reviewer: shjais
 audience: Admin
-ms.openlocfilehash: 519415da2371638468807cced7d2a18ddeaed2e0
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 6efc57638226b7e3fce6027984e08c26254f2865
+ms.sourcegitcommit: 163b0e8ec8da8ef8bbe43f302c561bbaed43d0be
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199354"
+ms.lasthandoff: 01/28/2019
+ms.locfileid: "290648"
 ---
 #  <a name="simplified-customization"></a>簡略化されたカスタマイズ
 
@@ -30,9 +30,9 @@ Dynamics 365 Portal のカスタマイズを簡略化するため、ポータル
 
 カスタマイズ担当者と管理者には、次のメリットがもたらされます。
 
-- WYSIWYG ベースのコンテンツ エディターによって、美しいビジュアル エクスペリエンスを作成できます。  
+- WYSIWYG ベースのコンテンツ エディターによって、美しいビジュアル エクスペリエンスを作成できます。
 - 現代的で直感的な Web ページ作成エクスペリエンスが提供されます。
-- サイトマップ構成が改善されたことで、ナビゲーションやページ階層を効率よく管理できます。    
+- サイトマップ構成が改善されたことで、ナビゲーションやページ階層を効率よく管理できます。
 - 状況依存のコンポーネント構成と管理機能によって、生産性を改善できます。
 
 <!--

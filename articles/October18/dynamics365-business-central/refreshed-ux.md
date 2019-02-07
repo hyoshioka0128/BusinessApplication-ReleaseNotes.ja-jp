@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: blazkote
 audience: end user, customizer, business analyst, IT pro
-ms.openlocfilehash: 9979f961a07e1238fad7f6f8e8295413ad456b59
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 874900c911163ac7c27814f4bf5c3ca66bcad694
+ms.sourcegitcommit: 163b0e8ec8da8ef8bbe43f302c561bbaed43d0be
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199811"
+ms.lasthandoff: 01/28/2019
+ms.locfileid: "290512"
 ---
 # <a name="refreshed-desktop-experience"></a>一新されたデスクトップ エクスペリエンス
 

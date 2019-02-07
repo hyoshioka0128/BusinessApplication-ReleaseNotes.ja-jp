@@ -10,12 +10,12 @@ ms.technology: ''
 ms.author: Karthik55217
 ms.reviewer: anjgupta
 audience: Admin
-ms.openlocfilehash: e403c9258fbf9fa81f6b98a0d7632ca72562f98a
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 4be9191d6b76705ed618a9f8860113b3c8f1635e
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199101"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286582"
 ---
 #  <a name="knowledge-article-recommendations"></a>ナレッジ記事のレコメンデーション 
 
@@ -25,6 +25,5 @@ ms.locfileid: "199101"
 
 次のスクリーンショットは、Dynamics 365 for Customer Service のナレッジ記事のレコメンデーションを示しています。 
 
-> [!div class="mx-imgBorder"]
-> ![ナレッジ記事のレコメンデーションの表示](media/knowledge-article-suggestion.png "ナレッジ記事のレコメンデーションの表示")
+![ナレッジ記事のレコメンデーションの表示](media/knowledge-article-suggestion.png "ナレッジ記事のレコメンデーションの表示")
 

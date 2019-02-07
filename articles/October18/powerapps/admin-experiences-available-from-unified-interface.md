@@ -3,7 +3,7 @@ title: Power プラットフォーム管理センターからの管理設定の�
 description: Common Data Service 管理者は Power プラットフォーム管理センターで設定にすばやくアクセスして管理できます
 author: nigajula
 ms.reviewer: jimholtz
-ms.date: 01/03/2019
+ms.date: 01/11/2019
 ms.assetid: 971c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: nigajula
 audience: Power user
-ms.openlocfilehash: 6d8b43ddacff3122de762638fc9a71aa458e96e0
-ms.sourcegitcommit: 4516c399d430cc569513d46822c70670809fe5c6
+ms.openlocfilehash: d419ea1011fbea46cc1062b2e989810316f88af7
+ms.sourcegitcommit: abbfbdaff6d71a53e5dd36fecb6673080c49e5d6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/12/2019
-ms.locfileid: "202005"
+ms.lasthandoff: 01/26/2019
+ms.locfileid: "290016"
 ---
 # <a name="manage-admin-settings-from-the-power-platform-admin-center-public-preview"></a>Power プラットフォーム管理センターからの管理設定の管理 (パブリック プレビュー)
 

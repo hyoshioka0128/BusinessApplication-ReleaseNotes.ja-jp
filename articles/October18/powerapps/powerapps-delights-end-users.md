@@ -3,7 +3,7 @@ title: エンドユーザー エクスペリエンスの向上
 description: Microsoft は高品質のエンドユーザー エクスペリエンスの提供に力を入れてきました。
 author: evchaki
 manager: KVivek
-ms.date: 01/03/2019
+ms.date: 01/10/2019
 ms.assetid: d68cd080-3b73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: evchaki
 audience: Power user
-ms.openlocfilehash: 87bbdbe943c77c60adec2ea0c20ddf5640c54f61
-ms.sourcegitcommit: 4516c399d430cc569513d46822c70670809fe5c6
+ms.openlocfilehash: bcf5c1a84455e310dbf84fb129f876243c3c0b01
+ms.sourcegitcommit: abbfbdaff6d71a53e5dd36fecb6673080c49e5d6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/12/2019
-ms.locfileid: "202215"
+ms.lasthandoff: 01/26/2019
+ms.locfileid: "289837"
 ---
 # <a name="improvements-in-end-user-experiences"></a>エンドユーザー エクスペリエンスの向上
 

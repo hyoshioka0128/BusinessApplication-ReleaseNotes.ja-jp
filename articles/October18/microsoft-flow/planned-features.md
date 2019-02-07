@@ -3,19 +3,19 @@ title: 2018 年 10 月に Microsoft Flow に対して計画されている機能
 description: Microsoft Flow の 2018 年 10 月リリースで利用可能になる主要な新機能の全一覧です。
 author: stepsic-microsoft-com
 manager: KVivek
-ms.date: 01/08/2019
+ms.date: 01/21/2019
 ms.topic: summary
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: c4fad2789aa983a1810dff2f1ad545cddf9b9a37
-ms.sourcegitcommit: 851bbbbeaac02e33829dfbf5f6f8e4055acf0822
+ms.openlocfilehash: 481b2ba75faea3bdb0fe68116bf21b0d257f4ec6
+ms.sourcegitcommit: 1de869f4ccb74ccc9b9cd26817e3d5c30734c3c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "203614"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "288846"
 ---
 # <a name="summary-of-whats-new-in-microsoft-flow"></a>Microsoft Flow の新機能の概要
 
@@ -32,7 +32,7 @@ Office 365 および Dynamics 365 との連携が向上し、SharePoint、Teams�
 | 機能    | リリースの種類    | 日付    |
 | ---------- | ---------- | ---------- |
 | [Teams の Microsoft Flow タブ](microsoft-teams-uses-flow-as-a-bot.md) | 一般提供 |  2018 年 11 月 29 日  |
-| [Flow による SharePoint ページの承認のカスタマイズ](customize-sharepoint-content-approvals-with-flow.md) | 一般提供 |  2019 年 1 月 7 日  |
+| [Microsoft Flow による SharePoint ページ承認のカスタマイズ](customize-sharepoint-content-approvals-with-flow.md) | 一般提供 |  2019 年 1 月 7 日  |
 | [OneDrive for Business Flow 起動パネル](onedrive-for-business-flow-launch-panel.md) | 一般提供 |  2019 年 1 月  |
 | [OneDrive for Business 要求のサインオフ](onedrive-for-business-request-sign-off.md) | 一般提供 |  2019 年 1 月  |
 | [Microsoft Teams でより充実したメッセージを投稿](post-richer-messages-in-microsoft-teams.md) | 一般提供 |  2019 年 1 月  |
@@ -42,7 +42,7 @@ Office 365 および Dynamics 365 との連携が向上し、SharePoint、Teams�
 
 ## <a name="building-the-platform"></a>プラットフォームの構築
 
-メーカーと管理者のライフサイクルおよびコンプライアンス要件を満たすエンタープライズ グレードのプラットフォーム。
+メーカーと管理者のライフサイクルおよびコンプライアンス要件を満たすエンタープライズ レベルのプラットフォーム。
 
 | 機能    | リリースの種類    | 日付    |
 | ---------- | ---------- | ---------- |
@@ -60,7 +60,7 @@ Office 365 および Dynamics 365 との連携が向上し、SharePoint、Teams�
 
 | 機能    | リリースの種類    | 日付    |
 | ---------- | ---------- | ---------- |
-| [業務プロセス フローの作成エクスペリエンスの合理化](streamlined-authoring-for-business-process-flows.md) | 一般提供 |  2019 年 1 月 18 日  |
+| [業務プロセス フローの作成エクスペリエンスの効率化](streamlined-authoring-for-business-process-flows.md) | 一般提供 |  2019 年 1 月 18 日  |
 | [業務プロセス フロー内のカスタム コントロール](custom-controls-in-business-process-flows.md) | パブリック プレビュー |  2019 年 1 月 18 日  |
 
 ## <a name="empower-citizen-developers"></a>一般開発者の支援
@@ -73,11 +73,12 @@ Office 365 および Dynamics 365 との連携が向上し、SharePoint、Teams�
 | [新しい Microsoft Flow ポータルとデザイナー エクスペリエンス](flow-designer-enhancements.md) | 一般提供 |  2018 年 10 月 31 日  |
 | [フロー チェッカー](flow-checker.md) | 一般提供 |  2018 年 11 月 8 日  |
 | [Microsoft Flow でのリッチ テキスト コンテンツの編集](edit-rich-text-content-in-flow.md) | 一般提供 |  2018 年 11 月 16 日  |
-| [Flow ポータルへのヘルプとサポートのエクスペリエンスの統合](flow-support-help-inside-of-the-flow-designer.md) | 一般提供 |  2018 年 11 月 29 日  |
-| [Flow ポータルでのリソースのフィルター処理](filter-resources-in-the-flow-portal.md) | 一般提供 |  2018 年 12 月 14 日  |
-| [Flow ボタン入力の機能拡張](flow-button-enhancements.md) | 一般提供 |  2018 年 12 月 14 日  |
+| [Microsoft Flow へのヘルプとサポートのエクスペリエンスの統合](flow-support-help-inside-of-the-flow-designer.md) | 一般提供 |  2018 年 11 月 29 日  |
+| [Microsoft Flow でのリソースのフィルター処理](filter-resources-in-the-flow-portal.md) | 一般提供 |  2018 年 12 月 14 日  |
+| [Microsoft Flow ボタン入力の機能拡張](flow-button-enhancements.md) | 一般提供 |  2018 年 12 月 14 日  |
 | [失敗通知のノイズを削減](reduced-noise-of-failure-notifications.md) | 一般提供 |  2018 年 12 月 14 日  |
-| [Word 文書の生成](word-document-generation.md) | 一般提供 |  2019 年 1 月  |
-| [モバイル デバイスのデバイス シグナルの利用](leverage-device-signals-on-mobile-devices.md) | 一般提供 |  2019 年 1 月  |
 | [承認のカスタム応答オプション](custom-response-options-in-approvals.md) | 一般提供 |  2019 年 1 月  |
+| [依存関係を持つアクションを変更する](change-actions-that-have-dependencies.md) | 一般提供 |  2019 年 2 月  |
 | [すべてのテンプレートに対する Diet デザイナー](diet-designer-for-all-templates.md) | 一般提供 |  2019 年 3 月  |
+| [Word 文書の生成](word-document-generation.md) | パブリック プレビュー |  2019 年 1 月  |
+| [モバイル デバイスのデバイス シグナルの利用](leverage-device-signals-on-mobile-devices.md) | パブリック プレビュー |  2019 年 2 月  |

@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: josaw
 audience: Admin
-ms.openlocfilehash: a3ba64f7a77696a7e2c60d8f837e8481e7531e2f
-ms.sourcegitcommit: bdd8328c237beb442560635fa9459e8cd118273d
+ms.openlocfilehash: d08ab5163052736943fb54883880c906de3e87b0
+ms.sourcegitcommit: 1b2af1b1abe08340188092b8873c6eca3856591b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "213894"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "288391"
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-for-retail"></a>Dynamics 365 for Retail の新機能の概要
 

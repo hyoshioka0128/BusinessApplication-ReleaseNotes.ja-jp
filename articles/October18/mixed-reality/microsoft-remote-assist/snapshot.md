@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mapau
 ms.reviewer: v-brycho
-ms.openlocfilehash: ed93cbd368cac3a45ff74fcdc203bb37ffea60ba
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 2aa34d645818b7a71c25ce2308f043a7b515ca3d
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199825"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287572"
 ---
 # <a name="take-a-snapshot-to-capture-annotations"></a>スナップショットを作成して注釈を取り込む
 
@@ -20,8 +20,7 @@ ms.locfileid: "199825"
 
 Microsoft Dynamics 365 Remote Assist の通話中に、Mixed Reality の注釈の写真を撮って後で使用するために保存します。 写真は HoloLens カメラ ロールに自動的に保存されます。
 
-> [!div class="mx-imgBorder"]
-> ![](media/3c36ac58613973bcdc9ec5dd3a162723.jpg)
+![](media/3c36ac58613973bcdc9ec5dd3a162723.jpg)
 
 *スナップショットの作成*
 

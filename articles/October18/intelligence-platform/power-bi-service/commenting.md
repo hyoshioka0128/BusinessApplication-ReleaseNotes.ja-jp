@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../../april19/business-intelligence/power-bi-service/commenting
 title: レポートのコメント
 description: コンテキストを提供し、質問を行うための、レポートおよびダッシュボードでのコメント。
 author: AdamDWilson
@@ -11,12 +12,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: adamw
 audience: Analyst
-ms.openlocfilehash: b1673338e8bde758551bf8a261a9f8926714b82b
-ms.sourcegitcommit: ad62cefb6624ef765895e0cfc9bafd226b28a952
+ms.openlocfilehash: 1c797bbba529bdd298da22551eaaf25dd5d0ab20
+ms.sourcegitcommit: d0ceddeff0980cb894fd6de2f21044b67ce43cb5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2019
-ms.locfileid: "202647"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "291377"
 ---
 # <a name="report-commenting"></a>レポートのコメント
 
@@ -28,5 +29,4 @@ ms.locfileid: "202647"
 
 また、ダッシュボードとレポートの両方について、ユーザーからのフィードバックに基づいてコメントを更新します。  ユーザーがコメントを残したときに、レポートまたはダッシュボードの所有者を自動的に \@ で参照投稿し、定期的な電子メールのダイジェストを所有者に送信します。これにより、所有者は自分が所有するコンテンツに関する最新のコメントを把握できます。  また、コメント ボタンを更新して、ユーザーに未読のコメントがある場合に表示します。
 
-> [!div class="mx-imgBorder"]
-> ![コメントの例](media/report-commenting.jpg "コメントの例")
+![コメントの例](media/report-commenting.jpg "コメントの例")

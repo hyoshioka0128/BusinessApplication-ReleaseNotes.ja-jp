@@ -10,12 +10,12 @@ ms.assetid: ''
 author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
-ms.openlocfilehash: 652f00a3ae024cad761a9e64ab87e2fe857145c2
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: e290991bd9f2d23c1b1ecc08dfa7bee7b4c761ec
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199809"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288261"
 ---
 # <a name="improve-your-ai-insights-data-by-cleansing-support-case-titles"></a>サポート案件タイトルのクレンジングによる AI Insights データの向上
 
@@ -25,8 +25,7 @@ AI for Customer Service Insights ダッシュボードに表示される AI Insi
 
 タグがトピックにグループ化されているときにタイトル内のタグを無視するようにデータ クレンジングの設定を指定することで、AI Insight チャートに表示される結果の品質を向上させることができます。
 
-> [!div class="mx-imgBorder"]
-> ![サポート案件のタイトルのクレンジング設定を使用すると、タグがトピックにグループ化されているときにタイトル内のタグを無視できます](media/case-title-cleansing.png "サポート案件のタイトルのクレンジング設定を使用すると、タグがトピックにグループ化されているときにタイトル内のタグを無視できます")
+![サポート案件のタイトルのクレンジング設定を使用すると、タグがトピックにグループ化されているときにタイトル内のタグを無視できます](media/case-title-cleansing.png "サポート案件のタイトルのクレンジング設定を使用すると、タグがトピックにグループ化されているときにタイトル内のタグを無視できます")
 
 *サポート案件のタイトルのクレンジング設定を使用すると、タグがトピックにグループ化されているときにタイトル内のタグを無視できます*
 

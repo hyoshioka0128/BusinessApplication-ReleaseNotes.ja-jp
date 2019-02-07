@@ -7,12 +7,12 @@ ms.topic: summary
 ms.service: business-applications
 ms.author: mapau
 ms.reviwer: v-brycho
-ms.openlocfilehash: 6fa5eab31dcc36e335aa33a8d5cec4dc37bf477f
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: e31cb54effe9690e35bbb43030384f5953f3dbd0
+ms.sourcegitcommit: 163b0e8ec8da8ef8bbe43f302c561bbaed43d0be
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199599"
+ms.lasthandoff: 01/28/2019
+ms.locfileid: "290562"
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-remote-assist"></a>Dynamics 365 Remote Assistの新機能の概要
 
@@ -31,4 +31,7 @@ ms.locfileid: "199599"
 | [Remote Assist の通話中にオーディオを自動的に調整](dynamic-audio.md)   | 一般提供 | 2018 年 10 月 1 日             |
 | [音声コマンドの使用](voice-commands.md)                                  | 一般提供 | 2018 年 10 月 1 日             |
 | [プロトコルの有効化を使用して別のアプリから Remote Assist を起動](protocol-activation.md)  |  一般提供  | 2018 年 10 月 1 日
-| [画面共有](screen-sharing.md)  |  一般提供  | 2018 年 12 月 10 日 
+| [画面共有](screen-sharing.md)  |  一般提供  | 2018 年 12 月 10 日|
+| [矢印が配置される場所を示すゴースト矢印](ghost-arrows.md)| 一般提供|2019 年 1 月 28 日|
+| [ナレーターによる着信の通知](narrator.md)| 一般提供|2019 年 1 月 28 日|
+| [追加の音声コマンドと視線入力コマンド](additional-voice-commands.md)| 一般提供|2019 年 1 月 28 日|

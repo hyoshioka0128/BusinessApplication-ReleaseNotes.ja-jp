@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: edupont
 audience: Admin, end user
-ms.openlocfilehash: 68c220767d46a6e3ceaef189589369fc4adb7444
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 28843109bf5a47d1230823e9ef6ac578ee9c2b0c
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200021"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287033"
 ---
 # <a name="intelligent-edge-for-dynamics-gp-dynamics-sl-and-dynamics-nav"></a>Dynamics GP、Dynamics SL、Dynamics NAV のインテリジェント エッジ
 
@@ -26,8 +26,7 @@ Microsoft はインテリジェント クラウドへの大きな投資を続け
 
 Dynamics 365 Business Central によってインテリジェント クラウドにオンプレミスの Dynamics SMB ソリューションを接続し、Power BI、Microsoft Flow、PowerApps、機械学習、その他にアクセスできます。  
 
-> [!div class="mx-imgBorder"]
-> ![エッジ デバイスから多くのクラウド ソリューションに](media/impact-dynamics-gp-dynamics-sl-customers-1.png "エッジ デバイスから多くのクラウド ソリューションに")  
+![エッジ デバイスから多くのクラウド ソリューションに](media/impact-dynamics-gp-dynamics-sl-customers-1.png "エッジ デバイスから多くのクラウド ソリューションに")  
 
 2018 年 10 月リリースの Business Central では、複数の Dynamics SMB 製品にインテリジェント エッジが組み込まれます。 インテリジェント エッジを使用すると、Business Central からインテリジェント クラウドのインスタンスにオンプレミスのソリューションをシームレスに接続できます。 接続が行われると、オンプレミスのデータがインテリジェント クラウドに安全に複製されます。 ユーザーは複製する会社を決定するだけであり (すべてを選択することもできます)、その後は、オンプレミスのソリューションのメイン ページ内で、アクション可能な分析とコンテンツが提供されます。 インテリジェント クラウドは Power BI、PowerApps、Microsoft Flow、AI などのソリューションを利用して、業務の実行を向上させることができる分析情報とアクション可能なメッセージを提供します。  
 

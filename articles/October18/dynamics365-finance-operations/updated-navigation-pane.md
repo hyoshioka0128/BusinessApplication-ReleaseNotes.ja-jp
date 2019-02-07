@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
-ms.openlocfilehash: a83c2e17f40f1ebb71e90bc18b2b0dcf0decee1e
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 287edd26bf4a52d9f1d65fd4cbfa237080431db3
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199386"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286975"
 ---
 # <a name="improved-usability-of-the-navigation-pane"></a>ナビゲーション ウィンドウの使いやすさの向上
 
@@ -27,15 +27,13 @@ ms.locfileid: "199386"
     
     たとえば、次の画像は、Platform Update 21 以前のナビゲーション ウィンドウを示しています。 ワークスペース タイルが多くの空間を占めることにご注意ください。
 
-    > [!div class="mx-imgBorder"]
-    > ![Platform Update 21 以前のナビゲーション ウィンドウ](media/oldNavPane.png "Platform Update 21 以前のナビゲーション ウィンドウ")
+    ![Platform Update 21 以前のナビゲーション ウィンドウ](media/oldNavPane.png "Platform Update 21 以前のナビゲーション ウィンドウ")
 
     *前: Platform Update 21 以前のナビゲーション ウィンドウ*
     
     次の画像は、Platform Update 22 のナビゲーション ウィンドウを示しています。 ワークスペース タイルがよりよく整理されていることにご注意ください。
 
-    > [!div class="mx-imgBorder"]
-    > ![Platform Update 22 より後のナビゲーション ウィンドウ](media/newNavPane.png  "Platform Update 22 より後のナビゲーション ウィンドウ")
+    ![Platform Update 22 より後のナビゲーション ウィンドウ](media/newNavPane.png  "Platform Update 22 より後のナビゲーション ウィンドウ")
 
     *後: Platform Update 22 以降のナビゲーション ウィンドウ*
 
@@ -43,8 +41,7 @@ ms.locfileid: "199386"
 
     モジュール メニューをより使いやすく、ユーザーをわずらわせないものにするために、各ユーザーがほぼ完全に折りたたまれたモジュール メニューから開始するようにしています。次の画像に示すように、既定では**ワークスペース** フォルダーだけが展開されます。
 
-    > [!div class="mx-imgBorder"]
-    > ![メニューがほぼ完全に折りたたまれた状態で開始](media/collapsedNavPane.png  "メニューがほぼ完全に折りたたまれた状態で開始")
+    ![メニューがほぼ完全に折りたたまれた状態で開始](media/collapsedNavPane.png  "メニューがほぼ完全に折りたたまれた状態で開始")
 
     *ユーザーが初めてモジュールを開いたとき、最初はほとんどのモジュール メニューが折りたたまれて表示される*
 
@@ -58,8 +55,7 @@ ms.locfileid: "199386"
     
     たとえば、**ベンダー** フォルダーと**発注書**フォルダーに最も頻繁に使用するメニュー項目が含まれる場合、この 2 つのフォルダーを展開でき、次回このメニューを開いたときにそれらが展開されます。
 
-    > [!div class="mx-imgBorder"]
-    > ![次回](media/partialNavPane.png  "次回")
+    ![次回](media/partialNavPane.png  "次回")
 
     *システムに各メニューの拡大/縮小状態が記憶される*
 

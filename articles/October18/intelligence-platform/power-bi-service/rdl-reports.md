@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: HaydnR
 audience: ''
-ms.openlocfilehash: d60ee3db786012b79db1d3c2d919bc2fc72fb051
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 7399a7cc82f6cea65a789566bb9afe84a0bdb9ab
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199230"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287083"
 ---
 # <a name="paginated-reports-in-power-bi-public-preview"></a>Power BI のページ付けされたレポート (パブリック プレビュー) 
 
@@ -30,13 +30,11 @@ SQL Server Reporting Services (SSRS) レポート (\*.rdl 形式) を Power BI P
 
 レポートは、次に示すように、Power BI Web またはモバイル エクスペリエンスの内部にレンダリングします。
 
-> [!div class="mx-imgBorder"]
-> ![Power BI Web でのレポート](media/rdl-report-render.png "Power BI Web でのレポート")
+![Power BI Web でのレポート](media/rdl-report-render.png "Power BI Web でのレポート")
 
 ページ付けされたレポートは、Power BI ワークスペース内で既存の Power BI レポートと共に管理されます。
 
-> [!div class="mx-imgBorder"]
-> ![Power BI ワークスペースでのレポートの管理](media/rdl-report-list.png "Power BI ワークスペースでのレポートの管理")
+![Power BI ワークスペースでのレポートの管理](media/rdl-report-list.png "Power BI ワークスペースでのレポートの管理")
 
 
 ## <a name="resources"></a>リソース

@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: willthom
 audience: end user, developer, citizen developer, customizer, business analyst, IT pro
-ms.openlocfilehash: 8c1239a68a7bf7d42ba22d4e196512d4e96690db
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 2e89b13242bd3a3420b24313878102d51b8ae4d1
+ms.sourcegitcommit: 163b0e8ec8da8ef8bbe43f302c561bbaed43d0be
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199661"
+ms.lasthandoff: 01/28/2019
+ms.locfileid: "290687"
 ---
 # <a name="new-filtering-experience-preview"></a>新しいフィルタリング エクスペリエンス (プレビュー)
 
@@ -33,7 +33,7 @@ ms.locfileid: "199661"
 
 * 作成者は、フィルターを適用してロックできるので、エンド ユーザーはフィルターを変更できませんが、その情報を参照することはできます。 
  
-フィルター ウィンドウに対する変更に加えて、作成者には、ビジュアルに影響するフィルター (スライサーを含む) を表示する柔軟性も与えられます。 作成者は、フィルター アイコンをビジュアル ヘッダーとして有効にすることができ、エンド ユーザーがそのフィルター アイコンにカーソルを合わせるかクリックすると、そのビジュアルに影響を与えるすべてのフィルターが表示されます。 これによりエンドユーザーは、どのフィルターがビジュアルに影響を与えているかを理解し、分析情報をより適切に解釈することができます。 
+フィルター ウィンドウに対する変更に加えて、作成者には、ビジュアルに影響するフィルター (スライサーを含む) を表示する柔軟性も与えられます。 作成者は、フィルター アイコンをビジュアル ヘッダーとして有効にすることができ、エンド ユーザーがそのフィルター アイコンにカーソルを合わせるかクリックすると、そのビジュアルに影響を与えるすべてのフィルターが表示されます。 これによりエンド ユーザーは、どのフィルターがビジュアルに影響を与えているかを理解し、分析情報をより適切に解釈することができます。 
 
 ## <a name="resources"></a>リソース
 [新しいフィルタリング エクスペリエンス](https://docs.microsoft.com/power-bi/power-bi-report-filter-preview)

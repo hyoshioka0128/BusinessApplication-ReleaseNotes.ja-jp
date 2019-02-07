@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mapau
 ms.reviewer: v-brycho
-ms.openlocfilehash: b29674cd9604220b4abc578609c75b5c9074070a
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: b83cd3a4bdfea356903cf7d7eb789215f0447beb
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199803"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288081"
 ---
 # <a name="integration-with-dynamics-365-for-field-service"></a>Dynamics 365 for Field Service の統合
 
@@ -23,8 +23,7 @@ ms.locfileid: "199803"
 > [!NOTE]
 > Field Service の予約を表示するためには [Dynamics 365 ライセンス](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand)が必要です。
 
-> [!div class="mx-imgBorder"]
-> ![](media/field-service.jpg)
+![](media/field-service.jpg)
 
 <!--
 > ![](media/66a1f3d0ea3bc34ab53a3b63a1f33c07.png)

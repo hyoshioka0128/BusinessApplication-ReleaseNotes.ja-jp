@@ -1,24 +1,27 @@
 ---
 title: Teams の Microsoft Flow タブ
 description: チーム チャネルのユーザーは、チャネルにコマンドを入力してやり取りするだけで、新しいタブやテキストを使用して対話できます。
-author: Mhade
+author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/02/2019
+ms.date: 01/21/2019
 ms.assetid: 450627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
-ms.author: mhade
+ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 8f10c60ec195bb2f5e813c3cf4b26b33e54d1868
-ms.sourcegitcommit: 851bbbbeaac02e33829dfbf5f6f8e4055acf0822
+ms.openlocfilehash: 473444550d8df2c9f3f6bc3b328e121bd120ce3f
+ms.sourcegitcommit: 1de869f4ccb74ccc9b9cd26817e3d5c30734c3c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "203530"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "288955"
 ---
 # <a name="microsoft-flow-tab-in-teams"></a>Teams の Microsoft Flow タブ
+
+
+
 
 当社は最近、_ユーザー_がフローを作成および管理し、フロー ボットからフローを起動できる[個人用 Teams アプリ](https://flow.microsoft.com/blog/microsoft-flow-in-microsoft-teams/)をリリースしました。これらの操作はすべて Teams 内で行います。 これらの機能を [フロー] タブで_チーム全員_に拡張しました。コントソの戦略・計画チームのメンバーになったつもりで考えてみてください。 "仕様" という単語を含むドキュメントが SharePoint にアップロードされるたびに、チームに通知する必要があります。 Teams での Microsoft Flow の統合により、それを正確に行うフローをすばやく作成し、すぐにチームと共有して、必要に応じて他のユーザーが編集できるようにすることができます。 
 
@@ -50,7 +53,7 @@ Microsoft Flow デザイナーで、Teams アクションである [チームに
 
 ![「はい」の分岐アクション設定の設定](media/flow-tab-teams-6.png "「はい」の分岐アクション設定の設定")
 
-トリガー - [ファイルが作成されたとき (プロパティのみ)] の [サイト アドレス] と [ライブラリ名] を選択します。 この例では、戦略・計画サイトとドキュメント ライブラリを選択します。 条件では、ファイル名に "仕様" が含まれている場合にチームに通知します。
+"ファイルが作成されたとき (プロパティのみ)" のトリガーの [サイト アドレス] と [ライブラリ名] を選択します。 この例では、戦略・計画サイトとドキュメント ライブラリを選択します。 条件では、ファイル名に "仕様" が含まれている場合にチームに通知します。
 
 ![フロー条件](media/flow-tab-teams-6_a.png "フロー条件")
 

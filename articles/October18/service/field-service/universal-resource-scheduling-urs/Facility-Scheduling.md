@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.openlocfilehash: 330e5cf91f11e571c5cc3279174c041206f7ffbe
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: a96a8d37b75a6f25f1f223d84c928a0b36b49fe9
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199142"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286553"
 ---
 #  <a name="facility-scheduling"></a>設備のスケジューリング
 
@@ -35,8 +35,7 @@ ms.locfileid: "199142"
         * 銀行での資産管理コンサルテーション
         * フォーカス ルームでの個人指導
 
-> [!div class="mx-imgBorder"]
-> ![設備でのスケジューリング](media/Facility-Scheduling.png "設備のスケジューリング")
+![設備でのスケジューリング](media/Facility-Scheduling.png "設備のスケジューリング")
 <!-- picture -->
 
 *設備でのスケジューリング*

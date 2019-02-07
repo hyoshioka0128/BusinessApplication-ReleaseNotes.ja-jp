@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: Annbe
 audience: Analyst
-ms.openlocfilehash: 29526ea82d210ca35dade9ab07aad0d5e55f8db1
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 712e7ffecb22a0731f198ab17bf93a70a0cd427a
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199097"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287166"
 ---
 # <a name="shared-and-certified-datasets"></a>共有データセットと認定データセット
 
@@ -30,5 +30,4 @@ Power BI レポートの背後にあるデータ モデルまたは Analysis Ser
 
 *認定データセット*により、組織がユーザーを信頼できる正式なデータセットに誘導することが容易になります。 データセットのこの "承認のスタンプ" は、新しいテナント設定で定義された特定の Power BI ユーザーグループだけが適用できます。 データセットが認定されると、新しいデータセット検出エクスペリエンスに目立つように表示され、レポート作成者がこれらの高品質なデータ ソースを簡単に見つけて活用できるようにします。 
 
-> [!div class="mx-imgBorder"]
-> ![コメントの例](media/certified-datasets.png "認定データセット")
+![コメントの例](media/certified-datasets.png "認定データセット")

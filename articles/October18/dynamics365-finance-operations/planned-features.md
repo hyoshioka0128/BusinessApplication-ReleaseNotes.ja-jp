@@ -3,7 +3,7 @@ title: Finance and Operations の新機能の概要
 description: このトピックでは、Microsoft Dynamics 365 for Finance and Operations の 2018 年 10 月リリースで計画されている機能の概要を示します。
 author: Annbe
 manager: AnnBe
-ms.date: 01/15/2019
+ms.date: 01/28/2019
 ms.assetid: 09feb0b5-1463-4952-8db7-9102711e87a0
 ms.topic: summary
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: Annbe
 audience: Admin, end-user, developer
-ms.openlocfilehash: e2dc92a646d0cb227e00bba817f96b1e9ad486b9
-ms.sourcegitcommit: 34d715b2dd05800fb2b79abdeb9c1b937ebdf08d
+ms.openlocfilehash: 60715f1381b33c08c8845155b2c49843b326a6ed
+ms.sourcegitcommit: ad48c3f7d0e618d1da2cc296a6f703aeff9cbf8e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "203971"
+ms.lasthandoff: 01/28/2019
+ms.locfileid: "290295"
 ---
 # <a name="summary-of-whats-new-in-finance-and-operations"></a>Finance and Operations の新機能の概要
 
@@ -79,33 +79,24 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 
 | 機能   | リリースの種類   | クラウドまたはオンプレミス  |日付 |
 |-----------|----------------|----------------------|----------------------|
-| [ロシア語ローカライズ](russian-regulations-on-prem.md)                            | 一般提供 |オンプレミス           |2018 年 10 月|
-| [グローバリゼーション - 構成可能性の強化](globalization-configurability.md)      | 一般提供 |クラウド<br>オンプレミス          |2018 年 10 月 1 日|
+| [ロシア語ローカライズ](russian-regulations-on-prem.md)                            | 一般提供 |両方          | 機能 - 2018 年 10 月 1 日<br>クラウド/オンプレミス展開オプション - 2018 年 12 月 14 日  |
+| [グローバリゼーション - 構成可能性の強化](globalization-configurability.md)      | 一般提供 |両方          |2018 年 10 月 1 日|
 | [規制サービス、構成サービス](regulatory-service-configuration.md) | 一般提供 |クラウド           |2018 年 10 月 1 日|
 
 ## <a name="platform"></a>プラットフォーム
 
 | 機能   | リリースの種類   | クラウドまたはオンプレミス  |日付 |
 |-----------|----------------|----------------------|----------------------|
-|[ハイパーリンクのクリック動作を他の Office 製品と統一する](hyperlink-behavior.md) | 一般提供 |  両方                                |未定 |
-|[開発者が定義するカスタム ショートカット](custom-shortcuts.md) | 一般提供 |  両方                           |未定 |
-|[Excel への最大 100 万行のエクスポート](export-more-rows.md)  | 一般提供 | 両方 | 2018 年 12 月から 2019 年 1 月 |
-|[フィルター処理の機能強化](filtering-enhancements.md) | 一般提供 | 両方 | 未定 |
-|[グリッドでのグループ化](grouping-in-grids.md)  | 一般提供 | 両方 | 未定 |
+|[Excel への最大 100 万行のエクスポート](export-more-rows.md)  | 一般提供 | 両方 | 2019 年 1 月 18 日 |
 |[非置換ルックアップの動作の向上](non-replacing-lookups.md) | 一般提供 | クラウド<br>オンプレミス                                |2018 年 10 月 1 日<br>2018 年 11 月 6 日 |
 |[ナビゲーション ウィンドウの使いやすさの向上](updated-navigation-pane.md)| 一般提供 | 両方 | 2018 年 12 月 14 日 |
 |[グリッド列ヘッダーを使用した法人のフィルタリング](legal-entity-filtering.md)| 一般提供 | 両方 | 2019 年 1 月 |
-|[グリッドでの一括更新](mass-update.md)| 一般提供 | 両方 | 未定 |
-|[新しい機能強化されたグリッド コントロール](new-grid-control.md) | 一般提供 | 両方 | 未定 |
 |[最適化された「次の値のいずれか」フィルタリング結果](improved-isoneof-filtering.md) | 一般提供 | 両方 | 2018 年 12 月 14 日 |
 |[「次の値のいずれか」演算子を使用して Excel からフィルター フィールドに一覧を貼り付ける](paste-filter-lists-from-excel.md) | 一般提供 | 両方 | 2018 年 12 月 14 日 |
 |[個人用設定の向上](personalization-improvements.md) | 一般提供 | クラウド<br>オンプレミス                                |2018 年 10 月 1 日<br>2018 年 11 月 6 日 |
-|[個人用設定の向上ウェーブ 2](personalization-improvements2.md) | 一般提供 | 両方 | 未定 |
 |[スタイルが新しくなった個人用設定ツール バー](restyled-personalization-toolbar.md) | 一般提供 | 両方 | 2018 年 12 月 14 日 |
-|[保存されているビュー](saved-views.md) | 一般提供 | 両方 | 未定 |
-|[グリッド内の既定の付箋アクション](sticky-default-action.md) | 一般提供 | 両方 | 2018 年 11 月 |
+|[グリッド内の既定の付箋アクション](sticky-default-action.md) | 一般提供 | 両方 | 2018 年 11 月 16 日 |
 |[ハイパーリンクの抑制](suppress-hyperlinks.md) | 一般提供 | クラウド<br>オンプレミス  | 2018 年 10 月 1 日<br>2018 年 11 月 6 日 |
-|[グリッドの合計](grid-totals.md) | 一般提供 | 両方 | 未定 |
 |[テスト自動化のサポート](test-automation-support.md) | 一般提供| クラウド    |2018 年 10 月 1 日|
 |[ドキュメント ルーティング エージェントのトラブルシューティング](troubleshoot-document-routing-agent.md) | 一般提供| クラウド    |2019 年 1 月|
 |[アップグレードの自動化](upgrade-automation.md) | 一般提供| クラウド     |2018 年 12 月 10 日|
@@ -115,6 +106,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 |[プラットフォームの拡張性](platform-extensibility.md) | 一般提供| クラウド<br>オンプレミス                                |2018 年 10 月 1 日<br>2018 年 11 月 6 日 |
 |[プラットフォームの拡張性ウェーブ 2](platform-extensibility2.md) | 一般提供| 両方     |2018 年 11 月 16 日|
 |[プラットフォームの拡張性ウェーブ 3](platform-extensibility3.md) | 一般提供| 両方     |2018 年 12 月 14 日|
+|[プラットフォームの拡張性ウェーブ 4](platform-extensibility4.md) | 一般提供| 両方     |2019 年 1 月 18 日|
 
 
 ## <a name="integration"></a>統合
