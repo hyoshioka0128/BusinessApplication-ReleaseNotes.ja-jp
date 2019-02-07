@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: adamw
 audience: Admin
-ms.openlocfilehash: 4a8d32cf5a54e3b9f7adb1b5414d59b4a1701cd1
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 770d77ac72857918ee4b25a4c9bf1a97723fb890
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199377"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286316"
 ---
 # <a name="secure-embed-codes"></a>埋め込みコードのセキュリティ保護
 
@@ -26,5 +26,4 @@ Power BI サービスのレポートの [ファイル] メニューで使用で�
 
 新しい [埋め込み] オプションを使用してレポートを表示するには、レポートを使用するユーザーが Pro ライセンスを持っているか、またはレポートが EM や P などの Premium 容量のワークスペースに存在する必要があります。
 
-> [!div class="mx-imgBorder"]
-> ![安全な埋め込みの例](media/secure-embed.png "安全な埋め込みの例")
+![安全な埋め込みの例](media/secure-embed.png "安全な埋め込みの例")

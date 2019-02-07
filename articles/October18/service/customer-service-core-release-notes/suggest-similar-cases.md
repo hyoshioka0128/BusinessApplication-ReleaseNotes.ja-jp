@@ -12,12 +12,12 @@ ms.technology: ''
 ms.author: DeepapMS
 ms.reviewer: anjgupta
 audience: Admin
-ms.openlocfilehash: fef57954ad4e7b2cc1a4dc75c1abe9abc8f5e95f
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: de837702018017dd2ee74fffc25e5d1fb592791f
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199800"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286532"
 ---
 #  <a name="suggest-similar-cases"></a>類似サポート案件の提示
 
@@ -27,5 +27,4 @@ ms.locfileid: "199800"
 
 類似のサポート案件に関するインテリジェントな分析情報を活用すると、本来なら経験豊富なエージェントからしか提供できない知識や専門スキルを担当のエージェントに伝達し、対応力を強化することができます。  類似サポート案件の提示機能を使用すれば、解決手順を組織全体で活用できるようになり、経験の浅いエージェントでも、経験豊富なエージェントと同等の対応ができるようになります。  
 
-> [!div class="mx-imgBorder"]
-> ![類似サポート案件の例](media/similar-cases.png "類似サポート案件の例")
+![類似サポート案件の例](media/similar-cases.png "類似サポート案件の例")

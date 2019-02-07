@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.openlocfilehash: 3c85958e24c30ef4f72ba56476c6ee59014d5622
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 64ff44ddf43871896b6702cd6ef8a0a47be4ffd6
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199221"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286159"
 ---
 #  <a name="multi-resource-scheduling"></a>複数リソースのスケジューリング
 
@@ -33,12 +33,10 @@ ms.locfileid: "199221"
 - 移動時間を予測し、チームを招集して、事前に招集されたスタッフと動的にチームに加えられるスタッフの両方がお客様とオンサイトで会います。
 - 設備 - 特定の場所に割り当てられたリソースのグループを招集します。
 
-> [!div class="mx-imgBorder"]
-> ![チーム スケジュールのシナリオ](media/Multi-Resource-Scheduling-PPT.png "チーム スケジュールのシナリオ")
+![チーム スケジュールのシナリオ](media/Multi-Resource-Scheduling-PPT.png "チーム スケジュールのシナリオ")
 <!-- picture -->
 
-> [!div class="mx-imgBorder"]
-> ![リソースのチームの空き時間の検索](media/Team-Scheduling.png "チーム スケジュールのシナリオ")
+![リソースのチームの空き時間の検索](media/Team-Scheduling.png "チーム スケジュールのシナリオ")
 <!-- picture -->
 
 *リソースのチームの空き時間の検索*

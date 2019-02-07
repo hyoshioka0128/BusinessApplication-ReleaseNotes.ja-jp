@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
-ms.openlocfilehash: 9bcf5921643de9ad046e7be21a147d67cdf43577
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: c64cc6b849e15c585ae3957c91cbdd67278bdd8f
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199393"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286152"
 ---
 # <a name="restyled-personalization-toolbar"></a>スタイルが新しくなった個人用設定ツール バー
 
@@ -27,15 +27,13 @@ ms.locfileid: "199393"
 
 次の図は、Platform Update 22 より前に個人用設定ツール バーがどのように表示されていたかを示しています。
 
-> [!div class="mx-imgBorder"]
-> ![Platform Update 22 より前の個人用設定ツール バー](media/oldPersonalizationToolbar.png  "Platform Update 22 より前の個人用設定ツール バー")
+![Platform Update 22 より前の個人用設定ツール バー](media/oldPersonalizationToolbar.png  "Platform Update 22 より前の個人用設定ツール バー")
 
 *前: Platform Update 22 より前の個人用設定ツール バー*
 
 次の図は、Platform Update 22 で個人用設定ツール バーがどのように表示されるかを示しています。
 
-> [!div class="mx-imgBorder"]
-> ![Platform Update 22 の個人用設定ツール バー](media/restyledPersonalizationToolbar.png  "Platform Update 22 の個人用設定ツール バー")
+![Platform Update 22 の個人用設定ツール バー](media/restyledPersonalizationToolbar.png  "Platform Update 22 の個人用設定ツール バー")
 
 *後: Platform Update 22 の個人用設定ツール バー*
 

@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.openlocfilehash: 9ea29a067b3a97f767cc635919c23045071d7bfc
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 53107364e143742e3687c1a29eddca7f8a7cc707
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200120"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286518"
 ---
 # <a name="certified-custom-visuals-in-the-marketplace"></a>マーケットプレースで認定されたカスタム ビジュアル
 
@@ -28,6 +28,5 @@ ms.locfileid: "200120"
 
 証明されたカスタム ビジュアルは、AppSource と統合 UI の両方で、「Power BI 証明済み」カテゴリおよびマーケットプレース リストのビジュアル マークでフィルターすることにより、マーケットプレースで明確に検出できます。
 
-> [!div class="mx-imgBorder"]
-> ![](media/certified-custom-visuals-marketplace-1.png)
+![](media/certified-custom-visuals-marketplace-1.png)
 

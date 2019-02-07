@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: gkaralis
 audience: ''
-ms.openlocfilehash: 1df0c19f3aa8fd8776b3a84e2d4d8b34a7726c1d
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: afda8a989c4f19a0c4506cbafd7213702710354b
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200083"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286337"
 ---
 # <a name="choose-between-us-and-metric-units-of-measure"></a>米国またはメートル法の測定単位の選択
 
@@ -23,14 +23,12 @@ ms.locfileid: "200083"
 
 ニーズに最も適した測定単位を Microsoft Dynamics 365 Layout で選択します。
 
-> [!div class="mx-imgBorder"]
-> ![](media/50c7394667e082054dbc3c01c5046fdb.jpg)
+![](media/50c7394667e082054dbc3c01c5046fdb.jpg)
 
 *HoloLens での測定単位の変更*
 
 <br>
 
-> [!div class="mx-imgBorder"]
-> ![](media/d97b032ed0ea60438054b475510343ec.jpg)
+![](media/d97b032ed0ea60438054b475510343ec.jpg)
 
 *Mixed Reality での測定単位の変更*

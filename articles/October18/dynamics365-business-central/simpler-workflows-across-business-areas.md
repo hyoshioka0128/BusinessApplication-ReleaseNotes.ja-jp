@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: bnielse
 audience: developer, admin, end user, customizer, IT pro
-ms.openlocfilehash: 848e07d6bb4043fd2fbee1f753b73e3e94fc9b4c
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 40c21c5573c75922d7ce44b88a7c1cabac913560
+ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199848"
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "285083"
 ---
 # <a name="simpler-workflows-across-business-areas"></a>ビジネス エリア全体で簡素化されたワークフロー
 

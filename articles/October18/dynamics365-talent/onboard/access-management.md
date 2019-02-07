@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: manavm77
 audience: end user
-ms.openlocfilehash: 617084d5bc065e04ae5a1e40d29a0573b1092f57
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 1ce17991bda178c876ad3e688bf94d06870c9d07
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199739"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286291"
 ---
 #  <a name="share-and-manage-access-to-guides-or-templates"></a>ガイドやテンプレートの共有とアクセスの管理
 
@@ -33,8 +33,7 @@ ms.locfileid: "199739"
 
 共有エクスペリエンスは、テンプレートまたはガイドの内部の省略記号 (**…**) ドロップダウン メニュー内で見つけることができます。
 
-> [!div class="mx-imgBorder"]
-> ![共有オプションを示すスクリーンショット](../media/share.png "共有オプションを示すスクリーンショット")
+![共有オプションを示すスクリーンショット](../media/share.png "共有オプションを示すスクリーンショット")
 
 <!--
 ## Who uses this feature

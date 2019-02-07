@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: mikebc
 audience: end user
-ms.openlocfilehash: 8c2bc84d8e3e8291d5cc07b49e7ae853a5cb5df3
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: bfef23806c49aa0b060dd11dd2445f3c84b4faf7
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199494"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286184"
 ---
 # <a name="advanced-filtering"></a>高度なフィルター
 
@@ -31,8 +31,7 @@ ms.locfileid: "199494"
 ## <a name="filtering-lists"></a>リストのフィルター処理
 リストの横に固定された新しいフィルター ウィンドウは、わかりやすく、効率よく作業できる使い慣れたデザインになっています。 リストのあらかじめ定義されたフィルター ビューを切り替え、独自のフィルターを追加してビューを調整し、何もない状態からでも簡単に始めることができます。
 
-> [!div class="mx-imgBorder"]
-> ![alt text](media/list-page-with-advanced-filter.png "リストの横に表示されているフィルター ウィンドウ。")
+![alt text](media/list-page-with-advanced-filter.png "リストの横に表示されているフィルター ウィンドウ。")
 
 フィルター ウィンドウでは次のことができます。
 

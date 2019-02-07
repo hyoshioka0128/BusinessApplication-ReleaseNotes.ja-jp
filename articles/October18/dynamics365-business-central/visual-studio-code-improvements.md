@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: pborring
 audience: developer, customizer
-ms.openlocfilehash: 5b1d5c818fb0fafa973ed0e337cd9bb67ad9b137
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 2009f4ef0040d679325a27993601acc321afe0ca
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200152"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286277"
 ---
 # <a name="improved-visual-studio-code-al-experience"></a>Visual Studio Code AL エクスペリエンスの向上
 
@@ -31,8 +31,7 @@ ms.locfileid: "200152"
 ## <a name="event-discoverability"></a>イベントの見つけやすさ
 拡張機能を作成するうえで、イベントのサブスクライブは重要な操作となります。 しかし、特定のユーザー フローでどのイベントが使用できるかを把握することは、多くの開発者にとって共通の課題です。 デバッグは有効な手段ですが、既にサブスクライブされているイベントしか確認できません。 そこで、イベントや拡張ポイントを見つけやすくするために、クライアントに新しいイベント トレーサーが追加されました。 これを使用すると、ユーザー フローを記録して、発生したイベントをリストすることができます。これにより開発者は、イベントのサブスクライバー コードを生成して、AL コードに簡単にコピーできるようになります。
 
-> [!div class="mx-imgBorder"]
-> ![イベント トレーサー](media/Event-tracer.png "イベント トレーサー")
+![イベント トレーサー](media/Event-tracer.png "イベント トレーサー")
 
 また、新しいイベントも多数追加され、より多くの場所での拡張が可能になりました。
 
@@ -44,37 +43,31 @@ ms.locfileid: "200152"
 ## <a name="debugger-enhancements"></a>デバッガーの機能拡張
 レガシーの Dynamics NAV デバッガーのように、一般的な Break on Error と Break on Write を使用できるようになりました。 ベース アプリケーション コード内の定義に移動して、ブレークポイントを設定することもできます。
 
-> [!div class="mx-imgBorder"]
-> ![ベース アプリケーション コードの定義に移動する (F12)](media/Go-to-definition-F12.gif "ベース アプリケーション コードの定義に移動する (F12)")
+![ベース アプリケーション コードの定義に移動する (F12)](media/Go-to-definition-F12.gif "ベース アプリケーション コードの定義に移動する (F12)")
 
 ## <a name="intellisense-enhancements"></a>IntelliSense の機能拡張
 AL 内のすべてのプロパティ (ホバーと IntelliSense の両方) で、関連するオンライン ドキュメントにリダイレクトするためのヘルプ リンクが提供されるようになりました。 また、AL 言語の構成要素に関するドキュメントが自動生成されるようになり、それらをオンライン リファレンス ドキュメントと IntelliSense の両方に使用できるようになったことで、ドキュメントの最新性と統一性を維持できるようになりました。
 
-> [!div class="mx-imgBorder"]
-> ![IntelliSense からのヘルプ リンク](media/Help-link-from-IntelliSense.gif "IntelliSense からのヘルプ リンク")
+![IntelliSense からのヘルプ リンク](media/Help-link-from-IntelliSense.gif "IntelliSense からのヘルプ リンク")
 
 拡張機能での画像プロパティの提示機能では、現在のコンテキストで使用できるものだけが提示されるようになりました。現在のコンテキストで使用できない画像については警告が表示されます。ユーザーは、IntelliSense とホバーを使用して画像をプレビューできます。
 
-> [!div class="mx-imgBorder"]
-> ![IntelliSense での画像の選択とプレビュー](media/IntelliSense-Preview-Images.gif "IntelliSense での画像の選択とプレビュー")
+![IntelliSense での画像の選択とプレビュー](media/IntelliSense-Preview-Images.gif "IntelliSense での画像の選択とプレビュー")
 
 ## <a name="working-with-permissions"></a>アクセス許可の操作
 アクセス許可を操作しやすくするため、クライアントを使用して、アクセス許可セットをアプリケーションからエクスポートし、それらを Visual Studio Code AL Extension にインポートできるようになりました。 拡張機能内のオブジェクト用に使用する新しいアクセス許可ファイルは、Visual Studio Code AL プロジェクト内から生成することもできます。
 
-> [!div class="mx-imgBorder"]
-> ![拡張機能オブジェクト用のアクセス許可ファイルを生成するための Visual Studio Code AL コマンド](media/Permissions-AL-command.png "拡張機能オブジェクト用のアクセス許可ファイルを生成するための Visual Studio Code AL コマンド")
+![拡張機能オブジェクト用のアクセス許可ファイルを生成するための Visual Studio Code AL コマンド](media/Permissions-AL-command.png "拡張機能オブジェクト用のアクセス許可ファイルを生成するための Visual Studio Code AL コマンド")
 
 ## <a name="net-interop"></a>.NET 相互運用機能
 オンプレミス展開を対象とした Business Central ソリューションを取り扱う場合に、.NET相互運用機能を AL コード内に追加できるようになりました。 ただしその場合、後からソリューションをクラウドへ移行するには、.NET 相互運用機能を置き換えなければならなくなります。
 
-> [!div class="mx-imgBorder"]
-> ![オンプレミス AL 内の .NET 相互運用機能](media/DotNet-interop.png "オンプレミス AL 内の .NET 相互運用機能")
+![オンプレミス AL 内の .NET 相互運用機能](media/DotNet-interop.png "オンプレミス AL 内の .NET 相互運用機能")
 
 ## <a name="translation-enhancements"></a>翻訳の機能強化
 特定の文字列が適用されるオブジェクトや要素を記述した新しいコンテキスト情報が、生成後の XLIFF 翻訳ファイルに追加されました。 これにより、文字列が UI のどこに表示されるのかを翻訳者が把握しやすくなり、翻訳の品質が向上します。
 
-> [!div class="mx-imgBorder"]
-> ![XLIFF 翻訳ファイルの note タグ](media/xliff-note.png "XLIFF 翻訳ファイルの note タグ")
+![XLIFF 翻訳ファイルの note タグ](media/xliff-note.png "XLIFF 翻訳ファイルの note タグ")
 
 ## <a name="odata-bound-actions-in-al"></a>AL 内での OData バインド アクション
 AL 内で、OData にバインドされたアクションを宣言できるようになりました。 これを実現するために、新しい属性と新しい AL 型が導入されました。

@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: andreipa
 audience: developer, admin, end user
-ms.openlocfilehash: e108c381c19b78983c5da5453274999f61676960
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: e1df7d0524f73741981925a6d9cf85fa9c29a220
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199149"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286284"
 ---
 # <a name="late-payment-prediction-extension"></a>支払遅延予測の拡張機能
 
@@ -33,13 +33,11 @@ ms.locfileid: "199149"
 
 -   支払遅延を前もって予測することができます。 **販売見積**、**販売注文**、および**売上請求書**ウィンドウで、**支払の予測**アクションを使用して、表示している営業書類の予測を生成できます。
 
-> [!div class="mx-imgBorder"]
-> ![遅延が予測される請求書の概要](media/LPP_List.png "遅延が予測される請求書の概要")
+![遅延が予測される請求書の概要](media/LPP_List.png "遅延が予測される請求書の概要")
 
 *遅延が予測される請求書の概要*
 
-> [!div class="mx-imgBorder"]
-> ![販売見積の予測の生成](media/LPP_Quote.png "販売見積の予測の生成")
+![販売見積の予測の生成](media/LPP_Quote.png "販売見積の予測の生成")
 
 *販売見積の予測の生成*
 

@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.openlocfilehash: 333d2399838c87721824066ace25ebe4e96628ad
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 9d995d374aa50287d4e5f4940e07bd7f4d6fbbd4
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199400"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286191"
 ---
 #  <a name="fulfillment-preferences"></a>フルフィルメントの基本設定
 
@@ -42,14 +42,12 @@ ms.locfileid: "199400"
 
 - **上位の結果だけを表示する** - 時間グループまたは間隔に関して冗長と思われる結果を制限することで、スケジュール画面を整理します。
 
-> [!div class="mx-imgBorder"]
-> ![ウィンドウに分割された結果を表示するスケジュール アシスタント](media/Time-Group-Details.png "時間グループの詳細")
+![ウィンドウに分割された結果を表示するスケジュール アシスタント](media/Time-Group-Details.png "時間グループの詳細")
 <!-- picture -->
 
 *ウィンドウに分割された結果を表示するスケジュール アシスタント*
 
-> [!div class="mx-imgBorder"]
-> ![間隔スケジュール設定の一部として時間の結果を表示するスケジュール アシスタント](media/Intervals-on-the-hour.png "間隔")
+![間隔スケジュール設定の一部として時間の結果を表示するスケジュール アシスタント](media/Intervals-on-the-hour.png "間隔")
 <!-- picture -->
 
 *間隔スケジュール設定の一部として時間の結果を表示するスケジュール アシスタント*

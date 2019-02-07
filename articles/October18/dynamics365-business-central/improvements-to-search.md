@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: mikebc
 audience: end user, developer, customizer, business analyst
-ms.openlocfilehash: 431234897d8e0475e28e04bfcd51e605e6cb6d16
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 7af88d223495a1dbecf483c2d5122429b8dcaa1c
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199819"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286138"
 ---
 #  <a name="tell-me-what-you-want-to-do"></a>実行したい作業を入力してください
 
@@ -30,8 +30,7 @@ ms.locfileid: "199819"
 操作アシストにはアプリケーションのどこからでも **Alt + Q** キーボード ショートカットを使用してアクセスできます。または、Office 365 アプリケーションでは電球の形のアイコンを探してください。
 
 
-> [!div class="mx-imgBorder"]
-> ![alt text](media/search-dialog.png "顧客リストから操作アシストを使用したときの結果を表示しているウィンドウ。")
+![alt text](media/search-dialog.png "顧客リストから操作アシストを使用したときの結果を表示しているウィンドウ。")
 
 <!--
 ### Who uses these features
