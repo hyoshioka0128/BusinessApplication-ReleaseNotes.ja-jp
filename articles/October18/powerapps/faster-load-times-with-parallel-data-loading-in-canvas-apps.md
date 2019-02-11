@@ -1,29 +1,29 @@
 ---
-title: キャンバス アプリでの並列データ読み込みによる読み込み時間の短縮
-description: アプリ開発者は、複数の読み込みオペレーションを並列で実行して、アプリ ユーザーの全体的な待ち時間を短縮できます。
+title: "キャンバス アプリでの並列データ読み込みによる読み込み時間の短縮"
+description: "アプリ開発者は、複数の読み込みオペレーションを並列で実行して、アプリ ユーザーの全体的な待ち時間を短縮できます。"
 author: gregli-msft
 ms.reviewer: anneta
-ms.date: 01/11/2019
+ms.date: 02/04/2019
 ms.assetid: 4b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
-ms.prod: ''
+ms.prod: 
 ms.service: business-applications
-ms.technology: ''
+ms.technology: 
 ms.author: gregli
 audience: Power user
-ms.openlocfilehash: 9aa41de0a9b58960c631e188205e7dcde3656650
-ms.sourcegitcommit: abbfbdaff6d71a53e5dd36fecb6673080c49e5d6
 ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 01/26/2019
-ms.locfileid: "290009"
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 9dcc86299144009949bfa3d43b92bae5a26c331c
+ms.contentlocale: ja-jp
+ms.lasthandoff: 10/26/2018
+
 ---
 # <a name="faster-load-times-with-parallel-data-loading-in-canvas-apps"></a>キャンバス アプリでの並列データ読み込みによる読み込み時間の短縮
 
 
 
 
-多くのキャンバス アプリ開発者は、パフォーマンスを向上させるために、アプリの開始時に複数のテーブルやエンティティを事前読み込みします。 今日、これはロードごとに順次行われており、多くの場合はアプリの **OnStart** 式で行われます。 
+多くのキャンバス アプリ開発者は、パフォーマンスを向上させるために、アプリの開始時に複数のテーブルやエンティティをプリロードします。 今日、これはロードごとに順次行われており、多くの場合はアプリの **OnStart** 式で行われます。 
 
 この機能を使用すると、アプリ開発者は複数のデータセットを並列で読み込むことができ、エンドユーザーの待ち時間を大幅に短縮できます。  この機能は起動時だけに限定されておらず、並列処理がパフォーマンスを向上するどの場所でも使用できます。
 
