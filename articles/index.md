@@ -1,20 +1,20 @@
 ---
 layout: HubPage
 hide_bc: true
-title: "ビジネス アプリケーション リリース ノート"
-description: "Dynamics 365、Power BI、PowerApps、Microsoft Flow、Microsoft Stream、その他の新機能について紹介します (Sales、Service、Marketing、Operations、Finance、Talent、Retail 関連の新機能を含む)。"
+title: Dynamics 365 と Power プラットフォーム リリース ノート
+description: Dynamics 365、Power BI、PowerApps、Microsoft Flow、その他の新機能について紹介します (Sales、Service、Marketing、Operations、Finance、Talent、Retail 関連の新機能を含む)。
 ms.topic: hub-page
+ms.openlocfilehash: f5cb8a5853fd03c30c576edd17d6fa098a98dd4d
+ms.sourcegitcommit: 7d68b2192f4a014cfcd617191af2c6974ab381e6
 ms.translationtype: HT
-ms.sourcegitcommit: e76392c70c2a480ff77fa2475f7c4041452b7f9b
-ms.openlocfilehash: 260cb4b56c67d43dd8cc175f22f3048b011404b9
-ms.contentlocale: ja-jp
-ms.lasthandoff: 12/05/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/19/2019
+ms.locfileid: "214049"
 ---
 <div id="main" class="v2">
 <div class="container">
-    <h1>ビジネス アプリケーション リリース ノート</h1>
-    <p>Dynamics 365 のビジネス アプリケーションとプラットフォームに加えられた最新機能と機能拡張について説明します。 </p>
+    <h1>Dynamics 365 と Power プラットフォーム リリース ノート</h1>
+    <p>Dynamics 365 とPower プラットフォーム (Power BI、PowerApps、Microsoft Flow) での最新機能と機能拡張について説明します。 </p>
     <ul class="pivots">
         <li>
             <a href="#products" data-linktype="self-bookmark"></a>
@@ -23,6 +23,22 @@ ms.lasthandoff: 12/05/2018
                     <a href="#products1" data-linktype="self-bookmark"></a>
                     <ul id="products1" class="cardsC cols cols3">
                         <li>
+                <a href="April19/index" title="2019 年 4 月" data-linktype="absolute-path">
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img data-scaleimage="media/april2019.jpg" src="media/april2019.jpg" alt="" data-linktype="relative-path">
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3>2019 年 4 月</h3>
+                            <p>2019 年 4 月から 2019 年 9 月中にリリース予定の機能について説明します。</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             <a href="October18/index" title="2018 年 10 月" data-linktype="absolute-path">
                                 <div class="cardSize">
                                     <div class="cardPadding">
@@ -34,7 +50,7 @@ ms.lasthandoff: 12/05/2018
                                             </div>
                                             <div class="cardText">
                                                 <h3>2018 年 10 月</h3>
-                            <p>2018 年 10 月から 2019 年 3 月までにリリースされる新機能について説明します。</p>
+                            <p>2018 年 10 月から 2019 年 3 月までにリリースされる機能について説明します。</p>
                                             </div>
                                         </div>
                                     </div>
@@ -42,7 +58,7 @@ ms.lasthandoff: 12/05/2018
                             </a>
                         </li>
                         <li>
-                            <a href="April18/index" title="2018 年春 (英語のみ)" data-linktype="absolute-path">
+                            <a href="April18/index" title="2018 年春" data-linktype="absolute-path">
                                 <div class="cardSize">
                                     <div class="cardPadding">
                                         <div class="card">
@@ -52,20 +68,19 @@ ms.lasthandoff: 12/05/2018
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>2018 年春 (英語のみ)</h3>
-                                                <p>ビジネス変革に役立つプラットフォーム改善、統合強化、分析情報/インテリジェンス強化、およびさまざまな新機能が提供されます。</p>
+                                                <h3>2018 年春</h3>
+                                                <p>2018 年 4 月から 2018 年 9 月中にリリース予定の機能について説明します。</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </a>
                         </li>
-                 
-                    </ul>
+                    </ul>                    
                 </li>
-            </ul>
+            </ul>            
         </li>
     </ul>
+    <p></p>
 </div>
 </div>
-
