@@ -3,7 +3,7 @@ title: "埋め込みキャンバス アプリによる Dynamics 365 エンティ
 description: "任意の Sales、Service、Marketing、またはカスタム エンティティ フォームにキャンバス アプリを埋め込んで、わずかなコーディングによる豊富なカスタマイズのほか、200 以上のデータ ソースをフル活用できます。"
 author: aneesmsft
 ms.reviewer: anneta
-ms.date: 01/11/2019
+ms.date: 02/04/2019
 ms.assetid: 131c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: aneesa
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 9f8ad56cb1f4ec5ae14e890c656573e917dcd1a8
-ms.openlocfilehash: 8977c6e0cf0c9f41e799649c000d00ab1d644e0a
+ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
+ms.openlocfilehash: 5bc3a14c74631de4d9426e4eb3c276d30b4c643f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/25/2019
+ms.lasthandoff: 02/11/2019
 
 ---
 # <a name="extend-dynamics-365-entity-forms-with-embedded-canvas-apps-public-preview"></a><span data-ttu-id="7d79c-103">埋め込みキャンバス アプリによる Dynamics 365 エンティティ フォームの拡張 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="7d79c-103">Extend Dynamics 365 entity forms with embedded canvas apps (Public Preview)</span></span>

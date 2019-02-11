@@ -3,7 +3,7 @@ title: "Reporting Services レポートを統一インターフェイスで使�
 description: "統一インターフェイスでの SQL Server Reporting Services (SSRS) レポートの管理と実行"
 author: prsi
 ms.reviewer: mkaur
-ms.date: 01/11/2019
+ms.date: 02/04/2019
 ms.assetid: 111c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: prsi
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 9f8ad56cb1f4ec5ae14e890c656573e917dcd1a8
-ms.openlocfilehash: 049527c89c0a027dc674c8fe0e5ed7a24095240a
+ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
+ms.openlocfilehash: 296e71b06cf85e11b122323c6372491cbf2d0218
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/25/2019
+ms.lasthandoff: 02/11/2019
 
 ---
 # <a name="reporting-services-reports-will-be-available-on-unified-interface"></a><span data-ttu-id="f5fb1-103">Reporting Services レポートを統一インターフェイスで使用できる</span><span class="sxs-lookup"><span data-stu-id="f5fb1-103">Reporting Services Reports will be available on Unified Interface</span></span>

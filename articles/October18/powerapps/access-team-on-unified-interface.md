@@ -3,7 +3,7 @@ title: "統一インターフェイス上のアクセス チーム"
 description: "アクセス チーム機能は統一インターフェイスで使用できるようになります"
 author: sidhartg
 ms.reviewer: mkaur
-ms.date: 01/11/2019
+ms.date: 02/04/2019
 ms.assetid: 7a1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: sidhartg
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 9f8ad56cb1f4ec5ae14e890c656573e917dcd1a8
-ms.openlocfilehash: f4c5e23f6b61eb7e69f4cb863475b8965dece258
+ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
+ms.openlocfilehash: 25fb26fca9c721853b16c2ee3a1cf93de38c1b23
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/25/2019
+ms.lasthandoff: 02/11/2019
 
 ---
 # <a name="access-team-on-unified-interface"></a><span data-ttu-id="25969-103">統一インターフェイス上のアクセス チーム</span><span class="sxs-lookup"><span data-stu-id="25969-103">Access team on Unified Interface</span></span>

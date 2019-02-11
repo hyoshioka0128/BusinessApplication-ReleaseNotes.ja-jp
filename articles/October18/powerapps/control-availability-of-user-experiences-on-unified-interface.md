@@ -1,27 +1,27 @@
 ---
 title: "統一インターフェイスのユーザー エクスペリエンスの利用可能性の制御"
 description: "顧客は統一インターフェイスで新しいユーザー エクスペリエンスをオフにできます"
-author: shilpas
-manager: KVivek
-ms.date: 11/20/2018
+author: gathapar
+ms.reviewer: mkaur
+ms.date: 02/04/2019
 ms.assetid: 671c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: shilpas
+ms.author: gathapar
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: e859a1a28bb345e466d8bb5ffae657120ed52b29
+ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
+ms.openlocfilehash: 2485ec74e9a77d90490751cfbd3db90e360d94b2
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 02/11/2019
 
 ---
 # <a name="control-availability-of-user-experiences-on-unified-interface"></a><span data-ttu-id="6191f-103">統一インターフェイスのユーザー エクスペリエンスの利用可能性の制御</span><span class="sxs-lookup"><span data-stu-id="6191f-103">Control availability of user experiences on Unified Interface</span></span>
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[powerapps banner](../includes/powerapps.md)]
 
 <span data-ttu-id="6191f-104">新規および既存のエンドユーザーは、統一インターフェイスのランタイム時にコア コマンドにアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="6191f-104">New and existing end users can access core commands during Unified Interface runtime.</span></span> <span data-ttu-id="6191f-105">管理者は、組織レベルで、ユーザーのためにこれらのエクスペリエンスをオンまたはオフに切り替えられます。</span><span class="sxs-lookup"><span data-stu-id="6191f-105">Admins can, at the organization level, turn these experiences on or off for their users.</span></span> 
 
