@@ -1,21 +1,20 @@
 ---
-title: "Dynamics 365 リモート アシストの新機能の概要"
-description: "リモート アシストに対して計画されている機能の一覧。"
+title: Dynamics 365 Remote Assistの新機能の概要
+description: Remote Assist に対して計画されている機能の一覧。
 author: MatthewJonPaul
-ms.date: 09/24/2018
+ms.date: 12/10/2018
 ms.topic: summary
 ms.service: business-applications
 ms.author: mapau
 ms.reviwer: v-brycho
+ms.openlocfilehash: e31cb54effe9690e35bbb43030384f5953f3dbd0
+ms.sourcegitcommit: 163b0e8ec8da8ef8bbe43f302c561bbaed43d0be
 ms.translationtype: HT
-ms.sourcegitcommit: bb4798332ffa530e5b2cc12bd3b9cc7a1f5846d6
-ms.openlocfilehash: de3a3f33f250adf2bf0aa045de2f5a6a542e2399
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/28/2019
+ms.locfileid: "290562"
 ---
-
-# <a name="summary-of-whats-new-in-dynamics-365-remote-assist"></a>Dynamics 365 リモート アシストの新機能の概要
+# <a name="summary-of-whats-new-in-dynamics-365-remote-assist"></a>Dynamics 365 Remote Assistの新機能の概要
 
 リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
@@ -29,7 +28,10 @@ ms.lasthandoff: 11/30/2018
 | [スナップショットを作成して注釈を取り込む](snapshot.md)         | 一般提供 | 2018 年 10 月 1 日             |
 | [テキスト チャット](text-chat.md)                                       | 一般提供 | 2018 年 10 月 1 日             |
 | [方向矢印の追加](add-directional-arrow.md)                              | 一般提供 | 2018 年 10 月 1 日             |
-| [リモート アシストの通話中にオーディオを自動的に調整](dynamic-audio.md)   | 一般提供 | 2018 年 10 月 1 日             |
+| [Remote Assist の通話中にオーディオを自動的に調整](dynamic-audio.md)   | 一般提供 | 2018 年 10 月 1 日             |
 | [音声コマンドの使用](voice-commands.md)                                  | 一般提供 | 2018 年 10 月 1 日             |
-| [プロトコルの有効化を使用して別のアプリからリモート アシストを起動](protocol-activation.md)  |  一般提供  | 2018 年 10 月 1 日    
-
+| [プロトコルの有効化を使用して別のアプリから Remote Assist を起動](protocol-activation.md)  |  一般提供  | 2018 年 10 月 1 日
+| [画面共有](screen-sharing.md)  |  一般提供  | 2018 年 12 月 10 日|
+| [矢印が配置される場所を示すゴースト矢印](ghost-arrows.md)| 一般提供|2019 年 1 月 28 日|
+| [ナレーターによる着信の通知](narrator.md)| 一般提供|2019 年 1 月 28 日|
+| [追加の音声コマンドと視線入力コマンド](additional-voice-commands.md)| 一般提供|2019 年 1 月 28 日|

@@ -1,26 +1,23 @@
 ---
-title: "スタイルが新しくなった個人用設定ツール バー"
-description: "個人用設定ツール バーは、個人用設定の使いやすさを向上させるためにスタイルが新しくなりました。"
+title: スタイルが新しくなった個人用設定ツール バー
+description: 個人用設定ツール バーは、個人用設定の使いやすさを向上させるためにスタイルが新しくなりました。
 author: jasongre
 manager: AnnBe
-ms.date: 10/26/2018
+ms.date: 01/08/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
+ms.openlocfilehash: c64cc6b849e15c585ae3957c91cbdd67278bdd8f
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
-ms.sourcegitcommit: dbd8a17e3e500201426a03a48feb4bf5a2c7d024
-ms.openlocfilehash: 4a7eafefc76bf0185a9ee48616d793d256a06dce
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/01/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286152"
 ---
-
 # <a name="restyled-personalization-toolbar"></a>スタイルが新しくなった個人用設定ツール バー
-
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 個人用設定ツール バーは、Platform Update 22 でスタイルが新しくなり、ユーザーは Finance and Operations で自分のエクスペリエンスをより簡単に調整できます。 次の変更が行われました。 
 
@@ -30,18 +27,15 @@ ms.lasthandoff: 11/01/2018
 
 次の図は、Platform Update 22 より前に個人用設定ツール バーがどのように表示されていたかを示しています。
 
-> [!div class="mx-imgBorder"]
-> ![Platform Update 22 より前の個人用設定ツール バー](media/oldPersonalizationToolbar.png  "Platform Update 22 より前の個人用設定ツール バー")
+![Platform Update 22 より前の個人用設定ツール バー](media/oldPersonalizationToolbar.png  "Platform Update 22 より前の個人用設定ツール バー")
 
 *前: Platform Update 22 より前の個人用設定ツール バー*
 
 次の図は、Platform Update 22 で個人用設定ツール バーがどのように表示されるかを示しています。
 
-> [!div class="mx-imgBorder"]
-> ![Platform Update 22 の個人用設定ツール バー](media/restyledPersonalizationToolbar.png  "Platform Update 22 の個人用設定ツール バー")
+![Platform Update 22 の個人用設定ツール バー](media/restyledPersonalizationToolbar.png  "Platform Update 22 の個人用設定ツール バー")
 
 *後: Platform Update 22 の個人用設定ツール バー*
-
 
 
 

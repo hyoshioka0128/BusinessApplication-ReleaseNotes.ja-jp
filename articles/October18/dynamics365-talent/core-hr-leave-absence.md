@@ -1,23 +1,22 @@
 ---
-title: "休暇の管理"
-description: "この機能は、Talent での休暇の管理を簡素化します。"
+title: 休暇の管理
+description: この機能は、Talent での休暇の管理を簡素化します。
 author: josaw1
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: josaw
 audience: end user
-ms.translationtype: HT
-ms.sourcegitcommit: 8a07a5bfe460bf829e6283d98d02c66ec1e9ff34
 ms.openlocfilehash: 6f39017f79065246b55838b1bd838078d9c38f02
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/09/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199140"
 ---
-
 # <a name="leave-and-absence-management"></a>休暇の管理
 
 [!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
@@ -42,4 +41,3 @@ Generally available
 #### Target timeframe
 September or later
 -->
-

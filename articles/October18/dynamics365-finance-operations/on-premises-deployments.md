@@ -1,21 +1,21 @@
 ---
-title: "オンプレミス展開の機能強化"
-description: "オンプレミス展開の機能強化"
+title: オンプレミス展開の機能強化
+description: オンプレミス展開の機能強化
 author: Annbe
 manager: AnnBe
 ms.date: 11/13/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: 900d2dcf085155dfffe75c6f8385efb6552026d8
 ms.openlocfilehash: 4e7de6fbbb00da469f09592b4899c6ac98fdc465
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/14/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199413"
 ---
 #  <a name="on-premises-deployment-enhancements"></a>オンプレミス展開の機能強化
 
@@ -30,7 +30,6 @@ Finance and Operations 8.1 リリースが、オンプレミス展開で利用�
 - [オンプレミス環境での小売チャネルのコンポーネントのインストール手順](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/deployment/deploy-retail-onprem)
 - [Retail Modern POS (MPOS) の設定、インストール、および有効化](https://docs.microsoft.com/dynamics365/unified-operations/retail/retail-modern-pos-device-activation)
 - [Retail Store Scale Unit の構成とインストール](https://docs.microsoft.com/dynamics365/unified-operations/retail/dev-itpro/retail-store-scale-unit-configuration-installation)
-
 
 
 

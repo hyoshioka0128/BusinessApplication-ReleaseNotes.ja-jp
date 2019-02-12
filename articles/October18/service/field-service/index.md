@@ -6,19 +6,18 @@ manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 42f4f1a9-cde4-48c2-8136-7d2993e86d73
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 2a52d1a6d6c84c5a708079953ab738e37cb7ee3e
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "200110"
 ---
-
 #  <a name="overview-of-dynamics-365-for-field-service-october-18-release"></a>Dynamics 365 for Field Service 2018 年 10 月リリースの概要
 
 [!include[field-service banner](../../includes/field-service.md)]
@@ -45,7 +44,6 @@ Dynamics 365 のリソース スケジュール機能では、スケジュール
 **Connected Field Service**
 
 IoT (モノのインターネット) の発達により、プロアクティブで予測的なサービスはますます進化しています。 Connected Field Service と Microsoft Azure IoT Central も共に進化を続け、オンライン デバイス向けのインテリジェントな SaaS (サービスとしてのソフトウェア) を提供できるようになっています。 既存の統合機能をベースに、双方向型のフローもサポートされるようになりました。 たとえば、Field Service からデバイスに、IoT Central 経由で更新プログラムを送信することもできます。 
-
 
 
 

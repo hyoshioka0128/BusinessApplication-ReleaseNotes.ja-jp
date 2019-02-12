@@ -1,21 +1,21 @@
 ---
-title: "Microsoft Dynamics 365 for Talent の 2018 年 10 月リリースで計画されている機能の概要"
-description: "Microsoft Dynamics 365 for Talent の 2018 年 10 月リリースで計画されている機能の概要"
+title: Microsoft Dynamics 365 for Talent の 2018 年 10 月リリースで計画されている機能の概要
+description: Microsoft Dynamics 365 for Talent の 2018 年 10 月リリースで計画されている機能の概要
 author: josaw1
 manager: AnnBe
-ms.date: 11/20/2018
+ms.date: 12/26/2018
 ms.topic: summary
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: josaw
 audience: Admin, end user
+ms.openlocfilehash: 2d8a233ca0a22487f3715f1878507442c07f9459
+ms.sourcegitcommit: f1eb4e8c7a7273633026d068f3ed8acd577abe0b
 ms.translationtype: HT
-ms.sourcegitcommit: 8b9dec7b0e8a9af2786e5b342d1b8f7d07ff1102
-ms.openlocfilehash: 13e30036f7e8a8dc9aa812bb818f7238b1e0292b
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/26/2019
+ms.locfileid: "290160"
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-for-talent"></a>Dynamics 365 for Talent の新機能の概要
 
@@ -42,7 +42,8 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 > | [タレント プール](attract/talent-pools.md)       |   一般提供 | 2018 年 10 月 8 日                   |
 > | 電子メール テンプレート ライブラリとブランディング | 一般提供  | 2018 年 10 月 8 日    |
 > | [妥当な職務と候補者](attract/relevant-jobs-candidates.md)       |     パブリック プレビュー  | 2018 年 10 月 8 日       |
-> | [レポートと分析](attract/attract.md)   | パブリック プレビュー    |   2018 年 11 月     |
+> | [英国地域](attract/united-kingdom-region.md)   | 一般提供  | 2019 年 2 月 |
+
 
 ## <a name="onboard"></a>Onboard
 
@@ -57,7 +58,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 > | [チームのオンボーディング](onboard/onboard-teams.md) |  一般提供    |       2019 年 2 月 5 日     |
 > | [自動保存](onboard/auto-save.md) | 一般提供    |  2019 年 3 月 4 日        |
 > | [Core HR チェックリストの統合](onboard/corehr-checklist-integration.md) |  一般提供   |  2019 年 1 月           |
-
+> | [英国地域](onboard/united-kingdom-region.md)   | 一般提供  | 2019 年 2 月 |
 
 
 ## <a name="core-hr"></a>Core HR
@@ -65,7 +66,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 > [!div class="mx-tableFixed"]
 > | 機能   | リリースの種類   | 日付 |
 > |-----------|----------------|----------------------|
-> | [アプリ用 Common Data Service 上の Core HR エンティティのスコープの拡張](core-hr-entity-cds-apps.md) |    一般提供  | 2018 年 10 月 1 日  |
+> | [Common Data Service for Apps 上の Core HR エンティティのスコープの拡張](core-hr-entity-cds-apps.md) |    一般提供  | 2018 年 10 月 1 日  |
 > | [休暇: 比例配分の更新](core-hr-leave-absence.md)      | 一般提供    | 2018 年 10 月 8 日  |
 > | [休暇: 見越計上の更新](core-hr-leave-absence.md)      | 一般提供    | 2018 年 10 月 8 日  |
 > | [休暇：休暇の更新](core-hr-leave-absence.md)      | 一般提供    | 2018 年 10 月 21 日  |
@@ -74,15 +75,15 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 > | [報酬の強化](Advanced-compensation.md) |  一般提供 | 2018 年 11 月 |
 > | [高度な報酬へのアクセス](Advanced-compensation.md) |  一般提供 | 2018 年 11 月 |
 > | [ディープ リンク](Talent-Deep-Links.md) |  一般提供 | 2018 年 10 月 31 日 |
+> | [英国地域](united-kingdom-region.md)   | 一般提供  | 2019 年 2 月 |
 
 
 
-## <a name="cds-for-apps"></a>アプリ用 CDS
+## <a name="cds-for-apps"></a>CDS for Apps
 
 > [!div class="mx-tableFixed"]
 > | 機能   | リリースの種類    | 日付 |
 > |-----------|----------------|----------------------|
-> | アプリ用 CDS 上の Onboard |  一般提供  | 2018 年 10 月  |
-> | アプリ用 CDS 上の Attract |  一般提供  | 2018 年 10 月  |
+> | CDS for Apps 上の Onboard |  一般提供  | 2018 年 10 月  |
+> | CDS for Apps 上の Attract |  一般提供  | 2018 年 10 月  |
 > | Finance and Operations との統合を可能にするための Core HR エンティティの同期 | 一般提供 | 2018 年 10 月 31 日  |
-

@@ -1,22 +1,22 @@
 ---
-title: "ロイヤルティの機能強化"
-description: "ロイヤルティの機能強化"
+title: ロイヤルティの機能強化
+description: ロイヤルティの機能強化
 author: shalabhjainmsft
 manager: AnnBe
 ms.date: 11/13/2018
-ms.assetid: 
+ms.assetid: ''
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: shajain
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: 94588b78c31aa0b5321c94a821a1c878cce54d16
 ms.openlocfilehash: 8e30e1792485b3b44045c47103b3ca3ed12805fb
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/14/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199748"
 ---
 #  <a name="loyalty-enhancements"></a>ロイヤルティの機能強化
 
@@ -38,4 +38,3 @@ ms.lasthandoff: 11/14/2018
 - ユーザーに表示されるチャネルでは特定の所属を非表示にしますが、価格とプロモーションでは有効なままにします。
 - 特定の期間に任意のロイヤルティ カードで利用可能な、特定のタイプの最大報酬ポイントを定義します。
 - ロイヤルティ階層に達したときの無料製品や、特定の数のトランザクションを行ったときのボーナス ポイントなど、小売業者が 1 回限りの報酬を提供できる拡張ポイントを用意します。
-

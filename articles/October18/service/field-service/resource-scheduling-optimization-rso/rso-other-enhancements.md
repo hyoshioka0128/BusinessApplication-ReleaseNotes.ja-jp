@@ -1,22 +1,21 @@
 ---
-title: "2018 年 10 月リリースでのリソース スケジュール最適化のその他の機能拡張"
-description: "2018 年 10 月リリースでの Dynamics 365 向けリソース スケジュール最適化ソリューションのその他の機能拡張"
+title: 2018 年 10 月リリースでのリソース スケジュール最適化のその他の機能拡張
+description: 2018 年 10 月リリースでの Dynamics 365 向けリソース スケジュール最適化ソリューションのその他の機能拡張
 author: krbjoran
 manager: shellyhaverkamp
 ms.date: 10/16/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: FieldServiceDave
+ms.openlocfilehash: c7e67ca8c13a21ccc8d5616b6fd1f6ee564ee115
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: af31d668353deb81478181f8ee40f4869d933fba
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286614"
 ---
-
 #  <a name="other-enhancements-to-resource-scheduling-optimization"></a>リソース スケジュール最適化のその他の機能拡張 
 
 [!include[field-service banner](../../../includes/field-service.md)]
@@ -27,15 +26,13 @@ ms.lasthandoff: 10/26/2018
 
 リソース スケジュール最適化ソリューションでは、ゴールはソリューションが最適化する対象です。 たとえば、一般的なゴールとして、勤務時間の最大化と移動時間の最小化の 2 つがあります。 既定では、ゴールに対して制約と目的が有効になっています。 これらはいずれも必要に応じて変更できます。
 
-> [!div class="mx-imgBorder"]
->![生産性を最大化するための既定のゴールのスクリーンショット](../media/rso-default-goal-2.png "生産性を最大化するための既定のゴールのスクリーンショット")
+![生産性を最大化するための既定のゴールのスクリーンショット](../media/rso-default-goal-2.png "生産性を最大化するための既定のゴールのスクリーンショット")
 
 *生産性を最大化するための既定のゴール*
 
 既定のゴールは、スケジュール ボードで単一リソース最適化が選択されているときに使用されます。 必要に応じて、ユーザーは新しい最適化ゴールを作成し、それを既定のゴールとして関連付けることができます。
 
-> [!div class="mx-imgBorder"]
->![リソース スケジュール最適化で展開された既定のゴールのスクリーンショット](../media/rso-single-resource-1.png "リソース スケジュール最適化で展開された既定のゴールのスクリーンショット")
+![リソース スケジュール最適化で展開された既定のゴールのスクリーンショット](../media/rso-single-resource-1.png "リソース スケジュール最適化で展開された既定のゴールのスクリーンショット")
 
 *リソース スケジュール最適化で展開された既定のゴール*
 
@@ -62,8 +59,7 @@ ms.lasthandoff: 10/26/2018
 
 さらに、要件では複数選択が可能なので、特定の要件に必要な複数のリソースの種類を指定できます。
 
-> [!div class="mx-imgBorder"]
->![要件での複数選択のリソースの種類属性のスクリーンショット](../media/rso-requirement-resource-type-field.png "要件での複数選択のリソースの種類属性のスクリーンショット")
+![要件での複数選択のリソースの種類属性のスクリーンショット](../media/rso-requirement-resource-type-field.png "要件での複数選択のリソースの種類属性のスクリーンショット")
 
 *要件での複数選択のリソースの種類属性*
 
@@ -78,8 +74,7 @@ ms.lasthandoff: 10/26/2018
 
 リソースの種類を一致させる機能を有効にするには、**最適化の目的**に移動し、制約として機能を追加します。
 
-> [!div class="mx-imgBorder"]
->![最適化セットアップでのリソースの種類一致制約のスクリーンショット](../media/rso-resource-type-constraint.png "最適化セットアップでのリソースの種類一致制約のスクリーンショット")
+![最適化セットアップでのリソースの種類一致制約のスクリーンショット](../media/rso-resource-type-constraint.png "最適化セットアップでのリソースの種類一致制約のスクリーンショット")
 
 *最適化セットアップでのリソースの種類一致制約*
 
@@ -90,4 +85,3 @@ ms.lasthandoff: 10/26/2018
 - リソース スケジュール最適化では、プールまたはスタッフのリソースの種類による要件は無視されます。
 
 - 要件にリソースの種類**ユーザー**と**スタッフ**が含まれる場合 (たとえば、最適化によって考慮されるリソースの種類と考慮されないリソースの種類がある場合)、最適化はユーザー リソースを検索して要件を満たそうとします。
-

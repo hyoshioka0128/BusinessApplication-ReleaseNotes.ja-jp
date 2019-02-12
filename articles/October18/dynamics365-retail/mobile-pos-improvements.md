@@ -1,25 +1,23 @@
 ---
-title: "モバイル POS の改善"
-description: "この機能により、モバイル POS クライアントのナビゲーションが向上し、受注処理のサポートが追加されます。"
+title: モバイル POS の改善
+description: この機能により、モバイル POS クライアントのナビゲーションが向上し、受注処理のサポートが追加されます。
 author: jblucher
 manager: AnnBe
 ms.date: 11/02/2018
 ms.assetid: 7b453328-5b4e-423a-90d9-3069f7cc918f
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: jeffbl
 audience: Admin
+ms.openlocfilehash: ff68c91e9aa1121a3fe23306c3fafa14be83bd3a
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
-ms.sourcegitcommit: d97ce621f72ef6df872dea08e14e17513dd7cf94
-ms.openlocfilehash: 57443640049a671f9c92a012d37d2c8bb2c5e141
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/07/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287274"
 ---
-
-
 # <a name="mobile-pos-improvements"></a>モバイル POS の改善
 
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
@@ -33,25 +31,19 @@ ms.lasthandoff: 11/07/2018
 ### <a name="pos-notifications"></a>POS 通知
 モバイル POS ヘッダーは、最小画面 (320 ピクセル) でも POS 通知アイコンが表示されるように最適化されました。
 
-> [!div class="mx-imgBorder"]
-> ![POS 通知](../../media/pos-notification.JPG "POS 通知")
+![POS 通知](../../media/pos-notification.JPG "POS 通知")
 
 ### <a name="actions-menu"></a>アクション メニュー
 トランザクション画面のモバイル POS アクション メニューでは、複数のボタン グリッドを追加でき、これはサブメニューとしてレンダリングされます。  これにより、ユーザーは、必要な操作を得るために、より意味のある文脈的な画面レイアウトをより少ないクリックで構成することができます。
 
-> [!div class="mx-imgBorder"]
-> ![アクション メニュー](../../media/pos-actions-menu.JPG "POS アクション メニュー")
+![アクション メニュー](../../media/pos-actions-menu.JPG "POS アクション メニュー")
 
 ## <a name="order-fulfillment"></a>注文のフルフィルメント
 ユーザーは、POS アプリ内のモバイル デバイス上の受注ビューにアクセスできるようになりました。 完全なアプリケーションの場合と同様に、ユーザーは、ストアから履行が予定されている注文を表示、編集、選択、梱包、出荷することができます。 さらに、新しい並べ替えオプションが追加され、ユーザーは必要な注文明細行を見つけることができます。
 
 
-> [!div class="mx-imgBorder"]
-> ![モバイル注文のフルフィルメント - タイル](../../media/mobile-order-fulfillment1.JPG "")
+![モバイル注文のフルフィルメント - タイル](../../media/mobile-order-fulfillment1.JPG "")
 
-> [!div class="mx-imgBorder"]
-> ![モバイル注文のフルフィルメント - 行](../../media/mobile-order-fulfillment2.JPG "")
+![モバイル注文のフルフィルメント - 行](../../media/mobile-order-fulfillment2.JPG "")
 
-> [!div class="mx-imgBorder"]
-> ![モバイル注文のフルフィルメント - 明細行](../../media/mobile-order-fulfillment3.JPG "")
-
+![モバイル注文のフルフィルメント - 明細行](../../media/mobile-order-fulfillment3.JPG "")

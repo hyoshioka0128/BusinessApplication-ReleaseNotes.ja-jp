@@ -1,22 +1,22 @@
 ---
-title: "オンプレミス データ ゲートウェイを使用したエンタープライズ レベルのハイブリッド接続"
-description: "オンプレミス データ ゲートウェイを使用したエンタープライズ レベルのハイブリッド接続"
+title: オンプレミス データ ゲートウェイを使用したエンタープライズ レベルのハイブリッド接続
+description: オンプレミス データ ゲートウェイを使用したエンタープライズ レベルのハイブリッド接続
 author: shellyhaverkamp
 manager: AnnBe
 ms.date: 8/16/2018
 ms.assetid: 5b0c45ea-97e4-4e6f-8555-f2bc05ccb336
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: tpalmer
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 6c35a192a2448abc017e61d28ae2937c040f477c
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "200169"
 ---
 #  <a name="enterprise-grade-hybrid-connectivity-using-the-on-premises-data-gateway"></a>オンプレミス データ ゲートウェイを使用したエンタープライズ レベルのハイブリッド接続
 
@@ -58,4 +58,3 @@ Power BI サービスの「ゲートウェイの管理」ページで、要望�
 ## <a name="basic-traffic-load-balancing-in-the-on-premises-data-gateway"></a>オンプレミス データ ゲートウェイにおける基本的なトラフィック負荷分散
 クラスターのゲートウェイ全体で、特定のゲートウェイ クラスターについてリクエストされたトラフィックを分割する機能を導入する予定です。
 ゲートウェイの管理者は、組織のニーズに応じて、この機能のオンとオフを切り替えることができます。
-

@@ -1,22 +1,21 @@
 ---
-title: "Dynamics 365 2018 年 10 月リリースの人工知能 (AI) 機能の概要"
-description: "Dynamics 365 ビジネス アプリケーションにおける新しい人工知能機能\""
-keywords: 
+title: Dynamics 365 2018 年 10 月リリースの人工知能 (AI) 機能の概要
+description: Dynamics 365 ビジネス アプリケーションにおける新しい人工知能機能"
+keywords: ''
 ms.date: 11/08/2018
 ms.service: business-applications
 ms.topic: overview
-ms.assetid: 
+ms.assetid: ''
 author: shellyhaverkamp
 ms.author: shellyha
 manager: annbe
-ms.translationtype: HT
-ms.sourcegitcommit: fb05420a41b932f6ee87f2b8b3598aa971a70ec4
 ms.openlocfilehash: c920f0205d2d03714299ccbc0fbcf8203dc50ed9
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/10/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199044"
 ---
-
 #  <a name="overview-of-artificial-intelligence-ai-capabilities-in-dynamics-365-october-18-release"></a>Dynamics 365 2018 年 10 月リリースの人工知能 (AI) 機能の概要 
 
 リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
@@ -40,6 +39,5 @@ ms.lasthandoff: 11/10/2018
 - **[AI for Market Insights](../market-insights/index.md)** 2018 年 10 月のパブリック プレビューでは、Dynamics 365 AI for Market Insights により、組織は独自の検索や閲覧シグナル、およびパブリック ソーシャル シグナルからの活動とデータを合成して、自社のブランドや製品について顧客が何を話し、何を行い、何を感じているかを理解し、解釈できます。 このソリューションでは、キーワードの検索を設定するためのシンプルな最初の実行設定エクスペリエンスを提供し、即時の分析情報を提供するための履歴データを読み込みます。
    
   
-
 
 

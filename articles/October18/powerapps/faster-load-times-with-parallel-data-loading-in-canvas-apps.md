@@ -2,8 +2,8 @@
 title: "キャンバス アプリでの並列データ読み込みによる読み込み時間の短縮"
 description: "アプリ開発者は、複数の読み込みオペレーションを並列で実行して、アプリ ユーザーの全体的な待ち時間を短縮できます。"
 author: gregli-msft
-manager: KVivek
-ms.date: 11/27/2018
+ms.reviewer: anneta
+ms.date: 02/04/2019
 ms.assetid: 4b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 

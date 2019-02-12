@@ -2,8 +2,8 @@
 title: "Reporting Services レポートを統一インターフェイスで使用できる"
 description: "統一インターフェイスでの SQL Server Reporting Services (SSRS) レポートの管理と実行"
 author: prsi
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: mkaur
+ms.date: 02/04/2019
 ms.assetid: 111c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -24,4 +24,3 @@ ms.lasthandoff: 10/26/2018
 
 
 レポートを使用して、ビジネスの管理、進行状況の状態の分析、または単純にアイテム レベルのデータ概要の表示を行います。 SSRS レポートを管理し、レコードまたはグリッドからエンティティ レベルのレポートを実行できます。
-

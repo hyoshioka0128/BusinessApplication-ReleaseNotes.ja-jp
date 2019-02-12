@@ -1,23 +1,23 @@
 ---
-title: "保存されているビュー"
-description: "保存されているビューを使用して、ユーザーはフォームの複数の最適化されたビューを作成、保存、共有できます。"
+redirect_url: ../../April19/dynamics365-finance-operations/saved-views
+title: 保存されているビュー
+description: 保存されているビューを使用して、ユーザーはフォームの複数の最適化されたビューを作成、保存、共有できます。
 author: jasongre
 manager: AnnBe
 ms.date: 08/10/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
+ms.openlocfilehash: 28da0664d0b2bebe43577b05a549d4e7c5e2f15b
+ms.sourcegitcommit: 6e6a52aa208f3a689c18f6c96beccdb632b85434
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 65dff82adc0d95aa30f3281e09516c1bbe3532e0
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "290904"
 ---
-
 # <a name="saved-views"></a>保存されているビュー
 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -29,5 +29,4 @@ Finance and Operations では、ユーザーは個人用設定を使用してフ
 保存されているビューはセキュリティ ロールに割り当てることができるため、組織に新しく参加するユーザーは、新規ユーザーに付与されるロールを対象に最適化されたビューに自動的にアクセスできるようになります。 
 
 保存されているビューを使用すると、管理者による個人用設定の管理が非常に簡単になったり、ユーザー エクスペリエンスが大幅に簡素化されたり、ユーザーの生産性が向上したりする可能性があります。
-
 

@@ -1,23 +1,22 @@
 ---
-title: "式ベースの書式設定"
-description: "レポート作成者は、DAX を利用して、より複雑な書式設定ルールを提供し、書式設定オプションとテキスト ボックスのスタイルを動的に設定できます。"
+title: 式ベースの書式設定
+description: レポート作成者は、DAX を利用して、より複雑な書式設定ルールを提供し、書式設定オプションとテキスト ボックスのスタイルを動的に設定できます。
 author: MI77
 manager: kimani
 ms.date: 7/22/18
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: willthom
 audience: developer, citizen developer, customizer, business analyst, IT pro
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 3e356bbb3401dc01c6007290b99dd8c8bf49d532
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199505"
 ---
-
 # <a name="expression-based-formatting"></a>式ベースの書式設定
 
 [!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
@@ -36,4 +35,3 @@ In development
 #### Target timeframe
 March ‘19
 -->
-

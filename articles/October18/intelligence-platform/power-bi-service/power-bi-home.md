@@ -1,22 +1,22 @@
 ---
-title: "Power BI ホーム"
-description: 
+title: Power BI ホーム
+description: ''
 author: adamw
 manager: PaBenj
 ms.date: 7/22/2018
-ms.assetid: 
+ms.assetid: ''
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: HaydnR
-audience: 
+audience: ''
+ms.openlocfilehash: c9096b74edabe437ad111c9dfd4b68868e448cae
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: f6ade07e6567099a5edabce284906b93ce3480ec
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288031"
 ---
 # <a name="power-bi-home"></a>Power BI ホーム
 
@@ -28,6 +28,4 @@ Power BI ホームには、ユーザーの最も重要なメトリックの概�
 
 ホームは、最初はオプトイン プレビューとして使用できますが、その後はすべてのユーザーの既定のランディング エクスペリエンスになります。
 
-> [!div class="mx-imgBorder"]
-> ![](media/power-bi-home.png "Power BI ホーム")
-
+![](media/power-bi-home.png "Power BI ホーム")

@@ -1,22 +1,22 @@
 ---
-title: "計算されたエンティティ"
-description: "計算されたエンティティのサポートにより、サード パーティは豊富な分析情報と AI 機能を備えたデータフローを利用して Power BI アプリを開発することができます。"
+title: 計算されたエンティティ
+description: 計算されたエンティティのサポートにより、サード パーティは豊富な分析情報と AI 機能を備えたデータフローを利用して Power BI アプリを開発することができます。
 author: adiregev
 manager: AnnBe
 ms.date: 11/07/2018
-ms.assetid: 
+ms.assetid: ''
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: adiregev
-audience: 
-ms.translationtype: HT
-ms.sourcegitcommit: 11487404f4c3e1a046eef9721548f1542cd78f38
+audience: ''
 ms.openlocfilehash: 1cdde742870006f7f55e9656668ed46d903a4779
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/20/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "200122"
 ---
 # <a name="computed-entities-public-preview"></a>計算されたエンティティ (パブリック プレビュー)  
 
@@ -32,4 +32,3 @@ ms.lasthandoff: 11/20/2018
 
 ## <a name="resources"></a>リソース
 [Power BI Premium での計算されたエンティティの使用](https://docs.microsoft.com/en-us/power-bi/service-dataflows-computed-entities-premium)
-

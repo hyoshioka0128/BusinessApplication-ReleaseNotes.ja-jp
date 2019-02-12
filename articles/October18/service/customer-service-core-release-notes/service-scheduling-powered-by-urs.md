@@ -1,25 +1,24 @@
 ---
-title: "サービス スケジュール設定は、Universal Resource Scheduling によって機能強化されました。"
-description: "サービス スケジュール設定は、Universal Resource Scheduling によって機能強化されました。"
+title: サービス スケジュール設定は、Universal Resource Scheduling によって機能強化されました。
+description: サービス スケジュール設定は、Universal Resource Scheduling によって機能強化されました。
 author: vippand
 manager: mahesh
 ms.date: 11/26/2018
 ms.assetid: 7a4a5614-fe4a-4392-88fb-4a5f0996c65d
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: Karthik55217
 ms.reviewer: anjgupta
 audience: Admin
+ms.openlocfilehash: 06d2588d56752d17c3987e45f7f79c96c3aadca8
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
-ms.sourcegitcommit: 566d62b456ff1ad482f7bb4b1a7b423e246cc4b4
-ms.openlocfilehash: 3415b77f1cb548f7122269df1f4bdacb634191ff
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/27/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287069"
 ---
-
 #  <a name="service-scheduling-powered-by-universal-resource-scheduling"></a>Universal Resource Scheduling によって機能強化されたサービス スケジュール設定  
 
 [!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
@@ -30,10 +29,8 @@ Universal Resource Scheduling (URS) 上に構築された新しいサービス �
 
 現在 Web クライアント上でサービス スケジュール設定を使用しているお客様には、最新のソリューションへアップグレードするための詳細な移行ガイドが提供されます。
 
-> [!div class="mx-imgBorder"]
-> ![Universal Resource Scheduling](media/universal-resource-scheduling.png "Universal Resource Scheduling")
+![Universal Resource Scheduling](media/universal-resource-scheduling.png "Universal Resource Scheduling")
 
 ## <a name="resources"></a>リソース
 
 [サービス スケジュール設定ガイド](https://docs.microsoft.com/dynamics365/customer-engagement/customer-service/basics-service-service-scheduling)
-

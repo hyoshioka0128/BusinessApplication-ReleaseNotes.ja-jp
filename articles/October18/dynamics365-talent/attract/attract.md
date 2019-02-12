@@ -3,20 +3,20 @@ title: Attract
 description: Attract
 author: josaw1
 manager: AnnBe
-ms.date: 09/20/2018
+ms.date: 12/26/2018
 ms.assetid: b164cc57-f514-4952-9c0d-6e8a51d655b4
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: josaw
 audience: Admin
+ms.openlocfilehash: a2316aaa4a9dca462a63195366ae36a37fbdcbf8
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 1dc7260a64f7471667792de289f68b9209acba0a
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199629"
 ---
 #  <a name="attract"></a>Attract
 
@@ -63,9 +63,3 @@ ms.lasthandoff: 10/26/2018
 -   EEO と OFCCP のサポート:
 
     -   米国の求人に応募する候補者に EEO と OFCCP のアンケートを実施できます。 管理者はコンプライアンス レポートも抽出できます。 
-    
-- レポートと分析:
-
-    - 対話型の Power BI レポートを使用すると、候補者パイプラインの概要が簡単にわかります。 特定の職務のパイプラインの各ステージで申請者の数を確認したり、新しい分析ハブで集計ビューを見たりできます。
-
-

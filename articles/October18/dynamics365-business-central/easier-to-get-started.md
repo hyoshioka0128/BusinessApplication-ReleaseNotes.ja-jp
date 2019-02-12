@@ -1,23 +1,22 @@
 ---
-title: "より簡単な開始"
-description: "製品の使用を簡単に開始できるようになりました。"
+title: より簡単な開始
+description: 製品の使用を簡単に開始できるようになりました。
 author: bnielse
 manager: edupont04
 ms.date: 10/16/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: bnielse
 audience: developer, admin, end user, customizer, IT pro
+ms.openlocfilehash: 0d4b86b3f3ac2aa7b8f2c1b30dcc6cfe29d94acc
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 3476b630a3e042ba7c3bb6f64e58077e205b7635
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "200058"
 ---
-
 # <a name="easier-to-get-started"></a>より簡単な開始
 
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -38,4 +37,3 @@ ms.lasthandoff: 10/26/2018
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralideas) をご利用ください。
-

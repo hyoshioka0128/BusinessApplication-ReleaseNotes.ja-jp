@@ -1,31 +1,28 @@
 ---
-title: "Business Central 2018 年 10 月リリース"
-description: "Business Central 2018 年 10 月リリースの新機能"
+title: Business Central 2018 年 10 月リリース
+description: Business Central 2018 年 10 月リリースの新機能
 author: edupont04
 manager: AnnBe
 ms.date: 08/16/2018
 ms.assetid: 6f11822b-e716-4f70-9496-541547568920
 ms.topic: overview
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: edupont
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 5af8edc6d38b65fed11c62d48cb8606f3e7f4cf1
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199181"
 ---
-
-
-
 #  <a name="overview-of-dynamics-365-business-central-october-18-release"></a>Dynamics 365 Business Central 2018 年 10 月リリースの概要
 
 
 
-2018 年 10 月リリースでは、Dynamics 365 Business Central をクラウド、オンプレミス、およびハイブリッドで展開できます。 Business Central をお好みの方法で展開することもできますし、既存の Dynamics GP、Dynamics NAV、または Dynamics SL のオンプレミス ソリューションを使用して、Business Central 経由でクラウドに接続することもできます。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。) 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。  
+2018 年 10 月リリースでは、Dynamics 365 Business Central をクラウド、オンプレミス、およびハイブリッドで展開できます。 Business Central をお好みの方法で展開することもできますし、既存の Dynamics GP、Dynamics NAV、または Dynamics SL のオンプレミス ソリューションを使用して、Business Central 経由でクラウドに接続することもできます。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。  
 
 Business Central パートナーは、ポータルを使用して顧客とのやり取りを強化したり、アプリケーションやカスタマイズのライフサイクルを管理することができます。 ビジネス ユーザーは、さまざまな生産性改善機能を使用してユーザー エクスペリエンスの効率性を高め、それらをリフレッシュして、使用頻度の高いトランザクション ユーザーの作業効率を向上させることができます。 サービスの強化プロセスも継続されており、アプリケーションの回復性、堅牢性、およびパフォーマンスが大幅に強化されています。
 
@@ -57,4 +54,3 @@ Dynamics 365 Business Central の機能向上のため、アイデアを検討�
 
 ## <a name="see-also"></a>関連項目
 [Business Central の新機能の概要](planned-features.md)  
-

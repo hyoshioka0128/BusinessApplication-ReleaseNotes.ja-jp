@@ -1,22 +1,22 @@
 ---
-title: "2018 年 10 月に Power BI に対して計画されている機能の概要"
-description: "2018 年 10 月に Power BI に対して計画されている機能の概要"
+title: 2018 年 10 月に Power BI に対して計画されている機能の概要
+description: 2018 年 10 月に Power BI に対して計画されている機能の概要
 author: KumarVivek
 manager: AnnBe
-ms.date: 11/27/2018
+ms.date: 01/11/2019
 ms.assetid: 09feb0b5-1463-4952-8db7-9102711e87a0
 ms.topic: summary
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: kvivek
 audience: Admin
+ms.openlocfilehash: 8f35f819801a3c8cabedc2d407506ff1ea787419
+ms.sourcegitcommit: 837d0b244af0c46ac2f5e84181ae3e6ec8533c40
 ms.translationtype: HT
-ms.sourcegitcommit: 6b6290afd87b7786a135a154041de9416f0dbc7f
-ms.openlocfilehash: a803aec31c3872facf3ba86317ac699c3b4f586f
-ms.contentlocale: ja-jp
-ms.lasthandoff: 12/05/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "291000"
 ---
 # <a name="summary-of-whats-new-in-business-intelligence"></a>ビジネス インテリジェンスの新機能の概要
 
@@ -34,22 +34,24 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 > |----------|---------------|------------------------|
 > |[非加法メジャーのクイック分析情報](power-bi-desktop/non-additive-measure-insights.md)   |一般提供   |2018 年 10 月 15 日    |
 > |[フィルター カードの検索](power-bi-desktop/search-in-filter-cards.md)   |一般提供   |2018 年 10 月 15 日    |
-> |[マトリックスのビジュアルの展開と折りたたみ](power-bi-desktop/expand-collapse-matrix.md)   |パブリック プレビュー   |2018 年 11 月    |
-> |[レポート間でのコピーと貼り付け](power-bi-desktop/copy-paste-across-reports.md)   |パブリック プレビュー   |2018 年 11 月    |
-> |**アクセシビリティ** - ユーザーはキーボード ナビゲーションとスクリーン リーダーを使用して Power BI Desktop を操作できます   |パブリック プレビュー   |2018 年 12 月    |
+> |[マトリックスのビジュアルの展開と折りたたみ](power-bi-desktop/expand-collapse-matrix.md)   |一般提供   | 2018 年 11 月 12 日    |
+> |[レポート間でのコピーと貼り付け](power-bi-desktop/copy-paste-across-reports.md)   |一般提供   |2018 年 11 月 12 日    |
+> |[アクセシビリティ - ユーザーはキーボード ナビゲーションとスクリーン リーダーを使用して Power BI Desktop を操作可能](power-bi-desktop/desktop-accessibility.md)   |一般提供   |2018 年 12 月 11 日    |
+> |[スマート配置ガイド](power-bi-desktop/smart-alignment-guides.md)   |一般提供   |2018 年 12 月 11 日    |
+> |[エクスポートのレポートごとの制御](power-bi-desktop/per-report-control-data-export.md)   |一般提供   |2018 年 12 月 11 日    |
+> |[アドホック探索](power-bi-desktop/adhoc-exploration.md)   |パブリック プレビュー   |2019 年 3 月    |
 > |[新しいフィルタリング エクスペリエンス](power-bi-desktop/new-filtering-experience.md)   |パブリック プレビュー   |2018 年 11 月    |
 > |[式ベースの書式設定](power-bi-desktop/expression-based-formatting.md)   |パブリック プレビュー   |2019 年 4 月    |
+
 
 ## <a name="power-bi-service"></a>Power BI サービス
 > [!div class="mx-tableFixed"]
 > |機能   |リリースの種類   |日付    |
 > |----------|---------------|------------------------|
 > |[ホーム](power-bi-service/power-bi-home.md)   |パブリック プレビュー  |2018 年 10 月    |
-> |[レポートのコメント](power-bi-service/commenting.md)   |一般提供   |2019 年 3 月    |
 > |**他のユーザーを電子メールに登録** - 他のユーザーまたは配布リストをレポートおよびダッシュボードのスケジュールされた電子メールに登録します   |一般提供   |2018 年 10 月    |
 > |[管理 API](power-bi-service/admin-apis.md)   |一般提供   |2018 年 10 月    |
 > |**PowerApps カスタム ビジュアル** - BI 作成者は、運用ソリューションの Power BI レポート内で PowerApps を使用できるようになりました。 レポート作成者は、PowerApps から Power BI レポートを最新の情報に更新して、レポート内のデータ ウェアハウスをより多くの方法でトランザクション操作できるようになりました。 BI 作成者は、各自のアプリとレポートに簡略化された共有オプションを使用することもできます。   |一般提供   |2018 年 10 月    |
-> |[データセット メタデータ翻訳](power-bi-service/dataset-metadata-translations.md)   |一般提供   |2019 年 3 月    |
 > |[データフローでのセルフサービス データの準備](power-bi-service/self-service-data-prep-with-dataflows.md)   |パブリック プレビュー   |2018 年 11 月 7 日 |
 > |[Azure 統合](power-bi-service/azure-integration.md)   |パブリック プレビュー   |2018 年 11 月    |
 > |[計算されたエンティティ](power-bi-service/computed-entities.md)   |パブリック プレビュー   |2018 年 11 月 7 日    |
@@ -57,15 +59,14 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 > |[データフローの更新](power-bi-service/dataflow-refresh.md)   |パブリック プレビュー   |2018 年 11 月 7 日    |
 > |[Premium 容量に対するデータフロー](power-bi-service/dataflows-on-premium-capacity.md)   |パブリック プレビュー   |2018 年 11 月 7 日    |
 > |[Azure AD グループを使用したワークスペース](power-bi-service/workspaces-azure-ad-groups.md)   |パブリック プレビュー   |2018 年 10 月    |
-> |[コンプライアンス対応マルチ地域 (Power BI Premium)](power-bi-service/premium-multi-geo-for-compliance.md)   |パブリック プレビュー   |2018 年 10 月 29 日    |
+> |[コンプライアンス対応マルチ地域 (Power BI Premium)](power-bi-service/premium-multi-geo-for-compliance.md)   |一般提供   |2019 年 3 月    |
 > |[大きなデータセットに対するクエリの迅速化 (Power BI Premium)](power-bi-service/query-acceleration-large-datasets.md)   |パブリック プレビュー   |2018 年 10 月    |
 > |[ページ付けされたレポート (Power BI Premium)](power-bi-service/rdl-reports.md)   |パブリック プレビュー   |2018 年 11 月 7 日    |
 > |[サードパーティ クライアント接続と監視のための XMLA エンドポイント](power-bi-service/xmla-endpoint.md)|パブリック プレビュー|2019 年 2 月|
-> |[Power Query での Azure ML モデルへのアクセス](power-bi-service/azure-ml-integration.md)   |パブリック プレビュー   |2019 年 1 月    |
-> |[Power BI での自動機械学習](power-bi-service/automated-ml-dataflows.md)   |パブリック プレビュー   |2019 年 1 月    |
 > |[Q&A を使って関連する質問を行う](power-bi-service/qna-follow-up.md)  | 一般提供 | 2018 年 11 月        |
 > |[個人用ブックマーク](power-bi-service/personal-bookmarks.md)   |一般提供   |2018 年 12 月    |
 > |[埋め込みコードのセキュリティ保護](power-bi-service/secure-embed.md)   |一般提供   |2019 年 1 月    |
+> |[カスタマイズ可能なアプリのナビゲーション](power-bi-service/app-navigation.md)   |一般提供   |2019 年 2 月    |
 > |[共有データセットと認定データセット](power-bi-service/shared-certified-datasets.md)   |パブリック プレビュー   |2019 年 3 月    |
 > |[エクスポートの機能強化](power-bi-service/export-enhancements.md)   |一般提供   |2019 年 3 月   |
 > |[電子メール サブスクリプションの機能強化](power-bi-service/subscription-enhancements.md)   |一般提供   |2019 年 3 月    |
@@ -140,4 +141,3 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 > |----------|---------------|------------------------|
 > |[リソース ガバナンス](azure-analysis-services/index.md)   |一般提供   |2018 年 10 月    |
 > |[MDX 列コントロール](azure-analysis-services/index.md)   |一般提供   |2018 年 10 月    |
-

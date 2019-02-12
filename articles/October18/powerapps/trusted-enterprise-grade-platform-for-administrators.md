@@ -3,8 +3,8 @@ title: "管理者向けプラットフォームの向上"
 description: "管理者のエクスペリエンスは、信頼できるプラットフォームの採用で重要な鍵となります。"
 author: jamesol-msft
 manager: KVivek
-ms.date: 9/3/2018
-ms.assetid: 09a2bcdc-3b73-e811-a965-000d3a1362e3
+ms.date: 01/25/2019
+ms.assetid: dd91d290-f7f3-e811-a97c-000d3a137063
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -24,4 +24,3 @@ ms.lasthandoff: 10/26/2018
 [!include[powerapps banner](../includes/powerapps.md)]
 
 Microsoft PowerApps では、組織内のアプリをかつてないほど簡単に保守および管理できます。 新しい管理センターでは、記憶域容量、環境、および展開を管理する管理者やパートナー向けのエクスペリエンスが改善され、管理の信頼性と統合性が向上しています。 管理者は、管理センターに統合されたヘルプとサポートのエクスペリエンスを通じて、問題を効果的に解決できます。
-

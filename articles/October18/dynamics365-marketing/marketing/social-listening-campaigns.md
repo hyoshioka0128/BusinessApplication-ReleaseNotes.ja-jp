@@ -1,6 +1,6 @@
 ---
-title: "キャンペーンのソーシャル リスニング"
-description: "今日のマーケティングでは、顧客エンゲージメントを緊密化するために、ソーシャル メディアからのシグナルを活用することが不可欠です。"
+title: キャンペーンのソーシャル リスニング
+description: 今日のマーケティングでは、顧客エンゲージメントを緊密化するために、ソーシャル メディアからのシグナルを活用することが不可欠です。
 ms.date: 11/01/2018
 ms.service: business-applications
 ms.topic: article
@@ -8,14 +8,13 @@ ms.assetid: dc1132a0-048c-433d-bab8-9487f076c2e6
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
-ms.translationtype: HT
-ms.sourcegitcommit: 2fc9f86108ecb8828fb95e6f8ee732f9f433f1a3
 ms.openlocfilehash: 24f0db104558f244afefd5e134989bcf7ea0100b
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/01/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "200173"
 ---
-
 # <a name="social-listening-for-your-campaigns"></a>キャンペーンのソーシャル リスニング
 
 今日のマーケティングでは、顧客エンゲージメントを維持するために、ソーシャル メディアからのシグナルを活用することが不可欠です。 Dynamics 365 for Marketing のソーシャル リスニング機能を使用すると、マーケティング担当者は、顧客体験、イベント、およびその他のエンティティに、関連するソーシャル タグを追加することができます。これにより、マーケティング イニシアチブに対するソーシャル メディアの反応を、他のマーケティング分析情報と共に確認できるようになります。

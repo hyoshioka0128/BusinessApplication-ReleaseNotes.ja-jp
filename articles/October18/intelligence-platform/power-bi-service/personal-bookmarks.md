@@ -1,22 +1,22 @@
 ---
-title: "個人用ブックマーク"
-description: 
+title: 個人用ブックマーク
+description: ''
 author: adamw
 manager: PaBenj
 ms.date: 10/23/2018
-ms.assetid: 
+ms.assetid: ''
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: HaydnR
-audience: 
+audience: ''
+ms.openlocfilehash: aa1f2a59232f132937772cca8771426726d9d569
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
-ms.sourcegitcommit: 5e4b7400d2a974028312576724fec68df3df261b
-ms.openlocfilehash: bf7b612c01046d23cd3fbb3bb79554a38924585b
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/29/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288056"
 ---
 # <a name="personal-bookmarks"></a>個人用ブックマーク
 
@@ -24,6 +24,4 @@ ms.lasthandoff: 10/29/2018
 
 個人用ブックマークを使用すると、エンド ユーザーは、フィルターやビジュアルの状態を含むレポートのビューを取り込み、簡単にアクセスするためのフレンドリ名を付けることができます。 ユーザーはブックマークのコレクションを作成し、そのいずれかを既定としてマークできるので、レポートに戻るたびに保存したブックマークが適用されます。
 
-> [!div class="mx-imgBorder"]
-> ![個人用ブックマーク](media/personal-bookmarks.jpg "個人用ブックマーク")
-
+![個人用ブックマーク](media/personal-bookmarks.jpg "個人用ブックマーク")

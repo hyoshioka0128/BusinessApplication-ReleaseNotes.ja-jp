@@ -1,21 +1,21 @@
 ---
-title: "Dynamics 365 for Field Service との統合 - 在庫とプロジェクト"
-description: "Dynamics 365 for Field Service との統合 - 在庫とプロジェクト"
+title: Dynamics 365 for Field Service との統合 - 在庫とプロジェクト
+description: Dynamics 365 for Field Service との統合 - 在庫とプロジェクト
 author: Annbe
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: Annbe
 audience: Admin, developer, end-user
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 3f6dc2e145bc06a060ac8b79d7401375b21908ef
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199002"
 ---
 #  <a name="integration-with-dynamics-365-for-field-service--inventory-and-projects"></a>Dynamics 365 for Field Service との統合 - 在庫とプロジェクト
 
@@ -37,4 +37,3 @@ CDS データ統合との統合は、Field Service 活動が Dynamics 365 for Fi
 
 CDS データ インテグレーターはカスタマイズ可能なプロジェクトを使用してデータを同期します。
 標準テンプレートを使用して、カスタム統合プロジェクトを作成できます。このプロジェクトでは、追加の標準およびカスタム フィールドおよびエンティティをマップして統合を調整し、特定のビジネス ニーズを満たすことができます。 フィールド サービスの統合は、既存の見込顧客の現金化機能を基に構築されます。
-

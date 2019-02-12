@@ -1,7 +1,7 @@
 ---
-title: "概要"
-description: "概要"
-keywords: 
+title: 概要
+description: 概要
+keywords: ''
 ms.date: 09/24/2018
 ms.service: business-applications
 ms.topic: overview
@@ -10,14 +10,13 @@ author: m-hartmann
 ms.author: mhart
 manager: shellyha
 topic-status: Drafting
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: d08593840fae46474501b7e2347de48faefa094e
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199185"
 ---
-
 #  <a name="overview-of-dynamics-365-ai-for-market-insights-preview"></a>Dynamics 365 AI for Market Insights プレビューの概要
 
 消費者分析情報を求めている人が、消費者が何を話し、何を行い、何を感じているかの理解に基づいて行動を起こせるようにしています。
@@ -32,4 +31,3 @@ Market Insights は人々の発言を理解するのに役立ちますが、構�
 > 現在、検索とブラウザーの動作に基づく機能は米国内のテナントから利用できます。
 
 リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
-

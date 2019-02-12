@@ -1,21 +1,19 @@
 ---
-title: "新しい測定ツール"
-description: "新しい測定ツールを使用して、レイアウト内に存続する測定値を配置できます。"
+title: 新しい測定ツール
+description: 新しい測定ツールを使用して、レイアウト内に存続する測定値を配置できます。
 author: ornellaalt
 ms.date: 11/20/2018
 ms.topic: article
 ms.service: business-applications
 ms.author: ornella
 ms.reviewer: v-brycho
+ms.openlocfilehash: 1a58d180d94591b6008a08615a177a5b462ef384
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 3fc99dca0eafb670698e98198d3dd1c21ae48ac9
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287137"
 ---
-
-
 # <a name="new-measuring-tools"></a>新しい測定ツール
 
 Dynamics 365 Layout の新しい測定モードを使用すると、次のことが可能になります。
@@ -26,7 +24,5 @@ Dynamics 365 Layout の新しい測定モードを使用すると、次のこと
 - 測定単位をメートル法またはヤード ポンド法に切り替えます。 
 - 特定の測定に対する誤差のマージンに関する情報を取得します (許容誤差 1％ までの精度)。 
 
-> [!div class="mx-imgBorder"]
-> ![測定モード](media/measuring-tools.PNG "測定モード")
-
+![測定モード](media/measuring-tools.PNG "測定モード")
 

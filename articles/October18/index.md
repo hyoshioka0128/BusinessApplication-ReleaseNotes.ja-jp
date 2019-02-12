@@ -1,24 +1,23 @@
 ---
 title: " 2018 年 10 月リリースの概要"
-description: "2018 年 10 月リリースの概要"
+description: 2018 年 10 月リリースの概要
 author: shellyhaverkamp
 manager: AnnBe
 ms.date: 10/26/2018
 ms.assetid: 1fb5c3f4-b808-cd82-956a-b51c4e2b061c
 ms.topic: overview
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: tpalmer
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: 2d040370f154c5099639e29ffab6ef539d498699
 ms.openlocfilehash: 8ecf37a76530b2dedb7e3d475823f3fb08084e9c
-ms.contentlocale: ja-jp
-ms.lasthandoff: 12/09/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199250"
 ---
-
 # <a name="october-18-release-overview"></a>2018 年 10 月リリースの概要
 
 
@@ -29,7 +28,7 @@ ms.lasthandoff: 12/09/2018
 
 Microsoft のビジネス アプリケーション リリース 2018 年 10 月ウェーブでは、ビジネスを変革するための重要な機能が提供されています。 これらの新しいサービスや機能は、2018 年 10 月から提供開始となります。 (リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
-- **Dynamics 365 アプリケーションの機能強化**には数百もの新機能が含まれており、その対象範囲としては、Sales、Marketing、Customer Service、ポータル、Omni-channel Engagement Hub、Field Service、Project Service、Social Engagement、Finance and Operations、Talent、Retail、および Business Central がカバーされています。 今リリースでは、Microsoft レイアウトと Microsoft リモート アシストを使用して、新しい複合現実エクスペリエンスが導入されています。
+- **Dynamics 365 アプリケーションの機能強化**には数百もの新機能が含まれており、その対象範囲としては、Sales、Marketing、Customer Service、ポータル、Omni-channel Engagement Hub、Field Service、Project Service、Social Engagement、Finance and Operations、Talent、Retail、および Business Central がカバーされています。 今リリースでは、Microsoft レイアウトと Microsoft Remote Assist を使用して、新しい複合現実エクスペリエンスが導入されています。
 
 - **新しいインテリジェンス アプリケーション**では、Microsoft Research が数十年にわたって開発してきた AI 技術によって、Dynamics 365 のインテリジェンス機能がさらに強化されています。 お客様は、新しい Dynamics 365 AI for Sales アプリケーションを使用して、営業のパフォーマンスとプランニングを強化することができます。 
 
@@ -47,5 +46,4 @@ Microsoft のビジネス アプリケーション リリース 2018 年 10 月�
 Microsoft では、これらの新しいサービスや機能をスムーズに導入していただけるよう積極的に取り組むと共に、2018 年 10 月リリースに関する皆様からのフィードバックをお待ちしています。
 
 ぜひご意見をお寄せください。 [Dynamics 365](https://community.dynamics.com) または ["Power" 製品スイート](https://powerusers.microsoft.com/) (Power BI、PowerApps、Flow、Stream) のユーザーのコミュニティ フォーラムで、フィードバックを共有してください。 お客様のフィードバックは改善に役立てられます。
-
 

@@ -1,21 +1,22 @@
 ---
-title: "個人用設定の向上ウェーブ 2"
-description: "個人用設定の向上"
+redirect_url: ../../April19/dynamics365-finance-operations/client-productivity-usability-improvements
+title: 個人用設定の向上ウェーブ 2
+description: 個人用設定の向上
 author: jasongre
 manager: AnnBe
 ms.date: 09/12/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: jasongre
 audience: end-user
+ms.openlocfilehash: 1fda2ebc6c71a5599b89dc5f3299db2e42a40994
+ms.sourcegitcommit: 6e6a52aa208f3a689c18f6c96beccdb632b85434
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 4a742387cd687d63e9f3f74b2968d2763c17d962
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "290901"
 ---
 #  <a name="personalization-improvements-wave-2"></a>個人用設定の向上ウェーブ 2
 
@@ -25,4 +26,3 @@ ms.lasthandoff: 10/26/2018
 よりシンプルでターゲットを絞ったフォームのビューを作成するビジネス ユーザーを支援するために、次のような強化された個人用設定機能が追加されます。  
     
 -    ユーザーはクイック タブ間でフィールドを移動できます。 これにより、たとえば最も重要なフィールドを単一のクイック タブに配置したり、フィールドをグリッドに移動したりすることにより、データ入力エクスペリエンスを最適化できます。 
-

@@ -1,27 +1,23 @@
 ---
-title: "スケジュール ボードの分割ビュー"
-description: "スケジュール ボードの分割ビュー"
+title: スケジュール ボードの分割ビュー
+description: スケジュール ボードの分割ビュー
 author: Dgittler
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 96e82715-35fd-4587-a004-bbf57a14c1b2
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: Annbe
 audience: Admin
+ms.openlocfilehash: 69cd90c0882da0ce879b2ed901d5835992fb3b97
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 10abde736803d60ffc43ab1e5334eed277d22979
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287324"
 ---
-
-
-
-
 #  <a name="schedule-board-split-view"></a>スケジュール ボードの分割ビュー
 
 [!include[field-service banner](../../../includes/field-service.md)]
@@ -37,15 +33,12 @@ ms.lasthandoff: 11/08/2018
 
 スケジュール ボードを 2 つに分割します。 下半分は、スタッフとそのすべてのメンバー、プールとそのメンバー、または同じ職務に従事するように割り当てられているリソースのセットの表示専用にすることができます。
 
-> [!div class="mx-imgBorder"]
-> ![分割スケジュール ボードにスタッフが表示されたスケジュール ボード](media/Crew-in-Split-View.png "スケジュール ボード上のスタッフ")
+![分割スケジュール ボードにスタッフが表示されたスケジュール ボード](media/Crew-in-Split-View.png "スケジュール ボード上のスタッフ")
 <!-- picture -->
 
 *分割スケジュール ボードにスタッフが表示されたスケジュール ボード*
 
-> [!div class="mx-imgBorder"]
-> ![同じ要件グループで作業しているリソースが表示された分割スケジュール ボード](media/Split-Schedule-Board-Grouped-Bookings.png "同じ要件グループで作業しているリソースが表示された分割スケジュール ボード")
+![同じ要件グループで作業しているリソースが表示された分割スケジュール ボード](media/Split-Schedule-Board-Grouped-Bookings.png "同じ要件グループで作業しているリソースが表示された分割スケジュール ボード")
 <!-- picture -->
 
 *同じ要件グループで作業しているリソースが表示された分割スケジュール ボード*
-

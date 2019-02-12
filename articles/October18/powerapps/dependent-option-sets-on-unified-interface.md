@@ -1,27 +1,10 @@
 ---
-title: "統一インターフェイス上の依存オプション セット"
-description: "依存オプション セットのコントロールが統一インターフェイスで利用できます"
-author: shilpas
-manager: KVivek
-ms.date: 11/20/2018
-ms.assetid: 6e1c1f60-ce73-e811-a96b-000d3a18c83b
-ms.topic: article
-ms.prod: 
-ms.service: business-applications
-ms.technology: 
-ms.author: shilpas
-audience: Power user
+redirect_url: planned-features
+ms.openlocfilehash: 070bed6f52c48c26f9ad1ba3840f5f853820f761
+ms.sourcegitcommit: abbfbdaff6d71a53e5dd36fecb6673080c49e5d6
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: cd01faa8bd575f92de3c91f140babcdc21ebcc09
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/26/2019
+ms.locfileid: "289693"
 ---
-# <a name="dependent-option-sets-on-unified-interface"></a>統一インターフェイス上の依存オプション セット
-
-
-[!include[banner](../../includes/banner.md)]
-
-統一インターフェイスで依存オプション セットのコントロールを使用することにより、ユーザーはデータを迅速かつ正確に入力できるようになります。
-
+リダイレクト ファイルのみ - コンテンツは含まれていません

@@ -1,23 +1,22 @@
 ---
-title: "一新されたデスクトップ エクスペリエンス"
-description: "アプリケーションのより多くの部分に新しいエクスペリエンスを追加します。"
+title: 一新されたデスクトップ エクスペリエンス
+description: アプリケーションのより多くの部分に新しいエクスペリエンスを追加します。
 author: kotelko
 manager: edupont04
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: blazkote
 audience: end user, customizer, business analyst, IT pro
+ms.openlocfilehash: 874900c911163ac7c27814f4bf5c3ca66bcad694
+ms.sourcegitcommit: 163b0e8ec8da8ef8bbe43f302c561bbaed43d0be
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 9979f961a07e1238fad7f6f8e8295413ad456b59
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/28/2019
+ms.locfileid: "290512"
 ---
-
 # <a name="refreshed-desktop-experience"></a>一新されたデスクトップ エクスペリエンス
 
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -56,4 +55,3 @@ No regional restrictions. Available in all Dynamics 365 Business Central support
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralideas) をご利用ください。
-

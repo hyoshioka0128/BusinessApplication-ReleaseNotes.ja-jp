@@ -1,22 +1,22 @@
 ---
-title: "Common Data Model エンティティを使用した、より簡単なデータの共有、統合、強化"
-description: "Common Data Model エンティティを使用した、より簡単なデータの共有、統合、強化"
+title: Common Data Model エンティティを使用した、より簡単なデータの共有、統合、強化
+description: Common Data Model エンティティを使用した、より簡単なデータの共有、統合、強化
 author: shellyhaverkamp
 manager: AnnBe
 ms.date: 8/16/2018
 ms.assetid: 60626a9d-c022-4a1f-8d3a-0533deba9b45
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: tpalmer
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: d4d414025d8270df6128791c3ff9954dcda1bffc
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199939"
 ---
 # <a name="easier-sharing-unification-and-enrichment-of-data-with-common-data-model-entities"></a>Common Data Model エンティティを使用した、より簡単なデータの共有、統合、強化
 
@@ -25,7 +25,7 @@ ms.lasthandoff: 10/26/2018
 
 標準エンティティのオープンソース **Common Data Model** の定義が強化されました。セールス、サービス、マーケティング、運営、財務、人材、およびコマースの各業務機能、また顧客のコア エンティティ プロファイル全体で、**ビジネス プロセス、アプリケーション、プロファイル エンリッチメントを統合**でき、観測的なデータ エンリッチメントと分析がサポートされます。
 
-Common Data Model (CDM) は、アプリケーションや展開全体で構造およびセマンティック面での一貫性を保ちながら、よく知られた形式でデータ統合を可能にします。 データを Common Data Model 形式で保存することで、**多数の幅広いソリューションが効率的に機能する** ようになっています。 このようなデータと分析情報の共有により、新しい業務プロセスや分析ソリューションをすばやく導入し、複雑さを排除しながら事業運営を全方位から視野に入れることができます。
+Common Data Model (CDM) は、アプリケーションや展開全体で構造およびセマンティック面での一貫性を保ちながら、よく知られた形式でデータ統合を可能にします。 データを Common Data Model 形式で保存することで、 **多数の幅広いソリューションが効率的に機能する**ようになっています。 このようなデータと分析情報の共有により、新しい業務プロセスや分析ソリューションをすばやく導入し、複雑さを排除しながら事業運営を全方位から視野に入れることができます。
 
 2018 年 3 月の初期リリース以来、公開されている Common Data Model [GitHub リポジトリ](https://github.com/Microsoft/CDM)は、数百もの適切に定義された、モジュラー型で拡張可能なビジネス エンティティへと[大幅に増加](#a-more-expressive-richer-common-data-model)しており、これには戦略的パートナーとの密接なコラボレーションのもとで他の業種をサポートするための大幅な拡張も含まれます。 改善された[ドキュメンテーションとプレゼンテーションのコンテンツ](#common-data-model-and-data-integration-community-content)により、顧客とパートナーは Common Data Model についてよりよく理解し、使いこなすことができます。 Power Query によるコーディングなし (またはわずかなコーディング) のデータ統合、変換、およびエンリッチメント エクスペリエンスにより、CDM の[サポートと実装](#built-in-support-for-the-common-data-model)が引き続き可能です。
 
@@ -80,4 +80,3 @@ Common Data Model とデータ統合のコンテンツは CDM GitHub のリポ�
 Power Query のデータ統合エクスペリエンス、データ統合テンプレート、アプリ用 CDS、および Power BI データフローは、Common Data Model を実装しています。 Common Data Model およびそれがサポートする製品スイートとエクスペリエンスの重要な特徴は拡張性です。 
 
 **データ統合テンプレート**は、一般的な基幹業務アプリケーションや SaaS サービスから、有名な Common Data Model エンティティの形式にデータを統合するのを加速します。 たとえば、Salesforce テンプレートは、顧客がデータを CDS および Power BI データフローに統合して、それによってセールスの機会やパイプラインに関する分析情報を取得するのに役立ちます。 また、テンプレートの[追加の機能](4-data-integration-admin.md#templates)では、エンド カスタマーのためにこの機能が拡張される予定です。
-

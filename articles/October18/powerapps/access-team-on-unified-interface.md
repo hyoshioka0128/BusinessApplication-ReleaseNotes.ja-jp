@@ -2,8 +2,8 @@
 title: "統一インターフェイス上のアクセス チーム"
 description: "アクセス チーム機能は統一インターフェイスで使用できるようになります"
 author: sidhartg
-manager: KVivek
-ms.date: 11/20/2018
+ms.reviewer: mkaur
+ms.date: 02/04/2019
 ms.assetid: 7a1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -24,4 +24,3 @@ ms.lasthandoff: 10/26/2018
 
 
 アクセス チーム機能は統一インターフェイス ランタイムに反映されます。 アクセス チームは、組織、セキュリティ ロール、またはチーム経由でベース セキュリティ モデルを変更または更新することなく、部門チームにレコードを公開および共有する別の方法を提供します。
-

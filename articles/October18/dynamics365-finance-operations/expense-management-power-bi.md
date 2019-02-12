@@ -1,21 +1,21 @@
 ---
-title: "経費管理 Power BI"
-description: "経費管理 Power BI"
+title: 経費管理 Power BI
+description: 経費管理 Power BI
 author: ShylaThompson
 manager: AnnBe
 ms.date: 09/06/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: shylaw
 audience: end-user
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: a737bbf21c0758a10420f5a363e87a7e987e658c
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199938"
 ---
 #  <a name="expense-management-power-bi"></a>経費管理 Power BI 
 
@@ -32,5 +32,4 @@ ms.lasthandoff: 10/26/2018
 - 従業員統計ページ: 個々の従業員を、時間、コストの種類、統計グループ別に詳しく確認します。 
 
 - 従業員比較ページ: 従業員どうしを時間経過に沿って比較します。 
-
 

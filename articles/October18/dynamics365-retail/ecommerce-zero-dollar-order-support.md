@@ -1,24 +1,23 @@
 ---
-title: "e コマースでのサンプル注文のサポート"
-description: "このトピックでは、総額が $0 の場合でもエラーなしに e コマースの注文を処理できる機能拡張について説明します。"
+title: e コマースでのサンプル注文のサポート
+description: このトピックでは、総額が $0 の場合でもエラーなしに e コマースの注文を処理できる機能拡張について説明します。
 author: hhaines
 manager: AnnBe
 ms.date: 11/27/2018
 ms.assetid: 7b453328-5b4e-423a-90d9-3069f7cc918f
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: hhainesms
 audience: Admin
+ms.openlocfilehash: 1a28ad3a70a2c506575e6d2ca66b854aef3800ea
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.sourcegitcommit: 08fffd56773d83d916e88529f3d225b141e679cc
-ms.openlocfilehash: 3b42b777c1af4a0b8bd3200f79ddd5ac85a9f06e
-ms.contentlocale: ja-jp
-ms.lasthandoff: 12/07/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199574"
 ---
-
 # <a name="support-for-sample-orders-in-ecommerce"></a>e コマースでのサンプル注文のサポート
 
 一部の小売業者は、顧客にオンライン サイトを通じてサンプルを購入する機会を提供しています。 サンプルにはコストがかからず、顧客はサンプル品目の代金を支払う必要はありません  (これは、カーペット/フローリング、ペイント、窓処理などの業界では一般的です)。場合によっては、小売業者はサンプルを一定の期間内に返却してもらう必要があります。 顧客が指定された期間内にサンプルを返さないと、クレジット カードに請求されます。 
@@ -40,4 +39,3 @@ Development complete
 ## Regional Availability
 Global
 -->
-

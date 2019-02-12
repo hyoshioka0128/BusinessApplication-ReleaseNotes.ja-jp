@@ -1,22 +1,22 @@
 ---
-title: "高度なフィルター"
-description: "強力なフィルター機能によりデスクトップでの生産性が向上します。"
+title: 高度なフィルター
+description: 強力なフィルター機能によりデスクトップでの生産性が向上します。
 author: mikebcMSFT
 manager: edupont04
 ms.date: 09/23/2018
 ms.assetid: 011c924e-f156-4cd7-a034-99a13b5a7869
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: mikebc
 audience: end user
+ms.openlocfilehash: bfef23806c49aa0b060dd11dd2445f3c84b4faf7
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 8c2bc84d8e3e8291d5cc07b49e7ae853a5cb5df3
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286184"
 ---
 # <a name="advanced-filtering"></a>高度なフィルター
 
@@ -31,8 +31,7 @@ ms.lasthandoff: 10/26/2018
 ## <a name="filtering-lists"></a>リストのフィルター処理
 リストの横に固定された新しいフィルター ウィンドウは、わかりやすく、効率よく作業できる使い慣れたデザインになっています。 リストのあらかじめ定義されたフィルター ビューを切り替え、独自のフィルターを追加してビューを調整し、何もない状態からでも簡単に始めることができます。
 
-> [!div class="mx-imgBorder"]
-> ![alt text](media/list-page-with-advanced-filter.png "リストの横に表示されているフィルター ウィンドウ。")
+![alt text](media/list-page-with-advanced-filter.png "リストの横に表示されているフィルター ウィンドウ。")
 
 フィルター ウィンドウでは次のことができます。
 
@@ -76,4 +75,3 @@ https://businesscentral.dynamics.com/?page=31 でオンライン環境にサイ�
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralideas) をご利用ください。
-

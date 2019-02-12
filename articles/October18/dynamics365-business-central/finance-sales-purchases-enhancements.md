@@ -1,23 +1,22 @@
 ---
-title: "財務、営業、購買の拡張"
-description: "財務、営業、購買機能が向上しました。"
+title: 財務、営業、購買の拡張
+description: 財務、営業、購買機能が向上しました。
 author: bnielse
 manager: edupont04
 ms.date: 11/07/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: bnielse
 audience: developer, admin, end user, customizer, IT pro
-ms.translationtype: HT
-ms.sourcegitcommit: cdbe692282951665ec1a0d55010d4adbeddb1cba
 ms.openlocfilehash: f240b1860496e3d0f2a1d5e8f7ac8672836933c6
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/07/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199828"
 ---
-
 # <a name="enhancements-to-finance-sales-and-purchasing"></a>財務、営業、購買の拡張
 
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -121,4 +120,3 @@ https://docs.microsoft.com/en-us/dynamics365/business-central/across-how-to-trac
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム (https://aka.ms/businesscentralideas) をご利用ください。
-

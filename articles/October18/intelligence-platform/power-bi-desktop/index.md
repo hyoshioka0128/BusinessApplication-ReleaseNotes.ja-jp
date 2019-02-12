@@ -1,22 +1,22 @@
 ---
 title: Power BI Desktop
-description: "2018 年 10 月リリースの新機能を搭載した Power BI Desktop。"
+description: 2018 年 10 月リリースの新機能を搭載した Power BI Desktop。
 author: Annbe
 manager: AnnBe
 ms.date: 10/10/2018
 ms.assetid: 518b50fd-a604-4b68-bc07-240d24089b9a
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 64200b4d04a2530d457a31ddd02df23c504b739a
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199926"
 ---
 # <a name="power-bi-desktop"></a>Power BI Desktop
 
@@ -35,4 +35,3 @@ Power BI Desktop の新しい Power BI データフロー コネクタを使用�
 
 Power BI Desktop では、AI と自然言語を使用して作成者の作業を簡略化できるようになり、これまで以上に高度なインテリジェンスや分析情報を Power BI レポートに取り込めるようになりました。
 Power BI の新しいテレメトリを使用することで、パートナーは Power BI アプリでの Q&A の使用状況を把握し、このデータを使用して Q&A の結果を改善できます。 また、詳細なメトリック (非加法メジャーなど) に関するクイック分析情報も取得できるようになりました。 これらの機能を使用することで、レポート作成者は AI と自分独自の専門知識の両方を活用して、ユーザーが Q&A やクイック分析情報を使用する際に、最良の結果が得られるようにすることができます。
-

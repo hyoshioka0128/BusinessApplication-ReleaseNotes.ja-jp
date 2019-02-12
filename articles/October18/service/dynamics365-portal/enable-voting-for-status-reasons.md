@@ -1,23 +1,23 @@
 ---
-title: "Dynamics 365 ポータルでステータスに対して投票を有効にする"
-description: "ポータルにおいて、さまざまなテータスに対する投票を有効にします。"
+title: Dynamics 365 Portal でステータスに対して投票を有効にする
+description: ポータルで、さまざまなステータスに対して投票を有効にします。
 author: neerajnandwana-ms
 manager: rycu
 ms.date: 11/20/2018
 ms.assetid: D81BD65F-E1D6-42CF-BF48-667DFA8A2852
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: nenandw
 ms.reviewer: shjais
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: e35bcf943f7257d057015b8535340025f4e76c30
 ms.openlocfilehash: cb6ed3c1e66696517736f20b11c10a4c620cb24a
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/21/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199551"
 ---
 # <a name="enable-voting-for-status-reasons"></a>ステータスに対して投票を有効にする
 
@@ -52,4 +52,3 @@ Cloud
 ### Regional availability
 This feature will be available globally. 
 -->
-

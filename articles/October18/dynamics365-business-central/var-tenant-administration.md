@@ -1,21 +1,21 @@
 ---
-title: "VAR 向けテナント管理"
-description: "VAR 向けテナント管理"
+title: VAR 向けテナント管理
+description: VAR 向けテナント管理
 author: danderso9
 manager: edupont04
 ms.date: 11/07/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: danderso
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: 6bbe07a8ec524ab43d8b7cdef7051f2227a031b3
 ms.openlocfilehash: 8ec0dc1b3f30af3213f36b684e2c6843bb002836
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "200166"
 ---
 # <a name="tenant-administration-for-vars"></a>VAR 向けテナント管理
 
@@ -34,4 +34,3 @@ Dynamics 365 Business Central VARs では、管理ページを通じてお客様
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のため、アイデアを検討したり、提案したり、フィードバックを提供してください。 Business Central フォーラム ([https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas)) をご利用ください。
-

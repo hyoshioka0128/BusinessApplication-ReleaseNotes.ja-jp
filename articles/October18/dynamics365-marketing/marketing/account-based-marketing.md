@@ -1,6 +1,6 @@
 ---
-title: "アカウント ベースのマーケティング"
-description: "Dynamics 365 for Marketing を使用する B2B マーケティング担当者は、1 つの単位として主要なビジネス アカウントと連絡を取ることができ、組織の営業部門とマーケティング部門間の統合と意思統一を強化して、最も重要なアカウントに集中することができます。"
+title: アカウント ベースのマーケティング
+description: Dynamics 365 for Marketing を使用する B2B マーケティング担当者は、1 つの単位として主要なビジネス アカウントと連絡を取ることができ、組織の営業部門とマーケティング部門間の統合と意思統一を強化して、最も重要なアカウントに集中することができます。
 ms.date: 11/01/2018
 ms.service: business-applications
 ms.topic: article
@@ -8,14 +8,13 @@ ms.assetid: 479435f8-ed52-4371-b0ea-9be3b4c9ab9a
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
-ms.translationtype: HT
-ms.sourcegitcommit: 2fc9f86108ecb8828fb95e6f8ee732f9f433f1a3
 ms.openlocfilehash: b45c4313b7edebb6f0dbb3bf8218b0536df1c065
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/01/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199041"
 ---
-
 # <a name="account-based-marketing"></a>アカウント ベースのマーケティング
 
 アカウント ベースのマーケティングでは、企業間 (B2B) マーケティング担当者は Dynamics 365 for Marketing を使って各ビジネス アカウントを 1 つの単位として対象にし、それによって営業部門とマーケティング部門間の統合と意思統一を強化することができます。

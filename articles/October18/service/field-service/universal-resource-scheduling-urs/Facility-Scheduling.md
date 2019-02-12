@@ -1,27 +1,23 @@
 ---
-title: "設備のスケジューリング"
-description: "設備のスケジューリング"
+title: 設備のスケジューリング
+description: 設備のスケジューリング
 author: Dgittler
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 96e82715-35fd-4587-a004-bbf57a14c1b2
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: Annbe
 audience: Admin
+ms.openlocfilehash: a96a8d37b75a6f25f1f223d84c928a0b36b49fe9
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 330e5cf91f11e571c5cc3279174c041206f7ffbe
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286553"
 ---
-
-
-
-
 #  <a name="facility-scheduling"></a>設備のスケジューリング
 
 [!include[field-service banner](../../../includes/field-service.md)]
@@ -39,9 +35,7 @@ ms.lasthandoff: 11/08/2018
         * 銀行での資産管理コンサルテーション
         * フォーカス ルームでの個人指導
 
-> [!div class="mx-imgBorder"]
-> ![設備でのスケジューリング](media/Facility-Scheduling.png "設備のスケジューリング")
+![設備でのスケジューリング](media/Facility-Scheduling.png "設備のスケジューリング")
 <!-- picture -->
 
 *設備でのスケジューリング*
-

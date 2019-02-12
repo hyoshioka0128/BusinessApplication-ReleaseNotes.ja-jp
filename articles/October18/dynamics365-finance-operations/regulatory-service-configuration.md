@@ -1,21 +1,21 @@
 ---
-title: "Microsoft Dynamics 365 for Finance and Operations - 規制サービス、構成サービス"
-description: "このトピックでは、Microsoft Dynamics 365 for Finance and Operations - 規制サービスの一部としてリリースされる構成サービスについて説明します。"
+title: Microsoft Dynamics 365 for Finance and Operations - 規制サービス、構成サービス
+description: このトピックでは、Microsoft Dynamics 365 for Finance and Operations - 規制サービスの一部としてリリースされる構成サービスについて説明します。
 author: JaneA07
 manager: sshvedov
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: janeaug
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 1603957267bec07c2323edf292da204bc2f31aea
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199955"
 ---
 #  <a name="microsoft-dynamics-365-for-finance-and-operations---regulatory-services-configuration-service"></a>Microsoft Dynamics 365 for Finance and Operations - 規制サービス、構成サービス 
 
@@ -38,4 +38,3 @@ Microsoft Dynamics 365 for Finance and Operations - 規制サービス、構成�
 構成サービスが一般提供されると、Finance and Operations を利用可能なすべての地域で使用できるようになります。 ただし、データは最初は米国のデータセンターにのみホストされます。
 
 地域の一覧については、「[Dynamics 365 各国での利用可能性ガイド](https://aka.ms/dynamics_365_international_availability_deck)」をご覧ください。
-

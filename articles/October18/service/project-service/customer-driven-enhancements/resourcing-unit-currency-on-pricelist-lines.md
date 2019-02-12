@@ -1,21 +1,21 @@
 ---
-title: "コストのロール価格明細のリソース単位通貨"
-description: "リソース時間の原価率をリソース単位の通貨で表現できるようになりました"
+title: コストのロール価格明細のリソース単位通貨
+description: リソース時間の原価率をリソース単位の通貨で表現できるようになりました
 author: rumant
 manager: shellyhaverkamp
 ms.date: 7/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: rumant
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: 3991215e52ecc9eb1cf741e880bc0c04bfec71e8
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199662"
 ---
 #  <a name="resourcing-unit-currency-on-role-price-lines-for-cost"></a>コストのロール価格明細のリソース単位通貨 
 
@@ -32,4 +32,3 @@ Project Service では、価格表ヘッダーで指定された、価格表あ�
 
 ![複数通貨での価格表明細があるコストの価格表](media/Resourcing-unit-currency-on-pricelist.png "複数通貨での価格表明細があるコストの価格表")
 <!-- Picture 2 -->
-

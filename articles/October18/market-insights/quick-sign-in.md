@@ -1,24 +1,23 @@
 ---
-title: "パブリック Web サイトからの Market Insights の迅速な設定"
-description: "既存の Office 365 テナントなしで Market Insights ソリューションを設定します。"
+title: パブリック Web サイトからの Market Insights の迅速な設定
+description: 既存の Office 365 テナントなしで Market Insights ソリューションを設定します。
 author: m-hartmann
 manager: shellyha
 ms.date: 09/24/2018
 ms.assetid: 64098373-c332-46d5-ad19-3b96ecd3a5fe
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: mhart
 audience: Admin
-ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
 ms.openlocfilehash: d3c4af7909fe66519fabbdab39bb27292635090a
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199216"
 ---
-
 # <a name="get-started-quickly-with-market-insights"></a>Market Insights の迅速な開始
 
 [!INCLUDE [market-insights](../includes/market-insights.md)]

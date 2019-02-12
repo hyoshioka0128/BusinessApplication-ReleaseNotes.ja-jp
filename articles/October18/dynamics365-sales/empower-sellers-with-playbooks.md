@@ -1,7 +1,7 @@
 ---
-title: "イベント駆動型営業活動によってガイドされるプレイブックでの販売担当者の支援"
-description: "イベント駆動型営業活動によってガイドされるプレイブックでの販売担当者の支援"
-keywords: 
+title: イベント駆動型営業活動によってガイドされるプレイブックでの販売担当者の支援
+description: イベント駆動型営業活動によってガイドされるプレイブックでの販売担当者の支援
+keywords: ''
 ms.date: 11/08/2018
 ms.service:
 - business-applications
@@ -10,14 +10,13 @@ ms.assetid: df78dd64-1b29-47e1-b0e9-abf8bab5ac83
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
-ms.translationtype: HT
-ms.sourcegitcommit: 188023697985845a5601af70f49d225751e60d91
 ms.openlocfilehash: 236c1b895fc974bae7bd505863a0dde1ed137a97
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/09/2018
-
+ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "199192"
 ---
-
 # <a name="empower-sellers-with-playbooks-guided-by-event-driven-sales-activities"></a>イベント駆動型営業活動によってガイドされるプレイブックでの販売担当者の支援
 
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]

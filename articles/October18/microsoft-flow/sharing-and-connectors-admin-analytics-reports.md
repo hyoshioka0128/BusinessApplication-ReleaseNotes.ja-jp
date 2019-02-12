@@ -1,22 +1,22 @@
 ---
-title: "共有およびコネクタ管理分析レポート"
-description: "共有レポートとコネクタ レポートはどちらも Microsoft Flow 管理分析で使用できます。"
-author: KentWeareMSFT
-manager: KVivek
-ms.date: 11/20/2018
+title: 共有およびコネクタ管理分析レポート
+description: 共有レポートとコネクタ レポートはどちらも Microsoft Flow 管理分析で使用できます。
+author: stepsic-microsoft-com
+ms.reviewer: deonhe
+ms.date: 01/17/2019
 ms.assetid: a3632f34-4ad9-e811-a987-000d3a1362e3
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
-ms.author: keweare
+ms.technology: ''
+ms.author: stepsic
 audience: Power user
+ms.openlocfilehash: 2a98b13382b760b3ac243d659199928b1e6ff383
+ms.sourcegitcommit: 1de869f4ccb74ccc9b9cd26817e3d5c30734c3c3
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 41f95820675c4c01b18c6fbb4c346639d4e3edc8
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "288948"
 ---
 # <a name="sharing-and-connectors-admin-analytics-reports-public-preview"></a>共有およびコネクタ管理分析レポート (パブリック プレビュー)
 
@@ -30,10 +30,9 @@ ms.lasthandoff: 11/30/2018
 
 どちらのレポートでも、テナント内でのユーザーによる Microsoft Flow の使用状況の分析情報が提供されます。 共有の観点からは、だれが最高意思決定者であるかを理解し、さらに自動化されたソリューションを組織に提供するための権限をそれらの人物に与える方法を判断することができます。 コネクタ レポートでは、組織内で使用されている Microsoft、サードパーティ、カスタムのコネクタが示されます。 
 
-[Power プラットフォーム管理センター](https://admin.powerplatform.microsoft.com/) に移動すると、Common Data Service、Microsoft Flow、PowerApps の分析を参照するために選択できる [分析] メニューが見つかります。 共有およびコネクタ レポートの場合は、[Microsoft Flow] を選択します。 
+[Power プラットフォーム管理センター](https://admin.powerplatform.microsoft.com/) に移動すると、Common Data Service for Apps、Microsoft Flow、PowerApps の分析を参照するために選択できる [分析] メニューが表示されます。 共有およびコネクタ レポートの場合は、Microsoft Flow を選択します。 
 
-> [!div class="mx-imgBorder"]
-> ![実行の使用方法](media/sharing-connectors-analytics-1.png "実行の使用方法")
+![実行の使用方法](media/sharing-connectors-analytics-1.png "実行の使用方法")
 
 Microsoft Flow 分析機能から、**共有**を選択して共有レポートにアクセスできます。 このレポートには、キャプチャする 3 つの異なるビジュアル化が表示されます。
 
@@ -42,8 +41,7 @@ Microsoft Flow 分析機能から、**共有**を選択して共有レポート�
 - 発生した共有の数。
 - これらの共有イベントのトレンドライン レポート。
 
-> [!div class="mx-imgBorder"]
-> ![共有レポート](media/sharing-connectors-analytics-2.png "共有レポート")
+![共有レポート](media/sharing-connectors-analytics-2.png "共有レポート")
 
 共有レポートに加えて、コネクタの使用状況を強調するレポートもリリースしました。 コネクタ レポートには、次の項目があります。
 
@@ -57,5 +55,6 @@ Microsoft Flow 分析機能から、**共有**を選択して共有レポート�
   - 関係するフローの数。
   - そのコネクタを使用して実行されているフローの数。
 
-> [!div class="mx-imgBorder"]
-> ![コネクタ レポート](media/sharing-connectors-analytics-3.png "コネクタ レポート")
+
+![コネクタ レポート](media/sharing-connectors-analytics-3.png "コネクタ レポート")
+
