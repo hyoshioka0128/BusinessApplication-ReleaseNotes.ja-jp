@@ -3,7 +3,7 @@ title: "失敗したフローに対する電子メールでの修復のヒント
 description: "フローが失敗した場合に、特定のエラーに関する具体的かつアクション可能なフィードバックを含むメールを受け取ります。 修復のヒントでは、フローが失敗した理由と解決方法が正確に示されます。 Flow ポータルで実行失敗をクリックして、修復のヒントを見ることもできます。"
 author: sunayv
 ms.reviewer: deonhe
-ms.date: 01/17/2019
+ms.date: 02/07/2019
 ms.assetid: 36726ff5-4a98-e811-a96c-000d3a137a43
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: sunayv
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 1de869f4ccb74ccc9b9cd26817e3d5c30734c3c3
-ms.openlocfilehash: 4aaad3a867d9a124f53e0110c930a074a580645e
+ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
+ms.openlocfilehash: 09eb58fbca13edc7fe9fef48465f86302f241761
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/25/2019
+ms.lasthandoff: 02/14/2019
 
 ---
 # <a name="repair-tips-in-email-for-failed-flows"></a><span data-ttu-id="bf797-105">失敗したフローに対する電子メールでの修復のヒント</span><span class="sxs-lookup"><span data-stu-id="bf797-105">Repair tips in email for failed flows</span></span>
@@ -29,9 +29,7 @@ ms.lasthandoff: 01/25/2019
 
 <span data-ttu-id="bf797-110">ただし、これらの通知には、フローを修復するためにできることについての具体的な推奨は含まれません。</span><span class="sxs-lookup"><span data-stu-id="bf797-110">However, these notifications do not contain specific recommendations on what you can do to repair your flows.</span></span> <span data-ttu-id="bf797-111">修復に役立つように、**修復のヒント**が導入されました。</span><span class="sxs-lookup"><span data-stu-id="bf797-111">To help, we are now introducing **Repair tips**.</span></span> <span data-ttu-id="bf797-112">修復のヒントでは、特定のエラーに関する具体的かつアクション可能なフィードバックを含むメールが送られます。</span><span class="sxs-lookup"><span data-stu-id="bf797-112">Repair tips send you emails with specific, actionable feedback about certain errors.</span></span> <span data-ttu-id="bf797-113">たとえば、よくあるエラーの 1 つは、Office 365 でユーザーのマネージャーを取得するフローを設定したのに、Azure AD でマネージャーが構成されていない場合です。</span><span class="sxs-lookup"><span data-stu-id="bf797-113">For example, one common error is setting up a flow that attempts to get a person’s manager in Office 365—but there is no manager configured in Azure AD.</span></span> <span data-ttu-id="bf797-114">これまでは `404 – Not Found` とだけ表示されており、ほとんどの人にはその意味がわかりませんでした。</span><span class="sxs-lookup"><span data-stu-id="bf797-114">Previously, you would just see a `404 – Not Found` error, and most people don’t know what that means.</span></span> <span data-ttu-id="bf797-115">現在では、次のようなメールが届きます。</span><span class="sxs-lookup"><span data-stu-id="bf797-115">Now, you get an email like this:</span></span>
 
-
 <span data-ttu-id="bf797-116">![修復のヒントのメール](media/repair-tips-1.png "修復のヒントのメール")</span><span class="sxs-lookup"><span data-stu-id="bf797-116">![Repair tips email](media/repair-tips-1.png "Repair tips email")</span></span>
-
 
 <span data-ttu-id="bf797-117">このメールには、**起こったこと** (マネージャが構成されていなかった) と、**修正方法**</span><span class="sxs-lookup"><span data-stu-id="bf797-117">This email contains sections for **What happened** (no manager was configured), and, **How do I fix it?**</span></span> <span data-ttu-id="bf797-118">(Azure AD でマネージャーを設定する) に関するセクションが含まれます。</span><span class="sxs-lookup"><span data-stu-id="bf797-118">(set up a manager in Azure AD).</span></span> <span data-ttu-id="bf797-119">また、多要素認証 (MFA) による接続エラーに関する修復のヒントも提供されます。</span><span class="sxs-lookup"><span data-stu-id="bf797-119">We also provide repair tips for connection failures due to multi-factor authentication (MFA).</span></span>
 
@@ -41,6 +39,4 @@ ms.lasthandoff: 01/25/2019
 
 <span data-ttu-id="bf797-124">最後に、メールを受け取りたくない場合でも、修復のヒントが提供されているエラーがあるフロー実行を開くと常に、修復のヒントが表示されます。</span><span class="sxs-lookup"><span data-stu-id="bf797-124">Finally, even if you don’t want to receive emails, you will now see repair tips whenever you open a flow run that has a failure with a repair tip available.</span></span> <span data-ttu-id="bf797-125">実行の**詳細**ウィンドウで、**エラーの詳細**セクションと**修正方法**セクションを見ることができます。</span><span class="sxs-lookup"><span data-stu-id="bf797-125">You can see the **Error details** and **How do I fix it?** sections in the run’s **Details** pane:</span></span>
 
-
 <span data-ttu-id="bf797-126">![[修復のヒント] メニュー項目](media/repair-tips-2.png "[修復のヒント] メニュー項目")</span><span class="sxs-lookup"><span data-stu-id="bf797-126">![Repair tips menu item](media/repair-tips-2.png "Repair tips menu item")</span></span>
-

@@ -1,27 +1,26 @@
 ---
 title: "OneDrive for Business のフロー起動パネル"
 description: "OneDrive for Business に、フローを実行するための埋め込みフロー エクスペリエンスが備わります"
-author: Mhade
+author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/02/2019
+ms.date: 02/07/2019
 ms.assetid: 23bd3e38-aa74-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: mhade
+ms.author: stepsic
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 9da772fd5e2dfff965e7f3469c61691d36e0c925
-ms.openlocfilehash: 31252318631f972c99247b2c4145358f8a909461
+ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
+ms.openlocfilehash: 4ab4f8407620c4145297d2b3677fb3de00cb3178
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/18/2019
+ms.lasthandoff: 02/14/2019
 
 ---
 # <a name="onedrive-for-business-flow-launch-panel"></a><span data-ttu-id="21f0f-103">OneDrive for Business のフロー起動パネル</span><span class="sxs-lookup"><span data-stu-id="21f0f-103">OneDrive for Business Flow launch panel</span></span>
 
 
-[!include[banner](../../includes/banner.md)]
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-<span data-ttu-id="21f0f-104">[SharePoint のフロー起動パネル](https://flow.microsoft.com/en-us/blog/introducing-flow-launch-panel-in-sharepoint-lists-and-libraries/)と同様に、ユーザーは、選択したファイルに対して OneDrive for Business からフローを実行できます。</span><span class="sxs-lookup"><span data-stu-id="21f0f-104">Just like with the [Flow Launch Panel in SharePoint](https://flow.microsoft.com/en-us/blog/introducing-flow-launch-panel-in-sharepoint-lists-and-libraries/), users will be able to run flows on selected files from OneDrive for Business.</span></span> <span data-ttu-id="21f0f-105">これにより、呼び出し元は、特に IT によって作成されたフローに対して自分の資格情報を取り込むことができ、Approver や Message のように実行時の入力 (Text、File、Email、Boolean、Number の型) のプロンプトを表示できます。</span><span class="sxs-lookup"><span data-stu-id="21f0f-105">This enables the invoker to bring in their own credentials, especially for flows that may have been created by IT, and get prompts for runtime inputs like Approver or Message, which can be of type Text, File, Email, Boolean, or Number.</span></span> 
-
+<span data-ttu-id="21f0f-104">[SharePoint のフロー起動パネル](https://flow.microsoft.com/en-us/blog/introducing-flow-launch-panel-in-sharepoint-lists-and-libraries/)と同様に、ユーザーは、選択したファイルに対して OneDrive for Business からフローを実行できます。</span><span class="sxs-lookup"><span data-stu-id="21f0f-104">Just like with the [Flow Launch Panel in SharePoint](https://flow.microsoft.com/en-us/blog/introducing-flow-launch-panel-in-sharepoint-lists-and-libraries/), users will be able to run flows on selected files from OneDrive for Business.</span></span> <span data-ttu-id="21f0f-105">これにより、呼び出し元は、特に IT によって作成されたフローに対して自分の資格情報を取り込むことができ、Approver や Message のように実行時の入力 (Text、File、Email、Boolean、Number の型) のプロンプトを表示できます。</span><span class="sxs-lookup"><span data-stu-id="21f0f-105">This enables the invoker to bring in their own credentials, especially for flows that may have been created by IT, and get prompts for runtime inputs like Approver or Message, which can be of type Text, File, Email, Boolean, or Number.</span></span>
