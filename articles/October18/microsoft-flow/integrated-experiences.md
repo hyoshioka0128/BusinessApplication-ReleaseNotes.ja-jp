@@ -1,22 +1,22 @@
 ---
-title: 統合エクスペリエンス
-description: Office 365 および Dynamics 365 との連携が向上し、SharePoint、Teams、Excel などに統合エクスペリエンスが提供されます。
-author: Mhade
+title: "統合エクスペリエンス"
+description: "Office 365 および Dynamics 365 との連携が向上し、SharePoint、Teams、Excel などに統合エクスペリエンスが提供されます。"
+author: stepsic-microsoft-com
 manager: KVivek
-ms.date: 11/29/2018
+ms.date: 02/07/2019
 ms.assetid: 5e67a6cc-3773-e811-a965-000d3a1362e3
 ms.topic: article
-ms.prod: ''
+ms.prod: 
 ms.service: business-applications
-ms.technology: ''
-ms.author: mhade
+ms.technology: 
+ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: bff5f6157b0d89673b6a8bd8da44cc1221f062c5
-ms.sourcegitcommit: 851bbbbeaac02e33829dfbf5f6f8e4055acf0822
 ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "203670"
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: fef264f225602026aae6709e87b2fda13654066e
+ms.contentlocale: ja-jp
+ms.lasthandoff: 10/26/2018
+
 ---
 # <a name="integrated-experiences"></a>統合エクスペリエンス
 
