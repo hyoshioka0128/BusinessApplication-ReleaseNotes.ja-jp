@@ -1,26 +1,24 @@
 ---
-title: 拡張性の向上
-description: 拡張性の向上
+title: "拡張性の向上"
+description: "拡張性の向上"
 author: Annbe
 manager: AnnBe
 ms.date: 11/09/2018
 ms.assetid: 999c9a76-4cc9-4409-a92b-cc232c2bc5ad
 ms.topic: article
-ms.prod: ''
+ms.prod: 
 ms.service: business-applications
-ms.technology: ''
+ms.technology: 
 ms.author: Annbe
 audience: Admin
-ms.openlocfilehash: c69bb863a65e5ac63edb7350ad0b4209cb1463e9
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199201"
+ms.sourcegitcommit: fd07b969404a2e0b9b586b298857149932b45fe4
+ms.openlocfilehash: c69bb863a65e5ac63edb7350ad0b4209cb1463e9
+ms.contentlocale: ja-jp
+ms.lasthandoff: 11/12/2018
+
 ---
 #  <a name="improved-extensibility"></a>拡張性の向上 
-
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 
 
@@ -44,3 +42,4 @@ ms.locfileid: "199201"
 ユーザー インターフェイスと API 拡張機能が小売用バックオフィス、POS (Retail Modern POS と Cloud POS)、および Commerce ランタイム (CRT) に追加され、コア アプリケーションに影響を与えることなく、カスタマイズを含む環境を簡単に保守および更新できます。
 
 開発者は、カスタム コントロールを使用してユーザー インターフェイスを拡張し、セクションやアプリ バー ボタンを追加したり非表示にしたりできます。 要求やトリガーを上書きし、コア操作の前または後にカスタム ロジックを実行できます。
+
