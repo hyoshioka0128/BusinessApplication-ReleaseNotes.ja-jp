@@ -12,16 +12,13 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: e3646d9456e134ff2c2f79dbfd12979d8f5ddac8
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
+ms.openlocfilehash: 5b065e0a584bf14e6c8e2be423a10a54501cded7
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/15/2019
 
 ---
 #  <a name="support-for-on-premises-local-business-data-deployments"></a><span data-ttu-id="ca047-103">オンプレミス (ローカル ビジネス データ) 展開のサポート</span><span class="sxs-lookup"><span data-stu-id="ca047-103">Support for on-premises (local business data) deployments</span></span>
-
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
-
 
 
 

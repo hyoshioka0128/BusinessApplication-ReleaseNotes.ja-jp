@@ -12,15 +12,13 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: fd07b969404a2e0b9b586b298857149932b45fe4
-ms.openlocfilehash: c69bb863a65e5ac63edb7350ad0b4209cb1463e9
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
+ms.openlocfilehash: daedc0690f83b6cda3d878fa67910a27652dde38
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/12/2018
+ms.lasthandoff: 02/15/2019
 
 ---
 #  <a name="improved-extensibility"></a><span data-ttu-id="a99f7-103">拡張性の向上</span><span class="sxs-lookup"><span data-stu-id="a99f7-103">Improved extensibility</span></span> 
-
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 
 

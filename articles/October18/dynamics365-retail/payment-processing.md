@@ -11,16 +11,13 @@ ms.technology:
 ms.author: jblucher
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 2c9215b7a81a321d2fcadbc243dc477352aabc12
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
+ms.openlocfilehash: 6b902884a17e1c05564479c9badc426c093b0565
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/15/2019
 
 ---
 #  <a name="payment-processing"></a><span data-ttu-id="727ea-103">支払い処理</span><span class="sxs-lookup"><span data-stu-id="727ea-103">Payment processing</span></span> 
-
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
-
 
 
 

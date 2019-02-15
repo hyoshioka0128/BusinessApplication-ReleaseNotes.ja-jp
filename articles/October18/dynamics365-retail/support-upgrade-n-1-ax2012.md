@@ -11,16 +11,13 @@ ms.technology:
 ms.author: epopov
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: e79031b9485656d3d47f92c6231ae8edf3ed7249
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
+ms.openlocfilehash: 43180062c48d50bd35c65520f11d4c46851d2d50
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/15/2019
 
 ---
 #  <a name="support-for-upgrade-and-n-1-ax-2012"></a><span data-ttu-id="8fc88-103">アップグレードと N-1 (AX 2012) のサポート</span><span class="sxs-lookup"><span data-stu-id="8fc88-103">Support for upgrade and N-1 (AX 2012)</span></span>
-
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
-
 
 
 

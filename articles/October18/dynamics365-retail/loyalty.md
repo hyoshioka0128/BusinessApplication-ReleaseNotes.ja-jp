@@ -12,15 +12,14 @@ ms.technology:
 ms.author: shajain
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 94588b78c31aa0b5321c94a821a1c878cce54d16
-ms.openlocfilehash: 8e30e1792485b3b44045c47103b3ca3ed12805fb
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
+ms.openlocfilehash: 591e1c196661dfacdabf75acfbd7eaf125ee8b62
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/14/2018
+ms.lasthandoff: 02/15/2019
 
 ---
 #  <a name="loyalty-enhancements"></a><span data-ttu-id="1535f-103">ロイヤルティの機能強化</span><span class="sxs-lookup"><span data-stu-id="1535f-103">Loyalty enhancements</span></span>
 
-[!include[banner](../../includes/banner.md)]
 
 <span data-ttu-id="1535f-104">顧客ロイヤルティの獲得は、ほとんどの小売企業の重要な目標です。</span><span class="sxs-lookup"><span data-stu-id="1535f-104">Earning customer loyalty is an important goal of most retailers.</span></span> <span data-ttu-id="1535f-105">顧客のロイヤリティを獲得するためには、顧客が製品の検索を開始した時点から、顧客が顧客ケアに質問したり、ソーシャル メディアでブランドとやり取りするときまで、小売業者のブランドとのすべての接点で優れたエクスペリエンスが提供されていることが不可欠です。</span><span class="sxs-lookup"><span data-stu-id="1535f-105">To gain customer loyalty, it is crucial that customers have a great experience on all touch points with the retailer's brand, starting from the time the customer begins searching for a product, to when the customer calls customer care with any questions, to when the customer interacts with the brand on social media.</span></span> 
 

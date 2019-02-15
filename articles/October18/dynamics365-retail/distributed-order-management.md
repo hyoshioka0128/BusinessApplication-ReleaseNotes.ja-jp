@@ -12,17 +12,13 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: c7d6b7044538f8569129e6f39bf4ff749ee21c72
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
+ms.openlocfilehash: e217da43ad01bc7bfec2bfd4922035d398d7a10f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/15/2019
 
 ---
 #  <a name="distributed-order-management"></a><span data-ttu-id="280c5-103">分散型注文管理</span><span class="sxs-lookup"><span data-stu-id="280c5-103">Distributed order management</span></span>
-
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
-
-
 
 
 

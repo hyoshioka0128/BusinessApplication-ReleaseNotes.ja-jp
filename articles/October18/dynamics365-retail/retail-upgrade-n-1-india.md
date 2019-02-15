@@ -11,15 +11,13 @@ ms.technology:
 ms.author: epopov
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: fd542db7dae3d3dde3a609cdeab3670963b92974
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
+ms.openlocfilehash: f04566f9ee8f2c4d494034cac0e65af5d0641fbb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/15/2019
 
 ---
 #  <a name="support-for-upgrade-and-n-1-for-india"></a><span data-ttu-id="8091b-103">インドでのアップグレードと N-1 のサポート</span><span class="sxs-lookup"><span data-stu-id="8091b-103">Support for upgrade and N-1 for India</span></span>
-
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 
 

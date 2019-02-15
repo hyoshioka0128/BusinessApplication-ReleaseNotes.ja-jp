@@ -12,15 +12,15 @@ ms.technology:
 ms.author: shajain
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 94588b78c31aa0b5321c94a821a1c878cce54d16
-ms.openlocfilehash: 7f19b2efb1a9129453e8981c8d5a404f2df030d7
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
+ms.openlocfilehash: f5b2ed66738d8113e93bcaa551a68b1120281b46
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/14/2018
+ms.lasthandoff: 02/15/2019
 
 ---
 #  <a name="loyalty-enhancements-wave-2"></a><span data-ttu-id="74349-103">ロイヤルティの機能強化ウェーブ 2</span><span class="sxs-lookup"><span data-stu-id="74349-103">Loyalty enhancements wave 2</span></span>
 
-[!include[banner](../../includes/banner.md)]
+
 
 <span data-ttu-id="74349-104">Dynamics 365 for Retail のロイヤルティ機能を強化する作業は 8.1 リリースから開始されて、まだ続いています。</span><span class="sxs-lookup"><span data-stu-id="74349-104">The effort to enhance the loyalty capabilities of Dynamics 365 for Retail started with the 8.1 release and we're continuing to invest in it.</span></span> <span data-ttu-id="74349-105">12 月の毎月の更新プログラムでは、オンライン アンケートの記入、来店、Facebook で小売業者を「いいね」と評価、小売業者についてのツイートなど、顧客によるブランドに関する活動に小売業者が報酬を与える機能が追加されています。</span><span class="sxs-lookup"><span data-stu-id="74349-105">As a part of the December monthly update, we're adding the capability to enable retailers to reward customers for any activity with the brand—for example, filling out an online survey, visiting a store, liking the retailer on Facebook, tweeting about the retailer, and more.</span></span> 
 

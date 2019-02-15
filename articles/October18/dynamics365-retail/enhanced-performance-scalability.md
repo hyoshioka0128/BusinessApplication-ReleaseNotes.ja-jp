@@ -12,15 +12,14 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 3b3342c6ca70d26be54a17a37c303579d5e8dc89
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
+ms.openlocfilehash: 9f40bb093f1b83a2b1dd406c1b4c40c25e4f125e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/15/2019
 
 ---
 #  <a name="enhanced-performance-and-scalability"></a><span data-ttu-id="7bccb-103">パフォーマンスとスケーラビリティの向上</span><span class="sxs-lookup"><span data-stu-id="7bccb-103">Enhanced performance and scalability</span></span>
 
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 
 

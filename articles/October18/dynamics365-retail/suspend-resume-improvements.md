@@ -12,17 +12,16 @@ ms.technology:
 ms.author: jeffbl
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 212f292c41bc405136663d6a86e5f9d49f320a55
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
+ms.openlocfilehash: ab2ecf5634c9110f84fafec38fbb48ac6d103299
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/15/2019
 
 ---
----
+
 
 # <a name="suspendresume-improvements"></a><span data-ttu-id="5da70-103">中断/再開の改善</span><span class="sxs-lookup"><span data-stu-id="5da70-103">Suspend/resume improvements</span></span>
 
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 <span data-ttu-id="5da70-104">この機能は店舗関係者を対象としています。</span><span class="sxs-lookup"><span data-stu-id="5da70-104">This feature is intended for store associates.</span></span> <span data-ttu-id="5da70-105">ユーザーが POS のトランザクションを一時停止および再開する機能が向上します。</span><span class="sxs-lookup"><span data-stu-id="5da70-105">It improves their ability to suspend and resume transactions in the POS.</span></span> <span data-ttu-id="5da70-106">また、この機能により、POS 仕訳帳およびバックオフィス トランザクション履歴に監査機能が追加されます。</span><span class="sxs-lookup"><span data-stu-id="5da70-106">This feature also adds additional auditing capabilities in the POS journal and back office transaction history.</span></span>
 

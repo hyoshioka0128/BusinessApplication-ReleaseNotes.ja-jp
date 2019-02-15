@@ -12,16 +12,15 @@ ms.technology:
 ms.author: jeffbl
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
-ms.openlocfilehash: d7c84f44ddce689dff81e66118cd4eb3b3ea574e
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
+ms.openlocfilehash: 62a1e71b5bfe910bac152f9e14cae82c53ee10be
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/23/2019
+ms.lasthandoff: 02/15/2019
 
 ---
 
 # <a name="pos-journal-improvements"></a><span data-ttu-id="278dd-103">POS 仕訳帳の向上</span><span class="sxs-lookup"><span data-stu-id="278dd-103">POS journal improvements</span></span>
 
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 <span data-ttu-id="278dd-104">POS (販売時点管理) 内の電子仕訳は、店舗内のトランザクション情報を確認する中心的な場所です。</span><span class="sxs-lookup"><span data-stu-id="278dd-104">The Electronic Journal within the point of sale (POS) is a central location for reviewing transaction information within a store.</span></span> <span data-ttu-id="278dd-105">このフォームにより、店舗内で行われていることとトランザクション情報の確認について、適切なアクセス許可レベルを持つマネージャーとその他のユーザーに対して店舗全体が可視化されます。</span><span class="sxs-lookup"><span data-stu-id="278dd-105">This form gives visibility across the store to managers and other users with appropriate permission levels as to what is happening in the store as well as reviewing transaction information.</span></span> <span data-ttu-id="278dd-106">仕訳にいくつかのトランザクション タイプが追加されたことに加え、免税トランザクションの詳細、トランザクションの無効化、ドロワーを開く機能の実行、POS で電子仕訳に記録せずに印刷できるギフト カード残高照会のレイアウトなど、可視性を高めるための受領書の機能強化が行われています。</span><span class="sxs-lookup"><span data-stu-id="278dd-106">Several additional transaction types have been included in the journal, as well as receipt enhancements, for visibility including tax exempt transaction details, voided transactions, when the open drawer function is executed, and a layout for gift card balance inquiry that will not log in the electronic journal at a POS but can be printed.</span></span> <span data-ttu-id="278dd-107">その結果、店舗のユーザーは、以前は店舗の POS フォームまたは HQ フォームでは表示されなかったこれらのトランザクションを詳しく把握できるようになります。</span><span class="sxs-lookup"><span data-stu-id="278dd-107">As a result, store users will now have detailed visibility into these transactions that previously went without visibility through the POS or HQ forms in the store.</span></span> 
 
