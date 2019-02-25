@@ -1,25 +1,26 @@
 ---
-title: ダッシュボードと通知
-description: ダッシュボードと通知
+title: "ダッシュボードと通知"
+description: "ダッシュボードと通知"
 author: ShielaSogge
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: ''
+ms.prod: 
 ms.service: business-applications
-ms.technology: ''
+ms.technology: 
 ms.author: shielas
 audience: end user
-ms.openlocfilehash: ff5e3182130a6fe0094be2c2e314fa370b50e635
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199257"
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: ff5e3182130a6fe0094be2c2e314fa370b50e635
+ms.contentlocale: ja-jp
+ms.lasthandoff: 10/26/2018
+
 ---
+
 # <a name="dashboards-and-notifications"></a>ダッシュボードと通知
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
 
 ダッシュボードは、リクルーターと採用マネージャーに関連するアクションをガイドします。 通知は、採用プロセスを簡素化するための補足情報をユーザーに提供します。
 
@@ -37,3 +38,4 @@ Cloud
 ## Regional availability
 Global
 -->
+

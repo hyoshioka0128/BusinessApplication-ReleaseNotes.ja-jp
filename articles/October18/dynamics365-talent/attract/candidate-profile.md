@@ -1,25 +1,26 @@
 ---
-title: 候補者のプロファイル
-description: 候補者のプロファイル
+title: "候補者のプロファイル"
+description: "候補者のプロファイル"
 author: ShielaSogge
 manager: AnnBe
 ms.date: 09/20/2018
 ms.topic: article
-ms.prod: ''
+ms.prod: 
 ms.service: business-applications
-ms.technology: ''
+ms.technology: 
 ms.author: shielas
 audience: end user
-ms.openlocfilehash: f054bffd6a8cfd54c969a6e219dc1ff6c75491b7
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199239"
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: f054bffd6a8cfd54c969a6e219dc1ff6c75491b7
+ms.contentlocale: ja-jp
+ms.lasthandoff: 10/26/2018
+
 ---
+
 # <a name="candidate-profile"></a>候補者のプロファイル
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
 
 
 
@@ -38,3 +39,4 @@ Cloud
 ## Regional availability
 Global
 -->
+

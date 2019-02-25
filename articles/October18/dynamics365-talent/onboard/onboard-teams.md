@@ -1,25 +1,24 @@
 ---
-title: チームのオンボーディング
-description: チームのオンボーディング
+title: "チームのオンボーディング"
+description: "チームのオンボーディング"
 author: tbisaacs
 manager: tbisaacs
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: ''
+ms.prod: 
 ms.service: business-applications
-ms.technology: ''
+ms.technology: 
 ms.author: tbisaacs
 audience: end user
-ms.openlocfilehash: b5bb0b65f462763d017203c79a86b53a42422d23
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199766"
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: b5bb0b65f462763d017203c79a86b53a42422d23
+ms.contentlocale: ja-jp
+ms.lasthandoff: 10/26/2018
+
 ---
 #  <a name="onboarding-teams"></a>チームのオンボーディング
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 
 
@@ -37,3 +36,4 @@ In development
 ## Target timeframe
 Public Preview: August
 -->
+
