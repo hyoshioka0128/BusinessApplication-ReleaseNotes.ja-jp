@@ -12,16 +12,16 @@ ms.technology:
 ms.author: manavm77
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
-ms.openlocfilehash: 1ce17991bda178c876ad3e688bf94d06870c9d07
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: 5ea657d7ed19c1be61099c7a20aa8f320d0decb6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/23/2019
+ms.lasthandoff: 02/25/2019
 
 ---
 #  <a name="share-and-manage-access-to-guides-or-templates"></a><span data-ttu-id="8de22-103">ガイドやテンプレートの共有とアクセスの管理</span><span class="sxs-lookup"><span data-stu-id="8de22-103">Share and manage access to guides or templates</span></span>
 
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
 
 
 

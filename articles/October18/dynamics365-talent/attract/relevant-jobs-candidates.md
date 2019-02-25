@@ -11,16 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 88afd4e5f8d16da7f77425fa9c367115836e0347
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: 3fb2ff92e390d00a61c8b66b7ad36cabfb2ac282
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/25/2019
 
 ---
 
 # <a name="relevant-jobs-and-candidates"></a><span data-ttu-id="0a644-103">妥当な職務と候補者</span><span class="sxs-lookup"><span data-stu-id="0a644-103">Relevant jobs and candidates</span></span>
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
 
 <span data-ttu-id="0a644-104">採用担当者と採用マネージャーは、Attract のインテリジェントなレコメンデーションを使用して、ソーシング プロセスを合理化し、見込者と申請者を効率的にトリアージできます。</span><span class="sxs-lookup"><span data-stu-id="0a644-104">Recruiters and hiring managers can use intelligent recommendations from Attract to streamline the sourcing process and triage prospects and applicants efficiently.</span></span> <span data-ttu-id="0a644-105">これらのレコメンデーションには、プロファイル (経歴、LinkedIn プロファイル) が特定の職務に最もよく一致する候補者と見込者が表示されます。</span><span class="sxs-lookup"><span data-stu-id="0a644-105">These recommendations surface the candidates and prospects whose profiles (resumes, LinkedIn profiles) are the best match for a particular job.</span></span> <span data-ttu-id="0a644-106">レコメンデーション エンジンは、明示的なフィードバック (ユーザーが提供) と暗黙的なフィードバック (過去にポジションを確保した候補者の種類) に基づいて再トレーニングされ、絶えず改善されています。</span><span class="sxs-lookup"><span data-stu-id="0a644-106">The recommendation engine is retrained based on explicit (user provided) and implicit feedback (the types of candidates that have secured positions in the past), and is refining itself constantly.</span></span>
  

@@ -11,16 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 35ace7e332cfa432921312fd26093475bfeed297
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: d8fd3ae81498491cf9c062d4a04a315d78f1eca2
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/25/2019
 
 ---
 
 # <a name="extensibility"></a><span data-ttu-id="34f3c-103">拡張性</span><span class="sxs-lookup"><span data-stu-id="34f3c-103">Extensibility</span></span>
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
 
 <span data-ttu-id="34f3c-104">各組織の雇用プロセスは固有であり、組織の独自性が強調されるように設計されていることを、Microsoft は理解しています。</span><span class="sxs-lookup"><span data-stu-id="34f3c-104">We know that each organization’s hiring process is unique and designed to highlight the distinctiveness of the organization.</span></span> <span data-ttu-id="34f3c-105">ネイティブ アプリケーションの拡張機能は、これらのニーズをサポートするために重要です。</span><span class="sxs-lookup"><span data-stu-id="34f3c-105">Having the ability to extend the native application is key to supporting these needs.</span></span> <span data-ttu-id="34f3c-106">PowerApps、Microsoft Flow、Power BI、Office Forms、Microsoft Stream、その他を組み込むことができる拡張機能が提供されています。</span><span class="sxs-lookup"><span data-stu-id="34f3c-106">We are bringing extensions that allow organizations to incorporate PowerApps, Microsoft Flow, Power BI, Office Forms, Microsoft Stream, and more.</span></span> <span data-ttu-id="34f3c-107">これにより、コア データやプロセスの特別なアクティビティや拡張に対応できます。</span><span class="sxs-lookup"><span data-stu-id="34f3c-107">This will allow for specialized activities and the extension of the core data and process.</span></span>
 

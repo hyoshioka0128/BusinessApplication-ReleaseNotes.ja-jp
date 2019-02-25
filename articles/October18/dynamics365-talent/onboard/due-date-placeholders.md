@@ -11,16 +11,15 @@ ms.technology:
 ms.author: tbisaacs
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 2a1497022e5ce7dfaadba7c27145105e70253b49
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: f701ccb40ef736634aac0a7939f404dabe7f3207
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/25/2019
 
 ---
 
 #  <a name="due-date-placeholders"></a><span data-ttu-id="de0da-103">期日のプレースホルダー</span><span class="sxs-lookup"><span data-stu-id="de0da-103">Due date placeholders</span></span>
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 
 

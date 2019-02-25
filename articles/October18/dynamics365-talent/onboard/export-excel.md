@@ -11,15 +11,14 @@ ms.technology:
 ms.author: tbisaacs
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 3882aef81c739273d90519f4c17ef77eb8ba422d
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: 278edac6d6223a237f90fac512a44958f696679a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/25/2019
 
 ---
 #  <a name="export-to-excel"></a><span data-ttu-id="a2194-103">Excel へのエクスポート</span><span class="sxs-lookup"><span data-stu-id="a2194-103">Export to Excel</span></span>
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 
 

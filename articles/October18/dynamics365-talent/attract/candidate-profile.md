@@ -11,16 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: f054bffd6a8cfd54c969a6e219dc1ff6c75491b7
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: e7bd7698b3d8489b537eb6076388d44b8d7dfa61
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/25/2019
 
 ---
 
 # <a name="candidate-profile"></a><span data-ttu-id="d74a1-103">候補者のプロファイル</span><span class="sxs-lookup"><span data-stu-id="d74a1-103">Candidate profile</span></span>
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
 
 
 

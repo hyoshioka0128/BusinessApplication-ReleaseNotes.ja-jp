@@ -11,15 +11,14 @@ ms.technology:
 ms.author: tbisaacs
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 14a8565b65d1f3ede761fd6407770434d0ec7693
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: 31d29c33b050d6a8133a6bc5b719ebf0edfd9a2e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/25/2019
 
 ---
 #  <a name="customizable-welcome-emails"></a><span data-ttu-id="3b60b-103">カスタマイズ可能なようこその電子メール</span><span class="sxs-lookup"><span data-stu-id="3b60b-103">Customizable welcome emails</span></span>
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 
 

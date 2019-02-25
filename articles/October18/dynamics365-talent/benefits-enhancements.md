@@ -11,16 +11,16 @@ ms.technology:
 ms.author: josaw
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 8a07a5bfe460bf829e6283d98d02c66ec1e9ff34
-ms.openlocfilehash: cd79f737209ec01a6e84e48066984a1a2083bed9
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: 22814f39c714782a837cc49bc6747d80029b8764
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/09/2018
+ms.lasthandoff: 02/25/2019
 
 ---
 
 # <a name="employee-benefits-enhancements"></a><span data-ttu-id="835a7-103">従業員福利厚生の機能強化</span><span class="sxs-lookup"><span data-stu-id="835a7-103">Employee benefits enhancements</span></span>
 
-[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
+
 
 <span data-ttu-id="835a7-104">魅力的な福利厚生を従業員に提供することは、優れた人材を採用して維持するための重要な要素です。</span><span class="sxs-lookup"><span data-stu-id="835a7-104">Offering competitive employee benefits is a key component when recruiting and retaining top talent.</span></span> <span data-ttu-id="835a7-105">福利厚生管理者は、コンプライアンス要件を満たしながら、さまざまな福利厚生サービスを簡単に構成できる必要があります。</span><span class="sxs-lookup"><span data-stu-id="835a7-105">Benefits administrators need to easily configure a variety of benefits offerings while meeting compliance requirements.</span></span> 
 

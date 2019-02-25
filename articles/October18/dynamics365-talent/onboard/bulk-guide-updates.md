@@ -12,15 +12,14 @@ ms.technology:
 ms.author: tbisaacs
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 81850011bb27b74e128779055666ac19e4a045a9
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: ad2e602049edb0c386f818cc7889de0db717ec06
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/25/2019
 
 ---
 #  <a name="bulk-update-guides"></a><span data-ttu-id="761c7-103">ガイドの一括更新</span><span class="sxs-lookup"><span data-stu-id="761c7-103">Bulk update guides</span></span>
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 
 

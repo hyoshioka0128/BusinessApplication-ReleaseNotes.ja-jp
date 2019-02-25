@@ -11,16 +11,16 @@ ms.technology:
 ms.author: jcart
 audience: developer, admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: db1db92e190e4297ad79b08fde17d502d691700b
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: 4a23bea0934fbd8705aaee3d4f5ba10016901fa9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/25/2019
 
 ---
 
 # <a name="extended-core-hr-entity-scope-on-common-data-service-for-apps"></a><span data-ttu-id="7c5b8-103">アプリ用 Common Data Service 上の Core HR エンティティのスコープの拡張</span><span class="sxs-lookup"><span data-stu-id="7c5b8-103">Extended Core HR entity scope on Common Data Service for Apps</span></span>
 
-[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
+
 
 <span data-ttu-id="7c5b8-104">顧客は、重要な人材を引き付けて維持するために HR と Talent のエクスペリエンスのデジタル変換を推進する効率的な手段を必要とします。</span><span class="sxs-lookup"><span data-stu-id="7c5b8-104">Customers need efficient means to drive the digital transformation of their HR and Talent experiences to attract and retain critical talent.</span></span> <span data-ttu-id="7c5b8-105">ユーザーの単一で一貫したビューは、これを達成する重要な基礎の 1 つです。</span><span class="sxs-lookup"><span data-stu-id="7c5b8-105">Having a single and coherent view of people is one of the critical foundations to achieve this.</span></span>
 <span data-ttu-id="7c5b8-106">ほとんどの Core HR エンティティは、アプリ用 Common Data Service で既に使用できます。</span><span class="sxs-lookup"><span data-stu-id="7c5b8-106">Most Core HR entities are already available in Common Data Service for Apps.</span></span> <span data-ttu-id="7c5b8-107">残りの領域も、このデジタル変換を推進するために利用できるようになります。</span><span class="sxs-lookup"><span data-stu-id="7c5b8-107">The remaining areas will now also be made available to drive this digital transformation.</span></span>

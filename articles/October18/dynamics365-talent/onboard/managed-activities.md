@@ -12,15 +12,14 @@ ms.technology:
 ms.author: tbisaacs
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 16c1f0dcce4341892246edaf46e62172b44bda19
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: deb1afee81e8a2c6782f85ba0978aa4f2d64ec1e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/25/2019
 
 ---
 #  <a name="managed-activities"></a><span data-ttu-id="774c3-103">マネージド アクティビティ</span><span class="sxs-lookup"><span data-stu-id="774c3-103">Managed activities</span></span>
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 
 

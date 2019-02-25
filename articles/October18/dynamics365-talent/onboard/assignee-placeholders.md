@@ -12,15 +12,14 @@ ms.technology:
 ms.author: tbisaacs
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: f3db7db9b5315245dcec2184cb33f440f4166cc4
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: 7ed2ba71002508acbb033e1b75e0611053856a1c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/25/2019
 
 ---
 #  <a name="assignee-placeholders"></a><span data-ttu-id="b5a4b-103">担当者のプレースホルダー</span><span class="sxs-lookup"><span data-stu-id="b5a4b-103">Assignee placeholders</span></span>
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 
 

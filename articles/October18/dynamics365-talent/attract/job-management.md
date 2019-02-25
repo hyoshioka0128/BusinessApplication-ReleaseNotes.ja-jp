@@ -11,16 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 187cbc075e41a59820a3244970fabd249afd42a0
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: 0eab01fd217de4c1fe0843968749eb6bc12b76a5
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/25/2019
 
 ---
 
 # <a name="job-and-process-enhancements"></a><span data-ttu-id="1ec1f-103">職務とプロセスの機能強化</span><span class="sxs-lookup"><span data-stu-id="1ec1f-103">Job and process enhancements</span></span>
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
 
 <span data-ttu-id="1ec1f-104">職務とプロセスの管理は、欠員を作成から実行まで追跡するために必要な構造化データを拡張することで採用プロセスを形式化します。</span><span class="sxs-lookup"><span data-stu-id="1ec1f-104">Job and process management will formalize the recruit process by enhancing the structured data needed to track an opening from creation to fulfillment.</span></span>
 <span data-ttu-id="1ec1f-105">さらに、これらの機能は、アプリ用 Common Data Service に公開されているデータを利用して Core HR システムと Attract 間の統合を強化します。</span><span class="sxs-lookup"><span data-stu-id="1ec1f-105">Furthermore, these features will provide a deeper integration between core HR systems and Attract by leveraging data that is published to Common Data Service for Apps.</span></span>

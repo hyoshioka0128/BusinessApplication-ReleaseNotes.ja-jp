@@ -11,16 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: b6fb22e35c0e34b27256ab55a33e085c10a9aa73
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: 2f91fbc1b35c26ef9e69fc147c05c5ae99b7da19
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/25/2019
 
 ---
 
 # <a name="talent-pools"></a><span data-ttu-id="6337a-103">タレント プール</span><span class="sxs-lookup"><span data-stu-id="6337a-103">Talent pools</span></span>
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
 
 <span data-ttu-id="6337a-104">採用担当者は、候補者や見込者の一覧をタレント プールで整理し、管理できます。</span><span class="sxs-lookup"><span data-stu-id="6337a-104">Recruiters can organize and maintain their list of candidates and prospects in talent pools.</span></span> <span data-ttu-id="6337a-105">タレント プールは個人用にすることもできますし、採用担当者間で共有することもできます。</span><span class="sxs-lookup"><span data-stu-id="6337a-105">Talent pools can be private or shared among recruiters.</span></span>
 

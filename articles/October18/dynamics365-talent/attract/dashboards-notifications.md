@@ -11,16 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: ff5e3182130a6fe0094be2c2e314fa370b50e635
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: 5a126009bd3c7f440474ece6d438cf61cf900381
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/25/2019
 
 ---
 
 # <a name="dashboards-and-notifications"></a><span data-ttu-id="b6ce6-103">ダッシュボードと通知</span><span class="sxs-lookup"><span data-stu-id="b6ce6-103">Dashboards and notifications</span></span>
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
 
 <span data-ttu-id="b6ce6-104">ダッシュボードは、リクルーターと採用マネージャーに関連するアクションをガイドします。</span><span class="sxs-lookup"><span data-stu-id="b6ce6-104">Dashboard will guide recruiters and hiring managers to relevant actions.</span></span> <span data-ttu-id="b6ce6-105">通知は、採用プロセスを簡素化するための補足情報をユーザーに提供します。</span><span class="sxs-lookup"><span data-stu-id="b6ce6-105">Notifications will provide the user with supplemental information to streamline the recruitment process.</span></span>
 

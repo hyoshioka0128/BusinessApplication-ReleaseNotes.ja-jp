@@ -11,16 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: e40aa4718c6baee16fa146e5cd15143b7d862434
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: a36ab2f8f649fad0dec2c9dc0036886e2c196b38
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/25/2019
 
 ---
 
 # <a name="offer-management"></a><span data-ttu-id="934ca-103">オファー管理</span><span class="sxs-lookup"><span data-stu-id="934ca-103">Offer management</span></span>
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
 
 <span data-ttu-id="934ca-104">採用担当者と採用マネージャーは、組織の定義済みパッケージ テンプレートを使用してオファーを作成および承認できます。</span><span class="sxs-lookup"><span data-stu-id="934ca-104">Recruiters and hiring managers can create and approve offers using their organization's defined package templates.</span></span> <span data-ttu-id="934ca-105">また、オファーを表示して承諾し、組織へのオンボーディングを開始するための業界標準の電子署名プロバイダー機能を候補者に提供することもできます。</span><span class="sxs-lookup"><span data-stu-id="934ca-105">They also can provide candidates with the industry standard electronic signature provider capabilities to view and accept their offers and begin their onboarding into the organization.</span></span>
 
