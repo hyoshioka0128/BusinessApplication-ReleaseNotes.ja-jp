@@ -11,16 +11,16 @@ ms.technology:
 ms.author: josaw
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 5a5cda20d14963d3f348e876df8aa0aa70a68b83
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: d7a75eb599edb7d9fd5d20c17ce8c23983af8155
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 02/26/2019
 
 ---
 
 # <a name="compensation-enhancements"></a><span data-ttu-id="839d2-103">報酬の強化</span><span class="sxs-lookup"><span data-stu-id="839d2-103">Compensation enhancements</span></span>
 
-[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
+
 
 ## <a name="advanced-compensation-access"></a><span data-ttu-id="839d2-104">高度な報酬へのアクセス</span><span class="sxs-lookup"><span data-stu-id="839d2-104">Advanced compensation access</span></span>
 

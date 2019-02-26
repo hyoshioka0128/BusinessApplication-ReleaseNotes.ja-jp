@@ -11,16 +11,16 @@ ms.technology:
 ms.author: josaw
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 8a07a5bfe460bf829e6283d98d02c66ec1e9ff34
-ms.openlocfilehash: 6f39017f79065246b55838b1bd838078d9c38f02
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: d0135c051209a8203853846b5996a7091251e6f9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/09/2018
+ms.lasthandoff: 02/26/2019
 
 ---
 
 # <a name="leave-and-absence-management"></a><span data-ttu-id="fde0f-103">休暇の管理</span><span class="sxs-lookup"><span data-stu-id="fde0f-103">Leave and absence management</span></span>
 
-[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
+
 
 <span data-ttu-id="fde0f-104">効率的な休暇の管理は、準拠だけでなく従業員のエンゲージメントにも重要です。</span><span class="sxs-lookup"><span data-stu-id="fde0f-104">Effective leave and absence management is key to not only being compliant, but also to having an engaged workforce.</span></span> <span data-ttu-id="fde0f-105">Talent のこの部分の機能を強化すると、組織は継続して休暇計画の管理を簡素化し、マネージャーは休暇スケジュールに対応し、従業員は仕事とプライベートのバランスを取ることができます。</span><span class="sxs-lookup"><span data-stu-id="fde0f-105">Enhancements in this area of Talent allow for organizations to continue streamlining the administration of leave and absence plans, allow managers to take care of time-off schedules, and help employees to balance work and home life.</span></span>
 
