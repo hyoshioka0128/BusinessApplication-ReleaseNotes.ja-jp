@@ -1,25 +1,26 @@
 ---
-title: LinkedIn Recruiter によるソーシング
-description: ソーシング
+title: "LinkedIn Recruiter によるソーシング"
+description: "ソーシング"
 author: Hasrivas
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: ''
+ms.prod: 
 ms.service: business-applications
-ms.technology: ''
+ms.technology: 
 ms.author: shielas
 audience: end user
-ms.openlocfilehash: b71ca1f026b161ebd0a142312dd6fff03951243b
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199944"
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: b71ca1f026b161ebd0a142312dd6fff03951243b
+ms.contentlocale: ja-jp
+ms.lasthandoff: 10/26/2018
+
 ---
+
 # <a name="sourcing-with-linkedin-recruiter"></a>LinkedIn Recruiter によるソーシング
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
 
 この機能を使用すると、採用担当者と採用マネージャーは、見込者を追跡し、LinkedIn Recruiter から見込者をプッシュし、LinkedIn (候補者オプトインを使用) から得られた情報を含む候補者の統合プロファイルを作成できるようになり、調達パイプラインに対する可視性を確保できるようになります。
 
@@ -40,3 +41,4 @@ Cloud
 ## Regional availability
 Global
 -->
+

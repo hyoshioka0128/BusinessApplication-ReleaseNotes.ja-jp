@@ -1,25 +1,26 @@
 ---
-title: 職務とプロセスの管理
-description: 職務とプロセスの管理
+title: "職務とプロセスの管理"
+description: "職務とプロセスの管理"
 author: ShielaSogge
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: ''
+ms.prod: 
 ms.service: business-applications
-ms.technology: ''
+ms.technology: 
 ms.author: shielas
 audience: end user
-ms.openlocfilehash: 187cbc075e41a59820a3244970fabd249afd42a0
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199019"
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 187cbc075e41a59820a3244970fabd249afd42a0
+ms.contentlocale: ja-jp
+ms.lasthandoff: 10/26/2018
+
 ---
+
 # <a name="job-and-process-enhancements"></a>職務とプロセスの機能強化
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
 
 職務とプロセスの管理は、欠員を作成から実行まで追跡するために必要な構造化データを拡張することで採用プロセスを形式化します。
 さらに、これらの機能は、アプリ用 Common Data Service に公開されているデータを利用して Core HR システムと Attract 間の統合を強化します。
@@ -40,3 +41,4 @@ Cloud
 ## Regional availability
 Global
 -->
+

@@ -1,25 +1,26 @@
 ---
-title: オファー管理
-description: オファー管理
+title: "オファー管理"
+description: "オファー管理"
 author: HarshSrivastava
 manager: AnnBe
 ms.date: 09/20/2018
 ms.topic: article
-ms.prod: ''
+ms.prod: 
 ms.service: business-applications
-ms.technology: ''
+ms.technology: 
 ms.author: shielas
 audience: admin
-ms.openlocfilehash: e40aa4718c6baee16fa146e5cd15143b7d862434
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199940"
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: e40aa4718c6baee16fa146e5cd15143b7d862434
+ms.contentlocale: ja-jp
+ms.lasthandoff: 10/26/2018
+
 ---
+
 # <a name="offer-management"></a>オファー管理
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
 
 採用担当者と採用マネージャーは、組織の定義済みパッケージ テンプレートを使用してオファーを作成および承認できます。 また、オファーを表示して承諾し、組織へのオンボーディングを開始するための業界標準の電子署名プロバイダー機能を候補者に提供することもできます。
 
@@ -44,3 +45,4 @@ Cloud
 ## Regional availability
 Global
 -->
+
