@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../change-history#mixed-reality
 title: "アクセシビリティの向上"
 description: "Dynamics 365 レイアウトおよび Dynamics 365 インポート ツール (プレビュー) に対する 2018 年 10 月の更新プログラムでのアクセシビリティの向上。"
 author: ornellaalt
@@ -8,10 +9,10 @@ ms.service: business-applications
 ms.author: ornella
 ms.reviewer: v-brycho
 ms.translationtype: HT
-ms.sourcegitcommit: ec1b2069c2d0792c2bd428882fcb0d9d2b258629
-ms.openlocfilehash: 2de388b689427031630cc014f54d4709acda4802
+ms.sourcegitcommit: 980dc71b0e224fbb522252471a244278418a04b1
+ms.openlocfilehash: 38ea8b0064fe01bd068164fd3a70e8bc3e2d9a6d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 12/10/2018
+ms.lasthandoff: 02/28/2019
 
 ---
 
