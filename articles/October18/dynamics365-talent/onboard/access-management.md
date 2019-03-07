@@ -11,29 +11,29 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: manavm77
 audience: end user
-ms.openlocfilehash: 1ce17991bda178c876ad3e688bf94d06870c9d07
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 5ea657d7ed19c1be61099c7a20aa8f320d0decb6
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "286291"
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760568"
 ---
-#  <a name="share-and-manage-access-to-guides-or-templates"></a><span data-ttu-id="692de-103">ガイドやテンプレートの共有とアクセスの管理</span><span class="sxs-lookup"><span data-stu-id="692de-103">Share and manage access to guides or templates</span></span>
-
-
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+#  <a name="share-and-manage-access-to-guides-or-templates"></a><span data-ttu-id="b7a9a-103">ガイドやテンプレートの共有とアクセスの管理</span><span class="sxs-lookup"><span data-stu-id="b7a9a-103">Share and manage access to guides or templates</span></span>
 
 
 
-<span data-ttu-id="692de-104">現在、ユーザーが他のユーザーとガイドやテンプレートを共有できる方法は、共有または投稿者の追加の 2 つです。</span><span class="sxs-lookup"><span data-stu-id="692de-104">Users can share their guides and templates with others currently in two ways, by sharing or adding contributors.</span></span> <span data-ttu-id="692de-105">しかし、これら 2 つの共有フローでは、どのユーザーにどのアクセス権が与えられるのかについて混乱することがあります。</span><span class="sxs-lookup"><span data-stu-id="692de-105">But these two sharing flows might create confusion about what access is granted to which users.</span></span> 
 
-<span data-ttu-id="692de-106">共有プロセスを簡単にするために、これらのフローを統一された「共有」エクスペリエンスに統合しました。</span><span class="sxs-lookup"><span data-stu-id="692de-106">To make the sharing process simpler, we've consolidated both of these flows into a unified "share" experience.</span></span> <span data-ttu-id="692de-107">この新しいエクスペリエンスを使用すると、ユーザーはテンプレートとガイドを共有する相手を選択できます。</span><span class="sxs-lookup"><span data-stu-id="692de-107">Using this new experience, users can choose who they'd like to share their templates and guides with.</span></span> <span data-ttu-id="692de-108">共有した後は、**アクセスの管理**タブを使用して、すべての共有メンバーへの「表示/編集」アクセスを調整できます。</span><span class="sxs-lookup"><span data-stu-id="692de-108">Once shared, they can use the **Manage Access** tab to adjust "View/Edit" access to all the shared members.</span></span>
 
-## <a name="discovery"></a><span data-ttu-id="692de-109">場所</span><span class="sxs-lookup"><span data-stu-id="692de-109">Discovery</span></span>
 
-<span data-ttu-id="692de-110">共有エクスペリエンスは、テンプレートまたはガイドの内部の省略記号 (**…**) ドロップダウン メニュー内で見つけることができます。</span><span class="sxs-lookup"><span data-stu-id="692de-110">The share experience can be found within the ellipsis (**…**) drop-down menu inside a template or a guide.</span></span>
+<span data-ttu-id="b7a9a-104">現在、ユーザーが他のユーザーとガイドやテンプレートを共有できる方法は、共有または投稿者の追加の 2 つです。</span><span class="sxs-lookup"><span data-stu-id="b7a9a-104">Users can share their guides and templates with others currently in two ways, by sharing or adding contributors.</span></span> <span data-ttu-id="b7a9a-105">しかし、これら 2 つの共有フローでは、どのユーザーにどのアクセス権が与えられるのかについて混乱することがあります。</span><span class="sxs-lookup"><span data-stu-id="b7a9a-105">But these two sharing flows might create confusion about what access is granted to which users.</span></span> 
 
-<span data-ttu-id="692de-111">![共有オプションを示すスクリーンショット](../media/share.png "共有オプションを示すスクリーンショット")</span><span class="sxs-lookup"><span data-stu-id="692de-111">![A screenshot showing the share option](../media/share.png "A screenshot showing the share option")</span></span>
+<span data-ttu-id="b7a9a-106">共有プロセスを簡単にするために、これらのフローを統一された「共有」エクスペリエンスに統合しました。</span><span class="sxs-lookup"><span data-stu-id="b7a9a-106">To make the sharing process simpler, we've consolidated both of these flows into a unified "share" experience.</span></span> <span data-ttu-id="b7a9a-107">この新しいエクスペリエンスを使用すると、ユーザーはテンプレートとガイドを共有する相手を選択できます。</span><span class="sxs-lookup"><span data-stu-id="b7a9a-107">Using this new experience, users can choose who they'd like to share their templates and guides with.</span></span> <span data-ttu-id="b7a9a-108">共有した後は、**アクセスの管理**タブを使用して、すべての共有メンバーへの「表示/編集」アクセスを調整できます。</span><span class="sxs-lookup"><span data-stu-id="b7a9a-108">Once shared, they can use the **Manage Access** tab to adjust "View/Edit" access to all the shared members.</span></span>
+
+## <a name="discovery"></a><span data-ttu-id="b7a9a-109">場所</span><span class="sxs-lookup"><span data-stu-id="b7a9a-109">Discovery</span></span>
+
+<span data-ttu-id="b7a9a-110">共有エクスペリエンスは、テンプレートまたはガイドの内部の省略記号 (**…**) ドロップダウン メニュー内で見つけることができます。</span><span class="sxs-lookup"><span data-stu-id="b7a9a-110">The share experience can be found within the ellipsis (**…**) drop-down menu inside a template or a guide.</span></span>
+
+<span data-ttu-id="b7a9a-111">![共有オプションを示すスクリーンショット](../media/share.png "共有オプションを示すスクリーンショット")</span><span class="sxs-lookup"><span data-stu-id="b7a9a-111">![A screenshot showing the share option](../media/share.png "A screenshot showing the share option")</span></span>
 
 <!--
 ## Who uses this feature

@@ -10,22 +10,22 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: josaw
 audience: end user
-ms.openlocfilehash: cd79f737209ec01a6e84e48066984a1a2083bed9
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 22814f39c714782a837cc49bc6747d80029b8764
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199756"
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760449"
 ---
-# <a name="employee-benefits-enhancements"></a><span data-ttu-id="88d65-103">従業員福利厚生の機能強化</span><span class="sxs-lookup"><span data-stu-id="88d65-103">Employee benefits enhancements</span></span>
+# <a name="employee-benefits-enhancements"></a><span data-ttu-id="2ba37-103">従業員福利厚生の機能強化</span><span class="sxs-lookup"><span data-stu-id="2ba37-103">Employee benefits enhancements</span></span>
 
-[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
-<span data-ttu-id="88d65-104">魅力的な福利厚生を従業員に提供することは、優れた人材を採用して維持するための重要な要素です。</span><span class="sxs-lookup"><span data-stu-id="88d65-104">Offering competitive employee benefits is a key component when recruiting and retaining top talent.</span></span> <span data-ttu-id="88d65-105">福利厚生管理者は、コンプライアンス要件を満たしながら、さまざまな福利厚生サービスを簡単に構成できる必要があります。</span><span class="sxs-lookup"><span data-stu-id="88d65-105">Benefits administrators need to easily configure a variety of benefits offerings while meeting compliance requirements.</span></span> 
 
-## <a name="streamline-compliance"></a><span data-ttu-id="88d65-106">コンプライアンスの合理化</span><span class="sxs-lookup"><span data-stu-id="88d65-106">Streamline compliance</span></span>
+<span data-ttu-id="2ba37-104">魅力的な福利厚生を従業員に提供することは、優れた人材を採用して維持するための重要な要素です。</span><span class="sxs-lookup"><span data-stu-id="2ba37-104">Offering competitive employee benefits is a key component when recruiting and retaining top talent.</span></span> <span data-ttu-id="2ba37-105">福利厚生管理者は、コンプライアンス要件を満たしながら、さまざまな福利厚生サービスを簡単に構成できる必要があります。</span><span class="sxs-lookup"><span data-stu-id="2ba37-105">Benefits administrators need to easily configure a variety of benefits offerings while meeting compliance requirements.</span></span> 
 
-<span data-ttu-id="88d65-107">**ACA レポート** – HR は 1095B および 1095C フォームを印刷して従業員と IRS に配布できます。</span><span class="sxs-lookup"><span data-stu-id="88d65-107">**ACA reporting** –  HR can print and distribute 1095B and 1095C forms to employees and the IRS.</span></span>
+## <a name="streamline-compliance"></a><span data-ttu-id="2ba37-106">コンプライアンスの合理化</span><span class="sxs-lookup"><span data-stu-id="2ba37-106">Streamline compliance</span></span>
+
+<span data-ttu-id="2ba37-107">**ACA レポート** – HR は 1095B および 1095C フォームを印刷して従業員と IRS に配布できます。</span><span class="sxs-lookup"><span data-stu-id="2ba37-107">**ACA reporting** –  HR can print and distribute 1095B and 1095C forms to employees and the IRS.</span></span>
 
 <!--
 ### Who uses this feature

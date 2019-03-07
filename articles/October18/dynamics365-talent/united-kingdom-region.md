@@ -10,15 +10,15 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: hasrivas
 audience: end user
-ms.openlocfilehash: 8ba6de98e9d236e27d2c3c0ddf7b5c82fffd3e83
-ms.sourcegitcommit: f1eb4e8c7a7273633026d068f3ed8acd577abe0b
+ms.openlocfilehash: e9024214b68415288383bacef0bab9bb78588496
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/26/2019
-ms.locfileid: "290213"
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760379"
 ---
-# <a name="united-kingdom-region"></a><span data-ttu-id="3f4d4-102">英国地域</span><span class="sxs-lookup"><span data-stu-id="3f4d4-102">United Kingdom region</span></span>
+# <a name="united-kingdom-region"></a><span data-ttu-id="d8f91-102">英国地域</span><span class="sxs-lookup"><span data-stu-id="d8f91-102">United Kingdom region</span></span>
 
-[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
-<span data-ttu-id="3f4d4-103">2019 年 2 月より、Microsoft Dynamics 365 for Talent で英国地域が利用可能になります。</span><span class="sxs-lookup"><span data-stu-id="3f4d4-103">The United Kingdom region will be available for Microsoft Dynamics 365 for Talent starting in February 2019.</span></span> <span data-ttu-id="3f4d4-104">つまり、ユーザーは英国地域内に環境を作成できるようになり、すべての Talent データが英国内だけで保持されるようになります。</span><span class="sxs-lookup"><span data-stu-id="3f4d4-104">This means you can create environments in the United Kingdom, and all Talent data will be maintained solely within the United Kingdom.</span></span> <span data-ttu-id="3f4d4-105">**新しい環境**ダイアログでオプションを選択することにより、英国地域に環境を作成できます。</span><span class="sxs-lookup"><span data-stu-id="3f4d4-105">You can create an environment in the United Kingdom region by selecting that option in the **New environment** dialog.</span></span> 
+
+<span data-ttu-id="d8f91-103">2019 年 2 月より、Microsoft Dynamics 365 for Talent で英国地域が利用可能になります。</span><span class="sxs-lookup"><span data-stu-id="d8f91-103">The United Kingdom region will be available for Microsoft Dynamics 365 for Talent starting in February 2019.</span></span> <span data-ttu-id="d8f91-104">つまり、ユーザーは英国地域内に環境を作成できるようになり、すべての Talent データが英国内だけで保持されるようになります。</span><span class="sxs-lookup"><span data-stu-id="d8f91-104">This means you can create environments in the United Kingdom, and all Talent data will be maintained solely within the United Kingdom.</span></span> <span data-ttu-id="d8f91-105">**新しい環境**ダイアログでオプションを選択することにより、英国地域に環境を作成できます。</span><span class="sxs-lookup"><span data-stu-id="d8f91-105">You can create an environment in the United Kingdom region by selecting that option in the **New environment** dialog.</span></span> 

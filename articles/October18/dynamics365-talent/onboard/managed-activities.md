@@ -11,22 +11,21 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: tbisaacs
 audience: end user
-ms.openlocfilehash: 16c1f0dcce4341892246edaf46e62172b44bda19
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: deb1afee81e8a2c6782f85ba0978aa4f2d64ec1e
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199460"
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760512"
 ---
-#  <a name="managed-activities"></a><span data-ttu-id="a95b1-103">マネージド アクティビティ</span><span class="sxs-lookup"><span data-stu-id="a95b1-103">Managed activities</span></span>
-
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+#  <a name="managed-activities"></a><span data-ttu-id="a0d14-103">マネージド アクティビティ</span><span class="sxs-lookup"><span data-stu-id="a0d14-103">Managed activities</span></span>
 
 
 
-<span data-ttu-id="a95b1-104">部署リーダーは、マネージャーに配布したテンプレートを動的に更新して、最新のコンテンツとポリシーがすべての従業員のオンボーディング ガイドに含まれるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="a95b1-104">Department leaders can dynamically update templates that they have distributed to their managers to ensure the latest content and policy are part of every employee’s onboarding guide.</span></span> <span data-ttu-id="a95b1-105">すべての新しい従業員に対して一貫したオンボーディング エクスペリエンスを作成することは、新規採用の成功に不可欠です。</span><span class="sxs-lookup"><span data-stu-id="a95b1-105">Creating a consistent onboarding experience for every new employee is critical for new hire success.</span></span> <span data-ttu-id="a95b1-106">部署リーダーがコンテンツを一元管理できるようにすることで、すべての新規採用に対してベースライン レベルの一貫性を確保できます。</span><span class="sxs-lookup"><span data-stu-id="a95b1-106">By allowing department leaders to manage content centrally, they can ensure a baseline level of consistency for every new hire.</span></span> 
 
-<span data-ttu-id="a95b1-107">この機能によって、部署リーダーは既存のワークフローを使用してテンプレートを作成し、共有できます。</span><span class="sxs-lookup"><span data-stu-id="a95b1-107">With this feature, department leaders create and share templates using the existing workflow.</span></span> <span data-ttu-id="a95b1-108">他のマネージャーがテンプレートを使用またはインポートすると、更新アクセス許可が保存されるので、元のリーダーが更新を動的に "プッシュ" できます。</span><span class="sxs-lookup"><span data-stu-id="a95b1-108">When other managers use or import their templates, the update permissions are retained, allowing the original leaders to “push” updates into them dynamically.</span></span>
+<span data-ttu-id="a0d14-104">部署リーダーは、マネージャーに配布したテンプレートを動的に更新して、最新のコンテンツとポリシーがすべての従業員のオンボーディング ガイドに含まれるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="a0d14-104">Department leaders can dynamically update templates that they have distributed to their managers to ensure the latest content and policy are part of every employee’s onboarding guide.</span></span> <span data-ttu-id="a0d14-105">すべての新しい従業員に対して一貫したオンボーディング エクスペリエンスを作成することは、新規採用の成功に不可欠です。</span><span class="sxs-lookup"><span data-stu-id="a0d14-105">Creating a consistent onboarding experience for every new employee is critical for new hire success.</span></span> <span data-ttu-id="a0d14-106">部署リーダーがコンテンツを一元管理できるようにすることで、すべての新規採用に対してベースライン レベルの一貫性を確保できます。</span><span class="sxs-lookup"><span data-stu-id="a0d14-106">By allowing department leaders to manage content centrally, they can ensure a baseline level of consistency for every new hire.</span></span> 
+
+<span data-ttu-id="a0d14-107">この機能によって、部署リーダーは既存のワークフローを使用してテンプレートを作成し、共有できます。</span><span class="sxs-lookup"><span data-stu-id="a0d14-107">With this feature, department leaders create and share templates using the existing workflow.</span></span> <span data-ttu-id="a0d14-108">他のマネージャーがテンプレートを使用またはインポートすると、更新アクセス許可が保存されるので、元のリーダーが更新を動的に "プッシュ" できます。</span><span class="sxs-lookup"><span data-stu-id="a0d14-108">When other managers use or import their templates, the update permissions are retained, allowing the original leaders to “push” updates into them dynamically.</span></span>
 
 <!--
 ## Who uses this feature
