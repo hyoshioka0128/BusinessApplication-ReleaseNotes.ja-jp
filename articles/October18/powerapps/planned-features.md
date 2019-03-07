@@ -3,19 +3,19 @@ title: 2018 年 10 月に Microsoft PowerApps に対して計画されている�
 description: Microsoft PowerApps の 2018 年 10 月リリースで利用可能になる主要な新機能の全一覧です。
 author: evchaki
 manager: KVivek
-ms.date: 01/20/2019
+ms.date: 02/06/2019
 ms.topic: summary
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
 ms.author: evchaki
 audience: Power user
-ms.openlocfilehash: b2ccf7e3803af606087e6ff4af55ebea9a994e09
-ms.sourcegitcommit: abbfbdaff6d71a53e5dd36fecb6673080c49e5d6
+ms.openlocfilehash: 572bef3b87e02dbcce09705943ad762f3d312d80
+ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/26/2019
-ms.locfileid: "289995"
+ms.lasthandoff: 02/11/2019
+ms.locfileid: "379498"
 ---
 # <a name="summary-of-whats-new-in-microsoft-powerapps"></a>Microsoft PowerApps の新機能の概要
 
@@ -48,7 +48,6 @@ Microsoft は高品質のエンドユーザー エクスペリエンスの提供
 | [エンドユーザーはグラフを作成して他のユーザーやチームと共有可能](enhancements-to-personal-charts-in-common-data-service.md) | 一般提供 |  2018 年 12 月 5 日  |
 | [Dynamics 365 用の Outlook Client v8.2 の信頼性の向上](more-reliable-outlook-client-v8.2-for-dynamics-365.md) | 一般提供 |  2018 年 12 月 5 日  |
 | [Dynamics 365 用の Outlook Client v9.0 の信頼性の向上](more-reliable-outlook-client-v9.0-for-dynamics-365.md) | 一般提供 |  2019 年 2 月  |
-| [Dynamics 365 での代理ユーザーのサポート](support-for-delegate-users-in-dynamics-365.md) | 一般提供 |  2019 年 6 月  |
 | [ソリューション チェッカーを使用した高品質なモデル駆動型アプリの構築](build-model-driven-apps-of-higher-quality-with-solution-checker.md) | パブリック プレビュー |  2018 年 12 月 5 日  |
 | [新しいモデル駆動型フォーム デザイナー](new-model-driven-form-designer-preview.md) | パブリック プレビュー |  2019 年 1 月 4 日  |
 | [キャンバス アプリのオフライン エクスペリエンスの信頼性の向上](improved-reliability-of-offline-experience-for-canvas-apps.md) | パブリック プレビュー |  2019 年 1 月 23 日  |
@@ -61,8 +60,9 @@ Microsoft は高品質のエンドユーザー エクスペリエンスの提供
 | ---------- | ---------- | ---------- |
 | [統一インターフェイスのユーザー エクスペリエンスの利用可能性の制御](control-availability-of-user-experiences-on-unified-interface.md) | 一般提供 |  2018 年 10 月  |
 | [管理者向けのヘルプとサポートの強化](enhanced-help---support-for-admins.md) | 一般提供 |  2018 年 10 月 1 日  |
-| [Power プラットフォーム管理センターへの環境管理機能の統合](unified-environment-administration.md) | 一般提供 |  2018 年 10 月 3 日  |
+| [Power プラットフォーム管理センターからの統合環境管理](unified-environment-administration.md) | 一般提供 |  2018 年 10 月 3 日  |
 | [PowerApps が Intune をサポート](powerapps-supports-intune.md) | 一般提供 |  2018 年 10 月 24 日  |
+| [まずはプレビューで新しい更新プログラムをテストする](test-out-new-updates-first-in-preview.md) | 一般提供 |  2019 年 4 月  |
 | [Power プラットフォーム管理センターからの管理設定の管理](admin-experiences-available-from-unified-interface.md) | パブリック プレビュー |  2018 年 9 月 26 日  |
 | [新しい管理者向け分析レポート](new-admin-analytics-reports.md) | パブリック プレビュー |  2018 年 10 月 3 日  |
 | [PowerApps 監査イベント](powerapps-audit-events.md) | パブリック プレビュー |  2018 年 12 月 19 日  |
@@ -85,23 +85,21 @@ Microsoft は高品質のエンドユーザー エクスペリエンスの提供
 | [カスタマイズ担当者がエンティティ フォームに Power BI タイルおよびレポートを埋め込むことができる](power-bi-embedding-available-in-common-data-service-entity-forms.md) | 一般提供 |  2018 年 10 月 3 日  |
 | [PowerApps からのソリューションの検索と操作がより簡単に](easier-to-find-and-work-with-solutions-from-powerapps.md) | 一般提供 |  2018 年 10 月 31 日  |
 | [キャンバス アプリの共有の拡張](sharing-enhancements-for-canvas-apps.md) | 一般提供 |  2018 年 11 月 14 日  |
-| [PowerApps アプリ開発者は SharePoint ドキュメント ライブラリを使用してマッシュアップ アプリを作成することが可能に](powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries.md) | 一般提供 |  2019 年 1 月  |
 | [エンティティでの簡略化された検索フィールドの作成](simplified-lookup-field-creation-on-entities.md) | 一般提供 |  2019 年 1 月  |
 | [エンティティの詳細プロパティの管理を簡略化](simplified-management-of-advanced-entity-properties.md) | 一般提供 |  2019 年 1 月  |
+| [キャンバス アプリでの Common Data Service for Apps 内の集約関数の委任](canvas-app-delegation-of-aggregate-functions-in-common-data-service-for-apps.md) | 一般提供 |  2019 年 1 月 2 日  |
 | [カスケード ドロップダウン リストの構成がより簡単に](easier-to-configure-cascading-dropdowns-and-conditional-field-visibility.md) | 一般提供 |  2019 年 1 月  |
 | [アプリ開発者向けのエラー検出機能の強化](errors-more-discoverable-by-app-makers.md) | 一般提供 |  2019 年 1 月  |
-| [Power BI 内の PowerApps のより深い統合 ](deeper-powerapps-integration-in-powerbi.md) | 一般提供 |  2019 年 1 月  |
+| [Power BI 内の PowerApps のより深い統合 ](deeper-powerapps-integration-in-powerbi.md) | 一般提供 |  2019 年 1 月 23 日  |
+| [エンティティ間の高度なリレーションシップ](advanced-relationships-on-entities.md) | 一般提供 |  2019 年 1 月 30 日  |
 | [Access ユーザー向けのヘルプの向上](improved-help-for-access-users.md) | 一般提供 |  2019 年 1 月  |
 | [Common Data Service for Apps または SharePoint を使用している場合にキャンバス アプリでわかりやすい表示名を使用する](work-with-friendly-display-names-in-canvas-apps-when-using-the-common-data-service-or-sharepoint.md) | 一般提供 |  2019 年 1 月  |
-| [エンティティ間の高度なリレーションシップ](advanced-relationships-on-entities.md) | 一般提供 |  2019 年 2 月  |
 | [自動採番の作成](create-automatic-number-sequences.md) | 一般提供 |  2019 年 2 月  |
 | [同じツールでのエンティティとアプリの作成](create-and-edit-your-entities-in-canvas-studio-while-building-an-app.md) | 一般提供 |  2019 年 2 月  |
+| [PowerApps アプリ開発者は SharePoint ドキュメント ライブラリを使用してマッシュアップ アプリを作成することが可能に](powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries.md) | 一般提供 |  2019 年 2 月  |
 | [Common Data Service for Apps のデータを使用した Power BI レポートの作成](create-powerbi-reports-using-data-in-the-common-data-service-for-apps.md) | 一般提供 |  2019 年 3 月  |
 | [キャンバス アプリによるエラーの捕捉、処理、レポートとデータベースへの Null 値の書き込み](catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps.md) | パブリック プレビュー |  2018 年 8 月 14 日  |
 | [ソリューションを使用したキャンバス アプリの ALM の向上](improve-alm-for-canvas-app-with-solutions.md) | パブリック プレビュー |  2018 年 10 月 31 日  |
 | [モデル駆動型ビュー デザイナーの機能強化](model-driven-view-designer-enhancements.md) | パブリック プレビュー |  2018 年 12 月 5 日  |
-| [キャンバス アプリでの Common Data Service データ型のネイティブ サポート](native-support-for-common-data-service-data-types-in-canvas-apps.md) | パブリック プレビュー |  2018 年 12 月 19 日  |
+| [キャンバス アプリでの Common Data Service for Apps データ型のネイティブ サポート](native-support-for-common-data-service-data-types-in-canvas-apps.md) | パブリック プレビュー |  2018 年 12 月 19 日  |
 | [埋め込みキャンバス アプリによる Dynamics 365 エンティティ フォームの拡張](extend-dynamics-365-entity-forms-with-embedded-canvas-apps.md) | パブリック プレビュー |  2019 年 1 月 4 日  |
-| [レスポンシブ レイアウトでのキャンバス アプリの作成](create-canvas-apps-with-responsive-layout.md) | パブリック プレビュー |  2019 年 2 月  |
-| [依存オプション セットの構成](configure-dependent-optionsets.md) | パブリック プレビュー |  2019 年 3 月  |
-| [エンティティからの関連フローの作成と表示](create-and-view-related-flows-from-your-entity.md) | パブリック プレビュー |  2019 年 4 月  |

@@ -1,22 +1,22 @@
 ---
-title: "承認のカスタム応答オプション"
-description: "開発者は、必要などのようなオプションをいくつでも含む承認フローを構築することができます。"
+title: 承認のカスタム応答オプション
+description: 開発者は、必要などのようなオプションをいくつでも含む承認フローを構築することができます。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
 ms.date: 02/04/2019
 ms.assetid: e37358cb-f6c4-e811-a971-000d3a137208
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: stepsic
 audience: Power user
+ms.openlocfilehash: 57e54b00dd8a28221dee0937a24670c759e8f637
+ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 6aada4de4fc0ad92a1ed3ec27730d24bef079254
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/14/2019
+ms.locfileid: "390935"
 ---
 # <a name="custom-response-options-in-approvals"></a>承認のカスタム応答オプション
 
@@ -28,4 +28,3 @@ ms.lasthandoff: 11/30/2018
 ![カスタム応答オプション](media/customresponseoptions-1.png "カスタム応答オプション")
 
 さらに、開発者は、Microsoft Flow の既製の簡単な通知を使用する代わりに、承認通知をカスタマイズできるようになりました。 たとえば、メールの受信トレイではなく Microsoft Teams チャネルに通知を送信するように承認を構成できます。
-

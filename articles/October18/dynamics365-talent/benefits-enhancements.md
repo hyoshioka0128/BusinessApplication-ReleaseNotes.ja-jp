@@ -1,23 +1,22 @@
 ---
-title: "従業員福利厚生の機能強化"
-description: "この機能は、福利厚生管理者による福利厚生の構成を簡単にします。"
+title: 従業員福利厚生の機能強化
+description: この機能は、福利厚生管理者による福利厚生の構成を簡単にします。
 author: josaw1
 manager: AnnBe
 ms.date: 11/09/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: josaw
 audience: end user
+ms.openlocfilehash: 22814f39c714782a837cc49bc6747d80029b8764
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
-ms.sourcegitcommit: 8a07a5bfe460bf829e6283d98d02c66ec1e9ff34
-ms.openlocfilehash: cd79f737209ec01a6e84e48066984a1a2083bed9
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/09/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760449"
 ---
-
 # <a name="employee-benefits-enhancements"></a>従業員福利厚生の機能強化
 
 
@@ -35,4 +34,3 @@ This feature is intended for benefits administrators.
 ### Development status
 In development
 -->
-

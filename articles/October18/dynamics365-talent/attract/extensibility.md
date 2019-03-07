@@ -1,23 +1,22 @@
 ---
-title: "拡張性"
-description: "拡張性"
+title: 拡張性
+description: 拡張性
 author: ShielaSogge
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: shielas
 audience: end user
+ms.openlocfilehash: d8fd3ae81498491cf9c062d4a04a315d78f1eca2
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 35ace7e332cfa432921312fd26093475bfeed297
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760484"
 ---
-
 # <a name="extensibility"></a>拡張性
 
 
@@ -43,4 +42,3 @@ Cloud
 ## Regional availability
 Global
 -->
-

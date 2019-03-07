@@ -10,17 +10,16 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: rapraj
 audience: admin, IT admin
-ms.openlocfilehash: a131e2ac8625e6dff247c23176f08f3bb98e1267
-ms.sourcegitcommit: bdd8328c237beb442560635fa9459e8cd118273d
+ms.openlocfilehash: 014b314b951ef43e36505a6962e2789edd6611a6
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "213998"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "392078"
 ---
 # <a name="payment-method-restrictions-for-returns-without-a-receipt"></a>領収書のない返品に対する支払方法の制限
 
 
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 返品は小売業者にとって不可欠な操作です。 返品条件と払戻のガイドラインは通常、会社レベルで設定され、店舗レベルで適用されます。レジ担当者には特定の特権が与えられ、マネージャー/上級スタッフにはいくつかの上書きアクセス許可が与えられます。 
 

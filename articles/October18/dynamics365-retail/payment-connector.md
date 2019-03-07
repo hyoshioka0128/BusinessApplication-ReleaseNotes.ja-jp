@@ -1,22 +1,22 @@
 ---
-title: "支払いコネクタ"
-description: "支払いコネクタ"
+title: 支払いコネクタ
+description: 支払いコネクタ
 author: Annbe
 manager: AnnBe
 ms.date: 7/22/2018
 ms.assetid: 55687aa5-42e5-4163-bbcc-04bb10017653
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: Annbe
 audience: Admin
+ms.openlocfilehash: 770337c6fdc3b6d5bd2f209d4b4df5264e1867c4
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: ce382f22ea637011beb08029c2643a8048d9a705
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "392043"
 ---
 #  <a name="payment-connector"></a>支払いコネクタ
 
@@ -30,4 +30,3 @@ ms.lasthandoff: 10/26/2018
 オーストラリア、オーストリア、ベルギー、カナダ、クロアチア、キプロス、チェコ共和国、デンマーク、エストニア、フィンランド、フランス、ドイツ、ギリシャ、ハンガリー、香港、アイスランド、アイルランド、イタリア、ラトビア、リトアニア、オランダ、ノルウェー、ポーランド、ポルトガル、シンガポール、スロバキア、スロベニア、スイス、スペイン、スウェーデン、スイス、英国、米国
 
 また、パートナーや ISV が信頼性の高いセキュリティ保護されたサード パーティ支払いコネクタを作成できるように、支払いの拡張性のシナリオが大幅に強化されました。
-

@@ -3,7 +3,7 @@ title: Microsoft Flow へのヘルプとサポートのエクスペリエンス�
 description: Microsoft Flow のコミュニティには、問題解決方法に関する豊富なコンテンツがあります。 この新しいサポート エクスペリエンスにより、サポート チケットをオープンすることなく、その場でソリューションを簡単に検索できるようになります。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/20/2019
+ms.date: 02/04/2019
 ms.assetid: 397e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 3c19399c097fe66631c3be85ff5068308cfbbfbb
-ms.sourcegitcommit: 1de869f4ccb74ccc9b9cd26817e3d5c30734c3c3
+ms.openlocfilehash: 4fc3df089bb9cf932ce5e2438e0c6fb8ef6b1bd9
+ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "288723"
+ms.lasthandoff: 02/14/2019
+ms.locfileid: "391103"
 ---
 # <a name="integrated-help-and-support-experience-in-microsoft-flow"></a>Microsoft Flow へのヘルプとサポートのエクスペリエンスの統合
 

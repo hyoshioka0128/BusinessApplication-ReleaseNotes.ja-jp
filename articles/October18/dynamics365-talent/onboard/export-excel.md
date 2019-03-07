@@ -1,21 +1,21 @@
 ---
-title: "Excel へのエクスポート"
-description: "採用マネージャーは作成または寄与したすべてのガイドを Excel ファイルにエクスポートし、レポートと Power BI で使用できます。"
+title: Excel へのエクスポート
+description: 採用マネージャーは作成または寄与したすべてのガイドを Excel ファイルにエクスポートし、レポートと Power BI で使用できます。
 author: tbisaacs
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: tbisaacs
 audience: end user
+ms.openlocfilehash: 278edac6d6223a237f90fac512a44958f696679a
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 3882aef81c739273d90519f4c17ef77eb8ba422d
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760428"
 ---
 #  <a name="export-to-excel"></a>Excel へのエクスポート
 
@@ -23,4 +23,3 @@ ms.lasthandoff: 10/26/2018
 
 
 採用マネージャーは作成または寄与したすべてのガイドを Excel ファイルにエクスポートし、レポートと Power BI で使用できます。
-

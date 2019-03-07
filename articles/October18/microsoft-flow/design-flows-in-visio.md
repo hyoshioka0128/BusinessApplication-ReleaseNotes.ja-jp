@@ -3,7 +3,7 @@ title: Visio でのデザイン フロー
 description: 標準フローチャートの概念を使用して Visio でフローを作成し、簡単にビジュアル化できるようにフローを Visio にエクスポートします。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/21/2019
+ms.date: 02/07/2019
 ms.assetid: 640627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 59ccda62877f795a0eb2d8ad99b08cb4100ca130
-ms.sourcegitcommit: 1de869f4ccb74ccc9b9cd26817e3d5c30734c3c3
+ms.openlocfilehash: 2c78249ab53aa7f8712b821930e6ac1c9ff351d4
+ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "288927"
+ms.lasthandoff: 02/14/2019
+ms.locfileid: "390970"
 ---
 # <a name="design-flows-in-visio-public-preview"></a>Visio でのデザイン フロー (パブリック プレビュー)
 

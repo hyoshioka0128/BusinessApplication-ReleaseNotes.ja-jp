@@ -1,21 +1,21 @@
 ---
-title: "チームのオンボーディング"
-description: "チームのオンボーディング"
+title: チームのオンボーディング
+description: チームのオンボーディング
 author: tbisaacs
 manager: tbisaacs
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: tbisaacs
 audience: end user
+ms.openlocfilehash: a6beede30073090cd8ee3ca908dcdf52d286b7b2
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: b5bb0b65f462763d017203c79a86b53a42422d23
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760365"
 ---
 #  <a name="onboarding-teams"></a>チームのオンボーディング
 
@@ -36,4 +36,3 @@ In development
 ## Target timeframe
 Public Preview: August
 -->
-

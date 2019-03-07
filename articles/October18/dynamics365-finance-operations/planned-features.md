@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: Annbe
 audience: Admin, end-user, developer
-ms.openlocfilehash: 60715f1381b33c08c8845155b2c49843b326a6ed
-ms.sourcegitcommit: ad48c3f7d0e618d1da2cc296a6f703aeff9cbf8e
+ms.openlocfilehash: 56c00cc0832e96217189230e380840696d902057
+ms.sourcegitcommit: 1c596e54f07d4b9fc0c8a290e5541836e12994c2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2019
-ms.locfileid: "290295"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "374311"
 ---
 # <a name="summary-of-whats-new-in-finance-and-operations"></a>Finance and Operations の新機能の概要
 
@@ -40,13 +40,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 |[データ入力分析コード値](data-entry-dimension-values.md) | 一般提供| クラウド<br>オンプレミス                                |2018 年 10 月 1 日<br>2018 年 11 月 6 日 |
 |[一貫性のある検証アクション](validation-actions-journals.md) | 一般提供|クラウド<br>オンプレミス                                |2018 年 10 月 1 日<br>2018 年 11 月 6 日 |
 |[現金割引の変更](change-cash-discounts.md) | 一般提供|クラウド<br>オンプレミス                                |2018 年 10 月 1 日<br>2018 年 11 月 6 日 |
-|[自動元帳決済](automatic-ledger-settlements.md) | 一般提供|両方  |未定|
-|[仕訳帳転記の取消](reverse-journal-posting.md) | 一般提供|両方            |未定|
-|[構成可能なテンプレートによる簡略化](simplication-templates.md) | 一般提供|両方   |未定|
-|[エンタープライズ与信管理](enterprise-credit-management.md) |一般提供 |両方  |未定 (2019 年 3 月以降にリリースされる可能性があります) |
-|[収益認識基準](revenue-recognition.md) |一般提供|両方                     |未定|
 |[財務レポートのレポート通貨](reporting-currency-financial-reporting.md) |一般提供|クラウド<br>オンプレミス                                |2018 年 10 月 1 日<br>2018 年 11 月 6 日 |
-|[銀行再評価](bank-revaluation.md) |一般提供|両方                     |未定|
 |[公的機関の機能強化](public-sector.md) |一般提供 |クラウド<br>オンプレミス                                |2018 年 10 月 1 日<br>2018 年 11 月 6 日 |
 |[作業単位のユーザー定義値](operating-unit-user-defined-values.md) |一般提供| クラウド<br>オンプレミス                                |2018 年 10 月 1 日<br>2018 年 11 月 6 日 |
 |[残余の決済](settle-remainder.md)|一般提供| 両方| 2019 年 1 月|
@@ -71,7 +65,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 |[測定単位](uom.md) |一般提供 |両方    |未定 (2019 年 3 月以降にリリースされる可能性があります) |
 |[手持在庫レポートのパフォーマンス](on-hand-inventory-report-performance.md) | 一般提供|クラウド<br>オンプレミス                                |2018 年 10 月 1 日<br>2018 年 11 月 6 日 |
 |[価格、数量、重量の小数点以下の桁数のカスタマイズ](customize-decimals-for-prices-quantities-and-weight.md) | 一般提供 | クラウド<br>オンプレミス                                |2018 年 10 月 1 日<br>2018 年 11 月 6 日 |
-|[倉庫管理での CW 製品処理](catch-weight.md)|一般提供|両方|未定 (2019 年 3 月以降にリリースされる可能性があります)|
+
 | [マスター プランの再開](resume-master-planning.md) | 一般提供 | 両方 | 2018 年 12 月 14 日 |
 
 

@@ -3,7 +3,7 @@ title: 組織内でフローのコピーを共有
 description: フローのコピーを共有することによってフロー テンプレートを配布します。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/20/2019
+ms.date: 02/07/2019
 ms.assetid: 584a5018-e70e-e911-a98c-000d3a1362e3
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: ec6b4f69019c4a5b8e882da60c4d06dc83f61527
-ms.sourcegitcommit: 1de869f4ccb74ccc9b9cd26817e3d5c30734c3c3
+ms.openlocfilehash: ecc270b829a27b6e7c644beda9a045be65d9dbfa
+ms.sourcegitcommit: 94bf29c750d9915eff328352bb0cbc819a09e203
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "288639"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "403841"
 ---
 # <a name="share-copies-of-flows-inside-organizations-public-preview"></a>組織内でフローのコピーを共有 (パブリック プレビュー)
 
@@ -29,11 +29,11 @@ ms.locfileid: "288639"
 
 フローのコピーを送信するための主なエントリ ポイントは 2 つあります。 1 つ目は、フローの一覧からです。
 
-![フローの一覧での "コピーの送信" オプション](media/send_a_copy_from_flow_list.png "フローの一覧での "コピーの送信" オプション")
+![フローの一覧の "コピーの送信" オプション](media/send_a_copy_from_flow_list.png)
 
 2 つ目は、フローのプロパティ ページからです。
 
-![フローのプロパティ ページからの "コピーの送信" オプション](media/send_a_copy_from_flow_properties.png "フローのプロパティ ページからの "コピーの送信" オプション")
+![フローのプロパティ ページの "コピーの送信" オプション](media/send_a_copy_from_flow_properties.png)
 
 フローをコピーとして送信する前に、最後にフローを更新してから少なくとも 1 回はフローを正常に実行している必要があります。 これは、フローが送信先のあらゆるユーザーに対して機能することを確認するために役立ちます。 また、フローをコピーとして共有した後はコピーを取り消すことができないため、送信する前にフローから個人情報を削除することが重要です。
 
@@ -41,12 +41,12 @@ ms.locfileid: "288639"
 
 **コピーの送信**を選択すると、受信者だけでなくテンプレートのタイトルと説明をカスタマイズするように求められます。 組織内のユーザーとセキュリティ グループの任意の組み合わせを受信者にすることができます。 フロー送信先のユーザーだけが、フローにアクセスできます。
 
-!["コピーの送信" パネルの入力](media/send_a_copy_panel.png ""コピーの送信" パネルの入力")
+!["コピーの送信" パネルの入力](media/send_a_copy_panel.png)
 
 受信者は、送信されたフローの自分用のコピーを作成するように促す電子メールを受信します。
 
-!["コピーの送信" で受信された電子メール](media/send_a_copy_email.png ""コピーの送信" で受信された電子メール")
+!["コピーの送信" で受信されたメール](media/send_a_copy_email.png)
 
 さらに、自分と共有されたテンプレートを**共有アイテム** タブで確認できます。
 
-!["共有アイテム" テンプレート ギャラリー](media/send_a_copy_shared_with_me.png ""共有アイテム" テンプレート ギャラリー")
+!["共有アイテム" テンプレート ギャラリー](media/send_a_copy_shared_with_me.png)

@@ -3,17 +3,17 @@ title: 2018 年 10 月の変更履歴
 description: 変更履歴
 author: Annbe
 manager: AnnBe
-ms.date: 01/28/2019
+ms.date: 02/28/2019
 ms.assetid: ''
 ms.topic: article
 ms.author: renwe@microsoft.com
 ms.service: business-applications
-ms.openlocfilehash: cb85a33529a7ae4d43b4c0a3592e84779eae744d
-ms.sourcegitcommit: 837d0b244af0c46ac2f5e84181ae3e6ec8533c40
+ms.openlocfilehash: f7d7ddfa9c1a02ea9f116d45c2392ae3bf061416
+ms.sourcegitcommit: 980dc71b0e224fbb522252471a244278418a04b1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "291043"
+ms.lasthandoff: 02/28/2019
+ms.locfileid: "771399"
 ---
 # <a name="change-history"></a>変更履歴
 
@@ -106,7 +106,6 @@ ms.locfileid: "291043"
 > | リソース稼働率ビュー - URS | 2018 年 11 月から 2019 年 1 月に変更されました | 11 月 7 日 |
 > | [URS のお客様主導による製品機能強化](service/field-service/universal-resource-scheduling-urs/urs-customer-driven-product-enhancements.md) | 2018 年 11 月から 2019 年 1 月に変更されました | 11 月 7 日 |
 > | [権利の管理 - Field Service アプリケーション](service/field-service/entitlement-management.md) | 2018 年 12 月から 2019 年 1 月に変更されました | 11 月 14 日 | 
-> | [Omni-channel Engagement Hubスーパーバイザー エクスペリエンス](service/customer-service-omni-channel-release-notes/supervisor-experience.md)|2018 年 12 月のパブリック プレビューからプライベート プレビューに変更されました|12 月 4 日|
 > | [バックグラウンドでの位置情報の共有 - Field Service モバイル](service/field-service/field-service-mobile/background-location-sharing.md) | 2018 年 12 月から 2019 年 1 月に変更されました | 12 月 11 日 | 
 > | [拡張可能なリソースの空き時間 - URS](service/field-service/universal-resource-scheduling-urs/extensibility-hook-resource-availability.md)   | 2019 年 1 月から 2019 年 3 月に変更されました | 12 月 11 日 |
 > | [クイック スケジューリング - URS](service/field-service/universal-resource-scheduling-urs/in-form-scheduling.md)  | 2019 年 1 月から 2019 年 3 月に変更されました | 12 月 11 日 |
@@ -114,7 +113,6 @@ ms.locfileid: "291043"
 > | [セルフサービス スケジュールの API - URS](service/field-service/universal-resource-scheduling-urs//self-service-scheduling-apis.md) | 2019 年 1 月から 2019 年 3 月に変更されました | 12 月 11 日 |
 > | [URS のお客様主導による製品機能強化](service/field-service/universal-resource-scheduling-urs/urs-customer-driven-product-enhancements.md) | 2019 年 1 月から 2019 年 3 月に変更されました | 12 月 11 日 |
 > | [エージェント エクスペリエンス](service/customer-service-omni-channel-release-notes/agent-experience.md) | 目標リリース月が 2018 年 12 月から 2019 年 1 月に変更されました | 12 月 19 日 |
-> | [スーパーバイザー エクスペリエンス](service/customer-service-omni-channel-release-notes/supervisor-experience.md) | 目標リリース月が 2018 年 12 月から 2019 年 1 月に変更されました | 12 月 19 日 |
 > | [統合されたルーティングと作業の配分](service/customer-service-omni-channel-release-notes/unified-routing-work-distribution.md) | 目標リリース月が 2018 年 12 月から 2019 年 1 月に変更されました | 12 月 19 日 |
 > | [ライブ チャット チャネル](service/customer-service-omni-channel-release-notes/chat-channel-omni-channel-engagement-hub.md) | 目標リリース月が 2018 年 12 月から 2019 年 1 月に変更されました | 12 月 19 日 |
 > | [権利の管理 - Field Service アプリケーション](service/field-service/entitlement-management.md) | 2019 年 1 月から 2019 年 2 月に変更されました | 1 月 14 日 | 
@@ -210,6 +208,7 @@ ms.locfileid: "291043"
 > |[CW](dynamics365-finance-operations/catch-weight.md) | 11 月 30 日 |
 > |[Excel への最大 100 万行のエクスポート](dynamics365-finance-operations/export-more-rows.md) | 12 月 3 日 |
 > |[モバイル プロジェクト タイムシート](dynamics365-finance-operations/mobile-project-timesheets.md) | 1 月 7 日|
+> |[一貫性のある検証アクション](dynamics365-finance-operations/validation-actions-journals.md) | 2 月 1 日 |
 
 
 ### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
@@ -229,7 +228,13 @@ ms.locfileid: "291043"
 > | 個人用設定の向上ウェーブ 2   | 1 月 24 日 |
 > | 保存されているビュー  | 1 月 24 日 |
 > | グリッドの合計    | 1 月 24 日 |
-
+> | 自動元帳決済| 1 月 31 日|
+> | 仕訳帳転記の取消| 1 月 31 日|
+> | エンタープライズ与信管理 | 1 月 31 日 |
+> |収益認識  |1 月 31 日|
+> |銀行再評価| 1 月 31 日|
+> |構成可能なテンプレートによる簡略化 |1 月 31 日|
+> |倉庫管理での CW 製品処理 |1 月 31 日|
 
 ## <a name="talent"></a>Talent
 
@@ -322,6 +327,75 @@ ms.locfileid: "291043"
 > | オムニチャネル注文処理の向上 | 11 月 30 日 |
 > | イタリア向け会計プリンターの統合のサンプルの拡張 | 11 月 30 日 |
 > | オーストリア向け会計サービスの統合のサンプル | 11 月 30 日 |
+> | オムニチャネル自動請求 | 2 月 15 日 |
+
+## <a name="business-central"></a>Business Central
+
+### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
+> [!div class="mx-tableFixed"]
+> | 機能 | 追加された日付 |
+> |---------|------------|
+> |[支払遅延予測](dynamics365-business-central/late-payment-prediction.md)|10 月 18 日|
+> |[財務、営業、購買の拡張](dynamics365-business-central/finance-sales-purchases-enhancements.md)|10 月 18 日|
+> |[ビジネス エリア全体で簡素化されたワークフロー](dynamics365-business-central/simpler-workflows-across-business-areas.md)|10 月 18 日|
+> |[より簡単な開始](dynamics365-business-central/easier-to-get-started.md)|10 月 18 日|
+
+### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
+> [!div class="mx-tableFixed"]
+> | 機能 | 削除日付 |
+> |---------|------------|
+> |向上した Visual Studio Code AL エクスペリエンスの一部としての新しいオブジェクトの拡張|8 月 10 日 |
+> |[ハイブリッド展開](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-business-central/business-central-everywhere#microsoft-dynamics-365-business-central-hybrid-deployment)に対するストーリーの一部としてのクラウド対応のイラスト|11 月 11 日 |
+
+
+
+## <a name="artificial-intelligence"></a>人工知能
+
+### <a name="new-product-areas-added"></a>新しい製品分野が追加されました
+> [!div class="mx-tableFixed"]
+> | 情報カテゴリ |  変更 | 追加された日付   |
+> |---------|----|----------|
+> | [AI for Customer Service Insights](ai/dynamics365-ai-customer-service-insights.md)   | 新機能 | 9 月 24 日   |
+> | [AI for Sales](ai/ai-sales.md) | Sales 分野から移動されました  | 9 月 10 日   |
+> | [AI for Market Insights](market-insights/index.md )  |  新機能   | 9 月 24 日  |
+
+### <a name="product-name-changed"></a>製品名が変更されました
+> [!div class="mx-tableFixed"]
+> | 製品 |  変更 | 変更日付   |
+> |---------|----|----------|
+> | [AI for Customer Service](ai/dynamics365-ai-customer-service-insights.md)   |製品名を AI for Customer Service Insights から AI for Customer Service に変更しました  | 9 月 25 日   |
+
+## <a name="mixed-reality"></a>Mixed Reality
+
+### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
+> [!div class="mx-tableFixed"]
+> | 機能 | 追加された日付 |
+> |---------|------------|
+> | **Dynamics 365 Layout**                    | 
+> | [PC を使用してインポート](mixed-reality/microsoft-layout/import-tool-PC-option.md)        | 9 月 24 日           | 
+> | [測定単位の選択](mixed-reality/microsoft-layout/unit-measure.md)        | 9 月 24 日           | 
+> | [複数選択とグループ化](mixed-reality/microsoft-layout/multi-select.md)        | 9 月 24 日           | 
+> | [ダイナミック オーディオ](mixed-reality/microsoft-layout/dynamics-audio.md)        |  9 月 24 日          | 
+> | [レイアウトの正確な調整](mixed-reality/microsoft-layout/precisely-realign-layout.md)        |  9 月 24 日          | 
+> | [新しい測定ツール](mixed-reality/microsoft-layout/measurement-tools.md)        | 9 月 24 日           | 
+> | [パフォーマンスの機能強化](mixed-reality/microsoft-layout/performance-mode-setting.md) | 12 月 4 日|
+> | [インポート ツールの改善](mixed-reality/microsoft-layout/import-tool.md) | 1 月 16 日|
+> | **Dynamics 365 Remote Assist**                   | 
+> | [Field Service の統合](mixed-reality/microsoft-remote-assist/field-service-integration.md)        |  9 月 24 日          | 
+> | [PDF ファイルの挿入](mixed-reality/microsoft-remote-assist/insert-PDF-file.md)        | 9 月 24 日            | 
+> | [スナップショットの作成](mixed-reality/microsoft-remote-assist/snapshot.md)        |  9 月 24 日           | 
+> | [テキスト チャット](mixed-reality/microsoft-remote-assist/text-chat.md)        |  9 月 24 日           | 
+> | [方向矢印の追加](mixed-reality/microsoft-remote-assist/add-directional-arrow.md)        |  9 月 24 日           | 
+> | [ダイナミック オーディオ](mixed-reality/microsoft-remote-assist/dynamic-audio.md)        | 9 月 24 日            | 
+> | [音声コマンド](mixed-reality/microsoft-remote-assist/voice-commands.md)        | 9 月 24 日            | 
+> | [別のアプリからの Remote Assist の起動](mixed-reality/microsoft-remote-assist/protocol-activation.md) |  9 月 24 日  |
+> | [画面共有](mixed-reality/microsoft-remote-assist/screen-sharing.md) |  12 月 10 日  |
+
+### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
+> [!div class="mx-tableFixed"]
+> | 機能 |   削除日付           |
+> |---------|-----------------|
+> |アクセシビリティの向上|2 月 28 日|
 
 
 ## <a name="powerapps"></a>PowerApps
@@ -334,6 +408,14 @@ ms.locfileid: "291043"
 > | [キャンバス アプリの共有の拡張](powerapps/sharing-enhancements-for-canvas-apps.md) |  機能拡張はキャンバス アプリにのみ関係し、モデル駆動型アプリには関係しません。 | 8 月 2 日     |
 > | [埋め込みキャンバス アプリによる Dynamics 365 エンティティ フォームの拡張](powerapps/extend-dynamics-365-entity-forms-with-embedded-canvas-apps.md) | パブリック プレビューで利用できる内容を明確にしました | 10 月 2 日 |
 > | [カスケード ドロップダウン リストの構成がより簡単に](powerapps/easier-to-configure-cascading-dropdowns-and-conditional-field-visibility.md) |  | 11 月 14 日
+> | [PowerApps アプリ開発者は SharePoint ドキュメント ライブラリを使用してマッシュアップ アプリを作成することが可能に](powerapps/powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries.md) | | 2 月 9 日 |
+
+### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
+> [!div class="mx-tableFixed"]
+> | 機能 | 追加情報 |  追加された日付           |
+> |---------|------------|----------|
+> | [まずはプレビューで新しい更新プログラムをテストする](powerapps/test-out-new-updates-first-in-preview.md) | 次の半期から移動されました | 2 月 9 日 |
+> | [キャンバス アプリでの Common Data Service for Apps 内の集約関数の委任](powerapps/canvas-app-delegation-of-aggregate-functions-in-common-data-service-for-apps.md) | 次の半期から移動されました | 2 月 9 日 |
 
 ### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 > [!div class="mx-tableFixed"]
@@ -350,6 +432,10 @@ ms.locfileid: "291043"
 > | モバイル デバイスでの Dynamics 365 へのサインインがより簡単に | 次の半期に移動されました | 1 月 11 日 |
 > | 統一インターフェイス フォームの最適化 | | 1 月 24 日 |
 > | 統一インターフェイス上の依存オプション セット | | 1 月 24 日 |
+> | 依存オプション セットの構成 | 次の半期に移動されました | 2 月 9 日 |
+> | エンティティからの関連フローの作成と表示 | 次の半期に移動されました | 2 月 9 日 |
+> | レスポンシブ レイアウトでのキャンバス アプリの作成 | 次の半期に移動されました | 2 月 9 日 |
+> | Dynamics 365 での代理ユーザーのサポート | | 2 月 9 日 |
 
 ### <a name="release-date-changed"></a>リリース日の変更
 > [!div class="mx-tableFixed"]
@@ -383,6 +469,7 @@ ms.locfileid: "291043"
 > | [エンティティからの関連フローの作成と表示](powerapps/create-and-view-related-flows-from-your-entity.md) | 2019 年 1 月から 2019 年 4 月に変更されました | 1 月 24 日 |
 > | [依存オプション セットの構成](powerapps/configure-dependent-optionsets.md) | 2019 年 1 月から 2019 年 3 月に変更されました | 1 月 24 日  |
 > | [Dynamics 365 用の Outlook Client v9.0 の信頼性の向上](powerapps/more-reliable-outlook-client-v9.0-for-dynamics-365.md) | 2018 年 12 月から変更されました | 1 月 24 日  |
+> | [PowerApps アプリ開発者は SharePoint ドキュメント ライブラリを使用してマッシュアップ アプリを作成することが可能に](powerapps/powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries.md) | 2019 年 1 月から 2019 年 2 月に変更されました | 2 月 9 日 |
 
 ## <a name="microsoft-flow"></a>Microsoft Flow
 
@@ -394,6 +481,9 @@ ms.locfileid: "291043"
 > |[Microsoft Flow が Intune をサポート](microsoft-flow/microsoft-flow-supports-intune.md)        | 10 月 28 日   | 
 > |[Microsoft Flow でのリッチ テキスト コンテンツの編集](microsoft-flow/edit-rich-text-content-in-flow.md)        | 10 月 28 日   | 
 > |[承認のカスタム応答オプション](microsoft-flow/custom-response-options-in-approvals.md)        | 11 月 8 日   | 
+> |[高度な条件ビルダー](microsoft-flow/advanced-condition-builder.md)        | 2 月 12 日   |
+> |[DLP ポリシーに対する HTTP コネクタとカスタム コネクタのサポート](microsoft-flow/http-and-custom-connector-support-for-dlp-policies.md)        | 2 月 12 日   |
+> |[Microsoft Flow デザイナーでのコードのプレビュー](microsoft-flow/peek-code-in-the-microsoft-flow-designer.md)        | 2 月 12 日   |
 
 ### <a name="feature-description-changed"></a>機能の説明の変更
 > [!div class="mx-tableFixed"]
@@ -409,7 +499,6 @@ ms.locfileid: "291043"
 > [!div class="mx-tableFixed"]
 > | 機能 | 変更 | 変更日付    |
 > |---------|----|----------|
-> | [米国政府機関クラウドの展開](microsoft-flow/us-government-cloud-deployment.md) |  GA (一般提供) からパブリック プレビューに変更 | 8 月 14 日   |
 > | [Visio でのデザイン フロー](microsoft-flow/design-flows-in-visio.md) | GA (一般提供) からパブリック プレビューに変更 | 9 月 9 日     |
 > | [Power Query 統合](https://docs.microsoft.com/business-applications-release-notes/April18/microsoft-flow/power-query-integration) |  2018 年 10 月から 2018 年 9 月に変更され、2018 年 4 月のリリース ノートに移動されました | 10 月 3 日   |
 > | [新しい管理者向け分析レポート](https://docs.microsoft.com/business-applications-release-notes/April18/microsoft-flow/admin-analytics) |  2018 年 10 月から 2018 年 9 月に変更され、2018 年 4 月のリリース ノートに移動されました | 10 月 3 日   |
@@ -420,16 +509,17 @@ ms.locfileid: "291043"
 > | [モバイル デバイスのデバイス シグナルの利用](microsoft-flow/leverage-device-signals-on-mobile-devices.md) |  2018 年 10 月から 2018 年 11 月に変更されました | 10 月 3 日   |
 > | [Visio でのデザイン フロー](microsoft-flow/design-flows-in-visio.md) | 2018 年 10 月から 2018 年 12 月に変更されました | 10 月 3 日     |
 > | [フローによる SharePoint コンテンツ承認のカスタマイズ](microsoft-flow/customize-sharepoint-content-approvals-with-flow.md) |  2018 年 10 月から 2018 年 11 月に変更されました | 10 月 22 日   |
-> | [OneDrive for Business Flow 起動パネル](microsoft-flow/onedrive-for-business-flow-launch-panel.md) |  2018 年 10 月から 2018 年 12 月に変更されました | 10 月 22 日   |
-> | [OneDrive for Business 要求のサインオフ](microsoft-flow/onedrive-for-business-request-sign-off.md) | 2018 年 10 月から 2018 年 12 月に変更されました | 10 月 22 日     |
 > | [Flow for SharePoint の管理シナリオ](microsoft-flow/flow-for-sharepoint-admin-scenarios.md) |  2018 年 10 月から 2018 年 12 月に変更されました | 10 月 22 日   |
-> | [SharePoint リマインダー](microsoft-flow/sharepoint-remind-me.md) |  2018 年 10 月から 2018 年 12 月に変更されました | 10 月 22 日   |
 > | [Microsoft Teams が Flow をボットとして使用](microsoft-flow/microsoft-teams-uses-flow-as-a-bot.md) | 2018 年 10 月から 2018 年 12 月に変更されました | 10 月 22 日     |
-> | [米国政府機関クラウドの展開](microsoft-flow/us-government-cloud-deployment.md) |  2018 年 10 月から 2018 年 11 月に変更されました | 10 月 28 日   |
 > | [Flow ボタンの機能拡張](microsoft-flow/flow-button-enhancements.md) | 2018 年 10 月から 2018 年 11 月に変更されました | 10 月 28 日     |
 > | [フロー管理コネクタ、SDK、API](microsoft-flow/flow-management-connector-sdk-and-apis.md) | 2018 年 10 月から 2018 年 11 月に変更されました | 11 月 8 日     |
 > | [業務プロセス フロー内のカスタム コントロール](microsoft-flow/custom-controls-in-business-process-flows.md)  |  2018 年 10 月から 2018 年 11 月に変更されました | 11 月 8 日   |
 > | [フロー デザイナーへのヘルプとサポートのエクスペリエンスの統合](microsoft-flow/flow-support-help-inside-of-the-flow-designer.md) | 2018 年 10 月から 2018 年 11 月に変更されました | 11 月 8 日     |
+> | [OneDrive for Business フロー起動パネル](microsoft-flow/onedrive-for-business-flow-launch-panel.md) |  2019 年 1 月から 2019 年 2 月に変更されました | 2 月 12 日   |
+> | [OneDrive for Business 要求のサインオフ](microsoft-flow/onedrive-for-business-request-sign-off.md) | 2019 年 1 月から 2019 年 2 月に変更されました | 2 月 12 日     |
+> | [米国政府機関クラウドの展開](microsoft-flow/us-government-cloud-deployment.md) |  2019 年 1 月から 2019 年 2 月に変更されました | 2 月 12 日    |
+> | [Microsoft Teams でより充実したメッセージを投稿](microsoft-flow/post-richer-messages-in-microsoft-teams.md) |  2019 年 1 月から 2019 年 2 月に変更されました | 2 月 12 日    |
+> | [SharePoint リマインダー](microsoft-flow/sharepoint-remind-me.md) |  2019 年 1 月から 2019 年 2 月に変更されました | 2 月 12 日   |
 
 
 ## <a name="power-bi-desktop"></a>Power BI Desktop
@@ -491,8 +581,6 @@ ms.locfileid: "291043"
 > [!div class="mx-tableFixed"]
 > | 機能 | 変更     |  変更日付 | 
 > |---------|----|----------|
-> | [サードパーティ クライアント接続とライフサイクル管理のための XMLA エンドポイント](intelligence-platform/power-bi-service/xmla-endpoint.md) | 2018 年 11 月から 2019 年 2 月に変更されました| 10 月 3 日      |
-> | [サードパーティ クライアント接続とライフサイクル管理のための XMLA エンドポイント](intelligence-platform/power-bi-service/xmla-endpoint.md) | 2018 年 10 月から 2018 年 11 月に変更されました | 9 月 10 日      |
 > |[データセット メタデータ翻訳](intelligence-platform/power-bi-service/dataset-metadata-translations.md)   |2018 年 10 月から 2019 年 3 月に変更されました   |10 月 8 日    |
 > |[ページ付けされたレポート (Power BI Premium)](intelligence-platform/power-bi-service/rdl-reports.md)  |2018 年 10 月から 2018 年 11 月に変更されました   |10 月 9 日    |
 > |[セルフサービスのデータ準備](intelligence-platform/power-bi-service/self-service-data-prep.md)  |2018 年 10 月から 2018 年 11 月に変更されました   |10 月 10 日    |
@@ -510,6 +598,7 @@ ms.locfileid: "291043"
 > |[コンプライアンス対応マルチ地域](intelligence-platform/power-bi-service/premium-multi-geo-for-compliance.md)   |2018 年 10 月のパブリック プレビューから 2019 年 3 月の一般提供に変更されました   |1 月 11 日    |
 > |[メタデータ翻訳](https://docs.microsoft.com/business-applications-release-notes/april19/business-intelligence/power-bi-service/metadata-translations-analysis-services-models)| 2018 年 10 月のリリース ノートから 2019 年 4 月に移動され、2019 年 3 月から 2019 年 5 月に変更されました  | 1 月 18 日 |
 > |[レポートのコメント](https://docs.microsoft.com/business-applications-release-notes/april19/business-intelligence/power-bi-service/commenting.md)  |2018 年 10 月のリリース ノートから 2019 年 4 月に移動され、2019 年 3 月から 2019 年 4 月に変更されました  | 1 月 29 日 |
+> | [サードパーティ クライアント接続と監視のための XMLA エンドポイント](intelligence-platform/power-bi-service/xmla-endpoint.md) | 2019 年 2 月から 2019 年 3 月に変更されました| 2 月 26 日      |
 
 ### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 
@@ -618,66 +707,6 @@ ms.locfileid: "291043"
 > | [Power BI Report Server の新機能のサポート](intelligence-platform/power-bi-report-server/index.md) | 2018 年 11 月から 2019 年 1 月に変更されました | 10 月 23 日    |
 
 
-## <a name="business-central"></a>Business Central
-
-### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
-> [!div class="mx-tableFixed"]
-> | 機能 | 追加された日付 |
-> |---------|------------|
-> |[支払遅延予測](dynamics365-business-central/late-payment-prediction.md)|10 月 18 日|
-> |[財務、営業、購買の拡張](dynamics365-business-central/finance-sales-purchases-enhancements.md)|10 月 18 日|
-> |[ビジネス エリア全体で簡素化されたワークフロー](dynamics365-business-central/simpler-workflows-across-business-areas.md)|10 月 18 日|
-> |[より簡単な開始](dynamics365-business-central/easier-to-get-started.md)|10 月 18 日|
-
-### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
-> [!div class="mx-tableFixed"]
-> | 機能 | 削除日付 |
-> |---------|------------|
-> |向上した Visual Studio Code AL エクスペリエンスの一部としての新しいオブジェクトの拡張|8 月 10 日 |
-> |[ハイブリッド展開](https://docs.microsoft.com/en-us/business-applications-release-notes/October18/dynamics365-business-central/business-central-everywhere#microsoft-dynamics-365-business-central-hybrid-deployment)に対するストーリーの一部としてのクラウド対応のイラスト|11 月 11 日 |
-
-
-## <a name="artificial-intelligence"></a>人工知能
-
-### <a name="new-product-areas-added"></a>新しい製品分野が追加されました
-> [!div class="mx-tableFixed"]
-> | 情報カテゴリ |  変更 | 追加された日付   |
-> |---------|----|----------|
-> | [AI for Customer Service Insights](ai/dynamics365-ai-customer-service-insights.md)   | 新機能 | 9 月 24 日   |
-> | [AI for Sales](ai/ai-sales.md) | Sales 分野から移動されました  | 9 月 10 日   |
-> | [AI for Market Insights](market-insights/index.md )  |  新機能   | 9 月 24 日  |
-
-### <a name="product-name-changed"></a>製品名が変更されました
-> [!div class="mx-tableFixed"]
-> | 製品 |  変更 | 変更日付   |
-> |---------|----|----------|
-> | [AI for Customer Service](ai/dynamics365-ai-customer-service-insights.md)   |製品名を AI for Customer Service Insights から AI for Customer Service に変更しました  | 9 月 25 日   |
-
-## <a name="mixed-reality"></a>Mixed Reality
-
-### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
-> [!div class="mx-tableFixed"]
-> | 機能 | 追加された日付 |
-> |---------|------------|
-> | **Dynamics 365 Layout**                    | 
-> | [PC を使用してインポート](mixed-reality/microsoft-layout/import-tool-PC-option.md)        | 9 月 24 日           | 
-> | [測定単位の選択](mixed-reality/microsoft-layout/unit-measure.md)        | 9 月 24 日           | 
-> | [複数選択とグループ化](mixed-reality/microsoft-layout/multi-select.md)        | 9 月 24 日           | 
-> | [ダイナミック オーディオ](mixed-reality/microsoft-layout/dynamics-audio.md)        |  9 月 24 日          | 
-> | [レイアウトの正確な調整](mixed-reality/microsoft-layout/precisely-realign-layout.md)        |  9 月 24 日          | 
-> | [新しい測定ツール](mixed-reality/microsoft-layout/measurement-tools.md)        | 9 月 24 日           | 
-> | [パフォーマンスの機能強化](mixed-reality/microsoft-layout/performance-mode-setting.md) | 12 月 4 日|
-> | [インポート ツールの改善](mixed-reality/microsoft-layout/import-tool.md) | 1 月 16 日|
-> | **Dynamics 365 Remote Assist**                   | 
-> | [Field Service の統合](mixed-reality/microsoft-remote-assist/field-service-integration.md)        |  9 月 24 日          | 
-> | [PDF ファイルの挿入](mixed-reality/microsoft-remote-assist/insert-PDF-file.md)        | 9 月 24 日            | 
-> | [スナップショットの作成](mixed-reality/microsoft-remote-assist/snapshot.md)        |  9 月 24 日           | 
-> | [テキスト チャット](mixed-reality/microsoft-remote-assist/text-chat.md)        |  9 月 24 日           | 
-> | [方向矢印の追加](mixed-reality/microsoft-remote-assist/add-directional-arrow.md)        |  9 月 24 日           | 
-> | [ダイナミック オーディオ](mixed-reality/microsoft-remote-assist/dynamic-audio.md)        | 9 月 24 日            | 
-> | [音声コマンド](mixed-reality/microsoft-remote-assist/voice-commands.md)        | 9 月 24 日            | 
-> | [別のアプリからの Remote Assist の起動](mixed-reality/microsoft-remote-assist/protocol-activation.md) |  9 月 24 日  |
-> | [画面共有](mixed-reality/microsoft-remote-assist/screen-sharing.md) |  12 月 10 日  |
 
 
 ## <a name="data-integration"></a>データ統合

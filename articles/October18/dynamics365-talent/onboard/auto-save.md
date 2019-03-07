@@ -1,24 +1,23 @@
 ---
-title: "自動保存"
-description: "自動保存"
+title: 自動保存
+description: 自動保存
 author: tbisaacs
 manager: tbisaacs
 ms.date: 07/22/2018
-ms.assetid: 
+ms.assetid: ''
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: tbisaacs
 audience: end user
+ms.openlocfilehash: 4cfccf8707d4529816d55e0fd21290dbcb6a7df5
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 68119b7360c58495c186bd2b44e8fd148958f0ac
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760351"
 ---
-
 #  <a name="auto-save"></a>自動保存
 
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
@@ -27,4 +26,3 @@ ms.lasthandoff: 10/26/2018
 
 
 作業を保存したり失ったりすることを心配する必要はもうありません。 オンボーディング ガイドとテンプレートは作業として自動的に保存されます。
-

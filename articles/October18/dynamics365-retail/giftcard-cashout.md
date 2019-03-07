@@ -10,17 +10,16 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: rapraj
 audience: admin, IT admin
-ms.openlocfilehash: a32aaf83bd3b4592de9fc179440599b24539eeb9
-ms.sourcegitcommit: bdd8328c237beb442560635fa9459e8cd118273d
+ms.openlocfilehash: d21133d5717ad928550bdfd1bcc8e1fd3e05155c
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "213999"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "392128"
 ---
 # <a name="cash-out-gift-card-balance-for-a-retail-customer"></a>小売顧客に対するギフト カード残高のキャッシュ アウト
 
 
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 小売業者はこの新しい機能を使用して、ギフト カードをキャッシュ アウトする新しい操作を設定し、キャッシュ アウト操作を有効にできるギフト カード残高の上限を設定することができます。 
 

@@ -10,16 +10,15 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: tbisaacs
 audience: end user
-ms.openlocfilehash: 299388a45dcfdb7eb336bda4476e598a9e105431
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: b61e6bb6dd10e72fbc58a17df3d472e78ec359bd
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199249"
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760519"
 ---
 #  <a name="corehr-checklist-integration"></a>CoreHR チェックリストの統合
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 
 
