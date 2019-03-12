@@ -1,24 +1,23 @@
 ---
-title: "POS 仕訳帳の向上"
-description: "この機能リリースでは、強化された機能が利用可能になって電子仕訳に記録され、構成されている場合は受領書を電子仕訳から印刷および再印刷できるようにもなります。"
+title: POS 仕訳帳の向上
+description: この機能リリースでは、強化された機能が利用可能になって電子仕訳に記録され、構成されている場合は受領書を電子仕訳から印刷および再印刷できるようにもなります。
 author: jblucher
 manager: AnnBe
 ms.date: 10/25/2018
 ms.assetid: 7b453328-5b4e-423a-90d9-3069f7cc918f
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: jeffbl
 audience: Admin
+ms.openlocfilehash: 62a1e71b5bfe910bac152f9e14cae82c53ee10be
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
 ms.translationtype: HT
-ms.sourcegitcommit: dbd8a17e3e500201426a03a48feb4bf5a2c7d024
-ms.openlocfilehash: a7be7c9b272485426fc7706ee754eab563d8d23c
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/01/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "392036"
 ---
-
 # <a name="pos-journal-improvements"></a>POS 仕訳帳の向上
 
 
@@ -54,5 +53,4 @@ POS (販売時点管理) 内の電子仕訳は、店舗内のトランザクシ�
 POS でギフト カードの残高を確認するための既存の操作では、残高だけが画面に戻されます。 ギフト カード残高照会の受領書を構成して印刷する機能を追加しました。 このトランザクションは、POS 内の電子仕訳には表示されません。 受領書は、常に印刷するか、プロンプトを表示するか、印刷しないように構成できます。 POS で印刷できるようにするには、受領書のフォーマットを本社で定義する必要があります。 [小売パラメーター] | [転記] タブで機能を有効にし、受領書フォーマットにトランザクション履歴フィールドを追加することで、データを Dynamics 365 for Retail で利用できる場合は、販売/返品トランザクション履歴を印刷するように残高照会受領書を構成することもできます。 
 
 ![ギフト カード仕訳](../../media/journal7.png "ギフト カード仕訳")
-
 

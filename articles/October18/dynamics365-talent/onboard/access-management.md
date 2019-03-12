@@ -1,22 +1,22 @@
 ---
-title: "ガイドやテンプレートの共有とアクセスの管理"
-description: "このトピックでは、Talent でのエクスペリエンスの共有について説明します。"
+title: ガイドやテンプレートの共有とアクセスの管理
+description: このトピックでは、Talent でのエクスペリエンスの共有について説明します。
 author: manavm77
 manager: manavm77
 ms.date: 11/20/2018
-ms.assetid: 
+ms.assetid: ''
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: manavm77
 audience: end user
+ms.openlocfilehash: 5ea657d7ed19c1be61099c7a20aa8f320d0decb6
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
-ms.sourcegitcommit: 8b9dec7b0e8a9af2786e5b342d1b8f7d07ff1102
-ms.openlocfilehash: 617084d5bc065e04ae5a1e40d29a0573b1092f57
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760568"
 ---
 #  <a name="share-and-manage-access-to-guides-or-templates"></a>ガイドやテンプレートの共有とアクセスの管理
 
@@ -45,4 +45,3 @@ In development
 ## Target timeframe
 * General Availability: November 19th
 -->
-

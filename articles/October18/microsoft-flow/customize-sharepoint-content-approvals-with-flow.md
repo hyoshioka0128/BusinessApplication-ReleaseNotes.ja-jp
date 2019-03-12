@@ -1,24 +1,24 @@
 ---
 title: Microsoft Flow による SharePoint ページの承認のカスタマイズ
 description: SharePoint ライブラリのページの承認フローを作成して、すべての新規ページと更新されたページのレビュー プロセスを追加します。
-author: Mhade
+author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/09/2019
+ms.date: 02/07/2019
 ms.assetid: fbc151eb-4a98-e811-a969-000d3a1378f6
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
-ms.author: mhade
+ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 92cf4574c0576d374ae3c1486b43fe77f1d9c931
-ms.sourcegitcommit: 851bbbbeaac02e33829dfbf5f6f8e4055acf0822
+ms.openlocfilehash: b3be7e0cd0cde47d7872a3de179a3e5742656957
+ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "203565"
+ms.lasthandoff: 02/14/2019
+ms.locfileid: "391040"
 ---
-# <a name="customize-sharepoint-page-approvals-with-flow"></a>Flow による SharePoint ページの承認のカスタマイズ
+# <a name="customize-sharepoint-page-approvals-with-microsoft-flow"></a>Microsoft Flow による SharePoint ページの承認のカスタマイズ
 
 
 
@@ -59,6 +59,6 @@ ms.locfileid: "203565"
 
 ## <a name="known-issues"></a>既知の問題
 
-1. ページが別のユーザーによってチェックアウトされていて、ユーザー (この場合は作成者) が承認のためにページを送信した場合、そのページは通知せずに承認を続行します。 フローが実行され、ページの公開中にエラーが発生したことを示す電子メールが作成者に送信されます。 
-2. サイト ページ ライブラリに対して有効になっているメジャー バージョンのみがある場合は、承認の送信結果として次のエラーが発生します: `Could not complete that action: The type of data at position 0 is different than the one expected.`
-3. 英国地域でのみ、2018 年 3 月より後に作成されたテナントでは、この機能がサポートされません。 これは 9 月末までに解決する予定です。 詳しくは、[このスレッドをご覧ください](https://techcommunity.microsoft.com/t5/SharePoint/Announcing-SharePoint-page-approvals/m-p/225587/highlight/true#M20376)。
+- ページが別のユーザーによってチェックアウトされていて、ユーザー (この場合は作成者) が承認のためにページを送信した場合、そのページは通知せずに承認を続行します。 フローが実行され、ページの公開中にエラーが発生したことを示す電子メールが作成者に送信されます。 
+- サイト ページ ライブラリに対して有効になっているメジャー バージョンのみがある場合は、承認の送信結果として次のエラーが発生します: `Could not complete that action: The type of data at position 0 is different than the one expected.`
+- 英国地域でのみ、2018 年 3 月より後に作成されたテナントでは、この機能がサポートされません。 これは 9 月末までに解決する予定です。 詳しくは、[このスレッドをご覧ください](https://techcommunity.microsoft.com/t5/SharePoint/Announcing-SharePoint-page-approvals/m-p/225587/highlight/true#M20376)。

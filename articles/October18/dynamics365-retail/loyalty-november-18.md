@@ -1,22 +1,22 @@
 ---
-title: "ロイヤルティの機能強化ウェーブ 2"
-description: "ロイヤルティの機能強化"
+title: ロイヤルティの機能強化ウェーブ 2
+description: ロイヤルティの機能強化
 author: shalabhjainmsft
 manager: AnnBe
 ms.date: 11/13/2018
-ms.assetid: 
+ms.assetid: ''
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: shajain
 audience: Admin
+ms.openlocfilehash: f5b2ed66738d8113e93bcaa551a68b1120281b46
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
 ms.translationtype: HT
-ms.sourcegitcommit: 94588b78c31aa0b5321c94a821a1c878cce54d16
-ms.openlocfilehash: 7f19b2efb1a9129453e8981c8d5a404f2df030d7
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/14/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "392071"
 ---
 #  <a name="loyalty-enhancements-wave-2"></a>ロイヤルティの機能強化ウェーブ 2
 
@@ -29,4 +29,3 @@ Dynamics 365 for Retail のロイヤルティ機能を強化する作業は 8.1 
 最後に、獲得したり引き換えたりしたロイヤルティ ポイントを販売明細レベルで保存する機能がリリースされており、元の取引で使用または付与された正確なポイント数を元に戻したり回収したりできます。 
 
 これらの機能の詳細については、「[ロイヤルティの概要](https://docs.microsoft.com/dynamics365/unified-operations/retail/set-up-customer-loyalty-program)」を参照してください。
-

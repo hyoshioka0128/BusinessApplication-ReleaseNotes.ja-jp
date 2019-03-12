@@ -11,15 +11,15 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: josaw
 audience: Admin
-ms.openlocfilehash: 57132bd20d162f4564f194dbe6aeeeedaf03a6a2
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 6c80aa83a3658fc0a4aff4448706934427a45dde
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "204116"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "392009"
 ---
 #  <a name="improved-omni-channel-order-processing"></a>オムニチャネル注文処理の向上
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
 
 
 Retail Modern POS (MPOS) と Cloud POS のユーザーは、レシートによる返品または購買履歴からの返品のときに、複数のトランザクションから製品を返すことにより、より優れた効率的な顧客サービスを提供できます。 以前は、元の各販売に対して異なる返品トランザクションが必要であり、手順の数とチェックアウト時間の増加につながりました。

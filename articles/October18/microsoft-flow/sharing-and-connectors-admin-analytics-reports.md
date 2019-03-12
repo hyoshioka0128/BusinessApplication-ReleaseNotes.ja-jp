@@ -3,7 +3,7 @@ title: 共有およびコネクタ管理分析レポート
 description: 共有レポートとコネクタ レポートはどちらも Microsoft Flow 管理分析で使用できます。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/17/2019
+ms.date: 02/07/2019
 ms.assetid: a3632f34-4ad9-e811-a987-000d3a1362e3
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 2a98b13382b760b3ac243d659199928b1e6ff383
-ms.sourcegitcommit: 1de869f4ccb74ccc9b9cd26817e3d5c30734c3c3
+ms.openlocfilehash: c4f6e7793344ec10e695dbb4337398daab2e610d
+ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "288948"
+ms.lasthandoff: 02/14/2019
+ms.locfileid: "390991"
 ---
 # <a name="sharing-and-connectors-admin-analytics-reports-public-preview"></a>共有およびコネクタ管理分析レポート (パブリック プレビュー)
 
@@ -55,6 +55,4 @@ Microsoft Flow 分析機能から、**共有**を選択して共有レポート�
   - 関係するフローの数。
   - そのコネクタを使用して実行されているフローの数。
 
-
 ![コネクタ レポート](media/sharing-connectors-analytics-3.png "コネクタ レポート")
-

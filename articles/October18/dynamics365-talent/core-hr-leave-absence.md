@@ -1,23 +1,22 @@
 ---
-title: "休暇の管理"
-description: "この機能は、Talent での休暇の管理を簡素化します。"
+title: 休暇の管理
+description: この機能は、Talent での休暇の管理を簡素化します。
 author: josaw1
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: josaw
 audience: end user
+ms.openlocfilehash: d0135c051209a8203853846b5996a7091251e6f9
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
-ms.sourcegitcommit: 8a07a5bfe460bf829e6283d98d02c66ec1e9ff34
-ms.openlocfilehash: 6f39017f79065246b55838b1bd838078d9c38f02
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/09/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760554"
 ---
-
 # <a name="leave-and-absence-management"></a>休暇の管理
 
 
@@ -42,4 +41,3 @@ Generally available
 #### Target timeframe
 September or later
 -->
-

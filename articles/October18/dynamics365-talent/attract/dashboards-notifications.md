@@ -1,23 +1,22 @@
 ---
-title: "ダッシュボードと通知"
-description: "ダッシュボードと通知"
+title: ダッシュボードと通知
+description: ダッシュボードと通知
 author: ShielaSogge
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: shielas
 audience: end user
+ms.openlocfilehash: 5a126009bd3c7f440474ece6d438cf61cf900381
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: ff5e3182130a6fe0094be2c2e314fa370b50e635
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760344"
 ---
-
 # <a name="dashboards-and-notifications"></a>ダッシュボードと通知
 
 
@@ -38,4 +37,3 @@ Cloud
 ## Regional availability
 Global
 -->
-

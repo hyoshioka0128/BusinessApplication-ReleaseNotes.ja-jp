@@ -2,17 +2,17 @@
 title: Dynamics 365 Layout の新機能の概要
 description: Layout の新機能の概要
 author: ornellaalt
-ms.date: 01/16/2019
+ms.date: 02/28/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: ornella
 ms.reviewer: v-brycho
-ms.openlocfilehash: f4f5d23c06fec6b49801fbd088223eb3484a16f0
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: aa6c8b50e60e219a4a699d639ad6421d628d0d8a
+ms.sourcegitcommit: dc43e428dad399477e12f9b33d0a01339198a31b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "204001"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "771320"
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-layout"></a>Dynamics 365 Layout の新機能の概要
 
@@ -31,5 +31,5 @@ ms.locfileid: "204001"
 | [新しい測定ツール](measurement-tools.md)            | 一般提供 | 2018 年 11 月 1 日               |
 | [パフォーマンスの向上](performance-mode-setting.md)            | 一般提供 | 2018 年 12 月 5 日               |
 | [インポート ツールの改善](import-tool.md)|一般提供|2019 年 1 月 16 日|
-| [アクセシビリティの向上](accessibility.md)            | 一般提供 | 2019 年 2 月               |
+
 

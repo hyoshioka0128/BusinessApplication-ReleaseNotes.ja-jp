@@ -1,22 +1,22 @@
 ---
-title: "ガイドの一括更新"
-description: "ガイドの一括更新"
+title: ガイドの一括更新
+description: ガイドの一括更新
 author: tbisaacs
 manager: tbisaacs
 ms.date: 07/22/2018
-ms.assetid: 
+ms.assetid: ''
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: tbisaacs
 audience: end user
+ms.openlocfilehash: ad2e602049edb0c386f818cc7889de0db717ec06
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 81850011bb27b74e128779055666ac19e4a045a9
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760526"
 ---
 #  <a name="bulk-update-guides"></a>ガイドの一括更新
 
@@ -41,4 +41,3 @@ In development
 ## Target timeframe
 * Public Preview: July
 -->
-

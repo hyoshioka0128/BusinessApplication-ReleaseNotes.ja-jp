@@ -1,23 +1,22 @@
 ---
-title: "職務とプロセスの管理"
-description: "職務とプロセスの管理"
+title: 職務とプロセスの管理
+description: 職務とプロセスの管理
 author: ShielaSogge
 manager: AnnBe
 ms.date: 07/22/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: shielas
 audience: end user
+ms.openlocfilehash: 0eab01fd217de4c1fe0843968749eb6bc12b76a5
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 187cbc075e41a59820a3244970fabd249afd42a0
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760393"
 ---
-
 # <a name="job-and-process-enhancements"></a>職務とプロセスの機能強化
 
 
@@ -41,4 +40,3 @@ Cloud
 ## Regional availability
 Global
 -->
-

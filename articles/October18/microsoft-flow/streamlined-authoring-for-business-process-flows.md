@@ -3,7 +3,7 @@ title: 業務プロセス フローの作成エクスペリエンスの効率化
 description: Microsoft Flow 業務プロセス フローの開始が簡単になりました。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/20/2019
+ms.date: 02/07/2019
 ms.assetid: dad6ed94-a501-e911-a978-000d3a137208
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: c68b0ff254d9127e9b4a654664eb956d0a11de3a
-ms.sourcegitcommit: 1de869f4ccb74ccc9b9cd26817e3d5c30734c3c3
+ms.openlocfilehash: e2d6c5e90809b852f519c490c10e64c26b180d4d
+ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "288913"
+ms.lasthandoff: 02/14/2019
+ms.locfileid: "391033"
 ---
 # <a name="streamlined-authoring-for-business-process-flows"></a>業務プロセス フローの作成エクスペリエンスの効率化
 

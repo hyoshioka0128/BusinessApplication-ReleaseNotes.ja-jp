@@ -1,4 +1,5 @@
 ---
+redirect_url: planned-features
 title: スーパーバイザー エクスペリエンス
 description: スーパーバイザー エクスペリエンス
 author: Annbe
@@ -11,12 +12,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: Annbe
 audience: Admin
-ms.openlocfilehash: 3be412768066905dc3b1b81dd2c45d1927b4dd92
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 40695b58a105971b95ccc2a005b92743ef945552
+ms.sourcegitcommit: 69bd97425af73a9f7ccc5c637d23936f149856a7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199437"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "373449"
 ---
 #  <a name="supervisor-experience"></a>スーパーバイザー エクスペリエンス
 

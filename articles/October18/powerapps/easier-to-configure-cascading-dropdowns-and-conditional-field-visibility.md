@@ -3,7 +3,7 @@ title: カスケード ドロップダウン リストの構成がより簡単�
 description: SharePoint フォーム カスタマイザーは、カスケード ドロップダウン リストなどの複雑なフォーム シナリオの完了に向いています。
 author: emcoope-msft
 ms.reviewer: anneta
-ms.date: 01/11/2019
+ms.date: 02/04/2019
 ms.assetid: 2e1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: emcoope
 audience: Power user
-ms.openlocfilehash: 2d9590905908ad693daa81bf3bf1383e1e15f50e
-ms.sourcegitcommit: abbfbdaff6d71a53e5dd36fecb6673080c49e5d6
+ms.openlocfilehash: 9ce6af0a59a5bf00332100f9aca77e2812ae8aab
+ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/26/2019
-ms.locfileid: "289974"
+ms.lasthandoff: 02/11/2019
+ms.locfileid: "379365"
 ---
 # <a name="easier-to-configure-cascading-drop-down-lists"></a>カスケード ドロップダウン リストの構成がより簡単に
 

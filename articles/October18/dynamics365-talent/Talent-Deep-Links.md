@@ -1,23 +1,22 @@
 ---
-title: "ディープ リンク"
-description: "この機能では、Dynamics 365 for Talent と Dynamics 365 for Finance and Operations の間の移動が提供されます。"
+title: ディープ リンク
+description: この機能では、Dynamics 365 for Talent と Dynamics 365 for Finance and Operations の間の移動が提供されます。
 author: DarinKramer
 manager: AnnBe
 ms.date: 09/28/2018
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: josaw
 audience: end user
+ms.openlocfilehash: ce2697fd592f7dfa9b7c2f53e302139181953ff7
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: aab5ef0d8a7d5bd944aa5bdaef545721320dfc97
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760372"
 ---
-
 # <a name="deep-links"></a>ディープ リンク
 
 
@@ -31,4 +30,3 @@ This feature is intended for all users, but is configured by system adminstrator
 ### Development status
 In development
 -->
-

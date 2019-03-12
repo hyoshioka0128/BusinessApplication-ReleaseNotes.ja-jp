@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../change-history#mixed-reality
 title: アクセシビリティの向上
 description: Dynamics 365 Layout および Dynamics 365 Import Tool (プレビュー) に対する 2018 年 10 月の更新プログラムでのアクセシビリティの向上。
 author: ornellaalt
@@ -7,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ornella
 ms.reviewer: v-brycho
-ms.openlocfilehash: 2de388b689427031630cc014f54d4709acda4802
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 38ea8b0064fe01bd068164fd3a70e8bc3e2d9a6d
+ms.sourcegitcommit: 980dc71b0e224fbb522252471a244278418a04b1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200014"
+ms.lasthandoff: 02/28/2019
+ms.locfileid: "771338"
 ---
 # <a name="accessibility-improvements"></a>アクセシビリティの向上
 

@@ -11,16 +11,16 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: jeffbl
 audience: Admin
-ms.openlocfilehash: ff68c91e9aa1121a3fe23306c3fafa14be83bd3a
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 736a998eb8b9625caa7abdb9b3b9e6f169cde1fc
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287274"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "392001"
 ---
 # <a name="mobile-pos-improvements"></a>モバイル POS の改善
 
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
 
 この機能には、モバイル POS アプリケーション内でのナビゲーションの向上が含まれており、ユーザーはモバイル デバイスで受注処理を実行できます。
 

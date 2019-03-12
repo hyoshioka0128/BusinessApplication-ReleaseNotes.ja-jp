@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../April19/dynamics365-retail/omni-channel-auto-charges
 title: オムニチャネル自動請求
 description: 自動請求がすべての小売チャネルで機能します。
 author: hhainesms
@@ -10,16 +11,15 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: hhainesms
 audience: ''
-ms.openlocfilehash: 7c3ee7600df9386cbf0b8c9e4221b23b164a97ee
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: a151d5cae28e9a3273fa6defc723cb755ad1d2b3
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199586"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "391980"
 ---
 # <a name="omni-channel-auto-charges"></a>オムニチャネル自動請求
 
-[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 小売業者は、購入品目の種類や注文に適用される出荷モードなど、販売注文の特性に基づいて顧客の販売取引に事前定義された料金を適用する機能を必要とします。 多くの場合、顧客に対するこれらの料金は、運送費に関連する追加料金です (ただし、他の料金に関連する場合もあります)。
 

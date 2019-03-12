@@ -1,24 +1,24 @@
 ---
-title: "OneDrive for Business のフロー起動パネル"
-description: "OneDrive for Business に、フローを実行するための埋め込みフロー エクスペリエンスが備わります"
+title: OneDrive for Business フロー起動パネル
+description: OneDrive for Business に、フローを実行するための埋め込みフロー エクスペリエンスが備わります
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
 ms.date: 02/07/2019
 ms.assetid: 23bd3e38-aa74-e811-a965-000d3a1362e3
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: stepsic
 audience: Power user
+ms.openlocfilehash: 4ab4f8407620c4145297d2b3677fb3de00cb3178
+ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
 ms.translationtype: HT
-ms.sourcegitcommit: f569a3691cc7c3ac3d76ea67aaef6a06ce12ceef
-ms.openlocfilehash: 3cf183f9ea228099b8d3af109dea5e492d416b33
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/27/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/14/2019
+ms.locfileid: "390956"
 ---
-# <a name="onedrive-for-business-flow-launch-panel"></a>OneDrive for Business のフロー起動パネル
+# <a name="onedrive-for-business-flow-launch-panel"></a>OneDrive for Business フロー起動パネル
 
 
 [!include[microsoft-flow banner](../includes/microsoft-flow.md)]

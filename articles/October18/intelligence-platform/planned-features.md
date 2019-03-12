@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: kvivek
 audience: Admin
-ms.openlocfilehash: 8f35f819801a3c8cabedc2d407506ff1ea787419
-ms.sourcegitcommit: 837d0b244af0c46ac2f5e84181ae3e6ec8533c40
+ms.openlocfilehash: ae1a37adeeb5ca1d852d94de58b95d3604b6fd88
+ms.sourcegitcommit: fa9d56b1c08609cbb97ca4275470d5166affb8e6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "291000"
+ms.lasthandoff: 02/27/2019
+ms.locfileid: "769852"
 ---
 # <a name="summary-of-whats-new-in-business-intelligence"></a>ビジネス インテリジェンスの新機能の概要
 
@@ -62,7 +62,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 > |[コンプライアンス対応マルチ地域 (Power BI Premium)](power-bi-service/premium-multi-geo-for-compliance.md)   |一般提供   |2019 年 3 月    |
 > |[大きなデータセットに対するクエリの迅速化 (Power BI Premium)](power-bi-service/query-acceleration-large-datasets.md)   |パブリック プレビュー   |2018 年 10 月    |
 > |[ページ付けされたレポート (Power BI Premium)](power-bi-service/rdl-reports.md)   |パブリック プレビュー   |2018 年 11 月 7 日    |
-> |[サードパーティ クライアント接続と監視のための XMLA エンドポイント](power-bi-service/xmla-endpoint.md)|パブリック プレビュー|2019 年 2 月|
+> |[サードパーティ クライアント接続と監視のための XMLA エンドポイント](power-bi-service/xmla-endpoint.md)|パブリック プレビュー|2019 年 3 月|
 > |[Q&A を使って関連する質問を行う](power-bi-service/qna-follow-up.md)  | 一般提供 | 2018 年 11 月        |
 > |[個人用ブックマーク](power-bi-service/personal-bookmarks.md)   |一般提供   |2018 年 12 月    |
 > |[埋め込みコードのセキュリティ保護](power-bi-service/secure-embed.md)   |一般提供   |2019 年 1 月    |

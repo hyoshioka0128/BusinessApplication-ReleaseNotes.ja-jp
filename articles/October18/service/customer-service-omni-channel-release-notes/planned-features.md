@@ -10,12 +10,12 @@ ms.assetid: 71908131-f7b7-e412-506f-17e5fbf0138f
 author: krbjoran
 ms.author: krbjoran
 manager: shellyhaverkamp
-ms.openlocfilehash: 87c17dc0958c3656f3917f5f9943a1bcbd2a28d9
-ms.sourcegitcommit: ec7924ecb67d29781917079ab15a41741aa7392d
+ms.openlocfilehash: 2077e74d6741470ae1cef8f1c9e09dda65728ed7
+ms.sourcegitcommit: 365db01dde7ccb5c763d209fedbc715d128b18a6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/21/2019
-ms.locfileid: "216880"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "376845"
 ---
 #  <a name="summary-of-whats-new-for-dynamics-365-omni-channel-engagement-hub"></a>Dynamics 365 Omni-channel Engagement Hub の新機能の概要
 
@@ -30,7 +30,6 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | 機能                                                                                  | リリースの種類   | 日付 |
 |------------------------------------------------------------------------------------------|----------------|----------------------|
 | [エージェント エクスペリエンス](agent-experience.md)                    | パブリック プレビュー | 2019 年 1 月         |
-| [スーパーバイザー エクスペリエンス](supervisor-experience.md)|プライベート プレビュー|2019 年 1 月|
 | [統合されたルーティングと作業の配分](unified-routing-work-distribution.md)          | パブリック プレビュー | 2019 年 1 月         |
 | [ライブ チャット チャネル](chat-channel-omni-channel-engagement-hub.md)                                | パブリック プレビュー | 2019 年 1 月         |
 | [SMS チャネル](sms-channel-omni-channel-engagement-hub.md)                                  | パブリック プレビュー | 2019 年 2 月         |

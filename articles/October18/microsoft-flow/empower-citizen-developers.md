@@ -3,7 +3,7 @@ title: 一般開発者の支援
 description: 一般開発者が Microsoft Flow を使用して信頼性の高い運用対応のソリューションを作成するために必要な主な機能を提供します。
 author: evchaki
 manager: KVivek
-ms.date: 01/17/2019
+ms.date: 02/07/2019
 ms.assetid: aa40ae4f-cf73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: evchaki
 audience: Power user
-ms.openlocfilehash: 11a2cb7f4acb00dd2763fe1456642e6e34e18d41
-ms.sourcegitcommit: 1de869f4ccb74ccc9b9cd26817e3d5c30734c3c3
+ms.openlocfilehash: f5842e226f39c27d06c1fd506a5da94c4b3146be
+ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "288906"
+ms.lasthandoff: 02/14/2019
+ms.locfileid: "391096"
 ---
 # <a name="empower-citizen-developers"></a>一般開発者の支援
 
