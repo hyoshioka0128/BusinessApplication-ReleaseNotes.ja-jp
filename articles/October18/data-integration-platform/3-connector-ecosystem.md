@@ -1,27 +1,27 @@
 ---
-title: 強化され、より統合されたコネクターと開発者エコシステム
-description: 強化され、より統合されたコネクターと開発者エコシステム
+title: "強化され、より統合されたコネクターと開発者エコシステム"
+description: "強化され、より統合されたコネクターと開発者エコシステム"
 author: shellyhaverkamp
 manager: AnnBe
 ms.date: 8/16/2018
 ms.assetid: 64dd4753-dced-47af-8087-0a75f48a4a2d
 ms.topic: article
-ms.prod: ''
+ms.prod: 
 ms.service: business-applications
-ms.technology: ''
+ms.technology: 
 ms.author: tpalmer
 audience: Admin
-ms.openlocfilehash: 732fe2f8548ec752acd561e21d33e7a8c3b935b8
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199276"
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 732fe2f8548ec752acd561e21d33e7a8c3b935b8
+ms.contentlocale: ja-jp
+ms.lasthandoff: 10/26/2018
+
 ---
 #  <a name="richer-and-more-unified-connector-and-developer-ecosystem"></a>強化され、より統合されたコネクターと開発者エコシステム
 
 
-[!include[banner](../../includes/banner.md)]
+
 
 データ統合とそれがサポートする製品スイートの重要な要素の一つに、外部データ ソースに対する接続性があります。 Microsoft では、エンタープライズ レベルのデータ ソースのセットに引き続き投資していますが、多くのユーザーがそのセット以外にも依存するようになっているデータベースやサービスが増えています。 必要なデータにユーザーが接続できるよう、プラットフォーム全体の拡張性ポイントに引き続き投資しています。
 
@@ -50,4 +50,5 @@ ms.locfileid: "199276"
 - コネクタは、対象プラットフォームのビジネス ユーザー シナリオをサポートしている。
 
 詳細については、[コネクタ認定プログラム](https://aka.ms/connector-certification)をご覧ください。
+
 
