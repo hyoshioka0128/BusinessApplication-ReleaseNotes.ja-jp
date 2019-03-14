@@ -12,16 +12,16 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 6c35a192a2448abc017e61d28ae2937c040f477c
+ms.sourcegitcommit: 66a64e8d3cd3553f34c17de1123e4573753ec8e9
+ms.openlocfilehash: 4d49535723c64b6facb243e05c2ba009957c8abb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 03/14/2019
 
 ---
 #  <a name="enterprise-grade-hybrid-connectivity-using-the-on-premises-data-gateway"></a><span data-ttu-id="dfec6-103">オンプレミス データ ゲートウェイを使用したエンタープライズ レベルのハイブリッド接続</span><span class="sxs-lookup"><span data-stu-id="dfec6-103">Enterprise-grade hybrid connectivity using the on-premises data gateway</span></span>
 
 
-[!include[banner](../../includes/banner.md)]
+
 
 <span data-ttu-id="dfec6-104">このリリースには、オンプレミス データ ゲートウェイを向上するための複数の更新が含まれます。</span><span class="sxs-lookup"><span data-stu-id="dfec6-104">This release includes multiple updates around improving the on-premises data gateway.</span></span>
 
