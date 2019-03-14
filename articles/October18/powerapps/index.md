@@ -3,21 +3,16 @@ title: Microsoft PowerApps
 description: PowerApps は、ブラウザー、携帯電話、タブレットで実行されるビジネス アプリを、コーディングなしで作成できるようにするサービスです。
 author: evchaki
 manager: KVivek
-ms.date: 12/11/2018
+ms.date: 01/25/2019
 ms.assetid: fd8f05b1-8b41-e811-a954-000d3a15a7d1
 ms.topic: overview
-ms.prod: ''
+ms.prod: null
 ms.service: business-applications
-ms.technology: ''
+ms.technology: null
 ms.author: evchaki
 audience: Power user
-ms.openlocfilehash: 841245b9832819d4fb46118612804a552bb53fce
-ms.sourcegitcommit: 4516c399d430cc569513d46822c70670809fe5c6
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 01/12/2019
-ms.locfileid: "202068"
 ---
+
 # <a name="overview-of-microsoft-powerapps-october-18-release"></a>Microsoft PowerApps 2018 年 10 月リリースの概要
 
 PowerApps は、ブラウザー、携帯電話、タブレットで実行されるビジネス アプリを、コーディングなしで作成できるようにするサービスです。 PowerApps の[ドキュメント](https://docs.microsoft.com/powerapps/)では、PowerApps のさまざまな使用ニーズに対応した、専門的な情報や回答が提供されています。

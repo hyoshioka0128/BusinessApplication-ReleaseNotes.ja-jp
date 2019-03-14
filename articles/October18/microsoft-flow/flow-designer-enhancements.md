@@ -3,7 +3,7 @@ title: 新しい Microsoft Flow ポータルとデザイナー エクスペリ�
 description: デザイナーの内部でのナビゲーションおよび検索アクション用の新しい Microsoft Flow エクスペリエンス。
 author: sunayv
 ms.reviewer: deonhe
-ms.date: 01/20/2019
+ms.date: 02/07/2019
 ms.assetid: 4f7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: sunayv
 audience: Power user
-ms.openlocfilehash: 20ab57ca70b1d9c1a3faadbb749e74df2af14243
-ms.sourcegitcommit: 1de869f4ccb74ccc9b9cd26817e3d5c30734c3c3
+ms.openlocfilehash: e99034dccfaf2f9aa93b8030dbdd42ef02a1f831
+ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "288632"
+ms.lasthandoff: 02/14/2019
+ms.locfileid: "391068"
 ---
 # <a name="new-microsoft-flow-portal-and-designer-experience"></a>新しい Microsoft Flow ポータルとデザイナー エクスペリエンス
 
@@ -57,8 +57,6 @@ Microsoft Flow ポータルには、さまざまな重要ページを見つけ�
 
 ![アクションの選択](media/flow-ui-enhancements-4.png "アクションの選択")
 
-
 すべての**コントロール** アクションをこのダイアログにまとめたので、依然として**条件**をすぐに選択できます。 **コントロール** コネクタを検索または選択して、Apply to Each やスコープのような他の制御フローの概念にアクセスできます。
 
 ![コントロール コネクタ](media/flow-ui-enhancements-5.png "コントロール コネクタ")
-

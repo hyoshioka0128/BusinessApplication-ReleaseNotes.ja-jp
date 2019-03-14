@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: josaw
 audience: Admin
-ms.openlocfilehash: a2316aaa4a9dca462a63195366ae36a37fbdcbf8
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: da4226ec11bb2763cbff2b5b8a33e4b837390220
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199629"
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760309"
 ---
 #  <a name="attract"></a>Attract
 

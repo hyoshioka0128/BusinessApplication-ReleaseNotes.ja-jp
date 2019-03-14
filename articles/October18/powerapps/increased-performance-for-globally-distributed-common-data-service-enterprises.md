@@ -1,24 +1,24 @@
 ---
-title: "グローバルに分散したアプリ用 Common Data Service エンタープライズのパフォーマンスの向上"
-description: "アプリ用 Common Data Service を使用するグローバル企業のための機能強化"
+title: グローバルに分散した Common Data Service for Apps エンタープライズのパフォーマンスの向上
+description: Common Data Service for Apps を使用するグローバル企業のための機能強化
 author: RichdiMSFT
 ms.reviewer: mkaur
 ms.date: 02/04/2019
 ms.assetid: 9b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: RICHDI
 audience: Power user
+ms.openlocfilehash: f2cf49d12ec9b7297c18861761c828ce52f42aef
+ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 4e92e33422595af6705d1fdaf1e22e870e93cdb4
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/11/2019
+ms.locfileid: "379162"
 ---
-# <a name="increased-performance-for-globally-distributed-common-data-service-for-apps-enterprises"></a>グローバルに分散したアプリ用 Common Data Service エンタープライズのパフォーマンスの向上
+# <a name="increased-performance-for-globally-distributed-common-data-service-for-apps-enterprises"></a>グローバルに分散した Common Data Service for Apps エンタープライズのパフォーマンスの向上
 
 
 

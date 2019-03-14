@@ -3,7 +3,7 @@ title: ソリューションを使用したフローの ALM の向上
 description: ソリューションには、キャンバス アプリ、およびモデル駆動型アプリ、フロー、他のコンポーネントを含めることができます。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/17/2019
+ms.date: 02/07/2019
 ms.assetid: 66861f2b-56e1-e811-a976-000d3a137a43
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: b511c921f16b4f87aa6a088f52ae6fe4776553f2
-ms.sourcegitcommit: 1de869f4ccb74ccc9b9cd26817e3d5c30734c3c3
+ms.openlocfilehash: 71635b2f4f0ae7f56975a911f7fecdf76d11b968
+ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "288997"
+ms.lasthandoff: 02/14/2019
+ms.locfileid: "391047"
 ---
 # <a name="improved-alm-for-flows-with-solutions"></a>ソリューションを使用したフローの ALM の向上
 
@@ -39,14 +39,11 @@ Microsoft は最近、PowerApps と Microsoft Flow の新しいアプリケー�
 
 **ソリューション**を選択すると、環境内のすべてのソリューションのリストが表示されます。 このエクスペリエンスの一部として、ソリューションが作成された**日付**、**バージョン**、およびソリューションに関するその他の詳細を確認できます。
 
-
 ![ソリューションの参照](media/improve-alm-solutions/solutions-2-solutionsexplorer.png "ソリューションの参照")
-
 
 ## <a name="creating-a-new-solution"></a>新しいソリューションの作成
 
 フローをグループ化する新しいソリューションを作成するには、ソリューション エクスペリエンスから、**新しいソリューション** ボタンを選択します。
-
 
 ![新しいソリューション](media/improve-alm-solutions/solutions-3-newsolution.png "新しいソリューション")
 
@@ -54,17 +51,13 @@ Microsoft は最近、PowerApps と Microsoft Flow の新しいアプリケー�
 
 ![ソリューションの保存](media/improve-alm-solutions/solutions-4-savesolution.png "ソリューションの保存")
 
-
 ## <a name="adding-flows-to-a-solution"></a>ソリューションへのフローの追加
 
 ソリューション エクスペリエンスから、新しく作成したソリューションを選択して、既定のビューに移動できます。 状況に応じたメニューが表示され、**新規**および**既存**の資産をソリューションに追加できます。 ソリューションに新しいフローを追加するには、**新規 – フロー**を選択します。
 
-
 ![新しいフロー](media/improve-alm-solutions/solutions-5-newflow.png "新しいフロー")
 
-
 新しいタブが開いてフロー デザイナーが表示され、フローを構築して、関連するトリガーとアクションを追加することができます。 フローの編集が完了したら、**保存**を選択してフローを保存します。
-
 
 ![フローの保存](media/improve-alm-solutions/solutions-6-saveflow.png "フローの保存")
 
@@ -76,21 +69,17 @@ Microsoft は最近、PowerApps と Microsoft Flow の新しいアプリケー�
 
 ![複数のフロー](media/improve-alm-solutions/solutions-8-multipleflows.png "複数のフロー")
 
-
 ## <a name="exporting-your-solution"></a>ソリューションのエクスポート
 
 ALM の重要な特徴は、最初にサンドボックスまたはテスト環境でフローが動作することを検証した後、単一のアクションで、フローを実稼働環境に移動できることです。 ソリューションをエクスポートするには、**ソリューション** エクスペリエンスでソリューションを探し、**…** を選択し、**エクスポート**を選択した後、**アンマネージドとして**を選択します。
 
-
 ![エクスポート](media/improve-alm-solutions/solutions-9-export.png "エクスポート")
-
 
 **アンマネージドとして**を選択すると、ローカルにダウンロードして保存できる zip ファイルが用意されます。
 
 ## <a name="importing-your-solution"></a>ソリューションのインポート
 
 ソリューションをエクスポートすると、実稼働環境などの別の環境にソリューションをインポートできるようになります。 環境ピッカーで実稼働環境を選択すると、**インポート**を選択することでパッケージのインポートを選択できます。
-
 
 ![インポート](media/improve-alm-solutions/solutions-10-import.png "インポート")
 
@@ -102,16 +91,13 @@ ALM の重要な特徴は、最初にサンドボックスまたはテスト環�
 
 ![インポートされた新しいソリューション](media/improve-alm-solutions/solutions-12-newsolution.png "インポートされた新しいソリューション")
 
-
 ## <a name="configuring-and-enabling-your-solution"></a>ソリューションの構成と有効化
 
 ソリューションをインポートした後は、実行する必要があるアクティビティがいくつかあります。
 
 - インポートした各フローについて、トリガーとアクションに対する接続を設定する必要があります。
 
-
   ![接続](media/improve-alm-solutions/solutions-13-connections.png "接続")
-
 
 - 既定では、インポートされたフローはまだ接続を確立する必要があるため、無効な状態になっています。 接続を確立してフローを保存すると、フローがアクティブになります。
 

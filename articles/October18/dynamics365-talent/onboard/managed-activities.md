@@ -1,22 +1,22 @@
 ---
-title: "マネージド アクティビティ"
-description: "マネージド アクティビティ"
+title: マネージド アクティビティ
+description: マネージド アクティビティ
 author: tbisaacs
 manager: tbisaacs
 ms.date: 07/22/2018
-ms.assetid: 
+ms.assetid: ''
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: tbisaacs
 audience: end user
+ms.openlocfilehash: deb1afee81e8a2c6782f85ba0978aa4f2d64ec1e
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 16c1f0dcce4341892246edaf46e62172b44bda19
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760512"
 ---
 #  <a name="managed-activities"></a>マネージド アクティビティ
 
@@ -37,4 +37,3 @@ In development
 ## Target timeframe
 Public Preview: July
 -->
-

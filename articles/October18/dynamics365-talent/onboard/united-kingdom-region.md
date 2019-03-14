@@ -10,15 +10,15 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: hasrivas
 audience: end user
-ms.openlocfilehash: 243995869f45793daceac6c15b3fe597a1377b0b
-ms.sourcegitcommit: f1eb4e8c7a7273633026d068f3ed8acd577abe0b
+ms.openlocfilehash: 3b61b523830c6913ae4a4f54e90c8657bbebcca0
+ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/26/2019
-ms.locfileid: "290214"
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760435"
 ---
 # <a name="united-kingdom-region"></a>英国地域
 
-[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
 
 2019 年 2 月より、Microsoft Dynamics 365 for Talent で英国地域が利用可能になります。 つまり、ユーザーは英国地域内に環境を作成できるようになり、すべての Talent データが英国内だけで保持されるようになります。 **新しい環境**ダイアログでオプションを選択することにより、英国地域に環境を作成できます。
