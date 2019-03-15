@@ -1,41 +1,50 @@
 ---
 title: デザイナーの機能強化
-description: Visual Studio Code が付属するデザイナーで、ページ上のコンテンツをさらに調整します。
+description: Visual Studio Code が付属するデザイナーでは、アクション、リスト ビュー、フィールドの重要度、簡単入力など、いっそう多くのコンテンツをページ上で調整できます。
 author: mikebcMSFT
 ms.reviewer: edupont
-ms.date: 01/21/2019
+ms.date: 02/25/2019
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
 ms.author: mikebc
 audience: developer, customizer
-ms.openlocfilehash: cf3322d0e48265804ee77fe1aa90dcc3027894c6
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: e30845ac756e5e136b59a5cbff7c1db3e59dd658
+ms.sourcegitcommit: 92b7053f06513207fc880a7ce9dabb00b4df5816
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210966"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "723646"
 ---
-# <a name="designer-enhancements-for-developers"></a><span data-ttu-id="f3caf-103">開発者向けデザイナーの機能強化</span><span class="sxs-lookup"><span data-stu-id="f3caf-103">Designer enhancements for developers</span></span>
+# <a name="designer-enhancements-for-developers"></a><span data-ttu-id="01618-103">開発者向けデザイナーの機能強化</span><span class="sxs-lookup"><span data-stu-id="01618-103">Designer enhancements for developers</span></span>
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-<span data-ttu-id="f3caf-104">デザイナーは Visual Studio Code が付属しており、開発者がページ オブジェクトのビジュアル コンテンツをテストしてすばやく調整するための便利な方法です。</span><span class="sxs-lookup"><span data-stu-id="f3caf-104">The Designer accompanies Visual Studio Code and is a convenient way for developers to test and rapidly adjust visual content on page objects.</span></span> <span data-ttu-id="f3caf-105">次のような最も要求の多い機能のいくつかを使用してデザイナーを強化しました。</span><span class="sxs-lookup"><span data-stu-id="f3caf-105">We've enriched the Designer with some of the most requested features, including:</span></span>
+<span data-ttu-id="01618-104">デザイナーは Visual Studio Code が付属しており、開発者がページ オブジェクトのビジュアル コンテンツをテストしてすばやく調整するための便利な方法です。</span><span class="sxs-lookup"><span data-stu-id="01618-104">The Designer accompanies Visual Studio Code and is a convenient way for developers to test and rapidly adjust visual content on page objects.</span></span>
 
-- <span data-ttu-id="f3caf-106">デザイナーでは、テスト環境に展開されたすべての拡張機能に対する依存関係が自動的に追加されなくなりました。</span><span class="sxs-lookup"><span data-stu-id="f3caf-106">The Designer no longer automatically adds dependencies to all deployed extensions on the test environment.</span></span> <span data-ttu-id="f3caf-107">デザイナーを終了するとき、依存関係が取得されなかった拡張機能は暗黙のうちに除外されます。</span><span class="sxs-lookup"><span data-stu-id="f3caf-107">When exiting the Designer, extensions upon which no dependency was taken are silently filtered out.</span></span>
-- <span data-ttu-id="f3caf-108">フィールドの重要度と簡単入力を微調整します。</span><span class="sxs-lookup"><span data-stu-id="f3caf-108">Fine-tune field importance and Quick Entry.</span></span>
-- <span data-ttu-id="f3caf-109">アクション バーのアクションとナビゲーション バーのリストの並べ替え、非表示化、再グループ化を行って調整します。</span><span class="sxs-lookup"><span data-stu-id="f3caf-109">Adjust the Action Bar and Navigation Bar on your page by reordering, hiding or regrouping actions and lists respectively.</span></span>
-- <span data-ttu-id="f3caf-110">特定のフィルターと並べ替え順序を含む名前付きビューを作成することにより、リストのバリエーションを定義します。</span><span class="sxs-lookup"><span data-stu-id="f3caf-110">Define variations of your lists by creating named views that include specific filters and sort order.</span></span>
+<span data-ttu-id="01618-105">デザイナーでは、テスト環境に展開されたすべての拡張機能に対する依存関係が自動的に追加されなくなりました。</span><span class="sxs-lookup"><span data-stu-id="01618-105">Designing no longer automatically adds dependencies to all deployed extensions on the test environment.</span></span> <span data-ttu-id="01618-106">デザイナーを終了するとき、依存関係が取得されなかった拡張機能は暗黙のうちに削除されます。</span><span class="sxs-lookup"><span data-stu-id="01618-106">When exiting the Designer, extensions upon which no dependency was taken are silently removed.</span></span>
 
-## <a name="designing-quick-entry"></a><span data-ttu-id="f3caf-111">簡単入力の設計</span><span class="sxs-lookup"><span data-stu-id="f3caf-111">Designing Quick Entry</span></span>
-<span data-ttu-id="f3caf-112">簡単入力はデスクトップ ユーザーにとって生産性の高い機能であり、レコードの繰り返し入力に要する時間を短縮します。</span><span class="sxs-lookup"><span data-stu-id="f3caf-112">Quick Entry is a productivity feature for desktop users that accelerates repetitive entry of records.</span></span> <span data-ttu-id="f3caf-113">フィールドで Enter キーを押すと、フォーカスは次の編集可能な簡単入力フィールドまたはセルに移動します。常に必要ではないフィールドまたは自動入力されるフィールドはスキップされます。</span><span class="sxs-lookup"><span data-stu-id="f3caf-113">When the Enter key is pressed on a field, the focus moves to the next editable Quick Entry field or cell, skipping over other fields that are not always needed or are auto-filled.</span></span> <span data-ttu-id="f3caf-114">任意のフィールドのメニューを使用して、デザイナーの簡単入力パスのフィールドを含めたり除外したりすることができ、ページ全体で変更の結果をすぐにテストできます。</span><span class="sxs-lookup"><span data-stu-id="f3caf-114">You can include or exclude fields from the Quick Entry path in the Designer using the menu on any field, and immediately test the outcome of your changes across the page.</span></span> <span data-ttu-id="f3caf-115">これは、Visual Studio Code で簡単入力を微調整するよりはるかに効率的です。</span><span class="sxs-lookup"><span data-stu-id="f3caf-115">This is far more efficient than fine-tuning Quick Entry in Visual Studio Code.</span></span>
+## <a name="designing-actions"></a><span data-ttu-id="01618-107">設計アクション</span><span class="sxs-lookup"><span data-stu-id="01618-107">Designing actions</span></span>
+<span data-ttu-id="01618-108">リスト、ワークシート、カード、またはドキュメント ページを拡張するときは、デザイナーを使用してページ アクションのレイアウトを微調整します。</span><span class="sxs-lookup"><span data-stu-id="01618-108">When extending a list, worksheet, card or document page, use the Designer to make minor adjustments to the layout of page actions.</span></span> <span data-ttu-id="01618-109">関係のないアクションを隠したり、グループ間でアクションを移動したり、グループを隠したり並べ替えたりします。</span><span class="sxs-lookup"><span data-stu-id="01618-109">Hide away actions that are not relevant, move actions across groups and hide or re-order groups.</span></span> <span data-ttu-id="01618-110">繊細なビジュアル インジケーターは、Business Central の 2019 年 4 月のリリースで何が可能であるかを開発者にガイドします。</span><span class="sxs-lookup"><span data-stu-id="01618-110">Subtle visual indicators guide developers to what is possible with the April '19 release of Business Central.</span></span>
 
-## <a name="designing-field-importance"></a><span data-ttu-id="f3caf-116">フィールドの重要度の設計</span><span class="sxs-lookup"><span data-stu-id="f3caf-116">Designing field importance</span></span>
-<span data-ttu-id="f3caf-117">たまにしか必要とされないフィールドもあれば、ビジネス ユーザーが毎回参照する必要がある重要なフィールドもあります。</span><span class="sxs-lookup"><span data-stu-id="f3caf-117">Some fields are only needed occasionally, while others are so important that business users need them visible at all times.</span></span> <span data-ttu-id="f3caf-118">フィールドを移動、非表示化、追加する機能に加えて、デザイナーでは、開発者は視覚的でインタラクティブな方法でフィールドの重要度プロパティを微調整することもできるようになります。</span><span class="sxs-lookup"><span data-stu-id="f3caf-118">Along with the ability to move, hide, and add fields, the Designer now also allows developers to fine-tune a field's Importance property in a highly visual and interactive way.</span></span>
+## <a name="designing-quick-entry"></a><span data-ttu-id="01618-111">簡単入力の設計</span><span class="sxs-lookup"><span data-stu-id="01618-111">Designing Quick Entry</span></span>
+<span data-ttu-id="01618-112">簡単入力はデスクトップ ユーザーにとって生産性の高い機能であり、レコードの繰り返し入力に要する時間を短縮します。</span><span class="sxs-lookup"><span data-stu-id="01618-112">Quick Entry is a productivity feature for desktop users that accelerates repetitive entry of records.</span></span> <span data-ttu-id="01618-113">フィールドで Enter キーを押すと、フォーカスは次の編集可能な簡単入力フィールドまたはセルに移動します。常に必要ではないフィールドまたは自動入力されるフィールドはスキップされます。</span><span class="sxs-lookup"><span data-stu-id="01618-113">When the Enter key is pressed on a field, the focus moves to the next editable Quick Entry field or cell, skipping over other fields that are not always needed or are auto-filled.</span></span> <span data-ttu-id="01618-114">任意のフィールドのメニューを使用して、デザイナーの簡単入力パスのフィールドを含めたり除外したりすることができ、ページ全体で変更の結果をすぐにテストできます。</span><span class="sxs-lookup"><span data-stu-id="01618-114">You can include or exclude fields from the Quick Entry path in the Designer using the menu on any field, and immediately test the outcome of your changes across the page.</span></span> <span data-ttu-id="01618-115">これは、Visual Studio Code で簡単入力を微調整するよりはるかに効率的です。</span><span class="sxs-lookup"><span data-stu-id="01618-115">This is far more efficient than fine-tuning Quick Entry in Visual Studio Code.</span></span>
 
+## <a name="designing-field-importance"></a><span data-ttu-id="01618-116">フィールドの重要度の設計</span><span class="sxs-lookup"><span data-stu-id="01618-116">Designing field importance</span></span>
+<span data-ttu-id="01618-117">たまにしか必要とされないフィールドもあれば、ビジネス ユーザーが毎回参照する必要がある重要なフィールドもあります。</span><span class="sxs-lookup"><span data-stu-id="01618-117">Some fields are only needed occasionally, while others are so important that business users need them visible at all times.</span></span> <span data-ttu-id="01618-118">フィールドを移動、非表示化、追加する機能に加えて、デザイナーでは、開発者は視覚的でインタラクティブな方法でフィールドの重要度プロパティを微調整することもできるようになります。</span><span class="sxs-lookup"><span data-stu-id="01618-118">Along with the ability to move, hide, and add fields, the Designer now also allows developers to fine-tune a field's Importance property in a highly visual and interactive way.</span></span>
 
-## <a name="tell-us-what-you-think"></a><span data-ttu-id="f3caf-119">フィードバック</span><span class="sxs-lookup"><span data-stu-id="f3caf-119">Tell us what you think</span></span>
-<span data-ttu-id="f3caf-120">Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。</span><span class="sxs-lookup"><span data-stu-id="f3caf-120">Help us improve Dynamics 365 Business Central by discussing ideas, providing suggestions, and giving feedback.</span></span> <span data-ttu-id="f3caf-121">Business Central フォーラム ([https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas)) をご利用ください。</span><span class="sxs-lookup"><span data-stu-id="f3caf-121">Use the Business Central forum at [https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas).</span></span>
+## <a name="designing-list-views"></a><span data-ttu-id="01618-119">リスト ビューの設計</span><span class="sxs-lookup"><span data-stu-id="01618-119">Designing list views</span></span>
+<span data-ttu-id="01618-120">2019 年 4 月の更新後間もなく利用可能になり、開発者は拡張機能内でリスト ページの代替ビューを設計することができるようになります。</span><span class="sxs-lookup"><span data-stu-id="01618-120">Available shortly after the April '19 update, developers will be able to design alternate views of list pages within extensions.</span></span> <span data-ttu-id="01618-121">テスト データを使用してリアルタイムでフィルターを作成、テスト、調整してから、ビューを拡張機能に保存します。</span><span class="sxs-lookup"><span data-stu-id="01618-121">Author, test, and refine filters using your test data in real time and then save the view to your extension.</span></span> <span data-ttu-id="01618-122">デザイナーを使用すると、個々のビューごとの特定の列レイアウトや列の並べ替えのの設計など、顧客からのより要求の厳しい要件も簡単に満たすことができます。</span><span class="sxs-lookup"><span data-stu-id="01618-122">The Designer also makes it easy to satisfy the more demanding requirements from your customers, including designing specific column layouts and column sorting for each individual view.</span></span>
+
+<span data-ttu-id="01618-123">詳細については、「[リスト ビュー](list-views.md)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="01618-123">For additional information, see [List Views](list-views.md).</span></span>
+
+## <a name="designing-the-navigation-bar"></a><span data-ttu-id="01618-124">ナビゲーション バーの設計</span><span class="sxs-lookup"><span data-stu-id="01618-124">Designing the navigation bar</span></span>
+<span data-ttu-id="01618-125">Business Central に対する 2019 年 4 月の更新の後、今年後半には、開発者はナビゲーション リンクやリンクのグループを各ロール センター ページで直接設計できるようになります。</span><span class="sxs-lookup"><span data-stu-id="01618-125">Coming later this year after the April '19 update to Business Central, developers will be able to design navigation links and groups of links directly on each role center page.</span></span> <span data-ttu-id="01618-126">空のナビゲーション バーから始めて、リストをピン留めし、よく使用されるテーブルへのリンクのセットを構築します。</span><span class="sxs-lookup"><span data-stu-id="01618-126">Start with an empty navigation bar and pin any list to build up the set of links to commonly-used tables.</span></span>
+<span data-ttu-id="01618-127">詳しくは、「[ロール センターの設計](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-designing-role-centers)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="01618-127">Learn more about [Designing Role Centers](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-designing-role-centers)</span></span>
+
+## <a name="tell-us-what-you-think"></a><span data-ttu-id="01618-128">フィードバック</span><span class="sxs-lookup"><span data-stu-id="01618-128">Tell us what you think</span></span>
+<span data-ttu-id="01618-129">Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。</span><span class="sxs-lookup"><span data-stu-id="01618-129">Help us improve Dynamics 365 Business Central by discussing ideas, providing suggestions, and giving feedback.</span></span> <span data-ttu-id="01618-130">Business Central フォーラム ([https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas)) をご利用ください。</span><span class="sxs-lookup"><span data-stu-id="01618-130">Use the Business Central forum at [https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas).</span></span>
+
 
 <!--
 
@@ -79,8 +88,7 @@ To get started with model‑driven apps, use designers to:
 - Add dashboards. Include model‑driven dashboards or embedded Power BI content within your app.
 - Include entities and components. Add specific forms, views, dashboards, and charts for targeted entities to craft your user experience.
 
-> [!div class="mx-imgBorder"] 
-> ![Photograph of a man using a Hololens to view augmented reality in Connected Field Service](/articles/Spring18/media/507e34a661a1b831d21ea3dadda9c6cf.jpg "Field Service IoT") 
+![Photograph of a man using a Hololens to view augmented reality in Connected Field Service](/articles/Spring18/media/507e34a661a1b831d21ea3dadda9c6cf.jpg "Field Service IoT") 
 
 ## Compliance, privacy and security considerations
 List any compliance, privacy and security considerations that customers should plan for, including any steps or tools provided to help customers comply with GDPR. 

@@ -7,20 +7,19 @@ ms.reviewer: kamaybac
 ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
-ms.openlocfilehash: 1dfc1333247df0377f70d8f7f530917e7cc7689e
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: f8a523a5e63f49396bd4271f6e4d8db8239fb7a2
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211038"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286218"
 ---
-# <a name="social-posting"></a><span data-ttu-id="73597-103">ソーシャル投稿</span><span class="sxs-lookup"><span data-stu-id="73597-103">Social posting</span></span>
+# <a name="social-posting"></a><span data-ttu-id="c2f3a-103">ソーシャル投稿</span><span class="sxs-lookup"><span data-stu-id="c2f3a-103">Social posting</span></span>
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
 
-<span data-ttu-id="73597-104">複数のチャンネル用のソーシャル コンテンツを作成し、キャンペーン全体と同期して Web で公開されるようにソーシャル投稿をスケジュールします。</span><span class="sxs-lookup"><span data-stu-id="73597-104">Create social content for multiple channels and schedule social posts to hit the web in sync with your overall campaign.</span></span> <span data-ttu-id="73597-105">これにより、単一のプラットフォームを使用して、チャンネル間で対象者のコミュニケーションを同期させることができます。</span><span class="sxs-lookup"><span data-stu-id="73597-105">This lets you synchronize audience communication across channels using a single platform.</span></span>
+<span data-ttu-id="c2f3a-104">複数のチャンネル用のソーシャル コンテンツを作成し、キャンペーン全体と同期して Web で公開されるようにソーシャル投稿をスケジュールします。</span><span class="sxs-lookup"><span data-stu-id="c2f3a-104">Create social content for multiple channels and schedule social posts to hit the web in sync with your overall campaign.</span></span> <span data-ttu-id="c2f3a-105">これにより、単一のプラットフォームを使用して、チャンネル間で対象者のコミュニケーションを同期させることができます。</span><span class="sxs-lookup"><span data-stu-id="c2f3a-105">This lets you synchronize audience communication across channels using a single platform.</span></span>
 
-<span data-ttu-id="73597-106">ソーシャル投稿は、Twitter を初めとして、ソーシャル メディア サイトに投稿するときに動的コンテンツを使用できる新しい発信活動によって実現されます。</span><span class="sxs-lookup"><span data-stu-id="73597-106">Social posting is enabled by a new outbound activity that can use dynamic content when posting on social media sites, starting with Twitter.</span></span> <span data-ttu-id="73597-107">今後も徐々にチャンネルを追加していきます。</span><span class="sxs-lookup"><span data-stu-id="73597-107">We will be adding more channels over time.</span></span>
+<span data-ttu-id="c2f3a-106">ソーシャル投稿は、Twitter や Facebook を初めとして、ソーシャル メディア サイトのアカウントに直接投稿できる新しい発信活動によって実現されます。</span><span class="sxs-lookup"><span data-stu-id="c2f3a-106">Social posting is enabled by a new outbound activity that can post directly to your accounts on social-media sites, starting with Twitter and Facebook.</span></span> <span data-ttu-id="c2f3a-107">今後も徐々にチャンネルを追加していきます。</span><span class="sxs-lookup"><span data-stu-id="c2f3a-107">We will be adding more channels over time.</span></span>
 
-> [!div class="mx-imgBorder"]
-> <span data-ttu-id="73597-108">![ソーシャル投稿](media/socialposting.png "ソーシャル投稿")</span><span class="sxs-lookup"><span data-stu-id="73597-108">![Social posting](media/socialposting.png "Social posting")</span></span>
+<span data-ttu-id="c2f3a-108">![ソーシャル投稿](media/socialposting.png "ソーシャル投稿")</span><span class="sxs-lookup"><span data-stu-id="c2f3a-108">![Social posting](media/socialposting.png "Social posting")</span></span>

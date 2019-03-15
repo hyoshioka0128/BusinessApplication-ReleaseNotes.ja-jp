@@ -1,7 +1,7 @@
 ---
 title: コンテキスト検索エクスペリエンスの改善
 description: 操作アシスト ウィンドウの機能強化。
-author: blazkote
+author: kotelko
 ms.reviewer: edupont
 ms.date: 01/21/2019
 ms.topic: article
@@ -10,24 +10,29 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: blazkote
 audience: developer, end user
-ms.openlocfilehash: b1957757d09d66f622688fcd66f5dbd9eb35149f
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 3b5f0573d7499e283916a8f77479c259f40dec41
+ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210459"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "404502"
 ---
-# <a name="improved-contextual-search-experience"></a><span data-ttu-id="d87ea-103">コンテキスト検索エクスペリエンスの改善</span><span class="sxs-lookup"><span data-stu-id="d87ea-103">Improved contextual search experience</span></span>
+# <a name="improved-contextual-search-experience"></a><span data-ttu-id="e2cc4-103">コンテキスト検索エクスペリエンスの改善</span><span class="sxs-lookup"><span data-stu-id="e2cc4-103">Improved contextual search experience</span></span>
 
-<span data-ttu-id="d87ea-104">Microsoft では、AppSource でより柔軟な用語を使用してパートナー ソリューションを検索できるようにすることで、操作アシスト (Alt+Q) 機能を改善しました。</span><span class="sxs-lookup"><span data-stu-id="d87ea-104">We have improved the Tell me (Alt+Q) feature by allowing more flexible terms and surfacing results for partner solutions on AppSource.</span></span> <span data-ttu-id="d87ea-105">これによりユーザーは、パートナー コミュニティから入手できる幅広いソリューションの中から目的に合うソリューションを探し、Business Central を簡単に拡張できるようになります。</span><span class="sxs-lookup"><span data-stu-id="d87ea-105">This allows users to seek help and easily extend Business Central with the many solutions that are available from the partner community.</span></span>
-
-# <a name="additional-search-terms"></a><span data-ttu-id="d87ea-106">追加の検索語</span><span class="sxs-lookup"><span data-stu-id="d87ea-106">Additional search terms</span></span>
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
-<span data-ttu-id="d87ea-107">新規ユーザーの場合は、Business Central にある関連エンティティの名前とは異なるビジネス用語を使用することがよくあります。</span><span class="sxs-lookup"><span data-stu-id="d87ea-107">New users often use different business terms than those used to name the related entities in Business Central.</span></span> <span data-ttu-id="d87ea-108">たとえば、"項目" ではなく "製品" を使用したり、"顧客" ではなく "クライアント" を使用したりすることがあります。</span><span class="sxs-lookup"><span data-stu-id="d87ea-108">For example, they may use "product" instead of "item" or "client" instead of "customer".</span></span>
 
-<span data-ttu-id="d87ea-109">開発者は、ページやレポートに代替の検索語を追加することで、ユーザーが目的のエンティティをより簡単に見つけられるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="d87ea-109">Developers can now add alternate search terms to pages and reports to make it easier for users to find what they are looking for.</span></span> <span data-ttu-id="d87ea-110">開発者は、ページやレポートの AdditionalSearchTermsML プロパティで、会社固有の用語を追加することができます。ユーザーはその用語を [操作アシスト] ボックスに入力して、目的のページやレポートを見つけることができます。</span><span class="sxs-lookup"><span data-stu-id="d87ea-110">In the AdditionalSearchTermsML property on pages and reports, developers can add company-specific terms that users can then enter in the Tell me box to find the page or report in question.</span></span>
+## <a name="search-results-from-appsource"></a><span data-ttu-id="e2cc4-104">AppSource からの検索結果</span><span class="sxs-lookup"><span data-stu-id="e2cc4-104">Search results from AppSource</span></span>
+<span data-ttu-id="e2cc4-105">Microsoft では、AppSource でより柔軟な用語を使用してパートナー ソリューションを検索できるようにすることで、操作アシスト (Alt+Q) 機能を改善しました。</span><span class="sxs-lookup"><span data-stu-id="e2cc4-105">We have improved the Tell me (Alt+Q) feature by allowing more flexible terms and surfacing results for partner solutions on AppSource.</span></span> <span data-ttu-id="e2cc4-106">これによりユーザーは、パートナー コミュニティから入手できる幅広いソリューションの中から目的に合うソリューションを探し、Business Central を簡単に拡張できるようになります。</span><span class="sxs-lookup"><span data-stu-id="e2cc4-106">This allows users to seek help and easily extend Business Central with the many solutions that are available from the partner community.</span></span>
 
-<span data-ttu-id="d87ea-111">Business Central では、一部のページやレポート用に、約 200 の代替検索語が公開されています (項目ページを検索するための "製品"や、アセンブリ BOM ページを検索するための "キット" など)。</span><span class="sxs-lookup"><span data-stu-id="d87ea-111">Business Central is published with around 200 of such alternate search terms for selected pages and reports, such as "product" to find the Items page and "kit" to find the Assembly BOM page.</span></span>
+<span data-ttu-id="e2cc4-107">![AppSource からの検索結果のスクリーンショット](media/search_commission.png "検索結果には AppSource 検索からの結果も含まれています")</span><span class="sxs-lookup"><span data-stu-id="e2cc4-107">![Screenshot of search results from AppSource](media/search_commission.png "Search results now also include results from AppSource search")</span></span>
+
+## <a name="additional-search-terms"></a><span data-ttu-id="e2cc4-108">追加の検索語</span><span class="sxs-lookup"><span data-stu-id="e2cc4-108">Additional search terms</span></span>
+
+<span data-ttu-id="e2cc4-109">新規ユーザーの場合は、Business Central にある関連エンティティの名前とは異なるビジネス用語を使用することがよくあります。</span><span class="sxs-lookup"><span data-stu-id="e2cc4-109">New users often use different business terms than those used to name the related entities in Business Central.</span></span> <span data-ttu-id="e2cc4-110">たとえば、"項目" ではなく "製品" を使用したり、"顧客" ではなく "クライアント" を使用したりすることがあります。</span><span class="sxs-lookup"><span data-stu-id="e2cc4-110">For example, they might use "product" instead of "item," or "client" instead of "customer."</span></span>
+
+<span data-ttu-id="e2cc4-111">開発者は、ページやレポートに代替の検索語を追加することで、ユーザーが目的のエンティティをより簡単に見つけられるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="e2cc4-111">Developers can now add alternate search terms to pages and reports to make it easier for users to find what they are looking for.</span></span> <span data-ttu-id="e2cc4-112">開発者は、ページやレポートの AdditionalSearchTermsML プロパティで、会社固有の用語を追加することができます。ユーザーはその用語を [操作アシスト] ボックスに入力して、目的のページやレポートを見つけることができます。</span><span class="sxs-lookup"><span data-stu-id="e2cc4-112">In the AdditionalSearchTermsML property on pages and reports, developers can add company-specific terms that users can then enter in the Tell me box to find the page or report in question.</span></span>
+
+<span data-ttu-id="e2cc4-113">Business Central では、一部のページやレポート用に、約 200 の代替検索語が公開されています (項目ページを検索するための "製品"や、アセンブリ BOM ページを検索するための "キット" など)。</span><span class="sxs-lookup"><span data-stu-id="e2cc4-113">Business Central is published with around 200 such alternate search terms for selected pages and reports, such as "product" to find the Items page and "kit" to find the Assembly BOM page.</span></span>
 
 <!--
 Describe the new feature, and then give an elevator pitch of the business value for it. Include high-value capabilities that light up something exciting for our customers. The feature should be something that a customer needs to plan for...definitely larger than a hotfix or bug fix.
@@ -70,8 +75,7 @@ To get started with model‑driven apps, use designers to:
 - Add dashboards. Include model‑driven dashboards or embedded Power BI content within your app.
 - Include entities and components. Add specific forms, views, dashboards, and charts for targeted entities to craft your user experience.
 
-> [!div class="mx-imgBorder"]
-> ![Photograph of a man using a Hololens to view augmented reality in Connected Field Service](/articles/Spring18/media/507e34a661a1b831d21ea3dadda9c6cf.jpg "Field Service IoT")
+![Photograph of a man using a Hololens to view augmented reality in Connected Field Service](/articles/Spring18/media/507e34a661a1b831d21ea3dadda9c6cf.jpg "Field Service IoT")
 
 ## Compliance, privacy and security considerations
 List any compliance, privacy and security considerations that customers should plan for, including any steps or tools provided to help customers comply with GDPR.

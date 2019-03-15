@@ -1,7 +1,7 @@
 ---
 title: コンテキストまたはシステム インジケーター
 description: 定期的に会社、環境、または稼働日を変更する人は、インジケーターを見ると自分がどこにいるのかすぐにわかります。
-author: blazkote
+author: kotelko
 ms.reviewer: edupont
 ms.date: 01/21/2019
 ms.topic: article
@@ -10,89 +10,37 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: blazkote
 audience: end user
-ms.openlocfilehash: c964b36df6c97096852eb0c70e8e82113b890999
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 738724882f298443136f3e0ed6f462cedded781d
+ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210264"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "404524"
 ---
-# <a name="context-or-system-indicator"></a><span data-ttu-id="c9549-103">コンテキストまたはシステム インジケーター</span><span class="sxs-lookup"><span data-stu-id="c9549-103">Context or system indicator</span></span>
+# <a name="work-date-indicator"></a><span data-ttu-id="15e62-103">作業日インジケーター</span><span class="sxs-lookup"><span data-stu-id="15e62-103">Work date indicator</span></span>
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-<span data-ttu-id="c9549-104">上級ユーザーが作業のコンテキストを簡単かつ迅速に理解できる一連の機能を提供しています。</span><span class="sxs-lookup"><span data-stu-id="c9549-104">We are bringing a set of features allowing advanced users to understand the work context in an easy and quick way.</span></span> <span data-ttu-id="c9549-105">それには、関連するシナリオで画面上に直接表示される稼働日と、上級ユーザーが企業またはデータベースを切り替えて現在のビューのコンテキストを簡単に理解できるための企業インジケーターが含まれます。</span><span class="sxs-lookup"><span data-stu-id="c9549-105">That includes a work date presented directly on-screen in relevant scenarios and a company indicator helping advanced users to switch between companies or databases to easily understand the context of the current view.</span></span>
+<span data-ttu-id="15e62-104">上級ユーザーが作業のコンテキストを簡単かつ迅速に理解できる一連の機能を提供しています。</span><span class="sxs-lookup"><span data-stu-id="15e62-104">We are bringing a set of features allowing advanced users to understand the work context in an easy and quick way.</span></span> <span data-ttu-id="15e62-105">これには、現在のビューのコンテキストを容易に理解するために、関連するシナリオで画面に直接表示される作業日が含まれます。</span><span class="sxs-lookup"><span data-stu-id="15e62-105">That includes a work date presented directly on-screen in relevant scenarios to easily understand the context of the current view.</span></span>
 
-<!--
-Describe the new feature, and then give an elevator pitch of the business value for it. Include high-value capabilities that light up something exciting for our customers. The feature should be something that a customer needs to plan for...definitely larger than a hotfix or bug fix.
+<span data-ttu-id="15e62-106">![作業日インジケーター](media/workddate.png "作業日インジケーター")</span><span class="sxs-lookup"><span data-stu-id="15e62-106">![Work date indicator](media/workddate.png "Work date indicator")</span></span>
 
-If the feature has been designated as a key feature, complete the entire template. Otherwise, only complete the **Business value**, **Describe the feature**, and **Status** sections.
+<span data-ttu-id="15e62-107">新しい作業日インジケーターは、必要なとき、および作業日が今日ではない場合にのみ表示されます。</span><span class="sxs-lookup"><span data-stu-id="15e62-107">The new work date indicator is displayed only when you need it and when the work date is different from today.</span></span> <span data-ttu-id="15e62-108">予想されるように、ほとんどのユーザーは*今日*を作業日として使用するので、何も表示されません。</span><span class="sxs-lookup"><span data-stu-id="15e62-108">As expected, most users won’t see anything because they use *today* as the work date.</span></span> <span data-ttu-id="15e62-109">ただし、上級ユーザーは通知を受け取り、その後以下の操作を簡単に行うことができます。</span><span class="sxs-lookup"><span data-stu-id="15e62-109">But advanced users will get a notification and then they can easily:</span></span> 
 
-## Business value (Required)
-Describe the top capabilities of the feature and and the business problems it solves.  
+- <span data-ttu-id="15e62-110">作業日を調整します。</span><span class="sxs-lookup"><span data-stu-id="15e62-110">Adjust the work date.</span></span>
+- <span data-ttu-id="15e62-111">作業日を今日に切り替えます。</span><span class="sxs-lookup"><span data-stu-id="15e62-111">Switch the work date to today.</span></span>
+- <span data-ttu-id="15e62-112">通知をオフにします。</span><span class="sxs-lookup"><span data-stu-id="15e62-112">Switch notification off.</span></span>
 
-**Example**
-End-of-day processing is a crucial element of retail operational workflow. This involves aggregation of raw transactions into meaningful business data to ensure that business and accounting rules are conformed to, before posting transactions as official business records. Improving the reliability and performance of this batch process and increasing the visibility of the processing for the administrator improves the user experience. Users can easily monitor the progress of the processing and see exactly what caused a validation failure. As a result, they can quickly resolve the issue and reliably retry the process without contacting Microsoft Support. 
+## <a name="system-indicator"></a><span data-ttu-id="15e62-113">システム インジケーター</span><span class="sxs-lookup"><span data-stu-id="15e62-113">System indicator</span></span>
 
-## Describe the feature (Required)
-Describe how the feature works and the scenarios the feature enables. Include concrete examples and screenshots. 
+<span data-ttu-id="15e62-114">この機能は 2019 年 4 月以降に導入されます。</span><span class="sxs-lookup"><span data-stu-id="15e62-114">This feature is coming after April 2019.</span></span> <span data-ttu-id="15e62-115">詳細は間もなく提供されます。</span><span class="sxs-lookup"><span data-stu-id="15e62-115">More details will be provided in due time.</span></span>
 
-**Example**
-New capabilities include improved statement posting performance by removing table deadlocks and optimizing batch processing. The introduction of a state model in the posting process aids in rollback and recovery, which eliminates data corruption and the need for manual intervention. Enhanced in-app diagnostics with detailed status, errors, and logs (including details of transactions included in the scope of the statement, transactions resulting in errors, and possible steps to correct issues) allow for easy troubleshooting. 
+### <a name="development-status"></a><span data-ttu-id="15e62-116">開発ステータス</span><span class="sxs-lookup"><span data-stu-id="15e62-116">Development status</span></span>
+<span data-ttu-id="15e62-117">開発中</span><span class="sxs-lookup"><span data-stu-id="15e62-117">In development</span></span>
 
-<<screenshot goes here>>
+### <a name="target-timeframe"></a><span data-ttu-id="15e62-118">目標時期</span><span class="sxs-lookup"><span data-stu-id="15e62-118">Target timeframe</span></span>
+<span data-ttu-id="15e62-119">2019 年 4 月以降</span><span class="sxs-lookup"><span data-stu-id="15e62-119">After April 2019</span></span>
 
-### Who uses this feature (Required)
-Indicate each persona impacted:  end user, admin, customizer, citizen developer, developer, business analyst, IT Pro
 
-**Example**
-This feature is intended for retail administrators. It works without any additional setup. 
+## <a name="tell-us-what-you-think"></a><span data-ttu-id="15e62-120">フィードバック</span><span class="sxs-lookup"><span data-stu-id="15e62-120">Tell us what you think</span></span>
+<span data-ttu-id="15e62-121">Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。</span><span class="sxs-lookup"><span data-stu-id="15e62-121">Help us improve Dynamics 365 Business Central by discussing ideas, providing suggestions, and giving feedback.</span></span> <span data-ttu-id="15e62-122">Business Central フォーラム ([https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas)) をご利用ください。</span><span class="sxs-lookup"><span data-stu-id="15e62-122">Use the Business Central forum at [https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas).</span></span>
 
-### License required
-List the license(s) a customer must have to use the feature. 
-
-### Setup required (if any beyond standard product setup)
-
-**Example**
-This feature must be enabled in System parameters by an administrator. 
-
-### Quick steps (provide if feature is done enough)
-
-**Example**
-To get started with model‑driven apps, use designers to:
-- Define your site map. Model your app's navigation, pulling in only the subset of information your users need. Take advantage of multiple levels of hierarchy and the ability to reference external resources.
-- Add dashboards. Include model‑driven dashboards or embedded Power BI content within your app.
-- Include entities and components. Add specific forms, views, dashboards, and charts for targeted entities to craft your user experience.
-
-> [!div class="mx-imgBorder"] 
-> ![Photograph of a man using a Hololens to view augmented reality in Connected Field Service](/articles/Spring18/media/507e34a661a1b831d21ea3dadda9c6cf.jpg "Field Service IoT") 
-
-## Compliance, privacy and security considerations
-List any compliance, privacy and security considerations that customers should plan for, including any steps or tools provided to help customers comply with GDPR. 
-
-## Status (Required)
-
-### Development status
-Pick one: Generally available, Public preview, In development
-
-Notes: In development features are features that some teams may have previously included on the roadmap site. Anything in Private preview is considered to be In development. 
-
-#### Target timeframe
-Enter the release, month, or month or later if dubious. (Release if committed to a release, Month if committed to a month, Month or later if dubious)
-
-### Availability (current availability)
-
-Cloud, On-premises, Government cloud
-
-### Regional availability
-
-List whether this feature is available globally or restricted to specific regions.
-
-## Tell us what you think
-
-Include an alias or link for feedback for the feature.
-
-## We'd like to thank
-
-Link to item from Ideas or User voice. 
-
--->
