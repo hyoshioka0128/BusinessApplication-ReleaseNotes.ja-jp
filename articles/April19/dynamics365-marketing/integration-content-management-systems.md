@@ -7,12 +7,12 @@ ms.reviewer: kamaybac
 ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
-ms.openlocfilehash: c84680e2cb4f777923be8f2116db40a7b79e2751
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 31e34a097628309492287b87302b057ed624fb1f
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210836"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288212"
 ---
 # <a name="integration-with-content-management-systems"></a>コンテンツ管理システムとの統合
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
@@ -22,5 +22,4 @@ ms.locfileid: "210836"
 
 2019 年 4 月リリースの Dynamics 365 for Marketing では、任意のサード パーティ製コンテンツ管理システムとシームレスに統合し、同じレベルの機能と分析情報を提供できます。 これまでは、サブスクリプション センターやイベント ポータルなどの機能をホストするには Dynamics 365 ポータルが必要でしたが、このリリースではポータルはオプションになります。 現在は、すべての Dynamics 365 for Marketing フォームとコンテンツを外部の CMS でホストしながら、訪問、送信、登録などのリッチな対話データを収集できます。
 
-> [!div class="mx-imgBorder"]
-> ![外部の Web ページに埋め込まれた Dynamics 365 for Marketing フォーム](media/integration-content-management-systems-1.png "外部の Web ページに埋め込まれた Dynamics 365 for Marketing フォーム")
+![外部の Web ページに埋め込まれた Dynamics 365 for Marketing フォーム](media/integration-content-management-systems-1.png "外部の Web ページに埋め込まれた Dynamics 365 for Marketing フォーム")

@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: gregli
 audience: Power user
-ms.openlocfilehash: 318bd4209116e28e19cba38ff7ef7557a9e92da5
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: b460f24bdb3aa0cc4919e37a1ab03287c3b8c61a
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210638"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286605"
 ---
 # <a name="better-support-for-many-to-many-relationships-in-canvas-apps-public-preview"></a>キャンバス アプリでの多対多リレーションシップのサポート強化 (パブリック プレビュー)
 
@@ -25,5 +25,4 @@ ms.locfileid: "210638"
 
 作成者は、以前の多対一リレーションシップで行ったのと同じように、単純なオブジェクト ドット表記を使用して、CDS for Apps のこれらすべての種類のリレーションシップをたどることができます。 たとえば、注文.従業員.名前は、注文エンティティから多対一のリレーションシップをたどって従業員エンティティに至り、名前フィールドを取得します。 逆に、従業員.注文では、この従業員が割り当てた注文のテーブルが返され、多対多のリレーションシップも同じ方法で処理されます。 さらに、多対多のリレーションシップはどちらのエンティティのルックアップ フィールドにも基づいていないため、作成者は新しい関数を使用してレコードを関連付けたりレコードの関連付けを解除したりすることができます。
 
-> [!div class="mx-imgBorder"]
-> ![簡単な式で製品エンティティから選択した製品のレビューまでたどる](media/OneToMany.png "簡単な式で製品エンティティから選択した製品のレビューまでたどる")
+![簡単な式で製品エンティティから選択した製品のレビューまでたどる](media/OneToMany.png "簡単な式で製品エンティティから選択した製品のレビューまでたどる")

@@ -7,12 +7,12 @@ ms.reviewer: shylaw
 ms.topic: article
 ms.service: business-applications
 ms.author: renwe
-ms.openlocfilehash: 852eb7460a9d4fa2efd89f733e65b0080e5b20bb
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: f4c3996f77c28fadf08ce6eac55189297e607883
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210359"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287884"
 ---
 #  <a name="simplified-view---templates"></a>簡素化されたビュー - テンプレート 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -40,11 +40,9 @@ ms.locfileid: "210359"
 
 **注文入力**ビューは、注文入力と注文準備に不可欠な注文明細行詳細 (製品名と属性、数量、価格とマージン関連の値、合計金額など) の表示に特化しています。
 
-> [!div class="mx-imgBorder"]
-> ![簡素化されたビュー テンプレートの例 1](media/simplified-view-templates-1.png "簡素化されたビュー テンプレートの例 1")
+![簡素化されたビュー テンプレートの例 1](media/simplified-view-templates-1.png "簡素化されたビュー テンプレートの例 1")
 
 注文が履行された後、顧客サービス担当者が顧客の問合せに回答する必要があるときには、フルフィルメントの状態に関する詳細に特化した**注文フォローアップ** ビューが役に立ちます。
 
-> [!div class="mx-imgBorder"]
-> ![簡素化されたビュー テンプレートの例 2](media/simplified-view-templates-2.png "簡素化されたビュー テンプレートの例 2")
+![簡素化されたビュー テンプレートの例 2](media/simplified-view-templates-2.png "簡素化されたビュー テンプレートの例 2")
 

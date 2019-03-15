@@ -2,16 +2,16 @@
 title: クライアントの生産性と使いやすさの向上
 description: Dynamics 365 for Finance and Operations では、使いやすさ、ユーザーの生産性、および製品に対する全体的なユーザーの満足度を高めることを目的とした Web クライアントの改良に継続的に投資しています。
 author: jasongre
-ms.date: 01/21/2019
+ms.date: 02/07/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
-ms.openlocfilehash: e391aeba0aa1319cd0ccbacb33be68f8409f35f3
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: ddc097ea4e483a34026405fef5bf41a22165a498
+ms.sourcegitcommit: 190545b6694ee79a440fa8babbd30c2184fa4deb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210631"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "377007"
 ---
 #  <a name="client-productivity-and-usability-improvements"></a>クライアントの生産性と使いやすさの向上
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -29,6 +29,4 @@ ERP システムにおけるユーザー エクスペリエンスに対するお
 
 -   応答性と適応性に優れた機能をさまざまなコントロールやフォーム パターンに組み込むことで、モバイル デバイス上の Web クライアントの使いやすさを向上させる作業を行っています。
 
--   応答性の高い Web クライアントへのアクセスを提供し、環境検出、プッシュ通知、パフォーマンス向上、およびより優れたデバイス統合を追加する、モバイル アプリケーションを開発しています。
-
--   ユーザーがビジネス プロセス全体で添付ファイルを簡単に見ることができるよう、ドキュメント添付ファイルの操作性を改善しています。
+-   ページ上のドキュメント添付ファイルの可視性の向上など、添付ファイル エクスペリエンスをいっそう使いやすくしています。

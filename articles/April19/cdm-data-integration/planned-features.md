@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 ms.reviewer: deonhe
-ms.openlocfilehash: 148cf2349ab60389022211e13b3ffc22be6e58b7
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 8b5ffba71c5f6f9c129993867b74385c14827857
+ms.sourcegitcommit: ca9feb07bc4f4050b7621ba462eb0d3ad5cd8359
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210792"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "390034"
 ---
 # <a name="whats-new-and-planned-for-common-data-model-and-data-integration"></a>Common Data Model とデータ統合の新機能と予定されている機能
 
@@ -31,9 +31,10 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 
 | 分野                                           | 機能                                                               | リリースの種類         | 日付 |
 |------------------------------------------------|-----------------------------------------------------------------------|----------------------|----------------------|
-| [改善された新しいコネクタ](./power-query.md#high-enterprise-value-connectors-become-generally-available-for-power-bi-customers)                    | Microsoft では PDF、AtScale、Essbase、IBM DB2 DirectQuery 用のコネクタに取り組んでいます。 <br/>| 一般提供 <br/> | <br/>2019 年 4 月           |
+| [改善された新しいコネクタ](./power-query.md#high-enterprise-value-connectors-become-generally-available-for-power-bi-customers)                    | Microsoft では PDF、Essbase、IBM DB2 DirectQuery 用のコネクタに取り組んでいます。 <br/>| 一般提供 <br/> | <br/>2019 年 4 月           |
+| [改善された新しいコネクタ](./power-query.md#high-enterprise-value-connectors-become-generally-available-for-power-bi-customers)                    | AtScale 用のコネクタを追加しています。 <br/>| パブリック プレビュー <br/> | <br/> 2019 年 4 月 |
 | [改善された新しいデータ準備機能](./power-query.md#power-query-online-adds-several-new-data-connectivity-and-preparation-capabilities) | お客様からのフィードバックに基づいて、Power Query デスクトップの "Smart Data Prep" 機能を改善し、6 か月のうちに一般提供を開始します。 <br/>| 一般提供 <br/>| <br>2019 年 4 月           |
-| [接続プラットフォーム](./power-query.md#Increased-support-for-developers-on-the-Power-Query-platform)                          | 開発者署名のカスタム コネクタへのサポートを追加します。                        | パブリック プレビュー       | 2019 年 4 月           |
+| [接続プラットフォーム](./power-query.md#increased-support-for-developers-on-the-power-query-platform)                          | 開発者署名のカスタム コネクタへのサポートを追加します。                        | パブリック プレビュー       | 2019 年 4 月           |
 
 
 ## <a name="power-query-online"></a>Power Query オンライン
@@ -100,7 +101,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [コネクタ開発用の豊富なドキュメントとガイド](connector-platform-extensibility.md#rich-documentation-and-guides-for-developing-connectors)                        | 一般提供 | 2019 年 4 月           |
 | [PowerApps および Microsoft Flow 用のカスタム コネクタ SDK と API](connector-platform-extensibility.md#custom-connector-sdk-and-apis-for-powerapps-and-microsoft-flow)                   | パブリック プレビュー       | 2019 年 4 月           |
 | [PowerApps および Microsoft Flow 用カスタム コネクタでのポリシー テンプレートのサポート](connector-platform-extensibility.md#support-for-policy-templates-in-custom-connectors-for-powerapps-and-microsoft-flow) | パブリック プレビュー       | 2019 年 4 月           |
-| [GitHub での PowerApps および Microsoft Flow 用のオープン ソース コネクタの開発](connector-platform-extensibility.md#open-source-connector-development-on-github-for-powerapps-and-microsoft-flow)    | 一般提供 | 2019 年 4 月           |
+| [PowerApps および Microsoft Flow 用のオープン ソース コネクタの開発](connector-platform-extensibility.md#open-source-connector-development-on-github-for-powerapps-and-microsoft-flow)    | 一般提供 | 2019 年 4 月           |
 | [改善されたコネクタ認定プロセス](connector-platform-extensibility.md#improved-certification-process)                               | 一般提供 | 2019 年 4 月           |
 
 ## <a name="gateway"></a>ゲートウェイ

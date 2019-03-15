@@ -7,13 +7,13 @@ ms.topic: summary
 ms.service: business-applications
 ms.author: edupont
 audience: Admin
-ms.date: 01/21/2019
-ms.openlocfilehash: 55f89ed94e507a0a9162cd7f124b9f849250030c
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.date: 02/26/2019
+ms.openlocfilehash: 110025e5557afef0c8790a91868753f0a525aabb
+ms.sourcegitcommit: 5cb7a4f98abbe497eac9d76cfae5cc0170e28cd9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210793"
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "760864"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-business-central"></a>Dynamics 365 Business Central の新機能と予定されている機能
 
@@ -31,9 +31,9 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | 機能 | リリースの種類 | オンラインとオンプレミス |日付 |
 |---------|--------------|-----------------------|-------|
 | [アプリケーションの機能強化](application-enhancements.md) |一般提供 | 両方 | 2019 年 4 月 | 
-| [リスト ビュー](list-views.md) | 一般提供 | 両方 | 2019 年 4 月 |
-| [豊富なメモとリンク](comments-notes-links.md) | 一般提供 | オンライン | 2019 年 4 月 |
-| [文書フォーカス モード](focus.md) | 一般提供 | 両方 | 2019 年 4 月 |
+| [リスト ビューの保存とパーソナライズ](list-views.md) | 一般提供 | 両方 | 2019 年 4 月以降 |
+| [メモとリンク](comments-notes-links.md) | 一般提供 | 両方 | 2019 年 4 月以降 |
+| [ドキュメント ページでのフォーカス モード](focus.md) | 一般提供 | 両方 | 2019 年 4 月 |
 | [作業日インジケーター](know-your-context.md) | 一般提供 | 両方 | 2019 年 4 月 |
 | [コンテキストまたはシステム インジケーター](know-your-context.md) | 一般提供 | 両方 | 2019 年 4 月以降 |
 | [簡単入力](quick-entry.md)| 一般提供 | 両方 | 2019 年 4 月 |
@@ -49,15 +49,16 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | 機能 | リリースの種類 | オンラインとオンプレミス |日付|
 |---------|--------------|-----------------------|-------|
 | [ヘルプとサポートのエクスペリエンスの簡略化](assistance.md) | 一般提供 | 両方 | 2019 年 4 月 |
-| [ページの検査](page-inspector.md) | 一般提供 | 両方 | 2019 年 4 月 |
+| [ページの検査 (以前の「このページについて」)](page-inspector.md) | 一般提供 | 両方 | 2019 年 4 月 |
 
 ## <a name="productivity-enhancements-for-administrators"></a>管理者の生産性向上
 
 | 機能 | リリースの種類 | オンラインとオンプレミス |日付 |
 |---------|--------------|-----------------------|-------|
 | [Business Central と Dynamics 365 for Sales の統合の強化](sales-integration-hardening.md) | 一般提供 | 両方 | 2019 年 4 月 |
+| [組織のテーマのカスタマイズ](unified-header.md)| 一般提供| クラウド | 2019 年 4 月 |
 | [アプリケーション ライフサイクル管理の機能強化](application-lifecycle-management.md)| 一般提供| 両方 | 2019 年 4 月 |
-| [Dynamics SMB と Dynamics 365 Business Central の Intelligent Cloud の機能強化](enhancements-intelligent-cloud.md)| 一般提供 | 両方 | 2019 年 4 月 |
+| [Dynamics SMB と Dynamics 365 Business Central のインテリジェント クラウドの機能強化](enhancements-intelligent-cloud.md)| 一般提供 | 両方 | 2019 年 4 月 |
 
 ## <a name="powerful-features-for-developers"></a>開発者向けの強力な機能
 
@@ -65,6 +66,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 |---------|--------------|-----------------------|-------|
 | [開発者向けデザイナーの機能強化](designer.md) | 一般提供 | 両方 | 2019 年 4 月 |
 | [Visual Studio Code と AL ](visual-studio-code-and-al.md) | 一般提供 | 両方 | 2019 年 4 月 |
+| [新しい リスト ビュー API](list-views.md) | 一般提供 | 両方 | 2019 年 4 月 |
 | [アプリとしての申請](visual-studio-code-and-al.md) | 一般提供 | 両方 | 2019 年 4 月 |
 | [標準 Web API](standard-web-apis.md) | 一般提供 | 両方 | 2019 年 4 月 |
 

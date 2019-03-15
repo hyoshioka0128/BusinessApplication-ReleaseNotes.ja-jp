@@ -7,12 +7,12 @@ ms.reviewer: kamaybac
 ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
-ms.openlocfilehash: 860e2361313fd2f5d85a0931a3a98557e8ffcfb5
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 03c23395ed8bae84d299aa2c37afa9566e44b084
+ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210931"
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "285103"
 ---
 # <a name="lifecycle-enhancements-and-deeper-insights"></a>ライフサイクルの改善とより深い分析情報
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]

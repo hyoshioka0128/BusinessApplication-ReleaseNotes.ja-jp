@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: sunayv
 audience: Power user
-ms.openlocfilehash: 7f16fef828ca75cd5e23f74d5a6523d57e044bce
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: ac56bbb395bc917e74397acca3ceb4beacd314f8
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210298"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287290"
 ---
 # <a name="improved-flow-checker-and-remediation-steps"></a>改善されたフロー チェッカーと修復手順
 
@@ -29,7 +29,6 @@ ms.locfileid: "210298"
 
 作成者は、上位の問題をリストした実用的なスコアカードにアクセスできます。 検出された問題ごとに、スコアカードではフロー エクスペリエンス内で改良が必要な可能性のある特定の場所が指摘されます。 最も重要なこととして、作成者は詳細なガイダンスに従うことにより、これらの機能強化をどのように導入できるかを発見できます。
 
-> [!div class="mx-imgBorder"]
-> ![改良されたフロー チェッカー](media/ImprovedFlowChecker-1.png "改良されたフロー チェッカー")
+![改良されたフロー チェッカー](media/ImprovedFlowChecker-1.png "改良されたフロー チェッカー")
 
 アドバイザーのインテリジェンスへの投資を続けており、ユーザーが信頼できる堅牢なフローを構築するのを助けるためにさらに多くのユース ケースを追加しました。 これらの改良は、プラットフォームでの AI 機能に基づく学習から生まれました。 何百もの追加ルールとより深い静的分析により、作成者はフローを公開する前に、発生する可能性があるすべてのリスクに関するフィードバックを得ることができます。

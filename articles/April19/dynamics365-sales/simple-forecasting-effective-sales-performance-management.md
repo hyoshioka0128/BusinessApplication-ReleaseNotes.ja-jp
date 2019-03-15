@@ -2,7 +2,7 @@
 title: 効果的な販売実績管理のためのシンプルな予測
 description: 特定の期間の収益を正確に予測し、情報に基づいた意思決定を行う。
 keywords: ''
-ms.date: 01/21/2019
+ms.date: 02/06/2019
 ms.service:
 - business-applications
 ms.topic: article
@@ -10,14 +10,14 @@ ms.assetid: 23612a8a-7d72-ddd3-7f00-c08463b3537e
 author: snaitik
 ms.author: naitikds
 ms.reviewer: shujoshi
-ms.openlocfilehash: d8f95d72281d245723e049c51cc58982aec87f02
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: b86b59aa52ac1a64c845f3a524c3221e4ce8da8c
+ms.sourcegitcommit: 9930d3ee2966f26f176f1f8b08eb780aef90a863
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210808"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "376211"
 ---
-#  <a name="simple-forecasting-for-effective-sales-performance-management"></a>効果的な販売実績管理のためのシンプルな予測 
+#  <a name="predict-revenue-accurately-and-make-informed-decisions-withmanualsales-forecasting"></a>手動売上予測によって収益を正確に見積もり、情報に基づいた意思決定を実行する 
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 
@@ -28,7 +28,7 @@ ms.locfileid: "210808"
 
 企業は、予測機能を使用して特定の期間の収益を正確に予測することで、従業員、キャッシュフロー、およびリソースの管理方法に関する必要なインサイトを取得できます。
 
-## <a name="persona"></a>ペルソナ
+## <a name="personas"></a>ペルソナ
 
 -   営業マネージャーは、チーム メンバーに関する予測を作成することで、特定の期間の収益を正確に予測し、情報ベースのビジネス意思決定を行い、チームの短期業績と長期業績を予測することができます。
 
@@ -36,14 +36,9 @@ ms.locfileid: "210808"
 
 ## <a name="features"></a>機能
 
--   営業担当者は、Excel または CSV ファイルから既存の予測データを簡単に取得し、Dynamics 365 for Sales アプリに取り込むことができます。
+現在、Microsoft Dynamics 365 には、顧客とその営業案件に関する貴重な情報が数多くあります。 売上予測では、営業チームは各営業案件の予測カテゴリを指定し、さらにその情報を活用してアプリケーション内で予測を手動で作成または更新できます。 個人とそのチームのロールアップ予測値を表示、調整、および送信することができます。
 
--   営業担当者は、製品、価格、およびアカウントに基づいて予測値をロール アップできます。
-
--   予測データと傾向を表示するための新しいダッシュボードとレポート。
-
-  > [!div class="mx-imgBorder"]
-  > ![予測機能を使用した販売実績管理](media/simple-forecasting-effective-sales-performance-management-1.png "予測機能を使用した販売実績管理")
+![予測機能を使用した販売実績管理](media/simple-forecasting-effective-sales-performance-management-1.png "予測機能を使用した販売実績管理")
 <!-- picture -->
 
 

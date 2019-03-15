@@ -1,31 +1,31 @@
 ---
 title: デザイナーの機能強化
-description: Visual Studio Code が付属するデザイナーで、ページ上のコンテンツをさらに調整します。
+description: Visual Studio Code が付属するデザイナーでは、アクション、リスト ビュー、フィールドの重要度、簡単入力など、いっそう多くのコンテンツをページ上で調整できます。
 author: mikebcMSFT
 ms.reviewer: edupont
-ms.date: 01/21/2019
+ms.date: 02/25/2019
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
 ms.author: mikebc
 audience: developer, customizer
-ms.openlocfilehash: cf3322d0e48265804ee77fe1aa90dcc3027894c6
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: e30845ac756e5e136b59a5cbff7c1db3e59dd658
+ms.sourcegitcommit: 92b7053f06513207fc880a7ce9dabb00b4df5816
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210966"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "723646"
 ---
 # <a name="designer-enhancements-for-developers"></a>開発者向けデザイナーの機能強化
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-デザイナーは Visual Studio Code が付属しており、開発者がページ オブジェクトのビジュアル コンテンツをテストしてすばやく調整するための便利な方法です。 次のような最も要求の多い機能のいくつかを使用してデザイナーを強化しました。
+デザイナーは Visual Studio Code が付属しており、開発者がページ オブジェクトのビジュアル コンテンツをテストしてすばやく調整するための便利な方法です。
 
-- デザイナーでは、テスト環境に展開されたすべての拡張機能に対する依存関係が自動的に追加されなくなりました。 デザイナーを終了するとき、依存関係が取得されなかった拡張機能は暗黙のうちに除外されます。
-- フィールドの重要度と簡単入力を微調整します。
-- アクション バーのアクションとナビゲーション バーのリストの並べ替え、非表示化、再グループ化を行って調整します。
-- 特定のフィルターと並べ替え順序を含む名前付きビューを作成することにより、リストのバリエーションを定義します。
+デザイナーでは、テスト環境に展開されたすべての拡張機能に対する依存関係が自動的に追加されなくなりました。 デザイナーを終了するとき、依存関係が取得されなかった拡張機能は暗黙のうちに削除されます。
+
+## <a name="designing-actions"></a>設計アクション
+リスト、ワークシート、カード、またはドキュメント ページを拡張するときは、デザイナーを使用してページ アクションのレイアウトを微調整します。 関係のないアクションを隠したり、グループ間でアクションを移動したり、グループを隠したり並べ替えたりします。 繊細なビジュアル インジケーターは、Business Central の 2019 年 4 月のリリースで何が可能であるかを開発者にガイドします。
 
 ## <a name="designing-quick-entry"></a>簡単入力の設計
 簡単入力はデスクトップ ユーザーにとって生産性の高い機能であり、レコードの繰り返し入力に要する時間を短縮します。 フィールドで Enter キーを押すと、フォーカスは次の編集可能な簡単入力フィールドまたはセルに移動します。常に必要ではないフィールドまたは自動入力されるフィールドはスキップされます。 任意のフィールドのメニューを使用して、デザイナーの簡単入力パスのフィールドを含めたり除外したりすることができ、ページ全体で変更の結果をすぐにテストできます。 これは、Visual Studio Code で簡単入力を微調整するよりはるかに効率的です。
@@ -33,9 +33,18 @@ ms.locfileid: "210966"
 ## <a name="designing-field-importance"></a>フィールドの重要度の設計
 たまにしか必要とされないフィールドもあれば、ビジネス ユーザーが毎回参照する必要がある重要なフィールドもあります。 フィールドを移動、非表示化、追加する機能に加えて、デザイナーでは、開発者は視覚的でインタラクティブな方法でフィールドの重要度プロパティを微調整することもできるようになります。
 
+## <a name="designing-list-views"></a>リスト ビューの設計
+2019 年 4 月の更新後間もなく利用可能になり、開発者は拡張機能内でリスト ページの代替ビューを設計することができるようになります。 テスト データを使用してリアルタイムでフィルターを作成、テスト、調整してから、ビューを拡張機能に保存します。 デザイナーを使用すると、個々のビューごとの特定の列レイアウトや列の並べ替えのの設計など、顧客からのより要求の厳しい要件も簡単に満たすことができます。
+
+詳細については、「[リスト ビュー](list-views.md)」を参照してください。
+
+## <a name="designing-the-navigation-bar"></a>ナビゲーション バーの設計
+Business Central に対する 2019 年 4 月の更新の後、今年後半には、開発者はナビゲーション リンクやリンクのグループを各ロール センター ページで直接設計できるようになります。 空のナビゲーション バーから始めて、リストをピン留めし、よく使用されるテーブルへのリンクのセットを構築します。
+詳しくは、「[ロール センターの設計](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-designing-role-centers)」をご覧ください。
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。 Business Central フォーラム ([https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas)) をご利用ください。
+
 
 <!--
 
@@ -79,8 +88,7 @@ To get started with model‑driven apps, use designers to:
 - Add dashboards. Include model‑driven dashboards or embedded Power BI content within your app.
 - Include entities and components. Add specific forms, views, dashboards, and charts for targeted entities to craft your user experience.
 
-> [!div class="mx-imgBorder"] 
-> ![Photograph of a man using a Hololens to view augmented reality in Connected Field Service](/articles/Spring18/media/507e34a661a1b831d21ea3dadda9c6cf.jpg "Field Service IoT") 
+![Photograph of a man using a Hololens to view augmented reality in Connected Field Service](/articles/Spring18/media/507e34a661a1b831d21ea3dadda9c6cf.jpg "Field Service IoT") 
 
 ## Compliance, privacy and security considerations
 List any compliance, privacy and security considerations that customers should plan for, including any steps or tools provided to help customers comply with GDPR. 

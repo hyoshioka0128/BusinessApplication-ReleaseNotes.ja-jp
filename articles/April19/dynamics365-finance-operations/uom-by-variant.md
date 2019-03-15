@@ -7,12 +7,12 @@ ms.reviewer: shylaw
 ms.topic: article
 ms.service: business-applications
 ms.author: sorenand
-ms.openlocfilehash: a488d97b2c925e4b2269bc3c79347c65d2085241
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 0cfb6b4f9b64afa2303e3da434ed3d695a752f78
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210748"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287950"
 ---
 #  <a name="unit-of-measure-conversions-for-product-variants"></a>製品バリアントの測定単位換算
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -25,27 +25,22 @@ ms.locfileid: "210748"
 
 この機能の一般的な使用は、**製品情報管理パラメーター** ページで有効化します。 この機能は、すべての製品マスターに対して有効にすることもできますし、倉庫プロセス用に有効化されている製品マスターに対してのみ有効化することもできます。
 
-> [!div class="mx-imgBorder"]
-> ![[製品情報管理パラメーター] ページで製品バリアントによる測定単位換算を有効にする](media/uom-setup-1.png "[製品情報管理パラメーター] ページで製品バリアントによる測定単位換算を有効にする")
+![[製品情報管理パラメーター] ページで製品バリアントによる測定単位換算を有効にする](media/uom-setup-1.png "[製品情報管理パラメーター] ページで製品バリアントによる測定単位換算を有効にする")
 
 特定の製品マスターの場合は、**製品詳細**ページの**測定単位換算の有効化**フィールドをオンにして機能を有効化します。
 
-> [!div class="mx-imgBorder"]
-> ![[製品詳細] ページで特定の製品マスターの製品バリアントによる測定単位換算を有効にする](media/uom-setup-2.png "[製品詳細] ページで特定の製品マスターの製品バリアントによる測定単位換算を有効にする")
+![[製品詳細] ページで特定の製品マスターの製品バリアントによる測定単位換算を有効にする](media/uom-setup-2.png "[製品詳細] ページで特定の製品マスターの製品バリアントによる測定単位換算を有効にする")
 
 この例では、T シャツに 3 つの製品バリアントがリリースされています (Large、Medium、Small)。
 
-> [!div class="mx-imgBorder"]
-> ![T シャツの 3 つのバリアント (Large、Medium、Small) が表示された [リリース済製品バリアント] ページ](media/uom-setup-3.png "T シャツの 3 つのバリアント (Large、Medium、Small) が表示された [リリース済製品バリアント] ページ")
+![T シャツの 3 つのバリアント (Large、Medium、Small) が表示された [リリース済製品バリアント] ページ](media/uom-setup-3.png "T シャツの 3 つのバリアント (Large、Medium、Small) が表示された [リリース済製品バリアント] ページ")
 
 製品マスターから、**単位換算**ページを開くことができます。 このページではまず、単位換算を製品に対して設定するのか、それとも製品バリアントに対して設定するのかを選択します。 
 
-> [!div class="mx-imgBorder"]
-> ![[単位変換] ページで、単位変換を製品バリアントに対して設定するのか、それとも製品マスターに対して設定するのかを選択する](media/uom-setup-4.png "[単位変換] ページで、単位変換を製品バリアントに対して設定するのか、それとも製品マスターに対して設定するのかを選択する")
+![[単位変換] ページで、単位変換を製品バリアントに対して設定するのか、それとも製品マスターに対して設定するのかを選択する](media/uom-setup-4.png "[単位変換] ページで、単位変換を製品バリアントに対して設定するのか、それとも製品マスターに対して設定するのかを選択する")
 
 **製品バリアント**を選択した場合は、特定の製品バリアントに対して単位変換が設定されます。 この例では、単位 "Box" と単位 "Ea" の間の単位換算が、Small サイズのＴシャツに対して設定されます。 
 
 **製品**を選択した場合は、製品マスターに対して単位換算が設定されます。この単位換算は、単位換算が定義されていないすべての製品バリアントのフォールバックとして機能します。
 
-> [!div class="mx-imgBorder"]
-> ![単位変換ページで製品マスターのフォールバック測定単位変換を定義する](media/uom-setup-5.png "単位変換ページで製品マスターのフォールバック測定単位変換を定義する")
+![単位変換ページで製品マスターのフォールバック測定単位変換を定義する](media/uom-setup-5.png "単位変換ページで製品マスターのフォールバック測定単位変換を定義する")

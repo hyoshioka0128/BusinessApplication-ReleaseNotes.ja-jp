@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 6dac3cbc6e3277b4b09a899c2c4478bbeda353ae
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: f0cbe35f63bfb11f1804ccc0d34ff96e2d8fa258
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211051"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288320"
 ---
 # <a name="extract-structured-data-from-emails-html-and-pdf-public-preview"></a>電子メール、HTML、PDF からの構造化データの抽出 (パブリック プレビュー)
 
@@ -31,5 +31,4 @@ ms.locfileid: "211051"
 
 ユーザーは 1 つ以上のドキュメントまたは電子メールの例から必要なコンテンツを選択するだけでよく、将来同じ特性を持つドキュメントからそのコンテンツが抽出されます。
 
-> [!div class="mx-imgBorder"]
-> ![電子メール抽出の設定](media/EmailExtraction-1.png "電子メール抽出の設定")
+![電子メール抽出の設定](media/EmailExtraction-1.png "電子メール抽出の設定")

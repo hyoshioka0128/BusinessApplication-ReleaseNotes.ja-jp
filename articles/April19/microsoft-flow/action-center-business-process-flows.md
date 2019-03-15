@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: karansr
 audience: Power user
-ms.openlocfilehash: 1feb0196650a4c56edca673d67a69fc619e517ab
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 77ea6539bdd3f9cce4bb9ff2a47f04e509b5dbed
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210583"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286864"
 ---
 # <a name="action-center-for-business-process-flows"></a>業務プロセス フロー用のアクション センター
 
@@ -25,8 +25,7 @@ ms.locfileid: "210583"
 
 Microsoft Flow では、承認と業務プロセス フローのための統一されたランディング ページが提供されるようになります。 このページでは、ユーザーは、自分のアクションを待っているすべての承認要求と、自分が所有するアクティブな業務プロセスを見ることができます。
 
-> [!div class="mx-imgBorder"]
-> ![Microsoft Flow アクション センター](media/ActionCenterBusinessProcess-1.png "Microsoft Flow アクション センター")
+![Microsoft Flow アクション センター](media/ActionCenterBusinessProcess-1.png "Microsoft Flow アクション センター")
 
 すべての保留中アクションをまとめて見ることができるだけでなく、ユーザーはこのビューから次のようなアクションを (一括アクションも含めて) 実行できます。
 

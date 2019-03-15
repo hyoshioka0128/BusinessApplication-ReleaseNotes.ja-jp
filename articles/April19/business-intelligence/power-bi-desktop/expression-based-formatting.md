@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: kimani
 ms.reviewer: mihart
-ms.openlocfilehash: 07322232f68cc9621c1236be8cf3a8d6484c946c
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: d69d3014179abf8892be392850a699119dd736a4
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210925"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287841"
 ---
 # <a name="expression-based-formatting"></a>式ベースの書式設定
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
@@ -20,15 +20,13 @@ ms.locfileid: "210925"
 
 Power BI ではそのすべてのビジュアルに対してさまざまな書式設定オプションが用意されており、このリリースでは、レポート作成者のために、モデル内のデータに基づいて書式設定を動的に変更するためのより高度な制御が追加されています。 アナリストは、グラフ内のすべての要素の色、スタイル、または表示設定を変更する式を定義できます。 たとえば、金額が目標を超えるたらデータポイントの色が変わるように構成できます。
 
-> [!div class="mx-imgBorder"]
-> ![式ベースの書式設定を使用したデータの色](media/expression-based-formatting-1.png "式ベースの書式設定を使用したデータの色")
+![式ベースの書式設定を使用したデータの色](media/expression-based-formatting-1.png "式ベースの書式設定を使用したデータの色")
 <!-- picture -->
 *式ベースの書式設定を使用したデータの色*
 
 または、シリーズの中の 1 行だけスタイルを調整して注意を促すこともできます。
 
-> [!div class="mx-imgBorder"]
-> ![式ベースの書式設定を使用した線のスタイル](media/expression-based-formatting-2.png "式ベースの書式設定を使用した線のスタイル")
+![式ベースの書式設定を使用した線のスタイル](media/expression-based-formatting-2.png "式ベースの書式設定を使用した線のスタイル")
 <!-- picture -->
 *式ベースの書式設定を使用した線のスタイル*
 

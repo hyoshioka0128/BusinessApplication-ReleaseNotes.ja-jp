@@ -7,18 +7,18 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mapau
 ms.reviewer: v-brycho
-ms.openlocfilehash: 9260bd9075ca0efad20323154c91a148e62ef37c
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: d954c4413f0299154e0855841f606bcf7f0c5fd0
+ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210996"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "404865"
 ---
 #  <a name="group-calling"></a>グループ通話
 [!include[microsoft-dynamics365-remote-assist banner](../../includes/microsoft-dynamics365-remote-assist.md)]
 
 
-グループ通話はお客様からの要望が最も多い機能です。 現在、Remote Assist のすべての通話には、2 人のユーザーしか参加できません。HoloLens 上の 1 人 (フィールド サービス作業者) と Microsoft Teams の 1 人 (エキスパート) です。 グループ通話を使用すると、複数のエキスパートが接続して 1 つの通話に注釈を付け、Remote Assist のユーザーが困難な問題の解決策を見つけ出せるようにすることができます。
+グループ通話はお客様からの要望が最も多い機能です。 現在、Remote Assist のすべての通話には、2 人のユーザーしか参加できません。HoloLens 上の 1 人 (フィールド サービス作業者などの第一線の作業者) と Microsoft Teams の 1 人 (エキスパート) です。 グループ通話を使用すると、複数のエキスパートが接続して 1 つの通話に注釈を付け、Remote Assist のユーザーが困難な問題の解決策を見つけ出せるようにすることができます。
 
 グループ通話によって可能になるシナリオは次のとおりです。
 

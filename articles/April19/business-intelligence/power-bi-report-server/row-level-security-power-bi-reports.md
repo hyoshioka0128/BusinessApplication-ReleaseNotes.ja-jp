@@ -1,4 +1,5 @@
 ---
+redirect_url: ../../../October18/intelligence-platform/power-bi-report-server/index
 title: Power BI レポートの行レベル セキュリティ
 description: Power BI Report Server に公開されたレポート用に、行レベル セキュリティを使用したユーザー ベースのセキュリティがサポートされます。
 author: AdamDWilson
@@ -7,12 +8,12 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: 8eb2b5544c1c9752eb65f0e355950e1bede03e88
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: db223dd80673392c04a34e18a742ac57e543eeda
+ms.sourcegitcommit: 1b2af1b1abe08340188092b8873c6eca3856591b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210868"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "288429"
 ---
 # <a name="row-level-security-for-power-bi-reports"></a>Power BI レポートの行レベル セキュリティ
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]

@@ -3,29 +3,32 @@ title: リスト ビュー
 description: 独自の名前付きのフィルター処理されたリスト ビューを保存し、名前を変更し、削除し、他のユーザーと共有します。
 author: mikebcMSFT
 ms.reviewer: edupont
-ms.date: 01/21/2019
+ms.date: 02/25/2019
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
 ms.author: mikebc
 audience: developer, end user, customizer
-ms.openlocfilehash: 73b386c03539cd634aef25c2723f63351b140f17
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 4e6dc8b2a04bf91b8dba9279db5466405de3673e
+ms.sourcegitcommit: 92b7053f06513207fc880a7ce9dabb00b4df5816
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210274"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "723647"
 ---
 # <a name="list-views"></a>リスト ビュー
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-コミュニティからの要望の多いアイデアのひとつに応えて、ユーザーが自分のリスト フィルターや同様の個人用設定を保存して、異なるデータ スライス方法を作成できるようにしました。 リスト ビューには、"販売する品目" のような名前が設定されていて、合計や分析コードに対するフィルター、適切なデータに動的にフィルターを適用するためのフィルター トークン (%MyCustomers など)、さらに複雑で調整されたリストのビューを作成できる異なる並べ替えが含まれる場合があります。 移動方法に関係なく、すべてのリストにビューが表示されるようになりました。 ユーザーはリストの異なるビューをすばやく切り替えることができます。これには、独自の個人的なビューや、ビジネス アプリケーションやロールに標準で付属するビューが含まれます。 他の個人用設定と同様に、リスト ビューは、ユーザーがサインインしているデバイスやブラウザーに関係なく、ユーザーと一緒に移動します。
+## <a name="a-new-view-api-for-developers"></a>開発者向けの新しいビュー API
 
-開発者には、Visual Studio Code でカスタム リスト ビューを作成するための新しいシンプルでエレガントなモデルもあります。
+開発者には、最近のクライアント用に Visual Studio Code でカスタム リスト ビューを作成するための新しいシンプルで直感的なモデルもあります。 開発者がそれぞれに固有のカスタム列レイアウトを使用してリストの代替ビューを作成できるようになるだけでなく、新しいビューによって以前のモデルの欠点のほとんどが解消されます。 たとえば、移動方法に関係なく、ビューが 1 つのリスト ページに表示されるようになりました。
 
-> [!div class="mx-imgBorder"]
-> ![フィルター ウィンドウのメニューを使用してリスト ビューへの変更を保存する方法を示す概念設計。](media/list-views.png "リスト ビューへの変更の保存に関する概念設計")
+## <a name="saving-and-personalizing-list-views"></a>リスト ビューの保存とパーソナライズ
+
+2019 年 4 月以降のマイナー更新で使用可能になり、ユーザーが自分のリスト フィルターや同様の個人用設定を保存して、異なるデータ スライス方法を作成できるようになります。 リスト ビューには、"販売する品目" のような名前が設定されていて、合計や分析コードに対するフィルター、適切なデータに動的にフィルターを適用するためのフィルター トークン (%MyCustomers など)、さらに複雑で調整されたリストのビューを作成できる異なる並べ替えが含まれる場合があります。 ユーザーはリストの異なるビューをすばやく切り替えることができます。これには、独自の個人的なビューや、ビジネス アプリケーションやロールに標準で付属するビューが含まれます。 他の個人用設定と同様に、リスト ビューは、ユーザーがサインインしているデバイスやブラウザーに関係なく、ユーザーと一緒に移動します。
+
+![フィルター ウィンドウのメニューを使用してリスト ビューへの変更を保存する方法を示す概念設計](media/list-views.png "リスト ビューへの変更の保存に関する概念設計")
 
 
 <!--
@@ -69,8 +72,7 @@ To get started with model‑driven apps, use designers to:
 - Add dashboards. Include model‑driven dashboards or embedded Power BI content within your app.
 - Include entities and components. Add specific forms, views, dashboards, and charts for targeted entities to craft your user experience.
 
-> [!div class="mx-imgBorder"] 
-> ![Photograph of a man using a Hololens to view augmented reality in Connected Field Service](/articles/Spring18/media/507e34a661a1b831d21ea3dadda9c6cf.jpg "Field Service IoT") 
+![Photograph of a man using a Hololens to view augmented reality in Connected Field Service](/articles/Spring18/media/507e34a661a1b831d21ea3dadda9c6cf.jpg "Field Service IoT") 
 
 ## Compliance, privacy and security considerations
 List any compliance, privacy and security considerations that customers should plan for, including any steps or tools provided to help customers comply with GDPR. 

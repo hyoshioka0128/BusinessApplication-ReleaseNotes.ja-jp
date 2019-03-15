@@ -1,5 +1,5 @@
 ---
-title: PBIX レポート間のドリル処理
+title: 別のレポートへのドリルスルー
 description: レポート作成者は、Power BI サービスに発行されたレポート間のドリルスルー アクションを設定できるようになりました。
 author: kimmanis
 ms.date: 01/21/2019
@@ -7,14 +7,14 @@ ms.topic: article
 ms.service: business-applications
 ms.author: kimani
 ms.reviewer: mihart
-ms.openlocfilehash: 7f9025a87e82791412b73fe8f715fc0e1431138c
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 22bc4b483ad956b3f34edd2b9e492fd2c995cc6f
+ms.sourcegitcommit: f2139bfaf9cb2eb84e81bfdb3cfd3edd28b123df
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210770"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "291102"
 ---
-# <a name="drill-between-pbix-reports"></a>PBIX レポート間のドリル処理
+# <a name="drill-through-to-another-report"></a>別のレポートへのドリルスルー
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
 
 

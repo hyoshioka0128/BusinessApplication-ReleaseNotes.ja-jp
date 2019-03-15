@@ -1,30 +1,28 @@
 ---
-title: ページの検査
-description: ページおよびページの部分を調べて、データの問題をトラブルシューティングしたり、基になっているデータ モデルを理解したりします。 ページ インスペクターは、現在のレコード、フィルター、およびページに影響を与えている拡張機能についての情報を明らかにします。
+title: ページの検査 (以前の「このページについて」)
+description: ページおよびページの部分を調べて、データの問題をトラブルシューティングしたり、基になっているデータ モデルを理解したりします。 ページ インスペクターは、現在のレコード、フィルター、およびページに影響を与えている拡張機能についての情報を明らかにします。 以前は「このページについて」、それより前は「ズーム」と呼ばれていました。
 author: mikebcMSFT
 ms.reviewer: edupont
-ms.date: 01/21/2019
+ms.date: 02/06/2019
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
 ms.author: mikebc
 audience: developer, end user, customizer
-ms.openlocfilehash: 00ff20da44081218a0560d278f98afbfb64e8e80
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 29ce32ab62e49f3515984a73c0d059b35ca057fd
+ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210295"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "404909"
 ---
-# <a name="page-inspection"></a>ページの検査
+# <a name="page-inspection-formerly-about-this-page"></a>ページの検査 (以前の*このページについて*)
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-ビジネス データまたは機能構成のエラーのトラブルシューティングを行うときは、多くの場合、ページに表示されているもの以外の追加レベルの分析情報が必要です。 パワー ユーザーとサポート スタッフは、ページまたはページ内の部分を調べて、ページに表示されていないフィールドなど、現在のレコードの内容全体を明らかにすることができます。
+ビジネス データまたは機能構成のエラーのトラブルシューティングを行うときは、多くの場合、ページに表示されているもの以外の追加レベルの分析情報が必要です。 パワー ユーザーとサポート スタッフは、ページ (またはページ内の部分) を調べて、ページに表示されていないフィールドなど、現在のレコードの内容全体を明らかにすることができます。
 
-<!--
-> ![Inspecting a Sales Order factbox](media/inspect-factbox.png "The page inspection pane alongside a sales order where one of the factboxes is being inspected.")
--->
+![アイテム情報ボックスの検査](media/page-inspector.png "情報ボックスの 1 つが検査されているアイテム カードの横にあるページの検査ウィンドウ")
 
 ## <a name="getting-started"></a>作業の開始
 デスクトップ ブラウザーまたは Windows デスクトップ アプリで現在表示しているページの検査を開始するには、トップ メニューから**検査**を選択するか、またはキーボード ショートカット **Ctrl + Alt + F1** を使用します。

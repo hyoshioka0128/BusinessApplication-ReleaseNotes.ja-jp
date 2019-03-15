@@ -7,12 +7,12 @@ ms.reviewer: shylaw
 ms.topic: article
 ms.service: business-applications
 ms.author: nselin
-ms.openlocfilehash: 5b6c609a659784a7ca6b2c6ac5d83c716cec2a39
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: af21632089dc16587e2e5dd9840673dc45fc13ac
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210613"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286770"
 ---
 #  <a name="electronic-reporting---setting-up-parameters-by-legal-entity"></a>電子申告 - 法人別のパラメーターの設定
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -24,23 +24,19 @@ ms.locfileid: "210613"
 -   このデータ ソースを入力したビジネス ユーザーの要求に対して、どのようなデータが提供されるのか。
 -   このデータ ソースによって、実行時にどのような種類の値が ER 形式に返されるのか。
 
-> [!div class="mx-imgBorder"]
-> ![形式デザイナー: 課税 XML 要素](media/ER-setup-parameters-designer.png "形式デザイナー: 課税 XML 要素")
+![形式デザイナー: 課税 XML 要素](media/ER-setup-parameters-designer.png "形式デザイナー: 課税 XML 要素")
 
 このデータ ソースを使用することで、パワー ユーザーはデータ ソースに関連する実際の法人を参照することなく、法人非依存のルールとして、ER 形式内にデータ フィルター処理を構成することができます。
 
-> [!div class="mx-imgBorder"]
-> ![形式デザイナーのマッピングのスクリーンショット](media/ER-setup-parameters-datasource.png "形式デザイナーのマッピングのスクリーンショット")
+![形式デザイナーのマッピングのスクリーンショット](media/ER-setup-parameters-datasource.png "形式デザイナーのマッピングのスクリーンショット")
 
 この機能を使用すると、ビジネス ユーザーは Finance and Operations のユーザー インターフェイスで、ER 形式固有の会社マスター データを設定することができます。
 
-> [!div class="mx-imgBorder"]
-> ![アプリケーション固有のパラメーター: 条件画面 1](media/ER-setup-parameters-UI.png "アプリケーション固有のパラメーター: 条件画面 1")
+![アプリケーション固有のパラメーター: 条件画面 1](media/ER-setup-parameters-UI.png "アプリケーション固有のパラメーター: 条件画面 1")
 
 これは、対応する ER 形式の実行を制御する可能性がある、任意の法人に対して行うことができます。
 
-> [!div class="mx-imgBorder"]
-> ![アプリケーション固有のパラメーター: 条件画面 2](media/ER-setup-parameters-UI-screen-2.png "アプリケーション固有のパラメーター: 条件画面 2")
+![アプリケーション固有のパラメーター: 条件画面 2](media/ER-setup-parameters-UI-screen-2.png "アプリケーション固有のパラメーター: 条件画面 2")
 
 ER 形式の実行中は、その実行を制御している法人に応じて、ER 形式の対応するデータ ソースにより、法人固有のマスター データのセットが使用されます。
 

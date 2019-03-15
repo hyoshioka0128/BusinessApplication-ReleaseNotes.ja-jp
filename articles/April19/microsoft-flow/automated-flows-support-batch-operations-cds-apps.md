@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 0018849723c6214f53a49660357b06a4b137fe49
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 7b7ff6b8d1dcd89a7b50c6f99d972d22a9fe647a
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210479"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288165"
 ---
 # <a name="automated-flows-support-batch-operations-in-cds-for-apps"></a>自動フローによる CDS for Apps でのバッチ操作のサポート
 
@@ -25,7 +25,6 @@ Common Data Service (CDS) for Apps で一度に多くのアクションを実行
 
 このリリースでは、フローに**バッチ** スコープを追加して、すべての異なる操作を CDS for Apps の 1 回の呼び出しにまとめることができ、パフォーマンスが劇的に向上します。 これを使用するには、**Common Data Service** コネクタで**バッチ**を探します。 このスコープを Microsoft Flow デザイナーに追加した後は、任意の CDS for Apps アクションをその中に追加できます。 バッチ スコープに他のサービスのアクションを含めることはできません。 そのような場合は、バッチの前後で他のアクションを実行する必要があります。
 
-> [!div class="mx-imgBorder"]
-> ![フローのバッチ スコープ](media/BatchOperations-1.png "フローのバッチ スコープ")
+![フローのバッチ スコープ](media/BatchOperations-1.png "フローのバッチ スコープ")
 
 バッチ要求を使用するのが最善なのは、相互に関連付けられていないエンティティに対して操作を実行する場合であることに注意してください。 取引先企業の主要な取引先担当者の取得など、関連付けられているレコードに対する操作の中には、バッチ処理を使用せずに単一の操作で実行できるものがあります。

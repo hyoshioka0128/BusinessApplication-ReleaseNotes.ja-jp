@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 ms.reviewer: deonhe
-ms.openlocfilehash: 7484d9f7a4742b7d979d9a0642ab84949a014fe7
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: a218fcb5cf4f03267a77e4693e1d3eedd3f13746
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210747"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287516"
 ---
 # <a name="common-data-model-cdm"></a>Common Data Model (CDM)
 [!include[cdm-data-integration banner](../includes/cdm-data-integration.md)]
@@ -20,8 +20,7 @@ ms.locfileid: "210747"
 
 現在の Common Data Model (CDM) では、モジュール式で拡張可能なビジネス エンティティ (取引先企業、リード、営業案件など) と、観察データの概念 (リンクのクリックや電子メールのオープンなど) が提供されています。 それにより、よく知られたスキーマ内のデータと、データ サイロ、アプリケーション、展開をまたがって一貫性を持つセマンティックが統合されます。
 
-> [!div class="mx-imgBorder"]
-> ![CDM によりプロデューサーとコンシューマーがデータ レイク内で相互作用できる](media/common-data-model-cdm-1.png "CDM によりプロデューサーとコンシューマーがデータ レイク内で相互作用できる")
+![CDM によりプロデューサーとコンシューマーがデータ レイク内で相互作用できる](media/common-data-model-cdm-1.png "CDM によりプロデューサーとコンシューマーがデータ レイク内で相互作用できる")
 
 CDM の形式でデータを実装、生成、消費する製品、プラットフォーム、サービスの範囲は、Microsoft の内外で拡大し続けています。
 

@@ -7,17 +7,23 @@ ms.date: 01/21/2018
 ms.topic: article
 ms.service: business-applications
 ms.author: anasyash
-ms.openlocfilehash: 8e768a1cdf54a742fa5ccfcf283d516c247fc073
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: a756740b9f514b6a4ba7e89477b06b1029839994
+ms.sourcegitcommit: 64d4ab0a574d9b68931a7533fe6d0b5226d81bbf
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210562"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "289191"
 ---
 # <a name="additional-russian-localization-features"></a>ロシア語にローカライズされた追加機能
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 次の機能がロシア語にローカライズされて追加されます。
+
+|**月**|**機能**|
+|----|----|
+|2019 年 4 月|- キャッシュ フロー管理<br></br>- その他の収入と支出の利益税登録<br></br>- 加工業者のローカライズ<br></br>- アルコール販売の仕訳帳<br></br>- 電子形式の利益税申告<br></br>- 電子形式の会計申告<br></br>- 運送税登録と電子形式の申告<br></br>- バージョン 5.06 の土地税登録と電子形式の申告 (2018 年より)<br></br>- バージョン 5.05 の評価税登録と電子形式の申告 (2019 年より)<br></br>- バージョン 5.06 の電子形式での VAT 申告 (2019 年より)<br></br>- 電子形式での売上仕訳帳、購買帳簿仕訳帳、Facture 仕訳帳 (2019 年より) |
+|2019 年 5 月|- 電子形式でのアルコール販売申告<br></br>- 商品の輸入での電子形式の間接税申告 |
+
 
 **キャッシュ フロー管理**
 
@@ -75,9 +81,6 @@ ms.locfileid: "210562"
 
 この機能を使用すると、不動産資産の技術情報と税情報を管理し、評価税登録を計算して、評価税の電子形式での申告書を生成できます (2019 年の申告から適用可能)。
 
-**電子形式でのアルコール販売申告**
-
-電子申告の設定を利用して、電子形式のアルコール販売申告フォーム 5、6、7、11、12 を印刷できます。
 
 **バージョン 5.06 の電子形式での VAT 申告 (2019 年より)**
 
@@ -89,6 +92,11 @@ ms.locfileid: "210562"
 
 この機能を使用すると、売上仕訳帳、購買帳簿仕訳帳、Facture 仕訳帳を電子形式で生成できます (2019 年から適用可能)。 売上帳簿と購買帳簿の操作方法の詳細については、「[売上帳簿仕訳帳、購買帳簿仕訳帳、請求 (Facture) 仕訳帳](https://docs.microsoft.com/dynamics365/unified-operations/financials/localizations/rus-sales-books-purchase-books)」の記事を参照してください。
   
+
+**電子形式でのアルコール販売申告**
+
+電子申告の設定を利用して、電子形式のアルコール販売申告フォーム 5、6、7、11、12 を印刷できます。
+
 **商品の輸入での電子形式の間接税申告**
   
 この機能を使用すると、関税同盟を締結している国から輸入した商品にかかる間接 (源泉徴収) 税 (VAT と物品税) の還付を計算し、税申告を電子形式で生成できます。

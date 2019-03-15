@@ -9,14 +9,15 @@ ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: ad7835bf82f4e2a20196fe657f8fdc4de4d55c8e
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 8cad688b6ef1b775133d63b6bcad615121d591a9
+ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210733"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "404667"
 ---
 # <a name="contextual-flows-power-automation-in-microsoft-teams"></a>Microsoft Teams でのコンテキスト フローによる高度な自動化
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
 
 
@@ -29,8 +30,7 @@ Microsoft Flow は、すべてのユーザーが Microsoft Teams で高度な自
 
 これらの新機能は、Teams *アプリ* (専用の [フロー] タブなど) からだけでなく、メッセージやファイルなどのエンティティからメニュー項目を介してコンテキストに応じて有効にすることもできます。
 
-> [!div class="mx-imgBorder"]
-> ![Microsoft Teams の統合ポイント](./media/TeamsIntegrationPoints-1.png "Microsoft Teams の統合ポイント")
+![Microsoft Teams の統合ポイント](./media/TeamsIntegrationPoints-1.png "Microsoft Teams の統合ポイント")
 
 セットアップが簡単になっただけでなく、Microsoft Flow では、適応型カードによるチャネル通知、個人通知、さらには Team イベントやチャネル イベントのワークフローを作成する機能もサポートされるようになりました。 シナリオの例をいくつか示します。
 

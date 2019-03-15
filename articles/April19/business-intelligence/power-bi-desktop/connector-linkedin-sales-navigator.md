@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: kimani
 ms.reviewer: mihart
-ms.openlocfilehash: 7cadf890267d55f5cd917daadd8f178e5b159f86
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: b416dbd9e84ca9bad179ebac1046615522cfc1e8
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210681"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286705"
 ---
 # <a name="connector-for-linkedin-sales-navigator"></a>LinkedIn Sales Navigator 用コネクタ 
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
@@ -21,8 +21,7 @@ ms.locfileid: "210681"
 
 Power BI Desktop に新しいコネクタが追加され、LinkedIn Sales Navigator から組織のデータをインポートできるようになります。
 
-> [!div class="mx-imgBorder"]
-> ![LinkedIn Sales Navigator](media/connector-linkedin-sales-navigator-1.png "LinkedIn Sales Navigator")
+![LinkedIn Sales Navigator](media/connector-linkedin-sales-navigator-1.png "LinkedIn Sales Navigator")
 <!-- picture -->
 *Power BI Desktop での LinkedIn Sales Navigator コネクタ*
 

@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mhart
 ms.reviewer: m-hartmann
-ms.openlocfilehash: 3fba6e31a198b11c23312ee9c0029b18799afb0d
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 99327dae9b8300c81b6511a3ca728af91d592dae
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211042"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287092"
 ---
 #  <a name="alerts"></a>通知
 [!include[dynamics365-ai-market-insights banner](../../includes/dynamics365-ai-market-insights.md)]
@@ -24,5 +24,4 @@ ms.locfileid: "211042"
 
 ユーザーは、自分のニーズに合わせて、通知の頻度 (毎日または毎週) やその他の基本設定をカスタマイズできます。 さらに、詳細な情報を提供して検索トピックを絞り込み、ニュースや分析情報をさらに調整することができます。
 
-> [!div class="mx-imgBorder"]
-> ![通知のサンプル スクリーンショット](media/alert-email-sample.png "通知のサンプル スクリーンショット")
+![通知のサンプル スクリーンショット](media/alert-email-sample.png "通知のサンプル スクリーンショット")

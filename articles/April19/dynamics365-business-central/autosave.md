@@ -1,7 +1,7 @@
 ---
 title: 自動保存インジケーター
 description: 変更は自動的に保存されます。
-author: blazkote
+author: kotelko
 ms.reviewer: edupont
 ms.date: 01/21/2019
 ms.topic: article
@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: blazkote
 audience: end user
-ms.openlocfilehash: c6384d9abd667afb170380fd8c564ff2901a3ade
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 98c9eee8e7968f7414b700b325c5fb7d7e5f1865
+ms.sourcegitcommit: 163b0e8ec8da8ef8bbe43f302c561bbaed43d0be
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210306"
+ms.lasthandoff: 01/28/2019
+ms.locfileid: "290571"
 ---
 # <a name="autosave-indicator"></a>自動保存インジケーター
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

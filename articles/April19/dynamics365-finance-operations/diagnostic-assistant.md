@@ -6,12 +6,12 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: manalidongre
-ms.openlocfilehash: ad0b2c070c0a244157d010a2c3a95298d6c8b91b
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: d2aeba5462a75638e04624a0d82eb5525f530266
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210945"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288223"
 ---
 #  <a name="diagnostic-assistant"></a>診断アシスタント
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -24,7 +24,6 @@ Dynamics 365 for Finance and Operations は広範にカスタマイズされて�
 
 カスタマイズから発生する問題をトラブルシューティングするため、IT 管理者はアクティビティ監視、SQL の分析情報、重要な正常性メトリック、およびライブ ビューを利用できます。 この機能の目的は、このエクスペリエンスを簡単にすることです。 可能性のある根本原因を特定した後、管理者は、最初に報告された問題を軽減するために実行できる、一連の定義済みアクションのいずれかを選択できます。  
 
-> [!div class="mx-imgBorder"]
-> ![問題の診断と可能な解決策](media/diagnostic-assistant-1.jpg "問題の診断と可能な解決策")
+![問題の診断と可能な解決策](media/diagnostic-assistant-1.jpg "問題の診断と可能な解決策")
 <!-- picture -->
 

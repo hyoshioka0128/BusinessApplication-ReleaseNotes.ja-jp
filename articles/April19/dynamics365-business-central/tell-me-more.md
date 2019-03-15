@@ -1,7 +1,7 @@
 ---
 title: コンテキスト検索エクスペリエンスの改善
 description: 操作アシスト ウィンドウの機能強化。
-author: blazkote
+author: kotelko
 ms.reviewer: edupont
 ms.date: 01/21/2019
 ms.topic: article
@@ -10,19 +10,24 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: blazkote
 audience: developer, end user
-ms.openlocfilehash: b1957757d09d66f622688fcd66f5dbd9eb35149f
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 3b5f0573d7499e283916a8f77479c259f40dec41
+ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210459"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "404502"
 ---
 # <a name="improved-contextual-search-experience"></a>コンテキスト検索エクスペリエンスの改善
 
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
+## <a name="search-results-from-appsource"></a>AppSource からの検索結果
 Microsoft では、AppSource でより柔軟な用語を使用してパートナー ソリューションを検索できるようにすることで、操作アシスト (Alt+Q) 機能を改善しました。 これによりユーザーは、パートナー コミュニティから入手できる幅広いソリューションの中から目的に合うソリューションを探し、Business Central を簡単に拡張できるようになります。
 
-# <a name="additional-search-terms"></a>追加の検索語
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+![AppSource からの検索結果のスクリーンショット](media/search_commission.png "検索結果には AppSource 検索からの結果も含まれています")
+
+## <a name="additional-search-terms"></a>追加の検索語
+
 新規ユーザーの場合は、Business Central にある関連エンティティの名前とは異なるビジネス用語を使用することがよくあります。 たとえば、"項目" ではなく "製品" を使用したり、"顧客" ではなく "クライアント" を使用したりすることがあります。
 
 開発者は、ページやレポートに代替の検索語を追加することで、ユーザーが目的のエンティティをより簡単に見つけられるようにすることができます。 開発者は、ページやレポートの AdditionalSearchTermsML プロパティで、会社固有の用語を追加することができます。ユーザーはその用語を [操作アシスト] ボックスに入力して、目的のページやレポートを見つけることができます。
@@ -70,8 +75,7 @@ To get started with model‑driven apps, use designers to:
 - Add dashboards. Include model‑driven dashboards or embedded Power BI content within your app.
 - Include entities and components. Add specific forms, views, dashboards, and charts for targeted entities to craft your user experience.
 
-> [!div class="mx-imgBorder"]
-> ![Photograph of a man using a Hololens to view augmented reality in Connected Field Service](/articles/Spring18/media/507e34a661a1b831d21ea3dadda9c6cf.jpg "Field Service IoT")
+![Photograph of a man using a Hololens to view augmented reality in Connected Field Service](/articles/Spring18/media/507e34a661a1b831d21ea3dadda9c6cf.jpg "Field Service IoT")
 
 ## Compliance, privacy and security considerations
 List any compliance, privacy and security considerations that customers should plan for, including any steps or tools provided to help customers comply with GDPR.

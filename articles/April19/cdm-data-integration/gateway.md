@@ -6,12 +6,12 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: deonhe
-ms.openlocfilehash: 9da1016b709e23824e78cf6dbe18904bca049f51
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: fc1e8bfc3cc997cc0df6a389c94c59a45113e3a1
+ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210725"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "404689"
 ---
 # <a name="gateway"></a>ゲートウェイ
 [!include[cdm-data-integration banner](../includes/cdm-data-integration.md)]

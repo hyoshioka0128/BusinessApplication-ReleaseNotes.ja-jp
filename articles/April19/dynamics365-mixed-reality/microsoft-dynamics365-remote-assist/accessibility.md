@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mapau
 ms.reviewer: v-brycho
-ms.openlocfilehash: 1779f2175d1762cfc88e4f703ce4738c917373db
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: d48d2ea3b60c334dd3248b00e5fabb9bbd44e787
+ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210688"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "405096"
 ---
 #  <a name="improved-accessibility"></a>アクセシビリティの改善
 [!include[microsoft-dynamics365-remote-assist banner](../../includes/microsoft-dynamics365-remote-assist.md)]
@@ -22,4 +22,4 @@ Remote Assist を身体的能力に関係なくすべての第一線の作業者
 
 - 着信呼び出しの間に発信者の名前がわかる場合は案内されるように、読み上げ可能な発信者 ID の追加。
 - 音声と視線入力のみを使用したインクと矢印の配置 (ジェスチャ不要)。
-- 注釈の作成者を示すための、色を使用しない視覚的キューの提供。
+

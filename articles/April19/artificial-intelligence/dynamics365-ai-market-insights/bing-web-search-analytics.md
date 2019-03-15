@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mhart
 ms.reviewer: m-hartmann
-ms.openlocfilehash: dd11a0dfa8763d302e57d279a25d24faa00bdc46
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 040dde834340714bfd1b6713e3c05938dbcbe467
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210895"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286655"
 ---
 #  <a name="bing-web-search-analytics"></a>Bing Web 検索の分析
 [!include[dynamics365-ai-market-insights banner](../../includes/dynamics365-ai-market-insights.md)]
@@ -30,7 +30,6 @@ ms.locfileid: "210895"
 
 **場所**: これらの分析情報は、米国、英国、オーストラリア、カナダ (英語およびフランス語)、フランス、ドイツ、オランダ、ブラジル、オーストリア、ベルギー、ノルウェー、スウェーデン、スイス、香港特別行政区、インド、および台湾でサポートされています。
 
-> [!div class="mx-imgBorder"]
-> ![検索からの人口統計の内訳を示すスクリーンショット](media/bing-web-search-analytics-1.png "検索からの人口統計の内訳")
+![検索からの人口統計の内訳を示すスクリーンショット](media/bing-web-search-analytics-1.png "検索からの人口統計の内訳")
 <!-- picture -->
 

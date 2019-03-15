@@ -1,38 +1,39 @@
 ---
-title: Dynamics 365 AI for Sales - Sales Insights アプリケーション
+title: 営業マネージャー向けの Sales Insights アプリケーション
 description: Dynamics 365 AI for Sales - Sales Insights アプリケーション
 author: ReneeW-CPub
-ms.date: 01/21/2019
+ms.date: 02/27/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.reviewer: ''
-ms.openlocfilehash: 2ea01172844415a9a0bfe6a493faf73c39b7937a
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: fbc4a655b3ef385da6ed7419e11eac50b67df324
+ms.sourcegitcommit: 0bbb1567f9ea5f74c257d0419b0032edb55d766b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210863"
+ms.lasthandoff: 02/28/2019
+ms.locfileid: "770815"
 ---
-#  <a name="dynamics-365-ai-for-sales-sales-insights-application-for-sales-managers"></a>Dynamics 365 AI for Sales: 営業マネージャー向けの Sales Insights
+#  <a name="sales-insights-application-for-sales-managers"></a>営業マネージャー向けの Sales Insights アプリケーション
 [!include[dynamics365-ai-sales banner](../../includes/dynamics365-ai-sales.md)]
 
 
 ## <a name="pipeline-and-team-management"></a>パイプラインとチーム管理
 
-Dynamics 365 AI for Sales では、パイプラインと取引に関する主要業績評価指標 (KPI) を含む対話型レポートが提供されます。 KPI とレポートに加えて、AI for Sales では営業マネージャーに AI 主導の分析情報と実行すべきアクションが提供されます。
+AI for Sales では、パイプラインと取引に関する主要業績評価指標 (KPI) を含む対話型レポートが提供されます。 KPI とレポートに加えて、AI for Sales では営業マネージャーに AI 主導の分析情報と実行すべきアクションが提供されます。
 
 ### <a name="kpis-visuals-and-reports-generally-available"></a>KPI、ビジュアル、およびレポートの一般提供
 
-2018 年秋にリリースされた Sales Insights アプリケーションのプレビューでは、パイプラインと取引を監視および管理するのに役立つ主要業績評価指標 (KPI) を含む対話型レポートが、営業マネージャーに提供されます。 営業マネージャーは、個々のレポートにドリルダウンして、チームの行動を分析することができます。 *ハイライト* セクションには関連する取引の分析情報と顧客のニュースが表示され、業務の遂行に必要な情報をマネージャーに提供します。 チャートとして利用できないものがある場合、営業マネージャーは自然言語を使用して埋め込み Q&A でそのクエリを実行できます。
+2018 年 10 月にリリースされた Sales Insights アプリケーションのプレビューでは、パイプラインと取引を監視および管理するのに役立つ主要業績評価指標を含む対話型レポートが、営業マネージャーに提供されます。 営業マネージャーは、個々のレポートにドリルダウンして、チームの行動を分析することができます。 *ハイライト* セクションには関連する取引の分析情報と顧客のニュースが表示され、業務の遂行に必要な情報をマネージャーに提供します。 チャートとして利用できないものがある場合、営業マネージャーは自然言語を使用して埋め込み Q&A でそのクエリを実行できます。
 
-![Dynamics 365 AI for Sales: スタンドアロン エクスペリエンス ホームページ](media/dynamics365-ai-sales-standalone-experience-1.png "Dynamics 365 AI for Sales: スタンドアロン エクスペリエンス ホームページ")
+![Dynamics 365 Sales Insights: スタンドアロン エクスペリエンス ホームページ](media/dynamics365-ai-sales-standalone-experience-1.png "Dynamics 365 Sales Insights: スタンドアロン エクスペリエンス ホームページ")
 <!-- Picture 1 -->
 
-### <a name="customization-and-extension-options-for-ai-for-sales-reports"></a>AI for Sales のレポートのカスタマイズと拡張オプション
+### <a name="sales-insights"></a>Sales Insights
 
-営業マネージャーは、作成済みのレポートを使用して、チームの業績の概要を把握します。 売上予算の達成状況と、販売担当者が時間を費やしている部分を示すビジュアル化を確認します。 また、データが何を表しているのか、そして明白ではない傾向についての分析情報も取得します。 すべての営業マネージャーが必要な情報を正確に入手できるよう、Dynamics 365 AI for Sales では営業マネージャーがカスタマイズを行ったり、さらには独自の Power BI レポートをホストしたりできるようになります。 これにより、営業マネージャーはすべての情報を一箇所で確認できます。
+2018 年 10 月にリリースされた Sales Insights アプリケーションのプレビューでは、パイプラインと取引を監視および管理するのに役立つ主要業績評価指標 (KPI) を含む対話型営業レポートが、営業マネージャーに提供されました。 また、営業マネージャーは、コール インサイトを生成し、ビジネスの結果を良くするために担当者を指導することができました。
 
+2019 年 7 月には、"スマート コーチング" の両方の関係者に対して情報の透明性を確保する Sales insights アプリケーションの機能が販売担当者に提供される予定です。 Dynamics 365 の結果およびプロセス データと、Office 365 のアクティビティ データおよびセールス コール データが結び付くので、セールス アシスタントはすぐに使えるコーチング インサイトをマネージャーと販売担当者にアプリ内で直接表示できます。 会話のレビューは、感情検出とブランドの自動検出によってさらに向上します。 マネージャーは特定の会話に対するトランスクリプトですぐにコーチング コメントを提供できるので、コーチング ループを閉じることができます。 Business Q&A を使用した自然言語でのクエリにより、会話データと販売データを調査できるようになります。 最後に、顧客がコール データを取り込むためのオンボーディング エクスペリエンスは、記録プラットフォーム パートナーシップによっていっそう簡単になります。
 
 ### <a name="improved-search-experience"></a>検索エクスペリエンスの改善 
 営業マネージャーは、営業マネージャー向けスタンドアロン エクスペリエンス内の改善された検索エクスペリエンスを使用して、探している情報とインサイトをより迅速に見つけることができます。 最も一般的な質問や重要な質問に対する回答が、質問に回答するための最良の主要業績評価指標を含む対話型レポートを営業マネージャーがすばやく開いてフィルター処理するのに役立つ、厳選された結果を通して提供されます。
@@ -50,4 +51,4 @@ Dynamics 365 AI for Sales では、パイプラインと取引に関する主要
 コール インテリジェンス機能は、よりスマートなコーチングを可能にし、販売転換率を高めるのに役立ちます。 コール センターの電話録音システムをアプリに接続することにより、コール センター管理者は、営業担当者が顧客とどのように関わっているのかをよりよく理解するのに役立つ会話の分析情報を生成できます。
 
 ### <a name="enrich-existing-call-intelligence-functionality-and-user-experience"></a>既存のコール インテリジェンス機能を増やし、ユーザー エクスペリエンスを高める
-2018 年秋のリリースでは、コール インテリジェンス製品の機能により、インサイド セールス マネージャーはコール分析情報を生成し、担当者の売上を増やすことができました。 2019 年 4 月リリースでは、追加機能と強化されたユーザー エクスペリエンスが提供される予定です。
+2018 年 10 月のリリースでは、コール インテリジェンス製品の機能により、インサイド セールス マネージャーはコール分析情報を生成し、担当者の売上を増やすことができました。 2019 年 4 月リリースでは、追加機能と強化されたユーザー エクスペリエンスが提供される予定です。

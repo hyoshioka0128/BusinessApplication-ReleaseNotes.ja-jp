@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: dgittler
 ms.reviewer: krbjoran
-ms.openlocfilehash: b692f67f502021377fe4a3e725a4427b5cf10c19
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 17f715dec28fefd69f9560607142d2850daf0b2e
+ms.sourcegitcommit: 7a0b27faf75a86b1f5c7e82ff257f3d2b66ad81c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210505"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "403800"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-for-field-service"></a>Dynamics 365 for Field Service の新機能と予定されている機能
 
@@ -34,8 +34,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [デバイスのコマンド](embedded-iot-iot-central.md#device-commands)                                     | 一般提供 | 2019 年 6 月           |
 | [デバイスのプロビジョニング](embedded-iot-iot-central.md#device-provisioning)                                 | 一般提供 | 2019 年 6 月           |
 | **スケジューリング**                                          |                      |                      |
-| [変動リソースの場所の最適化](scheduling.md#variable-resource-location-optimization)         | 一般提供 | 2019 年 9 月            |
-| [ポータルを介したセルフサービス スケジューリング](scheduling.md#self-service-scheduling-via-a-portal)                  | 一般提供 | 2019 年 9 月            |
+| [さまざまな場所へのリソースの配置の最適化](scheduling.md#variable-resource-location-optimization)         | 一般提供 | 2019 年 9 月            |
 | [最適化の分析情報](scheduling.md#optimization-insights)                               | 一般提供 | 2019 年 9 月            |
 | [「できるだけ早く (ASAP)」の最適化目標](scheduling.md#optimization-objective-for-as-soon-as-possible-asap) | 一般提供 | 2019 年 9 月            |
 | **技術者の生産性**                             |                      |                      |

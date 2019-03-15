@@ -6,12 +6,12 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: renwe
-ms.openlocfilehash: 3f2746e29e2c37e1614740e71a90554371c3309a
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: ffef1052f98df8529f2883f25cbec17dac572036
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210720"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287022"
 ---
 #  <a name="near-real-time-marketing-engagement-insights-from-adobe"></a>Adobe からのほぼリアルタイムでのマーケティング エンゲージメントの分析情報
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -36,7 +36,6 @@ Adobe Campaign のサブスクライバーは、マーケティング活動と�
 
 - Relationship Assistant には、販売担当者がタイムリーに対応するためのカスタマイズ可能な電子メール テンプレートでフォローアップできるよう、クイック アクションが含まれます。
 
-    > [!div class="mx-imgBorder"]
-    > ![画像を挿入する](media/near-real-time-marketing-engagement-insights-adobe-1.png "画像を挿入する")
+    ![画像を挿入する](media/near-real-time-marketing-engagement-insights-adobe-1.png "画像を挿入する")
 <!-- Picture 1 -->
 

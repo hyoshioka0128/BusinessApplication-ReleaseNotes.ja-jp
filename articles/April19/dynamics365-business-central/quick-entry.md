@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: mikebc
 audience: developer, end user, customizer
-ms.openlocfilehash: ea8949190962c780898a0eb0ed5d0a3c11256478
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 8ab1b587dfb80b177b290429cec4f2dd5a47a697
+ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210829"
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "285315"
 ---
 # <a name="quick-entry"></a>簡単入力
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -27,13 +27,12 @@ ms.locfileid: "210829"
 
 簡単入力は、ページ上の編集可能なフィールドを移動する代替手段を提供する、シンプルかつ強力な機能です。 Enter キーの動作は Tab キーの動作とは異なり、必須でないフィールドをスキップし、そのページの次の簡単入力フィールドにフォーカスを移動します。
 
-> [!div class="mx-imgBorder"] 
-> ![簡単入力の対象のフィールドが人為的にハイライト表示されている、複数のフィールドが存在するページのスクリーンショット。](media/quick-entry-animated.gif "簡単入力の対象のフィールドが人為的にハイライト表示されている文書ページ")
+![簡単入力の対象のフィールドが人為的にハイライト表示されている、複数のフィールドが存在するページのスクリーンショット](media/quick-entry-animated.gif "簡単入力の対象のフィールドが人為的にハイライト表示されている文書ページ")
 
 ## <a name="including-or-excluding-fields-from-the-quick-entry-path"></a>簡単入力パスに対するフィールドの追加または除外
 簡単入力は最新かつイマーシブなパーソナル化エクスペリエンスを使用してパーソナライズ可能で、ユーザーは Business Central を自身または自身の部署のデータ入力方法に合わせてカスタマイズできます。
 
-開発者は自身のアプリケーションで簡単入力フィールドの初期パスをページごとに定義し、それを拡張機能でカスタマイズできるほか、特定のロールのプロファイルに合わせてカスタマイズすることもできます。 さらに、QuickEntry AL プロパティは簡単入力の動的パスを別個のフィールドに作成する式をサポートします。
+開発者は自身のアプリケーションで簡単入力フィールドの初期パスをページごとに定義し、それを拡張機能でカスタマイズできるほか、特定のロールのプロファイルに合わせてカスタマイズすることもできます。 さらに、簡単入力 AL プロパティは簡単入力の動的パスを別個のフィールドに作成する式をサポートします。
 
 ## <a name="a-truly-productive-experience"></a>生産性の高いエクスペリエンス
 簡単入力は集中的に利用するユーザーのニーズに合わせて慎重に設計されており、Dynamics NAV の以前の簡単入力機能から次のように改善されています。
@@ -43,17 +42,14 @@ ms.locfileid: "210829"
 - そのページの最後の簡単入力フィールドに到達すると一回りして最初のフィールドに戻る。
  
 <!--
- 
 ## Try it now
 Experience the difference between using Tab and Enter keys on a new sales order by signing in to your online environment at https://businesscentral.dynamics.com/?page=42&mode=create
-
 ## Resources
 Using Quick Entry 
 Keyboard Shortcuts
 Personalize your workspace
 Technical Documentation: QuickEntry property
 Technical Documentation: Using the Designer
-
 -->
 
 ## <a name="tell-us-what-you-think"></a>フィードバック

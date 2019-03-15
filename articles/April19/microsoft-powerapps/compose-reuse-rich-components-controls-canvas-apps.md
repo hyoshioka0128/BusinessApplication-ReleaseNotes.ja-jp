@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: yifwang
 audience: Power user
-ms.openlocfilehash: fb5021827726c4bc96b524ff631b5b64cc556b9a
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 25d392683f17ed64aec8b0f2370783c85f437f72
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210679"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287961"
 ---
 # <a name="compose-and-reuse-rich-components-and-controls-in-canvas-apps-public-preview"></a>キャンバス アプリでリッチ コンポーネントとコントロールを作成して再利用する (パブリック プレビュー)
 
@@ -35,5 +35,4 @@ ms.locfileid: "210679"
 
 キャンバス コンポーネントを使用することで、作成者は、画面やアプリ間で構成要素をすばやく作成、使用、共有し、アプリをより迅速に構築し、アプリをより簡単に維持することができます。
 
-> [!div class="mx-imgBorder"]
-> ![キャンバス コンポーネントを作成する](media/createcomponent.JPG "キャンバス コンポーネントを作成する")
+![キャンバス コンポーネントを作成する](media/createcomponent.JPG "キャンバス コンポーネントを作成する")

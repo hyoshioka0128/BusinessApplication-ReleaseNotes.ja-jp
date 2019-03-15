@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 7c25d16dd337053868f978d45df9856a1b2d4206
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: ffda129b1e639c0fe6a3879bb2bdc01f9294d7f5
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210937"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287740"
 ---
 # <a name="seamless-flow-creation-in-powerapps"></a>PowerApps でのシームレスなフロー作成
 
@@ -27,8 +27,7 @@ Microsoft Flow は、モデル駆動型によるキャンバスベースの Powe
 
 Microsoft Flow では、ビジネス プロセス フローとインスタント フローの両方を、モデル駆動型によるキャンバスベースのアプリケーション コンテキストで構築できる、シームレスなオーサリング エクスペリエンスを実現しています。 ユーザーは、コマンド バーで **フロー** を選択するだけで、PowerApps Studio 内から高度なフロー作成を行うことができます。 フロー作成をいったんやめても、アプリのコンテキスト内なので、簡単に作成を続行することができます。より本格的にフローを設計したい場合は、新しいタブを開いてフル機能のフロー デザイナーで作業することもできます。もちろん、それまでの作業内容は維持されます。
 
-> [!div class="mx-imgBorder"]
-> ![PowerApps キャンバス スタジオ内での作成](media/SeamlessFlowcreationinPowerApps-1.png "PowerApps キャンバス スタジオ内での作成")
+![PowerApps キャンバス スタジオ内での作成](media/SeamlessFlowcreationinPowerApps-1.png "PowerApps キャンバス スタジオ内での作成")
 
 作成のエクスペリエンスが改善されるだけでなく、機能面でも重要な改善点がいくつかあります。
 

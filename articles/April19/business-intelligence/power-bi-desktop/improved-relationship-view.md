@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: kimani
 ms.reviewer: mihart
-ms.openlocfilehash: 25bdc241018f46d95d2562092d71cac41a8e1c6e
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: dfde454004980d7d9710c564556e733738155434
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210834"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286799"
 ---
 # <a name="improved-relationship-view"></a>リレーションシップ ビューの改善
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
@@ -22,13 +22,11 @@ ms.locfileid: "210834"
 
 次の例では、メイン レイアウト "All tables" にモデル内の 16 個のテーブルがすべて含まれていますが、"Quota" レイアウトにはクォータに関連する 3 つのテーブルだけが含まれています。 フィールド リストからドラッグするか、すでにレイアウトに含まれているテーブルを選択してそれに関連するすべてのテーブルを含めることで、テーブルをレイアウトに追加できます。
 
-> [!div class="mx-imgBorder"]
-> ![改善されたリレーションシップ ビューで多数のテーブルがあるモデル](media/improved-relationship-view-1.png "改善されたリレーションシップ ビューで多数のテーブルがあるモデル")
+![改善されたリレーションシップ ビューで多数のテーブルがあるモデル](media/improved-relationship-view-1.png "改善されたリレーションシップ ビューで多数のテーブルがあるモデル")
 <!-- picture -->
 *改善されたリレーションシップ ビューで多数のテーブルがあるモデル*
 
-> [!div class="mx-imgBorder"]
-> ![モデル内のテーブルのサブセットが表示されている改善されたリレーションシップ ビュー](media/improved-relationship-view-2.png "モデル内のテーブルのサブセットが表示されている改善されたリレーションシップ ビュー")
+![モデル内のテーブルのサブセットが表示されている改善されたリレーションシップ ビュー](media/improved-relationship-view-2.png "モデル内のテーブルのサブセットが表示されている改善されたリレーションシップ ビュー")
 <!-- picture -->
 *モデル内のテーブルのサブセットが表示されている改善されたリレーションシップ ビュー*
 
@@ -36,8 +34,7 @@ ms.locfileid: "210834"
 
 次の例では、千単位の区切り記号の使用および表示する小数点以下の桁数に関する書式設定オプションを、選択した 3 つのフィールド "SalesAmount"、"TaxAmt"、"TotalProductCost" について、1 回の編集で簡単に変更できます。
 
-> [!div class="mx-imgBorder"]
-> ![改善されたリレーションシップ ビューでは、プロパティの書式設定を一括編集で簡単に変更できる](media/improved-relationship-view-3.png "改善されたリレーションシップ ビューでは、プロパティの書式設定を一括編集で簡単に変更できる")
+![改善されたリレーションシップ ビューでは、プロパティの書式設定を一括編集で簡単に変更できる](media/improved-relationship-view-3.png "改善されたリレーションシップ ビューでは、プロパティの書式設定を一括編集で簡単に変更できる")
 <!-- picture -->
 *改善されたリレーションシップ ビューでは、プロパティの書式設定を一括編集で簡単に変更できる*
 
@@ -45,7 +42,6 @@ ms.locfileid: "210834"
 
 最後に、プロパティには新しい "フォルダーの表示" プロパティが含まれます。 これにより、モデル作成者はフィールドをフォルダーに整理して、多数のフィールドを単一のフラット リストとして表示するのを回避できます。 次の例では、Customer テーブルの一部のフィールドが、"Contact Information" と "Demographics" というフォルダーにまとめられています。 その後、Power BI Desktop 内と、レポートを Power BI サービスに発行した後の両方で、フィールドを表示するときにこの編成を使用します。
 
-> [!div class="mx-imgBorder"]
-> ![Power BI Desktop で表示フォルダーを作成できる](media/improved-relationship-view-4.png "Power BI Desktop で表示フォルダーを作成できる")
+![Power BI Desktop で表示フォルダーを作成できる](media/improved-relationship-view-4.png "Power BI Desktop で表示フォルダーを作成できる")
 <!-- picture -->
 *Power BI Desktop で表示フォルダーを作成できる*

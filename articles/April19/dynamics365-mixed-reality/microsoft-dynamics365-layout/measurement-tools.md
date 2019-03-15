@@ -7,19 +7,19 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ornella
 ms.reviewer: v-brycho
-ms.openlocfilehash: d31978994f18413ee327495ac7ed3987db07116c
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: fd33de1fa535f641054d88ed1cf25d41c70a5834
+ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210799"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "405008"
 ---
 # <a name="measurement-tool-improvements"></a>測定ツールの改善
 [!include[microsoft-dynamics365-layout banner](../../includes/microsoft-dynamics365-layout.md)]
 
-2019 年 4 月の測定ツールの改良点は以下のとおりです。
+4 月の測定ツールの改良点は以下のとおりです。
 
-- 物体と壁の間、および壁と天井の間で、正確に垂直測定を行う機能。
-- 以前の測定の終点に新しい測定を接続する機能。
-- 資産間の最短距離を測定して空間計画の精度を高める機能。
+- 物体と壁の間、および壁と天井の間で、正確に垂直測定を行う機能
+- 以前の測定の終点に新しい測定を接続する機能
+- 資産間の最短距離を測定して空間計画の精度を高める機能
 

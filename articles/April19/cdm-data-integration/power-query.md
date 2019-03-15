@@ -6,12 +6,12 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: deonhe
-ms.openlocfilehash: 7ae8cc99ee8c4a20074b64c6664629736449ebdc
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 16e399f3df7bb8bf3ebeb9ffcf4f9eacfd9ff75a
+ms.sourcegitcommit: ca9feb07bc4f4050b7621ba462eb0d3ad5cd8359
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210716"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "390067"
 ---
 <!--Are the names in the screenshot from an approved fictitious names list?-->
 
@@ -29,8 +29,7 @@ ms.locfileid: "210716"
 - **データ プロファイリング**: ユーザーが Power Query Editor のデータ プレビュー内でエラー値、空の値、異常値を簡単に特定できるようサポートします。 
 - **Power Query Online の組み込みのブラウジングおよび呼び出しエクスペリエンス**: Azure Machine Learning モデルと Azure Cognitive Services の機能を Power BI データフローの通常のデータ準備ステップとして使用します。 これにより Azure クラウド プラットフォームに Cognitive Services のすぐに使える機能を組み込み、組織のデータ サイエンティストが作成した Azure Machine Learning モデルをデータ アナリストと共有して使用できます。  
 
-   > [!div class="mx-imgBorder"]
-   > ![データ プロファイリングのイメージ](media/data-profiling.png "データ プロファイリングのイメージ")
+   ![データ プロファイリングのイメージ](media/data-profiling.png "データ プロファイリングのイメージ")
 
 今後数か月において、Microsoft ではこれをベースに Power Query のスマート データ準備機能を強化し、データ アナリストが少ない労力でより多くの分析情報をデータから得られるようにします。
 
@@ -41,9 +40,12 @@ ms.locfileid: "210716"
 - Power BI サービス内の (オンプレミス データ ゲートウェイ経由の) SAP BW シングル サインオン (Kerberos)
 - Power BI サービス内の (オンプレミス データ ゲートウェイ経由の) SAP HANA シングル サインオン (SAML)
 - PDF コネクタ
-- AtScale コネクタ
 - Essbase コネクタ
 - IBM DB2 DirectQuery
+
+さらに、次のコネクタがパブリック プレビューに入ります。
+
+- AtScale コネクタ
 
 さらに、Power BI ではエンタープライズ ユーザーのフィードバックに基づいて、SAP HANA と SAP BW コネクタの上に、レポートのユーザーが SAP HANA/BW の変数値を PowerBI.com のレポート消費エクスペリエンス内で修正できる新機能をパブリック プレビューとして公開します。
 

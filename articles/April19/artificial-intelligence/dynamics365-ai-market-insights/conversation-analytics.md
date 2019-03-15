@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mhart
 ms.reviewer: m-hartmann
-ms.openlocfilehash: de3a1b16f1d98c823bcc9f3d423d15ca5e406563
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 38c7bacdeb8cdca748491d5f19a79e4fbb8e0a76
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210580"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286955"
 ---
 #  <a name="conversation-analytics"></a>会話の分析
 [!include[dynamics365-ai-market-insights banner](../../includes/dynamics365-ai-market-insights.md)]
@@ -28,5 +28,4 @@ ms.locfileid: "210580"
 
 **フレーズ クラウドの改善**: 高度なクラスタリング モデルを使用することにより、この機能はタグ クラウドで示されるフレーズの品質を向上させます。 これは、SEO、SEM、ソーシャル クリエイティブ最適化に使用できる関連キーワードの識別に役立ちます。
  
-> [!div class="mx-imgBorder"]
-> ![会話ページのサンプル スクリーンショット](media/new-conversations-page.png "会話ページのサンプル スクリーンショット")
+![会話ページのサンプル スクリーンショット](media/new-conversations-page.png "会話ページのサンプル スクリーンショット")

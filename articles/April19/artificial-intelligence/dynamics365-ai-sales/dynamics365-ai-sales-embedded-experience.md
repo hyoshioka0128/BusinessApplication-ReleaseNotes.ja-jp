@@ -1,20 +1,20 @@
 ---
-title: Dynamics 365 AI for Sales - 埋め込みエクスペリエンス
+title: 販売担当者向け Dynamics 365 for Sales の埋め込み AI 機能
 description: Dynamics 365 AI for Sales - 埋め込みエクスペリエンス
 author: ReneeW-CPub
-ms.date: 01/21/2019
+ms.date: 02/27/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.reviewer: ''
-ms.openlocfilehash: 03bd37c85c1b8cd37d70cda219b9b7c81a65fa83
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 2dd42944d858975c8e1d41d483319a85d99d077b
+ms.sourcegitcommit: 0bbb1567f9ea5f74c257d0419b0032edb55d766b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210305"
+ms.lasthandoff: 02/28/2019
+ms.locfileid: "770716"
 ---
-#  <a name="dynamics-365-ai-for-sales-embedded-capabilities-for-sellers"></a>Dynamics 365 AI for Sales: 販売担当者向けの埋め込み機能
+#  <a name="embedded-ai-capabilities-in-dynamics-365-for-sales-for-sellers"></a>販売担当者向け Dynamics 365 for Sales の埋め込み AI 機能
 [!include[dynamics365-ai-sales banner](../../includes/dynamics365-ai-sales.md)]
 
 
@@ -26,7 +26,3 @@ ms.locfileid: "210305"
 ### <a name="create-and-configure-suggested-actions-relationship-assistant-public-preview"></a>Relationship Assistant の推奨アクションを作成して構成する (パブリック プレビュー)
 
 2019 年 4 月リリースでは、管理者は Relationship Assistant の設定エクスペリエンスから簡単かつ直接的に独自の推奨アクションを作成できます。 イベントと条件を使用して、推奨が作成されるときの状況をカスタマイズできます。 この機能により、組織は販売担当者のワークフローに柔軟に情報を提供し、より迅速な取引の成立を支援できます。
-
-### <a name="access-relationship-assistant-from-microsoft-teams-public-preview"></a>Microsoft Teams から Relationship Assistant にアクセスする (パブリック プレビュー)
-
-今日の販売担当者は、ビジネスに関する最新の分析情報への常時接続と、目標を達成するために迅速に決定を下す能力を必要としています。 Relationship Assistant は、複数のデバイスを対象にコンテキスト対応の分析情報を提供することで、現代の販売担当者のニーズを満たします。 2019 年 4 月リリースの Relationship Assistant は、Microsoft Teams の内部で利用したり、既存のボット エクスペリエンスと統合したりできるようになります。
