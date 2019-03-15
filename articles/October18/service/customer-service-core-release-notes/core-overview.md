@@ -10,10 +10,10 @@ ms.assetid: dd3a539b-eef7-4cd9-90f0-2c42873dc2aa
 ms.author: karthik55217;
 ms.reviewer: anjgupta
 ms.translationtype: HT
-ms.sourcegitcommit: 566d62b456ff1ad482f7bb4b1a7b423e246cc4b4
-ms.openlocfilehash: dcf914db9bbea9c61747e58eb35825a664654933
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
+ms.openlocfilehash: 5a1065a6684d86dd379ba11728d2b141ba7762bd
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/27/2018
+ms.lasthandoff: 03/15/2019
 
 ---
 

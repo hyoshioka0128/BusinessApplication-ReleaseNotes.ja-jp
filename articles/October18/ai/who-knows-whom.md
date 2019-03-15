@@ -11,10 +11,10 @@ author: Annbe
 ms.author: Annbe
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: d32028a55c4b1ea163e60a25515a562172199e4a
-ms.openlocfilehash: cc31f8fe803c41ba9a2012ffb1c8ce175e61446a
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
+ms.openlocfilehash: 1131d748a530f34dbee2f4e3e9ee7f4709d490e7
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/14/2018
+ms.lasthandoff: 03/15/2019
 
 ---
 

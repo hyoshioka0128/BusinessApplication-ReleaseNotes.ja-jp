@@ -11,10 +11,10 @@ author: jasonmsft
 ms.author: jasonhui
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: fb05420a41b932f6ee87f2b8b3598aa971a70ec4
-ms.openlocfilehash: 7176779ae6440309d348468213f4232eb6304dd9
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
+ms.openlocfilehash: 3746ff50d133f7bbdfb8e4253c8cced48e335574
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/10/2018
+ms.lasthandoff: 03/15/2019
 
 ---
 
