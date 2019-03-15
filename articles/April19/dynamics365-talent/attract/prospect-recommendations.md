@@ -6,14 +6,15 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: ''
-ms.openlocfilehash: fb2ac8270022d8f929b5a02c4f6410b3b604396d
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 4f40e5920b9268b2342533208e4ecdb26192543b
+ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210471"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "405107"
 ---
 # <a name="prospect-recommendations-for-jobs"></a>職務の見込み候補者の提案
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 新しい職務が作成されるたびに、採用担当者は過去に類似の職位に応募した人物の中から探し始めると同時に、新しい人材をスカウトして見込み候補者の短いリストを作成します。 これは時間のかかるタスクであり、過去に類似の職位に応募した人物については見直されないことも少なくありません。 Attract は機械学習アルゴリズムを使用することでこのプロセスを簡略化し、採用担当者はグローバルなタレント プールの中から作成した職務に適した候補者をすぐに探し出すことができます。 
 

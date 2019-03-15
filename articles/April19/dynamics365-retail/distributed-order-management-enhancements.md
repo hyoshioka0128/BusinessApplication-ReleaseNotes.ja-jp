@@ -6,12 +6,12 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: renwe
-ms.openlocfilehash: a8b22bda820e41cb105422c2e25640ee90cfe861
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 5a554195613b89a7ce673a43659ff6bea81763fe
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210642"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287146"
 ---
 #  <a name="distributed-order-management-enhancements"></a>分散型注文管理の機能強化
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
@@ -52,8 +52,7 @@ ms.locfileid: "210642"
 
 顧客の価値の程度は、次のスクリーンショットで示すように、システム内の顧客マスター レコードでのランクとして定義されます。 
 
-> [!div class="mx-imgBorder"]
-> ![顧客の価値の程度は顧客マスター レコードでのランクとして定義される](media/distributed-order-management-enhancements-4.png "顧客の価値の程度は顧客マスター レコードでのランクとして定義される")
+![顧客の価値の程度は顧客マスター レコードでのランクとして定義される](media/distributed-order-management-enhancements-4.png "顧客の価値の程度は顧客マスター レコードでのランクとして定義される")
 <!-- Picture 1 -->
 
 システム内の顧客から注文が出されると、DOM ソルバーでは、注文明細と数量の最大限のフルフィルメントを High - 1 グループに対して優先的に行われ、その次が High - 2 グループ、などとなります。 グループ内では、在庫の利用可能性やフルフィルメント費用などの通常のパラメーターに基づいて注文が最適化されます。  
@@ -70,8 +69,7 @@ DOM の V1 バージョンでは、注文が作成されてシステムで確認
 
 したがって、処理のために注文を選択するとき、DOM では注文明細に対する "指定出荷日" や "出荷確定日" などの属性が考慮されます ("出荷確定日" は製品の "配送日の管理" 機能に基づいて導き出され、出荷カレンダー、ATP、販売リード タイムなどの複数の要因が考慮されます)。 
 
-> [!div class="mx-imgBorder"]
-> ![分散型注文管理の機能強化](media/distributed-order-management-enhancements-5.png "")
+![分散型注文管理の機能強化](media/distributed-order-management-enhancements-5.png "")
 
  **注文の統合** 
 
@@ -101,8 +99,7 @@ DOM の V1 の機能では、場所への注文の割り当てを最適化する
 どちらのシナリオでも、DOM では、注文を履行する場所を決定するときに、すべての異なるコスト要因を合計して、"真の" フルフィルメント コストを算出します。 B2B コンテキストにおける唯一の違いは、顧客が出荷予定日に "真の" コストに最も貢献する配送方法で発送されるように、最適化プロセスの一部として注文の配送方法を変更できることです。 
 
 
-> [!div class="mx-imgBorder"]
-> ![分散型注文管理の機能強化](media/distributed-order-management-enhancements-6.png "")
+![分散型注文管理の機能強化](media/distributed-order-management-enhancements-6.png "")
 
 **注文のラウンドロビン割り当て** 
 

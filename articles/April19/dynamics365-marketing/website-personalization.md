@@ -7,12 +7,12 @@ ms.reviewer: kamaybac
 ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
-ms.openlocfilehash: 66c7905b2c22b94929412144f753c90830139d29
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 275002a749ba1d11710458954139a556c6157197
+ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211096"
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "285297"
 ---
 # <a name="website-personalization"></a>Web サイトの個人用設定
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]

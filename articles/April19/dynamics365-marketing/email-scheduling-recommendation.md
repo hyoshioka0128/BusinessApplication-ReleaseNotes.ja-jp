@@ -7,12 +7,12 @@ ms.reviewer: kamaybac
 ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
-ms.openlocfilehash: b104384220c6f079ef1bf6efaac5dc763bf67286
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: a1a47bdcadf7415ddd7e41e6ce8df3c7d11b7c91
+ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210930"
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "285275"
 ---
 # <a name="smart-scheduling"></a>スマート スケジューリング
 
@@ -23,4 +23,4 @@ ms.locfileid: "210930"
 
 この AI 機能では、典型的なパターンが考慮されて、各取引先担当者に対する優先時間プロファイルを作成するための新しいパターンが発見されます。 顧客体験には既に異なる時間に通信を送信する機能があるため、各受信者に対して検出された希望時間帯の近くに電子メールをスケジュールできます。 たとえば、AI では、中間レベルの管理者は通常毎日午前中に取引メッセージを読むが、週末に届くマーケティング電子メールは開かない、などと予測することができます。
 
-> ![スマート スケジューリング](media/smart-scheduling.png.jpg "スマート スケジューリング")
+![スマート スケジューリング](media/smart-scheduling.png.jpg "スマート スケジューリング")

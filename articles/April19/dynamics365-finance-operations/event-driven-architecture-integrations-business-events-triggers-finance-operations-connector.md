@@ -2,18 +2,18 @@
 title: 統合のためのビジネス イベント
 description: 統合のためのビジネス イベント
 author: Sunil-Garg
-ms.date: 01/21/2019
+ms.date: 02/12/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: Sunil-Garg
-ms.openlocfilehash: 1844c34d4a394879f48d1b8575364a05773eb658
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: ea516d21c62d80a8bdaa54a69ae3c8c8235df63c
+ms.sourcegitcommit: 12ea920fd9f3d36860a9d7330d0b0037ff2f7ea5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210644"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "380216"
 ---
-#  <a name="event-driven-architecture-for-integrations"></a>統合のためのイベント駆動型アーキテクチャ 
+#  <a name="business-events-for-integrations"></a>統合のためのビジネス イベント  
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 
@@ -28,10 +28,10 @@ ms.locfileid: "210644"
 
 含まれる予定の機能は次のとおりです。
 
-- ビジネス イベント管理者エクスペリエンス - 必要に応じてビジネス イベントを有効または無効にします
+- ビジネス イベント管理者エクスペリエンス: 必要に応じてビジネス イベントを有効または無効にします
 - アプリケーション ビジネス イベント
 - ワークフロー ビジネス イベント
-- ビジネス イベント フレームワーク - パートナーおよびお客様が定義するイベント
-- イベント グリッドに対するエンドポイントのサポート - 統合シナリオ用
-- "ビジネス イベント発生時" 用のコネクタ トリガー - Flow および LogicApp で使用します。 ユーザーは Finance and Operations で利用可能な特定のビジネス イベントをサブスクライブできるようになります。
+- ビジネス イベント フレームワーク: パートナーおよびお客様が定義するイベント
+- イベント グリッドに対するエンドポイントのサポート: 統合シナリオ用
+- "ビジネス イベント発生時" 用のコネクタ トリガー: Microsoft Flow および LogicApp で使用します。 ユーザーは Finance and Operations で利用可能な特定のビジネス イベントをサブスクライブできるようになります。
 

@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: josaw
 ms.reviewer: josaw
-ms.openlocfilehash: bd96e3e63c5d2cb71123f62b702b38f7048b57f8
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: cb11d468fea62f7d75c6b9f41fdade5ea79e7b2e
+ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211093"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "391971"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-for-retail"></a>Dynamics 365 for Retail の新機能と予定されている機能
 
@@ -38,6 +38,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [オーストリア向け会計サービスの統合のサンプル](fiscal-service-integration-sample-austria.md)           | 一般提供 | 2019 年 4 月                                    |
 | [ポーランド向けの会計プリンター統合サンプル](fiscal-printer-integration-sample-poland.md)           | 一般提供 | 2019 年 4 月                                    |
 | [チェコ共和国向けの会計サービス統合サンプル](fiscal-service-integration-sample-czech-republic.md) | 一般提供 | 2019 年 5 月                                      |
+|[オムニチャネル自動請求](omni-channel-auto-charges.md)  |一般提供  | 2019 年 4 月 |
 
 
 

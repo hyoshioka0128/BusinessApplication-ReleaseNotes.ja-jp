@@ -7,12 +7,12 @@ ms.reviewer: kamaybac
 ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
-ms.openlocfilehash: 6e416471c271218f8d0eb559ed85221c9cb15c9a
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: de94b3aa397d9231b5a0b5e23b008542fc779098
+ms.sourcegitcommit: ac307fd892ac55f69fd1c076ab2e9135da9528ee
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210443"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "720303"
 ---
 # <a name="extensibility-for-campaigns-and-segments"></a>キャンペーンとセグメントの拡張性
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
@@ -24,6 +24,8 @@ ms.locfileid: "210443"
 
 お客様とパートナーは、これらの機能を使用して Marketing アプリを拡張し、セルフサービスや軽量の使用シナリオ (反復プロセスの自動化など) に対応したり、複雑なシナリオ (外部システムからのトリガーなど) を実現したりできます。
 
-> [!div class="mx-imgBorder"]
-> ![Marketing の開発者ガイド](media/extensibility-campaigns-segments-1.png "Marketing の開発者ガイド")
+ > [!NOTE]
+ > 3 月のパブリック プレビューには Segmentation API しかありません。
+
+![Marketing の開発者ガイド](media/extensibility-campaigns-segments-1.png "Marketing の開発者ガイド")
 <!-- Picture 1 -->

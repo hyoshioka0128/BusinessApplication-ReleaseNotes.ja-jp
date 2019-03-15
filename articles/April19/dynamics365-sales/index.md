@@ -4,19 +4,14 @@ description: Dynamics 365 for Sales
 keywords: ''
 ms.date: 01/21/2019
 ms.service:
-- business-applications
+  - business-applications
 ms.topic: article
 ms.assetid: 26cf93aa-7cfc-d85e-9ef5-68ad752da1b4
 author: bharavar
 ms.author: bharavar
 ms.reviewer: shujoshi
-ms.openlocfilehash: 1eddf1aa48feccc0ea5ee3726107d34fc9a7e538
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210860"
 ---
+
 #  <a name="overview-of-dynamics-365-for-sales-april-19-release"></a>Dynamics 365 for Sales 2019 年 4 月リリースの概要
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
@@ -27,8 +22,5 @@ ms.locfileid: "210860"
 
 Dynamics 365 for Sales と Microsoft Relationship により、営業担当者は Dynamics 365、LinkedIn、Office 365 の機能を使用して大規模で深い顧客とのつながりを築くことができます。 営業担当者は、営業案件に取り組むときに営業プレイブックを通じて、活動やメモに加えて推奨コンテンツを受け取るので、適切なコンテンツを適切なコンテキストに確実に使用できます。
 
-<!--from editor: What is OOB - out of box?-->
-
 価格見積作成機能を使用すると、販売担当者は適切な製品ソリューションを効率的にまとめて、顧客にソリューションの見積もりを出すことができます。
-新しいゲーム テンプレートによる強化された Gamification およびトリプル クラウンとの標準の統合により、販売担当者はより魅力的な方法で販売目標を達成することができます。
 簡単な予測を行う機能は、外部のチェックや調整を考慮する必要がある状況で役立ちます。   

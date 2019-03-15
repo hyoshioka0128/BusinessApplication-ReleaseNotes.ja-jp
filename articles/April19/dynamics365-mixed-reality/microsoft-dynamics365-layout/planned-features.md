@@ -8,12 +8,12 @@ ms.topic: summary
 ms.service: business-applications
 ms.author: ornella
 ms.reviewer: v-brycho
-ms.openlocfilehash: c3d7f9497d70dd207298dfee61578658beed1fb4
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 691b73812140f283a85cb11f88f71a6b3bcc3321
+ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210288"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "405052"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-layout"></a>Dynamics 365 Layout の新機能と予定されている機能
 
@@ -25,14 +25,8 @@ ms.locfileid: "210288"
 
 Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
-
-
 | 機能                                                                       | リリースの種類         | 日付 |
 |-------------------------------------------------------------------------------|----------------------|----------------------|
 | [ホログラムの安定性](stability-holograms.md)                            | 一般提供 | 2019 年 4 月             |
 | [インポート プロセスの改善](asset-quality.md)|一般提供|2019 年 4 月|
 | [測定ツールの改善](measurement-tools.md)|一般提供|2019 年 4 月|
-| [CAD やその他のレイアウトのインポートとレビュー](import-review-cad-layout.md)                           | 一般提供 | 2019 年 9 月             |
-| [リアルタイムでの共同作業](collaboration-real-time-editing.md)               | 一般提供 | 2019 年 9 月             |
-
-

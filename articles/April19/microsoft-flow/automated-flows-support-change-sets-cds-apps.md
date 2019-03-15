@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 471ee505cf85a9f8db8c4c8b725bdbd74e3cff43
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 8e5f6cd71712c621b5ddaa1ededa7c50ef25b772
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210717"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287505"
 ---
 # <a name="automated-flows-support-change-sets-in-cds-for-apps"></a>自動フローによる CDS for Apps での変更セットのサポート
 
@@ -25,8 +25,7 @@ ms.locfileid: "210717"
 
 変更セットのスコープについてのネイティブな理解が Flow デザイナーに追加され、ユーザーはこれまでアトミックなトランザクションを必要とした従来の Common Data Service ワークフローを置き換えることができるようになりました。
 
-> [!div class="mx-imgBorder"]
-> ![Flow での変更セット](media/ChangeSets-1.png "Flow での変更セット")
+![Flow での変更セット](media/ChangeSets-1.png "Flow での変更セット")
 
 変更セットは**バッチ** スコープの内部に追加することができます。 これを使用するには、**Common Data Service** コネクタで**変更セット**を探します。 このスコープを Microsoft Flow デザイナーに追加した後は、CDS の作成、更新、または削除アクションをその中に追加できます (読み取り操作を変更セットに含めることはできません)。
 

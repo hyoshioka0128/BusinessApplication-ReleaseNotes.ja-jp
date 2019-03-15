@@ -1,20 +1,20 @@
 ---
-title: AI for Market Insights の新機能と予定されている機能 (2019 年 4 月)
-description: AI for Market Insights の 2019 年 4 月リリースの新機能の概要。
+title: Dynamics 365 Market Insights の新機能と予定されている機能 (2019 年 4 月)
+description: Market Insights の 2019 年 4 月リリースの新機能の概要。
 author: m-hartmann
-ms.date: 01/21/2019
+ms.date: 02/21/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: mhart
 ms.reviewer: m-hartmann
-ms.openlocfilehash: 017af90c09b6a768a23653ae9577c973d08ffcc2
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: b9fc6827964e436471a2853dbe7c470d4b77a1b6
+ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210752"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "404700"
 ---
-#  <a name="whats-new-and-planned-for-ai-for-market-insights"></a>AI for Market Insights の新機能と予定されている機能
+#  <a name="whats-new-and-planned-for-market-insights"></a>Market Insights の新機能と予定されている機能
 
 このトピックでは、2019 年 4 月から 2019 年 9 月の間にリリースが計画されている機能の一覧を示します。 一部の機能のプレビューは 2019 年 2 月に開始されます。   
 

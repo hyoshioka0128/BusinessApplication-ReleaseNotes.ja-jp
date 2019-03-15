@@ -7,12 +7,12 @@ ms.reviewer: shylaw
 ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
-ms.openlocfilehash: 40d5939250d3c79385bc674b5431ebadcdf920ce
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 7098d439fb3af955bc14795cbc2ec6c8717bd936
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211020"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288291"
 ---
 #  <a name="additional-configurable-invoice-layouts"></a>構成可能な請求書レイアウトの追加
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -28,5 +28,4 @@ ms.locfileid: "211020"
 
 構成可能な自由書式の請求書レイアウトの電子申告形式デザイナーを示す例: 
 
-> [!div class="mx-imgBorder"]
-> ![構成可能な自由書式の請求書](media/Configurable_report_2.png "構成可能な自由書式の請求書")
+![構成可能な自由書式の請求書](media/Configurable_report_2.png "構成可能な自由書式の請求書")

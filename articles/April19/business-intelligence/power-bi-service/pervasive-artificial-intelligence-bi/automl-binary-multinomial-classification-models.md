@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: adamw
 ms.reviewer: mihart
-ms.openlocfilehash: f0b4fa59524908410679a92fa0200c3469c099e2
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 28c2ef0b273e8af25db1493287cada1e66a5f45b
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210286"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287527"
 ---
 # <a name="automl-binary-and-multinomial-classification-models"></a>AutoML: 2 項分類モデルと多項分類モデル
 
@@ -22,7 +22,6 @@ BI の専門家やデータ アナリストは、Power BI で数回クリック�
 
 モデルは、データの取り込みと更新の間に自動的に適用されます。 各モデルに対して Power BI で多くのレポートが生成され、モデルのパフォーマンスや、モデルによって生成された予測に対する主要な影響要因の影響が説明されます。
 
-> [!div class="mx-imgBorder"]
-> ![AutoML: 2 項分類モデルと多項分類モデル](media/automl-binary-multinomial-classification-models-1.png "AutoML: 2 項分類モデルと多項分類モデル")
+![AutoML: 2 項分類モデルと多項分類モデル](media/automl-binary-multinomial-classification-models-1.png "AutoML: 2 項分類モデルと多項分類モデル")
 <!-- picture -->
 

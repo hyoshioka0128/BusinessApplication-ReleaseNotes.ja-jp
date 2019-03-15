@@ -1,20 +1,21 @@
 ---
-title: AI for Customer Service Insights のエクスペリエンスをパーソナライズする
+title: Customer Service Insights のエクスペリエンスのパーソナライズ
 description: ユーザーは既定のフィルターの設定などを通じて自身のエクスペリエンスをパーソナライズし、関心の高い分野に注力することができます。
 author: gxy001
-ms.date: 01/21/2019
+ms.date: 02/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: xiaoying
 ms.reviewer: v-stsau
-ms.openlocfilehash: 7a038f158b85a294d2b9782db0aa3667c9f752a5
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: b6540020fa49a0deefc2a7764019d91526d56545
+ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210410"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "404469"
 ---
-# <a name="personalize-the-ai-for-customer-service-insights-experience"></a>AI for Customer Service Insights のエクスペリエンスをパーソナライズする
+# <a name="personalize-the-customer-service-insights-experience"></a>Customer Service Insights のエクスペリエンスのパーソナライズ
+
 [!include[customer-service banner](../../../includes/customer-service.md)]
 
 

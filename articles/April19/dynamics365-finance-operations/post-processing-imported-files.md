@@ -7,12 +7,12 @@ ms.reviewer: shylaw
 ms.topic: article
 ms.service: business-applications
 ms.author: nselin
-ms.openlocfilehash: b049850b067ffafb3bcb57f0e53ffa5404f77a76
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: ed68377e31862e792b5cdf3e4ee98b7bb3dcca4e
+ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210723"
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "285019"
 ---
 #  <a name="electronic-reporting---post-processing-of-imported-files"></a>電子申告 - インポートされたファイルの後処理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -30,5 +30,4 @@ ms.locfileid: "210723"
   - ファイルを SharePoint のソース フォルダーに保持する
   - ファイルを SharePoint の別のフォルダーに移動する
 
-> [!div class="mx-imgBorder"]
-> ![SharePoint のソース設定](media/ER-post-process.png "SharePoint のソース設定")  
+![SharePoint のソース設定](media/ER-post-process.png "SharePoint のソース設定")  

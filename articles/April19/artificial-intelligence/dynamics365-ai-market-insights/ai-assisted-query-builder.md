@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mhart
 ms.reviewer: m-hartmann
-ms.openlocfilehash: 393479c39f4b7751900a0cb97caa5618fdd1a72b
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: d6ef6e395577edb175a4ef4bda433b344c26c50b
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210823"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287157"
 ---
 #  <a name="ai-assisted-query-builder"></a>AI 支援クエリ ビルダー
 [!include[dynamics365-ai-market-insights banner](../../includes/dynamics365-ai-market-insights.md)]
@@ -33,6 +33,5 @@ Microsoft の AI 支援クエリ ビルダーはこの核心的な問題を解�
 
 次のサンプル画面は、ユーザーが「Con」と入力し始めたときのエクスペリエンスです。 "Contoso Ltd." を選択すると、 結果はそれに関連のあるものになり、他の "Con" 関連のノイズは除外されます。
 
-> [!div class="mx-imgBorder"]
-> ![検索語句を入力したときの検索結果](media/assisted-query-suggestions.png "検索語句を入力したときの検索結果")
+![検索語句を入力したときの検索結果](media/assisted-query-suggestions.png "検索語句を入力したときの検索結果")
 

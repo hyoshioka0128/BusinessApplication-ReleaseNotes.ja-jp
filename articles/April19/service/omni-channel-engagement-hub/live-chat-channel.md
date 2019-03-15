@@ -6,12 +6,12 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: renwe
-ms.openlocfilehash: fcfaf9234c778b2fdd8790523464c4dde864aceb
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 60327f31ff9caf0953840afca9572b86dd4e17b3
+ms.sourcegitcommit: 3f93210c6eae69ae3e736cc7ef0ea0e9fcc9f6d7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210730"
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "285360"
 ---
 #  <a name="live-chat-channel"></a>ライブ チャット チャネル
 [!include[service banner](../../includes/service.md)]
@@ -23,7 +23,7 @@ ms.locfileid: "210730"
 
 ライブ チャット チャネルには、サポート エージェントとエンド ユーザーが効果的に対話し、高い生産性を維持できるようにするためのいくつかの機能があります。
 
-- **複数のチャット ウィジェットのすばやくて簡単なプロビジョニング**: 複数のチャット ウィジェットを作成して C2 ユーザーを分離し、ユーザーのプロファイル、組織の好み、および Web サイト上の場所に基づいて、パーソナライズされたエクスペリエンスを作成します。
+- **複数のチャット ウィジェットのすばやくて簡単なプロビジョニング**: 複数のチャット ウィジェットを作成してポータル ユーザーを分離し、ユーザーのプロファイル、組織の好み、および Web サイト上の場所に基づいて、パーソナライズされたエクスペリエンスを作成します。
 
 - **認証されたビジターと認証されていないビジターのサポート**: 認証されたユーザーと認証されていないユーザーに対し、異なるチャット エクスペリエンスと対話フローを識別して設定します。たとえば、チャット前の質問が異なります。
 

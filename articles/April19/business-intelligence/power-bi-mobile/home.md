@@ -7,12 +7,12 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: 1d4b9c43673fb051ae59e6f61b6f03ca6cb638b5
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 1e1ca0f05745f0e1fb5c791add276276ef8c71ae
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210911"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287563"
 ---
 #  <a name="home"></a>ホーム
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
@@ -23,7 +23,6 @@ ms.locfileid: "210911"
 
 ホームは Power BI モバイル ユーザーのランディング エクスペリエンスであり、ユーザーの最も重要なメトリックの概要ビューと、コンテンツへの開始点が用意されています。 ホームはユーザーに合わせてパーソナライズおよびコンテキスト化されており、最近のコメント、データ更新通知、アラートなど、最もよく表示されるダッシュボードとフィードおよびユーザーに関連のある活動が表示されます。 ユーザーはホームから直接自分のコンテンツに移動できます。
 
-> [!div class="mx-imgBorder"]
-> ![ホームの電話ビュー](media/Home-phone.jpg "ホームの電話ビュー")
+![ホームの電話ビュー](media/Home-phone.jpg "ホームの電話ビュー")
 
 

@@ -7,12 +7,12 @@ ms.reviewer: shylaw
 ms.topic: article
 ms.service: business-applications
 ms.author: sndray
-ms.openlocfilehash: bb95c9c25f0efde4925a17f335e018a40b435b12
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 7831e7930423cd809019e16919a7bfb4f3dd116d
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210481"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286254"
 ---
 #  <a name="configurable-e-invoices-for-brazil-nf-e-and-nfs-e"></a>ブラジル向けの構成可能な E-Invoice (NF-e と NFS-e) 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -32,8 +32,7 @@ NF-e と NFS-e の両方の構成可能性の目標は、電子メッセージ�
 
 **メッセージ処理アクションの例**
 
-> [!div class="mx-imgBorder"]
-> ![電子メッセージング - メッセージ処理アクション](media/Configurable_EM_1.png "電子メッセージング - メッセージ処理アクション")
+![電子メッセージング - メッセージ処理アクション](media/Configurable_EM_1.png "電子メッセージング - メッセージ処理アクション")
 
 > [!NOTE]
 > この機能は、既存の構成不可能な NF-e および NFS-e の機能の一部を置き換えます。 新しい機能と更新されたユーザー エクスペリエンスの導入により、古い機能は廃止され、対応するコードは将来のアップデートで削除される予定です。

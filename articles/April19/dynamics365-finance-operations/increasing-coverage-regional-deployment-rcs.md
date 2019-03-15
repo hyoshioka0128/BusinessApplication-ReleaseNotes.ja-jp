@@ -7,12 +7,12 @@ ms.reviewer: shylaw
 ms.topic: article
 ms.service: business-applications
 ms.author: janeaug
-ms.openlocfilehash: 8c2233e9ab0e8b92a2f44ae223641d2cf92e0b9d
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: c7cad0d48f6d97722226df23b1129ef0506d43fb
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211090"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288022"
 ---
 # <a name="expanded-regional-coverage-for-regulatory-configuration-service-rcs-deployments"></a>Regulatory Configuration Service (RCS) が展開される適用範囲地域の拡大
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -29,6 +29,5 @@ RCS に対する継続的な機能強化の一環として、エンド ユーザ
 
 RCS 環境は、選択した場所のデータ センターでプロビジョニングできます。
 
-> [!div class="mx-imgBorder"]
-> ![RCS 環境のプロビジョニング](media/rcs-environment-provisioning-form-dec18.JPG "RCS 環境のプロビジョニング")
+![RCS 環境のプロビジョニング](media/rcs-environment-provisioning-form-dec18.JPG "RCS 環境のプロビジョニング")
 

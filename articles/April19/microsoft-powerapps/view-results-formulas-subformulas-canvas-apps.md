@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: gregli
 audience: Power user
-ms.openlocfilehash: 90bd7137fbfaf44e834213c20302cf40ae0412f2
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 1f5fdaf8daa35d4be35eaccb078cda565cc9213c
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211043"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "286573"
 ---
 # <a name="view-results-of-formulas-and-subformulas-in-canvas-apps"></a>キャンバス アプリで式や下位式の結果を表示する
 
@@ -29,5 +29,4 @@ ms.locfileid: "211043"
 
 次に示すのは、数式バーでコンテンツとアカウントの種類を選択したときの画面を表した初期概念図です。
 
-> [!div class="mx-imgBorder"]
-> ![初期概念図では、数式バーで選択したものの値が結果ビューに表示されています (この場合は Account テーブルのコンテンツ)](media/ResultView.png "初期概念図では、数式バーで選択したものの値が結果ビューに表示されています (この場合は Account テーブルのコンテンツ)")
+![初期概念図では、数式バーで選択したものの値が結果ビューに表示されています (この場合は Account テーブルのコンテンツ)](media/ResultView.png "初期概念図では、数式バーで選択したものの値が結果ビューに表示されています (この場合は Account テーブルのコンテンツ)")

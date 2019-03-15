@@ -7,12 +7,12 @@ ms.reviewer: kamaybac
 ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
-ms.openlocfilehash: 53a9a0d522f6a7be3f8d00873a91d7577be9d8c1
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 3aa35fd8176ba90a4e3b0bf58ced3915d3d978c0
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210251"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287939"
 ---
 # <a name="enhanced-event-registration-experience"></a>強化されたイベント登録エクスペリエンス
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
@@ -26,6 +26,5 @@ ms.locfileid: "210251"
 
 - イベントの待機リストを提供する機能が、*個々のセッションの待機リスト* (無料イベント用) をサポートするように拡張されました。 これにより、イベント プランナーのための管理機能が向上し、特定のセッションへの関心を測定や、それに応じたキャパシティとサービスの計画に役立ちます。
 
-> [!div class="mx-imgBorder"]
-> ![セッションの待機リスト](media/sessionwaitlist.png "セッションの待機リスト")
+![セッションの待機リスト](media/sessionwaitlist.png "セッションの待機リスト")
 <!-- Picture 1 -->

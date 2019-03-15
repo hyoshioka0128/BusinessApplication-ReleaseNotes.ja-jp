@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ornella
 ms.reviewer: v-brycho
-ms.openlocfilehash: 60e3f4621bc403d55c80843b8f80bee4959c8988
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: b9f2550bcb0954d44a2ac8a6288321b79f7047d0
+ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211072"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "404557"
 ---
 #  <a name="collaborate-in-real-time"></a>リアルタイムでの共同作業
 [!include[microsoft-dynamics365-layout banner](../../includes/microsoft-dynamics365-layout.md)]
@@ -20,6 +20,6 @@ ms.locfileid: "211072"
 
 空間プランナーが簡単に作業を繰り返すことができるためには、コンテキスト内でフィードバックを得ることができる必要があります。 関係者やレビュー担当者はデザインを総合的に理解することが困難であり、デザインを "感じる" ことができるまで先に進むのをためらいます。 9 月のリリースに含まれていたリアルタイム コラボレーション機能により、空間プランナーはレビュー担当者を招いて自分のデザインをリアルタイムに見てもらうことで、コミュニケーションのギャップを埋めることができます。 レビュー担当者は、デザインを裏付けているデータを見ることもできます。 具体的には次の機能が含まれます。
 
-- デザインを共有し、リアルタイムでコミュニケーション/共同作業を行います。 
-- 他の人のレイアウト セッションに参加します。
-- 他のユーザーが行っている編集をリアルタイムで確認します。
+- デザインを共有し、リアルタイムでコミュニケーション/共同作業を行います 
+- 他の人の Layout セッションに参加します
+- 他のユーザーが行っている編集をリアルタイムで確認します

@@ -7,16 +7,16 @@ ms.reviewer: kamaybac
 ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
-ms.openlocfilehash: d81abb7533e0d22beb25b15043827d624d32b31a
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 0be801890f266509a6629681d2fd4fb067fc1cc2
+ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210503"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "405063"
 ---
 # <a name="easy-onboarding"></a>オンボーディングが簡単
+[!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
-[!include[banner](../../includes/banner.md)]
 
 新しい顧客がすぐにサインアップでき、新しいユーザーが自分のマーケティング タスクを簡単に開始できるように、オンボーディング エクスペリエンスの見直しが行われています。 製品は最新式で使いやすく見えるようになり、ユーザーは即座にその価値を発見できるようになります。
 

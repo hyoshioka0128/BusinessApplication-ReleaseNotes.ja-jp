@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: sameerch
 ms.reviewer: deonhe
-ms.openlocfilehash: effb55f6e9d9ce0fbb1b5904f7315b3575f1ecdf
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 5f120f107a09d634886c9649944db86dacebdfa4
+ms.sourcegitcommit: ca9feb07bc4f4050b7621ba462eb0d3ad5cd8359
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211022"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "390078"
 ---
 # <a name="connector-platform-and-extensibility"></a>コネクタ プラットフォームと拡張性
 [!include[cdm-data-integration banner](../includes/cdm-data-integration.md)]
@@ -42,14 +42,13 @@ PowerApps および Microsoft Flow 用のコネクタを作成しているとき
 
 このリリースには、カスタム コネクタで使用するように修正されたポリシー テンプレートのセットが含まれています。 今後、より多くの機能を提供するポリシー テンプレートをさらに追加します。
 
-> [!div class="mx-imgBorder"]
-> ![コネクタ作成エクスペリエンスでのポリシー テンプレートのモックアップ](media/policy-templates-flow.png "コネクタ作成エクスペリエンスでのポリシー テンプレートのモックアップ")
+![コネクタ作成エクスペリエンスでのポリシー テンプレートのモックアップ](media/policy-templates-flow.png "コネクタ作成エクスペリエンスでのポリシー テンプレートのモックアップ")
 
 ## <a name="open-source-connector-development-on-github-for-powerapps-and-microsoft-flow"></a>GitHub での PowerApps および Microsoft Flow 用のオープン ソース コネクタの開発
 
-開発者は、GitHub を使用して、PowerApps および Microsoft Flow 用のコネクタを開発および展開できます。 これにより、Microsoft は、パートナーがオープン ソース コネクタ開発モデルを採用し、コネクタの維持管理に開発者エコシステムを利用することを推奨します。
+また、Microsoft は率先して、GitHub リポジトリの多くのコネクタにオープン ソースを使用しています。 これにより、開発者エコシステムでは実際のコネクタの例の背後にあるソース コードにアクセスでき、コネクタの改善につながる変更に寄与します。 
 
-また、Microsoft は率先して、GitHub リポジトリの多くのコネクタにオープン ソースを使用しています。 これにより、開発者エコシステムでは実際のコネクタの例の背後にあるソース コードにアクセスでき、コネクタの改善につながる変更に寄与します。
+Microsoft は、パートナーがオープン ソース コネクタ開発モデルを採用し、コネクタの維持管理に開発者エコシステムを利用することを推奨します。
 
 ## <a name="improved-certification-process"></a>認定プロセスの改善
 

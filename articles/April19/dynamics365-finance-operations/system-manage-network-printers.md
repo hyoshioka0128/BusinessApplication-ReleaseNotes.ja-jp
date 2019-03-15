@@ -6,12 +6,12 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: TJVass
-ms.openlocfilehash: ef7f36f2d13cc56071ee475762e32459d7207a5b
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 0478147d5445c43ceaaa35c5d4d53da19ada164f
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210826"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "288000"
 ---
 #  <a name="system-management-of-network-printers"></a>ネットワーク プリンターのシステム管理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -19,8 +19,7 @@ ms.locfileid: "210826"
 
 組織のネットワーク プリンターの管理を担当する管理者向けに、新しいツールが提供されます。 **システム ネットワーク プリンター** ページでは、管理者が単一のビューを使用して、すべての組織の設定を更新したり、ネットワーク プリンターを削除したりできます。  この管理ユーティリティは、Dynamics 365 for Finance and Operations アプリケーション内で使用できるネットワーク プリンター デバイスの構成タスクを簡素化するために設計されています。
 
-> [!div class="mx-imgBorder"]
-> ![システム ネットワーク プリンター フォーム](media/system-network-printers-form.png "システム ネットワーク プリンター フォーム")
+![システム ネットワーク プリンター フォーム](media/system-network-printers-form.png "システム ネットワーク プリンター フォーム")
 
 ## <a name="common-scenarios"></a>一般的なシナリオ
 

@@ -9,12 +9,12 @@ ms.topic: article
 ms.assetid: b24dceff-0271-331a-4c44-86c67cd4b5b9
 author: ReneeW-CPub
 ms.author: renwe
-ms.openlocfilehash: ff80cfda470bdaa71b95026e1d90c7f4263488f9
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 25769dae55812b2fe233b15bb402f56d56c9c26d
+ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210913"
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "285264"
 ---
 #  <a name="multi-session-agent-experiences-web-unified-service-desk"></a>マルチセッション エージェント エクスペリエンス (Web、Unified Service Desk)
 [!include[service banner](../../includes/service.md)]
@@ -34,7 +34,7 @@ ms.locfileid: "210913"
 
 - **簡単に切り替えられる複数セッション**: エージェントは、同時に複数の顧客の問題を処理し、コンテキストを失うことなくそれらの間を簡単に切り替えることができます。 
 
-- **セッション内でのコンテキスト対応のファースト パーティおよび基幹業務のアプリケーションのタブ**: エージェントは、セッションに関連付けられているアプリケーション タブで、サービス要求に関する関連情報を見つけることができます。 アプリケーション タブはコンテキストを反映し、ファースト パーティの Dynamics 365 ページや、Power BI などのファースト パーティの Web アプリケーションから、基幹業務の Web アプリケーションまで対応できます。
+- **セッション内でのコンテキスト対応のファースト パーティおよび業種アプリケーションのタブ**: エージェントは、セッションに関連付けられているアプリケーション タブで、サービス要求に関する関連情報を見つけることができます。 アプリケーション タブはコンテキストを反映し、ファースト パーティの Dynamics 365 ページや、Power BI などのファースト パーティの Web アプリケーションから、業種別 Web アプリケーションまで対応できます。
 
 - **顧客の 360 度ビュー**: エージェントは、現在の顧客、最近の対話、問題のスナップショットなどのコンテキスト対応のビューを見て、360 度の状況を即座に把握することができます。
 

@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: kimani
 ms.reviewer: mihart
-ms.openlocfilehash: 2659a547729cb83f9ff15b9b0e15a6ba6f9c9600
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: ceb0100ac7a01dc9ac440fc0be06e273cb1686cb
+ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211033"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "287830"
 ---
 # <a name="new-filter-experience"></a>新しいフィルター エクスペリエンス
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
@@ -33,15 +33,13 @@ ms.locfileid: "211033"
 - スライサー、フィルター、クロスハイライトなど、ビジュアルに適用されているフィルターを理解する。 
 - フィルターの値を検索する。
 
-> [!div class="mx-imgBorder"]
-> ![新しいフィルター ウィンドウが表示されているレポート](media/new-filter-experience-1.png "新しいフィルター ウィンドウが表示されているレポート")
+![新しいフィルター ウィンドウが表示されているレポート](media/new-filter-experience-1.png "新しいフィルター ウィンドウが表示されているレポート")
 *新しいフィルター ウィンドウ エクスペリエンスを使用しているレポート*
 
 フィルター ウィンドウに対する変更に加えて、作成者には、ビジュアルに影響するフィルター (スライサーを含む) を表示する柔軟性も与えられます。
 作成者は、フィルター アイコンをビジュアル ヘッダーとして有効にすることができ、エンド ユーザーがそのフィルター アイコンにカーソルを合わせるかクリックすると、そのビジュアルに影響を与えるすべてのフィルターが表示されます。 これによりエンド ユーザーは、どのフィルターがビジュアルに影響を与えているかを理解し、分析情報をより適切に解釈することができます。
 
-> [!div class="mx-imgBorder"]
-> ![ポイントしてビジュアルに適用されているフィルターを表示する](media/new-filter-experience-2.png "ポイントしてビジュアルに適用されているフィルターを表示する")
+![ポイントしてビジュアルに適用されているフィルターを表示する](media/new-filter-experience-2.png "ポイントしてビジュアルに適用されているフィルターを表示する")
 *ビジュアルのフィルター アイコンをポイントして、適用されているフィルターを確認する*
 
 パブリック プレビューのユーザーからのフィードバックに積極的に耳を傾けており、一般に提供される前にエクスペリエンスを改善しています。 次の機能が計画されており、新しいフィルタリング エクスペリエンスの一般提供の前またはそれと同時に提供される予定です。

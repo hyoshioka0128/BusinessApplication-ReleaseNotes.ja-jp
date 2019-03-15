@@ -6,18 +6,18 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.reviewer: mihart
-ms.openlocfilehash: ce2f980586415b15894cb860a5b8ae52a8742152
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 88b53f52a699a303deb8847fb6d6c798db0a3845
+ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211023"
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "285092"
 ---
 # <a name="general-availability-of-power-bi-dataflows"></a>Power BI データフローの一般提供
 [!include[business-intelligence banner](../../../includes/business-intelligence.md)]
 
 
-Power BI では、異なるソースのデータを統合し、それらをモデリング用に準備する作業を支援するために、データフローが導入されました。 アナリストは、使い慣れたセルフサービス ツールを使用してデータフローを簡単に作成できます。 データフローは、データ ソース接続、ETL (抽出、変換、読み込み) ロジック、更新スケジュールなどを定義して、ビッグデータの取り込み、変換、統合、エンリッチを行うために使用されます。 データは、Azure Data Lake Storage Gen2 で、Common Data Model に準拠したフォルダー内のエンティティとして保存されます。 データフローは、Power BI サービスを使用して、アプリ ワークスペース内で作成および管理されます。   
+Power BI では、異なるソースのデータを統合し、それらをモデリング用に準備する作業を支援するために、データフローが導入されました。 アナリストは、使い慣れたセルフサービス ツールを使用してデータフローを簡単に作成できます。 データフローは、データ ソース接続、ETL (抽出、変換、読み込み) ロジック、更新スケジュールなどを定義して、ビッグデータの取り込み、変換、統合、エンリッチを行うために使用されます。 データは、Azure Data Lake Storage Gen2 で、Common Data Model に準拠したフォルダー内のエンティティとして保存されます。 データフローは、Power BI サービスを使用して、アプリ ワークスペース内で作成および管理されます。   
 
 ユーザーはデータフローを使用して、サポートされているオンプレミスやクラウドベースのさまざまなデータ ソース (Dynamics 365、Salesforce、Azure SQL Database、Excel、SharePoint など) からデータを取り込むことができます。
 

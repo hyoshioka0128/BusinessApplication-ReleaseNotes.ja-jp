@@ -7,12 +7,12 @@ ms.reviewer: shellyha
 ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
-ms.openlocfilehash: c19fc5ec6c8ecd799171532b424d81dff8045a29
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: e812c65c1c5a749155425a25bc0e0f7f5a6e9cd3
+ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210839"
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "285154"
 ---
 #  <a name="embedded-iot-with-iot-central"></a>埋め込み IoT (IoT Central)
 [!include[dynamics365-field-service banner](../../includes/dynamics365-field-service.md)]
@@ -37,8 +37,7 @@ IoT アラートを受け取った後は、アラートを診断する必要が�
 | 関連する修復履歴 | 似たデバイスでのビュー | 似た資産でのビュー | 現在および最近の履歴 |
 
 
-> [!div class="mx-imgBorder"]
-> ![埋め込み IoT の視覚化](media/embedded-iot-visualization.png)
+![埋め込まれた IoT ビジュアル化](media/embedded-iot-visualization.png "埋め込まれた IoT ビジュアル化")
 
 ## <a name="device-commands"></a>デバイスのコマンド
 
@@ -47,8 +46,7 @@ IoT アラートを受け取った後は、アラートを診断する必要が�
 
 コマンド ペイロードは、フロー (Microsoft Flow テンプレートに基づく) を使用して Field Service アプリケーションから IoT Central に送信されます。 コマンドを送信した後は、IoT の視覚化を使用して結果を監視できます。
 
-> [!div class="mx-imgBorder"]
-> ![IoT の視覚化](media/embedded-iot-remotecommands.png "IoT の視覚化")
+![IoT の視覚化](media/embedded-iot-remotecommands.png "IoT の視覚化")
 
 ## <a name="device-provisioning"></a>デバイスのプロビジョニング
 IoT Central デバイスと Field Service デバイスまたは資産との間のマッピングは、Field Service アカウントへの適切なマッピングなど、埋め込み IoT 機能を使用するために重要です。

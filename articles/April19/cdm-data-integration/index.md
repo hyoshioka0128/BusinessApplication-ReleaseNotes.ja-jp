@@ -2,19 +2,15 @@
 title: Common Data Model とデータ統合
 description: データ統合チームは、データ グラビティ戦略を加速するために、さまざまなソースから CDS、Power BI データフロー、ADLS Gen2 にデータを取り込むためのエクスペリエンスとサービスを提供します。
 author: theresapalmer
-ms.date: 01/21/2019
+ms.date: 02/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 ms.reviewer: deonhe
-ms.openlocfilehash: 23180407e60e24a4e8064114089da86631b641d1
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210684"
 ---
-# <a name="common-data-model-and-data-integration"></a>Common Data Model とデータ統合
+
+
+# <a name="overview-of-common-data-model-and-data-integration-april-19-release"></a>Common Data Model とデータ統合の 2019 年 4 月リリースの概要
 [!include[cdm-data-integration banner](../includes/cdm-data-integration.md)]
 
 
@@ -33,7 +29,6 @@ ms.locfileid: "210684"
 
 - 二重書き込みおよびデータ統合ソリューション。
 
-> [!div class="mx-imgBorder"]
-> ![データ統合チームは、さまざまな製品やサービスにデータを取り込むためのエクスペリエンスとサービスを提供します](media/index-1.png "データ統合チームは、さまざまな製品やサービスにデータを取り込むためのエクスペリエンスとサービスを提供します")
+![データ統合チームは、さまざまな製品やサービスにデータを取り込むためのエクスペリエンスとサービスを提供します](media/index-1.png "データ統合チームは、さまざまな製品やサービスにデータを取り込むためのエクスペリエンスとサービスを提供します")
 
 
