@@ -1,22 +1,23 @@
 ---
-title: トピックの詳細ダッシュボード
-description: トピックの詳細ダッシュボードには、トピックの主要業績評価指標をグラフィカルに表示したさまざまなチャートが含まれています。
-keywords: ''
+title: "トピックの詳細ダッシュボード"
+description: "トピックの詳細ダッシュボードには、トピックの主要業績評価指標をグラフィカルに表示したさまざまなチャートが含まれています。"
+keywords: 
 ms.date: 11/08/2018
 ms.service:
 - business-applications
 ms.topic: article
-ms.assetid: ''
+ms.assetid: 
 author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
-ms.openlocfilehash: b0ae210f53395f31bd0e1beb5e32abccbae67ad9
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
 ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287446"
+ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
+ms.openlocfilehash: 2a773c2c681c384a7844c71d76a3966528f65318
+ms.contentlocale: ja-jp
+ms.lasthandoff: 11/08/2018
+
 ---
+
 # <a name="topic-details-dashboard"></a>トピックの詳細ダッシュボード
 
 [!include[ai banner](../includes/ai.md)] 
@@ -32,3 +33,4 @@ AI Insight チャートの 1 つから、トピックの詳細ダッシュボー
 ### <a name="see-also"></a>関連項目
 
 [トピックの詳細ダッシュボード リファレンス](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-topic-details)
+

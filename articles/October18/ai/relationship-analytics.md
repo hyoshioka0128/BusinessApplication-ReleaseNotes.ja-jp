@@ -1,7 +1,7 @@
 ---
-title: LinkedIn InMail でのリレーションシップ分析
-description: LinkedIn InMail でのリレーションシップ分析
-keywords: ''
+title: "LinkedIn InMail でのリレーションシップ分析"
+description: "LinkedIn InMail でのリレーションシップ分析"
+keywords: 
 ms.date: 11/08/2018
 ms.service:
 - business-applications
@@ -10,13 +10,14 @@ ms.assetid: 91610987-2c68-46f3-bb92-09083d8055a7
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
-ms.openlocfilehash: 44ababb8849cec8b0a542dd8d9123b6ce6a11c9d
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200015"
+ms.sourcegitcommit: d32028a55c4b1ea163e60a25515a562172199e4a
+ms.openlocfilehash: 44ababb8849cec8b0a542dd8d9123b6ce6a11c9d
+ms.contentlocale: ja-jp
+ms.lasthandoff: 11/14/2018
+
 ---
+
 # <a name="relationship-analytics-now-with-linkedin-inmail"></a>LinkedIn InMail でのリレーションシップ分析
 
 [!include[ai banner](../includes/ai.md)] 
@@ -27,3 +28,4 @@ ms.locfileid: "200015"
 
 - [リレーションシップ分析の構成](https://docs.microsoft.com/dynamics365/ai/sales/configure-enable-dynamics-365-ai-sales#configure-relationship-analytics)
 - [リレーションシップ分析を使用して KPI を収集する](https://docs.microsoft.com/dynamics365/ai/sales/relationship-analytics)
+

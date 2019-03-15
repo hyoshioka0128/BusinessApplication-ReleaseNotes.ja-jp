@@ -1,7 +1,7 @@
 ---
-title: 成約の見込みありと評価される可能性が高い営業案件の予測
-description: 成約の見込みありと評価される可能性が高い営業案件の予測
-keywords: ''
+title: "成約の見込みありと評価される可能性が高い営業案件の予測"
+description: "成約の見込みありと評価される可能性が高い営業案件の予測"
+keywords: 
 ms.date: 11/08/2018
 ms.service:
 - business-applications
@@ -10,13 +10,14 @@ ms.assetid: de27d4be-f0f8-4151-8ab1-96e3d89a2637
 author: jasonmsft
 ms.author: jasonhui
 manager: AnnBe
-ms.openlocfilehash: 233eef461f6394e7762e11bb738b0389581b673f
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
 ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199608"
+ms.sourcegitcommit: d32028a55c4b1ea163e60a25515a562172199e4a
+ms.openlocfilehash: 233eef461f6394e7762e11bb738b0389581b673f
+ms.contentlocale: ja-jp
+ms.lasthandoff: 11/14/2018
+
 ---
+
 # <a name="increase-sales-conversions-with-predictive-opportunity-scoring"></a>予測営業案件スコアリングで販売への転換を増やす
 
 [!include[ai banner](../includes/ai.md)] 
@@ -35,3 +36,4 @@ Dynamics 365 予測営業案件スコアリングでは、営業担当者は、�
 
 - [予測営業案件スコアリングの構成](https://docs.microsoft.com/dynamics365/ai/sales/configure-enable-dynamics-365-ai-sales#configure-predictive-opportunity-scoring)
 - [予測スコアを使用して営業案件の優先順位を決める](https://docs.microsoft.com/dynamics365/ai/sales/work-predictive-opportunity-scoring)
+
