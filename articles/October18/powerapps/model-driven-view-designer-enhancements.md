@@ -1,22 +1,22 @@
 ---
-title: モデル駆動型ビュー デザイナーの機能強化
-description: 編集中のモデル駆動型ビューのライブ プレビュー
+title: "モデル駆動型ビュー デザイナーの機能強化"
+description: "編集中のモデル駆動型ビューのライブ プレビュー"
 author: matthewbolanos
 ms.reviewer: anneta
-ms.date: 02/04/2019
+ms.date: 02/19/2019
 ms.assetid: 941c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
-ms.prod: ''
+ms.prod: 
 ms.service: business-applications
-ms.technology: ''
+ms.technology: 
 ms.author: mabolan
 audience: Power user
-ms.openlocfilehash: 4a59ddeb3456e97bde87b3c4b549e639d7d139c7
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
 ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "379267"
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: f521e23c522d96ab50866e43a694f91a01e4ef7e
+ms.contentlocale: ja-jp
+ms.lasthandoff: 10/26/2018
+
 ---
 # <a name="model-driven-view-designer-enhancements-public-preview"></a>モデル駆動型ビュー デザイナーの機能強化 (パブリック プレビュー)
 

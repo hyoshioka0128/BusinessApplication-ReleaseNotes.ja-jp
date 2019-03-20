@@ -1,22 +1,22 @@
 ---
-title: コンシューマー向けのアプリの探索の向上
-description: PowerApps からモデル駆動型アプリおよびキャンバス アプリをより簡単に検索および実行できます。
-author: shpareek
+title: "コンシューマー向けのアプリの探索の向上"
+description: "PowerApps からモデル駆動型アプリおよびキャンバス アプリをより簡単に検索および実行できます。"
+author: TourDeRyan
 ms.reviewer: anneta
-ms.date: 02/04/2019
+ms.date: 03/15/2019
 ms.assetid: f71b1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
-ms.prod: ''
+ms.prod: 
 ms.service: business-applications
-ms.technology: ''
-ms.author: shpareek
+ms.technology: 
+ms.author: rycu
 audience: Power user
-ms.openlocfilehash: 07f0d2fadcfc4281541340e6a1499612a6a4f580
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
 ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "379400"
+ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
+ms.openlocfilehash: 57a7fa73ac1db3ec604ae1f35255545a6393e19c
+ms.contentlocale: ja-jp
+ms.lasthandoff: 10/26/2018
+
 ---
 # <a name="improved-app-discovery-for-consumers"></a>コンシューマー向けのアプリの探索の向上
 
