@@ -3,7 +3,7 @@ title: "キャンバス アプリでの並列データ読み込みによる読�
 description: "アプリ開発者は、複数の読み込みオペレーションを並列で実行して、アプリ ユーザーの全体的な待ち時間を短縮できます。"
 author: gregli-msft
 ms.reviewer: anneta
-ms.date: 02/04/2019
+ms.date: 02/19/2019
 ms.assetid: 4b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: gregli
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
-ms.openlocfilehash: 8ad674f5b53f32ccbdd81db9d20a8c1e20862ebc
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
+ms.openlocfilehash: d043c43cd7f60c1719c6431b4f3083ea4b8d012d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 02/11/2019
+ms.lasthandoff: 03/20/2019
 
 ---
 # <a name="faster-load-times-with-parallel-data-loading-in-canvas-apps"></a><span data-ttu-id="9984d-103">キャンバス アプリでの並列データ読み込みによる読み込み時間の短縮</span><span class="sxs-lookup"><span data-stu-id="9984d-103">Faster load times with parallel data loading in canvas apps</span></span>

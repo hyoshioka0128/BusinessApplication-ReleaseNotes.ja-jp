@@ -2,8 +2,8 @@
 title: "エンドユーザーはグラフを作成して他のユーザーやチームと共有可能"
 description: "エンドユーザーはグラフを作成して、他のユーザーと共有し、ビジュアルを作成することができます"
 author: prsi
-ms.reviewer: mkaur
-ms.date: 02/04/2019
+ms.reviewer: anneta
+ms.date: 02/25/2019
 ms.assetid: 721c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: prsi
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
-ms.openlocfilehash: b528ffb7bdecbbf789c08407cb6ae57855a63d19
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
+ms.openlocfilehash: 18641221bb904491fd406976498f5796e921bb5b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 02/11/2019
+ms.lasthandoff: 03/20/2019
 
 ---
 # <a name="end-users-can-create-charts-and-share-them-with-other-users-and-teams"></a><span data-ttu-id="fed15-103">エンドユーザーはグラフを作成して他のユーザーやチームと共有可能</span><span class="sxs-lookup"><span data-stu-id="fed15-103">End users can create charts and share them with other users and teams</span></span>

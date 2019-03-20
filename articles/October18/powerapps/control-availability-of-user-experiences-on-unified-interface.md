@@ -1,21 +1,21 @@
 ---
 title: "統一インターフェイスのユーザー エクスペリエンスの利用可能性の制御"
 description: "顧客は統一インターフェイスで新しいユーザー エクスペリエンスをオフにできます"
-author: gathapar
-ms.reviewer: mkaur
-ms.date: 02/04/2019
+author: rprologo
+ms.reviewer: anneta
+ms.date: 02/25/2019
 ms.assetid: 671c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: gathapar
+ms.author: rprologo
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
-ms.openlocfilehash: 2485ec74e9a77d90490751cfbd3db90e360d94b2
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
+ms.openlocfilehash: 05adbcaefcdda4fd780bf7954fe373e4b39e8ac9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 02/11/2019
+ms.lasthandoff: 03/20/2019
 
 ---
 # <a name="control-availability-of-user-experiences-on-unified-interface"></a><span data-ttu-id="6191f-103">統一インターフェイスのユーザー エクスペリエンスの利用可能性の制御</span><span class="sxs-lookup"><span data-stu-id="6191f-103">Control availability of user experiences on Unified Interface</span></span>
@@ -38,5 +38,3 @@ ms.lasthandoff: 02/11/2019
 - <span data-ttu-id="6191f-116">**ワークフローの実行**</span><span class="sxs-lookup"><span data-stu-id="6191f-116">**Run workflow**</span></span><br><span data-ttu-id="6191f-117">ユーザーは、オンデマンド ワークフローを実行できます。</span><span class="sxs-lookup"><span data-stu-id="6191f-117">Users can run on-demand workflows.</span></span>
 
 - <span data-ttu-id="6191f-118">ユーザーは、統一インターフェイスから個人用設定にアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="6191f-118">Users can access their personal settings from within Unified Interface.</span></span>
-
-

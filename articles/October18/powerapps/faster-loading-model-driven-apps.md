@@ -2,8 +2,8 @@
 title: "モデル駆動型アプリの読み込み速度の向上"
 description: "統一インターフェイスを使用するモデル駆動型アプリがパフォーマンスのために最適化されました"
 author: RichdiMSFT
-ms.reviewer: mkaur
-ms.date: 02/04/2019
+ms.reviewer: anneta
+ms.date: 02/25/2019
 ms.assetid: fd1b1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: RICHDI
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
-ms.openlocfilehash: 761997672798302422e7a0345cc3e2a24c6cfb8c
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
+ms.openlocfilehash: 73ee2932327e308986491ae7aca59ebc70f777e9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 02/11/2019
+ms.lasthandoff: 03/20/2019
 
 ---
 # <a name="faster-loading-model-driven-apps"></a><span data-ttu-id="47da0-103">モデル駆動型アプリの読み込み速度の向上</span><span class="sxs-lookup"><span data-stu-id="47da0-103">Faster loading model-driven apps</span></span>

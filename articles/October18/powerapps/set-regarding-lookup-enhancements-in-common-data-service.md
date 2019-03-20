@@ -2,8 +2,8 @@
 title: "Dynamics 365 の関連設定検索の強化"
 description: "Dynamics 365 の関連検索設定の信頼性向上"
 author: srihas
-ms.reviewer: mkaur
-ms.date: 02/04/2019
+ms.reviewer: anneta
+ms.date: 02/25/2019
 ms.assetid: 881c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: srihas
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
-ms.openlocfilehash: 91c8229f440705848ae95bfe4c2316007e73c3d0
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
+ms.openlocfilehash: 69b00787f1a4cf8b8679e8329414c8092d1e4910
 ms.contentlocale: ja-jp
-ms.lasthandoff: 02/11/2019
+ms.lasthandoff: 03/20/2019
 
 ---
 # <a name="set-regarding-lookup-enhancements-in-dynamics-365"></a><span data-ttu-id="549e3-103">Dynamics 365 の関連設定検索の強化</span><span class="sxs-lookup"><span data-stu-id="549e3-103">Set Regarding lookup enhancements in Dynamics 365</span></span>

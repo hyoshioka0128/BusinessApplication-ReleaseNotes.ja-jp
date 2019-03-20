@@ -1,21 +1,21 @@
 ---
 title: "統一インターフェイスに追加されたエンティティ"
 description: "統一インターフェイスで追加のエンティティがサポートされています"
-author: gathapar
+author: rprologo
 ms.reviewer: mkaur
-ms.date: 02/04/2019
+ms.date: 02/19/2019
 ms.assetid: 6a1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: gathapar
+ms.author: rprologo
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
-ms.openlocfilehash: c07ab95f241862b4ac8b41d8ced3db7a928a1128
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
+ms.openlocfilehash: 706c9aecc0d734ab5b7f0f306abc46ca4f1a372c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 02/11/2019
+ms.lasthandoff: 03/20/2019
 
 ---
 # <a name="entities-added-to-the-unified-interface"></a><span data-ttu-id="ad18f-103">統一インターフェイスに追加されたエンティティ</span><span class="sxs-lookup"><span data-stu-id="ad18f-103">Entities added to the Unified Interface</span></span>
@@ -23,5 +23,4 @@ ms.lasthandoff: 02/11/2019
 
 [!include[powerapps banner](../includes/powerapps.md)]
 
-<span data-ttu-id="ad18f-104">エンドユーザーは、統一インターフェイスでレコードの種類 (ユーザー、チーム、職位、通貨など) を編集および使用できます。</span><span class="sxs-lookup"><span data-stu-id="ad18f-104">End users can edit and use record types (such as Users, Teams, Position, and Currency) on Unified Interface.</span></span> 
-
+<span data-ttu-id="ad18f-104">エンドユーザーは、統一インターフェイスでレコードの種類 (ユーザー、チーム、職位、通貨など) を編集および使用できます。</span><span class="sxs-lookup"><span data-stu-id="ad18f-104">End users can edit and use record types (such as Users, Teams, Position, and Currency) on Unified Interface.</span></span>

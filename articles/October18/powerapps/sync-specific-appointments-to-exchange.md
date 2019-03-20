@@ -3,7 +3,7 @@ title: "特定の予定を Exchange に同期する"
 description: "Dynamics 365 で予定を作成し、それらを Exchange へと同期せずに保存する"
 author: srihas
 ms.reviewer: mkaur
-ms.date: 02/04/2019
+ms.date: 02/19/2019
 ms.assetid: 8c1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: srihas
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
-ms.openlocfilehash: 8782292c18b402585c2f75f3a07a042eebb81043
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
+ms.openlocfilehash: 93b79db7a7331e4ed8501d6c3a1ab37e6f8473f3
 ms.contentlocale: ja-jp
-ms.lasthandoff: 02/11/2019
+ms.lasthandoff: 03/20/2019
 
 ---
 # <a name="sync-specific-appointments-to-exchange"></a><span data-ttu-id="dd7dc-103">特定の予定を Exchange に同期する</span><span class="sxs-lookup"><span data-stu-id="dd7dc-103">Sync specific appointments to Exchange</span></span>
