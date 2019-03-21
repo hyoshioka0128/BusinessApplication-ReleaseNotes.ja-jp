@@ -12,15 +12,15 @@ ms.technology:
 ms.author: mhart
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: af3556970d9c6346d58c9aa7c7de30f29efb2731
+ms.sourcegitcommit: f683c3474f44d67b6cdd6608ed393e5297f9d55d
+ms.openlocfilehash: c16f88ab0fce6734efc978cccc37b9116b968fa8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 03/21/2019
 
 ---
 #  <a name="quick-setup-and-instant-insights-in-market-insights"></a><span data-ttu-id="83f8b-103">Market Insights のクイック セットアップと即時の分析情報</span><span class="sxs-lookup"><span data-stu-id="83f8b-103">Quick setup and instant insights in Market Insights</span></span>
 
-[!INCLUDE [market-insights](../includes/market-insights.md)]
+[!INCLUDE [market-insights banner](../includes/market-insights.md)]
 
 <span data-ttu-id="83f8b-104">ソーシャル メディアは、成功するマーケティング、顧客サービス、コミュニティ管理の一部になりました。</span><span class="sxs-lookup"><span data-stu-id="83f8b-104">Social media has become an intrinsic part of every successful marketing, customer service, and community management organization.</span></span> <span data-ttu-id="83f8b-105">ブランドがソーシャル メディアでどの程度認知されているかの監視、測定、管理は、そのブランドの成功に不可欠です。</span><span class="sxs-lookup"><span data-stu-id="83f8b-105">Monitoring, measuring, and managing how a brand is perceived on social media is critical to the success of that brand.</span></span> <span data-ttu-id="83f8b-106">ブランドのソーシャル プレゼンスに関する専門的な対応の開始が企業にとっての課題となることがあります。</span><span class="sxs-lookup"><span data-stu-id="83f8b-106">Starting to care professionally about the social presence of your brand can be challenging for companies.</span></span> 
 

@@ -12,16 +12,16 @@ ms.technology:
 ms.author: mhart
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: a9bc221e51af07d03477bf8318e55bf737352100
-ms.openlocfilehash: 8b5ca1786b86587a7879b8e25bd0ae3775907cbb
+ms.sourcegitcommit: f683c3474f44d67b6cdd6608ed393e5297f9d55d
+ms.openlocfilehash: 026937d95d01a33bfb4dfeceff56dc9f81586e51
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
+ms.lasthandoff: 03/21/2019
 
 ---
 
 # <a name="insights-from-search-data-and-browser-usage"></a><span data-ttu-id="3b0d5-103">検索データとブラウザーの使用状況からの分析情報</span><span class="sxs-lookup"><span data-stu-id="3b0d5-103">Insights from search data and browser usage</span></span>
 
-[!INCLUDE [market-insights](../includes/market-insights.md)]
+[!INCLUDE [market-insights banner](../includes/market-insights.md)]
 
 <span data-ttu-id="3b0d5-104">Web からの分析情報で**分析** > **概要**のデータを拡張しています。</span><span class="sxs-lookup"><span data-stu-id="3b0d5-104">We're extending the data on **Analytics** > **Overview** with insights from the web.</span></span> <span data-ttu-id="3b0d5-105">Microsoft 独自の Web 検索機能とデータ ソース閲覧機能を使用して、自社のブランド、製品、競合他社、および業界に関する、正確かつアクション可能な分析情報を取得できます。</span><span class="sxs-lookup"><span data-stu-id="3b0d5-105">Get accurate and actionable insights on your brand, products, competition, and industry from Microsoft’s proprietary web search and browse data sources.</span></span> <span data-ttu-id="3b0d5-106">すべての分析情報は、Microsoft のプライバシー ポリシーに従って集約され、匿名化されます。</span><span class="sxs-lookup"><span data-stu-id="3b0d5-106">All insights are aggregated and anonymized to comply with Microsoft privacy policies.</span></span>
 

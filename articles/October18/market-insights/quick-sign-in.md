@@ -12,16 +12,16 @@ ms.technology:
 ms.author: mhart
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: d3c4af7909fe66519fabbdab39bb27292635090a
+ms.sourcegitcommit: f683c3474f44d67b6cdd6608ed393e5297f9d55d
+ms.openlocfilehash: b833d0e61ca76464b7894fe4d996c3ba8e184127
 ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
+ms.lasthandoff: 03/21/2019
 
 ---
 
 # <a name="get-started-quickly-with-market-insights"></a><span data-ttu-id="9486b-103">Market Insights の迅速な開始</span><span class="sxs-lookup"><span data-stu-id="9486b-103">Get started quickly with Market Insights</span></span>
 
-[!INCLUDE [market-insights](../includes/market-insights.md)]
+[!INCLUDE [market-insights banner](../includes/market-insights.md)]
 
 <span data-ttu-id="9486b-104">Market Insights は、新規ユーザーのサインアップと開始がシンプルで簡単になります。</span><span class="sxs-lookup"><span data-stu-id="9486b-104">Market Insights will be simple and easy to sign up for and getting started for new users.</span></span> <span data-ttu-id="9486b-105">独自の検索を作成し、収集したデータを調査するために、既存の Office 365 テナントや Dynamics 365 サブスクリプションは必要ありません。</span><span class="sxs-lookup"><span data-stu-id="9486b-105">You don't need to have an existing Office 365 tenant or Dynamics 365 subscription to create your own searches and explore the gathered data.</span></span> <span data-ttu-id="9486b-106">さらに、[最初の検索トピックの作成](quick-setup.md)方法もシンプルになっています。</span><span class="sxs-lookup"><span data-stu-id="9486b-106">Additionally, we're simplifying the way you [create your first search topics](quick-setup.md).</span></span> 
 
