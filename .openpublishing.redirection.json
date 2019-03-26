@@ -1,6 +1,167 @@
 {  
   "redirections": [
     {
+      "source_path": "articles/April19/artificial-intelligence/customer-service/virtual-agent/customer-service-integration.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/artificial-intelligence/customer-service/virtual-agent/management-messaging-systems.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/artificial-intelligence/dynamics365-ai-market-insights/conversation-analytics.md",
+      "redirect_url": "/business-applications-release-notes/april19/change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/artificial-intelligence/dynamics365-ai-market-insights/geographic-expansion.md",
+      "redirect_url": "/business-applications-release-notes/april19/change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/business-intelligence/power-bi-desktop/connector-linkedin-sales-navigator.md",
+      "redirect_url": "../planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/business-intelligence/power-bi-report-server/row-level-security-power-bi-reports.md",
+      "redirect_url": "../../../October18/intelligence-platform/power-bi-report-server/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/business-intelligence/power-bi-service/power-bi-dataflows/new-dataflow-viewer-to-visualize-dataflow-dependencies.md",
+      "redirect_url": "new-diagram-view-to-visualize-dataflow-dependencies",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-layout/import-review-cad-layout.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-retail/distributed-order-management-enhancements.md",
+      "redirect_url": "../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-finance-operations/custom-shortcuts.md",
+      "redirect_url": "../../April19/dynamics365-finance-operations/planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-finance-operations/filtering-enhancements.md",
+      "redirect_url": "../../April19/dynamics365-finance-operations/client-productivity-usability-improvements",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-finance-operations/grid-totals.md",
+      "redirect_url": "../../April19/dynamics365-finance-operations/grid-experience",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-finance-operations/grouping-in-grids.md",
+      "redirect_url": "../../April19/dynamics365-finance-operations/grid-experience",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-finance-operations/hyperlink-behavior.md",
+      "redirect_url": "../../April19/dynamics365-finance-operations/planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-finance-operations/mass-update.md",
+      "redirect_url": "../../April19/dynamics365-finance-operations/planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-finance-operations/new-grid-control.md",
+      "redirect_url": "../../April19/dynamics365-finance-operations/grid-experience",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-finance-operations/personalization-improvements2.md",
+      "redirect_url": "../../April19/dynamics365-finance-operations/client-productivity-usability-improvements",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-finance-operations/saved-views.md",
+      "redirect_url": "../../April19/dynamics365-finance-operations/saved-views",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-retail/omni-channel-auto-charges.md",
+      "redirect_url": "../../April19/dynamics365-retail/omni-channel-auto-charges",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/intelligence-platform/power-bi-service/commenting.md",
+      "redirect_url": "../../../april19/business-intelligence/power-bi-service/commenting",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/intelligence-platform/power-bi-service/dataset-metadata-translations.md",
+      "redirect_url": "../../../april19/business-intelligence/power-bi-service/metadata-translations-analysis-services-models",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/mixed-reality/microsoft-layout/accessibility.md",
+      "redirect_url": "../../change-history#mixed-reality",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/powerapps/configure-dependent-optionsets.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/powerapps/create-and-view-related-flows-from-your-entity.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/powerapps/create-canvas-apps-with-responsive-layout.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/powerapps/dependent-option-sets-on-unified-interface.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/powerapps/dynamics-365-mobile-support-email-login.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/powerapps/model-driven-mobile-applications-are-more-reliable.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/powerapps/support-for-delegate-users-in-dynamics-365.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/powerapps/unified-interface-form-optimizations.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/service/customer-service-omni-channel-release-notes/customer-owned-bots-omni-channel-engagement-hub.md",
+      "redirect_url": "../../../April19/service/omni-channel-engagement-hub/customer-owned-bots-omni-channel-engagement-hub",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/service/customer-service-omni-channel-release-notes/supervisor-experience.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+
+    {
       "source_path": "articles/April18/index.md",
       "redirect_url": "release-overview",
       "redirect_document_id": "false"
