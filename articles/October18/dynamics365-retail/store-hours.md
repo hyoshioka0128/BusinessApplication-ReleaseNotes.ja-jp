@@ -10,14 +10,16 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: rapraj
 audience: IT Pro
-ms.openlocfilehash: a95f1e9271965be1359faeff199a349781e09064
-ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
+ms.openlocfilehash: eee54a9211bd027938c614370b9d75f920827090
+ms.sourcegitcommit: 163b0e8ec8da8ef8bbe43f302c561bbaed43d0be
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "392015"
+ms.lasthandoff: 01/28/2019
+ms.locfileid: "290694"
 ---
 # <a name="store-hours"></a>営業時間
+
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 
 新しい営業時間機能により、小売業者は複数の店舗の営業時間を取得して維持することができます。 Dynamics 365 for Retail にはこれまで、小売業者が店舗、コール センター、モバイル、電子商取引などのさまざまなチャネルで営業時間を紹介できる、すぐに使えるソリューションはありませんでした。
