@@ -7,28 +7,28 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: e8e1b70489280570834b80dac422293e18c2fab1
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 0123061597b10342ea9bf254dae8708a6a8f9a50
+ms.sourcegitcommit: c258b490eed49dcd0739f795d263189497aeb86c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287857"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "778587"
 ---
-#  <a name="power-bi-paginated-reports"></a><span data-ttu-id="347c8-103">Power BI のページ付けされたレポート</span><span class="sxs-lookup"><span data-stu-id="347c8-103">Power BI paginated reports</span></span>
-
-[!include[banner](../../../includes/banner.md)]
+#  <a name="power-bi-paginated-reports"></a><span data-ttu-id="9c8cb-103">Power BI のページ付けされたレポート</span><span class="sxs-lookup"><span data-stu-id="9c8cb-103">Power BI paginated reports</span></span>
 
 
 
-<span data-ttu-id="347c8-104">ページ付けされたレポートは、Power BI のサービスとモバイル アプリによって完全にサポートされる予定です。</span><span class="sxs-lookup"><span data-stu-id="347c8-104">Paginated reports will be fully supported by the Power BI service and Mobile apps.</span></span> <span data-ttu-id="347c8-105">他の種類のレポートと同様に、Power BIモバイル ユーザーは、モバイル アプリケーションからページ付けされたレポートにアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="347c8-105">As in any other type of report, Power BI Mobile users will be able to access paginated reports from their mobile application.</span></span> <span data-ttu-id="347c8-106">ユーザーは、ワークスペース、お気に入り、最近のレポート一覧セクションで、ページ付けされたレポートを表示できます。</span><span class="sxs-lookup"><span data-stu-id="347c8-106">Users will be able to see paginated reports in the reports list section in workspaces, favorites, and recent.</span></span> <span data-ttu-id="347c8-107">ページ付けされたレポートには、PBIX レポートと RDL レポートを区別するための異なるアイコンがあります。</span><span class="sxs-lookup"><span data-stu-id="347c8-107">Paginated reports have a different icon to help distinguish between PBIX and RDL reports.</span></span>
 
-<span data-ttu-id="347c8-108">![Power BI モバイル アプリ カタログ内のページ付けされたレポート](media/power-bi-paginated-reports-1.jpeg "Power BI モバイル アプリ カタログ内のページ付けされたレポート")
-<!-- Picture 1 --></span><span class="sxs-lookup"><span data-stu-id="347c8-108">![Paginated reports in Power BI Mobile app catalog](media/power-bi-paginated-reports-1.jpeg "Paginated reports in Power BI Mobile app catalog")
+
+<span data-ttu-id="9c8cb-104">ページ付けされたレポートは、Power BI のサービスとモバイル アプリによって完全にサポートされる予定です。</span><span class="sxs-lookup"><span data-stu-id="9c8cb-104">Paginated reports will be fully supported by the Power BI service and Mobile apps.</span></span> <span data-ttu-id="9c8cb-105">他の種類のレポートと同様に、Power BIモバイル ユーザーは、モバイル アプリケーションからページ付けされたレポートにアクセスできます。</span><span class="sxs-lookup"><span data-stu-id="9c8cb-105">As in any other type of report, Power BI Mobile users will be able to access paginated reports from their mobile application.</span></span> <span data-ttu-id="9c8cb-106">ユーザーは、ワークスペース、お気に入り、最近のレポート一覧セクションで、ページ付けされたレポートを表示できます。</span><span class="sxs-lookup"><span data-stu-id="9c8cb-106">Users will be able to see paginated reports in the reports list section in workspaces, favorites, and recent.</span></span> <span data-ttu-id="9c8cb-107">ページ付けされたレポートには、PBIX レポートと RDL レポートを区別するための異なるアイコンがあります。</span><span class="sxs-lookup"><span data-stu-id="9c8cb-107">Paginated reports have a different icon to help distinguish between PBIX and RDL reports.</span></span>
+
+<span data-ttu-id="9c8cb-108">![Power BI モバイル アプリ カタログ内のページ付けされたレポート](media/power-bi-paginated-reports-1.jpeg "Power BI モバイル アプリ カタログ内のページ付けされたレポート")
+<!-- Picture 1 --></span><span class="sxs-lookup"><span data-stu-id="9c8cb-108">![Paginated reports in Power BI Mobile app catalog](media/power-bi-paginated-reports-1.jpeg "Paginated reports in Power BI Mobile app catalog")
 <!-- Picture 1 --></span></span>
 
-<span data-ttu-id="347c8-109">ユーザーは、レポートを縦または横向きで表示したり、レポート ページ間でページ付けしたり、そのパラメーターに基づいてレポートをフィルター処理したりすることができます。</span><span class="sxs-lookup"><span data-stu-id="347c8-109">Users can view their reports in landscape or portrait, paginate between report pages, and filter the report based on its parameters.</span></span>
+<span data-ttu-id="9c8cb-109">ユーザーは、レポートを縦または横向きで表示したり、レポート ページ間でページ付けしたり、そのパラメーターに基づいてレポートをフィルター処理したりすることができます。</span><span class="sxs-lookup"><span data-stu-id="9c8cb-109">Users can view their reports in landscape or portrait, paginate between report pages, and filter the report based on its parameters.</span></span>
 
-<span data-ttu-id="347c8-110">![モバイル アプリ内のページ付けされたレポートの横向きの表示](media/power-bi-paginated-reports-2.jpeg "モバイル アプリ内のページ付けされたレポートの横向きの表示")
-<!-- Picture 3 --></span><span class="sxs-lookup"><span data-stu-id="347c8-110">![Landscape view of paginated report in the Mobile app](media/power-bi-paginated-reports-2.jpeg "Landscape view of paginated report in the Mobile app")
+<span data-ttu-id="9c8cb-110">![モバイル アプリ内のページ付けされたレポートの横向きの表示](media/power-bi-paginated-reports-2.jpeg "モバイル アプリ内のページ付けされたレポートの横向きの表示")
+<!-- Picture 3 --></span><span class="sxs-lookup"><span data-stu-id="9c8cb-110">![Landscape view of paginated report in the Mobile app](media/power-bi-paginated-reports-2.jpeg "Landscape view of paginated report in the Mobile app")
 <!-- Picture 3 --></span></span>
 

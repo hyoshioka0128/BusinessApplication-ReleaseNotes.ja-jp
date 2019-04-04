@@ -10,25 +10,25 @@ ms.assetid: ''
 author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
-ms.openlocfilehash: b0ae210f53395f31bd0e1beb5e32abccbae67ad9
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: c0adad9c8c43cba15f6f3c9018859b7bb368fab0
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287446"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847416"
 ---
-# <a name="topic-details-dashboard"></a><span data-ttu-id="60ffb-103">トピックの詳細ダッシュボード</span><span class="sxs-lookup"><span data-stu-id="60ffb-103">Topic details dashboard</span></span>
+# <a name="topic-details-dashboard"></a><span data-ttu-id="ece97-103">トピックの詳細ダッシュボード</span><span class="sxs-lookup"><span data-stu-id="ece97-103">Topic details dashboard</span></span>
 
 [!include[ai banner](../includes/ai.md)] 
 
-<span data-ttu-id="60ffb-104">トピックの詳細ダッシュボードには、人工知能 (AI) テクノロジを使用して顧客満足度スコアやトピックの解決時間に対する製品およびチャネル別の影響を表示するなど、特定のトピックの主要業績評価指標の詳細な概要が表示されます。</span><span class="sxs-lookup"><span data-stu-id="60ffb-104">The Topic details dashboard gives you a detailed overview of key performance indicators for a specific topic, including using artificial intelligence (AI) technology to show you the impact by product and channel on customer satisfaction scores and resolution time for the topic.</span></span>
+<span data-ttu-id="ece97-104">トピックの詳細ダッシュボードには、人工知能 (AI) テクノロジを使用して顧客満足度スコアやトピックの解決時間に対する製品およびチャネル別の影響を表示するなど、特定のトピックの主要業績評価指標の詳細な概要が表示されます。</span><span class="sxs-lookup"><span data-stu-id="ece97-104">The Topic details dashboard gives you a detailed overview of key performance indicators for a specific topic, including using artificial intelligence (AI) technology to show you the impact by product and channel on customer satisfaction scores and resolution time for the topic.</span></span>
 
-<span data-ttu-id="60ffb-105">AI Insight チャートの 1 つから、トピックの詳細ダッシュボードを KPI サマリー、受信サポート案件、顧客満足度、サポート案件の解決ダッシュボードに表示できます。</span><span class="sxs-lookup"><span data-stu-id="60ffb-105">You can display the Topic details dashboard from one of the AI Insights charts in the KPI summary, Incoming cases, Customer satisfaction, and Case resolution dashboards.</span></span>
+<span data-ttu-id="ece97-105">AI Insight チャートの 1 つから、トピックの詳細ダッシュボードを KPI サマリー、受信サポート案件、顧客満足度、サポート案件の解決ダッシュボードに表示できます。</span><span class="sxs-lookup"><span data-stu-id="ece97-105">You can display the Topic details dashboard from one of the AI Insights charts in the KPI summary, Incoming cases, Customer satisfaction, and Case resolution dashboards.</span></span>
 
-<span data-ttu-id="60ffb-106">![トピックの詳細ダッシュボードには、トピックの主要業績評価指標をグラフィカルに表示したさまざまなチャートが含まれている](media/topic-details-dashboard.png "トピックの詳細ダッシュボードには、トピックの主要業績評価指標をグラフィカルに表示したさまざまなチャートが含まれている")</span><span class="sxs-lookup"><span data-stu-id="60ffb-106">![The Topic details dashboard includes a variety of charts with graphical views of key performance indicators for the topic](media/topic-details-dashboard.png "The Topic details dashboard includes a variety of charts with graphical views of key performance indicators for the topic")</span></span>
+<span data-ttu-id="ece97-106">![トピックの詳細ダッシュボードには、トピックの主要業績評価指標をグラフィカルに表示したさまざまなチャートが含まれている](media/topic-details-dashboard.png "トピックの詳細ダッシュボードには、トピックの主要業績評価指標をグラフィカルに表示したさまざまなチャートが含まれている")</span><span class="sxs-lookup"><span data-stu-id="ece97-106">![The Topic details dashboard includes a variety of charts with graphical views of key performance indicators for the topic](media/topic-details-dashboard.png "The Topic details dashboard includes a variety of charts with graphical views of key performance indicators for the topic")</span></span>
 
-<span data-ttu-id="60ffb-107">*トピックの詳細ダッシュボードには、トピックの主要業績評価指標をグラフィカルに表示したさまざまなチャートが含まれている*</span><span class="sxs-lookup"><span data-stu-id="60ffb-107">*The Topic details dashboard includes a variety of charts with graphical views of key performance indicators for the topic*</span></span>
+<span data-ttu-id="ece97-107">*トピックの詳細ダッシュボードには、トピックの主要業績評価指標をグラフィカルに表示したさまざまなチャートが含まれている*</span><span class="sxs-lookup"><span data-stu-id="ece97-107">*The Topic details dashboard includes a variety of charts with graphical views of key performance indicators for the topic*</span></span>
 
-### <a name="see-also"></a><span data-ttu-id="60ffb-108">関連項目</span><span class="sxs-lookup"><span data-stu-id="60ffb-108">See also</span></span>
+### <a name="see-also"></a><span data-ttu-id="ece97-108">関連項目</span><span class="sxs-lookup"><span data-stu-id="ece97-108">See also</span></span>
 
-[<span data-ttu-id="60ffb-109">トピックの詳細ダッシュボード リファレンス</span><span class="sxs-lookup"><span data-stu-id="60ffb-109">Topic details dashboard reference</span></span>](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-topic-details)
+[<span data-ttu-id="ece97-109">トピックの詳細ダッシュボード リファレンス</span><span class="sxs-lookup"><span data-stu-id="ece97-109">Topic details dashboard reference</span></span>](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-topic-details)

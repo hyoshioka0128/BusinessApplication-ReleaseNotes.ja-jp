@@ -3,7 +3,7 @@ title: 自動採番の作成
 description: Common Data Service for Apps のレコードで連番が自動で生成されるよう採番方法を定義します。
 author: daemelia
 ms.reviewer: anneta
-ms.date: 02/06/2019
+ms.date: 02/19/2019
 ms.assetid: 5a1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: ''
@@ -11,16 +11,16 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: daemelia
 audience: Power user
-ms.openlocfilehash: c069395c433e0b3aa038efb15a7d7e6c812371c3
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
+ms.openlocfilehash: 7297538766e71e636dbceef34eefc59e03521864
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "379288"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879431"
 ---
-# <a name="create-automatic-number-sequences"></a><span data-ttu-id="8d4d7-103">自動採番の作成</span><span class="sxs-lookup"><span data-stu-id="8d4d7-103">Create automatic number sequences</span></span>
+# <a name="create-automatic-number-sequences"></a><span data-ttu-id="84350-103">自動採番の作成</span><span class="sxs-lookup"><span data-stu-id="84350-103">Create automatic number sequences</span></span>
 
 
 [!include[powerapps banner](../includes/powerapps.md)]
 
-<span data-ttu-id="8d4d7-104">PowerApps では、数字が自動で生成されて Common Data Service for Apps のエンティティに適用されるよう、1 つ以上のシーケンスを定義できます。</span><span class="sxs-lookup"><span data-stu-id="8d4d7-104">In PowerApps, you can define one or more sequences in which numbers are generated automatically and applied to entities in Common Data Service for Apps.</span></span>
+<span data-ttu-id="84350-104">PowerApps では、数字が自動で生成されて Common Data Service for Apps のエンティティに適用されるよう、1 つ以上のシーケンスを定義できます。</span><span class="sxs-lookup"><span data-stu-id="84350-104">In PowerApps, you can define one or more sequences in which numbers are generated automatically and applied to entities in Common Data Service for Apps.</span></span>

@@ -3,7 +3,7 @@ title: キャンバス アプリによるエラーの捕捉、処理、レポー
 description: アプリ開発者は発生したエラーをコントロールし、補足的なメリットとして Null 値を書き込めます。
 author: gregli-msft
 ms.reviewer: anneta
-ms.date: 02/04/2019
+ms.date: 02/19/2019
 ms.assetid: 461c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: ''
@@ -11,18 +11,18 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: gregli
 audience: Power user
-ms.openlocfilehash: a8e17d4fafd163d177d453ed9f0c327e1043193c
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
+ms.openlocfilehash: 33c9ca087eda8cc94604b32d65cc3729921a6630
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "379456"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879823"
 ---
-# <a name="catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps-public-preview"></a><span data-ttu-id="1cd2b-103">キャンバス アプリによるエラーの捕捉、処理、レポートとデータベースへの Null 値の書き込み (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="1cd2b-103">Catch, handle, and report errors, and write Null values to databases with canvas apps (Public Preview)</span></span>
+# <a name="catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps-public-preview"></a><span data-ttu-id="5e189-103">キャンバス アプリによるエラーの捕捉、処理、レポートとデータベースへの Null 値の書き込み (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="5e189-103">Catch, handle, and report errors, and write Null values to databases with canvas apps (Public Preview)</span></span>
 
 
 
 
-<span data-ttu-id="1cd2b-104">アプリを作成中にエラーが発生するのは仕方がないことです。</span><span class="sxs-lookup"><span data-stu-id="1cd2b-104">Errors happen.</span></span> <span data-ttu-id="1cd2b-105">キャンバス アプリはエラーが発生したときの既定の動作を提供しますが、希望するものとは異なる場合があります。</span><span class="sxs-lookup"><span data-stu-id="1cd2b-105"> Canvas apps provide a default behavior when they do, but this may not always match what you want.</span></span> <span data-ttu-id="1cd2b-106">この機能を使用すると、エラーの補足、問い合わせ、スロー、抑制、ログ記録、ユーザーに対するメッセージの送信を行えます。</span><span class="sxs-lookup"><span data-stu-id="1cd2b-106"> With this feature, you can catch, interrogate, throw, suppress, log, and message errors to your users.</span></span>
+<span data-ttu-id="5e189-104">アプリを作成中にエラーが発生するのは仕方がないことです。</span><span class="sxs-lookup"><span data-stu-id="5e189-104">Errors happen.</span></span> <span data-ttu-id="5e189-105">キャンバス アプリはエラーが発生したときの既定の動作を提供しますが、希望するものとは異なる場合があります。</span><span class="sxs-lookup"><span data-stu-id="5e189-105"> Canvas apps provide a default behavior when they do, but this may not always match what you want.</span></span> <span data-ttu-id="5e189-106">この機能を使用すると、エラーの補足、問い合わせ、スロー、抑制、ログ記録、ユーザーに対するメッセージの送信を行えます。</span><span class="sxs-lookup"><span data-stu-id="5e189-106"> With this feature, you can catch, interrogate, throw, suppress, log, and message errors to your users.</span></span>
 
-<span data-ttu-id="1cd2b-107">以前は、エラーと Null 値を判別できてないにもかかわらず、データベースに Null 値を書き込むのは問題でした。</span><span class="sxs-lookup"><span data-stu-id="1cd2b-107">Errors and Null values were previously indistinguishable, so pushing Null values to databases was a problem.</span></span> <span data-ttu-id="1cd2b-108">Null は多くのデータベース システムでは正当な値です。</span><span class="sxs-lookup"><span data-stu-id="1cd2b-108"> Null is a legitimate value in many database systems.</span></span> <span data-ttu-id="1cd2b-109">キャンバス アプリでエラーの場合と適切に分離することにより、すべてのデータベースに Null 値を書き込めます。</span><span class="sxs-lookup"><span data-stu-id="1cd2b-109"> With errors properly separated out in canvas apps, you can write Null values to all databases.</span></span>
+<span data-ttu-id="5e189-107">以前は、エラーと Null 値を判別できてないにもかかわらず、データベースに Null 値を書き込むのは問題でした。</span><span class="sxs-lookup"><span data-stu-id="5e189-107">Errors and Null values were previously indistinguishable, so pushing Null values to databases was a problem.</span></span> <span data-ttu-id="5e189-108">Null は多くのデータベース システムでは正当な値です。</span><span class="sxs-lookup"><span data-stu-id="5e189-108"> Null is a legitimate value in many database systems.</span></span> <span data-ttu-id="5e189-109">キャンバス アプリでエラーの場合と適切に分離することにより、すべてのデータベースに Null 値を書き込めます。</span><span class="sxs-lookup"><span data-stu-id="5e189-109"> With errors properly separated out in canvas apps, you can write Null values to all databases.</span></span>
