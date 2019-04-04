@@ -7,16 +7,16 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: d88b2d070abc05573bc0d9b61aabe5d5368a5dba
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 280b1a7776dd26510a4c3b51202301c21b6385b2
+ms.sourcegitcommit: c258b490eed49dcd0739f795d263189497aeb86c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "286628"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "778537"
 ---
 #  <a name="presentation-mode-for-windows-large-screen-devices"></a>Windows 大画面デバイス用プレゼンテーション モード
 
-[!include[banner](../../../includes/banner.md)]
+
 
 大画面への取り組みにより、Surface Hub デバイスを対象として、Windows モバイル アプリに対するプレゼンテーション モードの拡張が導入されます。
 

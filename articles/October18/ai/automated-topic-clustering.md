@@ -1,23 +1,22 @@
 ---
-title: "関連するサポート案件をトピックとして自動的にグループ化"
-description: "人工知能技術を使用して、関連するサポート案件をトピックとしてグループ化します。"
-keywords: 
+title: 関連するサポート案件をトピックとして自動的にグループ化
+description: 人工知能技術を使用して、関連するサポート案件をトピックとしてグループ化します。
+keywords: ''
 ms.date: 11/08/2018
 ms.service:
 - business-applications
 ms.topic: article
-ms.assetid: 
+ms.assetid: ''
 author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
+ms.openlocfilehash: 24bf0d1a33f8d696efbbdd69076498ede36ae68a
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: d9f1ffcc6b526da767c701ef21f6f5d56fb1a6a0
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847603"
 ---
-
 # <a name="use-artificial-intelligence-technology-to-group-related-support-cases-as-topics"></a>人工知能技術を使用して、関連するサポート案件をトピックとしてグループ化します
 
 [!include[ai banner](../includes/ai.md)] 
@@ -32,4 +31,3 @@ Dynamics 365 AI for Customer Service Insights は、人工知能を使用して�
 
 ### <a name="see-also"></a>関連項目
 [顧客サービスシステムでの改善領域の識別](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/improve-system)
-

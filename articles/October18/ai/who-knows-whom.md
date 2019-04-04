@@ -1,7 +1,7 @@
 ---
-title: "つながり検索のつながりグラフを使用して見込顧客を紹介してもらえば、電話勧誘よりも好意的なエンゲージメントを構築できます"
-description: "つながり検索のつながりグラフを使用して見込顧客を紹介してもらえば、電話勧誘よりも好意的なエンゲージメントを構築できます"
-keywords: 
+title: つながり検索のつながりグラフを使用して見込顧客を紹介してもらえば、電話勧誘よりも好意的なエンゲージメントを構築できます
+description: つながり検索のつながりグラフを使用して見込顧客を紹介してもらえば、電話勧誘よりも好意的なエンゲージメントを構築できます
+keywords: ''
 ms.date: 11/08/2018
 ms.service:
 - business-applications
@@ -10,14 +10,13 @@ ms.assetid: 303f34c8-6112-40cf-8c45-8dbfc0b89580
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
+ms.openlocfilehash: 1131d748a530f34dbee2f4e3e9ee7f4709d490e7
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
-ms.sourcegitcommit: d32028a55c4b1ea163e60a25515a562172199e4a
-ms.openlocfilehash: cc31f8fe803c41ba9a2012ffb1c8ce175e61446a
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/14/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847750"
 ---
-
 # <a name="get-introduced-to-prospects-with-the-who-knows-whom-connection-graph"></a>つながり検索のつながりグラフを使用して見込顧客を紹介してもらう
 
 [!include[ai banner](../includes/ai.md)] 
@@ -28,4 +27,3 @@ ms.lasthandoff: 11/14/2018
 
 - [つながり検索の構成](https://docs.microsoft.com/dynamics365/ai/sales/configure-enable-dynamics-365-ai-sales#configure-who-knows-whom)
 - [つながりを探す](https://docs.microsoft.com/dynamics365/ai/sales/who-knows-whom)
-

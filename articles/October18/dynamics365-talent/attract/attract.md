@@ -1,22 +1,22 @@
 ---
 title: Attract
 description: Attract
-author: josaw1
+author: hasrivas
 manager: AnnBe
-ms.date: 12/26/2018
+ms.date: 03/05/2019
 ms.assetid: b164cc57-f514-4952-9c0d-6e8a51d655b4
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
-ms.author: josaw
+ms.author: hasrivas
 audience: Admin
-ms.openlocfilehash: da4226ec11bb2763cbff2b5b8a33e4b837390220
-ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: 5b4fa1cab24dd1747a0277e5cfa44265a4c1a183
+ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/26/2019
-ms.locfileid: "760309"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "900067"
 ---
 #  <a name="attract"></a>Attract
 
@@ -55,6 +55,10 @@ ms.locfileid: "760309"
     
     -   採用マネージャーまたは採用担当者のロールをすべての Azure Active Directory ユーザーに割り当てることができます。 その後、参加者を採用チーム メンバーとして追加するときは、管理者によって行われたロール定義に従って、ジョブのロールのみを割り当てることができます。 
     -   アプリケーションの表示専用ユーザーと、ジョブのあらゆる面を管理できるスーパー ユーザーを作成します。
+    
+-   面接のスケジューリング:
+    
+    -   社内候補者の面接を迅速にスケジュールできます。 面接のスケジュール担当者は、すべての社内候補者のカレンダーの空き状況とステータスを表示できます。 また、社内候補者の面接可能日をスケジュールのレコメンデーションに含めることもできます。 
 
 -   オファー管理:
 

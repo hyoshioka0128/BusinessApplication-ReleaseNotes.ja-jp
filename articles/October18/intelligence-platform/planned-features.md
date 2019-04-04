@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: kvivek
 audience: Admin
-ms.openlocfilehash: ae1a37adeeb5ca1d852d94de58b95d3604b6fd88
-ms.sourcegitcommit: fa9d56b1c08609cbb97ca4275470d5166affb8e6
+ms.openlocfilehash: a672b162b3a2d1a62372cfd230589321c3d360cf
+ms.sourcegitcommit: 9ef25ceae1dcb0e46637a7e9929f92023cf853da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/27/2019
-ms.locfileid: "769852"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "774107"
 ---
 # <a name="summary-of-whats-new-in-business-intelligence"></a>ビジネス インテリジェンスの新機能の概要
 
@@ -39,8 +39,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 > |[アクセシビリティ - ユーザーはキーボード ナビゲーションとスクリーン リーダーを使用して Power BI Desktop を操作可能](power-bi-desktop/desktop-accessibility.md)   |一般提供   |2018 年 12 月 11 日    |
 > |[スマート配置ガイド](power-bi-desktop/smart-alignment-guides.md)   |一般提供   |2018 年 12 月 11 日    |
 > |[エクスポートのレポートごとの制御](power-bi-desktop/per-report-control-data-export.md)   |一般提供   |2018 年 12 月 11 日    |
-> |[アドホック探索](power-bi-desktop/adhoc-exploration.md)   |パブリック プレビュー   |2019 年 3 月    |
-> |[新しいフィルタリング エクスペリエンス](power-bi-desktop/new-filtering-experience.md)   |パブリック プレビュー   |2018 年 11 月    |
+> |[新しいフィルタリング エクスペリエンス](power-bi-desktop/new-filtering-experience.md)   |パブリック プレビュー   |2018 年 11 月 13 日    |
 > |[式ベースの書式設定](power-bi-desktop/expression-based-formatting.md)   |パブリック プレビュー   |2019 年 4 月    |
 
 

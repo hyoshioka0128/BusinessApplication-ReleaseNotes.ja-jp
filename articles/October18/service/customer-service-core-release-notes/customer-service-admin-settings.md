@@ -1,7 +1,7 @@
 ---
 title: Dynamics 365 for Customer Service での顧客サービス管理設定の理解
 description: Dynamics 365 for Customer Service の管理設定の新機能を説明します
-ms.date: 11/26/2018
+ms.date: 03/15/2019
 ms.assetid: 516afbde-61a3-4718-8ce1-a4007ada5960
 ms.topic: article
 ms.prod: ''
@@ -10,12 +10,12 @@ ms.technology: ''
 ms.author: DeepapMS
 ms.reviewer: anjgupta
 audience: Admin
-ms.openlocfilehash: 8e7aa066317bbcd9ac861563761c1fea406a938d
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 5221cc48b19567d2f9d2ef4088e4b3536f8eab6c
+ms.sourcegitcommit: 3631212f9fba5a8128793f0a92114ae04b614708
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199036"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "845248"
 ---
 #  <a name="customer-service-admin-settings"></a>Customer Service 管理設定 
 
@@ -31,7 +31,7 @@ Service Management には、顧客サービス ハブのサイトマップから
 
 > [!NOTE]
 > 2018 年 10 月のリリースでは、顧客サービス ハブのサイトマップから、**ルーティング規則セット**、**自動レコード作成**、**サービス レベル アグリーメント**を除くすべての管理設定にアクセスして管理できます。 これら 3 つの管理者設定にアクセスして管理するには、Web アプリケーションで**設定** > **サービスの管理**に移動します。 </br>
-> これらの 3 つの管理設定 (ルーティング規則セット、自動レコード作成、サービス レベル アグリーメント) は、2019 年 2 月リリース以降の顧客サービス ハブのサイトマップで利用できるようになります。
+> これらの 3 つの管理設定 (ルーティング規則セット、自動レコード作成、サービス レベル アグリーメント) は、2019 年 4 月リリース以降の顧客サービス ハブのサイトマップで利用できるようになります。
 
 Service Management 内では、さまざまな機能をカスタマイズできます。 次のような機能です。  
 

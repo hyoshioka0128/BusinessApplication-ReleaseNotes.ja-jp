@@ -1,23 +1,22 @@
 ---
-title: "顧客満足度 (CSAT) ダッシュボード"
-description: "顧客満足度ダッシュボードには、顧客満足度に最も影響しているカスタマー サポートのトピックが表示されます。"
-keywords: 
+title: 顧客満足度 (CSAT) ダッシュボード
+description: 顧客満足度ダッシュボードには、顧客満足度に最も影響しているカスタマー サポートのトピックが表示されます。
+keywords: ''
 ms.date: 11/08/2018
 ms.service:
 - business-applications
 ms.topic: article
-ms.assetid: 
+ms.assetid: ''
 author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
+ms.openlocfilehash: 0de35a8ddcf1991ff9db2467472e7dc57860b873
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 34c31c8887a1006ebe1575e5adc5cd168136e27c
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847732"
 ---
-
 # <a name="customer-satisfaction-csat-dashboard"></a>顧客満足度 (CSAT) ダッシュボード
 
 [!include[ai banner](../includes/ai.md)] 
@@ -32,4 +31,3 @@ ms.lasthandoff: 11/08/2018
 
 ### <a name="see-also"></a>関連項目
 [顧客満足度ダッシュボード リファレンス](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-csat)
-

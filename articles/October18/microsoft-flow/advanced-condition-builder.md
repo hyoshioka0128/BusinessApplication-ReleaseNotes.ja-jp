@@ -3,7 +3,7 @@ title: 高度な条件ビルダー
 description: 新しい高度な条件ビルダーを使用すると、フロー内の And/Or ステートメントに基づいて条件付きロジックを作成できます。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 02/07/2019
+ms.date: 03/15/2019
 ms.assetid: 296b4bdb-65d9-e811-a987-000d3a1362e3
 ms.topic: article
 ms.prod: ''
@@ -11,17 +11,17 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 762c9c39fe8fca781728bf7f5cacd1feb365cf8b
-ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
+ms.openlocfilehash: 9abc41afe1f21774dcbbb7da3201964088ea7abd
+ms.sourcegitcommit: d0ae525dc6a82af6449204a4bdb8dc57a04d2b74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "391316"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "880727"
 ---
 # <a name="advanced-condition-builder"></a>高度な条件ビルダー
 
 
-[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
+
 
 Microsoft Flow での条件付きロジックの作成が、新しい高度な条件ビルダーを使用することで、これまでより簡単になりました。 これまでも、式を使って複雑な条件を書くことはできましたが、今では Microsoft Flow デザイナーの簡単なポイント アンド クリック UI で条件を作成できます。 
 
@@ -42,4 +42,4 @@ Microsoft Flow での条件付きロジックの作成が、新しい高度な�
 
 ![複雑な式](media/advanced_condition_builder_03.png "複雑な式")
 
-高度な条件ビルダーは、フローに追加するすべての新しい条件に対して使用できます。 既存の条件に対しては使用できないので、既存のフローで使用したい場合は、新しいステップを追加し、古い条件から新しい条件にアクションをドラッグする必要があります。
+高度な条件ビルダーは、フローに追加するすべての新しい条件に対して使用できます。 既存の条件に対しては使用できないので、既存のフローで使用したい場合は、新しいステップを追加し、古い条件から新しい条件にアクションをドラッグします。

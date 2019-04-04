@@ -6,16 +6,16 @@ ms.date: 12/12/2018
 ms.topic: article
 ms.service: business-applications
 ms.author: willthom
-ms.openlocfilehash: b2e73112a95265d79c02fca0d28057cfc475685f
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 1ad30f39918ee7fee768500024cdf72cd5eb9419
+ms.sourcegitcommit: c258b490eed49dcd0739f795d263189497aeb86c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199261"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "778601"
 ---
 # <a name="new-updates-to-make-power-bi-more-accessible"></a>Power BI をよりアクセスしやすくするための新しい更新 
 
-[!include[banner](../../../includes/banner.md)]
+
 
 レポート作成者は、データをより一層キーボードでナビゲーションしやすくする、ハイコントラスト モードに対応する、スクリーン リーダー テクノロジに準拠することで、多様なユーザー グループがアクセスしやすいデータにすることができます。 アクセシビリティ機能は、支援技術を利用するユーザーを支援するだけでなく、ユニバーサル デザインの優れた実践でもあります。
 

@@ -1,22 +1,22 @@
 ---
-title: "Access ユーザー向けのヘルプの向上"
-description: "Access ユーザーは PowerApps を使用したアプリ作成の可能性について学べます"
+title: Access ユーザー向けのヘルプの向上
+description: Access ユーザーは PowerApps を使用したアプリ作成の可能性について学べます
 author: gregli-msft
 ms.reviewer: anneta
 ms.date: 02/19/2019
 ms.assetid: f51b1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: gregli
 audience: Power user
+ms.openlocfilehash: 0639624c431eceef1c8a656c18ab3e0bf8c73920
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 596b2c5db3f972613927a42a4a569e91d5ee4e57
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879417"
 ---
 # <a name="improved-help-for-access-users"></a>Access ユーザー向けのヘルプの向上
 

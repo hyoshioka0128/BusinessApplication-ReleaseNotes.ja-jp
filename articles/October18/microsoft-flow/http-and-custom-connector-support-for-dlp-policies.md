@@ -3,7 +3,7 @@ title: DLP ポリシーに対する HTTP コネクタとカスタム コネク�
 description: PowerShell またはフロー テンプレートがサポートされている DLP ポリシーに、HTTP コネクタおよびカスタム コネクタのサポートが追加されています。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 02/04/2019
+ms.date: 03/15/2019
 ms.assetid: d582dcff-1621-e911-a975-000d3a1d51a5
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 8b20d087172b66d1e47abfbf4833c7a9fcdef44a
-ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
+ms.openlocfilehash: e5dc3856cb9c4ee99798d2869718ef3bb5739153
+ms.sourcegitcommit: d0ae525dc6a82af6449204a4bdb8dc57a04d2b74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "391318"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "880496"
 ---
 # <a name="http-and-custom-connector-support-for-dlp-policies"></a>DLP ポリシーに対する HTTP コネクタとカスタム コネクタのサポート
 
@@ -50,12 +50,15 @@ PowerShell コマンドレットまたは特定のフロー テンプレート�
  > [!NOTE]
  > ポリシー エディターに指定されたアイコンと表示名が表示されるのは、テナントの既定の環境に格納されているカスタム コネクタだけです。 他のすべてのカスタム コネクタには、既定のコネクタ アイコンとその内部名が表示されます。
 
-**前提条件**
+## <a name="prerequisites"></a>前提条件
 
 管理コマンドレットで管理操作を実行するには、次のものが必要です。
 
-- 有料の Microsoft Flow/PowerApps プラン 2 ライセンス、または Microsoft Flow/PowerApps プラン 2 の試用版ライセンス。  [http://web.powerapps.com/trial](http://web.powerapps.com/trial) で、30 日間の試用版ライセンスにサインアップできます。 試用版ライセンスは、有効期限が切れたら更新することができます。
-- 別のユーザーのリソースを検索する必要がある場合は、[Office 365 グローバル管理者](https://support.office.com/article/assign-admin-roles-in-office-365-for-business-eac4d046-1afd-4f1a-85fc-8219c79e1504)または [Azure Active Directory グローバル管理者](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles-azure-portal)のアクセス許可。 (環境管理者は、自分がアクセス許可を持っている環境および環境リソースにのみアクセスできることに注意してください。)
+- 有料の Microsoft Flow/PowerApps プラン 2 ライセンス、または Microsoft Flow/PowerApps プラン 2 の試用版ライセンス。 [30日間試用版ライセンス](http://web.powerapps.com/trial)にサインアップできます。 試用版ライセンスは、有効期限が切れたら更新できます。
+- 別のユーザーのリソースを検索する必要がある場合は、[Office 365 グローバル管理者](https://support.office.com/article/assign-admin-roles-in-office-365-for-business-eac4d046-1afd-4f1a-85fc-8219c79e1504)または[Azure Active Directory グローバル管理者](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles-azure-portal)のアクセス許可。
+    > [!NOTE]
+    > 環境管理者は、自分がアクセス許可を持っている環境および環境リソースにのみアクセスできます。
+
 - 最新の [PowerShell コマンドレット](https://docs.microsoft.com/en-us/powerapps/administrator/powerapps-powershell)。
 
 ## <a name="implementation"></a>実装
@@ -64,7 +67,7 @@ PowerShell コマンドレットまたは特定のフロー テンプレート�
 
  > [!NOTE]
  >  DLP ポリシーをプログラムで変更する場合は、DLP ポリシーが破損しないように十分注意する必要があります。 そのため、以下の予防措置を講じる必要があります。
- > - PowerShell コマンドレットまたは Power プラットフォーム管理コネクタを使用して、既存のポリシーをバックアップします。
+ > - PowerShell コマンドレットまたは Power Platform 管理コネクタを使用して、既存のポリシーをバックアップします。
  > - 非実稼働テナントでは、次の PowerShell コマンドレットを実行します。 ポリシーが破損すると、他の DLP ポリシーが PowerApps/Flow 管理ポータルに表示されなくなる可能性があります。
 
 ## <a name="templates"></a>テンプレート
@@ -80,4 +83,4 @@ PowerShell を使用してカスタム コネクタや HTTP コネクタのサ�
 HTTP コネクタを含むように DLP ポリシーを作成または更新するときは、スキーマバージョン `2018-11-01` を使用します。 テンプレートまたは PowerShell を使用して HTTP のサポートが追加されるのは、指定したポリシーだけです。 管理センターで作成した新しいポリシーには、HTTP コネクタは含まれません。
 
 > [!IMPORTANT]
-> スキーマ バージョン `2018-11-01` からのダウングレードはサポートされていません。 いったんポリシーに追加した HTTP のサポートを、除去することはできません。 除去しようとすると、その DLP ポリシーが破損する可能性があります。 さらに、HTTP コネクタをサポートするように DLP ポリシーを更新した場合、現在それらの HTTP 機能を使用しているフローが遮断される可能性があります。
+> スキーマ バージョン`2018-11-01` からダウングレードすることはできません。 HTTP サポートはポリシーから削除できません。 HTTP サポートを削除しようとすると、DLP ポリシーが破損する可能性があります。 さらに、HTTP コネクタをサポートするように DLP ポリシーを更新した場合、現在それらの HTTP 機能を使用しているフローが遮断される可能性があります。

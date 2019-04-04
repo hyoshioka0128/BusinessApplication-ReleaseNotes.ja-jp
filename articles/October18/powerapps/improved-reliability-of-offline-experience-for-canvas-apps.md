@@ -1,22 +1,22 @@
 ---
-title: "キャンバス アプリのオフライン エクスペリエンスの信頼性の向上"
-description: "アプリ開発者は、オフライン サポート用のモバイル クライアントでより多くのデータを保存できます"
+title: キャンバス アプリのオフライン エクスペリエンスの信頼性の向上
+description: アプリ開発者は、オフライン サポート用のモバイル クライアントでより多くのデータを保存できます
 author: gregli-msft
 ms.reviewer: anneta
 ms.date: 02/19/2019
 ms.assetid: 001c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: gregli
 audience: Power user
+ms.openlocfilehash: e4dcab31479a8a3089608c6f2745152c585fbe45
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: c0a356373d9027a69e4400233e710ffdff8e9e4f
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879683"
 ---
 # <a name="improved-reliability-of-offline-experience-for-canvas-apps-public-preview"></a>キャンバス アプリのオフライン エクスペリエンスの信頼性の向上 (パブリック プレビュー)
 

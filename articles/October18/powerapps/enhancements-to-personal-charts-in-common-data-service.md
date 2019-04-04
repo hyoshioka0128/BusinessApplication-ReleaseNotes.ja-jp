@@ -1,22 +1,22 @@
 ---
-title: "エンドユーザーはグラフを作成して他のユーザーやチームと共有可能"
-description: "エンドユーザーはグラフを作成して、他のユーザーと共有し、ビジュアルを作成することができます"
+title: エンドユーザーはグラフを作成して他のユーザーやチームと共有可能
+description: エンドユーザーはグラフを作成して、他のユーザーと共有し、ビジュアルを作成することができます
 author: prsi
 ms.reviewer: anneta
 ms.date: 02/25/2019
 ms.assetid: 721c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: prsi
 audience: Power user
+ms.openlocfilehash: 18641221bb904491fd406976498f5796e921bb5b
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 33199d3deb657537b6942a95383c89c60a3061dd
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879501"
 ---
 # <a name="end-users-can-create-charts-and-share-them-with-other-users-and-teams"></a>エンドユーザーはグラフを作成して他のユーザーやチームと共有可能
 

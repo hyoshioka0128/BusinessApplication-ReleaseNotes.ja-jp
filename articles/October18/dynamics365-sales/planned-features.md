@@ -10,12 +10,12 @@ ms.assetid: e1df5b00-c3f0-d808-3804-3c4f758b8406
 author: jasonmsft
 ms.author: jasonhui
 ms.reviewer: udag
-ms.openlocfilehash: d57748ade432cf3d568796f8cc9af141873292fa
-ms.sourcegitcommit: acdfea2b9b97fccf66d7e0eda8e485c05a1bce30
+ms.openlocfilehash: 51770a2c76793ff0ec88622d249130925eca29f1
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "201464"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847307"
 ---
 # <a name="summary-of-whats-new-in-sales"></a>Sales の新機能の概要
 
@@ -29,7 +29,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | 機能                                                              | リリースの種類   | 日付 |
 |----------------------------------------------------------------------|----------------|----------------------|
 | [プレイブック](empower-sellers-with-playbooks.md)                       | 一般提供             | 2018 年 11 月 4 日          |
-| [LinkedIn Insight](linkedin-insights.md)                            | 一般提供             | 2018 年 11 月          |
+| [LinkedIn Insights](linkedin-insights.md)                            | 一般提供             | 2018 年 11 月          |
 | [ライブ組織図](live-org-charts.md)                                | 一般提供             | 2018 年 11 月 8 日          |
 | [Microsoft Teams 統合](collaborate-with-microsoft-teams.md)   | パブリック プレビュー                   | 2018 年 11 月 20 日          |
 | [リレーションシップ アシスタントの拡張性](extend-relationship-assistant.md) | 一般提供         | 2018 年 11 月 1 日           |

@@ -1,21 +1,21 @@
 ---
 title: オファー管理
 description: オファー管理
-author: HarshSrivastava
+author: Harsh Srivastava
 manager: AnnBe
-ms.date: 09/20/2018
+ms.date: 03/05/2019
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
-ms.author: shielas
+ms.author: shielas, hasrivas
 audience: admin
-ms.openlocfilehash: a36ab2f8f649fad0dec2c9dc0036886e2c196b38
-ms.sourcegitcommit: 35ddcf3cbf841d4006db6fd01a3fc2cdc08d766d
+ms.openlocfilehash: 7670095e29eddd1f1e96497b2424a032afc66937
+ms.sourcegitcommit: 03de13679b4a53812274475e957d0124e6f4dd35
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/26/2019
-ms.locfileid: "760533"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "838178"
 ---
 # <a name="offer-management"></a>オファー管理
 
@@ -31,6 +31,7 @@ ms.locfileid: "760533"
 -   スキル管理者が、オファーに適用できるオファー データ セットを管理できます。 これらのオファー データ セットはオファーの価値にガードレールを提供します。
 -   オファーの作成者は、承認のためにオファーを送信し、必要に応じて変更を加えることができます。 これらすべての変更は、作成プロセス中にオファーがどのように変更されたかを理解するためにバージョン管理されています。
 - オファーは候補者と共有することができ、デジタル署名が可能です。 オファーの作成者は、必要に応じてオファーの有効期限を含めたり、オファーの受け入れプロセスの一環として候補者にさらに多くの文書を要求したりできます。
+-    Adobe Sign および DocuSign を使用してオファー パッケージを送信および署名する機能。
 
 <!--
 ## Who uses this feature

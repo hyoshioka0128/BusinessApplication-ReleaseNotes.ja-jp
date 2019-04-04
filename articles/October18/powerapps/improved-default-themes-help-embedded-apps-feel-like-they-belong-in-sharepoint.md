@@ -1,22 +1,22 @@
 ---
-title: "既定のテーマの改善により埋め込みアプリが SharePoint に属するように見える"
-description: "テーマを使うと、キャンバス アプリを SharePoint に組み込むとき、カスタマイズされたフォームでも Web パーツでも、外観が非常にマッチします。"
+title: 既定のテーマの改善により埋め込みアプリが SharePoint に属するように見える
+description: テーマを使うと、キャンバス アプリを SharePoint に組み込むとき、カスタマイズされたフォームでも Web パーツでも、外観が非常にマッチします。
 author: emcoope-msft
 ms.reviewer: anneta
 ms.date: 02/19/2019
 ms.assetid: 221c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: emcoope
 audience: Power user
+ms.openlocfilehash: 5f6249d518001eb5c371fcaf149eb48c1955a6b0
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 94cc73a11a6f808f0d0717f22f16d3c98a9ed649
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879718"
 ---
 # <a name="improved-default-themes-help-embedded-apps-look-like-they-belong-in-sharepoint"></a>既定のテーマの改善により埋め込みアプリが SharePoint に属するように見える
 

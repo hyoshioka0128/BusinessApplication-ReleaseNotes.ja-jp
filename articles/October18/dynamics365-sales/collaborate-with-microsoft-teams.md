@@ -10,12 +10,12 @@ ms.assetid: 5138b6e5-ad75-42e8-a5ea-a1aee0d0c870
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
-ms.openlocfilehash: cb31b132cabb6e1e38d8839c8b282a615220d1d9
-ms.sourcegitcommit: 2e55c448f4e1d2eb65e6859481868e2144233d98
+ms.openlocfilehash: f9068361d7e6927f946afab6b733fe42c7e8517a
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "200190"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847635"
 ---
 # <a name="transform-sales-team-collaboration-through-tight-integration-with-microsoft-teams"></a>Microsoft Teams との緊密な統合による営業チームのコラボレーションの変換
 

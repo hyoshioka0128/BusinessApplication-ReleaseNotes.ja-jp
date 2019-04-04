@@ -1,22 +1,22 @@
 ---
-title: "あらゆるレベルのメーカー向けの PowerApps オーサリングの向上"
-description: "PowerApps オーサリングは、PowerApps.com のすべてのインライン エクスペリエンスにおいて Microsoft ユーザー補助に関する基準に従っています。"
+title: あらゆるレベルのメーカー向けの PowerApps オーサリングの向上
+description: PowerApps オーサリングは、PowerApps.com のすべてのインライン エクスペリエンスにおいて Microsoft ユーザー補助に関する基準に従っています。
 author: aorth
 ms.reviewer: anneta
 ms.date: 02/19/2019
 ms.assetid: 0d1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: aorth
 audience: Power user
+ms.openlocfilehash: f6b0394103e957aa3bb81c9d6a16105575d81813
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
-ms.sourcegitcommit: 29498c7887c736307187aba329a2a286c130041d
-ms.openlocfilehash: bdc98de3de3d54cf3ef487f39db13e2ee0dd4b6a
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/27/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879529"
 ---
 # <a name="improved-powerapps-authoring-for-makers-of-all-abilities"></a>あらゆるレベルのメーカー向けの PowerApps オーサリングの向上
 

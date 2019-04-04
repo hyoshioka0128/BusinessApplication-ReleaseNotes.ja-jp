@@ -1,23 +1,22 @@
 ---
-title: "KPI サマリー ダッシュボード"
-description: "KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます。"
-keywords: 
+title: KPI サマリー ダッシュボード
+description: KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示されます。
+keywords: ''
 ms.date: 11/08/2018
 ms.service:
 - business-applications
 ms.topic: article
-ms.assetid: 
+ms.assetid: ''
 author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
+ms.openlocfilehash: 66d9e90502475f380873c2847eb821b2b3b19a22
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
-ms.sourcegitcommit: 564b2b697e5130b078dc81d04f3541919e4f1b8a
-ms.openlocfilehash: 321a5755f5ac7919a7e07fc2007c15834e062d24
-ms.contentlocale: ja-jp
-ms.lasthandoff: 11/08/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847395"
 ---
-
 # <a name="kpi-summary-dashboard"></a>KPI サマリー ダッシュボード
 
 [!include[ai banner](../includes/ai.md)] 
@@ -33,5 +32,4 @@ KPI サマリー ダッシュボードには、システムの主要業績評価
 ### <a name="see-also"></a>関連項目
 
 [KPI サマリー ダッシュボード リファレンス](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/dashboard-kpi-summary)
-
 

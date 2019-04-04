@@ -1,22 +1,22 @@
 ---
-title: "統一インターフェイスにおけるロールアップ ビューの拡張"
-description: "アクティビティ以外のエンティティでロールアップ ビュー機能を有効にします。"
+title: 統一インターフェイスにおけるロールアップ ビューの拡張
+description: アクティビティ以外のエンティティでロールアップ ビュー機能を有効にします。
 author: rprologo
 ms.reviewer: anneta
 ms.date: 02/25/2019
 ms.assetid: 821c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: rprologo
 audience: Power user
+ms.openlocfilehash: c8dd6115c3f84bff8b8b4f1dea4640580d015bba
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: efdc6dbb14db7d32715dfd6ffff0eb02a941477f
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879732"
 ---
 # <a name="enhancements-to-roll-up-views-in-unified-interface"></a>統一インターフェイスにおけるロールアップ ビューの拡張
 

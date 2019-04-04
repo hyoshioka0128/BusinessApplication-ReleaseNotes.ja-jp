@@ -3,7 +3,7 @@ title: 新機能のオプトイン
 description: アプリ開発者は、使用する準備ができた新機能をオプトインできます
 author: gregli-msft
 ms.reviewer: anneta
-ms.date: 02/04/2019
+ms.date: 02/19/2019
 ms.assetid: 0b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: gregli
 audience: Power user
-ms.openlocfilehash: 20552ea653c5a130701023996c677021d455186e
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
+ms.openlocfilehash: 6c478df22ea574df9a1941ce9e4a7e0ff05d9608
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "379246"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879767"
 ---
 # <a name="opting-in-to-new-features"></a>新機能のオプトイン
 

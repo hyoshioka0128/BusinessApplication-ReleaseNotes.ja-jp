@@ -1,22 +1,22 @@
 ---
-title: "OneDrive for Business 要求のサインオフ"
-description: "OneDrive for Business に、SharePoint に似た埋め込みの要求のサインオフ エクスペリエンスが備わります。"
+title: OneDrive for Business 要求のサインオフ
+description: OneDrive for Business に、SharePoint に似た埋め込みの要求のサインオフ エクスペリエンスが備わります。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
 ms.date: 03/15/2019
 ms.assetid: 349e1b68-aa74-e811-a965-000d3a1362e3
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: stepsic
 audience: Power user
+ms.openlocfilehash: 13e230c9f7d73bbd62464c04194f5d6f5323c42e
+ms.sourcegitcommit: d0ae525dc6a82af6449204a4bdb8dc57a04d2b74
 ms.translationtype: HT
-ms.sourcegitcommit: f569a3691cc7c3ac3d76ea67aaef6a06ce12ceef
-ms.openlocfilehash: 5348978783a25896c143d6b80b6c0cbc4b229bc3
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/27/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "880713"
 ---
 # <a name="onedrive-for-business-request-sign-off"></a>OneDrive for Business 要求のサインオフ
 

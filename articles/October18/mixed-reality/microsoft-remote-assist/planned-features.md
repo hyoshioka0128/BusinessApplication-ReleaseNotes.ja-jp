@@ -2,17 +2,17 @@
 title: Dynamics 365 Remote Assistの新機能の概要
 description: Remote Assist に対して計画されている機能の一覧。
 author: MatthewJonPaul
-ms.date: 12/10/2018
+ms.date: 03/12/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: mapau
 ms.reviwer: v-brycho
-ms.openlocfilehash: e31cb54effe9690e35bbb43030384f5953f3dbd0
-ms.sourcegitcommit: 163b0e8ec8da8ef8bbe43f302c561bbaed43d0be
+ms.openlocfilehash: 31e148ec1ff4109d4ce88989599825a71a12bcd8
+ms.sourcegitcommit: b159c2b409bf6789dd7b87594f72a64f504668ae
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2019
-ms.locfileid: "290562"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "835003"
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-remote-assist"></a>Dynamics 365 Remote Assistの新機能の概要
 
@@ -35,3 +35,5 @@ ms.locfileid: "290562"
 | [矢印が配置される場所を示すゴースト矢印](ghost-arrows.md)| 一般提供|2019 年 1 月 28 日|
 | [ナレーターによる着信の通知](narrator.md)| 一般提供|2019 年 1 月 28 日|
 | [追加の音声コマンドと視線入力コマンド](additional-voice-commands.md)| 一般提供|2019 年 1 月 28 日|
+| [90 日間無料試用版](free-trial.md)| 一般提供|2019 年 3 月 11 日|
+| [Dynamics 365 for Field Service との統合の改善](improved-field-service-integration.md)|一般提供|2019 年 3 月 11 日|

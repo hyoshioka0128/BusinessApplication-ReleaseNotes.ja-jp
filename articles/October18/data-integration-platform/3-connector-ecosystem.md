@@ -1,22 +1,22 @@
 ---
-title: "強化され、より統合されたコネクターと開発者エコシステム"
-description: "強化され、より統合されたコネクターと開発者エコシステム"
+title: 強化され、より統合されたコネクターと開発者エコシステム
+description: 強化され、より統合されたコネクターと開発者エコシステム
 author: shellyhaverkamp
 manager: AnnBe
 ms.date: 8/16/2018
 ms.assetid: 64dd4753-dced-47af-8087-0a75f48a4a2d
 ms.topic: article
-ms.prod: 
+ms.prod: ''
 ms.service: business-applications
-ms.technology: 
+ms.technology: ''
 ms.author: tpalmer
 audience: Admin
+ms.openlocfilehash: 5d8a3b47c21a6c039a7f712dc167555e3d4c797e
+ms.sourcegitcommit: c258b490eed49dcd0739f795d263189497aeb86c
 ms.translationtype: HT
-ms.sourcegitcommit: d65d9c6f9cae75ea7d7934a95b3a9f67a9e10fe3
-ms.openlocfilehash: 732fe2f8548ec752acd561e21d33e7a8c3b935b8
-ms.contentlocale: ja-jp
-ms.lasthandoff: 10/26/2018
-
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "778573"
 ---
 #  <a name="richer-and-more-unified-connector-and-developer-ecosystem"></a>強化され、より統合されたコネクターと開発者エコシステム
 
@@ -50,5 +50,4 @@ ms.lasthandoff: 10/26/2018
 - コネクタは、対象プラットフォームのビジネス ユーザー シナリオをサポートしている。
 
 詳細については、[コネクタ認定プログラム](https://aka.ms/connector-certification)をご覧ください。
-
 

@@ -3,19 +3,19 @@ title: 2018 年 10 月に Microsoft PowerApps に対して計画されている�
 description: Microsoft PowerApps の 2018 年 10 月リリースで利用可能になる主要な新機能の全一覧です。
 author: evchaki
 manager: KVivek
-ms.date: 02/06/2019
+ms.date: 03/15/2019
 ms.topic: summary
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
 ms.author: evchaki
 audience: Power user
-ms.openlocfilehash: 572bef3b87e02dbcce09705943ad762f3d312d80
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
+ms.openlocfilehash: 472b76e87f7ddc159a0f0b8a8eea4c6b0501936b
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "379498"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879746"
 ---
 # <a name="summary-of-whats-new-in-microsoft-powerapps"></a>Microsoft PowerApps の新機能の概要
 
@@ -25,7 +25,7 @@ ms.locfileid: "379498"
 
 Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
-## <a name="improvements-in-end-user-experiences"></a>エンドユーザー エクスペリエンスの向上
+## <a name="powerapps-platform-provides-fast-consistent-user-experience"></a>迅速で一貫性のあるユーザー エクスペリエンスを提供する PowerApps プラットフォーム
 
 Microsoft は高品質のエンドユーザー エクスペリエンスの提供に力を入れてきました。
 
@@ -52,18 +52,18 @@ Microsoft は高品質のエンドユーザー エクスペリエンスの提供
 | [新しいモデル駆動型フォーム デザイナー](new-model-driven-form-designer-preview.md) | パブリック プレビュー |  2019 年 1 月 4 日  |
 | [キャンバス アプリのオフライン エクスペリエンスの信頼性の向上](improved-reliability-of-offline-experience-for-canvas-apps.md) | パブリック プレビュー |  2019 年 1 月 23 日  |
 
-## <a name="better-platform-for-administrators"></a>管理者向けプラットフォームの向上
+## <a name="enterprise-grade-platform-for-administrators"></a>管理者のためのエンタープライズ レベルのプラットフォーム
 
-管理者のエクスペリエンスは、信頼できるプラットフォームの採用で重要な鍵となります。
+管理者のエクスペリエンスは、信頼できるプラットフォームを導入するための重要な鍵となります。
 
 | 機能    | リリースの種類    | 日付    |
 | ---------- | ---------- | ---------- |
 | [統一インターフェイスのユーザー エクスペリエンスの利用可能性の制御](control-availability-of-user-experiences-on-unified-interface.md) | 一般提供 |  2018 年 10 月  |
 | [管理者向けのヘルプとサポートの強化](enhanced-help---support-for-admins.md) | 一般提供 |  2018 年 10 月 1 日  |
-| [Power プラットフォーム管理センターからの統合環境管理](unified-environment-administration.md) | 一般提供 |  2018 年 10 月 3 日  |
+| [Power Platform 管理センターからの統合環境管理](unified-environment-administration.md) | 一般提供 |  2018 年 10 月 3 日  |
 | [PowerApps が Intune をサポート](powerapps-supports-intune.md) | 一般提供 |  2018 年 10 月 24 日  |
 | [まずはプレビューで新しい更新プログラムをテストする](test-out-new-updates-first-in-preview.md) | 一般提供 |  2019 年 4 月  |
-| [Power プラットフォーム管理センターからの管理設定の管理](admin-experiences-available-from-unified-interface.md) | パブリック プレビュー |  2018 年 9 月 26 日  |
+| [Power Platform 管理センターからの管理設定の管理](admin-experiences-available-from-unified-interface.md) | パブリック プレビュー |  2018 年 9 月 26 日  |
 | [新しい管理者向け分析レポート](new-admin-analytics-reports.md) | パブリック プレビュー |  2018 年 10 月 3 日  |
 | [PowerApps 監査イベント](powerapps-audit-events.md) | パブリック プレビュー |  2018 年 12 月 19 日  |
 
@@ -78,26 +78,27 @@ Microsoft は高品質のエンドユーザー エクスペリエンスの提供
 | [アクセスしやすいアプリを作成するためのインライン ヘルプ](in-line-help-for-creating-accessible-apps.md) | 一般提供 |  2018 年 8 月 14 日  |
 | [Common Data Service for Apps のキャンバス アプリで多対一リレーションシップを簡単に操作](easy-to-work-with-many-to-one-relationships-in-canvas-apps-for-the-common-data-service.md) | 一般提供 |  2018 年 8 月 14 日  |
 | [キャンバス アプリでの並列データ読み込みによる読み込み時間の短縮](faster-load-times-with-parallel-data-loading-in-canvas-apps.md) | 一般提供 |  2018 年 8 月 14 日  |
+| [アプリ開発者向けのエラー検出機能の強化](errors-more-discoverable-by-app-makers.md) | 一般提供 |  2018 年 8 月 14 日  |
 | [読みやすくなった式の書式](formula-formatting-easier-to-read.md) | 一般提供 |  2018 年 8 月 14 日  |
 | [アプリ サイズの自由な指定](choose-your-own-size-of-app.md) | 一般提供 |  2018 年 9 月 12 日  |
 | [既定のテーマの改善により埋め込みアプリが SharePoint に属するように見える](improved-default-themes-help-embedded-apps-feel-like-they-belong-in-sharepoint.md) | 一般提供 |  2018 年 9 月 12 日  |
 | [PowerApps Web パーツを使用した SharePoint ページへのアプリケーションの埋め込み](embed-applications-on-sharepoint-pages-using-powerapps-web-part.md) | 一般提供 |  2018 年 9 月 19 日  |
-| [カスタマイズ担当者がエンティティ フォームに Power BI タイルおよびレポートを埋め込むことができる](power-bi-embedding-available-in-common-data-service-entity-forms.md) | 一般提供 |  2018 年 10 月 3 日  |
 | [PowerApps からのソリューションの検索と操作がより簡単に](easier-to-find-and-work-with-solutions-from-powerapps.md) | 一般提供 |  2018 年 10 月 31 日  |
 | [キャンバス アプリの共有の拡張](sharing-enhancements-for-canvas-apps.md) | 一般提供 |  2018 年 11 月 14 日  |
+| [カスタマイズ担当者がエンティティ フォームに Power BI タイルおよびレポートを埋め込むことができる](power-bi-embedding-available-in-common-data-service-entity-forms.md) | 一般提供 |  2018 年 12 月 5 日  |
 | [エンティティでの簡略化された検索フィールドの作成](simplified-lookup-field-creation-on-entities.md) | 一般提供 |  2019 年 1 月  |
 | [エンティティの詳細プロパティの管理を簡略化](simplified-management-of-advanced-entity-properties.md) | 一般提供 |  2019 年 1 月  |
+| [キャンバス アプリのリッチ テキスト エディターおよび HTML ビュー コントロール](rich-text-editor-and-html-view-controls-for-canvas-apps.md) | 一般提供 |  2019 年 1 月 2 日  |
 | [キャンバス アプリでの Common Data Service for Apps 内の集約関数の委任](canvas-app-delegation-of-aggregate-functions-in-common-data-service-for-apps.md) | 一般提供 |  2019 年 1 月 2 日  |
-| [カスケード ドロップダウン リストの構成がより簡単に](easier-to-configure-cascading-dropdowns-and-conditional-field-visibility.md) | 一般提供 |  2019 年 1 月  |
-| [アプリ開発者向けのエラー検出機能の強化](errors-more-discoverable-by-app-makers.md) | 一般提供 |  2019 年 1 月  |
 | [Power BI 内の PowerApps のより深い統合 ](deeper-powerapps-integration-in-powerbi.md) | 一般提供 |  2019 年 1 月 23 日  |
 | [エンティティ間の高度なリレーションシップ](advanced-relationships-on-entities.md) | 一般提供 |  2019 年 1 月 30 日  |
-| [Access ユーザー向けのヘルプの向上](improved-help-for-access-users.md) | 一般提供 |  2019 年 1 月  |
-| [Common Data Service for Apps または SharePoint を使用している場合にキャンバス アプリでわかりやすい表示名を使用する](work-with-friendly-display-names-in-canvas-apps-when-using-the-common-data-service-or-sharepoint.md) | 一般提供 |  2019 年 1 月  |
 | [自動採番の作成](create-automatic-number-sequences.md) | 一般提供 |  2019 年 2 月  |
 | [同じツールでのエンティティとアプリの作成](create-and-edit-your-entities-in-canvas-studio-while-building-an-app.md) | 一般提供 |  2019 年 2 月  |
-| [PowerApps アプリ開発者は SharePoint ドキュメント ライブラリを使用してマッシュアップ アプリを作成することが可能に](powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries.md) | 一般提供 |  2019 年 2 月  |
-| [Common Data Service for Apps のデータを使用した Power BI レポートの作成](create-powerbi-reports-using-data-in-the-common-data-service-for-apps.md) | 一般提供 |  2019 年 3 月  |
+| [PowerApps アプリ開発者は SharePoint ドキュメント ライブラリを使用してマッシュアップ アプリを作成することが可能に](powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries.md) | 一般提供 |  2019 年 2 月 20 日  |
+| [Access ユーザー向けのヘルプの向上](improved-help-for-access-users.md) | 一般提供 |  2019 年 2 月  |
+| [カスケード ドロップダウン リストの構成がより簡単に](easier-to-configure-cascading-dropdowns-and-conditional-field-visibility.md) | 一般提供 |  2019 年 3 月 6 日  |
+| [Common Data Service for Apps または SharePoint を使用している場合にキャンバス アプリでわかりやすい表示名を使用する](work-with-friendly-display-names-in-canvas-apps-when-using-the-common-data-service-or-sharepoint.md) | 一般提供 |  2019 年 3 月  |
+| [Common Data Service for Apps のデータを使用した Power BI レポートの作成](create-powerbi-reports-using-data-in-the-common-data-service-for-apps.md) | 一般提供 |  2019 年 5 月  |
 | [キャンバス アプリによるエラーの捕捉、処理、レポートとデータベースへの Null 値の書き込み](catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps.md) | パブリック プレビュー |  2018 年 8 月 14 日  |
 | [ソリューションを使用したキャンバス アプリの ALM の向上](improve-alm-for-canvas-app-with-solutions.md) | パブリック プレビュー |  2018 年 10 月 31 日  |
 | [モデル駆動型ビュー デザイナーの機能強化](model-driven-view-designer-enhancements.md) | パブリック プレビュー |  2018 年 12 月 5 日  |
