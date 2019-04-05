@@ -10,12 +10,12 @@ ms.assetid: de27d4be-f0f8-4151-8ab1-96e3d89a2637
 author: jasonmsft
 ms.author: jasonhui
 manager: AnnBe
-ms.openlocfilehash: bed2dea0abdab404844ada7ec4f08036c031c64e
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 5d6d813445d091c161ce742f7fd49d20c1357ed6
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200175"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847757"
 ---
 # <a name="increase-sales-conversions-with-predictive-lead-scoring"></a>予測リード スコアリングで販売への転換を増やす
 

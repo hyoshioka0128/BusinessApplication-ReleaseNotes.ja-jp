@@ -10,12 +10,12 @@ ms.assetid: d79ed975-8409-4abb-ab22-f299dac29690
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
-ms.openlocfilehash: 7184ba7d0eaedce58d427657124bd05d8c402958
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 97e1da255f32499341f7f98cf583221fa43c7b53
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199941"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847381"
 ---
 #  <a name="overview-of-dynamics-365-for-sales-october-18-release"></a>Dynamics 365 for Sales 2018 年 10 月リリースの概要
 

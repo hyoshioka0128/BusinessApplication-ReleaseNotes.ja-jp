@@ -3,7 +3,7 @@ title: Word 文書の生成
 description: Word Online (Business) コネクタを使用すると、Microsoft Graph でサポートされているドキュメント ライブラリ内の Word ファイルを操作して、テンプレートからファイルを生成したりファイルの PDF バージョンを作成したりできます。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 02/04/2019
+ms.date: 02/19/2019
 ms.assetid: a49f123a-d50e-e911-a98c-000d3a1362e3
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 95c8e8e3342eb5401507561299de9cfa59890312
-ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
+ms.openlocfilehash: 22629eeb5446ac6482bca696aa8d31785f268eda
+ms.sourcegitcommit: d0ae525dc6a82af6449204a4bdb8dc57a04d2b74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "391075"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "880510"
 ---
 # <a name="word-document-generation-public-preview"></a>Word 文書の生成 (パブリック プレビュー)
 

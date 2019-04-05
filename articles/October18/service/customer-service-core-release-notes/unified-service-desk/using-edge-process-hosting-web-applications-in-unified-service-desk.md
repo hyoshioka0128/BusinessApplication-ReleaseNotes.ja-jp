@@ -10,12 +10,12 @@ ms.assetid: 36e50ea3-3169-474e-b99f-08767b712dea
 author: kabala123
 ms.author: kabala
 manager: Shujoshi
-ms.openlocfilehash: f912b46e95788c11514a56b439eaa06ca4108435
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 7af95ec5a403ba5382829cced89b56dc5fef9386
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199040"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847314"
 ---
 #  <a name="using-edge-process-for-hosting-web-applications-in-unified-service-desk"></a>Edge プロセスを使用して Web アプリケーションを Unified Service Desk でホストする
 

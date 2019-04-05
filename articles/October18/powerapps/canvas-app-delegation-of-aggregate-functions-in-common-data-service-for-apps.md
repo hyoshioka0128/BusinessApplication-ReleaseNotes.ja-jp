@@ -3,7 +3,7 @@ title: キャンバス アプリでの Common Data Service for Apps 内の集約
 description: Sum、Min、Max、Average を、大きいデータ セット間で委任できるようになりました
 author: gregli-msft
 ms.reviewer: anneta
-ms.date: 02/06/2019
+ms.date: 02/19/2019
 ms.assetid: d5f58473-32e1-e811-a97a-000d3a137063
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: gregli
 audience: Power user
-ms.openlocfilehash: 21d42d172c1488b8444fbd67658013ef5f6c34ee
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
+ms.openlocfilehash: e7dc2c7cc024bef273a8a0ef2e9004b979c01de5
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "379575"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879522"
 ---
 # <a name="canvas-app-delegation-of-aggregate-functions-in-common-data-service-for-apps"></a>キャンバス アプリでの Common Data Service for Apps 内の集約関数の委任
 

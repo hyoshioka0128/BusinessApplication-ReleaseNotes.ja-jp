@@ -3,7 +3,7 @@ title: Microsoft Flow Web API が利用可能に
 description: Microsoft Flow の API (フローをプログラムで作成、共有、削除する機能など) が文書化されました。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 02/07/2019
+ms.date: 02/19/2019
 ms.assetid: 417e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 17838c9ae7b198c4cf79b7341eb9f2c8994f55a3
-ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
+ms.openlocfilehash: 94dfd5f84614fdd55f81efdf679e318275b3a05a
+ms.sourcegitcommit: d0ae525dc6a82af6449204a4bdb8dc57a04d2b74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "391061"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "880631"
 ---
 # <a name="microsoft-flow-web-apis-available"></a>Microsoft Flow Web API が利用可能に
 

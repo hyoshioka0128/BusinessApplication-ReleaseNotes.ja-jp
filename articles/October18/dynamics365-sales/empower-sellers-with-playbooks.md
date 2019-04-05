@@ -10,12 +10,12 @@ ms.assetid: df78dd64-1b29-47e1-b0e9-abf8bab5ac83
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
-ms.openlocfilehash: 236c1b895fc974bae7bd505863a0dde1ed137a97
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: fc55425d41944365ee70d728f6fc00c8665763b7
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199192"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847423"
 ---
 # <a name="empower-sellers-with-playbooks-guided-by-event-driven-sales-activities"></a>イベント駆動型営業活動によってガイドされるプレイブックでの販売担当者の支援
 

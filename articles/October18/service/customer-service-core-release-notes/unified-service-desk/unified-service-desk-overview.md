@@ -10,12 +10,12 @@ ms.assetid: dd3a539b-eef7-4cd9-90f0-2c42873dc2aa
 author: kabala123
 ms.author: kabala
 manager: Shujoshi
-ms.openlocfilehash: 7f9248eac032bffa7f78a9f861c795b320a5be0c
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: f7fda675effab344998d9da1b19a472c924d3047
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199017"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847441"
 ---
 #  <a name="overview-of-unified-service-desk-october-18-release"></a>Unified Service Desk 2018 年 10 月リリースの概要
 

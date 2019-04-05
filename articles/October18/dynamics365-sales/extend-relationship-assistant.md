@@ -10,12 +10,12 @@ ms.assetid: dba7666f-dc48-483b-9b4f-72262df96d88
 author: jasonmsft
 ms.author: jasonhui
 manager: AnnBe
-ms.openlocfilehash: 7176779ae6440309d348468213f4232eb6304dd9
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 3746ff50d133f7bbdfb8e4253c8cced48e335574
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199947"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847517"
 ---
 # <a name="extend-relationship-assistant-with-new-insights"></a>新しいインサイトによるリレーションシップ アシスタントの拡張
 

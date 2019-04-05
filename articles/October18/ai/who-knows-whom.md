@@ -10,12 +10,12 @@ ms.assetid: 303f34c8-6112-40cf-8c45-8dbfc0b89580
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
-ms.openlocfilehash: cc31f8fe803c41ba9a2012ffb1c8ce175e61446a
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 1131d748a530f34dbee2f4e3e9ee7f4709d490e7
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200139"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847750"
 ---
 # <a name="get-introduced-to-prospects-with-the-who-knows-whom-connection-graph"></a>つながり検索のつながりグラフを使用して見込顧客を紹介してもらう
 

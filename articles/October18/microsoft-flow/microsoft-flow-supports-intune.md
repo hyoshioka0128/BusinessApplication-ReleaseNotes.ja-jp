@@ -3,7 +3,7 @@ title: Microsoft Flow が Intune をサポート
 description: Android と iOS 上の Microsoft Flow アプリが、Intune モバイル アプリケーション管理をサポートするようになりました。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 02/07/2019
+ms.date: 02/19/2019
 ms.assetid: 3a5abc17-66d9-e811-a987-000d3a1362e3
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 65b53223e2784402b39bde4e30481a19b0338bf6
-ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
+ms.openlocfilehash: f35e4ebc60b4257352b75f7588190d0aaf8b8615
+ms.sourcegitcommit: d0ae525dc6a82af6449204a4bdb8dc57a04d2b74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "391138"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "880783"
 ---
 # <a name="microsoft-flow-supports-intune"></a>Microsoft Flow が Intune をサポート
 

@@ -3,7 +3,7 @@ title: 新しいモデル駆動型フォーム デザイナー
 description: 新しいモデル駆動型のフォーム デザイナーで、生産性の高い最新のフォーム オーサリングを体験します
 author: aneesmsft
 ms.reviewer: anneta
-ms.date: 02/04/2019
+ms.date: 02/19/2019
 ms.assetid: 911c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: aneesa
 audience: Power user
-ms.openlocfilehash: b7c31a16e2777aee2a154c8e96807ae19788fd90
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
+ms.openlocfilehash: be70466909d0179a92becdb26db981194e66bc1b
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "379218"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879550"
 ---
 # <a name="new-model-driven-form-designer-public-preview"></a>新しいモデル駆動型フォーム デザイナー (パブリック プレビュー)
 

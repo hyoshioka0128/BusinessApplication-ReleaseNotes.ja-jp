@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: Annbe
 audience: Admin, end-user, developer
-ms.openlocfilehash: 56c00cc0832e96217189230e380840696d902057
-ms.sourcegitcommit: 1c596e54f07d4b9fc0c8a290e5541836e12994c2
+ms.openlocfilehash: 199c57cfa19e2a1a7f076c28dab5fff53ca42315
+ms.sourcegitcommit: 03de13679b4a53812274475e957d0124e6f4dd35
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "374311"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "838287"
 ---
 # <a name="summary-of-whats-new-in-finance-and-operations"></a>Finance and Operations の新機能の概要
 
@@ -65,7 +65,6 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 |[測定単位](uom.md) |一般提供 |両方    |未定 (2019 年 3 月以降にリリースされる可能性があります) |
 |[手持在庫レポートのパフォーマンス](on-hand-inventory-report-performance.md) | 一般提供|クラウド<br>オンプレミス                                |2018 年 10 月 1 日<br>2018 年 11 月 6 日 |
 |[価格、数量、重量の小数点以下の桁数のカスタマイズ](customize-decimals-for-prices-quantities-and-weight.md) | 一般提供 | クラウド<br>オンプレミス                                |2018 年 10 月 1 日<br>2018 年 11 月 6 日 |
-
 | [マスター プランの再開](resume-master-planning.md) | 一般提供 | 両方 | 2018 年 12 月 14 日 |
 
 
@@ -125,6 +124,6 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 
 | 機能   | リリースの種類   | クラウドまたはオンプレミス  |日付 |
 |-----------|----------------|----------------------|----------------------|
-| [複数言語翻訳要求の Dynamics Translation Service のサポート](translation-service.md) | 一般提供 | 両方                             |2018 年 12 月 10 日|
+| [Dynamics Translation Service での複数言語翻訳要求のサポート](translation-service.md) | 一般提供 | 両方                             |2018 年 12 月 10 日|
 | [Dynamics Translation Service 使用状況の指標](translation-service.md) | 一般提供             |両方                             |未定 |
 

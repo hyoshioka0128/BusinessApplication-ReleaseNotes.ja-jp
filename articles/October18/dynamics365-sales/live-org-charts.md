@@ -10,12 +10,12 @@ ms.assetid: 5ab63782-7672-4d61-9a43-069794d17843
 author: m-hartmann
 ms.author: mhart
 manager: shellyha
-ms.openlocfilehash: cb6415da4c12dba1c9fafb6435f16c06f2c3e5bb
-ms.sourcegitcommit: acdfea2b9b97fccf66d7e0eda8e485c05a1bce30
+ms.openlocfilehash: 0eecb73fe7bf15f7f862056fbc204470a4910475
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "201457"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847621"
 ---
 # <a name="organize-contacts-in-live-org-charts-for-accounts"></a>アカウントのライブ組織図での連絡先の整理
 

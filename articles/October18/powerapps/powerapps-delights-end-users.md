@@ -1,9 +1,9 @@
 ---
-title: エンドユーザー エクスペリエンスの向上
+title: 迅速で一貫性のあるユーザー エクスペリエンスを提供する PowerApps プラットフォーム
 description: Microsoft は高品質のエンドユーザー エクスペリエンスの提供に力を入れてきました。
 author: evchaki
 manager: KVivek
-ms.date: 01/21/2019
+ms.date: 03/15/2019
 ms.assetid: d68cd080-3b73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: ''
@@ -11,14 +11,14 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: evchaki
 audience: Power user
-ms.openlocfilehash: b682614e85a765ed04a4f14655221bdce32d322e
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
+ms.openlocfilehash: a8673e84bd289ddca924e8a1395c46ea09e407ad
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "379442"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879487"
 ---
-# <a name="improvements-in-end-user-experiences"></a>エンドユーザー エクスペリエンスの向上
+# <a name="powerapps-platform-provides-fast-consistent-user-experience"></a>迅速で一貫性のあるユーザー エクスペリエンスを提供する PowerApps プラットフォーム
 
 
 [!include[powerapps banner](../includes/powerapps.md)]

@@ -18,7 +18,7 @@
 ## [Sales](dynamics365-sales/sales-performance-at-scale-productivity-collaboration.md)
 ### [新機能の概要](dynamics365-sales/planned-features.md)
 ### [プレイブック](dynamics365-sales/empower-sellers-with-playbooks.md)
-### [LinkedIn Insight](dynamics365-sales/linkedin-insights.md)
+### [LinkedIn Insights](dynamics365-sales/linkedin-insights.md)
 ### [ライブ組織図](dynamics365-sales/live-org-charts.md)
 ### [Microsoft Teams 統合](dynamics365-sales/collaborate-with-microsoft-teams.md)
 ### [リレーションシップ アシスタントの拡張性](dynamics365-sales/extend-relationship-assistant.md)
@@ -78,7 +78,6 @@
 ##### [スケジュール ボードの分割ビュー](service/field-service/universal-resource-scheduling-urs/Schedule-Board-Split-View.md)  
 ##### [拡張可能なリソースの空き時間](service/field-service/universal-resource-scheduling-urs/extensibility-hook-resource-availability.md)
 ##### [フォーム内スケジューリング](service/field-service/universal-resource-scheduling-urs/in-form-scheduling.md)
-##### [PowerApps サンプル アプリ](service/field-service/universal-resource-scheduling-urs/powerapps-sample-app.md)
 ##### [セルフサービス スケジュールの API](service/field-service/universal-resource-scheduling-urs/self-service-scheduling-apis.md)
 ##### [URS のお客様主導による製品機能強化](service/field-service/universal-resource-scheduling-urs/urs-customer-driven-product-enhancements.md)
 
@@ -183,7 +182,9 @@
 #### [経費管理 Power BI](dynamics365-finance-operations/expense-management-power-bi.md)
 
 ### Lifecycle Services
-#### [Translation service](dynamics365-finance-operations/translation-service.md)
+#### [Translation Service](dynamics365-finance-operations/translation-service.md)
+
+### [リリースの詳細](https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/get-started/whats-new-changed)
 
 ## [Talent](dynamics365-talent/overview.md)
 ### [新機能の概要](dynamics365-talent/planned-features.md)
@@ -200,13 +201,14 @@
 #### [英国地域](dynamics365-talent/attract/united-kingdom-region.md)
 
 ### [Onboard](dynamics365-talent/onboard/onboard-overview.md)
-#### [担当者のプレースホルダー](dynamics365-talent/onboard/assignee-placeholders.md)
-#### [自動保存](dynamics365-talent/onboard/auto-save.md)
-#### [ガイドの一括更新](dynamics365-talent/onboard/bulk-guide-updates.md)
-#### [Core HR チェックリストの統合](dynamics365-talent/onboard/corehr-checklist-integration.md)
-#### [インポート](dynamics365-talent/onboard/import.md)
 #### [マネージド アクティビティ](dynamics365-talent/onboard/managed-activities.md)
+#### [ガイドの一括更新](dynamics365-talent/onboard/bulk-guide-updates.md)
+#### [担当者のプレースホルダー](dynamics365-talent/onboard/assignee-placeholders.md)
+#### [インポート](dynamics365-talent/onboard/import.md)
+#### [ガイドやテンプレートの共有とアクセスの管理](dynamics365-talent/onboard/access-management.md)
 #### [チームのオンボーディング](dynamics365-talent/onboard/onboard-teams.md)
+#### [自動保存](dynamics365-talent/onboard/auto-save.md)
+#### [Core HR チェックリストの統合](dynamics365-talent/onboard/corehr-checklist-integration.md)
 #### [英国地域](dynamics365-talent/onboard/united-kingdom-region.md)
 
 ### Core HR
@@ -263,6 +265,9 @@
 ### [VAR 向けテナント管理](dynamics365-business-central/var-tenant-administration.md)
 ### [Visual Studio Code AL エクスペリエンスの向上](dynamics365-business-central/visual-studio-code-improvements.md)
 ### [拡大を続ける Business Central の対応地域](dynamics365-business-central/localization.md)
+### [ファイルベースの xe ターゲットを使用した SQL Database のデッドロックの監視](dynamics365-business-central/monitoring-sql-database-deadlocks-file-based-xe-targets.md)
+### [Azure SQL Database Managed Instance のサポート](dynamics365-business-central/support-for-azure-sql-database-managed-instance.md)
+
 
 ## [人工知能](ai/overview.md)
 ### [新機能の概要](ai/planned-features.md)
@@ -304,8 +309,10 @@
 #### [新しい測定ツール](mixed-reality/microsoft-layout/measurement-tools.md)
 #### [パフォーマンスの向上](mixed-reality/microsoft-layout/performance-mode-setting.md)
 #### [インポート ツールの改善](mixed-reality/microsoft-layout/import-tool.md)
-
-
+#### [90 日間無料試用](mixed-reality/microsoft-layout/free-trial.md)
+#### [MR ヘッドセット用の新しいファイル形式により保存を大幅に高速化](mixed-reality/microsoft-layout/file-format.md)
+#### [新しいツールにより 3D 資産の正確な配置が簡単に](mixed-reality/microsoft-layout/precision-tools.md)
+#### [測定ツールの改善](mixed-reality/microsoft-layout/measurement-tools-improvements.md)
 
 
 ### [Dynamics 365 Remote Assist](mixed-reality/microsoft-remote-assist/index.md)
@@ -322,12 +329,14 @@
 #### [矢印が配置される場所を示すゴースト矢印](mixed-reality/microsoft-remote-assist/ghost-arrows.md)
 #### [ナレーターによる着信の通知](mixed-reality/microsoft-remote-assist/narrator.md)
 #### [追加の音声コマンドと視線入力コマンド](mixed-reality/microsoft-remote-assist/additional-voice-commands.md)
+#### [90 日間無料試用版](mixed-reality/microsoft-remote-assist/free-trial.md)
+#### [Dynamics 365 for Field Service との統合の改善](mixed-reality/microsoft-remote-assist/improved-field-service-integration.md)
 
 
 ## [Microsoft PowerApps](powerapps/index.md)
 ### [新機能の概要](powerapps/planned-features.md)
 
-### [エンドユーザー エクスペリエンスの向上](powerapps/powerapps-delights-end-users.md)
+### [迅速で一貫性のあるユーザー エクスペリエンスを提供する PowerApps プラットフォーム](powerapps/powerapps-delights-end-users.md)
 #### [統一インターフェイスに追加されたエンティティ](powerapps/additional-entities-added-to-the-unified-interface.md)
 #### [統一インターフェイスにおけるロールアップ ビューの拡張](powerapps/enhancements-to-roll-up-views-in-unified-interface.md)
 #### [モデル駆動型アプリの読み込み速度の向上](powerapps/faster-loading-model-driven-apps.md)
@@ -349,13 +358,13 @@
 #### [新しいモデル駆動型フォーム デザイナー](powerapps/new-model-driven-form-designer-preview.md)
 #### [キャンバス アプリのオフライン エクスペリエンスの信頼性の向上](powerapps/improved-reliability-of-offline-experience-for-canvas-apps.md)
 
-### [管理者向けプラットフォームの向上](powerapps/trusted-enterprise-grade-platform-for-administrators.md)
+### [管理者のためのエンタープライズ レベルのプラットフォーム](powerapps/trusted-enterprise-grade-platform-for-administrators.md)
 #### [統一インターフェイスのユーザー エクスペリエンスの利用可能性の制御](powerapps/control-availability-of-user-experiences-on-unified-interface.md)
 #### [管理者向けのヘルプとサポートの強化](powerapps/enhanced-help---support-for-admins.md)
-#### [Power プラットフォーム管理センターからの統合環境管理](powerapps/unified-environment-administration.md)
+#### [Power Platform 管理センターからの統合環境管理](powerapps/unified-environment-administration.md)
 #### [PowerApps が Intune をサポート](powerapps/powerapps-supports-intune.md)
 #### [まずはプレビューで新しい更新プログラムをテストする](powerapps/test-out-new-updates-first-in-preview.md)
-#### [Power プラットフォーム管理センターからの管理設定の管理](powerapps/admin-experiences-available-from-unified-interface.md)
+#### [Power Platform 管理センターからの管理設定の管理](powerapps/admin-experiences-available-from-unified-interface.md)
 #### [新しい管理者向け分析レポート](powerapps/new-admin-analytics-reports.md)
 #### [PowerApps 監査イベント](powerapps/powerapps-audit-events.md)
 
@@ -365,25 +374,26 @@
 #### [アクセスしやすいアプリを作成するためのインライン ヘルプ](powerapps/in-line-help-for-creating-accessible-apps.md)
 #### [Common Data Service for Apps のキャンバス アプリで多対一リレーションシップを簡単に操作](powerapps/easy-to-work-with-many-to-one-relationships-in-canvas-apps-for-the-common-data-service.md)
 #### [キャンバス アプリでの並列データ読み込みによる読み込み時間の短縮](powerapps/faster-load-times-with-parallel-data-loading-in-canvas-apps.md)
+#### [アプリ開発者向けのエラー検出機能の強化](powerapps/errors-more-discoverable-by-app-makers.md)
 #### [読みやすくなった式の書式](powerapps/formula-formatting-easier-to-read.md)
 #### [アプリ サイズの自由な指定](powerapps/choose-your-own-size-of-app.md)
 #### [既定のテーマの改善により埋め込みアプリが SharePoint に属するように見える](powerapps/improved-default-themes-help-embedded-apps-feel-like-they-belong-in-sharepoint.md)
 #### [PowerApps Web パーツを使用した SharePoint ページへのアプリケーションの埋め込み](powerapps/embed-applications-on-sharepoint-pages-using-powerapps-web-part.md)
-#### [カスタマイズ担当者がエンティティ フォームに Power BI タイルおよびレポートを埋め込むことができる](powerapps/power-bi-embedding-available-in-common-data-service-entity-forms.md)
 #### [PowerApps からのソリューションの検索と操作がより簡単に](powerapps/easier-to-find-and-work-with-solutions-from-powerapps.md)
 #### [キャンバス アプリの共有の拡張](powerapps/sharing-enhancements-for-canvas-apps.md)
+#### [カスタマイズ担当者がエンティティ フォームに Power BI タイルおよびレポートを埋め込むことができる](powerapps/power-bi-embedding-available-in-common-data-service-entity-forms.md)
 #### [エンティティでの簡略化された検索フィールドの作成](powerapps/simplified-lookup-field-creation-on-entities.md)
 #### [エンティティの詳細プロパティの管理を簡略化](powerapps/simplified-management-of-advanced-entity-properties.md)
+#### [キャンバス アプリのリッチ テキスト エディターおよび HTML ビュー コントロール](powerapps/rich-text-editor-and-html-view-controls-for-canvas-apps.md)
 #### [キャンバス アプリでの Common Data Service for Apps 内の集約関数の委任](powerapps/canvas-app-delegation-of-aggregate-functions-in-common-data-service-for-apps.md)
-#### [カスケード ドロップダウン リストの構成がより簡単に](powerapps/easier-to-configure-cascading-dropdowns-and-conditional-field-visibility.md)
-#### [アプリ開発者向けのエラー検出機能の強化](powerapps/errors-more-discoverable-by-app-makers.md)
 #### [Power BI 内の PowerApps のより深い統合 ](powerapps/deeper-powerapps-integration-in-powerbi.md)
 #### [エンティティ間の高度なリレーションシップ](powerapps/advanced-relationships-on-entities.md)
-#### [Access ユーザー向けのヘルプの向上](powerapps/improved-help-for-access-users.md)
-#### [Common Data Service for Apps または SharePoint を使用している場合にキャンバス アプリでわかりやすい表示名を使用する](powerapps/work-with-friendly-display-names-in-canvas-apps-when-using-the-common-data-service-or-sharepoint.md)
 #### [自動採番の作成](powerapps/create-automatic-number-sequences.md)
 #### [同じツールでのエンティティとアプリの作成](powerapps/create-and-edit-your-entities-in-canvas-studio-while-building-an-app.md)
 #### [PowerApps アプリ開発者は SharePoint ドキュメント ライブラリを使用してマッシュアップ アプリを作成することが可能に](powerapps/powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries.md)
+#### [Access ユーザー向けのヘルプの向上](powerapps/improved-help-for-access-users.md)
+#### [カスケード ドロップダウン リストの構成がより簡単に](powerapps/easier-to-configure-cascading-dropdowns-and-conditional-field-visibility.md)
+#### [Common Data Service for Apps または SharePoint を使用している場合にキャンバス アプリでわかりやすい表示名を使用する](powerapps/work-with-friendly-display-names-in-canvas-apps-when-using-the-common-data-service-or-sharepoint.md)
 #### [Common Data Service for Apps のデータを使用した Power BI レポートの作成](powerapps/create-powerbi-reports-using-data-in-the-common-data-service-for-apps.md)
 #### [キャンバス アプリによるエラーの捕捉、処理、レポートとデータベースへの Null 値の書き込み](powerapps/catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps.md)
 #### [ソリューションを使用したキャンバス アプリの ALM の向上](powerapps/improve-alm-for-canvas-app-with-solutions.md)
@@ -399,10 +409,10 @@
 ### [統合エクスペリエンス](microsoft-flow/integrated-experiences.md)
 #### [Teams の Microsoft Flow タブ](microsoft-flow/microsoft-teams-uses-flow-as-a-bot.md)
 #### [Microsoft Flow による SharePoint ページの承認のカスタマイズ](microsoft-flow/customize-sharepoint-content-approvals-with-flow.md)
+#### [SharePoint リマインダー](microsoft-flow/sharepoint-remind-me.md)
+#### [Microsoft Teams のアダプティブ カード](microsoft-flow/post-richer-messages-in-microsoft-teams.md)
 #### [OneDrive for Business フロー起動パネル](microsoft-flow/onedrive-for-business-flow-launch-panel.md)
 #### [OneDrive for Business 要求のサインオフ](microsoft-flow/onedrive-for-business-request-sign-off.md)
-#### [Microsoft Teams でより充実したメッセージを投稿](microsoft-flow/post-richer-messages-in-microsoft-teams.md)
-#### [SharePoint リマインダー](microsoft-flow/sharepoint-remind-me.md)
 #### [Flow for SharePoint の管理シナリオ](microsoft-flow/flow-for-sharepoint-admin-scenarios.md)
 #### [Visio でのデザイン フロー](microsoft-flow/design-flows-in-visio.md)
 
@@ -412,9 +422,9 @@
 #### [ソリューションを使用したフローの ALM の向上](microsoft-flow/improved-alm-for-flows-with-solutions.md)
 #### [Microsoft Flow Web API が利用可能に](microsoft-flow/flow-management-connector-sdk-and-apis.md)
 #### [DLP ポリシーに対する HTTP コネクタとカスタム コネクタのサポート](microsoft-flow/http-and-custom-connector-support-for-dlp-policies.md)
+#### [Microsoft Flow US Government の一般提供開始](microsoft-flow/us-government-cloud-deployment.md)
 #### [共有およびコネクタ管理分析レポート](microsoft-flow/sharing-and-connectors-admin-analytics-reports.md)
 #### [組織内でフローのコピーを共有](microsoft-flow/share-copies-of-flows-inside-organizations.md)
-#### [米国政府機関クラウドの展開](microsoft-flow/us-government-cloud-deployment.md)
 
 ### [業務プロセスの一般化](microsoft-flow/democratize-business-processes.md)
 #### [業務プロセス フローの作成エクスペリエンスの効率化](microsoft-flow/streamlined-authoring-for-business-process-flows.md)
@@ -431,11 +441,12 @@
 #### [失敗通知のノイズを削減](microsoft-flow/reduced-noise-of-failure-notifications.md)
 #### [高度な条件ビルダー](microsoft-flow/advanced-condition-builder.md)
 #### [Microsoft Flow デザイナーでのコードのプレビュー](microsoft-flow/peek-code-in-the-microsoft-flow-designer.md)
-#### [依存関係を持つアクションを変更する](microsoft-flow/change-actions-that-have-dependencies.md)
 #### [承認のカスタム応答オプション](microsoft-flow/custom-response-options-in-approvals.md)
+#### [依存関係を持つアクションを変更する](microsoft-flow/change-actions-that-have-dependencies.md)
 #### [すべてのテンプレートに対する Diet デザイナー](microsoft-flow/diet-designer-for-all-templates.md)
 #### [Word 文書の生成](microsoft-flow/word-document-generation.md)
 #### [モバイル デバイスのデバイス シグナルの利用](microsoft-flow/leverage-device-signals-on-mobile-devices.md)
+
 
 ### [リリースの詳細](https://docs.microsoft.com/business-applications-release-notes/powerplatform/released-versions/flow)
 
@@ -446,7 +457,6 @@
 
 #### [Power BI Desktop](intelligence-platform/power-bi-desktop/index.md)
 ##### [アクセシビリティ - ユーザーはキーボード ナビゲーションとスクリーン リーダーを使用して Power BI Desktop を操作可能](intelligence-platform/power-bi-desktop/desktop-accessibility.md) 
-##### [アドホック探索](intelligence-platform/power-bi-desktop/adhoc-exploration.md)
 ##### [レポート間でのコピーと貼り付け](intelligence-platform/power-bi-desktop/copy-paste-across-reports.md)
 ##### [マトリックスのビジュアルの展開と折りたたみ](intelligence-platform/power-bi-desktop/expand-collapse-matrix.md)
 ##### [式ベースの書式設定](intelligence-platform/power-bi-desktop/expression-based-formatting.md)

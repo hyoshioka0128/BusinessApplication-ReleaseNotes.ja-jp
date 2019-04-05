@@ -11,17 +11,17 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: tpalmer
 audience: Admin
-ms.openlocfilehash: 6c35a192a2448abc017e61d28ae2937c040f477c
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 4d49535723c64b6facb243e05c2ba009957c8abb
+ms.sourcegitcommit: c258b490eed49dcd0739f795d263189497aeb86c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200169"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "778580"
 ---
 #  <a name="enterprise-grade-hybrid-connectivity-using-the-on-premises-data-gateway"></a>オンプレミス データ ゲートウェイを使用したエンタープライズ レベルのハイブリッド接続
 
 
-[!include[banner](../../includes/banner.md)]
+
 
 このリリースには、オンプレミス データ ゲートウェイを向上するための複数の更新が含まれます。
 

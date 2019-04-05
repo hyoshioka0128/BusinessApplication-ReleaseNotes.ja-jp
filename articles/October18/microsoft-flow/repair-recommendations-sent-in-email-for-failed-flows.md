@@ -3,7 +3,7 @@ title: 失敗したフローに対する電子メールでの修復のヒント
 description: フローが失敗した場合に、特定のエラーに関する具体的かつアクション可能なフィードバックを含むメールを受け取ります。 修復のヒントでは、フローが失敗した理由と解決方法が正確に示されます。 Flow ポータルで実行失敗をクリックして、修復のヒントを見ることもできます。
 author: sunayv
 ms.reviewer: deonhe
-ms.date: 02/07/2019
+ms.date: 02/19/2019
 ms.assetid: 36726ff5-4a98-e811-a96c-000d3a137a43
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: sunayv
 audience: Power user
-ms.openlocfilehash: 09eb58fbca13edc7fe9fef48465f86302f241761
-ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
+ms.openlocfilehash: 3df3cd5d65e3c04dbc3972b182e3e1c2f77b4c9f
+ms.sourcegitcommit: d0ae525dc6a82af6449204a4bdb8dc57a04d2b74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "391005"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "880636"
 ---
 # <a name="repair-tips-in-email-for-failed-flows"></a>失敗したフローに対する電子メールでの修復のヒント
 

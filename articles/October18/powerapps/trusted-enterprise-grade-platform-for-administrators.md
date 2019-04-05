@@ -1,9 +1,9 @@
 ---
-title: 管理者向けプラットフォームの向上
-description: 管理者のエクスペリエンスは、信頼できるプラットフォームの採用で重要な鍵となります。
+title: 管理者のためのエンタープライズ レベルのプラットフォーム
+description: 管理者のエクスペリエンスは、信頼できるプラットフォームを導入するための重要な鍵となります。
 author: jamesol-msft
 manager: KVivek
-ms.date: 01/25/2019
+ms.date: 02/09/2019
 ms.assetid: dd91d290-f7f3-e811-a97c-000d3a137063
 ms.topic: article
 ms.prod: ''
@@ -11,16 +11,16 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: jamesol
 audience: Power user
-ms.openlocfilehash: 8fafc55dbdb3725057608fe46edc63c4f5afa591
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
+ms.openlocfilehash: 78fd8cb4a2e618714800268feb97a099d05a0302
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "379421"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879627"
 ---
-# <a name="better-platform-for-administrators"></a>管理者向けプラットフォームの向上
+# <a name="enterprise-grade-platform-for-administrators"></a>管理者のためのエンタープライズ レベルのプラットフォーム
 
 
 [!include[powerapps banner](../includes/powerapps.md)]
 
-Microsoft PowerApps では、組織内のアプリをかつてないほど簡単に保守および管理できます。 新しい管理センターでは、記憶域容量、環境、および展開を管理する管理者やパートナー向けのエクスペリエンスが改善され、管理の信頼性と統合性が向上しています。 管理者は、管理センターに統合されたヘルプとサポートのエクスペリエンスを通じて、問題を効果的に解決できます。
+PowerApps では、組織内のアプリをかつてないほど簡単に保守および管理できます。 [Power Platform 管理センター](https://aka.ms/ppac)は、ストレージ容量、環境、および展開を管理するための、信頼性と統合性に優れたエクスペリエンスを管理者やパートナーに提供するものです。 強力な分析機能により、管理者は展開に関する問題を調査および診断できます。また、統合されたヘルプとサポートのエクスペリエンスにより、管理者は必要なヘルプを見つけて、必要に応じてマイクロソフトのサポートに問い合わせることができます。

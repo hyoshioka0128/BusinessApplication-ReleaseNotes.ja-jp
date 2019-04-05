@@ -7,16 +7,16 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: e8e1b70489280570834b80dac422293e18c2fab1
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 0123061597b10342ea9bf254dae8708a6a8f9a50
+ms.sourcegitcommit: c258b490eed49dcd0739f795d263189497aeb86c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287857"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "778587"
 ---
 #  <a name="power-bi-paginated-reports"></a>Power BI のページ付けされたレポート
 
-[!include[banner](../../../includes/banner.md)]
+
 
 
 

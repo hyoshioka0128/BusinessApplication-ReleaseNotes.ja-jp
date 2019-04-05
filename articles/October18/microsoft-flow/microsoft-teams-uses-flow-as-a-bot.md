@@ -3,7 +3,7 @@ title: Teams の Microsoft Flow タブ
 description: チーム チャネルのユーザーは、チャネルにコマンドを入力してやり取りするだけで、新しいタブやテキストを使用して対話できます。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 02/07/2019
+ms.date: 02/19/2019
 ms.assetid: 450627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: e75279876618f548e9c9ceff580f21c303f90236
-ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
+ms.openlocfilehash: 88abafe009f292d655fcd6706c9d137177b1348b
+ms.sourcegitcommit: d0ae525dc6a82af6449204a4bdb8dc57a04d2b74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "391201"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "880678"
 ---
 # <a name="microsoft-flow-tab-in-teams"></a>Teams の Microsoft Flow タブ
 

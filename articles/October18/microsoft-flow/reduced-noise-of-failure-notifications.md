@@ -3,7 +3,7 @@ title: 失敗通知のノイズを削減
 description: エラー確認後に通知センターの通知を消去します。
 author: sunayv
 ms.reviewer: deonhe
-ms.date: 02/04/2019
+ms.date: 03/15/2019
 ms.assetid: e77358cb-f6c4-e811-a971-000d3a137208
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: sunayv
 audience: Power user
-ms.openlocfilehash: 87129a8e262167322c63de68c9ede00b10fdb3a5
-ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
+ms.openlocfilehash: 3ca8a7d1d849c6d4bd77700c3c840e75a706ae70
+ms.sourcegitcommit: d0ae525dc6a82af6449204a4bdb8dc57a04d2b74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "391208"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "880664"
 ---
 # <a name="reduced-noise-of-failure-notifications"></a>失敗通知のノイズを削減
 

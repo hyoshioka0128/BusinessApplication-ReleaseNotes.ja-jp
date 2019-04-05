@@ -10,12 +10,12 @@ ms.assetid: fbf6b3a6-d7f4-4315-ae47-ce53eb2cdea4
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
-ms.openlocfilehash: eec8ffc11aac6e6f36916d7da8cc26c3bd754bb0
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 8da186f859aee077d7f708229d9f589fa50de7e0
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200102"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847203"
 ---
 #  <a name="channel-integration-framework"></a>Channel Integration Framework
 

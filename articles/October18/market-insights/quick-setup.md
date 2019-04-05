@@ -11,16 +11,16 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: mhart
 audience: Admin
-ms.openlocfilehash: af3556970d9c6346d58c9aa7c7de30f29efb2731
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: c16f88ab0fce6734efc978cccc37b9116b968fa8
+ms.sourcegitcommit: f683c3474f44d67b6cdd6608ed393e5297f9d55d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199424"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "884439"
 ---
 #  <a name="quick-setup-and-instant-insights-in-market-insights"></a>Market Insights のクイック セットアップと即時の分析情報
 
-[!INCLUDE [market-insights](../includes/market-insights.md)]
+[!INCLUDE [market-insights banner](../includes/market-insights.md)]
 
 ソーシャル メディアは、成功するマーケティング、顧客サービス、コミュニティ管理の一部になりました。 ブランドがソーシャル メディアでどの程度認知されているかの監視、測定、管理は、そのブランドの成功に不可欠です。 ブランドのソーシャル プレゼンスに関する専門的な対応の開始が企業にとっての課題となることがあります。 
 

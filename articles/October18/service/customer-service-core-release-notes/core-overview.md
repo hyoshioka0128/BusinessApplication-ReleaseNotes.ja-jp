@@ -9,12 +9,12 @@ ms.topic: article
 ms.assetid: dd3a539b-eef7-4cd9-90f0-2c42873dc2aa
 ms.author: karthik55217;
 ms.reviewer: anjgupta
-ms.openlocfilehash: dcf914db9bbea9c61747e58eb35825a664654933
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 5a1065a6684d86dd379ba11728d2b141ba7762bd
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199434"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847459"
 ---
 # <a name="overview-of-dynamics-365-for-customer-service-october-18-release"></a>Dynamics 365 for Customer Service 2018 年 10 月リリースの概要
 

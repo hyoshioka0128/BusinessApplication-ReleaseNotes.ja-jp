@@ -10,12 +10,12 @@ ms.assetid: ''
 author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
-ms.openlocfilehash: e350ab12511111852a9129f52894227c5274498a
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 24955ff22a69e57de6efa37a521a920a876fb4c7
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "288174"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847546"
 ---
 # <a name="case-resolution-dashboard"></a>サポート案件の解決ダッシュボード
 

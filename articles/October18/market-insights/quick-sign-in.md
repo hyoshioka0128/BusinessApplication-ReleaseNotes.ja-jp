@@ -11,16 +11,16 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: mhart
 audience: Admin
-ms.openlocfilehash: d3c4af7909fe66519fabbdab39bb27292635090a
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: b833d0e61ca76464b7894fe4d996c3ba8e184127
+ms.sourcegitcommit: f683c3474f44d67b6cdd6608ed393e5297f9d55d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199216"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "884432"
 ---
 # <a name="get-started-quickly-with-market-insights"></a>Market Insights の迅速な開始
 
-[!INCLUDE [market-insights](../includes/market-insights.md)]
+[!INCLUDE [market-insights banner](../includes/market-insights.md)]
 
 Market Insights は、新規ユーザーのサインアップと開始がシンプルで簡単になります。 独自の検索を作成し、収集したデータを調査するために、既存の Office 365 テナントや Dynamics 365 サブスクリプションは必要ありません。 さらに、[最初の検索トピックの作成](quick-setup.md)方法もシンプルになっています。 
 

@@ -6,16 +6,16 @@ ms.date: 12/12/2018
 ms.topic: article
 ms.service: business-applications
 ms.author: willthom
-ms.openlocfilehash: c16c478827a3103d77fc6a03619262bbd0e243b8
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: dc0b03451cbe25fd38716106ff2650ac1da672b1
+ms.sourcegitcommit: c258b490eed49dcd0739f795d263189497aeb86c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287706"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "778566"
 ---
 #  <a name="per-report-control-of-data-export"></a>データ エクスポートのレポートごとの制御 
 
-[!include[banner](../../../includes/banner.md)]
+
 
 レポート作成者は、Power BI サービスにレポートが公開されたときにコンシューマーが利用できるデータ エクスポート オプションを柔軟に制御できるようになりました。 作成者は次の設定を選択できます。
 

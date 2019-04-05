@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: edupont
 audience: Admin
-ms.openlocfilehash: 3d7131fe122953a9c8d3af506fef7869f99a797b
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 214bc063e961562a113055ca41d7bba0b18ab282
+ms.sourcegitcommit: b9117e0a006fe421a672a4f6a7fbf0276efbddfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199937"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "878415"
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-business-central"></a>Dynamics 365 Business Central の新機能の概要
 
@@ -48,3 +48,5 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | リストのスクロールの向上 |  | 両方 | 2018 年 10 月以降 |
 | デスクトップ ユーザーの生産性のための機能の追加 |     | 両方 |未定 |
 | 追加のデスクトップ画面上の刷新されたエクスペリエンス |     | 両方 |未定 |
+| [Azure SQL Database Managed Instance のサポート](support-for-azure-sql-database-managed-instance.md) | 一般提供 | オンプレミス | 2018 年 10 月 1 日 |
+| [ファイルベースの xe ターゲットを使用した SQL Database のデッドロックの監視](monitoring-sql-database-deadlocks-file-based-xe-targets.md) | 一般提供 | 両方 | 2019 年 1 月 1 日 |

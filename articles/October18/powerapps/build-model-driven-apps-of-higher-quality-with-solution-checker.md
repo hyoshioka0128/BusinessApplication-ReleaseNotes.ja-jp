@@ -3,7 +3,7 @@ title: ソリューション チェッカーを使用した高品質なモデル
 description: PowerApps プラットフォームのカスタマイズと拡張に関するベスト プラクティスを実行します
 author: aheaney
 ms.reviewer: anneta
-ms.date: 02/04/2019
+ms.date: 02/19/2019
 ms.assetid: 041c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: aheaney
 audience: Power user
-ms.openlocfilehash: 1b17987ef41776b64ed73ac38b36ccbc5705592f
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
+ms.openlocfilehash: 275faf2a8de1be93bdd80efc4694f3e10362ce55
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "379225"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879781"
 ---
 # <a name="build-model-driven-apps-of-higher-quality-with-solution-checker-public-preview"></a>ソリューション チェッカーを使用した高品質なモデル駆動型アプリの構築 (パブリック プレビュー)
 

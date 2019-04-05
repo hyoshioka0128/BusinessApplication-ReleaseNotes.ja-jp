@@ -10,12 +10,12 @@ ms.assetid: ''
 author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
-ms.openlocfilehash: ef32ee4b00eaf336fd42e5436a73d562f579ee47
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 7ff23dc86410bbcb6576a891c23ed96ef481f374
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "288099"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847388"
 ---
 # <a name="improve-customer-support-with-ai-for-customer-service-insights"></a>AI for Customer Service Insights による顧客サポートの向上
 

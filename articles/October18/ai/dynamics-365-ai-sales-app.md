@@ -10,12 +10,12 @@ ms.assetid: ed1543db-b687-449c-90b6-ca1715de1358
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
-ms.openlocfilehash: fad03a430806e817824272c89550c8d7da9e372c
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 2dfea12d4ab1d779d6ae9bbadcfe7db072ff26e7
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199658"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847321"
 ---
 # <a name="enhance-team-performance-with-ai-and-insights"></a>AI とインサイトによるチーム パフォーマンスの強化 
 

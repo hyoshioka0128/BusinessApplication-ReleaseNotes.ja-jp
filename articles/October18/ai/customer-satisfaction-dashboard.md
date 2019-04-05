@@ -10,12 +10,12 @@ ms.assetid: ''
 author: stevesaunders1952
 ms.author: stevesaunders1952
 manager: shellyha
-ms.openlocfilehash: da7b53c0cbc93db45e4b46e49b228fc899747fa6
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 0de35a8ddcf1991ff9db2467472e7dc57860b873
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "286635"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847732"
 ---
 # <a name="customer-satisfaction-csat-dashboard"></a>顧客満足度 (CSAT) ダッシュボード
 

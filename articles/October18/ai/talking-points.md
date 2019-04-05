@@ -10,12 +10,12 @@ ms.assetid: f39e71d4-0eef-4579-b949-24e3672cb0a3
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
-ms.openlocfilehash: 77aeaffffd4ed03b06ccf87bdda2528e1371676e
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 85c06995c25b5e2ea351d43c4582138e0e8ecd64
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200177"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847328"
 ---
 # <a name="never-forget-that-detail-about-your-stakeholder-with-talking-points"></a>話題機能を使用して関係者に関する情報を取得する
 

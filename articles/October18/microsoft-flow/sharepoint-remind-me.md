@@ -3,7 +3,7 @@ title: SharePoint リマインダー
 description: SharePoint のリストまたはライブラリに日付/時刻列がある場合、Microsoft Flow を使用し、未来の日付に基づいてアラートを設定することができます。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 02/06/2019
+ms.date: 03/15/2019
 ms.assetid: 430627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: ''
@@ -11,17 +11,17 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: ed587612381e36218f67074d9e4f508555072e2b
-ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
+ms.openlocfilehash: 210b37f72d035216bf2735fe304c379a42ba5b5b
+ms.sourcegitcommit: d0ae525dc6a82af6449204a4bdb8dc57a04d2b74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "391082"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "880734"
 ---
 # <a name="sharepoint-remind-me"></a>SharePoint リマインダー
 
 
-[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
+
 
 個人の生産性はチームワークに不可欠です。  SharePoint のリストとライブラリでは、以前から日付を追跡するためのカスタム メタデータ列を定義することができました。  現在、これらのどの日付にでもリマインダーを設定できる新しい機能がリリースされています。  SharePoint 内の任意のドキュメントまたはアイテムに設定されている日付の `x` 日前に、個人的なメール アラートを受け取ることができます。
 

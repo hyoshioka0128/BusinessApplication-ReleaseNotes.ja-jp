@@ -1,22 +1,22 @@
 ---
 title: 統一インターフェイスのユーザー エクスペリエンスの利用可能性の制御
 description: 顧客は統一インターフェイスで新しいユーザー エクスペリエンスをオフにできます
-author: gathapar
-ms.reviewer: mkaur
-ms.date: 02/04/2019
+author: rprologo
+ms.reviewer: anneta
+ms.date: 02/25/2019
 ms.assetid: 671c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
-ms.author: gathapar
+ms.author: rprologo
 audience: Power user
-ms.openlocfilehash: 2485ec74e9a77d90490751cfbd3db90e360d94b2
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
+ms.openlocfilehash: 05adbcaefcdda4fd780bf7954fe373e4b39e8ac9
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "379477"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879581"
 ---
 # <a name="control-availability-of-user-experiences-on-unified-interface"></a>統一インターフェイスのユーザー エクスペリエンスの利用可能性の制御
 
@@ -38,4 +38,3 @@ ms.locfileid: "379477"
 - **ワークフローの実行**<br>ユーザーは、オンデマンド ワークフローを実行できます。
 
 - ユーザーは、統一インターフェイスから個人用設定にアクセスできます。
-

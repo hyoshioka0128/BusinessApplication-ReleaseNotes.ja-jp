@@ -3,7 +3,7 @@ title: アプリ サイズの自由な指定
 description: アプリ開発者はカスタム サイズのキャンバス アプリを作成できます
 author: evchaki
 ms.reviewer: anneta
-ms.date: 02/05/2019
+ms.date: 02/19/2019
 ms.assetid: 1d1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: evchaki
 audience: Power user
-ms.openlocfilehash: c76d623722a7980aaa92cd03a5b42066ad31c163
-ms.sourcegitcommit: b0c22af04369d4d8d0d0a5d67c06d26b3474ceb6
+ms.openlocfilehash: 88e6b0fd8c7cb2fcca0b47d4dfe0453041282833
+ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "379239"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "879739"
 ---
 # <a name="choose-your-own-size-of-app"></a>アプリ サイズの自由な指定
 

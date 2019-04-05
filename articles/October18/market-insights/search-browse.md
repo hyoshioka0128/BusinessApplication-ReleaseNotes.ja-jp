@@ -11,16 +11,16 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: mhart
 audience: Admin
-ms.openlocfilehash: 8b5ca1786b86587a7879b8e25bd0ae3775907cbb
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 026937d95d01a33bfb4dfeceff56dc9f81586e51
+ms.sourcegitcommit: f683c3474f44d67b6cdd6608ed393e5297f9d55d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199510"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "884446"
 ---
 # <a name="insights-from-search-data-and-browser-usage"></a>検索データとブラウザーの使用状況からの分析情報
 
-[!INCLUDE [market-insights](../includes/market-insights.md)]
+[!INCLUDE [market-insights banner](../includes/market-insights.md)]
 
 Web からの分析情報で**分析** > **概要**のデータを拡張しています。 Microsoft 独自の Web 検索機能とデータ ソース閲覧機能を使用して、自社のブランド、製品、競合他社、および業界に関する、正確かつアクション可能な分析情報を取得できます。 すべての分析情報は、Microsoft のプライバシー ポリシーに従って集約され、匿名化されます。
 

@@ -10,12 +10,12 @@ ms.assetid: c297781b-8dfc-41c0-aed3-fe5ee38cec11
 author: Annbe
 ms.author: Annbe
 manager: AnnBe
-ms.openlocfilehash: 81a65e016b52acc325a2f017c6ce4c2f9be5f8b8
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 870260ed1306739b3ba5a9d4782c401f058a062b
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199601"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847402"
 ---
 #  <a name="live-chat-channel"></a>ライブ チャット チャネル 
 

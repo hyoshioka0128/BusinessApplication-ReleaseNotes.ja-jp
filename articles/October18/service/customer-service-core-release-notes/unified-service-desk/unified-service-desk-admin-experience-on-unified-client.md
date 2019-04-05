@@ -10,12 +10,12 @@ ms.assetid: 999199d6-1b1d-40c2-ac6e-6b3d67f88878
 author: kabala123
 ms.author: kabala
 manager: Shujoshi
-ms.openlocfilehash: 137109a3ee1be242427e115009c7e66daf041665
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: 8f4189f8fca0d65c14210fd889a4f6cf452d645d
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "200020"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847367"
 ---
 #  <a name="unified-service-desk-admin-experience-on-unified-interface"></a>統一インターフェイスでの Unified Service Desk 管理者エクスペリエンス
 

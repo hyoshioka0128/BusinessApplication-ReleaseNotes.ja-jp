@@ -10,12 +10,12 @@ ms.assetid: de27d4be-f0f8-4151-8ab1-96e3d89a2637
 author: jasonmsft
 ms.author: jasonhui
 manager: AnnBe
-ms.openlocfilehash: 233eef461f6394e7762e11bb738b0389581b673f
-ms.sourcegitcommit: 0c8ca4eaf47f7f4b83f1b544b910e7cac92bd1f0
+ms.openlocfilehash: f741bd6887049fd2d0769035a66db2c15ecd0cff
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "199608"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847409"
 ---
 # <a name="increase-sales-conversions-with-predictive-opportunity-scoring"></a>予測営業案件スコアリングで販売への転換を増やす
 

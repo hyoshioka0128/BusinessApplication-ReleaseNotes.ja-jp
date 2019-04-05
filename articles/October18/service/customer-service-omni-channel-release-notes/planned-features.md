@@ -10,12 +10,12 @@ ms.assetid: 71908131-f7b7-e412-506f-17e5fbf0138f
 author: krbjoran
 ms.author: krbjoran
 manager: shellyhaverkamp
-ms.openlocfilehash: 2077e74d6741470ae1cef8f1c9e09dda65728ed7
-ms.sourcegitcommit: 365db01dde7ccb5c763d209fedbc715d128b18a6
+ms.openlocfilehash: 14e78c9ac2f5e0e345ea72af1ba05c36a8d4810b
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "376845"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847335"
 ---
 #  <a name="summary-of-whats-new-for-dynamics-365-omni-channel-engagement-hub"></a>Dynamics 365 Omni-channel Engagement Hub の新機能の概要
 
