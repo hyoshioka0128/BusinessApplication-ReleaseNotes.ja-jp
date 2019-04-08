@@ -12,10 +12,10 @@ ms.technology:
 ms.author: Annbe
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 13f29c65ca9fad83b8e831c6dd84fa3cb0c4c243
-ms.openlocfilehash: 2b20abbcdce85e10f4164091fcc5541e1bab1202
+ms.sourcegitcommit: 57ba2378be249bd950c05484f274fbb0878c47b4
+ms.openlocfilehash: e2e528acf09f85f67b7cca581bc09e2cd35d757c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 01/23/2019
+ms.lasthandoff: 04/08/2019
 
 ---
 # <a name="new-developer-portal"></a><span data-ttu-id="eba93-103">新しい開発者ポータル</span><span class="sxs-lookup"><span data-stu-id="eba93-103">New developer portal</span></span>
