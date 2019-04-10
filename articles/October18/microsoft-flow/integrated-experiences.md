@@ -3,7 +3,7 @@ title: "統合エクスペリエンス"
 description: "Office 365 および Dynamics 365 との連携が向上し、SharePoint、Teams、Excel などに統合エクスペリエンスが提供されます。"
 author: stepsic-microsoft-com
 manager: KVivek
-ms.date: 02/07/2019
+ms.date: 03/17/2019
 ms.assetid: 5e67a6cc-3773-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
@@ -12,10 +12,10 @@ ms.technology:
 ms.author: stepsic
 audience: Power user
 ms.translationtype: HT
-ms.sourcegitcommit: 60c89801f3a5a65e4961c14877fb34f3752b9311
-ms.openlocfilehash: 8dfe395fd0e9b73596b208caf238c43f9099e89e
+ms.sourcegitcommit: ee6a15997f32dedd6b11a9aade0b6dea3da690e3
+ms.openlocfilehash: e032f0722217567ce3fb1582b0bfc3671cf2c8a2
 ms.contentlocale: ja-jp
-ms.lasthandoff: 02/14/2019
+ms.lasthandoff: 04/10/2019
 
 ---
 # <a name="integrated-experiences"></a><span data-ttu-id="a6abf-103">統合エクスペリエンス</span><span class="sxs-lookup"><span data-stu-id="a6abf-103">Integrated experiences</span></span>
