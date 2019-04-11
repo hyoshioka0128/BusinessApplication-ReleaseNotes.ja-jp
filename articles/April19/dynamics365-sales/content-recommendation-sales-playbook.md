@@ -10,35 +10,35 @@ ms.assetid: d9319480-1ec0-9202-ee03-94b7c9584de0
 author: snaitik
 ms.author: naitikds
 ms.reviewer: shujoshi
-ms.openlocfilehash: 8a5bb2359230d89332dda7b10a0efd6bc11591b5
-ms.sourcegitcommit: 190545b6694ee79a440fa8babbd30c2184fa4deb
+ms.openlocfilehash: 30c65dcb00d1b5359777cfb0f45df59e1f3ae359
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "376985"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847497"
 ---
-#  <a name="playbook-enhancements-with-content-recommendations"></a><span data-ttu-id="305ff-103">コンテンツのレコメンデーションを含むプレイブックの機能強化</span><span class="sxs-lookup"><span data-stu-id="305ff-103">Playbook enhancements with content recommendations</span></span>
+#  <a name="playbook-enhancements-with-content-recommendations"></a><span data-ttu-id="21b0f-103">コンテンツのレコメンデーションを含むプレイブックの機能強化</span><span class="sxs-lookup"><span data-stu-id="21b0f-103">Playbook enhancements with content recommendations</span></span>
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 
 
-<span data-ttu-id="305ff-104">2018 年 10 月リリースで導入された強力なプレイブック機能により、販売組織は知識とベスト プラクティスを取得し、それらをスクリプト化された活動のリスト (電話、タスク、予定など) に変換できます。</span><span class="sxs-lookup"><span data-stu-id="305ff-104">The October '18 release introduced a powerful playbook capability that enables a sales organization to capture knowledge and best practices and convert them to scripted lists of activities (including phone calls, tasks, and appointments).</span></span> <span data-ttu-id="305ff-105">プレイブックは、手動でトリガーするか、エンティティ レコード イベント (新しい営業案件やリードの作成など) に基づいて実行されるように事前構成します。</span><span class="sxs-lookup"><span data-stu-id="305ff-105">Playbook is manually triggered or preconfigured to run based on entity record events (for example, a new opportunity or lead creation).</span></span> 
+<span data-ttu-id="21b0f-104">2018 年 10 月リリースで導入された強力なプレイブック機能により、販売組織は知識とベスト プラクティスを取得し、それらをスクリプト化された活動のリスト (電話、タスク、予定など) に変換できます。</span><span class="sxs-lookup"><span data-stu-id="21b0f-104">The October '18 release introduced a powerful playbook capability that enables a sales organization to capture knowledge and best practices and convert them to scripted lists of activities (including phone calls, tasks, and appointments).</span></span> <span data-ttu-id="21b0f-105">プレイブックは、手動でトリガーするか、エンティティ レコード イベント (新しい営業案件やリードの作成など) に基づいて実行されるように事前構成します。</span><span class="sxs-lookup"><span data-stu-id="21b0f-105">Playbook is manually triggered or preconfigured to run based on entity record events (for example, a new opportunity or lead creation).</span></span> 
 
-## <a name="business-value"></a><span data-ttu-id="305ff-106">ビジネス バリュー</span><span class="sxs-lookup"><span data-stu-id="305ff-106">Business value</span></span> 
+## <a name="business-value"></a><span data-ttu-id="21b0f-106">ビジネス バリュー</span><span class="sxs-lookup"><span data-stu-id="21b0f-106">Business value</span></span> 
 
-<span data-ttu-id="305ff-107">2019 年 4 月リリースでは、営業担当者はプレイブックを介してコンテンツのレコメンデーションを受け取ることもできるようになります。</span><span class="sxs-lookup"><span data-stu-id="305ff-107">With the April '19 release, sales professionals will also be able to receive content recommendations via playbooks.</span></span> <span data-ttu-id="305ff-108">これにより、プレイブックの起動時に作成される活動に取り組むときに参照するコンテンツについての詳細が販売者に提供されます。</span><span class="sxs-lookup"><span data-stu-id="305ff-108">This gives sellers additional details on what content to refer to while working on the activities that are created when playbook is launched.</span></span>
+<span data-ttu-id="21b0f-107">2019 年 4 月リリースでは、営業担当者はプレイブックを介してコンテンツのレコメンデーションを受け取ることもできるようになります。</span><span class="sxs-lookup"><span data-stu-id="21b0f-107">With the April '19 release, sales professionals will also be able to receive content recommendations via playbooks.</span></span> <span data-ttu-id="21b0f-108">これにより、プレイブックの起動時に作成される活動に取り組むときに参照するコンテンツについての詳細が販売担当者に提供されます。</span><span class="sxs-lookup"><span data-stu-id="21b0f-108">This gives sellers additional details on what content to refer to while working on the activities that are created when playbook is launched.</span></span>
 
-## <a name="personas"></a><span data-ttu-id="305ff-109">ペルソナ</span><span class="sxs-lookup"><span data-stu-id="305ff-109">Personas</span></span>
+## <a name="personas"></a><span data-ttu-id="21b0f-109">ペルソナ</span><span class="sxs-lookup"><span data-stu-id="21b0f-109">Personas</span></span>
 
--   <span data-ttu-id="305ff-110">営業マネージャーは、営業資料、製品トレーニング コンテンツ、および取引成立に必要な情報をチームに提供したいと考えています。</span><span class="sxs-lookup"><span data-stu-id="305ff-110">Sales managers want to provide their teams with the sales materials, product training content, and information needed to close any deal.</span></span> <span data-ttu-id="305ff-111">この情報はすべて、Dynamics 365 内でコンテキストに応じて利用可能である必要があります。</span><span class="sxs-lookup"><span data-stu-id="305ff-111">All this information needs to be contextually available within Dynamics 365.</span></span>
+-   <span data-ttu-id="21b0f-110">営業マネージャーは、営業資料、製品トレーニング コンテンツ、および取引成立に必要な情報をチームに提供したいと考えています。</span><span class="sxs-lookup"><span data-stu-id="21b0f-110">Sales managers want to provide their teams with the sales materials, product training content, and information needed to close any deal.</span></span> <span data-ttu-id="21b0f-111">この情報はすべて、Dynamics 365 内でコンテキストに応じて利用可能である必要があります。</span><span class="sxs-lookup"><span data-stu-id="21b0f-111">All this information needs to be contextually available within Dynamics 365.</span></span>
 
--   <span data-ttu-id="305ff-112">営業担当者は、最新の情報、ニュース、および更新されたコンテンツにアクセスでき、常に自分たちが取り組んでいる取引をサポートできるようにしたいと考えています。</span><span class="sxs-lookup"><span data-stu-id="305ff-112">Sales representatives want the latest information, news, and updated content to be accessible and always ready to support the deals they are working on.</span></span>
+-   <span data-ttu-id="21b0f-112">営業担当者は、最新の情報、ニュース、および更新されたコンテンツにアクセスでき、常に自分たちが取り組んでいる取引をサポートできるようにしたいと考えています。</span><span class="sxs-lookup"><span data-stu-id="21b0f-112">Sales representatives want the latest information, news, and updated content to be accessible and always ready to support the deals they are working on.</span></span>
 
-## <a name="features"></a><span data-ttu-id="305ff-113">機能</span><span class="sxs-lookup"><span data-stu-id="305ff-113">Features</span></span>
+## <a name="features"></a><span data-ttu-id="21b0f-113">機能</span><span class="sxs-lookup"><span data-stu-id="21b0f-113">Features</span></span>
 
--   <span data-ttu-id="305ff-114">Dynamics 365 for Sales では、セールスの有効化の基盤を提供され、コンテキストに従ってセールス チームに必要なすべてのコンテンツが提供されます。</span><span class="sxs-lookup"><span data-stu-id="305ff-114">Dynamics 365 for Sales provides the foundation of sales enablement, which gives sales teams all the necessary content contextually.</span></span> <span data-ttu-id="305ff-115">正確なコンテンツは、営業担当者が購買プロセス全体を通じて購入者との関わりを深め、目的の成果を達成するのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="305ff-115">Having accurate content helps sales reps successfully engage the buyer throughout the buying process and achieve the desired outcome.</span></span>
+-   <span data-ttu-id="21b0f-114">Dynamics 365 for Sales では、セールスの有効化の基盤を提供され、コンテキストに従ってセールス チームに必要なすべてのコンテンツが提供されます。</span><span class="sxs-lookup"><span data-stu-id="21b0f-114">Dynamics 365 for Sales provides the foundation of sales enablement, which gives sales teams all the necessary content contextually.</span></span> <span data-ttu-id="21b0f-115">正確なコンテンツは、営業担当者が購買プロセス全体を通じて購入者との関わりを深め、目的の成果を達成するのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="21b0f-115">Having accurate content helps sales reps successfully engage the buyer throughout the buying process and achieve the desired outcome.</span></span>
     
--   <span data-ttu-id="305ff-116">営業マネージャーは、営業資料やドキュメント文書を参照し、プレイブック活動にそれを添付することができます</span><span class="sxs-lookup"><span data-stu-id="305ff-116">Sales managers can refer and attach sales literature and documents to playbook activities</span></span>
+-   <span data-ttu-id="21b0f-116">営業マネージャーは、営業資料やドキュメント文書を参照し、プレイブック活動にそれを添付することができます</span><span class="sxs-lookup"><span data-stu-id="21b0f-116">Sales managers can refer and attach sales literature and documents to playbook activities</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="305ff-117">プレイブックによるコンテンツのレコメンデーションは、営業ハブでのみ利用でき、Sales Professional アプリケーションでは利用できません。</span><span class="sxs-lookup"><span data-stu-id="305ff-117">Content recommendation through playbooks is expected to be available only for Sales Hub, not for Sales Professional applications.</span></span>
+> <span data-ttu-id="21b0f-117">プレイブックによるコンテンツのレコメンデーションは、営業ハブでのみ利用でき、Sales Professional アプリケーションでは利用できません。</span><span class="sxs-lookup"><span data-stu-id="21b0f-117">Content recommendation through playbooks is expected to be available only for Sales Hub, not for Sales Professional applications.</span></span>
