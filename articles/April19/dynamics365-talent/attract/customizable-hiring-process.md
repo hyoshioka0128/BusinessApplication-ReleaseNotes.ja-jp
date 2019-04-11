@@ -1,31 +1,31 @@
 ---
-title: 組織のニーズに合わせてカスタマイズ可能な採用プロセス
-description: 採用プロセスは企業によって異なる場合があります
-author: ReneeW-CPub
-ms.date: 01/21/2019
+title: 生産性向上のためにカスタマイズ可能な採用プロセス
+description: 現在、採用担当者はすべての活動を手動で確認する必要があります。
+author: ShielaS
+ms.date: 03/07/2019
 ms.topic: article
 ms.service: business-applications
-ms.author: renwe
-ms.openlocfilehash: c0c88d6a70917f047cc34f931e0f95e29f93a55b
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.author: Shielas
+ms.openlocfilehash: 9d9233d65501ae0a0066b16b354b2893b6eeb5ac
+ms.sourcegitcommit: 6c2bdf79defba9110d0d4a6921a3272ba46267bb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211001"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "901110"
 ---
-#  <a name="customizable-hiring-processes-to-meet-organizational-needs"></a><span data-ttu-id="71865-103">組織のニーズに合わせてカスタマイズ可能な採用プロセス</span><span class="sxs-lookup"><span data-stu-id="71865-103">Customizable hiring processes to meet organizational needs</span></span>
+#  <a name="customizable-hiring-processes-for-productivity"></a><span data-ttu-id="06a91-103">生産性向上のためにカスタマイズ可能な採用プロセス</span><span class="sxs-lookup"><span data-stu-id="06a91-103">Customizable hiring processes for productivity</span></span>
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 
 
 
+<span data-ttu-id="06a91-104">現在、採用担当者は、候補者のステージを進める前にアプリケーション内のすべての活動を手動で確認する必要があります。</span><span class="sxs-lookup"><span data-stu-id="06a91-104">Currently, recruiters need to manually review every activity in an application before being able to advance the stage for the candidate.</span></span>  <span data-ttu-id="06a91-105">複数のアプリケーションにわたる複数の活動とステージがあると、採用担当者はアプリケーション プロセスの管理に多大な時間を費やすことになります。</span><span class="sxs-lookup"><span data-stu-id="06a91-105">With multiple activities and stages across multiple applications, recruiters can spend a large amount of time managing the application process.</span></span> <span data-ttu-id="06a91-106">さらに、Attract の現在のダッシュボードには、ステージが進められるまで、そのステージ内のすべての活動がオープンしている活動として表示されます。</span><span class="sxs-lookup"><span data-stu-id="06a91-106">Furthermore, the current dashboard in Attract lists all activities in a stage as being open until the stage is advanced.</span></span>  
 
-<span data-ttu-id="71865-104">規模、季節性、または業種など、採用プロセスは企業によって大きく異なります。</span><span class="sxs-lookup"><span data-stu-id="71865-104">Depending on size, seasonality or industry type, the hiring process can vary widely across businesses.</span></span> <span data-ttu-id="71865-105">採用担当者が必要に応じてプロセスを編集できるようにすることを望んでいる中小企業もあります。</span><span class="sxs-lookup"><span data-stu-id="71865-105">Some small businesses would like to have the recruiter be able to edit the process as needed.</span></span><span data-ttu-id="71865-106">一方、大規模な組織では、採用プロセスの活動の一貫性が求められ、プロセスの一元管理が好まれることもあります。</span><span class="sxs-lookup"><span data-stu-id="71865-106">  However, larger organizations might want consistency in the activities that go into the hiring process and would like the process managed by a central owner.</span></span> <span data-ttu-id="71865-107">ビジネス ニーズに合わせてこれらのプロセスを調整できるようにすることで、さまざまな組織で使用できる堅牢なソリューションが提供されます。</span><span class="sxs-lookup"><span data-stu-id="71865-107">Having the ability to shape these processes to meet business needs provides a robust solution that can be consumed by a diverse set of organizations.</span></span>
+<span data-ttu-id="06a91-107">項目に完了マークを付ける機能によって、採用プロセスが明確になります。</span><span class="sxs-lookup"><span data-stu-id="06a91-107">The ability to have items marked complete provides clarity in the hiring process.</span></span> <span data-ttu-id="06a91-108">採用担当者は候補者に集中するための時間を増やし、タスクの状態について問い合わせる時間を減らすことができます。</span><span class="sxs-lookup"><span data-stu-id="06a91-108">Recruiters can spend more time focusing on candidates and less time inquiring about the status of tasks.</span></span> <span data-ttu-id="06a91-109">さらに、採用担当者のダッシュボードには必要な作業がより正確に反映され、採用担当者はどの候補者が次のステージに進む準備ができているかを簡単に確認できるようになります。</span><span class="sxs-lookup"><span data-stu-id="06a91-109">Furthermore, the recruiter's dashboard will more accurately reflect what needs to be done, and the recruiter can easily see which candidates are ready to advance to the next stage.</span></span>
 
-<span data-ttu-id="71865-108">この機能により、企業は以下のことが可能になります。</span><span class="sxs-lookup"><span data-stu-id="71865-108">This feature allows businesses to:</span></span>
+<span data-ttu-id="06a91-110">この機能には次の処理が含まれます。</span><span class="sxs-lookup"><span data-stu-id="06a91-110">This feature includes the following:</span></span>
 
--   <span data-ttu-id="71865-109">必要に応じて、管理者のみが採用プロセス テンプレートを管理できるようにする。</span><span class="sxs-lookup"><span data-stu-id="71865-109">Optionally allow only administrators to manage the hiring process templates.</span></span>
 
--   <span data-ttu-id="71865-110">採用担当者がステージを編集できるかどうかを定義する。</span><span class="sxs-lookup"><span data-stu-id="71865-110">Define whether a stage can be edited by a recruiter.</span></span>
+-   <span data-ttu-id="06a91-111">活動に完了マークを付ける</span><span class="sxs-lookup"><span data-stu-id="06a91-111">Allows activities to be marked as completed</span></span>
 
--   <span data-ttu-id="71865-111">採用担当者がステージを職務に追加できるかどうかを示す。</span><span class="sxs-lookup"><span data-stu-id="71865-111">Indicate if a stage can be added on a job by the recruiter.</span></span>
+-   <span data-ttu-id="06a91-112">活動の完了を示すようにダッシュボードを更新する</span><span class="sxs-lookup"><span data-stu-id="06a91-112">Updates the dashboard with an indication of the completeness of activities</span></span>
