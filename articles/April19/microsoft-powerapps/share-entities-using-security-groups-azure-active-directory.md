@@ -1,22 +1,22 @@
 ---
-title: Azure Active Directory のセキュリティ グループを使用してエンティティを共有する
+title: Azure Active Directory のセキュリティ グループでのセキュリティ ロールの使用
 description: CDS ベースのアプリを AAD セキュリティ グループと共有する
-author: litran
+author: matthewbolanos
 ms.reviewer: anneta
-ms.date: 01/08/2019
+ms.date: 03/20/2019
 ms.assetid: 9fab1c2c-b9c5-e811-a973-000d3a137a43
 ms.topic: article
 ms.service: business-applications
-ms.author: litran
+ms.author: mabolan
 audience: Power user
-ms.openlocfilehash: 9d67da05aa43ed112d8c1cfffe7ac271c5f2bbf2
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 2b269112839f5b98bec04cbc51f98bd83059f306
+ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210319"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "900461"
 ---
-# <a name="share-entities-by-using-security-groups-in-azure-active-directory"></a>Azure Active Directory のセキュリティ グループを使用してエンティティを共有する
+# <a name="using-security-roles-with-security-groups-in-azure-active-directory"></a>Azure Active Directory のセキュリティ グループでのセキュリティ ロールの使用
 
 
 [!include[microsoft-powerapps banner](../includes/microsoft-powerapps.md)]

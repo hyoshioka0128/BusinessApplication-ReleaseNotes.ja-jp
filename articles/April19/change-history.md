@@ -3,17 +3,17 @@ title: 2019 年 4 月の変更履歴
 description: 変更履歴
 author: Annbe
 manager: AnnBe
-ms.date: 02/28/2019
+ms.date: 03/28/2019
 ms.assetid: ''
 ms.topic: article
 ms.author: renwe@microsoft.com
 ms.service: business-applications
-ms.openlocfilehash: 26db73793d7108df60abb7ab53056f0b94ce868f
-ms.sourcegitcommit: 980dc71b0e224fbb522252471a244278418a04b1
+ms.openlocfilehash: b8c17ff6f246126fe0f6ecbfb7a7e88a7214fdb5
+ms.sourcegitcommit: 0f62a62236557be57864a216d36c692aa8fccddb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/28/2019
-ms.locfileid: "771365"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "907577"
 ---
 # <a name="change-history"></a>変更履歴
 
@@ -27,12 +27,22 @@ ms.locfileid: "771365"
 > |----------|-------|----------------|
 > | [手動売上予測によって収益を正確に見積もり、情報に基づいた意思決定を実行する](dynamics365-sales/simple-forecasting-effective-sales-performance-management.md) | 一般提供からパブリック プレビューに変更されました| 2 月 6 日 |
 
+
 ### <a name="feature-description-changed"></a>機能の説明の変更
 > [!div class="mx-tableFixed"]
 > |機能 |    変更 |    変更日付 |
 > |----------|-------|----------------|
-> | [標準の LinkedIn プロファイルと簡略化された Sales Navigator のインストール](dynamics365-sales/intelligent-social-selling-relationship-sales-mrs.md) | トピックのタイトルを「LinkedIn と連動した組織図 (主要連絡先の変更アラートなど)」から変更しました | 2 月 19 日 |
+> | [簡単になった Sales Navigator のインストール](dynamics365-sales/intelligent-social-selling-relationship-sales-mrs.md) | トピックのタイトルを「標準の LinkedIn プロファイルと簡略化された Sales Navigator のインストール」から変更しました | 3 月 20 日 |
+> | [Microsoft Teams 統合](dynamics365-sales/productive-sales-collaboration-teams.md) | トピックのタイトルを「Microsoft Teams の統合 (Relationship Assistant を含む)」から変更しました | 3 月 5 日 |
+> 
 
+
+### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
+
+> [!div class="mx-tableFixed"]
+> | 機能 | 削除日付 |
+> |---------|--------------|
+> |標準の LinkedIn プロファイル |3 月 20 日|
 
 ## <a name="customer-service"></a>Customer Service
 
@@ -40,17 +50,21 @@ ms.locfileid: "771365"
 > [!div class="mx-tableFixed"]
 > | 機能 | 追加日付 |
 > |---------|------------|
-> | [Dynamics 365 Virtual Agent for Customer Service との統合](service/omni-channel-engagement-hub/integration-dynamics-ai-bots.md)    |      2 月 21 日   |
+> | [Unified Service Desk に対するシングル サインオン](service/dynamics365-customer-service/unified-service-desk/single-sign-on-for-unified-service-desk.md) | 3 月 3 日 |
+> | [エージェント固有の構成のキャッシュ](service/dynamics365-customer-service/unified-service-desk/cache-specific-configurations-for-agents.md) | 3 月 3 日 |
+> | [サポート案件フォームの UI の機能強化](service/dynamics365-customer-service/customer-service-key-enhancements.md#case-form-ui-enhancements)  |      3 月 29 日   |
+> | [タイムラインの機能強化](service/dynamics365-customer-service/customer-service-key-enhancements.md#timeline-enhancements)  |      3 月 29 日   |
+> | [SLA タイマーで経過時間と残り時間を表示](service/dynamics365-customer-service/customer-service-key-enhancements.md#show-elapsed-and-remaining-time-on-sla-timer)   |      3 月 29 日   |
+> | [SLA タイマーでの営業時間と実際の時間の表示](service/dynamics365-customer-service/customer-service-key-enhancements.md#show-business-and-actual-hours-on-sla-timer)    |      3 月 29 日   |
 
+### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
+
+> [!div class="mx-tableFixed"]
+> | 機能 | 削除日付 |
+> |---------|--------------|
+> |Dynamics 365 Virtual Agent for Customer Service の統合 |3 月 28 日|
 
 ## <a name="field-service"></a>Field Service
-
-### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
-> [!div class="mx-tableFixed"]
-> | 機能 | 追加日付 |
-> |---------|------------|
-> | キャンバス PowerApps サンプル アプリ    |      1 月 24 日   | 
-
 
 ### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 
@@ -90,23 +104,38 @@ ms.locfileid: "771365"
 > | [システム主導の作業優先順位](dynamics365-finance-operations/system-directed-work-sequencing.md) | 2 月 12 日 |
 > | [高度なウェーブ ラベル印刷](dynamics365-finance-operations/advanced-wave-label-print.md)| 2 月 12 日 |
 > | [プラットフォーム拡張性の機能強化ウェーブ 3](dynamics365-finance-operations/platform-extensibility3.md)| 2 月 25 日 |
+> | ["フィルター フィールドの追加" エクスペリエンスの向上](dynamics365-finance-operations/updated-add-filter-field.md) | 3 月 4 日 |
+> | [銀行取引明細書の日付の編集と編集履歴の表示](dynamics365-finance-operations/edit-bank-date.md) | 3 月 21 日 |
+> | [電子申告 - 生成されたドキュメント用にカスタムの保存場所を指定する](dynamics365-finance-operations/er-custom-storage-location.md) | 3 月 14 日 |
+> | [ビジネス プロセス モデラー (BPM) のユーザー インターフェイスの向上](dynamics365-finance-operations/BPM-UI-Improvement.md) | 3 月 22 日 |
+> | [仕入先請求書の回収](dynamics365-finance-operations/recover-vendor-invoices.md)| 3 月 26 日 |
+> | [電子メールによるクライアント警告通知](dynamics365-finance-operations/alert-email-notifications.md) | 3 月 28 日 |
+
 
 ### <a name="release-date-changed"></a>リリース日の変更
 > [!div class="mx-tableFixed"]
 > |機能 |    変更 |    変更日付 |
 > |----------|-------|----------------|
 > | [自動元帳決済](dynamics365-finance-operations/automatic-ledger-settlements.md) | 目標リリース日が 2019 年 7 ～ 9 月に変更されました| 2 月 1 日 |
-> | [仕訳帳転記の取消](dynamics365-finance-operations/reverse-journal-posting.md) | 目標リリース日が 2019 年 5 ～ 7 月に変更されました | 2 月 1 日 |
-> | [収益認識](dynamics365-finance-operations/revenue-recognition.md) | 目標リリース日が 2019 年 5 ～ 6 月に変更されました| 2 月 1 日 |
-> | [銀行における外貨再評価](dynamics365-finance-operations/bank-foreign-currency-revaluation.md) | 目標リリース日が 2019 年 5 ～ 7 月に変更されました| 2 月 1 日 |
-> | [請求スケジュール](dynamics365-finance-operations/billing-schedules.md) | 目標リリース日が 2019 年 8 ～ 9 月に変更されました| 2 月 1 日 |
-> | [Finance and Operations、CDS for Apps のエンティティ](dynamics365-finance-operations/integration-dual-write.md) | リリースの種類がパブリック プレビューに変更され、目標リリース日が 2019 年 6 月に変更されました| 2 月 7 日 |
+> | [仕訳帳転記の取消](dynamics365-finance-operations/reverse-journal-posting.md) | 目標リリース日が 2019 年 5 - 7 月に変更されました | 2 月 1 日 |
+> | [銀行における外貨再評価](dynamics365-finance-operations/bank-foreign-currency-revaluation.md) | 目標リリース日が 2019 年 5 - 7 月に変更されました| 2 月 1 日 |
+> | [請求スケジュール](dynamics365-finance-operations/billing-schedules.md) | 目標リリース日が 2019 年 8 - 9 月に変更されました| 2 月 1 日 |
+> | [Common Data Service での Finance and Operations のデータ](dynamics365-finance-operations/integration-dual-write.md) | リリースの種類がパブリック プレビューに変更され、目標リリース日が 2019 年 6 月に変更されました| 2 月 7 日 |
 > | [強化されたグリッド エクスペリエンス](dynamics365-finance-operations/grid-experience.md)| リリースの種類がパブリック プレビューに変更されました| 2 月 22 日|
 > | [プラットフォーム拡張性の機能強化ウェーブ 2](dynamics365-finance-operations/platform-extensibility2.md)  | 目標リリース日が 2019 年 4 月に変更されました| 2 月 25 日 |
 > | [保存されているビュー](dynamics365-finance-operations/saved-views.md)  | 目標リリース日が 2019 年 7 月に変更されました| 2 月 28 日 |
 > | [クライアントの生産性と使いやすさの向上](dynamics365-finance-operations/client-productivity-usability-improvements.md)  | 目標リリース日が 2019 年 7 月に変更されました| 2 月 28 日 |
 > |[簡素化されたビュー - テンプレート](dynamics365-finance-operations/simplified-view-templates.md)|目標リリース日が 2019 年 4 月から未定に変更されました |2 月 28 日 |
-
+> |[Office ヘッダーに合わせて更新されたナビゲーション バー](dynamics365-finance-operations/updatedNavBar.md)|目標リリース日が 2019 年 3 月に変更されました |3 月 4 日 |
+> |[プレビュー ビルドの明確な識別](dynamics365-finance-operations/previewBuildIndicator.md)|目標リリース日が 2019 年 3 月に変更されました |3 月 4 日 |
+> | [収益認識](dynamics365-finance-operations/revenue-recognition.md) | 目標リリース日が 2019 年 7 月に変更されました| 3 月 14 日 |
+> | [自動元帳決済](dynamics365-finance-operations/automatic-ledger-settlements.md) | 目標リリース日が 2019 年 8 月に変更されました| 3 月 14 日 |
+> | [仕訳帳転記の取消](dynamics365-finance-operations/reverse-journal-posting.md) | 目標リリース日が 2019 年 8 月に変更されました| 3 月 14 日 |
+> | [銀行における外貨再評価](dynamics365-finance-operations/bank-foreign-currency-revaluation.md) | 目標リリース日が 2019 年 8 月に変更されました| 3 月 14 日 |
+> | [経費クライアントの使いやすさ](dynamics365-finance-operations/expense-client-usability.md) | 目標リリース日が 2019 年 8 月に変更されました| 3 月 14 日 |
+> | [請求スケジュール](dynamics365-finance-operations/billing-schedules.md) | 目標リリース日が 2019 年 8 月に変更されました| 3 月 14 日 |
+> | [計画サービス](dynamics365-finance-operations/planning-service.md) | 目標リリース日が 2019 年 7 月に変更されました| 3 月 14 日 |
+> | [電子申告 - 生成されたファイルの後処理](dynamics365-finance-operations/globalization-configurability-post-processing-generated-files.md) | 目標リリース日が 2019 年 5 月に変更されました| 3 月 14 日 |
 
 ### <a name="feature-description-changed"></a>機能の説明の変更
 > [!div class="mx-tableFixed"]
@@ -114,10 +143,50 @@ ms.locfileid: "771365"
 > |---------|-------------|
 > |[計画サービス](dynamics365-finance-operations/planning-service.md) | 2 月 6 日 |
 > |[クライアントの生産性と使いやすさの向上](dynamics365-finance-operations/client-productivity-usability-improvements.md)         |2 月 7 日              | 
-> | [Finance and Operations、CDS for Apps のエンティティ](dynamics365-finance-operations/integration-dual-write.md)        |     2 月 7 日| 
+> | [Common Data Service での Finance and Operations のデータ](dynamics365-finance-operations/integration-dual-write.md)        |     2 月 7 日| 
 > | [Office ヘッダーに合わせて更新されたナビゲーション バー](dynamics365-finance-operations/updatedNavBar.md)        |     2 月 20 日| 
+> | [Regulatory Configuration Service (RCS) が展開される適用範囲地域の拡大](dynamics365-finance-operations/increasing-coverage-regional-deployment-rcs.md) | 3 月 21 日 |
+> | [プラットフォーム拡張性の機能強化ウェーブ 3](dynamics365-finance-operations/platform-extensibility3.md) | 3 月 28 日 |
 
-## <a name="dynamics-365-for-retail"></a>Dynamics 365 for Retail
+
+## <a name="talent"></a>Talent
+
+### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
+
+> [!div class="mx-tableFixed"]
+> | 機能 | 削除日付 |
+> |---------|--------------|
+> |オファーの準備期間を短くする|3 月 5 日|
+> |LinkedIn 内から直接求人に応募する| 3 月 5 日 |
+
+### <a name="release-date-changed"></a>リリース日の変更
+> [!div class="mx-tableFixed"]
+> |機能 |    変更 |    変更日付 |
+> |----------|-------|----------------|
+> | [候補者の前歴 (社内または社外) に対応したカスタム採用ワークフローの作成](dynamics365-talent/attract/create-custom-recruiting-workflows-that-map-candidate-origin-internal-vs-external.md) | 2019 年 3 月から 2019 年 4 月のパブリック プレビューに変更されました| 3 月 29 日 |
+> | [1 回のクリックで複数の候補者に対して管理アクションを実行する](dynamics365-talent/attract/take-administrative-actions-multiple-candidates-single-click.md) | 2019 年 4 月から 2019 年 5 月のパブリック プレビューに変更されました| 3 月 29 日 |
+> | [検索機能の強化](dynamics365-talent/attract/search-enhancements.md) | 2019 年 2 月から 2019 年 4 月のパブリック プレビューに変更されました| 3 月 7 日 |
+> | [キャリア サイトを通じて候補者のエンゲージメントを高める](dynamics365-talent/attract/improve-candidate-engagement-via-career-site.md)| 2019 年 4 月のパブリック プレビューから 2019 年 7 月の一般提供に変更されました |  | 
+> | [Broadbean を使用してより多くのサイトに求人を簡単に掲載できる](dynamics365-talent/attract/easily-post-jobs-more-sites.md)| 2019 年 4 月の一般提供から 2019 年 4 月のパブリック プレビューに変更されました  |   |
+> | [LinkedIn のプロフィールを使用して求人に応募する](dynamics365-talent/attract/use-linkedin-profile-apply-job.md) | 2019 年 4 月の一般提供から 2019 年 4 月のパブリック プレビューに変更されました |   |
+> | [検索機能の強化](dynamics365-talent/attract/search-enhancements.md) | 2019 年 2 月のパブリック プレビューから 2019 年 4 月のパブリック プレビューに変更されました |   |
+
+
+### <a name="feature-description-changed"></a>機能の説明の変更
+> [!div class="mx-tableFixed"]
+> |機能 |    変更 |    変更日付 |
+> |----------|-------|----------------|
+> | [採用プロセスを監査する](dynamics365-talent/attract/audit-your-hiring-process.md) |オファーに関する記述を削除しました|3 月 1 日|
+> | [生産性向上のためにカスタマイズ可能な採用プロセス](dynamics365-talent/attract/customizable-hiring-process.md)|ロックされたステージに関する記述を削除し、プログラムでのアクティビティの完了に関する記述を追加しました|3 月 29 日|
+> | [見込み候補者への招待状](dynamics365-talent/attract/invitations-to-apply-and-marketing-emails.md) | 目次のタイトルを変更しました (ファイルの内容変更)| 3 月 7 日 |
+> | [インテリジェントな候補者の推奨](dynamics365-talent/attract/prospect-recommendations.md) | 目次と予定されている機能を追加しました (ファイルの内容変更)| 3 月 7 日 |
+> | [Broadbean を使用してより多くのサイトに求人を簡単に掲載できる](dynamics365-talent/attract/easily-post-jobs-more-sites.md)| 機能の説明を変更し、Broadbean に関する記述を追加しました  |  |
+> | [Microsoft Forms Pro とそのまま統合できる](dynamics365-talent/attract/provide-OOB-integration-with-a-candidate-assessment-solution.md)  | 機能の説明を変更し、Form Pro に関する記述を追加しました | |
+> | [Onboard Teams を使用して組織全体でベスト プラクティスを共有する](dynamics365-talent/onboard/share-best-practices-teams.md)|   | 3 月 7 日 |
+> | [ロールにアクティビティを割り当てることでガイドの管理を効率化する](dynamics365-talent/onboard/assign-activities-roles.md)|   | 3 月 7 日 |
+
+
+## <a name="retail"></a>Retail
 
 ### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
 > [!div class="mx-tableFixed"]
@@ -125,13 +194,33 @@ ms.locfileid: "771365"
 > |---------|------------|
 > |[オムニチャネル自動請求](dynamics365-retail/omni-channel-auto-charges.md) |  2 月 15 日 |
 
-## <a name="dynamics-365-business-central"></a>Dynamics 365 Business Central
+### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
+> [!div class="mx-tableFixed"]
+> | 機能 | 削除日付 |
+> |---------|------------|
+> |分散型注文管理の機能強化 |  3 月 1 日 | 
+
+## <a name="business-central"></a>Business Central
 
 ### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
 > [!div class="mx-tableFixed"]
 > | 機能 | 追加日付 |
 > |---------|------------|
-> |[組織のテーマのカスタマイズ](/dynamics365-business-central/unified-header.md)|2 月 26 日|
+> |[組織のテーマのカスタマイズ](dynamics365-business-central/unified-header.md)|2 月 26 日|
+> |[SQL Server データ圧縮のサポート](dynamics365-business-central/sql-compression.md)|3 月 18 日|
+> |[SQL Server のパフォーマンスを最適化するためのクエリ ヒントの構成](dynamics365-business-central/removal-of-query-hints.md)|3 月 18 日|
+> |[不要な付属テーブルの結合の削除](dynamics365-business-central/no-join-when-counting.md)|3 月 18 日|
+> |[OData のパフォーマンスの向上](dynamics365-business-central/odata-performance-improvements.md)|3 月 18 日|
+> |[サンドボックスでの RDLC レポートのパフォーマンス](dynamics365-business-central/reporting-performance-on-sandboxes.md)|3 月 18 日|
+> |[イベント ランタイムの最適化](dynamics365-business-central/event-runtime-optimizations.md)|3 月 18 日|
+> |[ラピッドスタートの最適化](dynamics365-business-central/optimize-rapidstart.md)|3 月 18 日|
+> |[Power BI レポートのパフォーマンスの向上](dynamics365-business-central/power-bi-report-performance-improvements.md)|3 月 18 日|
+> |[アプリケーションのパフォーマンスの向上](dynamics365-business-central/application-performance-improvements.md)|3 月 18 日|
+> |[スレッド ディスパッチャーはバックグラウンド スレッドより UI スレッドを優先する](dynamics365-business-central/thread-dispatcher.md)|3 月 18 日|
+> |[C/AL および AL デバッガーでのデータベース分析情報](dynamics365-business-central/database-insights-in-cal-and-al-debuggers.md)|3 月 18 日|
+> |[複数の固有キー](dynamics365-business-central/multiple-unique-indexes.md)|3 月 18 日|
+> |[8 KB 行サイズの要件の緩和](dynamics365-business-central/relax-requirement-of-8k-row-size.md)|3 月 18 日|
+> |[テキストおよびコード フィールド、変数、およびテキスト定数の最大許容長の増加](dynamics365-business-central/max-length-of-variable-length-table-fields-has-been-expanded.md)|3 月 18 日|
 
 ### <a name="release-date-changed"></a>リリース日の変更
 > [!div class="mx-tableFixed"]
@@ -141,7 +230,25 @@ ms.locfileid: "771365"
 > |[システム インジケーター](dynamics365-business-central/know-your-context.md)|目標リリース日が 4 月 1 日以降に変更されました|2 月 14 日|
 > |[全製品ナビゲーションの改善](dynamics365-business-central/navigation.md)|目標リリース日が 4 月 1 日以降に変更されました|2 月 14 日|
 
+
 ## <a name="artificial-intelligence"></a>人工知能
+
+### <a name="ai-for-sales"></a>AI for Sales
+
+#### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
+> [!div class="mx-tableFixed"]
+> | 機能 | 追加日付 |
+> |---------|------------|
+> | [Sales Insights](artificial-intelligence/dynamics365-ai-sales/dynamics365-ai-sales-standalone-experience.md)    | 2 月 28 日   |
+
+#### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
+
+> [!div class="mx-tableFixed"]
+> | 機能 | 削除日付 |
+> |---------|------------|
+> | AI for Sales のレポートのカスタマイズと拡張オプション    | 2 月 28 日   |
+> | Microsoft Teams から Access Relationship Assistant (パブリック プレビュー)    | 2 月 28 日   |
+
 
 ### <a name="dynamics-365-virtual-agent-for-customer-service"></a>Dynamics 365 Virtual Agent for Customer Service
 
@@ -154,43 +261,57 @@ ms.locfileid: "771365"
 > | [業界で共通のサポート トピックについて事前構築されたテンプレートから始める](artificial-intelligence/customer-service/virtual-agent/pre-built-templates.md)    | 2 月 21 日   |
 > | [実用的なダッシュボードによる仮想エージェントのパフォーマンスの分析と改善](artificial-intelligence/customer-service/virtual-agent/intuitive-dashboards.md) | 2 月 21 日   |
 > | [Microsoft Flow を使用したバックエンド システムからのアクションまたはデータへのアクセスの有効化](artificial-intelligence/customer-service/virtual-agent/using-flow.md) | 2 月 21 日 |
-> | [Dynamics 365 for Customer Service の統合](artificial-intelligence/customer-service/virtual-agent/customer-service-integration.md)| 2 月 21 日 |
-> | [選択したサポート案件管理およびエージェント メッセージング システムとの統合](artificial-intelligence/customer-service/virtual-agent/management-messaging-systems.md) | 2 月 21 日   |
-
-#### <a name="feature-description-changed"></a>機能の説明の変更
-| 機能 | 変更 | 変更日付 |
-|--------------------------------------------------|---------------|-------------|
-| Dynamics 365 Virtual Agent for Customer Service  | 名前が変更されました  | 2 月 27 日 |
-
-### <a name="dynamics-365-customer-insights"></a>Dynamics 365 Customer Insights 
-
-#### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
-> [!div class="mx-tableFixed"]
-> | 機能 | 追加日付 |
-> |---------|------------|
-> | [データ サイロの排除と顧客データの統合](artificial-intelligence/dynamics365-ai-customer-insights/eliminate-data-silos.md)    | 2 月 21 日   |
-> | [顧客プロファイルのエンリッチ](artificial-intelligence/dynamics365-ai-customer-insights/enrich-customer-profiles.md)    | 2 月 21 日      |
-> | [ビジネス プロセスとパーソナライズされた顧客エクスペリエンスの強化](artificial-intelligence/dynamics365-ai-customer-insights/power-business-processes.md)    | 2 月 21 日      |
-> | [プロファイルの検索と探索](artificial-intelligence/dynamics365-ai-customer-insights/profile-search-discovery.md)    | 2 月 21 日      |
-> | [拡張性](artificial-intelligence/dynamics365-ai-customer-insights/extensibility.md)    | 2 月 21 日      |
-
-
-### <a name="dynamics-365-ai-for-sales"></a>Dynamics 365 AI for Sales
-
-#### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
-> [!div class="mx-tableFixed"]
-> | 機能 | 追加日付 |
-> |---------|------------|
-> | [Sales Insights](artificial-intelligence/dynamics365-ai-sales/dynamics365-ai-sales-standalone-experience.md#sales-insights)    | 2 月 28 日   |
 
 #### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
+> [!div class="mx-tableFixed"]
+> | 機能 | 削除日付 |
+> |---------|------------|
+> |Dynamics 365 for Customer Service の統合 |  3 月 22 日 |
+> |選択したサポート案件管理およびエージェント メッセージング システムとの統合 |  3 月 22 日 |
+
+#### <a name="feature-description-changed"></a>機能の説明の変更
+> [!div class="mx-tableFixed"]
+> | 機能 | 変更 | 変更日付 |
+> |--------------------------------------------------|---------------|-------------|
+> | Dynamics 365 Virtual Agent for Customer Service  | 名前が変更されました  | 2 月 27 日 |
+
+
+### <a name="dynamics-365-market-insights"></a>Dynamics 365 Market Insights
+
+### <a name="feature-description-changed"></a>機能の説明の変更
+> [!div class="mx-tableFixed"]
+> |機能 |    変更 |    変更日付 |
+> |----------|-------|----------------|
+> | [Bing Web 検索の人気上昇中のトピック](artificial-intelligence/dynamics365-ai-market-insights/bing-web-search-analytics.md) | トピックのタイトルを「Bing Web 検索の分析」から変更し、年齢、性別、および場所データを削除しました | 3 月 20 日 |
+> | [Market Insights アラート](artificial-intelligence/dynamics365-ai-market-insights/alerts.md) | トピックのタイトルを「アラート」から変更しました | 3 月 20 日 |
+> | [AI 支援クエリ ビルダー](artificial-intelligence/dynamics365-ai-market-insights/ai-assisted-query-builder.md) | スクリーンショットと例を更新し、初回使用機能を削除しました | 3 月 20 日 |
+
+### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 
 > [!div class="mx-tableFixed"]
-> | 機能 | 追加日付 |
-> |---------|------------|
-> | AI for Sales のレポートのカスタマイズと拡張オプション    | 2 月 28 日   |
-> | Microsoft Teams から Relationship Assistant にアクセスする (パブリック プレビュー)    | 2 月 28 日   |
- 
+> | 機能 | 削除日付 |
+> |---------|--------------|
+> |会話の分析 | 3 月 20 日 |
+> |地域の拡大 | 3 月 20 日 |   
+
+
+### <a name="dynamics-365-customer-insights"></a>Dynamics 365 Customer Insights
+
+#### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
+> [!div class="mx-tableFixed"]
+> | 機能   | 追加日付 |
+> |-----------|-------------------------|
+> | [データの取り込み](artificial-intelligence/dynamics365-ai-customer-insights/eliminate-data-silos.md#data-ingestion)       | 2 月 21 日 | 
+> | [顧客プロファイルの統一](artificial-intelligence/dynamics365-ai-customer-insights/eliminate-data-silos.md#customer-profile-unification)   | 2 月 21 日 | 
+> | [Customer Insights のタイムライン](artificial-intelligence/dynamics365-ai-customer-insights/eliminate-data-silos.md#customer-insights-timeline)  | 2 月 21 日 | 
+> | [Microsoft Graph に含まれるオーディエンス インテリジェンスでの顧客プロファイルのエンリッチ](artificial-intelligence/dynamics365-ai-customer-insights/enrich-customer-profiles.md#enrich-customer-profiles-with-audience-intelligence-contained-within-microsoft-graph) | 2 月 21 日 | 
+> | [顧客の区分](artificial-intelligence/dynamics365-ai-customer-insights/power-business-processes.md#customer-segmentation) > | 2 月 21 日 | 
+> | [メジャーを使用したビジネス KPI の作成と管理](artificial-intelligence/dynamics365-ai-customer-insights/power-business-processes.md#create-and-manage-business-kpis-using-measures)  | 2 月 21 日 | 
+> | [Dynamics 365 の事前構築済みエクスペリエンス](artificial-intelligence/dynamics365-ai-customer-insights/power-business-processes.md#pre-build-experiences-for-dynamics-365)| 2 月 21 日 |
+> | [統合顧客プロファイルの検索と探索](artificial-intelligence/dynamics365-ai-customer-insights/profile-search-discovery.md) | 2 月 21 日 | 
+> | [REST API](artificial-intelligence/dynamics365-ai-customer-insights/extensibility.md#rest-apis)  | 2 月 21 日 | 
+> | [Power Platform コネクタによる業種アプリとインサイト](artificial-intelligence/dynamics365-ai-customer-insights/extensibility.md#line-of-business-apps-and-insights-through-power-platform-connectors)| 2 月 21 日 | 
+
 
 ### <a name="dynamics-365-fraud-protection"></a>Dynamics 365 Fraud Protection
 
@@ -237,6 +358,16 @@ ms.locfileid: "771365"
 
 
 ### <a name="dynamics-365-layout"></a>Dynamics 365 Layout
+
+#### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
+> [!div class="mx-tableFixed"]
+> | 機能 | 追加日付 |
+> |---------|------------|
+> |[Layout 機能のステップ バイ ステップの説明を提供する学習カード](dynamics365-mixed-reality/microsoft-dynamics365-layout/teaching-moments.md)|3 月 5 日   |
+> |[HoloLens 2 との互換性](dynamics365-mixed-reality/microsoft-dynamics365-layout/hololens-2.md)|3 月 5 日   |
+
+
+
 
 #### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 
@@ -292,7 +423,7 @@ ms.locfileid: "771365"
 > | [作業の際に指示がユーザーと共に移動](dynamics365-mixed-reality/microsoft-dynamics365-guides/tag-along.md)|2 月 24 日|
 > | [作業中に進行状況を追跡](dynamics365-mixed-reality/microsoft-dynamics365-guides/track-progress.md)|2 月 24 日|
 > | [ダッシュボードでのプロセス効率の視覚化](dynamics365-mixed-reality/microsoft-dynamics365-guides/visualize-user-data.md)|2 月 24 日|
-
+> | [3D モデルの複製 (および削除)](dynamics365-mixed-reality/microsoft-dynamics365-guides/copy-models.md)|3 月 26 日|
 
 ## <a name="microsoft-forms-pro"></a>Microsoft Forms Pro
 
@@ -306,9 +437,53 @@ ms.locfileid: "771365"
 > | [回答の分析](forms-pro/intelligent-survey-response-analysis.md)    |      2 月 21 日   |
 > | [Dynamics 365 および CDS for Apps との統合](forms-pro/deep-integration-dynamics-platform.md)      |      2 月 21 日  |
 
+## <a name="powerapps"></a>PowerApps
 
+### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
+
+> [!div class="mx-tableFixed"]
+> | 機能 | 追加日付 |
+> |---------|------------|
+> | [依存オプション セットの構成](microsoft-powerapps/configure-dependent-option-sets.md) | 3 月 26 日 |
+> | [エンティティからの関連フローの作成と表示](microsoft-powerapps/create-view-related-flows-entity.md) | 3 月 26 日 |
+> | [PowerApps コンポーネント フレームワークを使用してカスタム コントロールを作成する](microsoft-powerapps/pcf-ga-model-driven.md) | 3 月 26 日 |
+> | [ビデオ コントロールによる Microsoft Stream ビデオのサポート](microsoft-powerapps/video-control-supports-ms-stream-videos.md) | 3 月 26 日 |
+
+### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
+
+> [!div class="mx-tableFixed"]
+> | 機能 | 削除日付 |
+> |---------|------------|
+> | まずはプレビューで新しい更新プログラムをテストする | 3 月 26 日 |
+> | 高度なキャンバス アプリを実現した新しい制御機能 | 3 月 26 日 |
+> | キャンバス アプリでの Common Data Service for Apps 内の集約関数の委任 | 3 月 26 日 |
+
+### <a name="release-date-changed"></a>リリース日の変更
+
+> [!div class="mx-tableFixed"]
+> | 機能 | 変更 | 変更日付 |
+> |---------|---|-----------|
+> | [キャンバス アプリで式や下位式の結果を表示する](microsoft-powerapps/view-results-formulas-subformulas-canvas-apps.md) | 一般提供からプレビューに変更されました | 3 月 26 日 |
+> | [キャンバス アプリでの多対多リレーションシップのサポート強化](microsoft-powerapps/better-support-many-to-many-relationships-canvas-apps.md) | 2019 年 4 月から 2019 年 2 月に変更されました | 3 月 26 日 |
+> | [キャンバス アプリでリッチ コンポーネントとコントロールを作成して再利用する](microsoft-powerapps/compose-reuse-rich-components-controls-canvas-apps.md) | 2019 年 4 月から 2019 年 2 月に変更されました | 3 月 26 日 |
+> | [レスポンシブ レイアウトでのキャンバス アプリの作成](microsoft-powerapps/create-canvas-apps-responsive-layout.md) | 2019 年 2 月から 2019 年 3 月に変更されました | 3 月 26 日 |
 
 ## <a name="business-intelligence"></a>ビジネス インテリジェンス
+
+### <a name="power-bi-desktop"></a>Power BI Desktop
+
+#### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
+
+> [!div class="mx-tableFixed"]
+> | 機能 | 削除日付 |
+> |---------|--------------|
+> |Connector for LinkedIn Sales Navigator|3 月 15 日|
+
+#### <a name="release-date-changed"></a>リリース日の変更
+> [!div class="mx-tableFixed"]
+> |機能 | 変更 | 変更日付 |
+> |----------|-------|----------------|
+> |[新しいフィルター エクスペリエンス](business-intelligence/power-bi-desktop/new-filter-experience.md)|2019 年 4 月から 2019 年 5 月に変更されました|3 月 18 日|
 
 ### <a name="power-bi-service"></a>Power BI サービス
 
@@ -319,9 +494,16 @@ ms.locfileid: "771365"
 > | [レポートのコメント](business-intelligence/power-bi-service/commenting.md)        |      1 月 29 日   |
 > | [ヘルプとサポートの設定](business-intelligence/power-bi-service/help-and-support-settings.md)            |  2 月 19 日         |
 
+#### <a name="release-date-changed"></a>リリース日の変更
+> [!div class="mx-tableFixed"]
+> |機能 | 変更 | 変更日付 |
+> |----------|-------|----------------|
+> |[読み取り専用シナリオにおけるサードパーティの BI ツールの接続性 (XML/A)](business-intelligence/power-bi-service/third-party-bi-tool-connectivity.md)|2019 年 2 月から 2019 年 3 月に変更されました| 3 月 4 日|
+> |[SAP 変数](business-intelligence/power-bi-service/sap-variables.md)|2019 年 4 月から 2019 年 6 月に変更されました|3 月 18 日|
+
 ### <a name="power-bi-report-server"></a>Power BI Report Server
 
-### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
+#### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 
 > [!div class="mx-tableFixed"]
 > | 機能 | 削除日付 |

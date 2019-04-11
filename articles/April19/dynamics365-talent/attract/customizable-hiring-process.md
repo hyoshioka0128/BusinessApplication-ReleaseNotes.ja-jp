@@ -1,31 +1,31 @@
 ---
-title: 組織のニーズに合わせてカスタマイズ可能な採用プロセス
-description: 採用プロセスは企業によって異なる場合があります
-author: ReneeW-CPub
-ms.date: 01/21/2019
+title: 生産性向上のためにカスタマイズ可能な採用プロセス
+description: 現在、採用担当者はすべての活動を手動で確認する必要があります。
+author: ShielaS
+ms.date: 03/07/2019
 ms.topic: article
 ms.service: business-applications
-ms.author: renwe
-ms.openlocfilehash: c0c88d6a70917f047cc34f931e0f95e29f93a55b
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.author: Shielas
+ms.openlocfilehash: 9d9233d65501ae0a0066b16b354b2893b6eeb5ac
+ms.sourcegitcommit: 6c2bdf79defba9110d0d4a6921a3272ba46267bb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211001"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "901110"
 ---
-#  <a name="customizable-hiring-processes-to-meet-organizational-needs"></a>組織のニーズに合わせてカスタマイズ可能な採用プロセス
+#  <a name="customizable-hiring-processes-for-productivity"></a>生産性向上のためにカスタマイズ可能な採用プロセス
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 
 
 
+現在、採用担当者は、候補者のステージを進める前にアプリケーション内のすべての活動を手動で確認する必要があります。  複数のアプリケーションにわたる複数の活動とステージがあると、採用担当者はアプリケーション プロセスの管理に多大な時間を費やすことになります。 さらに、Attract の現在のダッシュボードには、ステージが進められるまで、そのステージ内のすべての活動がオープンしている活動として表示されます。  
 
-規模、季節性、または業種など、採用プロセスは企業によって大きく異なります。 採用担当者が必要に応じてプロセスを編集できるようにすることを望んでいる中小企業もあります。一方、大規模な組織では、採用プロセスの活動の一貫性が求められ、プロセスの一元管理が好まれることもあります。 ビジネス ニーズに合わせてこれらのプロセスを調整できるようにすることで、さまざまな組織で使用できる堅牢なソリューションが提供されます。
+項目に完了マークを付ける機能によって、採用プロセスが明確になります。 採用担当者は候補者に集中するための時間を増やし、タスクの状態について問い合わせる時間を減らすことができます。 さらに、採用担当者のダッシュボードには必要な作業がより正確に反映され、採用担当者はどの候補者が次のステージに進む準備ができているかを簡単に確認できるようになります。
 
-この機能により、企業は以下のことが可能になります。
+この機能には次の処理が含まれます。
 
--   必要に応じて、管理者のみが採用プロセス テンプレートを管理できるようにする。
 
--   採用担当者がステージを編集できるかどうかを定義する。
+-   活動に完了マークを付ける
 
--   採用担当者がステージを職務に追加できるかどうかを示す。
+-   活動の完了を示すようにダッシュボードを更新する

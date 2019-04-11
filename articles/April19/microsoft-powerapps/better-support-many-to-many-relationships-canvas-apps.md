@@ -3,23 +3,23 @@ title: キャンバス アプリでの多対多リレーションシップのサ
 description: キャンバス アプリケーションで一対多および多対多の関係をたどり、レコード相互の関連付け/関連付け解除を行います
 author: gregli-msft
 ms.reviewer: anneta
-ms.date: 01/08/2019
+ms.date: 03/26/2019
 ms.assetid: ccc7655b-30e1-e811-a97a-000d3a137063
 ms.topic: article
 ms.service: business-applications
 ms.author: gregli
 audience: Power user
-ms.openlocfilehash: b460f24bdb3aa0cc4919e37a1ab03287c3b8c61a
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: f738fd230a72a3c2299b06b1e9cddfa11384cd53
+ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "286605"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "900222"
 ---
 # <a name="better-support-for-many-to-many-relationships-in-canvas-apps-public-preview"></a>キャンバス アプリでの多対多リレーションシップのサポート強化 (パブリック プレビュー)
 
 
-[!include[microsoft-powerapps banner](../includes/microsoft-powerapps.md)]
+
 
 ビジネス データはリレーショナルです。 顧客、従業員、供給業者、荷主、製品、在庫が、注文と発注を通じて相互に関連しています。 Common Data Service (CDS) for Apps では、これらのリレーションシップが一対多、多対一、または多対多のリレーションシップとしてモデル化されます。
 
