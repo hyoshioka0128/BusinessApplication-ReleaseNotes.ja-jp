@@ -7,12 +7,12 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: ba4f44f6b3336518770f0a65fac9ab5fa27d2bf9
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 42b72b4c0f3a74c35cf350eb04075226519e4538
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210992"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "850330"
 ---
 # <a name="support-for-sap-variables"></a>SAP 変数のサポート
 
@@ -27,3 +27,5 @@ Power BI Desktop は、データをインポートするときと DirectQuery �
 その結果、レポートを開いたすべてのユーザーに、レポート作成者が選択した内容が反映された同じデータが表示されます。
 
 DirectQuery を使用するレポートについては、そのレポートを開いたユーザー自身が変数やパラメーターを選択できる機能を追加することで改善します。 たとえば、あるレポートを 1 人のユーザーは 2018 年のフランスのデータを表示できる一方で、もう一方のユーザーは同じレポートの 2017 年の米国のデータを表示できます。 選択は最新のスライサーのように行うことが可能で、各ユーザーが選択した内容は記憶され、次にそのレポートを開いたときに再利用されます。
+
+[!include[feedback](../includes/service-feedback.md)]

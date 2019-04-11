@@ -1,5 +1,6 @@
 ---
-title: Dynamics 365 Virtual Agent for Customer Service との統合
+redirect_url: ../index
+title: Dynamics 365 Virtual Agent for Customer Service の統合
 description: Dynamics 365 Virtual Agent for Customer Service で定型的な会話を自動化することで、サービス担当者は価値の高い対話に集中できるようになります。
 keywords: ''
 ms.date: 02/21/2019
@@ -9,14 +10,14 @@ ms.topic: article
 ms.assetid: a9d31565-edb3-481b-6173-8001964e4935
 author: shellyhaverkamp
 ms.author: kausri
-ms.openlocfilehash: 366dd4ad3c30d785a9c5db86c3623202161813c6
-ms.sourcegitcommit: cb60b8678619bdabcbea7c0bc29027c5af897b17
+ms.openlocfilehash: 6385186a0194866c9f2509ac0d706469f7c96788
+ms.sourcegitcommit: 0cb71711d7b637317ea3866e3eeff7729e7a0d33
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/28/2019
-ms.locfileid: "770423"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "904232"
 ---
-#  <a name="integration-with-dynamics-365-virtual-agent-for-customer-service"></a>Dynamics 365 Virtual Agent for Customer Service との統合
+#  <a name="integration-with-dynamics-365-virtual-agent-for-customer-service"></a>Dynamics 365 Virtual Agent for Customer Service の統合
 [!include[service banner](../../includes/service.md)]
 
 

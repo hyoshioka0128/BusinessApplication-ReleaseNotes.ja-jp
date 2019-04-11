@@ -2,14 +2,18 @@
 title: Customer Service の 2019 年 4 月リリースの概要
 description: 2019 年 4 月リリースの Customer Service での新機能の概要
 author: Karthik55217
-ms.date: 02/21/2019
+ms.date: 03/28/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: Karthig
 ms.reviewer: anjgup
+ms.openlocfilehash: 08a6725a652173eaafb24eee7c3e5735de176ab4
+ms.sourcegitcommit: 0cb71711d7b637317ea3866e3eeff7729e7a0d33
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "904210"
 ---
-
-
 #  <a name="overview-of-dynamics-365-for-customer-service-april-19-release"></a>Dynamics 365 for Customer Service 2019 年 4 月リリースの概要
 [!include[service banner](../includes/service.md)]
 
@@ -26,9 +30,3 @@ Dynamics 365 for Customer Service の目的は、ワールド クラスのカス
     サポート案件管理は、顧客サービスの基本機能です。 使いやすさと生産性を向上させるため、主要なエクスペリエンスを作り直します。 これらの拡張機能には、サポート案件解決ダイアログの拡張性、サポート案件フォームのユーザー インターフェイスの密度の向上、および SLA タイマーの使いやすさの向上が含まれます。
 
 -  **ナレッジ マネージメント**: サポート情報 (KB) の作成および分析のエクスペリエンスを大幅に強化します。 KB 管理者は、FAQ やハウツー記事などの一般的なシナリオ用の KB テンプレートを作成できます。 KB 作成者は、これらのテンプレートを利用して、標準化された KB 記事をすばやく作成できます。 ナレッジ マネージメント (KM) 分析では、サポート情報の使用状況を識別してギャップに対処することができます。 ナレッジ マネージャーは、効果的な検索と効果的ではない検索を分析し、適切な措置を講じることができます。
-
--  **インテリジェンス**: 仮想エージェントを作成するため、Dynamics 365 Virtual Agent for Customer Service とすぐに統合できるようにします。 この機能により、エージェントは複雑な問題やクエリに集中することができ、日常的な要求には仮想エージェントが応えます。 強化されたスーパーバイザー エクスペリエンスの一環として、スーパーバイザーとマネージャーは、リアルタイムと過去の KPI にアクセスして、チャネル、製品、キューなどのディメンションの情報を有効に活用できます。
-
-
-
-

@@ -10,12 +10,12 @@ ms.assetid: 23612a8a-7d72-ddd3-7f00-c08463b3537e
 author: snaitik
 ms.author: naitikds
 ms.reviewer: shujoshi
-ms.openlocfilehash: b86b59aa52ac1a64c845f3a524c3221e4ce8da8c
-ms.sourcegitcommit: 9930d3ee2966f26f176f1f8b08eb780aef90a863
+ms.openlocfilehash: 80fa1e9c97c4dfa0491a914507fe5c878e57d0bb
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "376211"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847741"
 ---
 #  <a name="predict-revenue-accurately-and-make-informed-decisions-withmanualsales-forecasting"></a>手動売上予測によって収益を正確に見積もり、情報に基づいた意思決定を実行する 
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]

@@ -7,12 +7,12 @@ ms.reviewer: shylaw
 ms.topic: article
 ms.service: business-applications
 ms.author: nselin
-ms.openlocfilehash: 6242a9b8e896ad9352792689f23fc9d4437a2a8b
-ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
+ms.openlocfilehash: c6ec6fbcd8a295325ce88eb81ef6b906a58b2a7b
+ms.sourcegitcommit: 560c1b626b40ff3c51450183b6201cfc589b49e3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "285231"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "890852"
 ---
 #  <a name="electronic-reporting---generate-documents-in-pdf-format-by-filling-in-pdf-templates"></a>電子申告 - PDF テンプレートに記入することによる PDF 形式での文書生成
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -22,11 +22,11 @@ ms.locfileid: "285231"
 
 ![ファイル プレビュー](media/ER-generate-doc-1099-c-preview.png "ファイル プレビュー")
 
-また、ユーザーは設計時に、ER 形式の新しいコンポーネントを生成するそのような入力可能な PDF ドキュメントのフィールドを自動的に発見することもできます。実行時には、PDF テンプレートのこれらのフィールドに入力する必要があります。
+設計時に PDF を構成済みの ER 形式にインポートして、検出された入力が必要なフィールドに対してその ER 形式の新しい要素を自動的に生成できます。 ER 形式の生成された要素へのバインディングを追加することで、この ER 形式の実行によって PDF テンプレートの必要なフィールドに入力できるようになります。
 
 ![PDF ページからの更新](media/ER-generate-doc-1099-c-update-from-pdf.png "PDF ページからの更新")
 
-この機能を使用すると、ユーザーは、複数の PDF 文書を生成し、それらを自動的に単一の最終 PDF ドキュメントにマージする、ER 形式を構成することもできます。
+ユーザーはこの機能を使用して、複数の PDF 文書を生成してそれらを自動的に単一の最終 PDF ドキュメントにマージする ER 形式を構成することもできます。
 
 ![形式デザイナー](media/ER-generate-doc-1099-c-format-designer.png "形式デザイナーのスクリーンショット")
 

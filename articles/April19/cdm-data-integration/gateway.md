@@ -2,21 +2,20 @@
 title: ゲートウェイ
 description: ゲートウェイ
 author: msftman
-ms.date: 01/21/2019
+ms.date: 03/07/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: deonhe
-ms.openlocfilehash: fc1e8bfc3cc997cc0df6a389c94c59a45113e3a1
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.openlocfilehash: 4e664e5727f1cb91cbae9cb7026501760460190f
+ms.sourcegitcommit: 03de13679b4a53812274475e957d0124e6f4dd35
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "404689"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "838162"
 ---
 # <a name="gateway"></a>ゲートウェイ
+
 [!include[cdm-data-integration banner](../includes/cdm-data-integration.md)]
-
-
 
 ## <a name="on-premises-data-gateway-supports-out-of-box-certified-data-connectors"></a>すぐに使用できる認定データ コネクタをサポートしているオンプレミス データ ゲートウェイ  
 
@@ -38,7 +37,7 @@ ms.locfileid: "404689"
  
 ## <a name="management-enhancements"></a>管理機能の強化 
   
--   **集中ゲートウェイ管理**: ゲートウェイ管理者には、Power BI、PowerApps、Microsoft Flow などの Power プラットフォーム全体で、ゲートウェイ クラスター、個々のゲートウェイ コンピューター、および関連するデータ ソースの構成を管理するための標準的なエクスペリエンスが提供されます。 これは、ゲートウェイ管理者が各クラスター内のゲートウェイを表示および管理するのにも役立ちます。 
+-   **集中ゲートウェイ管理**: ゲートウェイ管理者には、Power BI、PowerApps、Microsoft Flow などの Power Platform 全体で、ゲートウェイ クラスター、個々のゲートウェイ コンピューター、および関連するデータ ソースの構成を管理するための標準的なエクスペリエンスが提供されます。 これは、ゲートウェイ管理者が各クラスター内のゲートウェイを表示および管理するのにも役立ちます。 
 
 -   **旧バージョンのゲートウェイの廃止**: 古いバージョンのオンプレミス ゲートウェイを使用しているゲートウェイ管理者およびレポート ユーザーには、最新バージョンのゲートウェイへのアップグレードが通知されます。 これにより、ゲートウェイ管理者は、最新バージョンへのアップグレードを計画し、サポート性を向上させることができます。 また、レポート ユーザーとゲートウェイ管理者には、オンプレミス ゲートウェイの最新リリースに付属する更新プログラムおよび最新機能によるメリットもあります。  
   
@@ -49,7 +48,6 @@ ms.locfileid: "404689"
 -   インストールやデータ更新など、複数の分野でのエラーに対するアクションにつながるメッセージ。 
 -   ゲートウェイ メタデータ サービスの迅速なリリースと信頼性の向上。 
 -   使用状況、更新、データ ソース、および接続性に関連する改善されたゲートウェイ ロギング。
--   パブリック REST API および PowerShell コマンドレット (データ ソースとクラスターの更新) に関するドキュメントを含む、ゲートウェイ ドキュメントの更新。
 
 ## <a name="sap-bw-single-sign-on-kerberos-in-power-bi-service-via-on-premises-data-gateway-for-sap-bw-application-and-message-server"></a>SAP BW アプリケーションおよびメッセージ サーバー用の、Power BI サービスでの (オンプレミス データ ゲートウェイ経由の) SAP BW シングル サインオン (Kerberos)
  
@@ -58,7 +56,3 @@ ms.locfileid: "404689"
 ## <a name="sap-hana-single-sign-on-saml-in-power-bi-service-via-on-premises-data-gateway"></a>Power BI サービス内の (オンプレミス データ ゲートウェイ経由の) SAP HANA シングル サインオン (SAML)
  
 これまで、Power BI から DirectQuery モードで SAP HANA に接続するときに、Kerberos を利用してシングル サインオンを使用できました。 この機能では、SAML を利用するシングル サインオンを使用して SAP HANA に接続することもできるようになります。
-
-## <a name="support-for-developer-signed-custom-connectors"></a>開発者署名のカスタム コネクタのサポート
- 
-開発者からは、Microsoft のプロセスに従うのではなく、自分の証明書で署名されたコネクタを提供する方法をサポートしてほしいという要望がありました。 Microsoft では開発者やユーザーがサード パーティによって署名されたコネクタを使用できるようにする方法を導入します。 この機能は、Power BI Desktop に加えて、オンプレミス データ ゲートウェイでもサポートされる予定です。

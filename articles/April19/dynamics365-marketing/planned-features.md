@@ -7,12 +7,12 @@ ms.reviewer: kamaybac
 ms.date: 01/21/2019
 ms.topic: summary
 ms.service: business-applications
-ms.openlocfilehash: 43bbe937c968252d4ef9e2c3e1ee94c2767665e0
-ms.sourcegitcommit: ac307fd892ac55f69fd1c076ab2e9135da9528ee
+ms.openlocfilehash: 27554ac7b546b15869d895aae4e4a38777d28b89
+ms.sourcegitcommit: 66a64e8d3cd3553f34c17de1123e4573753ec8e9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "720292"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "842978"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-for-marketing"></a>Dynamics 365 for Marketing の新機能と予定されている機能
 
@@ -38,9 +38,9 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [ソーシャル投稿](linkedin-social-posting.md)                              | パブリック プレビュー<br>一般提供| 2019 年 2 月 1 日<br>2019 年 4 月           |
 | [イベント登録とチェックイン エクスペリエンスの改善](customized-event-registration.md)  | 一般提供 | 2019 年 4 月         |
 | [マーケティング担当者向けセグメント化エクスペリエンス](marketer-centric-segmentation-experience.md) | 一般提供 | 2019 年 4 月         |
-| [スマート スケジューリング](email-scheduling-recommendation.md) | パブリック プレビュー | 2019 年 4 月 |
+| [スマート スケジューリング](email-scheduling-recommendation.md) | パブリック プレビュー | 2019 年 6 月 |
 | [セグメント ブースト](segment-boost.md) | パブリック プレビュー | 2019 年 6 月 |
-| [スパム スコア](spam-score-prediction-emails.md) | パブリック プレビュー | 2019 年 4 月 |
+| [スパム スコア](spam-score-prediction-emails.md) | パブリック プレビュー | 2019 年 6 月 |
 | [Web サイトの個人用設定](website-personalization.md)                                  | パブリック プレビュー<br>一般提供       | 2019 年 3 月 <br> 2019 年 4 月          |
 | [複合現実コンテンツ](mixed-reality-content.md)                                  | パブリック プレビュー       | 2019 年 6 月           |
 

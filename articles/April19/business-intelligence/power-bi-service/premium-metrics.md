@@ -7,12 +7,12 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: 170a2be820e83273a10433e83eb82c74f40a0690
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 4d4335255cfc178103bb5093d8e975035e7efff8
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210783"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "850242"
 ---
 # <a name="new-metrics-for-premium"></a>Premium の新しいメトリック
 
@@ -30,3 +30,5 @@ ms.locfileid: "210783"
   - データセットの読み込み失敗
 - データフロー、ページ付けされたレポート、AI などの追加の Premium ワークロードを管理するためのメトリック。
 - 国内クラウドのサポート。
+
+[!include[feedback](../includes/service-feedback.md)]

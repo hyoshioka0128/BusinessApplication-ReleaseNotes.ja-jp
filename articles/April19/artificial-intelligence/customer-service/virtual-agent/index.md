@@ -7,10 +7,15 @@ ms.topic: article
 ms.service: business-applications
 ms.author: navrinas
 ms.reviewer: v-stsau
+ms.openlocfilehash: 57343a4dbc4de27b3f372ba169d17163aad66536
+ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "843790"
 ---
-
-# <a name="overview-of-dynamics-365-virtual-agent-for-customer-service-april-19-release"></a>Dynamics 365 Virtual Agent for Customer Service の 2019 年 4 月リリースの概要
-[!include[customer-service banner](../../../includes/customer-service.md)]
+# <a name="overview-of-dynamics-365-virtual-agent-for-customer-service-april-19-release"></a>Dynamics 365 Virtual Agent for Customer Service 2019 年 4 月リリースの概要
+[!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]
 
 
 Dynamics 365 Virtual Agent for Customer Service は、2019 年 4 月にパブリック プレビューが始まる新しいクラウド サービスです。 顧客サービス ボットの複数の世界規模での展開をサポートすることによって得られた教訓に基づいて構築された Dynamics 365 Virtual Agent for Customer Service により、主題のエキスパートである顧客サービス チームは仮想エージェントを通して問題の解決策を展開できるようになります。  
@@ -25,7 +30,7 @@ Virtual Agent for Customer Service は、2019 年 4 月にパブリック プレ
 
 * **変数**: 会話からエンティティを抽出し、それらを使用して、ダイアログ内で使用したり他のダイアログに渡したりできる変数を設定できます。
 
-* **アクション**: 仮想エージェントは、ユーザーとチャットして問題をトラブルシューティングできるだけでなく、ユーザーの代わりにアクションを実行することもできます。 Microsoft Flow を使用すると、顧客サービス マネージャーは、Power プラットフォームの一部として提供される一般的なサービスへの何百ものコネクタを利用して、バックエンド システムのアクションを有効にしたりデータにアクセスしたりできます。
+* **アクション**: 仮想エージェントは、ユーザーとチャットして問題をトラブルシューティングできるだけでなく、ユーザーの代わりにアクションを実行することもできます。 Microsoft Flow を使用すると、顧客サービス マネージャーは、Power Platform の一部として提供される一般的なサービスへの何百ものコネクタを利用して、バックエンド システムのアクションを有効にしたりデータにアクセスしたりできます。
 
 * **人間のエージェントと一緒に働く**: 仮想エージェントでは問題を処理できない場合、またはユーザーが人間のエージェントを要求した場合、仮想エージェントは人間のエージェントに助けを求めます。 Dynamics 365 for Customer Service との統合を使用するか、または特定のサポート案件管理およびエージェント メッセージ システムと統合します。
 

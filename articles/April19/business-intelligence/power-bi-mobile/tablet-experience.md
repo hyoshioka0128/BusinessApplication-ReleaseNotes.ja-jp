@@ -7,18 +7,16 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: c082091b047ad3a03bc1183ee179be064dd29c4e
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 957ffe87b9742ceefed54c363a8b42fde9aafc2c
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210852"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849593"
 ---
 #  <a name="portrait-orientation-in-tablet-experience"></a>タブレット使用時の方向を縦向きに変更
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
 
-
-
-
-
 多くのタブレット ユーザーは、タブレットを縦向きで使用しています (特に中型のタブレットの場合)。 これらのユーザーは、デバイスのスペースをより有効に活用し、ユーザー エクスペリエンスを高めるために、Power BI モバイル アプリでレポートを電話レイアウト (縦向きに最適化されたレイアウト) でレンダリングすることを希望しています。
+
+[!include[feedback](../includes/mobile-feedback.md)]

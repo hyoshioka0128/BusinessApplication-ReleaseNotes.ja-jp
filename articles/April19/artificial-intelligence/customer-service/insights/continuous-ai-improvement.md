@@ -6,15 +6,15 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: xiaoying
-ms.openlocfilehash: 3896f5510770ab9510659027d6fccf90c3382613
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 8aa1ddd2d57ce17e3fdcca8a6ad036200260dbc4
+ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210256"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "843746"
 ---
 # <a name="artificial-intelligence-ai-continuously-improves-topic-clustering-based-on-human-feedback"></a>人間のフィードバックに基づく人工知能 (AI) によるトピックのクラスタリングの継続的な改善
-[!include[customer-service banner](../../../includes/customer-service.md)]
+[!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]
 
 
 ユーザーは、生成されるトピックを管理することによって、トピックのクラスタリングの結果を改善できます。 AI モデルは、フィードバックから学習して、時間の経過とともにトピックのクラスタリングとパーソナライズされたトピックの生成を改善します。 トピックのクラスタリングを改善するために、さまざまな新機能を利用できます。

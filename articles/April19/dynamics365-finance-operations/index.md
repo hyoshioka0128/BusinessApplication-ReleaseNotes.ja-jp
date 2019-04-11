@@ -6,12 +6,12 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: renwe
-ms.openlocfilehash: 0057ae108650124cfbb1174326964870c8dbcbf8
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 973f32d64b2075aef74b89bcc3e8e18bb286d502
+ms.sourcegitcommit: 560c1b626b40ff3c51450183b6201cfc589b49e3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210308"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "890896"
 ---
 #  <a name="overview-of-dynamics-365-for-finance-and-operations-april-19-release"></a>Dynamics 365 for Finance and Operations 2019 年 4 月リリースの概要
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -54,6 +54,9 @@ Dynamics 365 for Finance and Operations では財務と業務が統合されて�
 2019 年 4 月リリース以降は、お客様が運用資産の総所有コストを追跡し、それらの資産の継続的な保守を管理できるようにする、エンタープライズ資産管理機能を導入します。 成熟した積層造形テクノロジは、製造へのアプローチ方法におけるシフトを表し、製造プロセスを定義、計画、実行する方法の強化も推進します。
 
 ## <a name="globalization"></a>グローバリゼーション
+
+Microsoft Dynamics for Finance and Operations は、37 の国/地域向けにローカライズされており、Microsoft から直接 42 の言語で提供されます。 Microsoft によってローカライズされた国/地域および提供される言語の一覧については、[製品のローカライズおよび翻訳の対応状況に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)をご覧ください。 Microsoft によって提供されるローカライゼーション機能の国/地域ごとの詳細については、「[ローカライズと規制の機能](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/lcs-solutions/country-region?toc=/fin-and-ops/toc.json)」をご覧ください。 Microsoft が提供するローカライゼーションと言語を拡張する、チャネル パートナーによってサポートされるローカライゼーションおよび翻訳ソリューションについては、[AppSource](https://appsource.microsoft.com/en-us/marketplace/apps?search=localization&product=dynamics-365%3Bdynamics-365-for-finance-and-operations&page=1) をご覧ください。 Microsoft は、Microsoft がサポートする 37 の国/地域における法規制の変更に対応するために、規制に関する更新を継続的に提供します。 計画されている規制の更新および最近出荷された規制の更新の一覧については、「[ローカライズと規制の機能 - 規制の更新](https://docs.microsoft.com/dynamics365/unified-operations/financials/localizations/regulatory-updates)」をご覧ください。 または、Lifecycle Services (LCS) にサインインし、LCS 問題検索ツールを使用して、計画されている、およびリリースされた規制の更新を表示することもできます。このツールでは、国、機能の種類、およびリリース別に検索できます。
+
 多くの国や地域で事業を展開するには、変化する規制要件に迅速に対応し、産業や業種の非常に具体的な要件を満たす必要があります。 2019 年 4 月リリースでは、グローバリゼーションへの集中的な投資を続け、このプロセスを簡素化するために構成可能なローカライズの領域を拡大しています。 Regulatory Configuration Service からアクセス可能な電子申告と Global Tax の両方の構成可能なエンジンを使用すると、ユーザーは Microsoft 提供の規制構成を拡張したり、新しい構成可能な機能を最初から構築したりできます。 
 
 2019 年 4 月リリースでは、ブラジルとメキシコで最も頻繁に変更される機能、特にブラジルとメキシコの電子請求機能、およびブラジルのいくつかの会計帳簿レポートを作成しました。 また、請求書レイアウトはグローバルに展開する顧客が最も多くカスタマイズする部分の 1 つであるため、2019 年 4 月リリースでは、2018 年 10 月リリースで出荷された自由書式の請求書のレイアウトを超えて、構成可能な請求書レイアウトの数を増やしています。 お客様が作成した機能のパフォーマンスの最適化、後処理操作の簡素化、税設定の使いやすさの向上など、いくつかの分野で構成可能なエンジンの機能を引き続き強化しています。 2019 年 4 月リリースでは、複数のロシア語ローカライズ機能も出荷しています。 

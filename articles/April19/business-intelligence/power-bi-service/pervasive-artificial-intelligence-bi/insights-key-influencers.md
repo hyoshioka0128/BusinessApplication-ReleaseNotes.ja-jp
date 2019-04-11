@@ -6,12 +6,12 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: 64e85bb0abaeaf6fad1b5b4a0289f8561ac45df7
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 2c8c9eafb9bd8339bd5d60703fcd5612535ebf85
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "285985"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849790"
 ---
 # <a name="insights---key-influencers"></a>分析情報 - キー インフルエンサー
 [!include[business-intelligence banner](../../../includes/business-intelligence.md)]
@@ -23,3 +23,4 @@ ms.locfileid: "285985"
 
 ユーザーがフィルタリングまたはビジュアルの選択によってレポートを操作すると、主要なドライバーがリアルタイムで再評価および更新されます。
 
+[!include[feedback](../../includes/service-feedback.md)]

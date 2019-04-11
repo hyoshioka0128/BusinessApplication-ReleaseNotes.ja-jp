@@ -6,12 +6,12 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.reviewer: mihart
-ms.openlocfilehash: 88b53f52a699a303deb8847fb6d6c798db0a3845
-ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
+ms.openlocfilehash: 837c7f1bee2a74ba2e40ecc99b8a0a71ddf66609
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "285092"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849659"
 ---
 # <a name="general-availability-of-power-bi-dataflows"></a>Power BI データフローの一般提供
 [!include[business-intelligence banner](../../../includes/business-intelligence.md)]
@@ -29,3 +29,4 @@ Power BI では、異なるソースのデータを統合し、それらをモ�
 
 Power BI のデータフローには、一般的なデータ ソースへのコネクタが 40 以上含まれています (Excel、SQL Server、Oracle、Azure SQL Data Warehouse、Dynamics 365、Salesforce など)。 
 
+[!include[feedback](../../includes/service-feedback.md)]

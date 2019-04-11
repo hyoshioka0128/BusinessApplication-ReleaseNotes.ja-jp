@@ -7,15 +7,15 @@ ms.topic: article
 ms.service: business-applications
 ms.author: xiaoying
 ms.reviewer: v-stsau
-ms.openlocfilehash: 69cf9f6831eb22b65650bf364cd15b7fb5110335
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.openlocfilehash: ec8f1eaaba2a4fed3a2183ad10bb23a7737c7f9e
+ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "404304"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "843702"
 ---
 # <a name="generate-insights-from-data-stored-in-custom-entities-and-fields"></a>カスタム エンティティやフィールド内に格納されているデータから分析情報を生成する
-[!include[customer-service banner](../../../includes/customer-service.md)]
+[!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]
 
 
 

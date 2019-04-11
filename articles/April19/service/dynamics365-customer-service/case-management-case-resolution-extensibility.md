@@ -9,12 +9,12 @@ ms.assetid: 2c57b5ee-d7f7-e569-753d-9477a8507b30
 author: DeepapMS
 ms.author: Deepap
 ms.reviewer: anjgup
-ms.openlocfilehash: 1e1ef268d11a45ccef698c7883df99997fae3934
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 61ba582f2ac993737ad61aba3be73cb0a288743b
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210452"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847237"
 ---
 #  <a name="admin-user-enhancements-case-resolution-extensibility"></a>管理者ユーザーの機能強化: サポート案件の解決の拡張性 
 [!include[service banner](../../includes/service.md)]

@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: kimani
 ms.reviewer: mihart
-ms.openlocfilehash: d69d3014179abf8892be392850a699119dd736a4
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 09117ce6ac57bacd95e1443c1de7ad643f88df76
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287841"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849868"
 ---
 # <a name="expression-based-formatting"></a>式ベースの書式設定
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
@@ -41,3 +41,5 @@ Power BI ではそのすべてのビジュアルに対してさまざまな書�
 -   [テキストの条件付き書式設定](https://ideas.powerbi.com/forums/265200-power-bi-ideas/suggestions/32184037-conditional-formatting-for-text)
 
 -   [列を使用してデータの色を動的に指定する (例: \#A66999)](https://ideas.powerbi.com/forums/265200-power-bi-ideas/suggestions/13757925-dynamically-specify-data-colour-using-column-e-g)
+
+[!include[feedback](../includes/desktop-feedback.md)]

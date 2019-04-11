@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: kfend
 ms.reviewer: annbe
-ms.openlocfilehash: 63ed90893c28d6552591c2f5d3cb03545d079952
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.openlocfilehash: 864ddba58b1f9b0bc0417a10f3c630a11d1f7e76
+ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406277"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "844278"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-for-project-service-automation"></a>Dynamics 365 for Project Service Automation の新機能と予定されている機能
 [!include[service banner](../../includes/service.md)]
@@ -29,4 +29,4 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 
 | 機能                                             | リリースの種類         | 日付 |
 |-----------------------------------------------------|----------------------|----------------------|
-| [Project Service ソリューション](project-service-solution.md)                         | 一般提供 | 2019 年 7 月           |
+| [Project Service ソリューション](project-service-solution.md)                         | 一般提供 | 2019 年 7 月～ 9 月           |

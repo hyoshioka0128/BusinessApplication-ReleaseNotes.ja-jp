@@ -7,18 +7,18 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ''
 ms.reviewer: v-stsau
-ms.openlocfilehash: f5a5295036850286a53b04a0b4391beaa4fb1a41
-ms.sourcegitcommit: cb60b8678619bdabcbea7c0bc29027c5af897b17
+ms.openlocfilehash: a429d3bf3afd5003202b951a59150d1b232cdce1
+ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/28/2019
-ms.locfileid: "770544"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "843526"
 ---
 <!--from editor: Please provide caption info for screenshot.-->
 
 
 # <a name="enable-actions-or-access-data-from-back-end-systems-using-microsoft-flow"></a>Microsoft Flow を使用したバックエンド システムからのアクションまたはデータへのアクセスの有効化
-[!include[customer-service banner](../../../includes/customer-service.md)]
+[!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]
 
 
 ソリューションでは、仮想エージェントがユーザーに代わってバックエンドのワークフローまたはビジネス プロセスを起動する必要がある場合があります。たとえば、ギフト カードの残高に関するクエリなどです。

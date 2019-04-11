@@ -9,12 +9,12 @@ ms.topic: article
 ms.assetid: b24dceff-0271-331a-4c44-86c67cd4b5b9
 author: ReneeW-CPub
 ms.author: renwe
-ms.openlocfilehash: 25769dae55812b2fe233b15bb402f56d56c9c26d
-ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
+ms.openlocfilehash: cc2612a856706a7e92eb652ac2bad4756fccb48f
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "285264"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847612"
 ---
 #  <a name="multi-session-agent-experiences-web-unified-service-desk"></a>マルチセッション エージェント エクスペリエンス (Web、Unified Service Desk)
 [!include[service banner](../../includes/service.md)]

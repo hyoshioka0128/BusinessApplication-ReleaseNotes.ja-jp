@@ -3,24 +3,23 @@ title: プラットフォーム拡張性の機能強化
 description: プラットフォーム拡張性の機能強化
 author: ChrisGarty
 manager: AnnBe
-ms.date: 01/28/2018
+ms.date: 03/19/2019
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
 ms.author: cgarty
 audience: developer, customizer
-ms.openlocfilehash: db00806b1b7e19574416083219368bdcff442cf0
-ms.sourcegitcommit: ad48c3f7d0e618d1da2cc296a6f703aeff9cbf8e
+ms.openlocfilehash: cba088fc47a7a8296a7f22011c0fbe8d94116a3f
+ms.sourcegitcommit: 9d9f57d7fa917a6e3185205bf59537229546a00c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2019
-ms.locfileid: "290413"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "861127"
 ---
 # <a name="platform-extensibility-enhancements"></a>プラットフォーム拡張性の機能強化
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-プラットフォーム更新プログラム 24 で強化された拡張性機能:
+Platform update 24 で強化された拡張性機能:
 
 - フォーム ボタン コントロールに 'OnClicking' イベントを追加します (参照番号 215644)。
 

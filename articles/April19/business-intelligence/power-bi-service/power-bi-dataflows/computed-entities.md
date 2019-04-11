@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: antonfrMSFT
 ms.reviewer: mihart
-ms.openlocfilehash: 180194f56086c3d1eab00f406686a99348b8fd8a
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 01dd1fa2982791dac9620c5c8acf57a4d90b62cf
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210713"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "850319"
 ---
 # <a name="computed-entities"></a>計算されたエンティティ
 [!include[business-intelligence banner](../../../includes/business-intelligence.md)]
@@ -23,3 +23,5 @@ ms.locfileid: "210713"
 計算されたエンティティのサポートにより、サード パーティは豊富な分析情報と AI 機能を備えたデータフローを利用して Power BI アプリを開発することができます。 たとえば、Dynamics 365 for Sales の顧客アカウント エンティティを、Dynamics 365 for Service のオープン サービス チケットからの情報、および Office 365 の関連する顧客会議情報で補強できます 。
 
 計算されたエンティティを最新の情報に更新するには、Power BI Premium が必要です。 
+
+[!include[feedback](../../includes/service-feedback.md)]

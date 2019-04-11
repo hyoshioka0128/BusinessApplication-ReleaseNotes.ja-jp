@@ -3,20 +3,20 @@ title: キャンバス アプリで式や下位式の結果を表示する
 description: キャンバス アプリで式や下位式の結果を表示する
 author: gregli-msft
 ms.reviewer: anneta
-ms.date: 01/08/2019
+ms.date: 03/26/2019
 ms.assetid: 97840ead-fbf0-e811-a976-000d3a137208
 ms.topic: article
 ms.service: business-applications
 ms.author: gregli
 audience: Power user
-ms.openlocfilehash: 1f5fdaf8daa35d4be35eaccb078cda565cc9213c
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 8269ac09e5128f96efb438170937ba216c36af34
+ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "286573"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "900538"
 ---
-# <a name="view-results-of-formulas-and-subformulas-in-canvas-apps"></a>キャンバス アプリで式や下位式の結果を表示する
+# <a name="view-results-of-formulas-and-subformulas-in-canvas-apps-public-preview"></a>キャンバス アプリで式や下位式の結果を表示する (パブリック プレビュー)
 
 
 [!include[microsoft-powerapps banner](../includes/microsoft-powerapps.md)]

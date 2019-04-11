@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: josaw
 ms.reviewer: josaw
-ms.openlocfilehash: cb11d468fea62f7d75c6b9f41fdade5ea79e7b2e
-ms.sourcegitcommit: 44ed9eddd89e00c08da16c86bae997d3110a6e26
+ms.openlocfilehash: edfc71037ae1bf81f960f229be72d2bf2e8e9ae5
+ms.sourcegitcommit: 03de13679b4a53812274475e957d0124e6f4dd35
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "391971"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "838078"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-for-retail"></a>Dynamics 365 for Retail の新機能と予定されている機能
 
@@ -29,7 +29,6 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 
 | 機能                                                                                | リリースの種類         | 日付            |
 |----------------------------------------------------------------------------------------|----------------------|-----------------------------------------------|
-| [分散型注文管理の機能強化](distributed-order-management-enhancements.md) | 一般提供 | 2019 年 4 月             |
 | [製品の見つけやすさの改善](product-discoverability-enhancements.md)                 | 一般提供 | 2019 年 4 月                                      |
 | [Retail Cloud Scale Unit - 複数地域](retail-cloud-scale-unit-multi-region.md)                        | 一般提供 | 2019 年 4 月             |
 | [Retail 更新プログラムの配信](retail-broadcast-updates.md)                                          | 一般提供 | 2019 年 4 月             |

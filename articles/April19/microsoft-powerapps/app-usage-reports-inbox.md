@@ -1,20 +1,20 @@
 ---
 title: 受信トレイ内のアプリ使用状況レポート
 description: 受信トレイ内のアプリ使用状況レポート
-author: evchaki
+author: matthewbolanos
 ms.reviewer: anneta
-ms.date: 01/08/2019
+ms.date: 03/14/2019
 ms.assetid: 9bf5e42d-bcc5-e811-a973-000d3a137a43
 ms.topic: article
 ms.service: business-applications
-ms.author: evchaki
+ms.author: mabolan
 audience: Power user
-ms.openlocfilehash: 872357ec7e929c393197aba2c527fc4284f6317f
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: f17398fb79dc2de933a89e24f63e0586d17d2266
+ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210824"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "900274"
 ---
 # <a name="app-usage-reports-in-your-inbox"></a>受信トレイ内のアプリ使用状況レポート
 

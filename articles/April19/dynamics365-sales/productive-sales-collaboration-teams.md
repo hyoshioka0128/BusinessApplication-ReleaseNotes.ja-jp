@@ -9,12 +9,12 @@ ms.topic: article
 ms.assetid: 1dbeb187-adbf-92bf-c239-8ead1e788b30
 author: ReneeW-CPub
 ms.author: renwe
-ms.openlocfilehash: 5515a8dc1b34538dd5f12277206d260eef7a5b7f
-ms.sourcegitcommit: 0bbb1567f9ea5f74c257d0419b0032edb55d766b
+ms.openlocfilehash: 5bf5eae361270ee7909ea7bfc2bf276aea792353
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/28/2019
-ms.locfileid: "770727"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847716"
 ---
 #  <a name="microsoft-teams-integration"></a>Microsoft Teams 統合 
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]

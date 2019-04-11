@@ -10,12 +10,12 @@ ms.assetid: f3643c06-dd97-40b3-9ad7-d5f653bed30e
 author: bharavar
 ms.author: bharavar
 ms.reviewer: shujoshi
-ms.openlocfilehash: 31cda8c5f68ebd958056bc66995fec60ff71f2bb
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: a26b028ff1ef1928af2a77ede065faf403804fa7
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210489"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847526"
 ---
 #  <a name="robust-customer-insights-from-more-data-providers"></a>より多くのデータ プロバイダーから得られる堅牢な顧客分析情報 
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]

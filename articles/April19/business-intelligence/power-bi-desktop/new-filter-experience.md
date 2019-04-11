@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: kimani
 ms.reviewer: mihart
-ms.openlocfilehash: ceb0100ac7a01dc9ac440fc0be06e273cb1686cb
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: e4b5e2d5bf10c16f142c9051df696632cbc6b868
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287830"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849857"
 ---
 # <a name="new-filter-experience"></a>新しいフィルター エクスペリエンス
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
@@ -55,3 +55,5 @@ ms.locfileid: "287830"
 - [フィルターでの検索オプション](https://ideas.powerbi.com/forums/265200-power-bi-ideas/suggestions/18956419-seaech-option-in-filters)
 - [フィルターの非表示](https://ideas.powerbi.com/forums/265200-power-bi-ideas/suggestions/17936422-more-control-over-report-filters-pane-hide-certa)
 - [ユーザーによるフィルターの変更の禁止](https://ideas.powerbi.com/forums/265200-power-bi-ideas/suggestions/10319553-hide-filters-for-shared-reports-or-prevent-user-fr)
+
+[!include[feedback](../includes/desktop-feedback.md)]

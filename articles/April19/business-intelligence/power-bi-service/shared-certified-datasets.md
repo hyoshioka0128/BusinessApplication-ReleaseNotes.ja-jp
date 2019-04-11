@@ -7,12 +7,12 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: a448eea57ff7f9b93fefec5c84b9ace424992ec8
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: c5795afae06342c25462a4f94359f1472353f361
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211047"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849571"
 ---
 # <a name="shared-and-certified-datasets"></a>共有データセットと認定データセット
 
@@ -27,3 +27,4 @@ Power BI の共有データセットを使用すれば、ワークスペース�
 
 ![共有データセットと認定データセット](media/shared-certified-datasets-1.png "共有データセットと認定データセット")
 
+[!include[feedback](../includes/service-feedback.md)]

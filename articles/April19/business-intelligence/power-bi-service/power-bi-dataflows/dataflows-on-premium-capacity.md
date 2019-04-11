@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: antonfrMSFT
 ms.reviewer: mihart
-ms.openlocfilehash: c383878ff3c8824f1512483dfc8ff56c6c2665b3
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: b9b817e1b8ea3e3c3cad64cd64d5b23e8676ae50
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210291"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849802"
 ---
 # <a name="dataflows-on-premium-capacity"></a>Premium 容量に対するデータフロー
 [!include[business-intelligence banner](../../../includes/business-intelligence.md)]
@@ -23,3 +23,4 @@ Power BI 管理者は、データフローを含むワークスペースを Prem
 
 Premium 容量でホストされているデータフローは、計算されたエンティティ、リンクされたエンティティ、増分更新などの高度な機能をサポートします。
 
+[!include[feedback](../../includes/service-feedback.md)]

@@ -7,49 +7,17 @@ ms.date: 01/21/2018
 ms.topic: article
 ms.service: business-applications
 ms.author: anasyash
-ms.openlocfilehash: a756740b9f514b6a4ba7e89477b06b1029839994
-ms.sourcegitcommit: 64d4ab0a574d9b68931a7533fe6d0b5226d81bbf
+ms.openlocfilehash: 0a364bc7e85e001333ac05d06084901fe835f282
+ms.sourcegitcommit: 560c1b626b40ff3c51450183b6201cfc589b49e3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "289191"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "890808"
 ---
 # <a name="additional-russian-localization-features"></a>ロシア語にローカライズされた追加機能
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-次の機能がロシア語にローカライズされて追加されます。
-
-|**月**|**機能**|
-|----|----|
-|2019 年 4 月|- キャッシュ フロー管理<br></br>- その他の収入と支出の利益税登録<br></br>- 加工業者のローカライズ<br></br>- アルコール販売の仕訳帳<br></br>- 電子形式の利益税申告<br></br>- 電子形式の会計申告<br></br>- 運送税登録と電子形式の申告<br></br>- バージョン 5.06 の土地税登録と電子形式の申告 (2018 年より)<br></br>- バージョン 5.05 の評価税登録と電子形式の申告 (2019 年より)<br></br>- バージョン 5.06 の電子形式での VAT 申告 (2019 年より)<br></br>- 電子形式での売上仕訳帳、購買帳簿仕訳帳、Facture 仕訳帳 (2019 年より) |
-|2019 年 5 月|- 電子形式でのアルコール販売申告<br></br>- 商品の輸入での電子形式の間接税申告 |
-
-
-**キャッシュ フロー管理**
-
-この機能では次のことを実行できます。
-
-- キャッシュ フロー予測を取得して分析を実行する。
-- 支払スケジュール仕訳帳を使用して毎日の支払いを管理する。
-- 会社の現金持高を管理する。
-- 会社のキャッシュ フローを一元管理する。
-
-**その他の収入と支出の利益税登録**
-
-次の税登録を使用できます。
-
-- 当期収入
-- 税経費 
-- 当期のその他費用
-- 当期の未実現費用
-- その他未実現費用
-
-**加工業者のローカライズ**
-
-次の 2 つの分野で基本的なローカライズを利用できます。 
-
-- 一般会計勘定のすべての新規転記の通知
-- PI 機能をロシアの国の状況に合わせた機能的共存
+次のロシア語ローカライズ機能の追加が計画されています。
   
 **アルコール販売の仕訳帳**
 

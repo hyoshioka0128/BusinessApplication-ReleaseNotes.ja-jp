@@ -2,7 +2,7 @@
 title: Dynamics 365 for Sales の新機能と予定されている機能 (2019 年 4 月)
 description: このトピックは、2019 年 2 月 から 2019 年 3 月までの間にプレビューになり、2019 年 4 月から 2019 年 9 月までの間にリリース予定の機能の一覧を示します。
 keywords: ''
-ms.date: 02/18/2019
+ms.date: 03/20/2019
 ms.service:
 - business-applications
 ms.topic: article
@@ -10,12 +10,12 @@ ms.assetid: 72f00658-576a-4962-9ba3-cd3564278cff
 author: bharavar
 ms.author: bharavar
 ms.reviewer: shujoshi
-ms.openlocfilehash: aaceef495021bb3a218dbfca480f9cff73f1ac15
-ms.sourcegitcommit: 048d3b6acce7689cc329d57ae6227c003153923c
+ms.openlocfilehash: f12dec8f9fe2f2fb306926e2272f2b3ee286bbc0
+ms.sourcegitcommit: 4db495226091126eecdfb6795702b2d7a4c22a3d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "403557"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "881212"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-for-sales"></a>Dynamics 365 for Sales の新機能と予定されている機能
 
@@ -31,9 +31,9 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 
 | 機能         | リリースの種類         | 日付 |
 |-------------------------------|----------------------|----------------------|
-| [標準の LinkedIn プロファイルと簡略化された Sales Navigator のインストール](intelligent-social-selling-relationship-sales-mrs.md) | 一般提供 | 2019 年 4 月           |
+| [簡単になった Sales Navigator のインストール](intelligent-social-selling-relationship-sales-mrs.md) | 一般提供 | 2019 年 4 月           |
 | [より多くのデータ プロバイダーから得られる堅牢な顧客分析情報](robust-customer-insights-more-data-providers.md)                      | 一般提供 | 2019 年 4 月           |
-| [Microsoft Teams の統合 (Relationship Assistant を含む)](productive-sales-collaboration-teams.md)              | 一般提供 | 2019 年 4 月           |
+| [Microsoft Teams 統合](productive-sales-collaboration-teams.md)              | 一般提供 | 2019 年 4 月           |
 | [コンテンツのレコメンデーションを含むプレイブックの機能強化](content-recommendation-sales-playbook.md)                    | パブリック プレビュー<br>一般提供 | 2019 年 3 月 4 日<br>2019 年 4 月           |
 | [価格見積作成ツールとのシームレスな統合エクスペリエンス](seamless-configure-price-quote-integrated-experience.md)        | 一般提供 | 2019 年 4 月           |
 | [手動売上予測によって収益を正確に見積もり、情報に基づいた意思決定を実行する](simple-forecasting-effective-sales-performance-management.md)            | パブリック プレビュー | 2019 年 4 月           |

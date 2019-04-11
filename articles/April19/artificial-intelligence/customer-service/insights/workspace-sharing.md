@@ -7,15 +7,15 @@ ms.topic: article
 ms.service: business-applications
 ms.author: xiaoying
 ms.reviewer: v-stsau
-ms.openlocfilehash: c7d4389d503c04fced9a63ceebd618162744acbc
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 909dd2d866860b0d2cb35e7448565a0b7ac38fe2
+ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210523"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "843581"
 ---
 # <a name="share-insights-and-workspaces-with-co-workers"></a>同僚と分析情報やワークスペースを共有する
-[!include[customer-service banner](../../../includes/customer-service.md)]
+[!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]
 
 
 自分のワークスペースにアクセスするよう他のユーザーを招待することで、分析情報を組織全体で共有することができます。

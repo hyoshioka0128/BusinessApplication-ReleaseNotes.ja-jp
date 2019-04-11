@@ -7,12 +7,12 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: 589e7adf4ee7869193b92baf79e66dde4831861c
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: e3ed56ed51e0eb681baafa25e76e258ea3fe3157
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210715"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849538"
 ---
 # <a name="app-navigation"></a>アプリ ナビゲーション
 
@@ -23,3 +23,4 @@ ms.locfileid: "210715"
 ![レポート利用者のための簡単なナビゲーション](media/app-navigation-1.png "レポート利用者のための簡単なナビゲーション")
 <!-- picture -->
 
+[!include[feedback](../includes/service-feedback.md)]

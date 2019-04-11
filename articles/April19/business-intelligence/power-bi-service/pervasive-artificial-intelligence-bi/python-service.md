@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mohaali
 ms.reviewer: mihart
-ms.openlocfilehash: af376f29e551fa2548ec92afb4575fb286d2fa07
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 31274ccb14f29f7ef24fbd76211749bdfd6926d7
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210258"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849582"
 ---
 # <a name="python-support-in-the-service"></a>サービスでの Python のサポート
 
@@ -21,3 +21,5 @@ ms.locfileid: "210258"
 Power BI により、アナリストやデータ サイエンティストは Power BI Desktop 内で Python のスクリプトと Python のビジュアルを活用できます。
  
 Python の新しいビジュアルのサポートにより、ダッシュボードやレポートの利用者が Python で生成されたビジュアルを見ることができます。 まずは Python バージョン 3.x に対応することから始め、Python で最も一般的に使用されている 5 つのパッケージをサポートし、その後その 1 年にわたってこの機能の拡張を継続する予定です。
+
+[!include[feedback](../../includes/service-feedback.md)]

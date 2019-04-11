@@ -2,18 +2,18 @@
 title: Common Data Model とデータ統合の新機能と予定されている機能 (2019 年 4 月)
 description: Common Data Model とデータ統合の新機能の概要
 author: theresapalmer
-ms.date: 01/21/2019
+ms.date: 03/07/2019
 ms.assetid: 5f0ee2c1-29a8-4aa1-abd9-a0f4ab7018ad
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 ms.reviewer: deonhe
-ms.openlocfilehash: 8b5ffba71c5f6f9c129993867b74385c14827857
-ms.sourcegitcommit: ca9feb07bc4f4050b7621ba462eb0d3ad5cd8359
+ms.openlocfilehash: 5f3ba354be3dc1a860770efa82751b17648c4399
+ms.sourcegitcommit: 03de13679b4a53812274475e957d0124e6f4dd35
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "390034"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "838260"
 ---
 # <a name="whats-new-and-planned-for-common-data-model-and-data-integration"></a>Common Data Model とデータ統合の新機能と予定されている機能
 
@@ -110,9 +110,8 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 |------------------------------------------------------------------------------------------------------------------------------|----------------------|----------------------|
 | [OOTB 認定カスタム データ コネクタのサポート (拡張性サポート)](gateway.md#on-premises-data-gateway-supports-out-of-box-certified-data-connectors)                                 | パブリック プレビュー | 2019 年 4 月           |
 | [オンプレミスのデータ ソース用の複数の資格情報](gateway.md#on-premises-data-gateway-supports-out-of-box-certified-data-connectors)                                                   | 一般提供 | 2019 年 6 月           |
-| [テナント間のゲートウェイ管理](gateway.md#gateway-administration-across-a-tenant)                                                    | 一般提供 | 2019 年 4 月           |
-| [ゲートウェイ管理の改善](gateway.md#management-enhancements)                                                        | パブリック プレビュー | 2019 年 4 月           |
+| [テナント間のゲートウェイ管理](gateway.md#gateway-administration-across-a-tenant)                                                    | パブリック プレビュー | 2019 年 4 月           |
+| [ゲートウェイ管理の改善](gateway.md#management-enhancements)                                                        | パブリック プレビュー | 2019 年 5 月           |
 | [改善された信頼性、サポート性、診断](gateway.md#improved-reliability-supportability-and-diagnostics)                                | 一般提供 | 2019 年 4 月           |
-| [SAP BW アプリケーションおよびメッセージ サーバー用の Power BI サービス内の (オンプレミス データ ゲートウェイ経由の) SAP BW シングル サインオン (Kerberos)](gateway.md#sap-bw-single-sign-on-kerberos-in-power-bi-service-via-on-premises-data-gateway-for-sap-bw-application-and-message-server)  | 一般提供 | 2019 年 4 月           |
-| [Power BI サービス内の (オンプレミス データ ゲートウェイ経由の) SAP HANA シングル サインオン (SAML)](gateway.md#sap-hana-single-sign-on-saml-in-power-bi-service-via-on-premises-data-gateway)                                            | 一般提供 | 2019 年 4 月           |
-| [開発者署名のカスタム コネクタのサポート](gateway.md)                                                                               | パブリック プレビュー       | 2019 年 4 月           |
+| [SAP BW アプリケーションおよびメッセージ サーバー用の Power BI サービス内の (オンプレミス データ ゲートウェイ経由の) SAP BW シングル サインオン (Kerberos)](gateway.md#sap-bw-single-sign-on-kerberos-in-power-bi-service-via-on-premises-data-gateway-for-sap-bw-application-and-message-server)  | パブリック プレビュー | 2019 年 4 月           |
+| [Power BI サービス内の (オンプレミス データ ゲートウェイ経由の) SAP HANA シングル サインオン (SAML)](gateway.md#sap-hana-single-sign-on-saml-in-power-bi-service-via-on-premises-data-gateway)                                            | パブリック プレビュー | 2019 年 4 月           |

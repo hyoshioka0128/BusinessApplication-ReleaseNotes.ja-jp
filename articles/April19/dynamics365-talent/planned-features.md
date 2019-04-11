@@ -2,18 +2,18 @@
 title: Talent の新機能と予定されている機能 (2019 年 4 月)
 description: Talent の新機能の概要
 author: josaw1
-ms.date: 01/21/2019
+ms.date: 03/08/2019
 ms.assetid: 22d14c6a-0c1c-4589-9f6d-c82799b680a9
 ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.reviewer: josaw
-ms.openlocfilehash: 8f4926d54daad45ba765ecf8af04916ca075e301
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: c72e617cb03147f0bf74ccc4d7baef0b7229003a
+ms.sourcegitcommit: 6c2bdf79defba9110d0d4a6921a3272ba46267bb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210309"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "901121"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-for-talent"></a>Dynamics 365 for Talent の新機能と予定されている機能
 
@@ -36,31 +36,29 @@ be published in the right edition of the release notes (October 2018 vs. April
 | 機能                                            | リリースの種類         | 日付 |
 |----------------------------------------------------|----------------------|----------------------|
 | **網は幅広く、絞り込みは迅速に**                          |                      |                      |
-| [より多くのサイトに求人を簡単に掲載できる](attract/easily-post-jobs-more-sites.md)                | 一般提供 | 2019 年 4 月           |
-| [キャリア サイトを通じて候補者のエンゲージメントを高める](attract/improve-candidate-engagement-via-career-site.md)    | パブリック プレビュー | 2019 年 4 月           |
+| [Broadbean を使用してより多くのサイトに求人を簡単に掲載できる](attract/easily-post-jobs-more-sites.md)                | パブリック プレビュー | 2019 年 4 月           |
+| [キャリア サイトを通じて候補者のエンゲージメントを高める](attract/improve-candidate-engagement-via-career-site.md)    | 一般提供 | 2019 年 7 月           |
 | [ソースの追跡機能](attract/track-job-site-return-investment-candidate-origin.md)      | パブリック プレビュー | 2019 年 3 月           |
-| [1 回のクリックで複数の候補者に対して管理アクションを実行する](attract/take-administrative-actions-multiple-candidates-single-click.md)    |パブリック プレビュー| 2019 年 3 月      |
+| [1 回のクリックで複数の候補者に対して管理アクションを実行する](attract/take-administrative-actions-multiple-candidates-single-click.md)    |パブリック プレビュー| 2019 年 5 月      |
 | [カスタマイズ可能なジョブ フォームとプロファイル フォームを作成する](attract/create-customizable-job-profile-forms.md) | パブリック プレビュー | 2019 年 4 月 |
-| [包括的な言語チェッカー](attract/language-bias-analzyer.md)          | パブリック プレビュー | 2019 年 6 月           |
-| [候補者の前歴 (社内または社外) に対応したカスタム採用ワークフローの作成](attract/create-custom-recruiting-workflows-that-map-candidate-origin-internal-vs-external.md) | パブリック プレビュー| 2019 年 2 月           |
-| [検索機能の強化](attract/search-enhancements.md) | パブリック プレビュー | 2019 年 2 月           |
-| [候補者評価ソリューションとすぐに統合できる](attract/provide-OOB-integration-with-a-candidate-assessment-solution.md)  | パブリック プレビュー | 2019 年 4 月           |
+| [候補者の前歴 (社内または社外) に対応したカスタム採用ワークフローの作成](attract/create-custom-recruiting-workflows-that-map-candidate-origin-internal-vs-external.md) | パブリック プレビュー| 2019 年 4 月           |
+| [検索機能の強化](attract/search-enhancements.md) | パブリック プレビュー | 2019 年 4 月           |
+| [Microsoft Forms Pro とそのまま統合できる](attract/provide-OOB-integration-with-a-candidate-assessment-solution.md)  | パブリック プレビュー | 2019 年 4 月           |
 | [次点の候補者を追跡する](attract/silver-medalists.md)   | パブリック プレビュー | 2019 年 3 月|
 | **分析とアクション**                            |                      |                      |
 | [分析を通じて採用プロセスに関する分析情報を得る](attract/use-analytics-hiring-process-insights.md)     | パブリック プレビュー | 2019 年 4 月           |
 | **社内モビリティ**                              |                      |                      |
 | [社内候補者のパイプラインを編成する](attract/organize-internal-candidate-pipeline.md)       | パブリック プレビュー | 2019 年 3 月 |
 | **LinkedIn との組み合わせでより効果的に**                  |                      |                      |
-| [LinkedIn のプロフィールを使用して求人に応募する](attract/use-linkedin-profile-apply-job.md)            | 一般提供 | 2019 年 4 月           |
-| [LinkedIn 内から直接求人に応募する](attract/use-linkedin-profile-apply-job.md)      | パブリック プレビュー | 2019 年 4 月           |
+| [LinkedIn のプロフィールを使用して求人に応募する](attract/use-linkedin-profile-apply-job.md)            | パブリック プレビュー | 2019 年 4 月           |
 | **ソーシングとタレントのリレーションシップ管理**                 |                      |                      |
-| [候補者に応募を促す](attract/invitations-to-apply-and-marketing-emails.md) | パブリック プレビュー  | 2019 年 6 月  |
-| [タレント プールの機能拡張](attract/talent-pool-enhancements.md)    | パブリック プレビュー | 2019 年 4 月           |
+| [インテリジェントな候補者の推奨](attract/prospect-recommendations.md) | パブリック プレビュー  | 2019 年 3 月  |
+| [見込み候補者への招待状](attract/invitations-to-apply-and-marketing-emails.md) | パブリック プレビュー  | 2019 年 7 月  |
+| [タレント プールの機能拡張](attract/talent-pool-enhancements.md)    | パブリック プレビュー | 2019 年 5 月           |
 | **管理とコンプライアンスの強化**     |                      |                      |
 | [採用プロセスを監査する](attract/audit-your-hiring-process.md)   | パブリック プレビュー | 2019 年 5 月           |
 | [候補者との連絡用にカスタマイズされた電子メール テンプレートとアカウントを作成する](attract/create-customized-e-mail-templates-accounts-candidate-communications.md)          | パブリック プレビュー | 2019 年 6 月           |
-| [組織のニーズに合わせて採用プロセスをカスタマイズする](attract/customizable-hiring-process.md)   | パブリック プレビュー | 2019 年 5 月           |
-| [オファーの準備期間を短くする](attract/faster-offer-preparation.md)  | 一般提供  | 2019 年 4 月  |
+| [生産性向上のために採用プロセスのカスタマイズ](attract/customizable-hiring-process.md)   | パブリック プレビュー | 2019 年 6 月           |
 
 ##  <a name="onboard"></a>Onboard
 

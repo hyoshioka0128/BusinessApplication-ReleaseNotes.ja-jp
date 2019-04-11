@@ -2,17 +2,17 @@
 title: プレビュー段階にある Dynamics 365 Guides の新機能と予定されている機能 (2019 年 4 月)
 description: プレビュー段階にある Dynamics 365 Guides の 2019 年 4 月の更新プログラムで予定されている機能
 author: algodin
-ms.date: 02/24/2019
+ms.date: 03/26/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
-ms.openlocfilehash: 8304437989af65fd53fd72c13745f428029ed415
-ms.sourcegitcommit: 3b7a54a3a84a1b4624816943746e53e55464e914
+ms.openlocfilehash: 34b4cc4520ce2e8583011e0c88dbea9c3c3403e8
+ms.sourcegitcommit: 56da54f49110c36800b0d7264c98c3294a53a8db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "772134"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "898626"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-guides-in-preview"></a>プレビュー段階にある Dynamics 365 Guides の新機能と予定されている機能
 
@@ -45,8 +45,8 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 |-------------------------------------------------------------------------------|----------------------|----------------------|
 | [合理化されたホログラムの配置と操作](streamlined-hologram-placement.md)    | パブリック プレビュー  | 2019 年 2 月 24 日       |
 | [3D アセットのスタイルによる強調の追加](styles.md)               | パブリック プレビュー      | 2019 年 2 月 24 日             |
-| [2 つの配置方法から選択](alignment.md)                               | パブリック プレビュー      | 2019 年 2 月 24 日             |
-
+| [2 つの配置方法から選択](alignment.md)                               | パブリック プレビュー      | 2019 年 2 月 24 日|
+| [3D モデルの複製 (および削除)](copy-models.md)|パブリック プレビュー|2019 年 3 月 26 日|
 
 ## <a name="operating-on-hololens"></a>HoloLens での操作
  

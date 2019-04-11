@@ -10,12 +10,12 @@ ms.assetid: 8eea44be-0dea-efc4-6189-1ec561e2290c
 author: Karthik55217
 ms.author: Karthig
 ms.reviewer: anjgup
-ms.openlocfilehash: b120e9513c7a5169fe80dbb11170e7b70ea9e2d8
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 01c9fc4901ec2c357a3856d88b3c5d695b5c2698
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210880"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847705"
 ---
 #  <a name="knowledge-management-analytics"></a>ナレッジ マネージメントの分析
 [!include[service banner](../../includes/service.md)]

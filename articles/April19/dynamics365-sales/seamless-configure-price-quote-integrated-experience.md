@@ -10,12 +10,12 @@ ms.assetid: 1ef1155a-bfd6-aaa2-4cd1-f4016b81d268
 author: bharavar
 ms.author: bharavar
 ms.reviewer: shujoshi
-ms.openlocfilehash: 8a4423894bb5ff84e22cd5b71f52b3a1c98f2b29
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: b4a0db1cdf506969ee2491d07d2622d92ca0197e
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210296"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847262"
 ---
 #  <a name="seamless-configure-price-quote-integrated-experience"></a>価格見積作成ツールとのシームレスな統合エクスペリエンス 
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -42,7 +42,7 @@ Dynamics 365 for Sales では、優れた CPQ ソリューション プロバイ
 
 -   営業担当者は、CPQ ソリューション プロバイダーのサービスを複数の Microsoft サービスを統合することで、イマーシブで直感的な製品構成を体験できるようになります。
 
--   Common Data Service (CDS) for Apps をデータの接着剤として使用し、選択した CPQ ソリューション プロバイダーと Dynamics 365 for Sales をシームレスに統合することで、Dynamics 365 Backoffice アプリケーション (Dynamics 365 for Finance and Operations および Dynamics 365 Business Central) によって生成された製品カタログデータを読み取ると共に、見積もり、値引き、および製品構成データを書き戻すことができます。これにより、複数のソースから取得したデータ上にインテリジェントな分析アプリケーションを構築することができます。
+-   Common Data Service (CDS) for Apps をデータの接着剤として使用し、選択した CPQ ソリューション プロバイダーと Dynamics 365 for Sales をシームレスに統合することで、Dynamics 365 Backoffice アプリ (Dynamics 365 for Finance and Operations および Dynamics 365 Business Central) によって生成された製品カタログデータを読み取ると共に、見積もり、値引き、および製品構成データを書き戻すことができます。これにより、複数のソースから取得したデータ上にインテリジェントな分析アプリケーションを構築することができます。
 
 
 > [!NOTE]

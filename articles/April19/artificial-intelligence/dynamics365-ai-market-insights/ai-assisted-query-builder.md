@@ -2,17 +2,17 @@
 title: AI 支援クエリ ビルダー
 description: Market Insights に対する関連検索トピックの作成を AI で支援します。
 author: m-hartmann
-ms.date: 01/21/2019
+ms.date: 03/20/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: mhart
 ms.reviewer: m-hartmann
-ms.openlocfilehash: d6ef6e395577edb175a4ef4bda433b344c26c50b
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 920f89b009e611a551a42a7cec815bc44803943c
+ms.sourcegitcommit: 4db495226091126eecdfb6795702b2d7a4c22a3d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287157"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "881190"
 ---
 #  <a name="ai-assisted-query-builder"></a>AI 支援クエリ ビルダー
 [!include[dynamics365-ai-market-insights banner](../../includes/dynamics365-ai-market-insights.md)]
@@ -29,9 +29,6 @@ ms.locfileid: "287157"
 
 その結果、インサイト生成の関連性とコストは、ノイズのカットと適切な検索の設定に大きく依存します。
 
-Microsoft の AI 支援クエリ ビルダーはこの核心的な問題を解決します。 ユーザーが検索語を入力し始めると、最も関連性の高い候補の語が表示されます。 たとえば、ユーザーが「Eagle」と入力した場合、"American Eagle" (衣料品ブランド)、"Eagles" (音楽バンド)、"Philadelphia Eagles" (フットボール チーム) などから選択できます。 AI 支援クエリ ビルダーは、選択候補として関連性の高いブランド、製品、エンティティのリストをユーザーに提供することにより、検索設定の認知的負荷を軽減し、検索の設定にかかる時間を短縮して、インサイトにより多くの時間を費やすことができるようにします。
+![支援クエリの入力候補](media/assisted-query-list.png "支援クエリの入力候補")
 
-次のサンプル画面は、ユーザーが「Con」と入力し始めたときのエクスペリエンスです。 "Contoso Ltd." を選択すると、 結果はそれに関連のあるものになり、他の "Con" 関連のノイズは除外されます。
-
-![検索語句を入力したときの検索結果](media/assisted-query-suggestions.png "検索語句を入力したときの検索結果")
-
+Microsoft の AI 支援クエリ ビルダーはこの核心的な問題を解決します。 ユーザーが検索語を入力し始めると、最も関連性の高い候補の語が表示されます。 たとえば、ユーザーが「Eag」と入力し始めると、"Eagle" (鳥)、""Philadelphia Eagles" (フットボール チーム)、"Eagle Scout" (ボーイスカウト) などから選択できます。 AI 支援クエリ ビルダーは、選択候補として関連性の高いブランド、製品、エンティティのリストをユーザーに提供することにより、検索設定の認知的負荷を軽減し、検索の設定にかかる時間を短縮して、インサイトにより多くの時間を費やすことができるようにします。

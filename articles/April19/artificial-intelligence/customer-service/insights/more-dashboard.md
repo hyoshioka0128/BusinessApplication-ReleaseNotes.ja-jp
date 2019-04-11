@@ -7,15 +7,15 @@ ms.topic: article
 ms.service: business-applications
 ms.author: xiaoying
 ms.reviewer: v-stsau
-ms.openlocfilehash: d6fe1f5dcc01f09f7b59155ba165649901419f34
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 9cadc3b29254924f741249390ec9ceed9d5a7b88
+ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211084"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "843548"
 ---
 # <a name="agent-overview-escalated-cases-and-sla-compliance-dashboards"></a>エージェントの概要、エスカレートされたサポート案件、および SLA コンプライアンス ダッシュボード
-[!include[customer-service banner](../../../includes/customer-service.md)]
+[!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]
 
 
 パブリック プレビューのときから使用できる KPI サマリー、受け付けたサポート案件、サポート案件の解決、顧客満足度に関する既存のダッシュボードに加えて、ユーザーは、エージェントのパフォーマンス、エスカレートされたサポート案件、サービス レベル アグリーメント (SLA) のコンプライアンスについても、コンテキストに応じた分析情報を取得できます。

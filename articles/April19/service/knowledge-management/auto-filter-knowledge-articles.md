@@ -11,16 +11,16 @@ author: Karthik55217
 ms.author: Karthig
 ms.reviewer: anjgupta
 audience: Admin
-ms.openlocfilehash: e297efd83f39c19c4d34e8c0bfa58429b9e39532
-ms.sourcegitcommit: 5a7459fc91c2cfa410b32eb645c89aff41ed8e8f
+ms.openlocfilehash: e3047b3fc4dfdc0185886fcaed7a5e4182ab188f
+ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "391630"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "844388"
 ---
 # <a name="automatic-filtering-of-knowledge-articles"></a>ナレッジ記事の自動フィルタリング
 
-[!include[banner](../../../includes/banner.md)]
+
 
 管理者は、エージェントからの手動入力なしで、サポート案件データに基づいてナレッジ記事を自動的にフィルタリングするように、サポート情報の検索制御を構成できます。
 
