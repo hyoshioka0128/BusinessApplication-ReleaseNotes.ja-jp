@@ -3,18 +3,18 @@ title: ソリューション チェック機能の改善
 description: ソリューション チェック機能の改善
 author: aheaney
 ms.reviewer: anneta
-ms.date: 01/09/2019
+ms.date: 03/14/2019
 ms.assetid: e19ded1b-bdc5-e811-a973-000d3a137a43
 ms.topic: article
 ms.service: business-applications
 ms.author: aheaney
 audience: Power user
-ms.openlocfilehash: 6c2781610d9d53c57a6027d79a76fdee53be52e9
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: b5d9325adde74a80a74cdf7a38dc32262dc211bf
+ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211040"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "900153"
 ---
 # <a name="improved-solution-checking-capabilities"></a>ソリューション チェック機能の改善
 

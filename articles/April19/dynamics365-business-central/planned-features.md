@@ -8,12 +8,12 @@ ms.service: business-applications
 ms.author: edupont
 audience: Admin
 ms.date: 02/26/2019
-ms.openlocfilehash: 110025e5557afef0c8790a91868753f0a525aabb
-ms.sourcegitcommit: 5cb7a4f98abbe497eac9d76cfae5cc0170e28cd9
+ms.openlocfilehash: 295c9937ac6143348e0d40cf5a35a832f24216c1
+ms.sourcegitcommit: b9117e0a006fe421a672a4f6a7fbf0276efbddfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/26/2019
-ms.locfileid: "760864"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "878424"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-business-central"></a>Dynamics 365 Business Central の新機能と予定されている機能
 
@@ -69,6 +69,28 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [新しい リスト ビュー API](list-views.md) | 一般提供 | 両方 | 2019 年 4 月 |
 | [アプリとしての申請](visual-studio-code-and-al.md) | 一般提供 | 両方 | 2019 年 4 月 |
 | [標準 Web API](standard-web-apis.md) | 一般提供 | 両方 | 2019 年 4 月 |
+
+## <a name="performance-improvements"></a>パフォーマンスの向上
+
+| 機能 | リリースの種類 | オンラインとオンプレミス |日付 |
+|---------|--------------|-----------------------|-------|
+| [SQL Server データ圧縮のサポート](sql-compression.md) |一般提供 | 両方 | 2019 年 4 月 | 
+| [SQL Server のパフォーマンスを最適化するためのクエリ ヒントの構成](removal-of-query-hints.md) | 一般提供 | 両方 | 2019 年 4 月 |
+| [不要な付属テーブルの結合の削除](no-join-when-counting.md) | 一般提供 | 両方 | 2019 年 4 月 |
+| [OData のパフォーマンスの向上](odata-performance-improvements.md) | 一般提供 | 両方 | 2019 年 4 月 |
+| [サンドボックスでの RDLC レポートのパフォーマンスの向上](reporting-performance-on-sandboxes.md) | 一般提供 | クラウド | 2019 年 4 月 |
+| [イベント ランタイムの最適化](event-runtime-optimizations.md) | 一般提供 | 両方 | 2019 年 4 月 |
+| [ラピッドスタートの最適化](optimize-rapidstart.md)| 一般提供 | 両方 | 2019 年 4 月 |
+| [Power BI レポートの向上](power-bi-report-performance-improvements.md) | 一般提供 | 両方 | 2019 年 4 月 |
+| [アプリケーションのパフォーマンスの向上](application-performance-improvements.md) | 一般提供 | 両方 | 2019 年 4 月 |
+
+## <a name="server-improvements"></a>サーバーの改善
+
+| 機能 | リリースの種類 | オンラインとオンプレミス |日付 |
+|---------|--------------|-----------------------|-------|
+| [複数の固有キー](multiple-unique-indexes.md) |一般提供 | 両方 | 2019 年 4 月 |
+| [8 KB 行サイズの要件の緩和](relax-requirement-of-8k-row-size.md) | 一般提供 | 両方 | 2019 年 4 月 |
+| [テキストおよびコード フィールド、変数、およびテキスト定数の最大長の増加](max-length-of-variable-length-table-fields-has-been-expanded.md) | 一般提供 | 両方 | 2019 年 4 月 |
 
 ## <a name="see-also"></a>関連項目
 

@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: mikebc
 audience: administrator
-ms.openlocfilehash: 41ae5cac8dbcd672696d295dc2d4fee7e48a60e6
-ms.sourcegitcommit: 5cb7a4f98abbe497eac9d76cfae5cc0170e28cd9
+ms.openlocfilehash: 77fb615e1425b6c1b1d30ace3aed07689dcd17af
+ms.sourcegitcommit: b9117e0a006fe421a672a4f6a7fbf0276efbddfa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/26/2019
-ms.locfileid: "760934"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "878406"
 ---
 # <a name="customize-the-theme-for-your-organization"></a>組織のテーマのカスタマイズ
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

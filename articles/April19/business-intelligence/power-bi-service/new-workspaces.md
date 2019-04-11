@@ -7,19 +7,15 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: fb51ea22730b1af175e460af606232dd629447a4
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: aaf639981f245a1a658e59de395bb16beee56371
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210838"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849846"
 ---
 #  <a name="improvements-to-power-bi-workspaces"></a>Power BI ワークスペースの機能向上
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
-
-
-
-
 
 2018 年 8 月にリリースされた新しい Power BI ワークスペースのプレビューでは、次のことが可能になりました。
 
@@ -42,3 +38,5 @@ ms.locfileid: "210838"
 -   新しいワークスペースでの SharePoint Web パーツのサポート。
 
 -   管理ポータルでの、テナント内のすべてのワークスペースの表示、および所有者がいないワークスペースの回復のサポート。
+
+[!include[feedback](../includes/service-feedback.md)]

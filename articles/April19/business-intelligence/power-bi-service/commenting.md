@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: adamw
 audience: Analyst
-ms.openlocfilehash: 9a35ff5b8d37919bdcd62247ad9ce7d74abd5a07
-ms.sourcegitcommit: 837d0b244af0c46ac2f5e84181ae3e6ec8533c40
+ms.openlocfilehash: 178b60c21c7bafe521aae4346bb92eca9610bffe
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "291067"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849648"
 ---
 # <a name="report-commenting"></a>レポートのコメント
 
@@ -29,3 +29,5 @@ ms.locfileid: "291067"
 また、ダッシュボードとレポートの両方について、ユーザーからのフィードバックに基づいてコメントを更新します。  ユーザーがコメントを残したときに、レポートまたはダッシュボードの所有者を自動的に \@ で参照投稿し、定期的な電子メールのダイジェストを所有者に送信します。これにより、所有者は自分が所有するコンテンツに関する最新のコメントを把握できます。  また、コメント ボタンを更新して、ユーザーに未読のコメントがある場合に表示します。
 
 ![コメントの例](media/report-commenting.jpg "コメントの例")
+
+[!include[feedback](../includes/service-feedback.md)]

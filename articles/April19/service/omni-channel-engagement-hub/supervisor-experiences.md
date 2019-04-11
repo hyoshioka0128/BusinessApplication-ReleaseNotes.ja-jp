@@ -9,12 +9,12 @@ ms.topic: article
 ms.assetid: 5f8359f1-20b4-b057-d621-2603e52da6ad
 author: ReneeW-CPub
 ms.author: renwe
-ms.openlocfilehash: 91a52989476503ad18ece1fe1a7714a2ce5c865c
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: a81deae01735896d585d8903e3a1c1c11aa7beb5
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211085"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847226"
 ---
 #  <a name="supervisor-experiences"></a>スーパーバイザー エクスペリエンス
 [!include[service banner](../../includes/service.md)]

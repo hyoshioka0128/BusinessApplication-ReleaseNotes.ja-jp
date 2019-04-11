@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: kimani
 ms.reviewer: mihart
-ms.openlocfilehash: dfde454004980d7d9710c564556e733738155434
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: ea5dc853abffda2083957a6e0c23428082eda225
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "286799"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849615"
 ---
 # <a name="improved-relationship-view"></a>リレーションシップ ビューの改善
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
@@ -45,3 +45,6 @@ ms.locfileid: "286799"
 ![Power BI Desktop で表示フォルダーを作成できる](media/improved-relationship-view-4.png "Power BI Desktop で表示フォルダーを作成できる")
 <!-- picture -->
 *Power BI Desktop で表示フォルダーを作成できる*
+
+
+[!include[feedback](../includes/desktop-feedback.md)]

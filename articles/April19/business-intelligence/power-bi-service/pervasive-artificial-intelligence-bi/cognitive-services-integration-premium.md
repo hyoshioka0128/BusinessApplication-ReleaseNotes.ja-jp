@@ -6,12 +6,12 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: 608d54cf9e067749c74a54c87671062ffac8cbf8
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 41c6b1b2d6c36a419d37da571b44aae1e06b4dc0
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "286086"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849725"
 ---
 # <a name="cognitive-services-integration-premium"></a>Cognitive Services の統合 (Premium)
 
@@ -21,3 +21,5 @@ Power BI のユーザーは、インテリジェントなアルゴリズムを�
 
 ![Cognitive Services](media/Cognitive-services-premium.PNG "Cognitive Services の使用")
 <!-- picture -->
+
+[!include[feedback](../../includes/service-feedback.md)]

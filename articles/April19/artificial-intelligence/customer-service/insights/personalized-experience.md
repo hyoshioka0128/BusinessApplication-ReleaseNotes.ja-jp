@@ -7,16 +7,16 @@ ms.topic: article
 ms.service: business-applications
 ms.author: xiaoying
 ms.reviewer: v-stsau
-ms.openlocfilehash: b6540020fa49a0deefc2a7764019d91526d56545
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.openlocfilehash: 88e67d0f5a6b9316d9e1c6c76920f228fa2b1e8c
+ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "404469"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "843680"
 ---
 # <a name="personalize-the-customer-service-insights-experience"></a>Customer Service Insights のエクスペリエンスのパーソナライズ
 
-[!include[customer-service banner](../../../includes/customer-service.md)]
+[!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]
 
 
 顧客サービス管理者は、自身のエクスペリエンスをパーソナライズすることで、関心の高い分野に注力できるようになりました。 一度既定のフィルターを設定すると、セッションを通じてすべてのダッシュボードに一貫して適用されます。

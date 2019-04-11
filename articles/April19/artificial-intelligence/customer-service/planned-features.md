@@ -8,16 +8,16 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ankitsar
 ms.reviewer: shellyha
-ms.openlocfilehash: 066a5c84b197b185792cc1f44202c4ae3ba07318
-ms.sourcegitcommit: cb60b8678619bdabcbea7c0bc29027c5af897b17
+ms.openlocfilehash: 4d8e253d0f3f9dd18327911b44b2187c4d4d4efe
+ms.sourcegitcommit: b97227f8b775dde083240d9d76484b20f84d6a8f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/28/2019
-ms.locfileid: "770533"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "897805"
 ---
 #  <a name="whats-new-and-planned-for-ai-for-customer-service"></a>AI for Customer Service の新機能と予定されている機能
 
-このトピックでは、2019 年 4 月から 2019 年 9 月の間にリリースが計画されている機能の一覧を示します。 一部の機能のプレビューは 2019 年 2 月に開始されます。 
+このトピックでは、2019 年 4 月から 2019 年 9 月の間にリリースが計画されている機能の一覧を示します。 一部の機能のプレビューは 2019 年 2 月に開始されます。
 
 **日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
@@ -28,14 +28,11 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 
 | 機能      | リリースの種類         | 日付                |
 |--------------|----------------------|-------------------------------------|
-| [仮想エージェントを使用して自動化できる大量または新しいサポート トピックを簡単に検出](virtual-agent/discover-topics.md)    | パブリック プレビュー     | 2019 年 4 月                          |
-| [直感的でコードなしのグラフィカル ユーザー エクスペリエンスを使用して仮想エージェントでサポート トピックを自動化する](virtual-agent/intuitive-user-experience.md) | パブリック プレビュー       | 2019 年 4 月                          |
-| [業界で共通のサポート トピックについて事前構築されたテンプレートから始める](virtual-agent/pre-built-templates.md) | パブリック プレビュー       | 2019 年 4 月                          |
-| [実用的なダッシュボードによる仮想エージェントのパフォーマンスの分析と改善](virtual-agent/intuitive-dashboards.md) | パブリック プレビュー| 2019 年 4 月   |
-| [Microsoft Flow を使用したバックエンド システムからのアクションまたはデータへのアクセスの有効化](virtual-agent/using-flow.md) | パブリック プレビュー | 2019 年 4 月|
-| [Dynamics 365 for Customer Service の統合](virtual-agent/customer-service-integration.md)| パブリック プレビュー | 2019 年 4 月|
-| [選択したサポート案件管理およびエージェント メッセージング システムとの統合](virtual-agent/management-messaging-systems.md) | パブリック プレビュー  | 2019 年 4 月    |
-
+| [仮想エージェントを使用して自動化できる大量または新しいサポート トピックを簡単に検出](virtual-agent/discover-topics.md)    | パブリック プレビュー     | 2019 年 5 月                          |
+| [直感的でコードなしのグラフィカル ユーザー エクスペリエンスを使用して仮想エージェントでサポート トピックを自動化する](virtual-agent/intuitive-user-experience.md) | パブリック プレビュー       | 2019 年 5 月                          |
+| [業界で共通のサポート トピックについて事前構築されたテンプレートから始める](virtual-agent/pre-built-templates.md) | パブリック プレビュー       | 2019 年 5 月                          |
+| [実用的なダッシュボードによる仮想エージェントのパフォーマンスの分析と改善](virtual-agent/intuitive-dashboards.md) | パブリック プレビュー| 2019 年 5 月   |
+| [Microsoft Flow を使用したバックエンド システムからのアクションまたはデータへのアクセスの有効化](virtual-agent/using-flow.md) | パブリック プレビュー | 2019 年 5 月|
 
 ## <a name="dynamics-365-customer-service-insights"></a>Dynamics 365 Customer Service Insights
 

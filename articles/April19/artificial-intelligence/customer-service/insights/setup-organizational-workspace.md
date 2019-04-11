@@ -7,15 +7,15 @@ ms.topic: article
 ms.service: business-applications
 ms.author: xiaoying
 ms.reviewer: v-stsau
-ms.openlocfilehash: a0324ba3b59c992fbd2c10ade3723dd5216fdd1e
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: f3d037f232d1107b80d337eb3eed5be387aeb800
+ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210526"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "843735"
 ---
 # <a name="set-up-organizational-workspaces"></a>組織のワークスペースを設定する 
-[!include[customer-service banner](../../../includes/customer-service.md)]
+[!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]
 
 
 管理者エクスペリエンスを使用すると、組織のワークスペースを作成し、ユーザーに特定の権限を付与できます。 組織のワークスペースでは、すべてのユーザーをより包括的に、一貫したビューで表示できます。また、データ プルが統合されるので、Dynamics 365 インスタンスの負荷を軽減できます。 テナント管理者は、一元的なビューで組織内のすべてのワークスペースを確認し、管理することができます。 さらに、サポート対象の地域が増えたことで、顧客データを希望の地域に配置できるようになりました。

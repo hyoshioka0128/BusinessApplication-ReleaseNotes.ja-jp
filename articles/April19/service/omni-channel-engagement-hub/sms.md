@@ -9,12 +9,12 @@ ms.topic: article
 ms.assetid: 69c1d8ef-8cdb-3599-8c39-5b6bf979f1c5
 author: ReneeW-CPub
 ms.author: renwe
-ms.openlocfilehash: bc9cdb8a70b11106559d39b7b5a11f91caedf858
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 6bd4398fd9706737b04ec4f50fb7fea0ff4f3c86
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210917"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847450"
 ---
 #  <a name="sms"></a>SMS
 [!include[service banner](../../includes/service.md)]

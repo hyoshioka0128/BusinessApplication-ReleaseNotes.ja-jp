@@ -7,12 +7,12 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: 443d04cadc59759311092c570cee10a223936b43
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 6d63bfab89099948fb6c099c1678c41343456356
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210671"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "850473"
 ---
 #  <a name="additional-power-bi-geo-regions"></a>Power BI の地理的リージョンの追加
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
@@ -30,3 +30,5 @@ ms.locfileid: "210671"
 -   アラブ首長国連邦北部 (アラブ首長国連邦 \*\*新\*\*)
 
 Power BI の新しいお客様は、テナントの場所に基づいて、これらの新しいリージョンに自動的に配置されます。 既存のお客様は、Power BI Premium Multi-Geo を使用して新しいリージョンを利用できます。
+
+[!include[feedback](../includes/service-feedback.md)]

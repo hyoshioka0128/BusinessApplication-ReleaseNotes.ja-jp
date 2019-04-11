@@ -6,12 +6,12 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: haydnr
-ms.openlocfilehash: 76f54f1770b7c61e61a3c39df7ccd5748ab3d1ac
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 820b7288bc931c30d37db5e3cad2a94c66d9ae80
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287592"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849714"
 ---
 # <a name="azure-machine-learning-integration"></a>Azure Machine Learning の統合
 
@@ -21,3 +21,5 @@ Power BI での Azure Machine Learning 機能の公開方法 (わずかなコー
 
 ![Azure Machine Learning の統合](media/q-follow-up-questions-1.png "Azure Machine Learning の統合")
 <!-- picture -->
+
+[!include[feedback](../../includes/service-feedback.md)]

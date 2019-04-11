@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: HaydnR
 audience: ''
-ms.openlocfilehash: db313f9481e0cd25669c816cf7fe68e6cb86c0fc
-ms.sourcegitcommit: 5872e3919c0ba1c37b6c386baba612b9794b2493
+ms.openlocfilehash: fd0544262a3f8e206496fb43ee206428f71ac395
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "722648"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "850363"
 ---
 # <a name="power-bi-help-and-support-settings"></a>Power BI のヘルプとサポートの設定
 
@@ -29,3 +29,5 @@ ms.locfileid: "722648"
 ![Power BI のヘルプとサポートの設定](media/help-and-support-settings.png "Power BI のヘルプとサポートの設定")
 
 また、ライセンス管理用の社内 Web サイトまたはアプリケーションに Power BI ユーザーを移動させる Power BI ライセンスを取得するためのリンクをカスタマイズすることもできます。 ライセンス要求の URL を指定すると、[アカウントのアップグレード] ボタンのターゲット URL が変わり、Power BI Pro ライセンスを持たないユーザーでも、[Power BI Pro にアップグレードする] ダイアログ ボックスや [パーソナル ストレージの管理] ページで検索できます。 さらに、カスタム ライセンス要求 URL を指定したときに、Power BI ユーザーが組織のライセンス管理ソリューションに確実に移動するよう、Power BI のこのダイアログ ボックスまたはストレージ ページには [Pro を無料でお試しいただけます] ボタンが表示されなくなりました。
+
+[!include[feedback](../includes/service-feedback.md)]

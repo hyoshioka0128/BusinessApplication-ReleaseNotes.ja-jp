@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: kimani
 ms.reviewer: mihart
-ms.openlocfilehash: d3b1e48befbd4ef419b615171391b4d91538684e
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 1d3f7f6e108f76e8da3596098c5b0ff00e2a4081
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "288065"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849703"
 ---
 # <a name="performance-analyzer-for-reports"></a>レポート用パフォーマンス分析機能
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
@@ -23,3 +23,5 @@ ms.locfileid: "288065"
 ![パフォーマンス分析機能](media/perf-analyzer-1.png "パフォーマンス分析機能")
 <!-- picture -->
 *Power BI Desktop のパフォーマンス分析機能*
+
+[!include[feedback](../includes/desktop-feedback.md)]

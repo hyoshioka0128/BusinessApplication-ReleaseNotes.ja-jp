@@ -7,15 +7,17 @@ ms.topic: article
 ms.service: business-applications
 ms.author: antonfrMSFT
 ms.reviewer: mihart
-ms.openlocfilehash: c189e9ba17b814ff1ea461d90d27017a4df299f0
-ms.sourcegitcommit: f68bcf6a5e9e8af2fe1b059dcf447766a35c9498
+ms.openlocfilehash: e41da8d4b1875eb5abfbd15c98263b97560e6283
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "380392"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849879"
 ---
 # <a name="new-diagram-view-to-visualize-dataflow-dependencies"></a>データフローの依存関係を視覚化する新しいダイアグラム ビュー
 
 [!include[business-intelligence banner](../../../includes/business-intelligence.md)]
 
 BI のプロフェッショナルは、データフローを使用して複雑なデータ準備タスクを処理し、リンクされたエンティティと依存関係を使用して作業を再利用できます。 アナリストが簡単にエンティティの相互関連を理解したり、ETL (抽出、変換、読み込み) プロジェクトを管理したりできるよう、データフローの依存関係やエンティティ間の接続を視覚化するための新しいユーザー エクスペリエンスが導入されています。
+
+[!include[feedback](../../includes/service-feedback.md)]

@@ -7,12 +7,12 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: 6e4215e62c2995e47f554eba56cabb3e9d35921a
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 7fa8604e460d8ea166da4e24c0b6f5611d075e7f
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210592"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849758"
 ---
 #  <a name="enhancements-to-email-subscriptions"></a>電子メール サブスクリプションの機能強化
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
@@ -29,4 +29,4 @@ Power BI では既に電子メールのサブスクリプションがサポー�
 
 -   特定の対象ユーザーに合わせてカスタマイズできるように、ページ付けされたレポートに対する電子メール サブスクリプションのフィルターまたはパラメーターの設定。
 
-
+[!include[feedback](../includes/service-feedback.md)]

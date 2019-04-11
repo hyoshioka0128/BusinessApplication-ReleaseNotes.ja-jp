@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: adamw
 ms.reviewer: mihart
-ms.openlocfilehash: 28c2ef0b273e8af25db1493287cada1e66a5f45b
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 2ca028ba77980b4d6eeb51909dd7e6a78cc79c0a
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287527"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "850352"
 ---
 # <a name="automl-binary-and-multinomial-classification-models"></a>AutoML: 2 項分類モデルと多項分類モデル
 
@@ -25,3 +25,4 @@ BI の専門家やデータ アナリストは、Power BI で数回クリック�
 ![AutoML: 2 項分類モデルと多項分類モデル](media/automl-binary-multinomial-classification-models-1.png "AutoML: 2 項分類モデルと多項分類モデル")
 <!-- picture -->
 
+[!include[feedback](../../includes/service-feedback.md)]

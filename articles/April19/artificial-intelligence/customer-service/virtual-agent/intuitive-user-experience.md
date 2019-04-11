@@ -7,18 +7,18 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ''
 ms.reviewer: v-stsau
-ms.openlocfilehash: e9eea2008820f7163846718e1421e4bce87cf26f
-ms.sourcegitcommit: cb60b8678619bdabcbea7c0bc29027c5af897b17
+ms.openlocfilehash: bd192f208a0c0ad5923cd4f8701fc77b249817ff
+ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/28/2019
-ms.locfileid: "770500"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "843504"
 ---
 <!--from editor: Please provide caption info for the screenshots.-->
 
 
 # <a name="automate-support-topics-with-a-virtual-agent-using-an-intuitive-no-code-graphical-user-experience"></a>直感的でコードなしのグラフィカル ユーザー エクスペリエンスを使用して仮想エージェントでサポート トピックを自動化する
-[!include[customer-service banner](../../../includes/customer-service.md)]
+[!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]
 
 
 現在、仮想エージェントの開発と展開には、時間と技術的な専門知識への多大な投資が必要です。 ツールとボット開発フレームワークは開発者向けで、ボットのダイアログ スクリプトはコード行にカプセル化されています。 ボットの開発には、長い開発期間、社内 IT 部門、または外部のシステム インテグレーターの採用が必要です。

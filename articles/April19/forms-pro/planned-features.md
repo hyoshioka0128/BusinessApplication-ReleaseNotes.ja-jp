@@ -7,16 +7,16 @@ ms.reviewer: shjais
 ms.topic: article
 ms.service: business-applications
 ms.author: prateeks
-ms.openlocfilehash: 2fb377e2881402094cf3e731a8843c181b4bf26e
-ms.sourcegitcommit: a75d70c06338341eb5e9e15a3679c07dfcd7fc45
+ms.openlocfilehash: 28025b4835903b63b1c58532e1e88053028c2b5c
+ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "721961"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "844179"
 ---
 #  <a name="whats-new-and-planned-for-microsoft-forms-pro"></a>Microsoft Forms Pro の新機能と予定されている機能 
 
-[!include[banner](../../includes/banner.md)]
+
 
 このトピックでは、2019 年 4 月から 2019 年 9 月の間にリリースが計画されている機能の一覧を示します。 一部の機能のプレビューは 2019 年 2 月に開始されます。
 

@@ -7,16 +7,16 @@ ms.topic: article
 ms.service: business-applications
 ms.author: xiaoying
 ms.reviewer: v-stsau
-ms.openlocfilehash: c7eec0a5a35a2fab9e487d3596d8c5be4d9a5be2
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.openlocfilehash: 5aa033dece0774cbe2b06a2a2ed7230801c170e0
+ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406296"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "843647"
 ---
 # <a name="get-a-combined-overview-of-human-and-virtual-agents"></a>人間のエージェントと仮想エージェントの総合的な概要の把握
 
-[!include[customer-service banner](../../../includes/customer-service.md)]
+[!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]
 
 
 人間のエージェントと仮想エージェント両方の 360 度の視野により、顧客サービス全体のエクスペリエンスが向上します。 トピック トリガー率や人間のエージェントのエスカレーション率など、パフォーマンス指標へのドリルダウンを使用して仮想エージェントをさらに向上させます。

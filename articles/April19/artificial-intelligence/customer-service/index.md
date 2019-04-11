@@ -2,15 +2,20 @@
 title: AI for Customer Service の 2019 年 4 月リリースの概要
 description: AI for Customer Service Insights により、顧客サービス組織に対して、重要なパフォーマンス指標、運用データ、最新トレンドに関するアクション可能なビューが提供されます。
 author: shellyhaverkamp
-ms.date: 02/21/2019
+ms.date: 03/22/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: navrinas
 ms.reviewer: shellyha
+ms.openlocfilehash: bcc35be8461e1bb90d0e4f3d6c2bb5b272b6c33e
+ms.sourcegitcommit: 3cdd8274c1ec917ff14c0e1d26983d68711380f8
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "892300"
 ---
-
 # <a name="overview-of-ai-for-customer-service-april-19-release"></a>AI for Customer Service の 2019 年 4 月リリースの概要
-[!include[customer-service banner](../../includes/customer-service.md)]
+[!include[customer-service banner](../../includes/dynamics365-ai-customer-service.md)]
 
 
 AI for Customer Service の焦点は、人工知能 (AI) の力によって大規模なカスタマー ケアをデジタル的に変革することです。
@@ -27,17 +32,17 @@ Customer Service Insights では、AI テクノロジを使用して、新しく
 
 2019 年 4 月リリースから、Customer Service Insights は一般提供されます。
 
-パブリック プレビュー以降に追加された主な新機能は次のとおりです。
+次のような主な新機能があります。
 
 * **人間のフィードバックに基づく人工知能 (AI) によるサポート トピックのクラスタリングの継続的な改善**: ユーザーは、AI モデルに入力を提供することによって、AI トピックのクラスタリングを改善できます。 トピックの名前を変更したり、トピックを組み合わせたり、トピックを分離したり、クラスターの細分性を制御したりして、AI モデルをビジネスに合わせて調整できるようになりました。
 
 * **顧客サービス エクスペリエンスの 360 度のビューを取得する**: ユーザーは、1 つのダッシュボードに仮想エージェントと人間のエージェントの分析を統合することができます。 この 360 度のビューにより、顧客サービスのエクスペリエンスを総合的に向上させることができます。 また、ユーザーは、エージェントのパフォーマンス、エスカレートされたサポート案件、および SLA への準拠に関する新しいダッシュボードを使用して、詳細なコンテキストに関するインサイトを得ることができます。
 
-* **Salesforce、Zendesk、ServiceNow、またはその他のデータ ソースからのデータの取り込み**: ユーザーは、Salesforce、Zendesk、および ServiceNow のサポート案件データに直接接続利用することにより、Dynamics 365 Customer Service Insights を利用できます。 他のサポート案件管理システムを、ETL を介して Common Data Service for Apps に接続することができます。
+* **Salesforce、Zendesk、ServiceNow、またはその他のデータ ソースからのデータの取り込み**: ユーザーは、Salesforce、Zendesk、ServiceNow などの他のシステムのサポート案件データに接続することにより、Dynamics 365 Customer Service Insights を利用できます。 追加のサポート案件管理システムを、Common Data Service に接続することができます。
 
-* **Dynamics 365 for Customer Service からインサイトを直接取得する**: ユーザーは、埋め込まれたインサイト ダッシュボードを使用して、Dynamics 365 for Customer Service アプリケーション内で直接 Dynamics 365 Customer Service Insights にアクセスできます。 コンテキストを切り替える必要はありません。
+* **Dynamics 365 for Customer Service からインサイトを直接取得する**: ユーザーは、埋め込まれたインサイト ダッシュボードを使用して、Dynamics 365 for Customer Service アプリケーション内で直接 Dynamics 365 Customer Service Insights にアクセスできます。 
 
-* **あらゆる規模の組織に対応**: Dynamics 365 Customer Service Insights では、カスタム エンティティまたはフィールドを使用し、テナント全体のワークスペースを設定することで、コラボレーションや、ダッシュボード共有などの他のエンタープライズ機能を、サポートするようになりました。 サービスが展開される地域が増えています。
+* **あらゆる規模の組織に対応**: Dynamics 365 Customer Service Insights では、コラボレーションと、ダッシュボードの共有、カスタム エンティティやフィールドの使用などの他のエンタープライズ機能が、サポートされるようになりました。 サービスの展開される地域が増え、お客様は自分のデータのより近くで展開を探すことができます。
 
 ## <a name="dynamics-365-virtual-agent-for-customer-service"></a>Dynamics 365 Virtual Agent for Customer Service
 

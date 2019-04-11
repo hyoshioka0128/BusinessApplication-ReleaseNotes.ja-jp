@@ -7,18 +7,15 @@ ms.topic: article
 ms.service: business-applications
 ms.author: adamw
 ms.reviewer: ''
-ms.openlocfilehash: 7d27c38a84800a1b178941a8c6729950fdbeb8f6
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 9510434b61f5aab848f512e1978162b6ed4ce38a
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211078"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849736"
 ---
 # <a name="overview-of-business-intelligence-april-19-release"></a>ビジネス インテリジェンスの 2019 年 4 月リリースの概要
 [!include[business-intelligence banner](../includes/business-intelligence.md)]
-
-
-
 
 このトピックでは、2019 年 4 月リリースのテーマ領域について説明します。 
 
@@ -97,3 +94,5 @@ Power BI は、ユーザーが平易な英語で質問することによって�
 -   顧客とパートナーがビジネスをより早く作成、共有、発売、販売、成長できるようにするための **Power BI サービス アプリ**。 Power BI ユーザーが、分析コンテンツを作成してパッケージ化できる "サービス アプリ作成者" になれるようにします。 結果のパッケージは、AppSource または自己管理型の Web サービスを通じて、他の Power BI テナントに展開できます。 
 
 -   **Power BI Embedded** 分析により、SaaS サービスおよびエンタープライズ ポータルの開発者は、ほんのわずかな時間とコストで、魅力的なインタラクティブ レポートとダッシュボードを埋め込むことができます。 データ モデルのアプリケーション ライフサイクル管理をサポートするためのセキュリティ、スケーラビリティ、および機能を追加して、埋め込み分析をエンタープライズ対応にします。 埋め込み分析とホスティング アプリケーションまたは Web ポータルとの間のやり取りを改善します。 正常性、可用性、および使用状況に関する一般的な Azure ツールと統合することで、リソースを拡張するための容量管理を強化し、監視を改善します。 また、Power BI を Visual Studio に組み込んで、開発者が簡単に Power BI のコードを統合し、アプリケーションを短時間で出荷できるようにします。
+
+[!include[feedback](includes/service-feedback.md)]

@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: kimani
 ms.reviewer: mihart
-ms.openlocfilehash: 22bc4b483ad956b3f34edd2b9e492fd2c995cc6f
-ms.sourcegitcommit: f2139bfaf9cb2eb84e81bfdb3cfd3edd28b123df
+ms.openlocfilehash: c4cc3b054fe9beb0d8bca5d8752915347ec42e65
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "291102"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "849604"
 ---
 # <a name="drill-through-to-another-report"></a>別のレポートへのドリルスルー
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
@@ -35,3 +35,5 @@ ms.locfileid: "291102"
 -   [レポートのドリルスルー機能](https://ideas.powerbi.com/forums/265200-power-bi-ideas/suggestions/20533858-drill-through-functionality-in-power-bi-reports)
 
 -   [クロス レポートのドリル](https://ideas.powerbi.com/forums/265200-power-bi-ideas/suggestions/33751942-drill-through-between-different-reports)
+
+[!include[feedback](../includes/desktop-feedback.md)]

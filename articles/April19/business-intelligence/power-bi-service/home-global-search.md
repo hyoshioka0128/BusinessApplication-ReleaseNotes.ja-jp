@@ -7,12 +7,12 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: 8e451369f1a6ee985949afb229ffa2c767662f14
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 7e190448e855f8fb1c6292f21f7e0513f64a6313
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210619"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "850385"
 ---
 #  <a name="power-bi-home-and-global-search"></a>Power BI ホームとグローバル検索
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
@@ -25,3 +25,5 @@ ms.locfileid: "210619"
 - 組織のブランド設定。管理者がユーザーのホームのピン留めされたタイル領域の背景画像、色、既定コンテンツを設定できるようにします。 既定のコンテンツを設定することで、組織はユーザーがコンテンツにナビゲートするためのエクスペリエンスを一貫性のある標準化されたものにすることができます。
 - 管理者がテナントの [Power BI の使用方法を見る] セクションのドキュメント リンクを構成できるようにします。 
 - おすすめのダッシュボードを移行して、ホームをすべてのユーザーに対する既定のランディング ページにします。
+
+[!include[feedback](../includes/service-feedback.md)]

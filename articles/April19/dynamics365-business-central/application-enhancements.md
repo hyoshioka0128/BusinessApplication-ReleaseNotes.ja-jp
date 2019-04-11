@@ -3,19 +3,19 @@ title: アプリケーションの機能強化
 description: アプリケーションの機能強化
 author: bnielse
 ms.reviewer: edupont
-ms.date: 02/25/2019
+ms.date: 03/12/2019
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
 ms.author: bnielse
 audience: developer, end user, customizer
-ms.openlocfilehash: 527f6612eb35bd86cf68ce24ea46311d8486325f
-ms.sourcegitcommit: 5cb7a4f98abbe497eac9d76cfae5cc0170e28cd9
+ms.openlocfilehash: 97d04e3e9e7d39508af721810cf4d111aa1886ef
+ms.sourcegitcommit: aecd1512575f424ac4d9f93289d3c5bce8c35c27
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/26/2019
-ms.locfileid: "760886"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "890330"
 ---
 # <a name="application-enhancements"></a>アプリケーションの機能強化
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -34,6 +34,8 @@ Business Central 全体のすべての**説明**および**名前**フィール�
 
 さらに、**測定単位の説明**フィールドに入力できる文字が最大 50 文字に増えました。 以前のバージョンでは、10 文字に制限されていました。
 
+<!--We'd like to thank to customers and partners who voted and contributed to this [idea](https://experience.dynamics.com/ideas/idea/?ideaid=62e1c2bb-c647-e711-80c0-00155d7cb38d).-->
+
 ## <a name="use-physical-inventory-orders-to-better-structure-your-physical-inventory-counting"></a>現物在庫注文を使用して現物在庫棚卸をより適切に構成する
 現物在庫棚卸は、すべての流通会社において 1 年に 1 回または 1 年に複数回発生する、中核的な在庫プロセスの 1 つです。 このプロセスの既存の機能は仕訳帳に基づいているため、大規模な在庫棚卸でプロセスを追跡して作業を分散させることは困難です。 **現物在庫注文**ページと**現物在庫記録**ページを使用すると生産性が向上し、既存の機能のギャップに対応できます。 新しい機能はドイツの一般的なローカル機能に基づいており、これは大規模な在庫棚卸が必要なほとんどすべての実装で広く使用されています。
 
@@ -46,6 +48,8 @@ Business Central 全体のすべての**説明**および**名前**フィール�
 **販売および売掛金設定**ページの**見積有効期限計算**フィールドで、販売見積の**見積有効期限**フィールドの計算に使用される日付式を設定できるようになりました。
 
 ヒント: 有効期限が切れた販売見積を確実に削除するには、**期限切れの見積もりの削除**バッチ ジョブを実行します。 販売見積のアーカイブを有効にすると (**販売および売掛金設定**ページ)、削除された販売見積もアーカイブされるため、顧客から再び問い合わせがあったらアーカイブから復元できます。
+
+<!--We'd like to thank to customers and partners who voted and contributed to this [idea](https://experience.dynamics.com/ideas/idea/?ideaid=1ae1c1b2-857f-e811-9cca-0003ff68a6a2).-->
 
 ## <a name="control-item-creation-from-lookups-on-documents"></a>ドキュメントのルックアップから品目の作成を制御する
 ドキュメント明細行に存在しない品目を入力すると、新しい品目カードを作成するか既存の品目を選択するように求められます。 多くの新しい品目をインポートするときなど、場合によっては、この確認によってプロセスがブロックされます。 したがって、確認をスキップできるようになりました。 **在庫設定**ページで、**品目作成の確認をスキップする**チェック ボックスをオンにします。
@@ -60,36 +64,48 @@ Business Central 全体のすべての**説明**および**名前**フィール�
 
 ![新しい品目番号から品目を作成する設定が表示されている販売および売掛金設定ページ](media/create-item-from-no-setting.png "販売および売掛金設定ページでの新しい品目番号から品目を作成する設定の図")
 
+<!--We'd like to thank to customers and partners who voted and contributed to this [idea](https://experience.dynamics.com/ideas/idea/?ideaid=d7a7cd38-a22d-e811-bbd3-0003ff68ba15).-->
+
 ## <a name="copy-customer-dimensions-to-jobs-created-for-the-customer"></a>顧客に対して作成されたジョブに顧客の分析コードをコピーする
 ジョブが作成されて、顧客がそのジョブに割り当てられると、顧客の既定の分析コード値がジョブにコピーされます。 つまり、ユーザーは必要な場合はジョブの分析コード値を変更するだけでよく、顧客の既存の分析コードがジョブに割り当てられるためレポートの一貫性が維持されます。
+
+<!--We'd like to thank to customers and partners who voted and contributed to this [idea](https://experience.dynamics.com/ideas/idea/?ideaid=02385b33-ab65-e811-bd6d-0003ff68f1d2).-->
 
 ## <a name="copy-templates-used-to-create-customers-vendors-and-items"></a>顧客、仕入先、品目の作成に使用されるテンプレートをコピーする
 新しいデータ テンプレートを作成するときに、既存のデータ テンプレートをコピーできるようになりました。 データ テンプレート (構成テンプレート) を使用すると、顧客、仕入先、品目、または取引先担当者のカードをすばやく作成できます。 既存のデータ テンプレートをコピーするには、**構成テンプレート ヘッダー** ページの**構成テンプレートのコピー** アクションを選択します。
 
-![構成テンプレート ヘッダー ページの構成テンプレートのコピー アクション](media/copy-master-template.png "構成テンプレート ヘッダー ページの構成テンプレートのコピー アクションの図")
+![構成テンプレートのコピー アクションが表示された構成テンプレート ヘッダー ページ](media/copy-master-template.png "構成テンプレートのコピー アクションが表示された構成テンプレート ヘッダー ページの図")
 
-## <a name="merge-duplicate-customers-or-vendors"></a>重複する顧客または仕入先を統合する
-顧客または仕入先の重複するレコードが誤って作成されたときは、重複の統合アクセス許可が設定されていれば、そのような重複レコードを単一のレコードに統合できるようになりました。 
+## <a name="merge-duplicate-customers-vendors-or-contacts"></a>重複する顧客、仕入先、取引先担当者を統合する
+顧客、仕入先、または取引先担当者の重複するレコードが誤って作成されたときは、重複の統合アクセス許可が設定されていれば、そのような重複レコードを単一のレコードに統合できるようになりました。
 
 ![競合の統合と上書き機能が表示されている顧客統合ページ](media/merge-duplicates.png "競合の統合と上書き機能が表示されている顧客統合ページの図")
 
+<!--We'd like to thank to customers and partners who voted and contributed to this [idea](https://experience.dynamics.com/ideas/idea/?ideaid=45032445-877f-e811-9cca-0003ff68a6a2).-->
+
 ## <a name="dynamically-set-shortcut-dimension-columns-in-lists-documents-and-journal-lines"></a>リスト、ドキュメント、仕訳帳明細行にショートカット分析コード列を動的に設定する
-**総勘定元帳の設定**ページで設定した 2 つのグローバル分析コードのフィールドは、仕訳帳とドキュメントの明細行で常に使用できます。 その設定ページで設定したショートカット分析コードも、常に使用できるようになりました。 つまり、ショートカット分析コードの値も、**分析コード** ページを開かずに、仕訳帳とドキュメントの明細行に直接追加できます。
+**総勘定元帳の設定**ページで設定した 2 つのグローバル分析コードのフィールドは、仕訳帳とドキュメントの明細行で常に使用できます。 設定ページで定義したショートカット分析コードも、フィールドとして常に使用できるようになりました。 つまり、ショートカット分析コードの値も、**分析コード** ページを開かずに、仕訳帳とドキュメントの明細行に直接追加できます。
 
 ## <a name="bulk-import-item-pictures"></a>品目の画像を一括インポートする
-一度に複数の品目の画像をインポートできるようになりました。 品目の番号に対応する名前で画像ファイルに名前を付け、それらを zip ファイルに圧縮してから、**品目の画像のインポート** ページを使用するだけです。 または、**品目の画像を設定する**アシスト セットアップ ガイドを使用することもできます。
+一度に複数の品目の画像をインポートできるようになりました。 品目の番号に対応する名前で画像ファイルに名前を付け、それらを zip ファイルに圧縮してから、**品目の画像のインポート** ページを使用するだけです。
 
-![品目の画像のインポート ページの画像のインポート アクション](media/bulk-import-item-pictures.png "品目画像の一括インポートの図")
+![画像のインポート アクションが表示されている品目の画像のインポート ページ](media/bulk-import-item-pictures.png "品目画像の一括インポートの図")
+
+<!--We'd like to thank to customers and partners who voted and contributed to this [idea](https://experience.dynamics.com/ideas/idea/?ideaid=64d45902-c931-e711-80c0-00155d4616d6).-->
 
 ## <a name="view-payment-information-on-customer-and-vendor-statistics-factboxes"></a>顧客および仕入先の統計情報ボックスで支払情報を表示する
 顧客および仕入先の統計情報ボックスで、支払と最終支払日に関する情報を表示できるようになりました。
 
 ![領収済支払と最終支払日に関する情報が含まれる情報ボックスが表示されている顧客リスト ページ](media/cash-receipt-last-payment.png "顧客統計情報ボックス内の領収済支払と最終支払日の図")
 
+<!--We'd like to thank to customers and partners who voted and contributed to this [idea](https://experience.dynamics.com/ideas/idea/?ideaid=974e02b1-9186-e811-8c6e-0003ff68d530).-->
+
 ## <a name="look-up-swift-codes"></a>SWIFT コードを検索する
 取り引きのある銀行の SWIFT コードのリストを保持し、銀行口座を使用するページでそれを使用することができます。 これにより、支払の正確な準備が可能になり、ユーザーは SWIFT コードを自由書式として入力するのではなく、定義済みの SWIFT コードのリストから選択することができます。
 
 ![SWIFT コード フィールドのルックアップが示されている銀行口座ページ](media/lookup-swift-codes.png " SWIFT コード ルックアップ テーブルの図")
+
+<!--We'd like to thank to customers and partners who voted and contributed to this [idea](https://experience.dynamics.com/ideas/idea/?ideaid=217dcb9f-e7eb-e811-a140-0003ff68bbbf).-->
 
 ## <a name="ensure-that-approval-users-are-set-up-to-run-approval-workflows"></a>承認ユーザーが承認ワークフローを実行するように設定されていることを確認する
 ユーザーが承認ワークフローを開始する前に、ユーザーが**承認ユーザー** ページで設定されていることを確認するチェックが追加されています。
@@ -102,8 +118,12 @@ Business Central 全体のすべての**説明**および**名前**フィール�
 ## <a name="view-vendor-invoice-number-on-purchase-invoice-and-credit-memo-lists"></a>仕入請求書およびクレジット メモのリストに仕入先請求書番号を表示する
 **仕入先請求書番号**列が**仕入請求書**ページと**購買クレジット メモ** ページに表示されるようになりました。
 
+<!--We'd like to thank to customers and partners who voted and contributed to this [idea](https://experience.dynamics.com/ideas/idea/?ideaid=c4addec3-212c-e711-80c0-00155d4616d6).-->
+
 ## <a name="view-time-information-on-registers"></a>登録の時刻情報を表示する
 **G/L登録**、**品目登録**、**ジョブ登録**などのさまざまな登録ページで、時刻情報を見ることができるようになりました。 これにより、日付だけでなく、トランザクションが作成された時刻も使用して、登録のトランザクションをより早く見つけることができます。
+
+<!--We'd like to thank to customers and partners who voted and contributed to this [idea](https://experience.dynamics.com/ideas/idea/?ideaid=164ec58f-78e2-e811-b96f-0003ff68d6f3).-->
 
 ## <a name="personalize-the-ui-to-skip-over-the-address-field-on-documents"></a>ドキュメントの住所フィールドをスキップするように UI をパーソナライズする
 ドキュメント ページの住所情報は通常、選択された顧客または仕入先に基づいて自動入力されます。 そのため、ほとんどの場合、ユーザーはドキュメントをキーボード入力するときに**住所**フィールドをスキップすることを望みます。
@@ -124,18 +144,25 @@ Business Central 全体のすべての**説明**および**名前**フィール�
 
 発注番号は、関連する販売注文の**外部ドキュメント番号**フィールドに格納されています。 このフィールドの内容が転記される売上請求と出荷に転送されるようになったため、外部ドキュメント番号で検索することができます。
 
+<!--We'd like to thank to customers and partners who voted and contributed to this [idea](https://experience.dynamics.com/ideas/idea/?ideaid=2965f90e-e8fe-e811-a140-0003ff68cd23).-->
+
 ## <a name="check-the-business-central-platform-version-number"></a>Business Central プラットフォームのバージョン番号を確認する
 問題のトラブルシューティングやサポートへの報告のときに、Business Central プラットフォームのバージョン番号を**システム情報**で見ることができるようになり、サポート プロセスのスピードアップに役立ちます。
 
-![システム情報ページでプラットフォームのバージョンが表示されているページ](media/sys-info-platform-version.png "システム情報ページでプラットフォームのバージョン情報の図")
+![システム情報ページのプラットフォーム バージョンが表示されたページ](media/sys-info-platform-version.png "システム情報ページのプラットフォーム バージョン情報の図")
 
-## <a name="view-item-descriptions-on-item-ledger-entries"></a>品目の元帳エントリで品目の説明を表示する
-品目の元帳エントリを分析するときに、品目の説明も見られると便利です。 **在庫設定**ページで**品目の説明をエントリにコピーする**を選択することで、**品目の元帳エントリ** ページに**説明**フィールドを追加できるようになりました。
+## <a name="view-item-descriptions-customer-and-vendor-names-in-ledger-entries"></a>元帳エントリで品目の説明、顧客名、仕入先名を表示する
+品目の元帳エントリを分析するときに、品目の説明、顧客名、仕入先名も見られると便利です。 次のように設定することで、**品目の元帳エントリ**、**顧客元帳エントリ**、**仕入先元帳エントリ** ページのような元帳エントリに**説明**フィールドと**名前**フィールドを追加できるようになりました。 
+* 品目の**在庫設定**ページで、**品目の説明をエントリにコピーする**チェック ボックスをオンにする
+* 顧客の**販売および売掛金設定**ページで、**顧客名をエントリにコピーする**チェック ボックスをオンにする
+* 仕入先の**購入および買掛金設定**ページで、**仕入先名をエントリにコピーする**チェック ボックスをオンにする
 
-## <a name="find-gl-account-setup-fields-in-base-local-and-custom-features"></a>基本機能、ローカル機能、およびカスタム機能で G/L 勘定設定を検索する
+<!--We'd like to thank to customers and partners who voted and contributed to this [idea](https://experience.dynamics.com/ideas/idea/?ideaid=c4addec3-212c-e711-80c0-00155d4616d6).-->
+
+## <a name="find-gl-account-setup-fields-in-base-local-and-custom-features"></a>基本機能、ローカル機能、およびカスタム機能で G/L 勘定設定フィールドを検索する
 **G/L 勘定カード**および**勘定科目表**ページの使用場所機能では、基本設定領域で特定の G/L 勘定が使用されている場所を調べることができます。
 
-使用場所機能で、基本バージョンとローカル バージョンの両方および拡張機能によって導入された機能の、関連するすべての設定領域が考慮されるようになりました。 改良された機能では、新しい機能がサブスクライブできるイベントを使用して、作成された設定に対するテーブル関係を **G/L 勘定**テーブルで追跡して、特定の G/L 勘定に対する設定の完全なリストを提供できます。
+使用場所機能で、基本バージョンとローカル バージョンの両方および拡張機能によって導入された機能の、関連するすべての設定領域が考慮されるようになりました。 改良された機能では、新しい機能がサブスクライブできるイベントを使用して、作成された設定に対するテーブル リレーションを **G/L 勘定**テーブルで追跡して、特定の G/L 勘定に対する設定の完全なリストを提供できます。
 
 ## <a name="view-document-attachments-on-customer-and-vendor-ledger-entries-and-during-payment-application"></a>顧客および仕入先の元帳エントリおよび支払い申請中にドキュメントの添付ファイルを表示する
 ドキュメント添付ファイル機能を使用すると、Business Central 内で販売または購入ドキュメントに任意の種類のファイルを添付できます。 これは、たとえば、仕入先支払を決済するときに仕入先から送られた元の請求書をすばやく表示できるようにするのに便利です。
@@ -149,10 +176,14 @@ Business Central 全体のすべての**説明**および**名前**フィール�
 
 ![顧客カードの出荷先コード フィールドの表示](media/default-ship-to-code.png "販売ドキュメントの既定の出荷先住所を指定するために使用される、顧客カード ページの出荷先コードの図")
 
+<!--We'd like to thank to customers and partners who voted and contributed to this [idea](https://experience.dynamics.com/ideas/idea/?ideaid=c885cba3-14c9-e811-b96f-0003ff689b02).-->
+
 ## <a name="schedule-background-jobs-with-a-date-formula"></a>日付式でバックグラウンド ジョブをスケジュールする
 日付式を定義することにより、つまり固定の日付を定義する代わりに相対的な日付を使用して、バックグラウン ドジョブまたはレポートをスケジュールできるようになりました。 たとえば、毎週月曜日にレポートを実行する代わりに、「CM+D1」と入力することで、毎月初にレポートを実行するように定義できます。 これは、**ジョブ キュー入力カード** ページまたは**レポートのスケジュール** ページの**次回実行日の式**フィールドで定義します。
 
 ![レポートのスケジュール ページの次回実行日の式の表示](media/schedule-using-relative-date.png "レポートまたはジョブ キューの入力をスケジュールするための相対日の計算に使用される次回実行日の式の図")
+
+<!--We'd like to thank to customers and partners who voted and contributed to this [idea](https://experience.dynamics.com/ideas/idea/?ideaid=5021b534-b6ec-e811-a140-0003ff68cf0c).-->
 
 ## <a name="check-for-total-amount-credited-when-creating-a-corrective-credit-memo-for-a-posted-sales-invoice"></a>転記された売上請求書の修正クレジットメモを作成するときに合計貸方金額を確認する
 転記された売上請求書を修正するとき、転記された売上請求書に対して修正されたクレジット メモがすでに作成されているかどうか、またそれが完全に適用されているか部分的に適用されているかが、通知されるようになりました。 その通知から、転記された売上請求書にすでに適用されているドキュメントを表示したり、適用するドキュメントと金額を選択したりすることができます。 これにより、重複を防ぎ、修正対象の転記された売上請求書への適用が完全か部分的かを確認できます。
@@ -165,17 +196,42 @@ Business Central 全体のすべての**説明**および**名前**フィール�
 ![説明が変更されている一般会計エントリの表示](media/change-gl-entry-description.png "編集可能な説明フィールドが含まれる一般会計エントリ ページの図")
 
 ## <a name="iso-codes-added-as-attributes-for-countries-and-currencies"></a>国および通貨の属性として追加された ISO コード
-規制報告、電子請求書発行、および電子銀行業務の標準では、通常、規則または標準に準拠するため、説明のほかに ISO の国コードと通貨コードが必要です。
-国や地域の ISO 3166-1 標準の数字 (3 桁) コードと英数字 (2 文字) コードを追加できるようになりました。 また、通貨の ISO 4217 標準の数字 (3 桁) コードと英数字 (3 文字) コードも追加できます。
+規制報告、電子請求書発行、および電子銀行業務の標準では、通常、規則または標準に準拠するため、説明のほかに ISO の国コードと通貨コードが必要です。 国や地域の ISO 3166-1 標準の数字 (3 桁) コードと英数字 (2 文字) コードを追加できるようになりました。 また、通貨の ISO 4217 標準の数字 (3 桁) コードと英数字 (3 文字) コードも追加できます。
 
 ![ISO コードが入力された国/地域ページの表示](media/iso-code-country-currency.png "国/地域ページでの ISO コードと ISO 数値コードの図")
 
-## <a name="review-and-export-errors-in-rapidstart-configuration-packages"></a>RapidStart コンフィギュレーション パッケージのエラーを確認してエクスポートする
+## <a name="review-and-export-errors-in-rapidstart-configuration-packages"></a>ラピッドスタート コンフィギュレーション パッケージのエラーを確認してエクスポートする
 ラピッドスタート サービスで Business Central にデータを移行しているときは、コンフィギュレーション パッケージ内の特定のテーブルで発生したエラーを確認すると便利です。 少数のテーブルをインポートしている場合、これは問題なく機能します。 しかし、多数のテーブルをインポートする場合は、テーブルごとにデータクリーニング タスクを行うのは面倒なので、タスクを異なるチームに分散させる必要があるかもしれません。
 
 コンフィギュレーション パッケージをインポートして検証するとき、パッケージごとにエラーを確認できるようになりました。 **コンフィギュレーション パッケージのエラーを表示**アクションを選択して、コンフィギュレーション パッケージ内のすべてのエラーを表示できます。 新しい**コンフィギュレーション パッケージ エラー**ページでは、エラー テキスト、フィールド、またはテーブルでフィルター処理し、そのようなフィルター済みリストを Excel にエクスポートできます。 また、特定のエラーにドリルダウンして、エラーの原因になっている正確なデータを確認することもできます。
 
 ![コンフィギュレーション パッケージ エラー ページの表示](media/config-package-errors.png "コンフィギュレーション パッケージの一部としてインポートされるさまざまなテーブルから発生するエラーのリストの図。")
+
+## <a name="review-data-imported-from-excel-to-a-configuration-package"></a>Excel からコンフィギュレーション パッケージにインポートされるデータを確認する
+**コンフィギュレーション パッケージ** ページ、**コンフィギュレーション パッケージ カード**のヘッダー、**コンフィギュレーション パッケージ カード**の明細行にある 3 つの異なる**Excel からのインポート**アクションは、いずれも Excel からデータをインポートしますが、異なるレベルのコンフィギュレーション パッケージの準備が必要です。 1 番目のアクションは、コンフィギュレーション パッケージの作成前に使用できます。2 番目のアクションではコンフィギュレーション パッケージが存在する必要があり、3 番目のアクションでは明細行を含んだコンフィギュレーション パッケージが存在する必要があります。
+
+これらのアクションを使用するときに混乱や不要な再試行を避けるために、**コンフィギュレーション パッケージのインポート プレビュー** ページで、インポートする Excel ファイルのコンテンツの概要を確認できるようになりました。 3 つのアクションのいずれかを選択するとこのページが開き、インポートしようとしている Excel ファイル内の、コンフィギュレーション パッケージとテーブルの一覧が別々のシートにまとめられて表示されます。 また、このページでは、この [Excel からのインポート] アクションによって新しいコンフィギュレーション パッケージが作成されるかあるいは既存のコンフィギュレーション パッケージが更新されるか、および、コンフィギュレーション パッケージの新しい明細行 (テーブル) が作成されるかあるいは既存の明細行 (テーブル) が更新されるかについての説明が表示されます。
+
+![コンフィギュレーション パッケージのインポート プレビュー ページの表示](media/config-package-import-excel.png "Excel ファイルのコンテンツと、既存または新規のコンフィギュレーション パッケージとコンフィギュレーション パッケージ内テーブルへのマッピングの図。")
+
+## <a name="preview-prepayment-posting"></a>前払転記をプレビューする
+**前払請求書の転記のプレビュー**または**前払クレジット メモの転記のプレビュー** アクションを選択して、販売注文または発注書から前払請求書または前払クレジット メモを転記したときに作成されるさまざまな種類のエントリを確認できるようになりました。
+
+![販売注文ページでの前払転記のプレビュー アクションの表示](media/preview-prepayment-posting.png "販売注文ページでの前払転記のプレビュー アクションの図")
+
+## <a name="email-and-resend-remittance-advice-from-the-payment-journal-and-vendor-ledger-entries"></a>支払仕訳帳および仕入先元帳エントリから送金通知を電子メール送信および再送信する
+支払が行われたことを仕入先に通知するために送金通知が使用される UK、US、CA、AU、NZ、ZA バージョンで、送金通知を支払仕訳帳から一括で電子メール送信することと、支払が行われた後にドキュメント送信プロファイルを使用して仕入先元帳エントリから再送信することが可能になりました。
+
+![支払仕訳帳ページでの送金通知の送信アクションの表示](media/send-remittance-advice.png "支払仕訳帳ページでの送金通知の送信アクションの図")
+
+<!--We'd like to thank to customers and partners who voted and contributed to this [idea](https://experience.dynamics.com/ideas/idea/?ideaid=5fd53a9e-14ba-e811-b96f-0003ff68ee21).-->
+
+## <a name="show-all-gl-accounts-on-posting-setup-pages-and-in-gl-account-lookups"></a>転記設定ページと G/L 勘定科目検索ですべての G/L 勘定科目を表示する
+**顧客転記グループ**、**一般転記設定**などの転記設定ページは、一般会計に金額を転記するときにどの G/L 勘定科目を使用するかを定義するために使用されます。 割引転記などの機能を有効にすると、その機能で使用される特定の G/L 勘定科目を示す追加の列が転記設定ページに自動的に表示されます。 転記設定ページで**すべての勘定科目を表示**チェック ボックスをオンにすると、設定ページで利用できるすべての G/L 勘定科目が、関連する機能が有効になっていなくても表示されます。 これにより、最初の転記設定をより簡単に実行できます。
+
+転記設定で使用する G/L 勘定科目を検索して選択すると、そのような勘定科目が通常存在する勘定科目カテゴリで絞り込まれた G/L 勘定科目のみが表示されます。 転記設定ページで**検索ですべての勘定科目を表示**チェック ボックスをオンにすると、検索および選択を行うときに関連する勘定科目カテゴリで絞り込まれた勘定科目だけでなく、使用できるすべての G/L 勘定科目が表示されるようになります。
+
+![\[すべての勘定科目を表示\] および \[検索ですべての勘定科目を表示\] オプションが表示された一般転記設定ページ](media/show-all-accounts.png "\[すべての勘定科目を表示\] および \[検索ですべての勘定科目を表示\] オプションが表示された一般転記設定ページの図")
 
 
 ## <a name="tell-us-what-you-think"></a>フィードバック

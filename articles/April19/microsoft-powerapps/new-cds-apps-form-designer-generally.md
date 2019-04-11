@@ -1,27 +1,27 @@
 ---
-title: CDS for Apps の新しいフォーム デザイナーの一般提供開始
-description: CDS for Apps の新しいフォーム デザイナーの一般提供開始
+title: Common Data Service の新しいフォーム デザイナーの一般提供開始
+description: Common Data Service の新しいフォーム デザイナーの一般提供開始
 author: aneesmsft
 ms.reviewer: anneta
-ms.date: 01/09/2019
+ms.date: 03/14/2019
 ms.assetid: cdf6cf8b-bcc5-e811-a973-000d3a137a43
 ms.topic: article
 ms.service: business-applications
 ms.author: aneesa
 audience: Power user
-ms.openlocfilehash: 40db7faa5f7cb726cbb246f41d5bbcef3528b011
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 46b8eeb36e0dd0ae18bce7fa5bcc4d991900fc13
+ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210323"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "900197"
 ---
-# <a name="new-cds-for-apps-form-designer-is-generally-available"></a>CDS for Apps の新しいフォーム デザイナーの一般提供開始
+# <a name="new-common-data-service-form-designer-is-generally-available"></a>Common Data Service の新しいフォーム デザイナーの一般提供開始
 
 
 [!include[microsoft-powerapps banner](../includes/microsoft-powerapps.md)]
 
-CDS for Apps の新しいフォーム デザイナーでは、従来の Dynamics 365 のオーサリング フォームからエクスペリエンスが大幅に改善されています。
+Common Data Service の新しいフォーム デザイナーでは、従来の Dynamics 365 のオーサリング フォームからエクスペリエンスが大幅に改善されています。
 
 プレビュー リリースに続き、このデザイナーには、作成者がモデル駆動型フォームを高い生産性で作成するのに役立つ新しい機能が含まれています。 次のような機能が含まれます。
 

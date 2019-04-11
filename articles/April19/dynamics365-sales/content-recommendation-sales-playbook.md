@@ -10,12 +10,12 @@ ms.assetid: d9319480-1ec0-9202-ee03-94b7c9584de0
 author: snaitik
 ms.author: naitikds
 ms.reviewer: shujoshi
-ms.openlocfilehash: 8a5bb2359230d89332dda7b10a0efd6bc11591b5
-ms.sourcegitcommit: 190545b6694ee79a440fa8babbd30c2184fa4deb
+ms.openlocfilehash: 30c65dcb00d1b5359777cfb0f45df59e1f3ae359
+ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "376985"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "847497"
 ---
 #  <a name="playbook-enhancements-with-content-recommendations"></a>コンテンツのレコメンデーションを含むプレイブックの機能強化
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -26,7 +26,7 @@ ms.locfileid: "376985"
 
 ## <a name="business-value"></a>ビジネス バリュー 
 
-2019 年 4 月リリースでは、営業担当者はプレイブックを介してコンテンツのレコメンデーションを受け取ることもできるようになります。 これにより、プレイブックの起動時に作成される活動に取り組むときに参照するコンテンツについての詳細が販売者に提供されます。
+2019 年 4 月リリースでは、営業担当者はプレイブックを介してコンテンツのレコメンデーションを受け取ることもできるようになります。 これにより、プレイブックの起動時に作成される活動に取り組むときに参照するコンテンツについての詳細が販売担当者に提供されます。
 
 ## <a name="personas"></a>ペルソナ
 

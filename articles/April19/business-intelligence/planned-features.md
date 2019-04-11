@@ -2,17 +2,17 @@
 title: ビジネス インテリジェンスの新機能と予定されている機能 (2019 年 4 月)
 description: ビジネス インテリジェンスの新機能の概要
 author: AdamDWilson
-ms.date: 02/19/2019
+ms.date: 03/04/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
 ms.reviewer: mihart
-ms.openlocfilehash: ba693c9fa6b00381ad2201b627b7f02bdd07857a
-ms.sourcegitcommit: 5872e3919c0ba1c37b6c386baba612b9794b2493
+ms.openlocfilehash: e4cb985bfd9d9a15bb970455467d22004f149e90
+ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "722309"
+ms.lasthandoff: 03/15/2019
+ms.locfileid: "844256"
 ---
 # <a name="whats-new-and-planned-for-business-intelligence"></a>ビジネス インテリジェンスの新機能と予定されている機能
 
@@ -31,7 +31,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 
 | 機能                                                                 | リリースの種類         | 日付 |
 |-------------------------------------------------------------------------|----------------------|----------------------|
-| [LinkedIn Sales Navigator 用コネクタ](power-bi-desktop/connector-linkedin-sales-navigator.md)   | パブリック プレビュー | 2019 年 6 月           |
+| [Connector for LinkedIn Sales Navigator](power-bi-desktop/connector-linkedin-sales-navigator.md)   | パブリック プレビュー | 2019 年 6 月           |
 | [リレーションシップ ビューの改善](power-bi-desktop/improved-relationship-view.md)     | 一般提供 | 2019 年 4 月           |
 | [新しいフィルター エクスペリエンス](power-bi-desktop/new-filter-experience.md)        | 一般提供 | 2019 年 4 月           |
 | [別のレポートへのドリルスルー](power-bi-desktop/drill-between-pbix-reports.md)        | パブリック プレビュー | 2019 年 4 月           |
@@ -50,7 +50,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [新しいワークスペース](power-bi-service/new-workspaces.md)                                        | 一般提供 | 2019 年 5 月           |
 | [共有データセットと認定データセット](power-bi-service/shared-certified-datasets.md)            | パブリック プレビュー | 2019 年 3 月         |
 | **エンタープライズ BI**                                                       |                      |                      |
-| [読み取り専用シナリオにおけるサードパーティの BI ツールの接続性 (XML/A)](power-bi-service/third-party-bi-tool-connectivity.md) *    | パブリック プレビュー | 2019 年 2 月           |
+| [読み取り専用シナリオにおけるサードパーティの BI ツールの接続性 (XML/A)](power-bi-service/third-party-bi-tool-connectivity.md) *    | パブリック プレビュー | 2019 年 3 月           |
 | [ページ付けされたレポート機能の更新](power-bi-service/paginated-reports.md) *                                 | パブリック プレビュー       | 2019 年 4 月         |
 | [電子メール サブスクリプションの機能強化](power-bi-service/enhanced-email-subscriptions.md)             | 一般提供 | 2019 年 4 月           |
 | [Premium 向けの指標](power-bi-service/premium-metrics.md) *                                      | 一般提供 | 2019 年 8 月           |
@@ -93,10 +93,10 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 
 | 機能                                                                                     | リリースの種類                        | 日付      |
 |---------------------------------------------------------------------------------------------|-------------------------------------|-----------------------------|
-| [テンプレート アプリ用のセルフサービス ビルダー エクスペリエンス](power-bi-template-apps/self-service-builder-experience-template-apps.md)                                   | パブリック プレビュー                      | 2019 年 2 月               |
-| [AppSource での Power BI テンプレートアプリのセルフサービス作成](power-bi-template-apps/self-service-creation-power-bi-template-app-appsource.md)        | パブリック プレビュー                      | 2019 年 2 月               |
-| [Power BI テナント管理制御 (ガバナンス)](power-bi-template-apps/power-bi-tenant-admin-control-governance.md)                           | パブリック プレビュー                      | 2019 年 2 月               |
-| [テンプレート アプリのカスタマイズと個人用設定](power-bi-template-apps/template-app-customization-personalization.md)                   | パブリック プレビュー                      | 2019 年 2 月               |
+| [テンプレート アプリ用のセルフサービス ビルダー エクスペリエンス](power-bi-template-apps/self-service-builder-experience-template-apps.md)                                   | パブリック プレビュー                      | 2019 年 2 月 22 日               |
+| [AppSource での Power BI テンプレートアプリのセルフサービス作成](power-bi-template-apps/self-service-creation-power-bi-template-app-appsource.md)        | パブリック プレビュー                      | 2019 年 2 月 22 日               |
+| [Power BI テナント管理制御 (ガバナンス)](power-bi-template-apps/power-bi-tenant-admin-control-governance.md)                           | パブリック プレビュー                      | 2019 年 2 月 22 日               |
+| [テンプレート アプリのカスタマイズと個人用設定](power-bi-template-apps/template-app-customization-personalization.md)                   | パブリック プレビュー                      | 2019 年 2 月 22 日               |
 
 ## <a name="power-bi-custom-visuals"></a>Power BI カスタム ビジュアル
 

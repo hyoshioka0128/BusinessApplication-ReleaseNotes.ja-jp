@@ -6,12 +6,12 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: 95e52bf43137c3a9da1fa344832ee4fd5b1f1e3b
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 986a3d6809c6e47803389eeb5124c76a7137de65
+ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210247"
+ms.lasthandoff: 03/17/2019
+ms.locfileid: "850341"
 ---
 #  <a name="developer-tools"></a>開発者ツール 
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
@@ -24,3 +24,5 @@ Power BI Embedded をアプリケーションに統合し、いっそう速く�
 -   Power BI Embedded のベスト プラクティスに関するさらに概念的な記事。 
 -   アプリケーションに分析を統合するための主なユースケースに対する異なる言語での新しいサンプル。 
 -   [Power BI Embedded Playground](https://microsoft.github.io/PowerBI-JavaScript/demo/v2-demo/index.html) での新しいショーケース。 
+
+[!include[feedback](../includes/service-feedback.md)]
