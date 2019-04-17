@@ -7,8 +7,13 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jimholtz
 ms.reviewer: jimholtz
+ms.openlocfilehash: fed743614749d255ea2f0f4f5e9cf2dd67002a61
+ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "406375"
 ---
-
 # <a name="overview-of-dynamics-365-customer-insights-april-19-release"></a>Dynamics 365 Customer Insights 2019 年 4 月リリースの概要
 [!include[dynamics365-ai-customer-insights banner](../../includes/dynamics365-ai-customer-insights.md)]
 
@@ -30,13 +35,13 @@ Customer Insights により、組織は次のことが可能になります。
 
   - チャネル間でパーソナライズされたエンゲージメントを推進し、マーケティング、販売、サービスの専門家に、すぐに使用可能なコンテキストに応じた顧客のインサイトと、既に毎日使用しているビジネス アプリケーションに組み込まれた調整済みの顧客プロファイル カードを提供します。    
   - カスタマイズ可能なプロファイル、ビジネス メジャー、およびセグメントに基づいて、顧客中心のエクスペリエンスとプロセスを自動化します。 
-  - [Microsoft Power プラットフォーム](https://cloudblogs.microsoft.com/dynamics365/2019/01/29/the-microsoft-power-platform-empowering-millions-of-people-to-achieve-more/)に基づいて構築された業種エクスペリエンスを有効にして拡張します。 PowerApps の強力なクリック アンド ポイント アプローチを使用して、組み込みの顧客インサイトでカスタム ビジネス アプリケーションをすばやく構築します。  
+  - [Microsoft Power Platform](https://cloudblogs.microsoft.com/dynamics365/2019/01/29/the-microsoft-power-platform-empowering-millions-of-people-to-achieve-more/) を基盤に構築された業種エクスペリエンスを有効にして拡張します。 PowerApps の強力なクリック アンド ポイント アプローチを使用して、組み込みの顧客インサイトでカスタム ビジネス アプリケーションをすばやく構築します。  
 
 このリリースには、次の主要ユーザー向けの機能が含まれます。
 
 - **データ アナリストおよび管理者:**
 
-  - Power プラットフォームのコネクタの豊富なコレクションにアクセスして、すべての顧客データを取り込みます。 
+  - Power Platform コネクタの豊富なコレクションにアクセスして、すべての顧客データを取り込みます。 
   - 顧客データを統合し、それを [Common Data Model](https://docs.microsoft.com/common-data-model/) 形式に変換する機能。 
   - ブランド アフィニティや関心など、Microsoft Graph に含まれるオーディエンス インテリジェンスからのインサイトで顧客情報を充実させます。 
   - 顧客インサイを簡単に構成し、潜在的な問題を特定するのに役立つ、"コードではなくクリック" による構成とデバッグ エクスペリエンス。 

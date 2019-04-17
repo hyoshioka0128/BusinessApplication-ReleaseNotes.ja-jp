@@ -1,14 +1,20 @@
 ---
 layout: HubPage
 hide_bc: true
-title: Dynamics 365 と Power プラットフォーム リリース ノート
+title: Dynamics 365 および Power Platform リリース ノート
 description: Dynamics 365、Power BI、PowerApps、Microsoft Flow、その他の新機能について紹介します (Sales、Service、Marketing、Operations、Finance、Talent、Retail 関連の新機能を含む)。
 ms.topic: hub-page
+ms.openlocfilehash: aec400f074b3eae42046c18f2f907a7a6bb62568
+ms.sourcegitcommit: 783c1a098301a23eeab6ceddc45b1be04f302197
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "373654"
 ---
 <div id="main" class="v2">
 <div class="container">
-    <h1>Dynamics 365 と Power プラットフォーム リリース ノート</h1>
-    <p>Dynamics 365 とPower プラットフォーム (Power BI、PowerApps、Microsoft Flow) での最新機能と機能拡張について説明します。 </p>
+    <h1>Dynamics 365 および Power Platform リリース ノート</h1>
+    <p>Dynamics 365 と Power Platform (Power BI、PowerApps、Microsoft Flow) での最新機能と機能拡張について説明します。 </p>
     <ul class="pivots">
         <li>
             <a href="#products" data-linktype="self-bookmark"></a>
