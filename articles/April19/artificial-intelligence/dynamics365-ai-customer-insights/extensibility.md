@@ -22,7 +22,7 @@ ms.locfileid: "406386"
  
 顧客プロファイルとインサイトは、さまざまなユーザーロールがさまざまな方法で使用できます。 Customer Insights で提供されている REST API を使用すると、インサイトを他のビジネス アプリケーションに統合したり、カスタム ワークフローを作成したりできます。 
 
-## <a name="line-of-business-apps-and-insights-through-power-platform-connectors"></a>Power プラットフォーム コネクタによる業種アプリとインサイト 
+## <a name="line-of-business-apps-and-insights-through-power-platform-connectors"></a>Power Platform コネクタによる業種アプリとインサイト 
 
 Customer Insights には、PowerApps および Power BI 用のすぐに使えるコネクタが付属しています。 お客様は、PowerApps コネクタを使用することで、Customer Insights からのデータを基にしてビジネス ニーズに合わせて調整されたリッチなアプリケーションをすばやく構築できます。 Power BI コネクタを使用すると、お客様はカスタム レポートやダッシュボードを作成して、組織内のインサイトを共有できます。  
 

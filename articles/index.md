@@ -1,20 +1,20 @@
 ---
 layout: HubPage
 hide_bc: true
-title: Dynamics 365 と Power プラットフォーム リリース ノート
+title: Dynamics 365 および Power Platform リリース ノート
 description: Dynamics 365、Power BI、PowerApps、Microsoft Flow、その他の新機能について紹介します (Sales、Service、Marketing、Operations、Finance、Talent、Retail 関連の新機能を含む)。
 ms.topic: hub-page
-ms.openlocfilehash: f5cb8a5853fd03c30c576edd17d6fa098a98dd4d
-ms.sourcegitcommit: 7d68b2192f4a014cfcd617191af2c6974ab381e6
+ms.openlocfilehash: aec400f074b3eae42046c18f2f907a7a6bb62568
+ms.sourcegitcommit: 783c1a098301a23eeab6ceddc45b1be04f302197
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/19/2019
-ms.locfileid: "214049"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "373654"
 ---
 <div id="main" class="v2">
 <div class="container">
-    <h1>Dynamics 365 と Power プラットフォーム リリース ノート</h1>
-    <p>Dynamics 365 とPower プラットフォーム (Power BI、PowerApps、Microsoft Flow) での最新機能と機能拡張について説明します。 </p>
+    <h1>Dynamics 365 および Power Platform リリース ノート</h1>
+    <p>Dynamics 365 と Power Platform (Power BI、PowerApps、Microsoft Flow) での最新機能と機能拡張について説明します。 </p>
     <ul class="pivots">
         <li>
             <a href="#products" data-linktype="self-bookmark"></a>
@@ -23,7 +23,7 @@ ms.locfileid: "214049"
                     <a href="#products1" data-linktype="self-bookmark"></a>
                     <ul id="products1" class="cardsC cols cols3">
                         <li>
-                <a href="April19/index" title="2019 年 4 月" data-linktype="absolute-path">
+                <a href="/business-applications-release-notes/April19/index" title="2019 年 4 月" data-linktype="absolute-path">
                                 <div class="cardSize">
                                     <div class="cardPadding">
                                         <div class="card">
@@ -39,7 +39,7 @@ ms.locfileid: "214049"
                                         </div>
                                     </div>
                                 </div>
-                            <a href="October18/index" title="2018 年 10 月" data-linktype="absolute-path">
+                            <a href="/business-applications-release-notes/October18/index" title="2018 年 10 月" data-linktype="absolute-path">
                                 <div class="cardSize">
                                     <div class="cardPadding">
                                         <div class="card">
@@ -58,7 +58,7 @@ ms.locfileid: "214049"
                             </a>
                         </li>
                         <li>
-                            <a href="April18/index" title="2018 年春" data-linktype="absolute-path">
+                            <a href="/business-applications-release-notes/April18/index" title="2018 年春" data-linktype="absolute-path">
                                 <div class="cardSize">
                                     <div class="cardPadding">
                                         <div class="card">

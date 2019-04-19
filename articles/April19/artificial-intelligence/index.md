@@ -7,12 +7,17 @@ ms.topic: article
 ms.service: business-applications
 ms.author: shellyha
 ms.reviewer: shellyha
+ms.openlocfilehash: 6f855e6a47baa5563174f87b95de8e4a0e245def
+ms.sourcegitcommit: cb60b8678619bdabcbea7c0bc29027c5af897b17
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 02/28/2019
+ms.locfileid: "770467"
 ---
-
 #  <a name="overview-of-artificial-intelligence-ai-capabilities-in-the-april-19-release"></a>2019 年 4 月リリースでの人工知能 (AI) 機能の概要
 
 
-2019 年 4 月リリースでは引き続き、Microsoft AI の調査、ツール、データ、Power プラットフォームの能力を活用して、組織が顧客サービス、営業、マーケティングの各部門を変革することを支援する AI 機能が提供されます。
+2019 年 4 月リリースでは引き続き、Microsoft AI の調査、ツール、データ、Power Platform の能力を活用して、組織が顧客サービス、営業、マーケティングの各部門を変革することを支援する AI 機能が提供されます。
 
 ## <a name="ai-for-sales-enhancements"></a>AI for Sales の機能拡張
 
@@ -23,10 +28,10 @@ ms.reviewer: shellyha
 ## <a name="ai-for-customer-service-enhancements"></a>AI for Customer Service の機能強化
 [Dynamics 365 Customer Service Insights](customer-service/insights/index.md) は 2019 年 4 月リリースで一般提供されるようになり、Salesforce、Zendesk、ServiceNow への直接データ接続や、単一のダッシュボードでの人と仮想エージェントの分析の統合など、主要な新機能が提供されます。
 
-さらに、[Dynamics 365 Virtual Agent for Customer Service](customer-service/virtual-agent/index.md) のパブリック プレビューがリリースされています。 Virtual Agent for Customer Service を使用すると、あらゆる規模の企業の顧客サービス ドメインの専門家や IT 部門は、独自の仮想エージェントを作成することができます。 Customer Service Insights と緊密に統合することで、サポート チームは、AI エキスパート、データ サイエンティスト、またはプロの開発者のチームを必要とせずに、仮想エージェント会話エディターを使用して自動化できる、量の多いサポート トピックを特定できます。
+さらに、[Dynamics 365 Virtual Agent for Customer Service](customer-service/virtual-agent/index.md) のパブリック プレビューをリリースしました。 Virtual Agent for Customer Service を使用すると、あらゆる規模の企業で顧客サービス ドメインの専門家や IT 部門が独自の仮想エージェントを作成できます。 Customer Service Insights と緊密に統合することで、サポート チームは、AI エキスパート、データ サイエンティスト、またはプロの開発者のチームを必要とせずに、仮想エージェント会話エディターを使用して自動化できる、量の多いサポート トピックを特定できます。
 
-## <a name="dynamics-365-market-insights-enhancements"></a>Dynamics 365 Market Insights の機能強化
-[Dynamics 365 Market Insights](dynamics365-ai-market-insights/index.md) を使用すると、ビジネス ユーザーは、消費者が自分のブランドや製品について話したり、探したり、感じたりしていることに基づいて、アクションにつながる分析情報を収集できます。 
+## <a name="dynamics-365-market-insights-enhancements"></a>Dynamics 365 Market Insights の機能拡張
+[Dynamics 365 Market Insights](dynamics365-ai-market-insights/index.md) を使用すると、ビジネス ユーザーは、消費者が自社のブランドや製品について話したり、探したり、感じたりしていることに基づいて、アクションにつながる分析情報を収集できるようになります。 
 
 2019 年 4 月リリースでは、検索を作成しながら関連トピックを提案することから始めて、組織は重要な質問に回答できるようになります。 データ分析は、Bing 検索データとソーシャル メディア上の情報を関連付けることにより、さらに強力で洗練されたものになります。 さらに、アラート (毎日または毎週更新される電子メール サービス) では、ユーザーは自分にとって重要なトピックの最新情報を得ることができます。
 
