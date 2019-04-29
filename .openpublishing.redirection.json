@@ -1,5 +1,145 @@
 {  
-  "redirections": [
+  "redirections": [    {
+      "source_path": "articles/April19/business-intelligence/power-bi-service/metadata-translations-analysis-services-models.md",
+      "redirect_url": "/business-applications-release-notes/april19/change-history#power-bi-service",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/cdm-data-integration/unlock-insights-common-data-service.md",
+      "redirect_url": "enable-common-data-service-entities-analytics",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-finance-operations/diagnostic-assistant.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-sales-assist/3D-content-gallery.md",
+      "redirect_url": "../microsoft-dynamics365-product-visualize/3D-content-gallery",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-sales-assist/3D-content-manipulation.md",
+      "redirect_url": "../microsoft-dynamics365-product-visualize/3D-content-manipulation",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-sales-assist/3D-model-layers.md",
+      "redirect_url": "../microsoft-dynamics365-product-visualize/3D-model-layers",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-sales-assist/automatic-activity-posting.md",
+      "redirect_url": "../microsoft-dynamics365-product-visualize/automatic-activity-posting",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-sales-assist/D365-integration.md",
+      "redirect_url": "../microsoft-dynamics365-product-visualize/D365-integration",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-sales-assist/image-digital-inking.md",
+      "redirect_url": "../microsoft-dynamics365-product-visualize/image-digital-inking",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-sales-assist/index.md",
+      "redirect_url": "../microsoft-dynamics365-product-visualize/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-sales-assist/planned-features.md",
+      "redirect_url": "../microsoft-dynamics365-product-visualize/planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-sales-assist/product-visualization.md",
+      "redirect_url": "../microsoft-dynamics365-product-visualize/product-visualization",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-sales-assist/sharepoint-integration.md",
+      "redirect_url": "../microsoft-dynamics365-product-visualize/sharepoint-integration",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-sales-assist/spatial-notes.md",
+      "redirect_url": "../microsoft-dynamics365-product-visualize/spatial-notes",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-sales-assist/teams-integration.md",
+      "redirect_url": "../microsoft-dynamics365-product-visualize/teams-integration",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-powerapps/canvas-app-delegation-aggregate-functions-common-data-service-apps.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-powerapps/new-control-functionality-enables-advanced-canvas-apps.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-powerapps/powerapps-delights-end-users.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-powerapps/test-out-new-updates-first-preview.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/service/omni-channel-engagement-hub/integration-dynamics-ai-bots.md",
+      "redirect_url": "../index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/microsoft-flow/change-actions-that-have-dependencies.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/microsoft-flow/custom-controls-in-business-process-flows.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/microsoft-flow/design-flows-in-visio.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/microsoft-flow/diet-designer-for-all-templates.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/microsoft-flow/flow-for-sharepoint-admin-scenarios.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/microsoft-flow/leverage-device-signals-on-mobile-devices.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/microsoft-flow/onedrive-for-business-flow-launch-panel.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/microsoft-flow/onedrive-for-business-request-sign-off.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+
     {
       "source_path": "articles/April19/artificial-intelligence/customer-service/virtual-agent/customer-service-integration.md",
       "redirect_url": "index",
