@@ -1,5 +1,31 @@
 {  
-  "redirections": [    {
+  "redirections": [
+    {
+      "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/admin-portal.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-flow/automated-flows-call-cds-apps-action.md",
+      "redirect_url": "automated-flows-call-common-data-service-action",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-flow/support-guest-users-flows-approvals.md",
+      "redirect_url": "support-guest-users-approvals",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-flow/more-geographies.md",
+      "redirect_url": "us-government-–-gcc-high",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-flow/automated-flows-support-batch-operations-cds-apps.md",
+      "redirect_url": "automated-flows-support-batch-operations-common-data-service",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "articles/April19/business-intelligence/power-bi-service/metadata-translations-analysis-services-models.md",
       "redirect_url": "/business-applications-release-notes/april19/change-history#power-bi-service",
       "redirect_document_id": "false"
