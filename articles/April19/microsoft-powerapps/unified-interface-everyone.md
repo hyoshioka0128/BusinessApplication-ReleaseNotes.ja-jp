@@ -3,18 +3,18 @@ title: すべてのユーザーに対応する統一インターフェイス
 description: 統一インターフェイスは、Common Data Service のメインラインのエクスペリエンスです。
 author: clwesene
 ms.reviewer: anneta
-ms.date: 03/15/2019
-ms.assetid: bbef67bd-f5c5-e811-a973-000d3a1378f6
+ms.date: 04/30/2019
+ms.assetid: ac1cc5ca-815d-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: clwesene
 audience: Power user
-ms.openlocfilehash: df52fc44a3933b3144ac208e0080f6e4ea0f3d56
-ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
+ms.openlocfilehash: 0d0a72c99fe8416d4a67226c536e5e86ee8a4e56
+ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "900648"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "1446080"
 ---
 # <a name="unified-interface-for-everyone"></a>すべてのユーザーに対応する統一インターフェイス
 

@@ -1,24 +1,10 @@
 ---
-title: Azure Active Directory のセキュリティ グループでのセキュリティ ロールの使用
-description: CDS ベースのアプリを AAD セキュリティ グループと共有する
-author: matthewbolanos
-ms.reviewer: anneta
-ms.date: 03/20/2019
-ms.assetid: 9fab1c2c-b9c5-e811-a973-000d3a137a43
-ms.topic: article
-ms.service: business-applications
-ms.author: mabolan
-audience: Power user
-ms.openlocfilehash: 2b269112839f5b98bec04cbc51f98bd83059f306
-ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
+redirect_url: using-security-roles-security-groups-azure-active-directory
+ms.openlocfilehash: f72ce2f330977cf3269e35e2f1ff74aba3905335
+ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "900461"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "1446045"
 ---
-# <a name="using-security-roles-with-security-groups-in-azure-active-directory"></a>Azure Active Directory のセキュリティ グループでのセキュリティ ロールの使用
-
-
-[!include[microsoft-powerapps banner](../includes/microsoft-powerapps.md)]
-
-Common Data Service for Apps 内のデータを、Azure Active Directory 内の 1 つ以上のセキュリティグループと共有できます。 このデータを共有するには、エンティティに対して 1 つ以上のカスタム セキュリティ ロールを作成し、それらのロールを個々のユーザーではなく、セキュリティ グループに割り当てます。 たとえば、アプリ、フロー、およびエンティティを同じセキュリティ グループと共有できます。
+リダイレクト ファイルのみ - コンテンツは含まれていません

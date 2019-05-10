@@ -3,21 +3,20 @@ title: PowerApps でのシームレスなフロー作成
 description: モデル駆動型によるキャンバスベースのアプリケーション コンテキストでフローを作成できます。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/08/2019
-ms.assetid: c77358cb-f6c4-e811-a971-000d3a137208
+ms.date: 04/14/2019
+ms.assetid: 6388bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: ffda129b1e639c0fe6a3879bb2bdc01f9294d7f5
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 26ad87c60190a8591f6e4a303b4c71c618624218
+ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287740"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "1445273"
 ---
 # <a name="seamless-flow-creation-in-powerapps"></a>PowerApps でのシームレスなフロー作成
-
 
 [!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 

@@ -3,21 +3,20 @@ title: 作成者や管理者向けのインライン ヘルプの改善
 description: 作成者や管理者向けのインライン ヘルプの改善
 author: evchaki
 ms.reviewer: anneta
-ms.date: 03/22/2019
-ms.assetid: 6aff0389-b5c5-e811-a973-000d3a137a43
+ms.date: 04/29/2019
+ms.assetid: c787bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: evchaki
 audience: Power user
-ms.openlocfilehash: f88053906ddd06a1e4340be8f2933fb85298e6ed
-ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
+ms.openlocfilehash: 240c65f5bd7df65cc7741399f4aa8ef2e26de4b6
+ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "900604"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "1446100"
 ---
 # <a name="improved-inline-help-for-makers-and-admins"></a>作成者や管理者向けのインライン ヘルプの改善
-
 
 [!include[microsoft-powerapps banner](../includes/microsoft-powerapps.md)]
 

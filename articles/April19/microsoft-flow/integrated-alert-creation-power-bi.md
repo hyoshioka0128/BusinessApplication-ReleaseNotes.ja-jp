@@ -3,21 +3,20 @@ title: Power BI でのアラート作成の統合
 description: Power BI でデータ アラートからフローを作成するプロセスを簡略化し、プロセスをさらに簡単にしました。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/08/2019
-ms.assetid: 037458cb-f6c4-e811-a971-000d3a137208
+ms.date: 04/14/2019
+ms.assetid: e387bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 0895003c06ea39d9889aa10228d6c4887ce7915d
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: e6078359aba52c89a0afe0099428c96c2970276b
+ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287232"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "1445338"
 ---
 # <a name="integrated-alert-creation-in-power-bi"></a>Power BI でのアラート作成の統合
-
 
 [!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 

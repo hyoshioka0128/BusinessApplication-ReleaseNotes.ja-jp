@@ -1,22 +1,22 @@
 ---
 title: Microsoft Flow 2019 年 4 月リリースの概要
-description: お気に入りのアプリを Microsoft Flow と統合することで、タスクを自動化します。 ワークフローの自動化で、反復的なタスクを簡単にします。
+description: ''
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 11/02/2018
-ms.assetid: 009005b1-8b41-e811-a954-000d3a15a7d1
+ms.date: 04/13/2019
+ms.assetid: 2cb5c700-835d-e911-a973-000d3a1c79c5
 ms.topic: overview
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 50335a4fc0f654197bf75a0598ac1aebc475b486
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 3ad67d8276ed18950b7fcde5d7f4b2a48308b88d
+ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210293"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "1445376"
 ---
-# <a name="overview-of-microsoft-flow-april-19-release"></a>Microsoft Flow 2019 年 4 月リリースの概要
+# <a name="overview-of-microsoft-flow-april-2019-release"></a>Microsoft Flow 2019 年 4 月リリースの概要
 [!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
 Microsoft では、CRM アプリケーションと ERP アプリケーション間での、ビジネス プロセスの最新化に取り組んでいます。 これは、あらゆるビジネス (および業務機能) において、ユーザーの作業方法をより簡単に変革できるようにするための取り組みです。 Microsoft のビジネス プロセス管理プラットフォームである Microsoft Flow は、このミッションを成功させるうえでの中核的な役割を果たします。

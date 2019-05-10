@@ -1,23 +1,22 @@
 ---
 title: '統一インターフェイス: ユーザーに選ばれたエクスペリエンス'
 description: '統一インターフェイス: ユーザーに選ばれたエクスペリエンス'
-author: gathapar
+author: clwesene
 ms.reviewer: anneta
-ms.date: 03/14/2019
-ms.assetid: 109fdf22-f6c5-e811-a973-000d3a1378f6
+ms.date: 04/30/2019
+ms.assetid: b588bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
-ms.author: gathapar
+ms.author: clwesene
 audience: Power user
-ms.openlocfilehash: d50dd290126babca66a277034cfd5b4863a0f9dd
-ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
+ms.openlocfilehash: 9e16f245756b749e6fc0fae97b258302c4a562d4
+ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "900549"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "1445904"
 ---
 # <a name="unified-interface-is-the-experience-of-choice-by-users"></a>統一インターフェイス: ユーザーに選ばれたエクスペリエンス
-
 
 [!include[microsoft-powerapps banner](../includes/microsoft-powerapps.md)]
 

@@ -3,21 +3,20 @@ title: 依存オプション セットの構成
 description: 依存オプション セットを構成すると、アプリでカスケード ドロップダウンを提供し、ドロップダウン間で簡単なデータ検証を行えます。
 author: matthewbolanos
 ms.reviewer: anneta
-ms.date: 02/19/2019
-ms.assetid: 796b8de6-9314-e911-a986-000d3a137063
+ms.date: 04/14/2019
+ms.assetid: 2387bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: mabolan
 audience: Power user
-ms.openlocfilehash: e06c548a7606fcd6ab1fae29146001d36fb3b9e9
-ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
+ms.openlocfilehash: e2309b95dbc1c78315a33ca36e5a33e122a60a0a
+ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "900720"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "1446104"
 ---
 # <a name="configure-dependent-option-sets-public-preview"></a>依存オプション セットの構成 (パブリック プレビュー)
-
 
 [!include[microsoft-powerapps banner](../includes/microsoft-powerapps.md)]
 

@@ -3,21 +3,20 @@ title: コンシューマー向け OneDrive での Microsoft Flow の使用
 description: SharePoint Online での優れた Microsoft Flow エクスペリエンス (承認の要求や PDF への変換など) を、すべての OneDrive ユーザーにご利用いただけるようになりました。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/08/2019
-ms.assetid: ef7358cb-f6c4-e811-a971-000d3a137208
+ms.date: 04/14/2019
+ms.assetid: bb88bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 15a072c027433ff339890963fa573e0de46c9eda
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 7faf2f86475808e742a50bec0fe16f1fa3e23ac7
+ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287715"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "1445199"
 ---
 # <a name="use-microsoft-flow-in-onedrive-for-consumers"></a>コンシューマー向け OneDrive での Microsoft Flow の使用
-
 
 [!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 

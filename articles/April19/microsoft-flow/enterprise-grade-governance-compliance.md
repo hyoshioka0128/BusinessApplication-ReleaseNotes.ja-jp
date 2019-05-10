@@ -1,26 +1,25 @@
 ---
-title: エンタープライズ グレードのガバナンスとコンプライアンス
+title: エンタープライズ レベルのガバナンスとコンプライアンス
 description: Microsoft Flow は、データ セキュリティ、アプリケーション ライフサイクル管理、およびサポート性に関して組織を支援します。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/08/2019
-ms.assetid: 3e8d5341-f2c4-e811-a977-000d3a137063
+ms.date: 04/13/2019
+ms.assetid: 9e1cc5ca-815d-e911-a973-000d3a1c79c5
 ms.topic: article
-ms.prod: ''
 ms.service: business-applications
-ms.technology: ''
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: d4521734422cc389b95082db469f9b89c258012e
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 3863f4d50b87453db2935c494722fe0035dd2dea
+ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210392"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "1445232"
 ---
-# <a name="enterprise-grade-governance-and-compliance"></a>エンタープライズ グレードのガバナンスとコンプライアンス
-
+# <a name="enterprise-grade-governance-and-compliance"></a>エンタープライズ レベルのガバナンスとコンプライアンス
 
 [!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-Microsoft Flow にはエンタープライズ シナリオ向けの新機能が多数あり、米国政府クラウドや米国国防総省など、より多くの市場での販売に利用できます。 さらに、自動化されたフローを、従来の Common Data Service (CDS) for Apps ワークフローと実質的に同等になるようにしました。 これにより、従来のワークフロー インフラストラクチャから Microsoft Flow へのユーザーの移行に着手できます。 そのため、Microsoft Flow は CDS をネイティブに理解し、Microsoft Flow ポータルでそれをサポートするようになっています。 具体的には、CDS アクション間のトランザクション アトミック性やバッチ操作などの機能が、サポートされるようになりました。 これらの改善により、ファースト パーティの Dynamics 365 アプリケーションの SLA 機能などの機能は、自動フロー上に構築されています。
+Microsoft Flow にはエンタープライズ シナリオ向けの新機能が多数あり、米国政府クラウドや米国国防総省など、より多くの市場での営業に利用できます。 さらに、自動化されたフローを、従来の Common Data Service ワークフローと実質的に同等になるようにしました。 
+
+この同等性により、従来のワークフロー インフラストラクチャから Microsoft Flow へのユーザーの移行に着手できます。 そのために Microsoft Flow では、Common Data Service をネイティブに認識し、Microsoft Flow デザイナーでそれをサポートするようになりました。 具体的には、Common Data Service アクション間のトランザクション アトミック性やバッチ操作などの機能がサポートされるようになりました。 これらの改善により、ファースト パーティの Dynamics 365 アプリケーションの SLA 機能などの機能は、自動フローに基づいて構築されています。

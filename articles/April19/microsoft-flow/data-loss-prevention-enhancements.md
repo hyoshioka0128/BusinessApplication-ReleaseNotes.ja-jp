@@ -3,21 +3,20 @@ title: データ損失防止の強化
 description: データ損失防止には、データ分類とデータ フローの方向を適用する機能が追加されました。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/08/2019
-ms.assetid: 337458cb-f6c4-e811-a971-000d3a137208
+ms.date: 04/14/2019
+ms.assetid: 4f87bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 54222edc1a94b49a04870270c6e3ec3c88ccfcaf
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 2dc044217588e834640044282627e6d0b3aa7e39
+ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210995"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "1445452"
 ---
 # <a name="data-loss-prevention-enhancements"></a>データ損失防止の強化
-
 
 [!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 

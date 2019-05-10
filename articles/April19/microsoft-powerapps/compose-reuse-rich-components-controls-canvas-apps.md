@@ -3,21 +3,20 @@ title: キャンバス アプリでリッチ コンポーネントとコント�
 description: キャンバス アプリでリッチ コンポーネントとコントロールを作成して再利用する
 author: yifwang
 ms.reviewer: anneta
-ms.date: 03/26/2019
-ms.assetid: a77bde74-bcc5-e811-a973-000d3a137a43
+ms.date: 04/24/2019
+ms.assetid: 2187bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: yifwang
 audience: Power user
-ms.openlocfilehash: 28973ec48a1ae96e14a9c81c78255bb2ebac7e37
-ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
+ms.openlocfilehash: f064b7b75ab349fa62d836c477196d1e2815acff
+ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "900087"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "1446058"
 ---
 # <a name="compose-and-reuse-rich-components-and-controls-in-canvas-apps-public-preview"></a>キャンバス アプリでリッチ コンポーネントとコントロールを作成して再利用する (パブリック プレビュー)
-
 
 
 

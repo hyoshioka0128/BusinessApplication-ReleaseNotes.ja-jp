@@ -1,19 +1,21 @@
 ---
-title: Dynamics 365 Guides (プレビュー) の 2019 年 4 月更新プログラムでの画像と動画機能
+title: Dynamics 365 Guides (プレビュー) の 2019 年 4 月更新プログラムでの画像と動画の機能
 description: Dynamics 365 Guides (プレビュー) の 2019 年 4 月更新プログラムの機能では、オペレーターがガイド タスクを理解するのを助ける画像と動画を追加できます。
 author: Algodin
-ms.date: 02/24/2019
+ms.date: 04/25/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
-ms.openlocfilehash: cdb80d1ee3fd7ee84f0ea79d6e8bf35cc22d7914
-ms.sourcegitcommit: 5872e3919c0ba1c37b6c386baba612b9794b2493
+ms.openlocfilehash: 2b44be10fee2983ed939ee0e1de1764f50f2f4e8
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "722653"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1236767"
 ---
 # <a name="add-images-and-videos-to-your-instructions"></a>説明に画像と動画を追加する
 
 画像と動画を使用してステップを示し、他のユーザーがタスクをよりよく理解できるようにします。
+
+[画像や動画の追加についての詳細](https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-authoring#create-steps-and-assign-assets-in-the-step-card-page)

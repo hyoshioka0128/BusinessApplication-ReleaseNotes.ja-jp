@@ -3,21 +3,20 @@ title: 管理者に対するサポート性の改善
 description: 管理者に対するサポート性の改善
 author: saumil-msft
 ms.reviewer: jimholtz
-ms.date: 03/14/2019
-ms.assetid: 6c722fe8-b0c5-e811-a983-000d3a1362e3
+ms.date: 04/14/2019
+ms.assetid: d787bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: sashri
 audience: Power user
-ms.openlocfilehash: 7bb56fa69747e9eb2fbc943e84de68cdd3eb4a2d
-ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
+ms.openlocfilehash: 569281a24767c280ae4d0d5d17e3f4d4ab6a572a
+ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "900241"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "1446069"
 ---
 # <a name="improved-supportability-for-admins"></a>管理者に対するサポート性の改善
-
 
 [!include[microsoft-powerapps banner](../includes/microsoft-powerapps.md)]
 

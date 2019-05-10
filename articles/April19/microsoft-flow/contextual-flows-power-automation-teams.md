@@ -3,24 +3,22 @@ title: Microsoft Teams でのコンテキスト フローによる高度な自�
 description: Microsoft Flow は、すべてのユーザーが Microsoft Teams で高度な自動動作を使用できる手段になっています。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/08/2019
-ms.assetid: f37358cb-f6c4-e811-a971-000d3a137208
+ms.date: 04/14/2019
+ms.assetid: 2987bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 8cad688b6ef1b775133d63b6bcad615121d591a9
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.openlocfilehash: b857e9101b24362eca8f484b6db5e3640388f6d7
+ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "404667"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "1445527"
 ---
 # <a name="contextual-flows-power-automation-in-microsoft-teams"></a>Microsoft Teams でのコンテキスト フローによる高度な自動化
+
 [!include[microsoft-flow banner](../includes/microsoft-flow.md)]
-
-
-
 
 Microsoft Flow は、すべてのユーザーが Microsoft Teams で高度な自動動作を使用できる手段になっています。 構想されているのは、Outlook の仕訳ルールのようなワールド クラスのエクスペリエンスを Microsoft Teams に提供することです。 つまり、ユーザーが次のことをできるようにします。
 

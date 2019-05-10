@@ -3,23 +3,22 @@ title: キャンバス アプリで式や下位式の結果を表示する
 description: キャンバス アプリで式や下位式の結果を表示する
 author: gregli-msft
 ms.reviewer: anneta
-ms.date: 03/26/2019
-ms.assetid: 97840ead-fbf0-e811-a976-000d3a137208
+ms.date: 04/22/2019
+ms.assetid: c188bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: gregli
 audience: Power user
-ms.openlocfilehash: 8269ac09e5128f96efb438170937ba216c36af34
-ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
+ms.openlocfilehash: 080b5a0af4ba5d4e32495e2f105c17a0560f1896
+ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "900538"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "1445882"
 ---
 # <a name="view-results-of-formulas-and-subformulas-in-canvas-apps-public-preview"></a>キャンバス アプリで式や下位式の結果を表示する (パブリック プレビュー)
 
 
-[!include[microsoft-powerapps banner](../includes/microsoft-powerapps.md)]
 
 キャンバス アプリは、**フィルター**や**ソート**などの関数を使って、強力な式を構成することで機能します。 式の結果は、ギャラリーなどのコントロールに直接送られ、さらなる解析にかけられることもあります。
 

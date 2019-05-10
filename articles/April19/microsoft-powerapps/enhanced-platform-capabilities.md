@@ -3,18 +3,18 @@ title: 強化されたプラットフォーム機能
 description: アプリ作成者は強化されたプラットフォーム機能を使用して、PowerApps のライフサイクル、統合、共有を管理できます。
 author: evchaki
 ms.reviewer: anneta
-ms.date: 03/26/2019
-ms.assetid: 2b61697b-b4c5-e811-a973-000d3a137a43
+ms.date: 04/26/2019
+ms.assetid: 9c1cc5ca-815d-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: evchaki
 audience: Power user
-ms.openlocfilehash: 90b67675f9e19c89346cfe247e9d9844ad3252bd
-ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
+ms.openlocfilehash: 65150f94fa1789babf3c4655e511269cc9376ad8
+ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "900329"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "1446028"
 ---
 # <a name="enhanced-platform-capabilities"></a>強化されたプラットフォーム機能
 

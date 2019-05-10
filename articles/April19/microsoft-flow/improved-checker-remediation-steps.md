@@ -3,21 +3,20 @@ title: 改善されたフロー チェッカーと修復手順
 description: アドバイザーのインテリジェンスへの投資を続けており、ユーザーが信頼できる堅牢なフローを構築するのを助けるためにさらに多くのユース ケースを追加しました。
 author: sunayv
 ms.reviewer: deonhe
-ms.date: 01/08/2019
-ms.assetid: c37358cb-f6c4-e811-a971-000d3a137208
+ms.date: 04/14/2019
+ms.assetid: c387bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: sunayv
 audience: Power user
-ms.openlocfilehash: ac56bbb395bc917e74397acca3ceb4beacd314f8
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 6cdb498372a2880a7482985d1a74734f765d38d2
+ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287290"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "1445350"
 ---
 # <a name="improved-flow-checker-and-remediation-steps"></a>改善されたフロー チェッカーと修復手順
-
 
 [!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 

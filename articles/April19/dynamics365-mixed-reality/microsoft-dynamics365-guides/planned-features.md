@@ -1,20 +1,20 @@
 ---
-title: プレビュー段階にある Dynamics 365 Guides の新機能と予定されている機能 (2019 年 4 月)
-description: プレビュー段階にある Dynamics 365 Guides の 2019 年 4 月の更新プログラムで予定されている機能
+title: Dynamics 365 Guides (プレビュー) の新機能と予定されている機能 (2019 年 4 月)
+description: Dynamics 365 Guides (プレビュー) の 2019 年 4 月の更新プログラムで予定されている機能の概要
 author: algodin
-ms.date: 03/26/2019
+ms.date: 04/30/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
-ms.openlocfilehash: 34b4cc4520ce2e8583011e0c88dbea9c3c3403e8
-ms.sourcegitcommit: 56da54f49110c36800b0d7264c98c3294a53a8db
+ms.openlocfilehash: fb6b1f6636232386f3cd009dcbc1d4c353fbcfaa
+ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/26/2019
-ms.locfileid: "898626"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "1445188"
 ---
-#  <a name="whats-new-and-planned-for-dynamics-365-guides-in-preview"></a>プレビュー段階にある Dynamics 365 Guides の新機能と予定されている機能
+#  <a name="whats-new-and-planned-for-dynamics-365-guides-in-preview"></a>Dynamics 365 Guides (プレビュー) の新機能と予定されている機能
 
 このトピックでは、2019 年 4 月から 2019 年 9 月の間にリリースが計画されている機能の一覧を示します。 一部の機能のプレビューは 2019 年 2 月に開始されます。
 
@@ -31,24 +31,24 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 |-------------------------------------------------------------------------------|----------------------|----------------------|
 | [コードなしガイド オーサリング](no-code-authoring.md)                         | パブリック プレビュー      | 2019 年 2 月 24 日             |
 | [自動メディア最適化](automatic-media-optimization.md)               | パブリック プレビュー      | 2019 年 2 月 24 日             |
-| [FBX および GLTF 形式は自動的にトランスコードされる](formats-transcoded.md)         | パブリック プレビュー      | 2019 年 2 月 24 日             |
+| [FBX および GLTF 形式の自動トランスコード](formats-transcoded.md)         | パブリック プレビュー      | 2019 年 2 月 24 日             |
 | [Dynamics 365 による機能強化](powered-by-dynamics-365.md)            | パブリック プレビュー      | 2019 年 2 月 24 日             |
 | [一元化されたアセット ライブラリ](centralized-asset-library.md)                 | パブリック プレビュー      | 2019 年 2 月 24 日            |
 | [説明に画像と動画を追加する](images-videos.md)                     | パブリック プレビュー      | 2019 年 2 月 24 日             |
 | [一般的な 3D モデルのセットの組み込み](common-3D-models.md)                      | パブリック プレビュー      | 2019 年 2 月 24 日             |
-| [資産、ユーザー、アクセス許可を管理する](admin-portal.md)                | 一般提供      | 2019 年 7 月      |
-
 
 ## <a name="authoring-on-hololens"></a>HoloLens でのオーサリング
  
 | 機能                                                                       | リリースの種類         | 日付 |
 |-------------------------------------------------------------------------------|----------------------|----------------------|
-| [合理化されたホログラムの配置と操作](streamlined-hologram-placement.md)    | パブリック プレビュー  | 2019 年 2 月 24 日       |
+| [効率化されたホログラムの配置と操作](streamlined-hologram-placement.md)    | パブリック プレビュー  | 2019 年 2 月 24 日       |
 | [3D アセットのスタイルによる強調の追加](styles.md)               | パブリック プレビュー      | 2019 年 2 月 24 日             |
 | [2 つの配置方法から選択](alignment.md)                               | パブリック プレビュー      | 2019 年 2 月 24 日|
 | [3D モデルの複製 (および削除)](copy-models.md)|パブリック プレビュー|2019 年 3 月 26 日|
+| [空間に配置したホログラムのサイズを変更する](change-hologram-size.md)|パブリック プレビュー|2019 年 4 月 30 日|
 
-## <a name="operating-on-hololens"></a>HoloLens での操作
+
+## <a name="operating-on-hololens"></a>HoloLens での運用
  
 | 機能                                                                       | リリースの種類         | 日付 |
 |-------------------------------------------------------------------------------|----------------------|----------------------|
