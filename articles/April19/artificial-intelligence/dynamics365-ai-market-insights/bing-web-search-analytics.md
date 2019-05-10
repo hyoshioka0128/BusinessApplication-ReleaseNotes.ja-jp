@@ -8,16 +8,16 @@ ms.service: business-applications
 ms.author: mhart
 ms.reviewer: m-hartmann
 ms.openlocfilehash: b7090751beb1ca88c86b1a27da9f0e93e650ee09
-ms.sourcegitcommit: 4db495226091126eecdfb6795702b2d7a4c22a3d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "881201"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225018"
 ---
-#  <a name="bing-web-search-rising-topics"></a><span data-ttu-id="32f47-103">Bing Web 検索の人気上昇中のトピック</span><span class="sxs-lookup"><span data-stu-id="32f47-103">Bing web search rising topics</span></span>
+#  <a name="bing-web-search-rising-topics"></a><span data-ttu-id="dee7c-103">Bing Web 検索の人気上昇中のトピック</span><span class="sxs-lookup"><span data-stu-id="dee7c-103">Bing web search rising topics</span></span>
 
 [!include[dynamics365-ai-market-insights banner](../../includes/dynamics365-ai-market-insights.md)]
 
-<span data-ttu-id="32f47-104">この機能は、Microsoft 独自の検索シグナルから、検索クエリのトレンドに関する分析情報をユーザーに[アラート電子メール](alerts.md)で提供します。</span><span class="sxs-lookup"><span data-stu-id="32f47-104">This feature provides users with insights on search query trends from Microsoft proprietary search signals in [alert emails](alerts.md).</span></span>
+<span data-ttu-id="dee7c-104">この機能は、Microsoft 独自の検索シグナルから、検索クエリのトレンドに関する分析情報をユーザーに[アラート電子メール](alerts.md)で提供します。</span><span class="sxs-lookup"><span data-stu-id="dee7c-104">This feature provides users with insights on search query trends from Microsoft proprietary search signals in [alert emails](alerts.md).</span></span>
 
-<span data-ttu-id="32f47-105">マーケティング担当者は**市場の新しいトレンドを理解する**ために検索トレンドを利用して、自社製品の需要を予測し、自社ブランドの認知度を監視することができます。</span><span class="sxs-lookup"><span data-stu-id="32f47-105">Marketers can leverage search trends for **understanding new trends in the market** to predict demand for their product and monitor their brand awareness.</span></span> 
+<span data-ttu-id="dee7c-105">マーケティング担当者は**市場の新しいトレンドを理解する**ために検索トレンドを利用して、自社製品の需要を予測し、自社ブランドの認知度を監視することができます。</span><span class="sxs-lookup"><span data-stu-id="dee7c-105">Marketers can leverage search trends for **understanding new trends in the market** to predict demand for their product and monitor their brand awareness.</span></span> 

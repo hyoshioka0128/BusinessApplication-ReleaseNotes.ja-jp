@@ -8,23 +8,23 @@ ms.service: business-applications
 ms.author: navrinas
 ms.reviewer: v-stsau
 ms.openlocfilehash: 624455a7849d3ba250cbcd89006240172984e96d
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "843757"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225042"
 ---
-# <a name="easily-discover-high-volume-or-emerging-support-topics-that-can-be-automated-with-virtual-agents"></a><span data-ttu-id="7a609-103">仮想エージェントを使用して自動化できる大量または新しいサポート トピックを簡単に検出</span><span class="sxs-lookup"><span data-stu-id="7a609-103">Easily discover high-volume or emerging support topics that can be automated with virtual agents</span></span>
+# <a name="easily-discover-high-volume-or-emerging-support-topics-that-can-be-automated-with-virtual-agents"></a><span data-ttu-id="ba8c4-103">仮想エージェントを使用して自動化できる大量または新しいサポート トピックを簡単に検出</span><span class="sxs-lookup"><span data-stu-id="ba8c4-103">Easily discover high-volume or emerging support topics that can be automated with virtual agents</span></span>
 [!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]
 
 
-<span data-ttu-id="7a609-104">ほとんどの顧客サービス チームでは、人間のエージェントへの負担が大きくなりすぎており、組織としては人間のエージェントには影響の大きいサポート案件だけに集中させる必要があります。</span><span class="sxs-lookup"><span data-stu-id="7a609-104">On most customer service teams, human agents are overloaded, and organizations need them to stay focused on high-impact cases.</span></span> <span data-ttu-id="7a609-105">Dynamics 365 Virtual Agent for Customer Service を使用すると、顧客サービス マネージャーは大量の共通サポートトピックを識別して自動化することができ、人間のエージェントは複雑で影響の大きいトピックに集中できるようになるので、顧客サービスの全体的なエクスペリエンスが向上します。</span><span class="sxs-lookup"><span data-stu-id="7a609-105">Dynamics 365 Virtual Agent for Customer Service helps customer service managers identify and then automate high-volume and common support topics, letting human agents focus on high-complexity, high-impact topics, and improve the overall customer service experience.</span></span>
+<span data-ttu-id="ba8c4-104">ほとんどの顧客サービス チームでは、人間のエージェントへの負担が大きくなりすぎており、組織としては人間のエージェントには影響の大きいサポート案件だけに集中させる必要があります。</span><span class="sxs-lookup"><span data-stu-id="ba8c4-104">On most customer service teams, human agents are overloaded, and organizations need them to stay focused on high-impact cases.</span></span> <span data-ttu-id="ba8c4-105">Dynamics 365 Virtual Agent for Customer Service を使用すると、顧客サービス マネージャーは大量の共通サポートトピックを識別して自動化することができ、人間のエージェントは複雑で影響の大きいトピックに集中できるようになるので、顧客サービスの全体的なエクスペリエンスが向上します。</span><span class="sxs-lookup"><span data-stu-id="ba8c4-105">Dynamics 365 Virtual Agent for Customer Service helps customer service managers identify and then automate high-volume and common support topics, letting human agents focus on high-complexity, high-impact topics, and improve the overall customer service experience.</span></span>
 
-<span data-ttu-id="7a609-106">Virtual Agent for Customer Service と Dynamics 365 Customer Service Insights では、Dynamics 365 for Customer Service アプリケーションまたはユーザーが選択したサポート案件管理システムからのサポート案件データを使用して、自動化することができる大量かつ新しいサポート トピックが識別されます。</span><span class="sxs-lookup"><span data-stu-id="7a609-106">Virtual Agent for Customer Service and Dynamics 365 Customer Service Insights use support case data from the Dynamics 365 for Customer Service application, or a case management system of your choice, to identify high-volume and emerging support topics that can be automated.</span></span> <span data-ttu-id="7a609-107">これらのレコメンデーションは、仮想エージェントの作成エクスペリエンスに表示されます。</span><span class="sxs-lookup"><span data-stu-id="7a609-107">These recommendations are surfaced in the virtual agent authoring experience.</span></span> <span data-ttu-id="7a609-108">その後、顧客サービス マネージャーは、仮想エージェントでこれらのトピックに対する解決策を作成できます。</span><span class="sxs-lookup"><span data-stu-id="7a609-108">The customer service manager can then choose to author solutions for these topics in the virtual agent.</span></span>
+<span data-ttu-id="ba8c4-106">Virtual Agent for Customer Service と Dynamics 365 Customer Service Insights では、Dynamics 365 for Customer Service アプリケーションまたはユーザーが選択したサポート案件管理システムからのサポート案件データを使用して、自動化することができる大量かつ新しいサポート トピックが識別されます。</span><span class="sxs-lookup"><span data-stu-id="ba8c4-106">Virtual Agent for Customer Service and Dynamics 365 Customer Service Insights use support case data from the Dynamics 365 for Customer Service application, or a case management system of your choice, to identify high-volume and emerging support topics that can be automated.</span></span> <span data-ttu-id="ba8c4-107">これらのレコメンデーションは、仮想エージェントの作成エクスペリエンスに表示されます。</span><span class="sxs-lookup"><span data-stu-id="ba8c4-107">These recommendations are surfaced in the virtual agent authoring experience.</span></span> <span data-ttu-id="ba8c4-108">その後、顧客サービス マネージャーは、仮想エージェントでこれらのトピックに対する解決策を作成できます。</span><span class="sxs-lookup"><span data-stu-id="ba8c4-108">The customer service manager can then choose to author solutions for these topics in the virtual agent.</span></span>
 
-## <a name="in-public-preview"></a><span data-ttu-id="7a609-109">パブリック プレビュー中</span><span class="sxs-lookup"><span data-stu-id="7a609-109">In Public Preview</span></span>
+## <a name="in-public-preview"></a><span data-ttu-id="ba8c4-109">パブリック プレビュー中</span><span class="sxs-lookup"><span data-stu-id="ba8c4-109">In Public Preview</span></span>
 
-<span data-ttu-id="7a609-110">顧客サービス マネージャーは、サポート案件インシデントおよび仮想エージェントのトランスクリプトからの、上位および新しい問題の発見を自動化することができます。</span><span class="sxs-lookup"><span data-stu-id="7a609-110">The customer service manager will be able to automate the top and emerging issues being discovered from support case incidents and virtual agent chat transcripts.</span></span>
+<span data-ttu-id="ba8c4-110">顧客サービス マネージャーは、サポート案件インシデントおよび仮想エージェントのトランスクリプトからの、上位および新しい問題の発見を自動化することができます。</span><span class="sxs-lookup"><span data-stu-id="ba8c4-110">The customer service manager will be able to automate the top and emerging issues being discovered from support case incidents and virtual agent chat transcripts.</span></span>
 
 ![トピック ページ](../media/customer-service-virtual-agent-1.png)
 

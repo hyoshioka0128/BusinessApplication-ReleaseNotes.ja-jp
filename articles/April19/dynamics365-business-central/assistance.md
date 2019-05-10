@@ -11,18 +11,18 @@ ms.technology: ''
 ms.author: mikebc
 audience: end user
 ms.openlocfilehash: 8ab0347916dd541f78d4c0266170526a02c55701
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "286229"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225085"
 ---
-# <a name="simplified-help-and-support-experience"></a><span data-ttu-id="3296e-103">ヘルプとサポートのエクスペリエンスの簡略化</span><span class="sxs-lookup"><span data-stu-id="3296e-103">Simplified Help and Support experience</span></span>
+# <a name="simplified-help-and-support-experience"></a><span data-ttu-id="484a4-103">ヘルプとサポートのエクスペリエンスの簡略化</span><span class="sxs-lookup"><span data-stu-id="484a4-103">Simplified Help and Support experience</span></span>
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-<span data-ttu-id="3296e-104">支援が必要なときの幅広いツールとリンクがまとめられている新しいヘルプとサポートの統一エクスペリエンスを使って、障害を取り除きましょう。</span><span class="sxs-lookup"><span data-stu-id="3296e-104">Get unblocked using the new unified Help and Support experience that brings together our breadth of tools and links when assistance is needed.</span></span> <span data-ttu-id="3296e-105">ユーザーは、セルフヘルプのコンテンツおよびドキュメントへのリンクや、自己診断したりサポートに渡したりするためのトラブルシューティング情報を見つけたり、コミュニティからのアドバイスを探したり、新しいアイデアを投稿したりできます。</span><span class="sxs-lookup"><span data-stu-id="3296e-105">Users will now find links to self-help content and documentation, commonly requested troubleshooting information to self-diagnose or hand over to Support, seek advice from the community, or post new ideas.</span></span> <span data-ttu-id="3296e-106">管理者は、顧客の組織用に 1 つのサポート メール アドレスを構成できます。これにより、すべてのユーザーが、IT 管理者やサポート パートナーに連絡して、サポートを受けることができます。</span><span class="sxs-lookup"><span data-stu-id="3296e-106">Administrators can configure a single support email address for the customer's organization that allows any user to contact their IT administrator or supporting partner to receive support.</span></span>
+<span data-ttu-id="484a4-104">支援が必要なときの幅広いツールとリンクがまとめられている新しいヘルプとサポートの統一エクスペリエンスを使って、障害を取り除きましょう。</span><span class="sxs-lookup"><span data-stu-id="484a4-104">Get unblocked using the new unified Help and Support experience that brings together our breadth of tools and links when assistance is needed.</span></span> <span data-ttu-id="484a4-105">ユーザーは、セルフヘルプのコンテンツおよびドキュメントへのリンクや、自己診断したりサポートに渡したりするためのトラブルシューティング情報を見つけたり、コミュニティからのアドバイスを探したり、新しいアイデアを投稿したりできます。</span><span class="sxs-lookup"><span data-stu-id="484a4-105">Users will now find links to self-help content and documentation, commonly requested troubleshooting information to self-diagnose or hand over to Support, seek advice from the community, or post new ideas.</span></span> <span data-ttu-id="484a4-106">管理者は、顧客の組織用に 1 つのサポート メール アドレスを構成できます。これにより、すべてのユーザーが、IT 管理者やサポート パートナーに連絡して、サポートを受けることができます。</span><span class="sxs-lookup"><span data-stu-id="484a4-106">Administrators can configure a single support email address for the customer's organization that allows any user to contact their IT administrator or supporting partner to receive support.</span></span>
 
-<span data-ttu-id="3296e-107">![セルフヘルプ、フィードバックの提供、問題のトラブルシューティング、またはサポートへの連絡のための多数のリンクが表示されている、新しいアプリ内のヘルプとサポート画面のコンセプト デザイン](media/help-and-support.png "新しいヘルプとサポート画面のコンセプト デザイン")</span><span class="sxs-lookup"><span data-stu-id="3296e-107">![Concept design for the new in-app Help and Support screen showing a number of links for self-help, giving feedback, troubleshooting issues or contacting support](media/help-and-support.png "Concept design for the new Help and Support screen")</span></span>
+<span data-ttu-id="484a4-107">![セルフヘルプ、フィードバックの提供、問題のトラブルシューティング、またはサポートへの連絡のための多数のリンクが表示されている、新しいアプリ内のヘルプとサポート画面のコンセプト デザイン](media/help-and-support.png "新しいヘルプとサポート画面のコンセプト デザイン")</span><span class="sxs-lookup"><span data-stu-id="484a4-107">![Concept design for the new in-app Help and Support screen showing a number of links for self-help, giving feedback, troubleshooting issues or contacting support](media/help-and-support.png "Concept design for the new Help and Support screen")</span></span>
 
 <!--
 Describe the new feature, and then give an elevator pitch of the business value for it. Include high-value capabilities that light up something exciting for our customers. The feature should be something that a customer needs to plan for...definitely larger than a hotfix or bug fix.

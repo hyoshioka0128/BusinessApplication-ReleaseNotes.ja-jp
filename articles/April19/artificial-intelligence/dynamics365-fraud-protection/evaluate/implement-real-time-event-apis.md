@@ -11,13 +11,13 @@ ms.custom:
 ms.service: dynamics-365-customerservice
 ms.author: v-jowigh
 ms.openlocfilehash: ff103032a106cec0b642a76047d8263b409b8fde
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406292"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225034"
 ---
-#  <a name="implement-real-time-event-apis"></a><span data-ttu-id="18cf2-103">リアルタイム イベント API の実装</span><span class="sxs-lookup"><span data-stu-id="18cf2-103">Implement real-time event APIs</span></span>
+#  <a name="implement-real-time-event-apis"></a><span data-ttu-id="6989b-103">リアルタイム イベント API の実装</span><span class="sxs-lookup"><span data-stu-id="6989b-103">Implement real-time event APIs</span></span>
 [!include[dynamics365-fraud-protection banner](../../../includes/dynamics365-fraud-protection.md)]
 
 
@@ -25,4 +25,4 @@ ms.locfileid: "406292"
 
 
 
-<span data-ttu-id="18cf2-104">リアルタイムのトランザクション データを取り込むため、Dynamics 365 Fraud Protection ではイベント API が提供されています。</span><span class="sxs-lookup"><span data-stu-id="18cf2-104">To ingest your real-time transaction data, Dynamics 365 Fraud Protection provides an event API.</span></span> <span data-ttu-id="18cf2-105">迅速な立ち上げのために提供されているサンプル コードでは、リスク イベント API が呼び出され、デバイスのフィンガープリント タグが追加されて、ルール エンジンで決定ルールを設定できるようになります。</span><span class="sxs-lookup"><span data-stu-id="18cf2-105">For fast ramp-up, we provide sample code that calls the risk event APIs, adds device fingerprinting tags, and enables you to configure decision rules in the rules engine.</span></span> <span data-ttu-id="18cf2-106">これらのルールでは、不正防止ネットワークのリスク モデルによって評価されたリスク スコアを使用できます。</span><span class="sxs-lookup"><span data-stu-id="18cf2-106">These rules can consume a risk score evaluated by the risk model in the fraud protection network.</span></span> <span data-ttu-id="18cf2-107">最小限の作業で、Dynamics 365 Fraud Protection API を実装し、製品が正しく統合されるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="18cf2-107">With minimal effort, you can implement Dynamics 365 Fraud Protection APIs to ensure your product is properly integrated.</span></span>
+<span data-ttu-id="6989b-104">リアルタイムのトランザクション データを取り込むため、Dynamics 365 Fraud Protection ではイベント API が提供されています。</span><span class="sxs-lookup"><span data-stu-id="6989b-104">To ingest your real-time transaction data, Dynamics 365 Fraud Protection provides an event API.</span></span> <span data-ttu-id="6989b-105">迅速な立ち上げのために提供されているサンプル コードでは、リスク イベント API が呼び出され、デバイスのフィンガープリント タグが追加されて、ルール エンジンで決定ルールを設定できるようになります。</span><span class="sxs-lookup"><span data-stu-id="6989b-105">For fast ramp-up, we provide sample code that calls the risk event APIs, adds device fingerprinting tags, and enables you to configure decision rules in the rules engine.</span></span> <span data-ttu-id="6989b-106">これらのルールでは、不正防止ネットワークのリスク モデルによって評価されたリスク スコアを使用できます。</span><span class="sxs-lookup"><span data-stu-id="6989b-106">These rules can consume a risk score evaluated by the risk model in the fraud protection network.</span></span> <span data-ttu-id="6989b-107">最小限の作業で、Dynamics 365 Fraud Protection API を実装し、製品が正しく統合されるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="6989b-107">With minimal effort, you can implement Dynamics 365 Fraud Protection APIs to ensure your product is properly integrated.</span></span>

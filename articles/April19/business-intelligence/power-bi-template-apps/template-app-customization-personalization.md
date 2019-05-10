@@ -8,16 +8,16 @@ ms.topic: article
 ms.service: business-applications
 ms.author: adamw
 ms.openlocfilehash: f7207b6dcb3241cf1bb1180455e3ec1da206841a
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "850286"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225079"
 ---
-# <a name="template-app-customization-and-personalization"></a><span data-ttu-id="87436-103">テンプレート アプリのカスタマイズと個人用設定</span><span class="sxs-lookup"><span data-stu-id="87436-103">Template app customization and personalization</span></span>
+# <a name="template-app-customization-and-personalization"></a><span data-ttu-id="1d1b5-103">テンプレート アプリのカスタマイズと個人用設定</span><span class="sxs-lookup"><span data-stu-id="1d1b5-103">Template app customization and personalization</span></span>
 
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
 
-<span data-ttu-id="87436-104">テンプレート アプリのインストール後、ユーザーはインストールしたコンテンツを各自のニーズに合わせてパーソナライズし、カスタマイズできます。</span><span class="sxs-lookup"><span data-stu-id="87436-104">After installing a template app, users will have the ability to personalize and customize the installed content to suit their needs.</span></span> <span data-ttu-id="87436-105">テンプレート アプリをインストールすると、ワークスペースが自動的に作成され、そのワークスペースにパッケージ コンテンツが展開されます。</span><span class="sxs-lookup"><span data-stu-id="87436-105">The template app installation automatically creates a workspace and deploys the package content into that workspace.</span></span> <span data-ttu-id="87436-106">その後、ワークスペースがアプリとして自動的に公開されます。既定では、インストールしたユーザーのみが利用できます。</span><span class="sxs-lookup"><span data-stu-id="87436-106">It then automatically publishes the workspace as an app, available by default only to the installer.</span></span> <span data-ttu-id="87436-107">インストール後、インストールしたユーザーは、他のワークスペースの場合と同じように、ワークスペース内のコンテンツを変更し、組織に何をいつ公開するかを選択できます。</span><span class="sxs-lookup"><span data-stu-id="87436-107">Post-installation, an installer can modify the content in the workspace and choose when and what to publish to the organization, just like they would for any other workspace.</span></span>
+<span data-ttu-id="1d1b5-104">テンプレート アプリのインストール後、ユーザーはインストールしたコンテンツを各自のニーズに合わせてパーソナライズし、カスタマイズできます。</span><span class="sxs-lookup"><span data-stu-id="1d1b5-104">After installing a template app, users will have the ability to personalize and customize the installed content to suit their needs.</span></span> <span data-ttu-id="1d1b5-105">テンプレート アプリをインストールすると、ワークスペースが自動的に作成され、そのワークスペースにパッケージ コンテンツが展開されます。</span><span class="sxs-lookup"><span data-stu-id="1d1b5-105">The template app installation automatically creates a workspace and deploys the package content into that workspace.</span></span> <span data-ttu-id="1d1b5-106">その後、ワークスペースがアプリとして自動的に公開されます。既定では、インストールしたユーザーのみが利用できます。</span><span class="sxs-lookup"><span data-stu-id="1d1b5-106">It then automatically publishes the workspace as an app, available by default only to the installer.</span></span> <span data-ttu-id="1d1b5-107">インストール後、インストールしたユーザーは、他のワークスペースの場合と同じように、ワークスペース内のコンテンツを変更し、組織に何をいつ公開するかを選択できます。</span><span class="sxs-lookup"><span data-stu-id="1d1b5-107">Post-installation, an installer can modify the content in the workspace and choose when and what to publish to the organization, just like they would for any other workspace.</span></span>
 
 [!include[feedback](../includes/service-feedback.md)]

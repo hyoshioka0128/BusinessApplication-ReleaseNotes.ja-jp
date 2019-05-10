@@ -11,19 +11,19 @@ author: ReneeW-CPub
 ms.author: renwe
 ms.reviewer: ''
 ms.openlocfilehash: bc039e2f0c88d56003685ce12cf98a94305f0350
-ms.sourcegitcommit: 0cb71711d7b637317ea3866e3eeff7729e7a0d33
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "904221"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225471"
 ---
-#  <a name="overview-of-omni-channel-engagement-hub-april-19-release"></a><span data-ttu-id="6814d-103">Omni-channel Engagement Hub 2019 年 4 月リリースの概要</span><span class="sxs-lookup"><span data-stu-id="6814d-103">Overview of Omni-channel Engagement Hub April '19 release</span></span>
+#  <a name="overview-of-omni-channel-engagement-hub-april-19-release"></a><span data-ttu-id="986fe-103">Omni-channel Engagement Hub 2019 年 4 月リリースの概要</span><span class="sxs-lookup"><span data-stu-id="986fe-103">Overview of Omni-channel Engagement Hub April '19 release</span></span>
 [!include[service banner](../../includes/service.md)]
 
-<span data-ttu-id="6814d-104">Omni-channel Engagement Hub for Dynamics 365 は、Dynamics 365 for Customer Service の機能を拡張したクラウド ベースのサービスです。組織はライブ チャットや SMS などのチャネルを通じて顧客とすばやくやり取りし、エンゲージメントを促進することができます。</span><span class="sxs-lookup"><span data-stu-id="6814d-104">The Omni-channel Engagement Hub for Dynamics 365 is a cloud-based service that extends the power of Dynamics 365 for Customer Service to enable organizations to instantly connect and engage with their customers via channels like Live Chat and SMS.</span></span>
+<span data-ttu-id="986fe-104">Omni-channel Engagement Hub for Dynamics 365 は、Dynamics 365 for Customer Service の機能を拡張したクラウド ベースのサービスです。組織はライブ チャットや SMS などのチャネルを通じて顧客とすばやくやり取りし、エンゲージメントを促進することができます。</span><span class="sxs-lookup"><span data-stu-id="986fe-104">The Omni-channel Engagement Hub for Dynamics 365 is a cloud-based service that extends the power of Dynamics 365 for Customer Service to enable organizations to instantly connect and engage with their customers via channels like Live Chat and SMS.</span></span>
 
-<span data-ttu-id="6814d-105">また、Omni-channel Engagement Hub は、エージェントがさまざまなチャネルから顧客とやり取りできるようにする、カスタマイズ可能で生産性に優れた最新アプリを提供します。</span><span class="sxs-lookup"><span data-stu-id="6814d-105">Omni-channel Engagement Hub also provides a modern, customizable, high-productivity app that allows agents to engage with customers across different channels.</span></span> <span data-ttu-id="6814d-106">このアプリでは、コンテキストに応じた顧客識別、リアルタイム通知、統合コミュニケーション、およびエージェントを効果的にするためのサポート情報 (KB) 統合、検索、サポート案件作成などのエージェント生産性向上ツールが提供されます。</span><span class="sxs-lookup"><span data-stu-id="6814d-106">This app offers contextual customer identification, real-time notification, integrated communication, and agent productivity tools like knowledge base (KB) integration, search, and case creation to ensure agents are effective.</span></span> 
+<span data-ttu-id="986fe-105">また、Omni-channel Engagement Hub は、エージェントがさまざまなチャネルから顧客とやり取りできるようにする、カスタマイズ可能で生産性に優れた最新アプリを提供します。</span><span class="sxs-lookup"><span data-stu-id="986fe-105">Omni-channel Engagement Hub also provides a modern, customizable, high-productivity app that allows agents to engage with customers across different channels.</span></span> <span data-ttu-id="986fe-106">このアプリでは、コンテキストに応じた顧客識別、リアルタイム通知、統合コミュニケーション、およびエージェントを効果的にするためのサポート情報 (KB) 統合、検索、サポート案件作成などのエージェント生産性向上ツールが提供されます。</span><span class="sxs-lookup"><span data-stu-id="986fe-106">This app offers contextual customer identification, real-time notification, integrated communication, and agent productivity tools like knowledge base (KB) integration, search, and case creation to ensure agents are effective.</span></span> 
 
-<span data-ttu-id="6814d-107">スーパーバイザーは、エージェントの業務効率や各種チャネルの使用状況に関するリアルタイムおよび履歴の可視性と分析情報を確保することができます。</span><span class="sxs-lookup"><span data-stu-id="6814d-107">Supervisors get real-time and historical visibility and insights into the operational efficiency of agents and the utilization across various channels.</span></span> 
+<span data-ttu-id="986fe-107">スーパーバイザーは、エージェントの業務効率や各種チャネルの使用状況に関するリアルタイムおよび履歴の可視性と分析情報を確保することができます。</span><span class="sxs-lookup"><span data-stu-id="986fe-107">Supervisors get real-time and historical visibility and insights into the operational efficiency of agents and the utilization across various channels.</span></span> 
 
-<span data-ttu-id="6814d-108">お客様は、エンタープライズ レベルのルーティング機能と作業配分エンジンによって、エージェントのプレゼンス、利用可能性、およびルーティング規則を構成し、エージェントが最も関連性の高いエンゲージメントを処理できるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="6814d-108">The enterprise-grade routing and work distribution engine allows customers to configure agent presence, availability, and routing rules, thus ensuring agents are working on the most relevant engagements.</span></span>
+<span data-ttu-id="986fe-108">お客様は、エンタープライズ レベルのルーティング機能と作業配分エンジンによって、エージェントのプレゼンス、利用可能性、およびルーティング規則を構成し、エージェントが最も関連性の高いエンゲージメントを処理できるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="986fe-108">The enterprise-grade routing and work distribution engine allows customers to configure agent presence, availability, and routing rules, thus ensuring agents are working on the most relevant engagements.</span></span>

@@ -8,13 +8,13 @@ ms.service: business-applications
 ms.author: mapau
 ms.reviewer: v-brycho
 ms.openlocfilehash: 370381d46de04a5907a5ecdaba004af5925b3244
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211091"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225277"
 ---
-# <a name="localization"></a><span data-ttu-id="d218b-103">ローカライズ</span><span class="sxs-lookup"><span data-stu-id="d218b-103">Localization</span></span>
+# <a name="localization"></a><span data-ttu-id="9ea15-103">ローカライズ</span><span class="sxs-lookup"><span data-stu-id="9ea15-103">Localization</span></span>
 [!include[microsoft-dynamics365-remote-assist banner](../../includes/microsoft-dynamics365-remote-assist.md)]
 
-<span data-ttu-id="d218b-104">Remote Assist は複数の言語にローカライズされます。</span><span class="sxs-lookup"><span data-stu-id="d218b-104">Remote Assist will be localized into multiple languages.</span></span>  
+<span data-ttu-id="9ea15-104">Remote Assist は複数の言語にローカライズされます。</span><span class="sxs-lookup"><span data-stu-id="9ea15-104">Remote Assist will be localized into multiple languages.</span></span>  

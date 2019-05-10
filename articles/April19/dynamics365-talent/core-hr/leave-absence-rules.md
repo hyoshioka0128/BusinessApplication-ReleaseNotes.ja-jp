@@ -1,32 +1,39 @@
 ---
-title: 早退および欠勤のルールとポリシー
-description: Talent では、早退と欠勤のルールとポリシーの構成方法がいっそう柔軟になっています。
-author: josaw1
-ms.date: 01/14/2019
+title: 休暇管理によって従業員の生産性を最大化する
+description: Talent では、休暇のルールとポリシーの構成方法がいっそう柔軟になっています。
+author: andreabichsel
+ms.date: 04/02/2019
 ms.topic: article
 ms.service: business-applications
-ms.author: josaw
-ms.openlocfilehash: 5824863ad6a51251c4987e45dd20a93ba1816a0a
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.author: anbichse
+ms.openlocfilehash: 5384c1ef6c1ea1fbaf15b284cb9a9534f35ae270
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210941"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225488"
 ---
-# <a name="leave-and-absence-rules-and-policies"></a><span data-ttu-id="ad4b6-103">早退および欠勤のルールとポリシー</span><span class="sxs-lookup"><span data-stu-id="ad4b6-103">Leave and absence rules and policies</span></span>
+# <a name="maximize-employee-productivity-through-leave-and-absence-management"></a><span data-ttu-id="5c96e-103">休暇管理によって従業員の生産性を最大化する</span><span class="sxs-lookup"><span data-stu-id="5c96e-103">Maximize employee productivity through leave and absence management</span></span>
       
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
-            
-<span data-ttu-id="ad4b6-104">Talent では、規制や会社の要件を満たすためにルールやポリシーを構成する方法をいっそう柔軟にする作業が今後も続けられます。</span><span class="sxs-lookup"><span data-stu-id="ad4b6-104">Talent will continue to provide more flexibility in how rules and policies are configured to meet regulatory and company requirements.</span></span> <span data-ttu-id="ad4b6-105">1 つのポリシーは、繰り越しを適用および取得する方法に関連しています。</span><span class="sxs-lookup"><span data-stu-id="ad4b6-105">One policy is related to how carryover is applied and taken.</span></span> <span data-ttu-id="ad4b6-106">HR は、繰り越しを休暇プランに含めるかどうかを構成できます。</span><span class="sxs-lookup"><span data-stu-id="ad4b6-106">HR will be able to configure carryover whether carryover is included with a leave plan.</span></span> <span data-ttu-id="ad4b6-107">また、休暇プランの一部として繰り越しが含まれる場合に、繰り越しを取得する必要があるときを構成することもできます。</span><span class="sxs-lookup"><span data-stu-id="ad4b6-107">They’ll also be able to configure when carryover needs to be taken if it’s included as part of the leave plan.</span></span>
-            
-<span data-ttu-id="ad4b6-108">組織では、従業員が休暇を申請するときに、特定の休暇の種類に理由コードを設定するように要求することもあります。</span><span class="sxs-lookup"><span data-stu-id="ad4b6-108">Organizations may also require reason codes to be set on specific leave types when employees submit time off.</span></span> <span data-ttu-id="ad4b6-109">これは、その国/地域の規制要件または会社のポリシーに基づいて必要になる場合があります。</span><span class="sxs-lookup"><span data-stu-id="ad4b6-109">This may be required based on a regulatory requirement in their country/region or a company policy.</span></span> <span data-ttu-id="ad4b6-110">Talent では、HR は理由コードを必要とする休暇タイプを指定できます。</span><span class="sxs-lookup"><span data-stu-id="ad4b6-110">Talent will provide the ability for HR to specify which leave types require a reason code.</span></span> <span data-ttu-id="ad4b6-111">従業員は、理由コードが必要なタイプの休暇申請を提出するとき、HR によって指定されている理由コードの 1 つを選択する必要があります。</span><span class="sxs-lookup"><span data-stu-id="ad4b6-111">When employees submit time-off requests where the type requires a reason code, they’ll have to select one of the reason codes specified by HR.</span></span>
-            
-## <a name="updating-time-off"></a><span data-ttu-id="ad4b6-112">休暇の更新</span><span class="sxs-lookup"><span data-stu-id="ad4b6-112">Updating time off</span></span>
-            
-<span data-ttu-id="ad4b6-113">従業員の休暇申請は、ワークフローで承認された後に更新またはキャンセルすることが必要になる場合があります。</span><span class="sxs-lookup"><span data-stu-id="ad4b6-113">Employee time-off requests might need to be updated or canceled after they've been approved through workflow.</span></span> <span data-ttu-id="ad4b6-114">多くの場合、HR の担当者または従業員のマネージャーがこれらの更新を行います。</span><span class="sxs-lookup"><span data-stu-id="ad4b6-114">In many cases, the HR person or the employee's manager makes these updates.</span></span> <span data-ttu-id="ad4b6-115">Talent は、従業員の休暇申請を承認後に更新またはキャンセルする機能をマネージャーと HR に提供します。</span><span class="sxs-lookup"><span data-stu-id="ad4b6-115">Talent will provide managers and HR the ability to update or cancel an employee's time-off request after it’s been approved.</span></span> <span data-ttu-id="ad4b6-116">これはプロセスを合理化し、データを最新の状態に保つために役立ちます。</span><span class="sxs-lookup"><span data-stu-id="ad4b6-116">This helps to streamline the process and keep time-off data up to date.</span></span>
-            
-## <a name="book-future-time-off"></a><span data-ttu-id="ad4b6-117">将来の休暇の予約</span><span class="sxs-lookup"><span data-stu-id="ad4b6-117">Book future time off</span></span>
-            
-<span data-ttu-id="ad4b6-118">従業員のセルフサービス内では、現在の残り休暇日数だけでなく、将来の休暇の残りも表示されます。</span><span class="sxs-lookup"><span data-stu-id="ad4b6-118">Within employee self-service, employees now see not only their current time-off balances, but also what their time-off balances will be in the future.</span></span> <span data-ttu-id="ad4b6-119">また、次の休暇期間の休暇申請を提出することもできます。</span><span class="sxs-lookup"><span data-stu-id="ad4b6-119">They'll also be able to submit time-off requests for the next leave period.</span></span> <span data-ttu-id="ad4b6-120">これにより、従業員は会社のポリシーを満たすとともに、次の休暇期間に取得できる休暇の日数と、繰り越しがあるかどうかおよびその日数を確認することができます。</span><span class="sxs-lookup"><span data-stu-id="ad4b6-120">This enables employees to meet company policy as well as understand how much time off they have in the next leave period and how much they will or won’t carry over.</span></span>
 
+            
+## <a name="updating-time-off"></a><span data-ttu-id="5c96e-104">休暇の更新</span><span class="sxs-lookup"><span data-stu-id="5c96e-104">Updating time off</span></span>
+            
+<span data-ttu-id="5c96e-105">従業員の休暇申請がワークフローで承認された後に、更新またはキャンセルすることが必要になる場合があります。</span><span class="sxs-lookup"><span data-stu-id="5c96e-105">Employee time-off requests might need to be updated or canceled after they've been approved through workflow.</span></span> <span data-ttu-id="5c96e-106">多くの場合、HR の担当者または従業員のマネージャーがこれらの更新を行います。</span><span class="sxs-lookup"><span data-stu-id="5c96e-106">In many cases, the HR person or the employee's manager makes these updates.</span></span> <span data-ttu-id="5c96e-107">Talent は、従業員の休暇申請を承認後に更新またはキャンセルする機能をマネージャーと HR に提供します。</span><span class="sxs-lookup"><span data-stu-id="5c96e-107">Talent will provide managers and HR the ability to update or cancel an employee's time-off request after it’s been approved.</span></span> <span data-ttu-id="5c96e-108">これはプロセスを効率化し、休暇データを最新の状態に保つために役立ちます。</span><span class="sxs-lookup"><span data-stu-id="5c96e-108">This helps to streamline the process and keep time-off data up to date.</span></span>
+            
+## <a name="book-future-time-off"></a><span data-ttu-id="5c96e-109">将来の休暇の予約</span><span class="sxs-lookup"><span data-stu-id="5c96e-109">Book future time off</span></span>
+            
+<span data-ttu-id="5c96e-110">従業員のセルフサービス内では、現在の残り休暇日数と、将来の休暇の残りの両方が表示されます。</span><span class="sxs-lookup"><span data-stu-id="5c96e-110">In employee self-service, employees now see both their current time-off balances and what their time-off balances will be in the future.</span></span> <span data-ttu-id="5c96e-111">次の休暇期間の休暇申請を提出することもできます。</span><span class="sxs-lookup"><span data-stu-id="5c96e-111">They can also submit time-off requests for the next leave period.</span></span> <span data-ttu-id="5c96e-112">これは、従業員が会社のポリシーを満たすのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="5c96e-112">This helps employees meet company policy.</span></span> <span data-ttu-id="5c96e-113">また、次の休暇期間に取得できる休暇の日数と、繰り越しがあるかどうかおよびその日数を確認するのにも役立ちます。</span><span class="sxs-lookup"><span data-stu-id="5c96e-113">It also helps them understand how much time off they have in the next leave period and how much they will or won’t carry over.</span></span>
 
+## <a name="include-reason-codes-with-leave-requests"></a><span data-ttu-id="5c96e-114">休暇申請に理由コードを含める</span><span class="sxs-lookup"><span data-stu-id="5c96e-114">Include reason codes with leave requests</span></span>
+
+<span data-ttu-id="5c96e-115">組織が休暇申請に関する追加情報を必要とする場合があります。</span><span class="sxs-lookup"><span data-stu-id="5c96e-115">Organizations might need additional information related to time-off requests.</span></span> <span data-ttu-id="5c96e-116">従業員が休暇を申請するときに、特定の休暇の種類に理由コードを入力するよう求める場合もあります。</span><span class="sxs-lookup"><span data-stu-id="5c96e-116">They might also require reason codes for specific leave types when employees submit time off.</span></span> <span data-ttu-id="5c96e-117">これは、その国の規制要件や、会社のポリシーによって必要になる可能性があります。</span><span class="sxs-lookup"><span data-stu-id="5c96e-117">This could be due to a regulatory requirement in their country or a company policy.</span></span> <span data-ttu-id="5c96e-118">このような情報を提供するために、従業員は休暇申請に理由コードを含めることができます。</span><span class="sxs-lookup"><span data-stu-id="5c96e-118">To provide this information, employees can include a reason code on their time-off requests.</span></span> 
+
+## <a name="additional-reporting-for-leave-and-absence"></a><span data-ttu-id="5c96e-119">休暇に関する追加報告</span><span class="sxs-lookup"><span data-stu-id="5c96e-119">Additional reporting for leave and absence</span></span>
+
+<span data-ttu-id="5c96e-120">休暇は、多くの組織が従業員に対して提供している福利厚生です。</span><span class="sxs-lookup"><span data-stu-id="5c96e-120">Time off is a benefit many organizations provide to employees.</span></span> <span data-ttu-id="5c96e-121">従業員の休暇を追跡し、休暇の計算方法を理解することは非常に重要です。</span><span class="sxs-lookup"><span data-stu-id="5c96e-121">Tracking employee time off and understanding how time off is being calculated is essential.</span></span> <span data-ttu-id="5c96e-122">これは組織が従業員の質問に答え、正確な休暇が従業員に付与されるようにするために役立ちます。</span><span class="sxs-lookup"><span data-stu-id="5c96e-122">This helps organizations answer employee questions and ensures accurate time-off awards are given to employees.</span></span> 
+
+## <a name="leave-suspension"></a><span data-ttu-id="5c96e-123">休暇の保留</span><span class="sxs-lookup"><span data-stu-id="5c96e-123">Leave suspension</span></span>
+
+<span data-ttu-id="5c96e-124">組織に、従業員が長期間欠勤している場合の休暇の扱いに関するポリシーが存在する場合があります。</span><span class="sxs-lookup"><span data-stu-id="5c96e-124">Organizations might have policies around what happens to leave when employees aren't at work for long periods of time.</span></span> <span data-ttu-id="5c96e-125">一部の組織では、これは欠勤中に休暇の見越計上を保留することを意味します。</span><span class="sxs-lookup"><span data-stu-id="5c96e-125">For some, this might mean suspending leave accruals during time away.</span></span> <span data-ttu-id="5c96e-126">人事担当者は、従業員が欠勤している場合の休暇の保留に関する規則を作成できます。</span><span class="sxs-lookup"><span data-stu-id="5c96e-126">HR professionals will be able to create rules around suspending leave when employees are on unpaid leave.</span></span> 

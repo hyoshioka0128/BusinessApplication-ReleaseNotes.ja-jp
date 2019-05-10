@@ -8,20 +8,20 @@ ms.service: business-applications
 ms.author: ''
 ms.reviewer: v-stsau
 ms.openlocfilehash: 3e3d53ffd2d92e24fdb3f829d335f51cd2d0c3cb
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "843691"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225041"
 ---
 <!--from editor: Please provide caption info for screenshot.-->
 
-# <a name="get-started-with-pre-built-templates-and-models-with-common-support-topics-for-your-industry"></a><span data-ttu-id="f95c0-103">業界で共通のサポート トピックで事前構築されたテンプレートとモデルから始める</span><span class="sxs-lookup"><span data-stu-id="f95c0-103">Get started with pre-built templates and models with common support topics for your industry</span></span>
+# <a name="get-started-with-pre-built-templates-and-models-with-common-support-topics-for-your-industry"></a><span data-ttu-id="fd825-103">業界で共通のサポート トピックで事前構築されたテンプレートとモデルから始める</span><span class="sxs-lookup"><span data-stu-id="fd825-103">Get started with pre-built templates and models with common support topics for your industry</span></span>
 [!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]
 
 
-<span data-ttu-id="f95c0-104">従来の方法を使用した仮想エージェントの構築に関連する急勾配の投資曲線は、業界固有のサポート コンテンツおよび人工知能モデルの欠落によってさらに増幅されます。</span><span class="sxs-lookup"><span data-stu-id="f95c0-104">The steep investment curve associated with building a virtual agent using traditional methods is further amplified by the lack of industry-specific support content and artificial intelligence models.</span></span>
+<span data-ttu-id="fd825-104">従来の方法を使用した仮想エージェントの構築に関連する急勾配の投資曲線は、業界固有のサポート コンテンツおよび人工知能モデルの欠落によってさらに増幅されます。</span><span class="sxs-lookup"><span data-stu-id="fd825-104">The steep investment curve associated with building a virtual agent using traditional methods is further amplified by the lack of industry-specific support content and artificial intelligence models.</span></span>
 
-<span data-ttu-id="f95c0-105">Dynamics 365 Virtual Agent for Customer Service には、重要なサポート要件を含む包括的なテンプレートがあらかじめ読み込まれています。</span><span class="sxs-lookup"><span data-stu-id="f95c0-105">Dynamics 365 Virtual Agent for Customer Service comes pre-loaded with comprehensive templates that have significant support requirements.</span></span> <span data-ttu-id="f95c0-106">これらのテンプレートにより、顧客サービス マネージャーは特定の業界向けの主要なサポート トピックについて事前にトレーニングされた仮想エージェントを構築して、業界固有の問題を扱う会話を構築するための基盤を確立できます。</span><span class="sxs-lookup"><span data-stu-id="f95c0-106">These templates empower a customer service manager to build a virtual agent that is pre-trained with key support topics for a specific industry, establishing a base for building conversations that cover industry-specific issues.</span></span>
+<span data-ttu-id="fd825-105">Dynamics 365 Virtual Agent for Customer Service には、重要なサポート要件を含む包括的なテンプレートがあらかじめ読み込まれています。</span><span class="sxs-lookup"><span data-stu-id="fd825-105">Dynamics 365 Virtual Agent for Customer Service comes pre-loaded with comprehensive templates that have significant support requirements.</span></span> <span data-ttu-id="fd825-106">これらのテンプレートにより、顧客サービス マネージャーは特定の業界向けの主要なサポート トピックについて事前にトレーニングされた仮想エージェントを構築して、業界固有の問題を扱う会話を構築するための基盤を確立できます。</span><span class="sxs-lookup"><span data-stu-id="fd825-106">These templates empower a customer service manager to build a virtual agent that is pre-trained with key support topics for a specific industry, establishing a base for building conversations that cover industry-specific issues.</span></span>
 
 ![[新しいボットの作成] 画面](../media/customer-service-virtual-agent-5.png)

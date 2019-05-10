@@ -11,33 +11,33 @@ ms.technology: ''
 ms.author: mikebc
 audience: developer, end user, customizer
 ms.openlocfilehash: 29ce32ab62e49f3515984a73c0d059b35ca057fd
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "404909"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224994"
 ---
-# <a name="page-inspection-formerly-about-this-page"></a><span data-ttu-id="04db8-105">ページの検査 (以前の*このページについて*)</span><span class="sxs-lookup"><span data-stu-id="04db8-105">Page inspection (formerly *About This Page*)</span></span>
+# <a name="page-inspection-formerly-about-this-page"></a><span data-ttu-id="66222-105">ページの検査 (以前の*このページについて*)</span><span class="sxs-lookup"><span data-stu-id="66222-105">Page inspection (formerly *About This Page*)</span></span>
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-<span data-ttu-id="04db8-106">ビジネス データまたは機能構成のエラーのトラブルシューティングを行うときは、多くの場合、ページに表示されているもの以外の追加レベルの分析情報が必要です。</span><span class="sxs-lookup"><span data-stu-id="04db8-106">Troubleshooting errors in business data or feature configuration often requires an additional level of insight beyond what is shown on the page.</span></span> <span data-ttu-id="04db8-107">パワー ユーザーとサポート スタッフは、ページ (またはページ内の部分) を調べて、ページに表示されていないフィールドなど、現在のレコードの内容全体を明らかにすることができます。</span><span class="sxs-lookup"><span data-stu-id="04db8-107">Power users and support staff can now inspect any page (or the page parts within a page), revealing the entire contents of the current record including fields that are not shown on the page.</span></span>
+<span data-ttu-id="66222-106">ビジネス データまたは機能構成のエラーのトラブルシューティングを行うときは、多くの場合、ページに表示されているもの以外の追加レベルの分析情報が必要です。</span><span class="sxs-lookup"><span data-stu-id="66222-106">Troubleshooting errors in business data or feature configuration often requires an additional level of insight beyond what is shown on the page.</span></span> <span data-ttu-id="66222-107">パワー ユーザーとサポート スタッフは、ページ (またはページ内の部分) を調べて、ページに表示されていないフィールドなど、現在のレコードの内容全体を明らかにすることができます。</span><span class="sxs-lookup"><span data-stu-id="66222-107">Power users and support staff can now inspect any page (or the page parts within a page), revealing the entire contents of the current record including fields that are not shown on the page.</span></span>
 
-<span data-ttu-id="04db8-108">![アイテム情報ボックスの検査](media/page-inspector.png "情報ボックスの 1 つが検査されているアイテム カードの横にあるページの検査ウィンドウ")</span><span class="sxs-lookup"><span data-stu-id="04db8-108">![Inspecting an Item factbox](media/page-inspector.png "The page inspection pane alongside an Item card where one of the factboxes is being inspected")</span></span>
+<span data-ttu-id="66222-108">![アイテム情報ボックスの検査](media/page-inspector.png "情報ボックスの 1 つが検査されているアイテム カードの横にあるページの検査ウィンドウ")</span><span class="sxs-lookup"><span data-stu-id="66222-108">![Inspecting an Item factbox](media/page-inspector.png "The page inspection pane alongside an Item card where one of the factboxes is being inspected")</span></span>
 
-## <a name="getting-started"></a><span data-ttu-id="04db8-109">作業の開始</span><span class="sxs-lookup"><span data-stu-id="04db8-109">Getting started</span></span>
-<span data-ttu-id="04db8-110">デスクトップ ブラウザーまたは Windows デスクトップ アプリで現在表示しているページの検査を開始するには、トップ メニューから**検査**を選択するか、またはキーボード ショートカット **Ctrl + Alt + F1** を使用します。</span><span class="sxs-lookup"><span data-stu-id="04db8-110">Start inspecting the page you are currently viewing in the desktop browser or Windows desktop app by choosing  **Inspect** from the top menu or use the **Ctrl+Alt+F1** keyboard shortcut.</span></span>
+## <a name="getting-started"></a><span data-ttu-id="66222-109">作業の開始</span><span class="sxs-lookup"><span data-stu-id="66222-109">Getting started</span></span>
+<span data-ttu-id="66222-110">デスクトップ ブラウザーまたは Windows デスクトップ アプリで現在表示しているページの検査を開始するには、トップ メニューから**検査**を選択するか、またはキーボード ショートカット **Ctrl + Alt + F1** を使用します。</span><span class="sxs-lookup"><span data-stu-id="66222-110">Start inspecting the page you are currently viewing in the desktop browser or Windows desktop app by choosing  **Inspect** from the top menu or use the **Ctrl+Alt+F1** keyboard shortcut.</span></span>
 
-## <a name="an-evolution-of-the-toolset"></a><span data-ttu-id="04db8-111">ツールセットの進化</span><span class="sxs-lookup"><span data-stu-id="04db8-111">An evolution of the toolset</span></span>
-<span data-ttu-id="04db8-112">Microsoft Dynamics NAV での前身 (一般的に "このページについて" と呼ばれていたもの) とは異なり、ページの検査は、イマーシブで高度にインタラクティブであり、ポイント アンド クリック操作によって、ページ自体の操作を中断することなくページの横に情報が表示されます。</span><span class="sxs-lookup"><span data-stu-id="04db8-112">Unlike its predecessor in Microsoft Dynamics NAV, commonly known as "About this Page," page inspection is an immersive and highly interactive, point-and-click experience that conveniently displays information alongside your page without interrupting how you interact with the page itself.</span></span> <span data-ttu-id="04db8-113">検査対象についての正確な情報の明確さが向上したこととは別に、ページや基になっているテーブルに影響を与えている拡張機能を表示し、それらの拡張機能によって追加されたページやフィールドを知ることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="04db8-113">Apart from the improved clarity on precisely what you are inspecting, you can now view which extensions affect the page and/or underlying table, and learn which pages and fields were added by those extensions.</span></span>
+## <a name="an-evolution-of-the-toolset"></a><span data-ttu-id="66222-111">ツールセットの進化</span><span class="sxs-lookup"><span data-stu-id="66222-111">An evolution of the toolset</span></span>
+<span data-ttu-id="66222-112">Microsoft Dynamics NAV での前身 (一般的に "このページについて" と呼ばれていたもの) とは異なり、ページの検査は、イマーシブで高度にインタラクティブであり、ポイント アンド クリック操作によって、ページ自体の操作を中断することなくページの横に情報が表示されます。</span><span class="sxs-lookup"><span data-stu-id="66222-112">Unlike its predecessor in Microsoft Dynamics NAV, commonly known as "About this Page," page inspection is an immersive and highly interactive, point-and-click experience that conveniently displays information alongside your page without interrupting how you interact with the page itself.</span></span> <span data-ttu-id="66222-113">検査対象についての正確な情報の明確さが向上したこととは別に、ページや基になっているテーブルに影響を与えている拡張機能を表示し、それらの拡張機能によって追加されたページやフィールドを知ることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="66222-113">Apart from the improved clarity on precisely what you are inspecting, you can now view which extensions affect the page and/or underlying table, and learn which pages and fields were added by those extensions.</span></span>
 
-## <a name="feature-highlights"></a><span data-ttu-id="04db8-114">主な機能</span><span class="sxs-lookup"><span data-stu-id="04db8-114">Feature highlights</span></span>
-<span data-ttu-id="04db8-115">調べているページに応じて、以下の一部または全部が表示されます。</span><span class="sxs-lookup"><span data-stu-id="04db8-115">Depending on the page you are inspecting, some or all of the following is displayed:</span></span>
+## <a name="feature-highlights"></a><span data-ttu-id="66222-114">主な機能</span><span class="sxs-lookup"><span data-stu-id="66222-114">Feature highlights</span></span>
+<span data-ttu-id="66222-115">調べているページに応じて、以下の一部または全部が表示されます。</span><span class="sxs-lookup"><span data-stu-id="66222-115">Depending on the page you are inspecting, some or all of the following is displayed:</span></span>
 
-- <span data-ttu-id="04db8-116">ページまたはページの部分の名前と識別子。</span><span class="sxs-lookup"><span data-stu-id="04db8-116">The page or page part name and identifier.</span></span>
-- <span data-ttu-id="04db8-117">基になっているテーブルの名前と識別子。</span><span class="sxs-lookup"><span data-stu-id="04db8-117">The underlying table name and identifier.</span></span>
-- <span data-ttu-id="04db8-118">キャプション、値、フィールド識別子、主キー インジケーター、およびそれらを追加した拡張機能など、現在のレコードのテーブル フィールドのセット全体。</span><span class="sxs-lookup"><span data-stu-id="04db8-118">The entire set of table fields for the current record, including their caption, value, field identifier, primary key indicator, and which extension has introduced them.</span></span>
-- <span data-ttu-id="04db8-119">ページまたは基になっているテーブルを拡張する拡張機能。</span><span class="sxs-lookup"><span data-stu-id="04db8-119">Which extensions extend the page or the underlying table.</span></span>
-- <span data-ttu-id="04db8-120">テーブルに現在適用されているフィルター。</span><span class="sxs-lookup"><span data-stu-id="04db8-120">Which filters are currently applied to the table.</span></span>
+- <span data-ttu-id="66222-116">ページまたはページの部分の名前と識別子。</span><span class="sxs-lookup"><span data-stu-id="66222-116">The page or page part name and identifier.</span></span>
+- <span data-ttu-id="66222-117">基になっているテーブルの名前と識別子。</span><span class="sxs-lookup"><span data-stu-id="66222-117">The underlying table name and identifier.</span></span>
+- <span data-ttu-id="66222-118">キャプション、値、フィールド識別子、主キー インジケーター、およびそれらを追加した拡張機能など、現在のレコードのテーブル フィールドのセット全体。</span><span class="sxs-lookup"><span data-stu-id="66222-118">The entire set of table fields for the current record, including their caption, value, field identifier, primary key indicator, and which extension has introduced them.</span></span>
+- <span data-ttu-id="66222-119">ページまたは基になっているテーブルを拡張する拡張機能。</span><span class="sxs-lookup"><span data-stu-id="66222-119">Which extensions extend the page or the underlying table.</span></span>
+- <span data-ttu-id="66222-120">テーブルに現在適用されているフィルター。</span><span class="sxs-lookup"><span data-stu-id="66222-120">Which filters are currently applied to the table.</span></span>
 
 
 <!--
@@ -52,5 +52,5 @@ Keyboard Shortcuts
 
 -->
 
-## <a name="tell-us-what-you-think"></a><span data-ttu-id="04db8-121">フィードバック</span><span class="sxs-lookup"><span data-stu-id="04db8-121">Tell us what you think</span></span>
-<span data-ttu-id="04db8-122">Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。</span><span class="sxs-lookup"><span data-stu-id="04db8-122">Help us improve Dynamics 365 Business Central by discussing ideas, providing suggestions, and giving feedback.</span></span> <span data-ttu-id="04db8-123">Business Central フォーラム ([https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas)) をご利用ください。</span><span class="sxs-lookup"><span data-stu-id="04db8-123">Use the Business Central forum at [https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas).</span></span>
+## <a name="tell-us-what-you-think"></a><span data-ttu-id="66222-121">フィードバック</span><span class="sxs-lookup"><span data-stu-id="66222-121">Tell us what you think</span></span>
+<span data-ttu-id="66222-122">Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。</span><span class="sxs-lookup"><span data-stu-id="66222-122">Help us improve Dynamics 365 Business Central by discussing ideas, providing suggestions, and giving feedback.</span></span> <span data-ttu-id="66222-123">Business Central フォーラム ([https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas)) をご利用ください。</span><span class="sxs-lookup"><span data-stu-id="66222-123">Use the Business Central forum at [https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas).</span></span>

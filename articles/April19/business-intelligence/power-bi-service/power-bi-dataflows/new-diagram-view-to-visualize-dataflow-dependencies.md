@@ -8,16 +8,16 @@ ms.service: business-applications
 ms.author: antonfrMSFT
 ms.reviewer: mihart
 ms.openlocfilehash: e41da8d4b1875eb5abfbd15c98263b97560e6283
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "849879"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225130"
 ---
-# <a name="new-diagram-view-to-visualize-dataflow-dependencies"></a><span data-ttu-id="94f5f-103">データフローの依存関係を視覚化する新しいダイアグラム ビュー</span><span class="sxs-lookup"><span data-stu-id="94f5f-103">New diagram view to visualize dataflow dependencies</span></span>
+# <a name="new-diagram-view-to-visualize-dataflow-dependencies"></a><span data-ttu-id="20e29-103">データフローの依存関係を視覚化する新しいダイアグラム ビュー</span><span class="sxs-lookup"><span data-stu-id="20e29-103">New diagram view to visualize dataflow dependencies</span></span>
 
 [!include[business-intelligence banner](../../../includes/business-intelligence.md)]
 
-<span data-ttu-id="94f5f-104">BI のプロフェッショナルは、データフローを使用して複雑なデータ準備タスクを処理し、リンクされたエンティティと依存関係を使用して作業を再利用できます。</span><span class="sxs-lookup"><span data-stu-id="94f5f-104">BI professionals can use dataflows to handle complex data preparation tasks, reusing work with linked entities and dependencies.</span></span> <span data-ttu-id="94f5f-105">アナリストが簡単にエンティティの相互関連を理解したり、ETL (抽出、変換、読み込み) プロジェクトを管理したりできるよう、データフローの依存関係やエンティティ間の接続を視覚化するための新しいユーザー エクスペリエンスが導入されています。</span><span class="sxs-lookup"><span data-stu-id="94f5f-105">We are introducing a new user experience for visualizing dataflow dependencies and connections between entities, making it easier for analysts to understand how entities relate to each other and to manage their ETL (extract, transform, load) projects.</span></span>
+<span data-ttu-id="20e29-104">BI のプロフェッショナルは、データフローを使用して複雑なデータ準備タスクを処理し、リンクされたエンティティと依存関係を使用して作業を再利用できます。</span><span class="sxs-lookup"><span data-stu-id="20e29-104">BI professionals can use dataflows to handle complex data preparation tasks, reusing work with linked entities and dependencies.</span></span> <span data-ttu-id="20e29-105">アナリストが簡単にエンティティの相互関連を理解したり、ETL (抽出、変換、読み込み) プロジェクトを管理したりできるよう、データフローの依存関係やエンティティ間の接続を視覚化するための新しいユーザー エクスペリエンスが導入されています。</span><span class="sxs-lookup"><span data-stu-id="20e29-105">We are introducing a new user experience for visualizing dataflow dependencies and connections between entities, making it easier for analysts to understand how entities relate to each other and to manage their ETL (extract, transform, load) projects.</span></span>
 
 [!include[feedback](../../includes/service-feedback.md)]

@@ -11,13 +11,13 @@ ms.custom:
 ms.service: dynamics-365-customerservice
 ms.author: v-jowigh
 ms.openlocfilehash: e0397d68cb9b031dfee4c7ddc00bf5e9cf7214dc
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406287"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225091"
 ---
-#  <a name="support-your-customers"></a><span data-ttu-id="65e9e-103">顧客のサポート</span><span class="sxs-lookup"><span data-stu-id="65e9e-103">Support your customers</span></span>
+#  <a name="support-your-customers"></a><span data-ttu-id="bdc3e-103">顧客のサポート</span><span class="sxs-lookup"><span data-stu-id="bdc3e-103">Support your customers</span></span>
 [!include[dynamics365-fraud-protection banner](../../includes/dynamics365-fraud-protection.md)]
 
 
@@ -25,4 +25,4 @@ ms.locfileid: "406287"
 
 
 
-<span data-ttu-id="65e9e-104">Dynamics 365 Fraud Protection 内の顧客サポートにより、サポート担当者または不正調査担当者は、顧客のエスカレーションを評価し、不適切に拒否されている購入の試みをブロック解除し、必要に応じて不審な購入をブロックできます。</span><span class="sxs-lookup"><span data-stu-id="65e9e-104">Customer support within Dynamics 365 Fraud Protection enables your support representative or fraud investigator to evaluate customer escalations, unblock purchase attempts that are being improperly declined, and block suspicious purchases as appropriate.</span></span> <span data-ttu-id="65e9e-105">不正調査担当者は、顧客の過去のトランザクション履歴を検索して調査し、決定の所要時間を短縮できます。</span><span class="sxs-lookup"><span data-stu-id="65e9e-105">Your fraud investigators can search and investigate your customers’ past transactional history with your business, providing an accelerated turnaround for decisions.</span></span>
+<span data-ttu-id="bdc3e-104">Dynamics 365 Fraud Protection 内の顧客サポートにより、サポート担当者または不正調査担当者は、顧客のエスカレーションを評価し、不適切に拒否されている購入の試みをブロック解除し、必要に応じて不審な購入をブロックできます。</span><span class="sxs-lookup"><span data-stu-id="bdc3e-104">Customer support within Dynamics 365 Fraud Protection enables your support representative or fraud investigator to evaluate customer escalations, unblock purchase attempts that are being improperly declined, and block suspicious purchases as appropriate.</span></span> <span data-ttu-id="bdc3e-105">不正調査担当者は、顧客の過去のトランザクション履歴を検索して調査し、決定の所要時間を短縮できます。</span><span class="sxs-lookup"><span data-stu-id="bdc3e-105">Your fraud investigators can search and investigate your customers’ past transactional history with your business, providing an accelerated turnaround for decisions.</span></span>
