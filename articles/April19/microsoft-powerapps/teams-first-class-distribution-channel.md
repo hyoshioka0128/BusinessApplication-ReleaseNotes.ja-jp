@@ -3,22 +3,21 @@ title: 優れた配布チャネルとしての Teams
 description: PowerApps と Teams のより高度な統合
 author: juliepstrauss
 ms.reviewer: pehecke
-ms.date: 03/14/2019
-ms.assetid: 0b6d77fc-dfc5-e811-a973-000d3a137a43
+ms.date: 04/14/2019
+ms.assetid: 9f88bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: JStrauss
 audience: Power user
-ms.openlocfilehash: 4ab0bfa3470e409b5a697dcc17730f2fa3d912d7
-ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
+ms.openlocfilehash: 3aa2886eac061c1563079ee3297a72e2a36f2dfa
+ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "900285"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "1445992"
 ---
-# <a name="teams-is-a-first-class-distribution-channel-public-preview"></a><span data-ttu-id="92183-103">優れた配布チャネルとしての Teams (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="92183-103">Teams is a first-class distribution channel (Public Preview)</span></span>
-
+# <a name="teams-is-a-first-class-distribution-channel-public-preview"></a><span data-ttu-id="29695-103">優れた配布チャネルとしての Teams (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="29695-103">Teams is a first-class distribution channel (Public Preview)</span></span>
 
 [!include[microsoft-powerapps banner](../includes/microsoft-powerapps.md)]
 
-<span data-ttu-id="92183-104">Microsoft Teams は、プラットフォームを通じてアプリの配布、検索、使用を簡単にしたいと考える ISV にとっての、もう 1 つの便利なツールです。</span><span class="sxs-lookup"><span data-stu-id="92183-104">A new deep integration into Microsoft Teams is another example of how the platform will help ISVs scale with greater democratization of app distribution, discovery, and consumption.</span></span> <span data-ttu-id="92183-105">Teams との統合がより緊密になったことで、IT 管理者は Microsoft ビジネス アプリケーション プラットフォーム上で構築したあらゆるアプリを Teams App Catalog にシームレスに公開し、Teams を通じて企業内の幅広いユーザーにそれらのアプリを配布できるようになります。</span><span class="sxs-lookup"><span data-stu-id="92183-105">Deeper integration with Teams will allow IT admins to seamlessly publish any app built on the Microsoft Business Application Platform to the Teams App Catalog for broad app distribution in the enterprise through Teams.</span></span>
+<span data-ttu-id="29695-104">Microsoft Teams は、プラットフォームを通じてアプリの配布、検索、使用を簡単にしたいと考える ISV にとっての、もう 1 つの便利なツールです。</span><span class="sxs-lookup"><span data-stu-id="29695-104">A new deep integration into Microsoft Teams is another example of how the platform will help ISVs scale with greater democratization of app distribution, discovery, and consumption.</span></span> <span data-ttu-id="29695-105">Teams との統合がより緊密になったことで、IT 管理者は Microsoft ビジネス アプリケーション プラットフォーム上で構築したあらゆるアプリを Teams App Catalog にシームレスに公開し、Teams を通じて企業内の幅広いユーザーにそれらのアプリを配布できるようになります。</span><span class="sxs-lookup"><span data-stu-id="29695-105">Deeper integration with Teams will allow IT admins to seamlessly publish any app built on the Microsoft Business Application Platform to the Teams App Catalog for broad app distribution in the enterprise through Teams.</span></span>
