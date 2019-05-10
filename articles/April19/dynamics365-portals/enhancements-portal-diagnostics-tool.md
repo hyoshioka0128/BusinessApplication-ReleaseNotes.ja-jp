@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: dileeps
 ms.reviewer: shjais
 ms.openlocfilehash: 17e71fa3f2fe71e199cbd7d0d8748eed1160f9d0
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210446"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225306"
 ---
 # <a name="enhancements-to-portal-diagnostics-tool"></a>ポータル診断ツールの機能強化 
 [!include[dynamics365-portals banner](../includes/dynamics365-portals.md)]

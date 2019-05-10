@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: janeaug
 ms.openlocfilehash: 21f14afae778132acf8775c4ae236d6285c5b7f3
-ms.sourcegitcommit: 783c1a098301a23eeab6ceddc45b1be04f302197
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "373672"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225205"
 ---
 # <a name="regulatory-updates"></a>規制の更新
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

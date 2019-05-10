@@ -11,14 +11,13 @@ ms.technology: ''
 ms.author: blazkote
 audience: end user
 ms.openlocfilehash: e39d37b07c0352dc97865a3e09cc85aed7020861
-ms.sourcegitcommit: a75d70c06338341eb5e9e15a3679c07dfcd7fc45
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "721939"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225086"
 ---
 # <a name="focus-mode-on-document-pages"></a>ドキュメント ページでのフォーカス モード
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 ## <a name="business-value"></a>ビジネス バリュー
 長く要求の厳しいドキュメントを編集することが多いお客様のために、ドキュメントの明細項目セクションを拡大して画面の大部分を占めるようにし、生産的ですばやいデータ入力のためのスペースを空ける、特別なビューを作成しました。 そのモードで明細セクションのあるドキュメントを表示すると、高度なフィルタリングを使用できるので、長いドキュメントの閲覧や検索が簡単になります。

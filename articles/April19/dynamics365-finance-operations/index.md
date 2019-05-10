@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: 973f32d64b2075aef74b89bcc3e8e18bb286d502
-ms.sourcegitcommit: 560c1b626b40ff3c51450183b6201cfc589b49e3
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "890896"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225187"
 ---
 #  <a name="overview-of-dynamics-365-for-finance-and-operations-april-19-release"></a>Dynamics 365 for Finance and Operations 2019 年 4 月リリースの概要
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

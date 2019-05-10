@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: mikebc
 audience: end user
 ms.openlocfilehash: 8ab0347916dd541f78d4c0266170526a02c55701
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "286229"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225085"
 ---
 # <a name="simplified-help-and-support-experience"></a>ヘルプとサポートのエクスペリエンスの簡略化
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

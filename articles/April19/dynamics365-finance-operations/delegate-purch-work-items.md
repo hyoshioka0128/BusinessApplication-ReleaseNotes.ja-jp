@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: 4da2437e21bc4aa00c5950cea7292200e9fde767
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "895524"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224912"
 ---
 # <a name="delegation-of-multiple-purchasing-work-items"></a>複数の購買作業項目の委任 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

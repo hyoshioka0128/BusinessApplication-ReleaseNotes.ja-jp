@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: adamw
 ms.openlocfilehash: 42b72b4c0f3a74c35cf350eb04075226519e4538
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "850330"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225134"
 ---
 # <a name="support-for-sap-variables"></a>SAP 変数のサポート
 

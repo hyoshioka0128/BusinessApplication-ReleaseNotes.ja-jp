@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: anasyash
 ms.openlocfilehash: 69a346379521229393c71b274e602d63974791a2
-ms.sourcegitcommit: 560c1b626b40ff3c51450183b6201cfc589b49e3
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "891006"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225222"
 ---
 # <a name="localization-of-process-industries-for-russia"></a>ロシア向けの加工業者のローカライズ
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

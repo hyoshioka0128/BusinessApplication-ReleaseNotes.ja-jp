@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: sandhan
 ms.reviewer: shjais
 ms.openlocfilehash: d105b02fc1e4244220c82654be62562f8134b965
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210660"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225356"
 ---
 #  <a name="maintenance-mode-for-portals"></a>ポータルのメンテナンス モード
 [!include[dynamics365-portals banner](../includes/dynamics365-portals.md)]

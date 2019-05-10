@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.reviewer: mihart
 ms.openlocfilehash: 837c7f1bee2a74ba2e40ecc99b8a0a71ddf66609
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "849659"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225109"
 ---
 # <a name="general-availability-of-power-bi-dataflows"></a>Power BI データフローの一般提供
 [!include[business-intelligence banner](../../../includes/business-intelligence.md)]

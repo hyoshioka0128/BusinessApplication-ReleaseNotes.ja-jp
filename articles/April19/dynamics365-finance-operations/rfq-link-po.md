@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: f90e76c40a065a3f43940f8a264cc991c1db12d1
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "895527"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225201"
 ---
 # <a name="add-rfq-link-to-purchase-order-line-details"></a>発注書明細行の詳細への RFQ リンクの追加 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

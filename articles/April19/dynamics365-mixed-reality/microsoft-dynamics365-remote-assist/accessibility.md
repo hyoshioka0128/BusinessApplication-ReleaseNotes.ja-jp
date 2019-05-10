@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: mapau
 ms.reviewer: v-brycho
 ms.openlocfilehash: d48d2ea3b60c334dd3248b00e5fabb9bbd44e787
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "405096"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225240"
 ---
 #  <a name="improved-accessibility"></a>アクセシビリティの改善
 [!include[microsoft-dynamics365-remote-assist banner](../../includes/microsoft-dynamics365-remote-assist.md)]

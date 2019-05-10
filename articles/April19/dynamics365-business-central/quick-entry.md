@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: mikebc
 audience: developer, end user, customizer
 ms.openlocfilehash: 8ab1b587dfb80b177b290429cec4f2dd5a47a697
-ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "285315"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224986"
 ---
 # <a name="quick-entry"></a>簡単入力
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

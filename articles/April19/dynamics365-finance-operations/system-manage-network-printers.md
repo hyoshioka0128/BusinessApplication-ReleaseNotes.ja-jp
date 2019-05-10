@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: TJVass
 ms.openlocfilehash: 0478147d5445c43ceaaa35c5d4d53da19ada164f
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "288000"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225262"
 ---
 #  <a name="system-management-of-network-printers"></a>ネットワーク プリンターのシステム管理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

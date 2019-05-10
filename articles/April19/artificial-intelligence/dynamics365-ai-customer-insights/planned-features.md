@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: jimholtz
 ms.reviewer: jimholtz
 ms.openlocfilehash: 66de52b085104b8e1ac9b36afd9f4bd96071bb96
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "844146"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224930"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-customer-insights"></a>Dynamics 365 Customer Insights の新機能と予定されている機能  
 

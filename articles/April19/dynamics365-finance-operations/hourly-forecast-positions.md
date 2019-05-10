@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: ca7326e7d65a01b9fa88b7940c5283531a6ef137
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "895496"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225173"
 ---
 # <a name="hourly-rate-field-on-forecast-positions"></a>予測職位の時間レート フィールド 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

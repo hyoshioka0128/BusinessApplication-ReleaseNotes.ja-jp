@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 ms.openlocfilehash: 20fc8195f0cda9fe30033152a8a03723e5b168fd
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210946"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224917"
 ---
 #  <a name="advanced-warehouse-and-transportation-management"></a>高度な倉庫および輸送管理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

@@ -9,11 +9,11 @@ ms.service: business-applications
 ms.author: dileeps
 ms.reviewer: shjais
 ms.openlocfilehash: 7aed88298435100718a1b42a22bc1742c2f4d0b6
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210948"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225312"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-portal"></a>Dynamics 365 ポータルの新機能と予定されている機能
 

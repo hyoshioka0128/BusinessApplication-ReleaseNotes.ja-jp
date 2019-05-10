@@ -8,11 +8,11 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.openlocfilehash: 275002a749ba1d11710458954139a556c6157197
-ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "285297"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225264"
 ---
 # <a name="website-personalization"></a>Web サイトの個人用設定
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]

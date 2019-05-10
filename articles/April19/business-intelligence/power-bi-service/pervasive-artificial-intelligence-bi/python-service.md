@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: mohaali
 ms.reviewer: mihart
 ms.openlocfilehash: 31274ccb14f29f7ef24fbd76211749bdfd6926d7
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "849582"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224958"
 ---
 # <a name="python-support-in-the-service"></a>サービスでの Python のサポート
 

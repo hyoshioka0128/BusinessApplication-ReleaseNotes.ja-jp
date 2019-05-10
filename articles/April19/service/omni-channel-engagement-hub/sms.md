@@ -10,11 +10,11 @@ ms.assetid: 69c1d8ef-8cdb-3599-8c39-5b6bf979f1c5
 author: ReneeW-CPub
 ms.author: renwe
 ms.openlocfilehash: 6bd4398fd9706737b04ec4f50fb7fea0ff4f3c86
-ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "847450"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225331"
 ---
 #  <a name="sms"></a>SMS
 [!include[service banner](../../includes/service.md)]

@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: adamw
 ms.openlocfilehash: 1542fb54e3eb215bddc93eb8443706bee5e9a011
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "849560"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224919"
 ---
 #  <a name="business-to-business-b2b-support"></a>企業間 (B2B) のサポート
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]

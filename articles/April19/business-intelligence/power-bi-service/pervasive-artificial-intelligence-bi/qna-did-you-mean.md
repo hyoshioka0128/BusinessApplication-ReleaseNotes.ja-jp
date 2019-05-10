@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: mohaali
 ms.reviewer: ''
 ms.openlocfilehash: bbd5941c01bb2bf2240b77428081236a0d7847fc
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "849692"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224932"
 ---
 #  <a name="qa--did-you-mean"></a>Q&A - 修正候補
 [!include[business-intelligence banner](../../../includes/business-intelligence.md)]

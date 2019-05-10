@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: 820c7cb5090c0abf3710504b57b397d713397456
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210418"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225285"
 ---
 #  <a name="create-customized-email-templates-and-accounts-for-candidate-communications"></a>候補者との連絡用にカスタマイズされた電子メール テンプレートとアカウントを作成する 
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

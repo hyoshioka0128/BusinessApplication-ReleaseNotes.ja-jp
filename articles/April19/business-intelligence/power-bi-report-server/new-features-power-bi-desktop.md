@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: adamw
 ms.openlocfilehash: bf1edcb0a58ad9950b95888712a53be60bc49989
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "849814"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225102"
 ---
 #  <a name="new-features-from-power-bi-desktop"></a>Power BI Desktop からの新機能
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]

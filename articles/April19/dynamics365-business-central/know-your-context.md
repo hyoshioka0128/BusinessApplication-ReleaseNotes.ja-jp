@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: blazkote
 audience: end user
 ms.openlocfilehash: 738724882f298443136f3e0ed6f462cedded781d
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "404524"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225077"
 ---
 # <a name="work-date-indicator"></a>作業日インジケーター
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

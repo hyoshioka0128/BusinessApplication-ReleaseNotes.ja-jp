@@ -7,8 +7,13 @@ ms.service: business-applications
 ms.reviewer: edupont
 ms.author: edupont
 ms.date: 02/21/2019
+ms.openlocfilehash: d3dba072b09eb86b733973bc4c6f39fc6c85765f
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225094"
 ---
-
 # <a name="overview-of-dynamics-365-business-central-april-19-release"></a>Dynamics 365 Business Central 2019 年 4 月リリースの概要
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
@@ -26,7 +31,7 @@ ms.date: 02/21/2019
 
 Business Central は、典型的なビジネス シナリオと使用パターンに重点を置いて、はるかに速く稼働します。 ブラウザーのエクスペリエンスはページ要素のオンデマンド読み込みのおかげでより俊敏になり、サーバー リソースはユーザーとの迅速な対話のために最適化され、データベースはより多くのデータを処理してより速く読み込むように調整されています。  
 
-アップグレードは個々の業務に合わせてスケジュールされるため、ユーザーはより安定したサービスを受けることができます。ユーザーは、勤務時間中にメンテナンスによって中断されることがなくなります。また、円熟したサービス正常性の活動により、最大限のアップタイムが保証されます。 支援を必要とするユーザーは、単一の画面を使用して、セルフヘルプ資料を見つけ、アイデアをコミュニティと共有し、応答時間を短縮するために合理化されたサポートを要求することができます。  
+アップグレードは個々の業務に合わせてスケジュールされるため、ユーザーはより安定したサービスを受けることができます。ユーザーは、勤務時間中にメンテナンスによって中断されることがなくなります。また、円熟したサービス正常性の活動により、最大限のアップタイムが保証されます。 支援を必要とするユーザーは、単一の画面を使用して、セルフヘルプ資料を見つけ、アイデアをコミュニティと共有し、応答時間を短縮するために効率化されたサポートを要求することができます。  
 
 Business Central のセキュリティ チームは、データのセキュリティを保護するために舞台裏で精力的に取り組んでいます。 セキュリティ インフラストラクチャとプロセスの継続的な改善に加えて、Business Central は ISO27001、ISO27017、ISO27018、SOC 1 ＆ 2 Type 2、HIPPA BAA、FERPA といった業界のセキュリティおよびプライバシー コンプライアンスの基準を満たし続けます。 詳細およびすべての証明書の一覧については、[https://aka.ms/d365-compliance-list](https://aka.ms/d365-compliance-list) をご覧ください。
 

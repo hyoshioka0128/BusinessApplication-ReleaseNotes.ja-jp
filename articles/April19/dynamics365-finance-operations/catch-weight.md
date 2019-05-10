@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: perlynne
 ms.openlocfilehash: fcdbef2b78fb6717e3970906d6a8b8c6c1596273
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287928"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225304"
 ---
 #  <a name="catch-weight-product-processing-with-warehouse-management"></a>倉庫管理での CW 製品処理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

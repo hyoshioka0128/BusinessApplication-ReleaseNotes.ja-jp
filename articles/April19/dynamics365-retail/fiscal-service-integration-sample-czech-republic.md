@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: epopov
 ms.openlocfilehash: 7e68625a4211ae60394135c203fc8157a877e07f
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211030"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224851"
 ---
 #  <a name="fiscal-service-integration-sample-for-czech-republic"></a>チェコ共和国向けの会計サービス統合サンプル
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]

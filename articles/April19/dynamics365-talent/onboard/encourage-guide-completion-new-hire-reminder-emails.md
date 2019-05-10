@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: 54f2ee36bffdb0c7f87bd96a60f333f9e9896d50
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210259"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225484"
 ---
 #  <a name="encourage-guide-completion-with-new-hire-reminder-emails"></a>新規採用者に対してアラーム メールを使用して案内確認を行う 
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

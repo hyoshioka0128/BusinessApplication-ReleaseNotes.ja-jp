@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: blazkote
 audience: end user
 ms.openlocfilehash: 25b6347d19171ad46caf7e2aca67c8752237ced9
-ms.sourcegitcommit: 5388d19f255c3c30b0cc7abfc241f7c3de8656c2
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "390460"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225070"
 ---
 # <a name="notes-and-links"></a>メモとリンク
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

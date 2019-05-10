@@ -9,11 +9,11 @@ ms.service: business-applications
 ms.author: renwe
 ms.reviewer: elben
 ms.openlocfilehash: 74ab369cc3f17811571b35264a35c486c7d86fed
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "844300"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225013"
 ---
 #  <a name="whats-new-and-planned-for-ai-for-sales"></a>AI for Sales の新機能と予定されている機能
 

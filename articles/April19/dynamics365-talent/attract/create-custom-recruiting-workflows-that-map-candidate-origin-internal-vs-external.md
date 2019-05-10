@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: 1323a1f831cd80980f5968f02cd28b8e607f19d5
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210413"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225350"
 ---
 #  <a name="create-custom-recruiting-workflows-that-map-to-candidate-origin-internal-vs-external"></a>候補者の前歴 (社内または社外) に対応したカスタム採用ワークフローの作成
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
@@ -24,6 +24,6 @@ ms.locfileid: "210413"
 
 -   採用活動が社内または社外どちらの候補者に適用されるかを選択する。
     
--   ビデオ、Web フォーム、Microsoft フォームなどの追加コンテンツを社内または社外の候補者に提供するかどうかを選択する。
+-   動画、Web フォーム、Microsoft フォームなどの追加コンテンツを社内または社外の候補者に提供するかどうかを選択する。
 
 -   活動を完全に追跡する。

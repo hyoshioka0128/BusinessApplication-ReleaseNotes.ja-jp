@@ -10,11 +10,11 @@ ms.assetid: 3cb6f4dd-a0d6-3cb3-c2ed-34156cae9c85
 author: ReneeW-CPub
 ms.author: renwe
 ms.openlocfilehash: b5c0cfb873a10096bcb75e7d5b63c6d13c8ba25d
-ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "847358"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225361"
 ---
 #  <a name="unified-routing-and-work-distribution"></a>統合されたルーティングと作業の配分
 [!include[service banner](../../includes/service.md)]

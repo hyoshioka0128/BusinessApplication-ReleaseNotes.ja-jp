@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: 6276a839b31d113c7254eaf7f38b05449adf36ba
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211077"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225318"
 ---
 #  <a name="improve-candidate-engagement-via-career-site"></a>キャリア サイトを通じて候補者のエンゲージメントを高める 
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

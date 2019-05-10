@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: navrinas
 ms.reviewer: shellyha
 ms.openlocfilehash: bcc35be8461e1bb90d0e4f3d6c2bb5b272b6c33e
-ms.sourcegitcommit: 3cdd8274c1ec917ff14c0e1d26983d68711380f8
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "892300"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224982"
 ---
 # <a name="overview-of-ai-for-customer-service-april-19-release"></a>AI for Customer Service の 2019 年 4 月リリースの概要
 [!include[customer-service banner](../../includes/dynamics365-ai-customer-service.md)]

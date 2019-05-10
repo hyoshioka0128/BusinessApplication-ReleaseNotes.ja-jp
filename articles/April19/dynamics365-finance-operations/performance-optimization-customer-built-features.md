@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: nselin
 ms.openlocfilehash: c75b75f74dceb8eec20122c238f2de38ff605776
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "288047"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225301"
 ---
 #  <a name="electronic-reporting---performance-optimization-of-customer-built-configurations"></a>電子申告 - 顧客が構築した構成のパフォーマンスの最適化
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

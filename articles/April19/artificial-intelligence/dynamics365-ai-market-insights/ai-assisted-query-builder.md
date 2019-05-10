@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: mhart
 ms.reviewer: m-hartmann
 ms.openlocfilehash: 920f89b009e611a551a42a7cec815bc44803943c
-ms.sourcegitcommit: 4db495226091126eecdfb6795702b2d7a4c22a3d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "881190"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225037"
 ---
 #  <a name="ai-assisted-query-builder"></a>AI 支援クエリ ビルダー
 [!include[dynamics365-ai-market-insights banner](../../includes/dynamics365-ai-market-insights.md)]

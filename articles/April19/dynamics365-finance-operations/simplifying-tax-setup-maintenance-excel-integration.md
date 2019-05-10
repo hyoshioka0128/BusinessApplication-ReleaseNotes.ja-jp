@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: riluan
 ms.openlocfilehash: 45385009525f75601f1c8d48ae0d58b7e77aaf39
-ms.sourcegitcommit: 365db01dde7ccb5c763d209fedbc715d128b18a6
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "376705"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225271"
 ---
 #  <a name="global-tax-engine-india---simplifying-tax-setup-maintenance-with-excel-integration"></a>Global Tax Engine (インド) - Excel との統合による税設定の保守の簡素化 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

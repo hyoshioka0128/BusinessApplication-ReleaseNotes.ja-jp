@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: prateeks
 ms.openlocfilehash: 28025b4835903b63b1c58532e1e88053028c2b5c
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "844179"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225459"
 ---
 #  <a name="whats-new-and-planned-for-microsoft-forms-pro"></a>Microsoft Forms Pro の新機能と予定されている機能 
 

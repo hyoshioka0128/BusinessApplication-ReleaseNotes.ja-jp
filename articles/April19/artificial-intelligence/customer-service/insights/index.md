@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: xiaoying
 ms.reviewer: shellyha
 ms.openlocfilehash: 501eaf5b297f4cbe11afa0d71effeb6583a3f474
-ms.sourcegitcommit: 3cdd8274c1ec917ff14c0e1d26983d68711380f8
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "892289"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224976"
 ---
 # <a name="overview-of-dynamics-365-customer-service-insights-april-19-release"></a>2019 年 4 月リリースの Dynamics 365 Customer Service Insights の概要
 [!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]

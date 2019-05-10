@@ -12,11 +12,11 @@ ms.author: Karthig
 ms.reviewer: anjgupta
 audience: Admin
 ms.openlocfilehash: e3047b3fc4dfdc0185886fcaed7a5e4182ab188f
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "844388"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225439"
 ---
 # <a name="automatic-filtering-of-knowledge-articles"></a>ナレッジ記事の自動フィルタリング
 

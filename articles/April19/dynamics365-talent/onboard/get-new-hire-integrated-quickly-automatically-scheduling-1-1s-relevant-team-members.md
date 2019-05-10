@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: 521c7ea537fb2d163bcdf0ea87dcda8b003f3dba
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210384"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225464"
 ---
 #  <a name="get-your-new-hire-integrated-quickly-by-automatically-scheduling-11s-with-relevant-team-members"></a>関係のあるチーム メンバーと 1 対 1 の面談を自動的に設定することで新規採用者がすぐになじめるようにする
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

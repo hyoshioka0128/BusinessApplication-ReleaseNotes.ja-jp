@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: jimholtz
 ms.reviewer: jimholtz
 ms.openlocfilehash: 2dda3677f9d9ae9cb4304e120b2f66135ff6c598
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406275"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225008"
 ---
 #  <a name="power-your-business-processes-and-personalized-customer-experiences"></a>ビジネス プロセスとパーソナライズされた顧客エクスペリエンスの強化 
 [!include[dynamics365-ai-customer-insights banner](../../includes/dynamics365-ai-customer-insights.md)]

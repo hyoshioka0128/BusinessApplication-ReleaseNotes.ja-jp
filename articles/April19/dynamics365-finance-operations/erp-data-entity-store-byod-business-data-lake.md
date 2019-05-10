@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: MilindaV2
 ms.openlocfilehash: c11d0d0f0d4a8be91bc3a300864c0eeb70816e84
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210615"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225183"
 ---
 <!--from editor: What does BYOD stand for? Also, COGS? Does ADL mean Azure Data Lake?-->
 

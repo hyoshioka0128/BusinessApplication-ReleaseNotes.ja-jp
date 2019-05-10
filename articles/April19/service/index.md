@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: Karthig
 ms.reviewer: anjgup
 ms.openlocfilehash: 08a6725a652173eaafb24eee7c3e5735de176ab4
-ms.sourcegitcommit: 0cb71711d7b637317ea3866e3eeff7729e7a0d33
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "904210"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225436"
 ---
 #  <a name="overview-of-dynamics-365-for-customer-service-april-19-release"></a>Dynamics 365 for Customer Service 2019 年 4 月リリースの概要
 [!include[service banner](../includes/service.md)]

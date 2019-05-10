@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: manalidongre
 ms.openlocfilehash: 7c445d6671ade4136afcb69800dd71c8bd441465
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210899"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225424"
 ---
 #  <a name="one-version-experience"></a>One Version エクスペリエンス
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

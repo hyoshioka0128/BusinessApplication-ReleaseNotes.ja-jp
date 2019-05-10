@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: TJVass
 ms.openlocfilehash: a3ade26214742bdce39edd5582acd8d03dc6614d
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "286300"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225268"
 ---
 #  <a name="personalization-options-for-analytical-workspaces"></a>分析ワークスペースの個人用設定オプション
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

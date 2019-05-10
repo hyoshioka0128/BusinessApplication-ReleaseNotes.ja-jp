@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: adamw
 ms.openlocfilehash: 7a6842e00f038e89560efb04e6de630e21ecc49e
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "850484"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225115"
 ---
 #  <a name="power-bi-admins-can-restrict-usage-to-certified-visuals-only"></a>Power BI 管理者が使用を認定されたビジュアルのみに限定できる
 

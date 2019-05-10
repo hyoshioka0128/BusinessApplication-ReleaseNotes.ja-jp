@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: 1047655913b2d9918a554fd73340f89811b97e39
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210521"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225182"
 ---
 #  <a name="source-tracking"></a>ソースの追跡機能 
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

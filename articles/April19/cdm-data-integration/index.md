@@ -7,9 +7,13 @@ ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 ms.reviewer: deonhe
+ms.openlocfilehash: ab2bc748bd8f957f421454c20f3f30ad0660dc6c
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225125"
 ---
-
-
 # <a name="overview-of-common-data-model-and-data-integration-april-19-release"></a>Common Data Model とデータ統合の 2019 年 4 月リリースの概要
 [!include[cdm-data-integration banner](../includes/cdm-data-integration.md)]
 

@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: deonhe
 ms.openlocfilehash: 4e664e5727f1cb91cbae9cb7026501760460190f
-ms.sourcegitcommit: 03de13679b4a53812274475e957d0124e6f4dd35
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "838162"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225056"
 ---
 # <a name="gateway"></a>ゲートウェイ
 
@@ -49,7 +49,7 @@ ms.locfileid: "838162"
 -   ゲートウェイ メタデータ サービスの迅速なリリースと信頼性の向上。 
 -   使用状況、更新、データ ソース、および接続性に関連する改善されたゲートウェイ ロギング。
 
-## <a name="sap-bw-single-sign-on-kerberos-in-power-bi-service-via-on-premises-data-gateway-for-sap-bw-application-and-message-server"></a>SAP BW アプリケーションおよびメッセージ サーバー用の、Power BI サービスでの (オンプレミス データ ゲートウェイ経由の) SAP BW シングル サインオン (Kerberos)
+## <a name="sap-bw-single-sign-on-kerberos-in-power-bi-service-via-on-premises-data-gateway-for-sap-bw-application-and-message-server"></a>SAP BW アプリケーションおよびメッセージ サーバー用 Power BI サービスでの (オンプレミス データ ゲートウェイ経由) SAP BW シングル サインオン (Kerberos)
  
 この機能を使用すると、ユーザーは、SAP BW アプリケーションおよびメッセージ サーバーのデータに基づいて DirectQuery ベースのレポートを発行するときに、Kerberos で制限されたシングル サインオン委任を利用できます。
 

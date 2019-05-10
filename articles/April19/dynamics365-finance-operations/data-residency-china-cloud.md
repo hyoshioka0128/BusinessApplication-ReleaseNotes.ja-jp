@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: meeram
 ms.openlocfilehash: a21d2b5fa61948577761f347a676e27c35f20e67
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210365"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225153"
 ---
 #  <a name="data-residency---china-cloud"></a>データの所在地 - 中国のクラウド
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

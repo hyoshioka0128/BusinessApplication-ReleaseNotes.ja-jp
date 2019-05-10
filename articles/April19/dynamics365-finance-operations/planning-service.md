@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: crytt
 ms.openlocfilehash: bac973de00c180f063e896e3e997da9ca8f5fbbf
-ms.sourcegitcommit: b9767a09372408f15b665101ae38d17e1c1875dc
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/08/2019
-ms.locfileid: "377501"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225245"
 ---
 #  <a name="planning-service"></a>計画サービス
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

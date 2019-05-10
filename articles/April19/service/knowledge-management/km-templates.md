@@ -11,11 +11,11 @@ author: Karthik55217
 ms.author: Karthig
 ms.reviewer: anjgup
 ms.openlocfilehash: 0ff3de7e8028c53703f29b1b61744e620e833365
-ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "847594"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225380"
 ---
 #  <a name="knowledge-article-templates"></a>ナレッジ記事のテンプレート
 [!include[service banner](../../includes/service.md)]

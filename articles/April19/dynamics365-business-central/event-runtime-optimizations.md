@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: kepontop
 audience: administrator
 ms.openlocfilehash: 75431586a629ec25bd5399789e1f242fa7287798
-ms.sourcegitcommit: b9117e0a006fe421a672a4f6a7fbf0276efbddfa
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "878727"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225071"
 ---
 # <a name="event-runtime-optimization"></a>イベント ランタイムの最適化
 

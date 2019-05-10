@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: blazkote
 audience: developer, end user, customizer
 ms.openlocfilehash: eea19cf61ba7fbf457f3d9cd6291c361346a233b
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "404920"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224927"
 ---
 # <a name="improved-all-product-navigation"></a>全製品ナビゲーションの改善
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

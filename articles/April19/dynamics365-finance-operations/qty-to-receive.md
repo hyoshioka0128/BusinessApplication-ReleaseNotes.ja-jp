@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: 6e09d491a31aaaf6acbe3a00d7daa07921d16c4f
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "895503"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225235"
 ---
 # <a name="new-field-on-receipt-form-for-entering-quantity-to-receive"></a>受け取る数量を入力するための受領書フォームの新しいフィールド 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

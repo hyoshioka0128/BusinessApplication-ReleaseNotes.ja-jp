@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: mikebc
 audience: end user
 ms.openlocfilehash: dc31f8ec4c863afdac6d143b83771157e8c958aa
-ms.sourcegitcommit: 388ebf336e666bd900484954ab6bdcf043f0c995
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "375818"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225036"
 ---
 #  <a name="improvements-to-scrolling-in-lists"></a>リストのスクロールの改善
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: sndray
 ms.openlocfilehash: 7831e7930423cd809019e16919a7bfb4f3dd116d
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "286254"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224970"
 ---
 #  <a name="configurable-e-invoices-for-brazil-nf-e-and-nfs-e"></a>ブラジル向けの構成可能な E-Invoice (NF-e と NFS-e) 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

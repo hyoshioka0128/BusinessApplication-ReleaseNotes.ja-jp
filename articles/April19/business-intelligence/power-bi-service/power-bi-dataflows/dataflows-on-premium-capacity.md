@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: antonfrMSFT
 ms.reviewer: mihart
 ms.openlocfilehash: b9b817e1b8ea3e3c3cad64cd64d5b23e8676ae50
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "849802"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225068"
 ---
 # <a name="dataflows-on-premium-capacity"></a>Premium 容量に対するデータフロー
 [!include[business-intelligence banner](../../../includes/business-intelligence.md)]

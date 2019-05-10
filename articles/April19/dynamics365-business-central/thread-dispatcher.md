@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: kepontop
 audience: administrator
 ms.openlocfilehash: f02b8fd756e1f2c93c159ccf3bb18132cae6f89d
-ms.sourcegitcommit: b9117e0a006fe421a672a4f6a7fbf0276efbddfa
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "878730"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225158"
 ---
 # <a name="thread-dispatcher-favors-ui-threads-over-background-threads"></a>スレッド ディスパッチャーはバックグラウンド スレッドより UI スレッドを優先する
 

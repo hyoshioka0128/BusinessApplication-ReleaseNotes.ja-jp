@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: prateeks
 ms.openlocfilehash: 32a73418ef20ed3e6d799720717044200fb226c3
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406383"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225500"
 ---
 #  <a name="analyze-responses"></a>回答の分析 
 [!include[forms-pro banner](../includes/forms-pro.md)]

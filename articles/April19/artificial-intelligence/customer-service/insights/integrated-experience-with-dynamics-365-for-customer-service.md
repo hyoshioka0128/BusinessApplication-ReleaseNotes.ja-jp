@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: xiaoying
 ms.openlocfilehash: ddfa527fd200bfc210ba949d520440503f420ff4
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "843537"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224957"
 ---
 # <a name="embed-customer-service-insights-within-the-dynamics-365-for-customer-service-application"></a>Dynamics 365 for Customer Service アプリケーション内に Customer Service Insights を埋め込む
 [!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]

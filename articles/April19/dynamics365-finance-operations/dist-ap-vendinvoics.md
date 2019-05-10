@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: fa47f492b305a4d3abf92f1e225af9114b4cddfe
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "895514"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225189"
 ---
 # <a name="restrict-ability-to-edit-accounting-distribution-on-accounts-payable-vendor-invoices"></a>買掛金勘定仕入先請求書の勘定配賦を編集する機能を制限する
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

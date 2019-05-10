@@ -11,11 +11,11 @@ author: ReneeW-CPub
 ms.author: renwe
 ms.reviewer: ''
 ms.openlocfilehash: bc039e2f0c88d56003685ce12cf98a94305f0350
-ms.sourcegitcommit: 0cb71711d7b637317ea3866e3eeff7729e7a0d33
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "904221"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225471"
 ---
 #  <a name="overview-of-omni-channel-engagement-hub-april-19-release"></a>Omni-channel Engagement Hub 2019 年 4 月リリースの概要
 [!include[service banner](../../includes/service.md)]

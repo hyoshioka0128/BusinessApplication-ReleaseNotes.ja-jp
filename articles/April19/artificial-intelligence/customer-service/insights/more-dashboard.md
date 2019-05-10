@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: xiaoying
 ms.reviewer: v-stsau
 ms.openlocfilehash: 9cadc3b29254924f741249390ec9ceed9d5a7b88
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "843548"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224981"
 ---
 # <a name="agent-overview-escalated-cases-and-sla-compliance-dashboards"></a>エージェントの概要、エスカレートされたサポート案件、および SLA コンプライアンス ダッシュボード
 [!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]

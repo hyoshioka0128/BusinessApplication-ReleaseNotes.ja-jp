@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: josaw
 ms.openlocfilehash: 1f7cba941e0dd9b621b9559eac38b6af513757a3
-ms.sourcegitcommit: 03de13679b4a53812274475e957d0124e6f4dd35
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "838242"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225284"
 ---
 #  <a name="easily-post-your-jobs-to-more-sites-using-broadbean"></a>Broadbean を使用してより多くのサイトに求人を簡単に掲載できる
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

@@ -2,21 +2,21 @@
 title: コネクタ プラットフォームと拡張性
 description: コネクタ プラットフォームと拡張性
 author: schabungbam
-ms.date: 01/21/2019
+ms.date: 03/22/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: sameerch
 ms.reviewer: deonhe
-ms.openlocfilehash: 5f120f107a09d634886c9649944db86dacebdfa4
-ms.sourcegitcommit: ca9feb07bc4f4050b7621ba462eb0d3ad5cd8359
+ms.openlocfilehash: 3c7267a83b9f5232563fec0a10756cf3482a7e9a
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "390078"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225259"
 ---
 # <a name="connector-platform-and-extensibility"></a>コネクタ プラットフォームと拡張性
-[!include[cdm-data-integration banner](../includes/cdm-data-integration.md)]
 
+[!include[cdm-data-integration banner](../includes/cdm-data-integration.md)]
 
 データ統合とそれがサポートする製品スイート (PowerApps、Microsoft Flow、Power BI、Power Query) の重要な要素の 1 つに、外部データ ソースに対する接続性があります。 Microsoft では、エンタープライズ レベルのデータ ソースのセットに引き続き投資していますが、多くのユーザーがそのセット以外にも依存するようになっているデータベースやサービスが増えています。 必要なデータにユーザーが接続できるよう、プラットフォーム全体の拡張性ポイントに引き続き投資しています。 コネクタを開発しようとしている開発者や ISV は、コネクタを作成し、対象の製品に対してコネクタの[認定を受ける](https://aka.ms/connector-certification)ことができます。
 
@@ -24,15 +24,64 @@ ms.locfileid: "390078"
 
 パートナーや ISV によって作成された PowerApps および Microsoft Flow 用のコネクタが継続的に追加されています。 エコシステムが成長するにつれて、より多くのパートナーがコネクタを作成し、認定を受けることを希望しています。 これらのコネクタについては、新しい機能がコネクタに追加されるのに併せて継続的な更新も行われています。
 
+### <a name="connectors-released-in-october-2018"></a>2018 年 10 月にリリースされたコネクタ
+
+* [Rencore](https://docs.microsoft.com/connectors/rencore/)
+* [Parseur](https://docs.microsoft.com/connectors/parseur/)
+* [Dynamics 365 Business Central (オンプレミス)](https://docs.microsoft.com/connectors/dynamicssmbonprem/)
+* [Dynamics 365 Business Central](https://docs.microsoft.com/connectors/dynamicssmbsaas/)
+
+### <a name="connectors-released-in-november-2018"></a>2018 年 11 月にリリースされたコネクタ
+
+* [Stormboard](https://docs.microsoft.com/connectors/stormboard/)
+* [Imprezian360-CRM](https://docs.microsoft.com/connectors/imprezian/)
+* [Encodian](https://docs.microsoft.com/connectors/encodiandocumentmanager/)
+* [Soft1](https://docs.microsoft.com/connectors/soft1/)
+* [Zahara](https://docs.microsoft.com/connectors/zahara/)
+* [Yeelight](https://docs.microsoft.com/connectors/yeelight/)
+* [Windows Defender Advanced Threat Protection (ATP)](https://docs.microsoft.com/connectors/wdatp/)
+* [Cloud App Security](https://docs.microsoft.com/connectors/cloudappsecurity/)
+* [Webex Teams](https://docs.microsoft.com/connectors/webex/)
+
+### <a name="connectors-released-in-december-2018"></a>2018 年 12 月にリリースされたコネクタ
+
+* [OneBlink](https://docs.microsoft.com/connectors/oneblink/)
+* [TDox](https://docs.microsoft.com/connectors/tdox/)
+* [CandidateZip](https://docs.microsoft.com/connectors/candidatezip/)
+* [Expiration Reminder](https://docs.microsoft.com/connectors/expirationreminder/)
+* [Plumsail HelpDesk](https://docs.microsoft.com/connectors/plumsailhelpdesk/)
+* [Acumatica](https://docs.microsoft.com/connectors/acumatica/)
+
+### <a name="connectors-released-in-january-2019"></a>2019 年 1 月にリリースされたコネクタ
+
+* [TxtSync](https://docs.microsoft.com/connectors/txtsync/)
+* [Ally](https://docs.microsoft.com/connectors/aliru/)
+* [Word Online (Business)](https://docs.microsoft.com/connectors/wordonlinebusiness/)
+* [Microsoft Graph Security](https://docs.microsoft.com/connectors/microsoftgraphsecurity/)
+
+### <a name="connectors-released-in-february-2019"></a>2019 年 2 月にリリースされたコネクタ
+
+* [XooaDB](https://docs.microsoft.com/connectors/xooadb/)
+* [Chainpoint](https://docs.microsoft.com/connectors/chainpointnode/)
+* [Projectwise Share](https://docs.microsoft.com/connectors/projectwiseshare/)
+* [Ahead](https://docs.microsoft.com/connectors/ahead/)
+* [Document Merge](https://docs.microsoft.com/connectors/documentmerge/)
+
+### <a name="connectors-released-in-march-2019"></a>2019 年 3 月にリリースされたコネクタ
+
+* [SignNow](https://docs.microsoft.com/connectors/signnow/)
+* [Dynamics 365 Customer Insights](https://docs.microsoft.com/connectors/customerinsights/)
+* [Microsoft Forms Pro](https://docs.microsoft.com/connectors/microsoftformspro/)
+
 ## <a name="rich-documentation-and-guides-for-developing-connectors"></a>コネクタ開発用の豊富なドキュメントとガイド
 
-今日、既にコンテナを作成しているパートナーがいますが、優れたエンド ユーザー エクスペリエンスを確保するための高度な機能の一部については多くの手間がかかります。 これにより、認定エンジニアの負荷が増大し、開発期間が長くなります。 パートナーや顧客から寄せられるフィードバックで多いのは、カスタム コネクタの作成についてのドキュメントの改善に関するものです。
+今日、既にコネクタを作成しているパートナーがいますが、優れたエンド ユーザー エクスペリエンスを確保するための高度な機能の一部については多くの手間がかかります。 これにより、認定エンジニアの負荷が増大し、開発期間が長くなります。 パートナーや顧客から寄せられるフィードバックで多いのは、カスタム コネクタの作成についてのドキュメントの改善に関するものです。
 
 このリリースでは、コネクタの開発に関する一連の参照資料が更新されています。 ドキュメントと一緒に、認定されるコネクタのガイドラインについて、コネクタを開発する ISV やパートナーに役立つ開発者ガイドも提供されています。 特定のトピックについては、複数のサンプルとガイド付き学習ドキュメントも開発者に役立ちます。 これにより、コネクタを作成するときの開発時間が短縮されます。
 
-## <a name="custom-connector-sdk-and-apis-for-powerapps-and-microsoft-flow"></a>PowerApps および Microsoft Flow 用のカスタム コネクタ SDK と API
+## <a name="custom-connector-cli-for-powerapps-and-microsoft-flow"></a>PowerApps および Microsoft Flow 用のカスタム コネクタ CLI
 
-開発者は、[Power Query SDK](https://aka.ms/dataconnectors) を使用して、Power BI および Power Query Online 向けのリッチなデータ コネクタを作成できます。また、このリリースには、PowerApps および Microsoft Flow 用のカスタム コネクタの展開に使用できる一連のコマンド ライン インターフェイス (CLI) スクリプトも含まれています。 さらに、開発者は API ドキュメントにもアクセスできるため、独自のツールも開発できます。 開発者は引き続きポータルを使用してコネクタを作成および変更できますが、これらのスクリプトを使用すると、ソース管理システムを使用して自動的にコネクタを展開できます。 これにより、コネクタ開発のためのより高度なワークフローに関するオプションが提供されます。
+開発者は、[Power Query SDK](https://aka.ms/dataconnectors) を使用して Power BI および Power Query Online 向けの豊富なデータ コネクタを作成できます。また、このリリースには、開発者が PowerApps および Microsoft Flow 用のカスタム コネクタの展開に使用できるコマンド ライン インターフェイス (CLI) スクリプトも含まれています。
 
 ## <a name="support-for-policy-templates-in-custom-connectors-for-powerapps-and-microsoft-flow"></a>PowerApps および Microsoft Flow 用カスタム コネクタでのポリシー テンプレートのサポート
 

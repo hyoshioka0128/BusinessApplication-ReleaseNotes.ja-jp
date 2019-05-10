@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 ms.openlocfilehash: ddc097ea4e483a34026405fef5bf41a22165a498
-ms.sourcegitcommit: 190545b6694ee79a440fa8babbd30c2184fa4deb
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "377007"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225193"
 ---
 #  <a name="client-productivity-and-usability-improvements"></a>クライアントの生産性と使いやすさの向上
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

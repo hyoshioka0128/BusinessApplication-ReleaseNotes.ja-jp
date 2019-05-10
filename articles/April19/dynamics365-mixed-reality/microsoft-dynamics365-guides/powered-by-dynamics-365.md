@@ -1,6 +1,6 @@
 ---
-title: プレビュー段階にある Dynamics 365 Guides は Common Data Service for Apps に基づいて作成される (2019 年 4 月の更新プログラム)
-description: 2019 年 4 月の更新プログラムでプレビュー段階にある Dynamics 365 Guides は、Common Data Service for Apps に基づいているので、顧客やパートナーはデータ モデルにアクセスできます。
+title: Common Data Service に基づいて構築された Dynamics 365 Guides (プレビュー) (2019 年 4 月の更新プログラム)
+description: 2019 年 4 月の更新プログラムの Dynamics 365 Guides (プレビュー) は Common Data Service に基づいているので、お客様やパートナーはデータ モデルにアクセスできます。
 author: Algodin
 ms.date: 02/24/2019
 ms.topic: article
@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
 ms.openlocfilehash: 18463404680b4fb2773dc0329edbaee52efa77db
-ms.sourcegitcommit: 5872e3919c0ba1c37b6c386baba612b9794b2493
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "722635"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225129"
 ---
 # <a name="powered-by-dynamics-365"></a>Dynamics 365 による機能強化
 

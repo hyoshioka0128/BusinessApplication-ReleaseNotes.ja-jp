@@ -1,17 +1,17 @@
 ---
 title: Onboard Teams を使用して組織全体でベスト プラクティスを共有する
 description: 各部署のオンボーディング管理者は、個々の従業員と常に連絡を取り合う必要があります。
-author: mamandha
+author: manavm77
 ms.date: 03/07/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: mamandha
-ms.openlocfilehash: b42646bf90c9eb2b49f8a39858e6f2a12035df28
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.openlocfilehash: 913a3c8be9e385aa678ec4ce54b07388a07d55e5
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "843768"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225504"
 ---
 #  <a name="share-best-practices-across-your-organization-using-onboard-teams"></a>Onboard Teams を使用して組織全体でベスト プラクティスを共有する
 

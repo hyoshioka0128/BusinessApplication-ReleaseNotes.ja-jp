@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: anasyash
 ms.openlocfilehash: c2359e249debc0665a1543c3c61fd5c9a307bfee
-ms.sourcegitcommit: 560c1b626b40ff3c51450183b6201cfc589b49e3
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "891004"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225200"
 ---
 # <a name="cash-flow-management-for-russia"></a>ロシアのキャッシュ フロー管理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

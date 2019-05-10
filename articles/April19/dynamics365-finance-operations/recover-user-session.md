@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: hasaid
 audience: developer, admin, end user, customizer, business analyst, IT pro
 ms.openlocfilehash: 99d64fd92b934d61f079619865f5622ef493d5b7
-ms.sourcegitcommit: abbfbdaff6d71a53e5dd36fecb6673080c49e5d6
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/26/2019
-ms.locfileid: "290131"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225234"
 ---
 #  <a name="ability-to-recover-a-user-session-to-its-last-state"></a>ユーザー セッションを最後の状態に回復する機能
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

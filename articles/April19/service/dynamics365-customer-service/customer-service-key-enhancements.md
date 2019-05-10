@@ -11,11 +11,11 @@ author: DeepapMS
 ms.author: Deepap
 ms.reviewer: anjgup
 ms.openlocfilehash: 4632c5779ff7fc6aa41393c10b2641e7954dec77
-ms.sourcegitcommit: 0f62a62236557be57864a216d36c692aa8fccddb
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "907522"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225387"
 ---
 # <a name="end-user-usability-enhancements"></a>使いやすさに関するエンドユーザー向けの機能強化
 

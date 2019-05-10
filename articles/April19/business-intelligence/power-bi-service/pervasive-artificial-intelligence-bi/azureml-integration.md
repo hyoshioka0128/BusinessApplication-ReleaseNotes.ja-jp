@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: haydnr
 ms.openlocfilehash: 820b7288bc931c30d37db5e3cad2a94c66d9ae80
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "849714"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224992"
 ---
 # <a name="azure-machine-learning-integration"></a>Azure Machine Learning の統合
 

@@ -8,11 +8,11 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.openlocfilehash: 31e34a097628309492287b87302b057ed624fb1f
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "288212"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225351"
 ---
 # <a name="integration-with-content-management-systems"></a>コンテンツ管理システムとの統合
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]

@@ -2,17 +2,17 @@
 title: Dynamics 365 for Field Service の 2019 年 4 月リリースの概要
 description: Field Service は、組織が事後対応型から事前対応型または予測型のフィールド サービスを提供するよう移行することを可能にします。
 author: kyley
-ms.date: 01/21/2019
+ms.date: 04/09/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: kyley
 ms.reviewer: shellyha
-ms.openlocfilehash: 4d2c03075ba92fb615de9567fd9c1974ead5ce2a
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: f7ec4c5ae53476c9bd318517604064d1540807b2
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210565"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225476"
 ---
 #  <a name="overview-of-dynamics-365-for-field-service-april-19-release"></a>Dynamics 365 for Field Service 2019 年 4 月リリースの概要
 [!include[dynamics365-field-service banner](../../includes/dynamics365-field-service.md)]
@@ -26,9 +26,9 @@ Dynamics 365 for Field Service は、組織が事後対応型から事前対応�
 Azure IoT Central は、完全に管理されたグローバルな IoT のソフトウェアとしてのサービス (SaaS) ソリューションであり、大規模な IoT 資産の接続、監視、管理を簡単にします。 デバイスからの測定値は IoT Central に送られて、そこでデバイスを監視できます。 さらに、サービス アクションを必要とする条件またはイベントを識別するためのルールを作成できます。 これらは "IoT アラート" として Field Service に送られます。
 Field Service では、IoT アラートを監視および追跡できます。
 
-2019 年 4 月リリースには、Field Service アプリケーションに完全に埋め込むための、IoT Central との次のレベルの統合が含まれます。 アラートのフローはサポート案件で管理でき、アラートの詳細に基づいて作業を定義できます。
+2019 年 4 月リリースには、Field Service アプリケーションに完全に埋め込むための、Azure IoT との次のレベルの統合が含まれます。 アラートのフローはサポート案件で管理でき、アラートの詳細に基づいて作業を定義できます。
 
-コンテキスト内で (たとえば、アラート、サポート案件、または資産内)、IoT Central からの現在および過去の情報の測定がビジュアル化を使用して表示されます。 ビジュアル化では、デバイスのデータを操作してアラートを診断し、次のアクションを決定する機能が提供されます。 診断に基づいて、Field Service アプリケーションからコマンドをトリガーし、IoT Central によってデバイス上で実行することができます。
+コンテキスト (たとえば、アラート、サポート案件、または資産) に従って、Azure IoT から取得された現在および過去の測定情報がビジュアル化を使用して表示されます。 ビジュアル化では、デバイスのデータを操作してアラートを診断し、次のアクションを決定する機能が提供されます。 診断に基づいて、Field Service アプリケーションからコマンドをトリガーし、IoT Central によってデバイス上で実行することができます。
 
 **スケジュール機能**: 過去 2 年間にわたり、リソース スケジュール最適化 (RSO) によるフィールド サービスのスケジュール機能の自動化と最適化に多大な投資を行ってきました。 2018 年 11 月には、組織が選択したリソースのスケジュールを迅速に最適化できる単一リソース最適化がリリースされました。
 

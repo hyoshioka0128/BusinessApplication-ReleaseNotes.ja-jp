@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: 9588582713a0269eee9305f15c5cece939766256
-ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "284913"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225177"
 ---
 #  <a name="track-the-source-of-candidate-profiles-and-applications"></a>候補者のプロファイルや応募書類のソースを追跡する 
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

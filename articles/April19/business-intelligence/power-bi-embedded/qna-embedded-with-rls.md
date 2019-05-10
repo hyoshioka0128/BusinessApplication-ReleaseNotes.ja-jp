@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: nishalit
 ms.reviewer: mihart
 ms.openlocfilehash: 17c6020892c552d13af0f0d842a547c66366c32a
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "849835"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224962"
 ---
 # <a name="embed-qa-with-row-level-security-rls"></a>行レベル セキュリティ (RLS) での Q&A の埋め込み 
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]

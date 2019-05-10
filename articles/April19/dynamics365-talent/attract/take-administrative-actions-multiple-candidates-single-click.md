@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: e6c399a2eacac107430c733b1709f8f5652cb4b4
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210372"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225179"
 ---
 #  <a name="take-administrative-actions-on-multiple-candidates-with-a-single-click"></a>1 回のクリックで複数の候補者に対して管理アクションを実行する
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

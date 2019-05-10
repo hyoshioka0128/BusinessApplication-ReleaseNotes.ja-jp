@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: jasongre
 ms.openlocfilehash: 26cffe480235af52a3d091e866e8f181243ecf46
-ms.sourcegitcommit: 87ac87cffd0325d182d1699a9f56a0c30c8d57d6
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "775209"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225272"
 ---
 #  <a name="improved-add-filter-fields-experience"></a>"フィルター フィールドの追加" エクスペリエンスの向上
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

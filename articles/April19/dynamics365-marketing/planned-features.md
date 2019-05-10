@@ -7,12 +7,12 @@ ms.reviewer: kamaybac
 ms.date: 01/21/2019
 ms.topic: summary
 ms.service: business-applications
-ms.openlocfilehash: 27554ac7b546b15869d895aae4e4a38777d28b89
-ms.sourcegitcommit: 66a64e8d3cd3553f34c17de1123e4573753ec8e9
+ms.openlocfilehash: 358ef918e511598bed35fad7903e8034d2a3b093
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "842978"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225144"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-for-marketing"></a>Dynamics 365 for Marketing の新機能と予定されている機能
 
@@ -42,7 +42,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [セグメント ブースト](segment-boost.md) | パブリック プレビュー | 2019 年 6 月 |
 | [スパム スコア](spam-score-prediction-emails.md) | パブリック プレビュー | 2019 年 6 月 |
 | [Web サイトの個人用設定](website-personalization.md)                                  | パブリック プレビュー<br>一般提供       | 2019 年 3 月 <br> 2019 年 4 月          |
-| [複合現実コンテンツ](mixed-reality-content.md)                                  | パブリック プレビュー       | 2019 年 6 月           |
+| [複合現実コンテンツ](mixed-reality-content.md)                                  | パブリック プレビュー       | 2019 年 12 月           |
 
 
 

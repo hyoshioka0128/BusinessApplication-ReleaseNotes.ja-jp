@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: jasongre
 audience: admin, end user, IT pro
 ms.openlocfilehash: dc6b5009d8718189b599aec03579dbc5306e78a1
-ms.sourcegitcommit: 9d9f57d7fa917a6e3185205bf59537229546a00c
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "861138"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225428"
 ---
 # <a name="updated-navigation-bar-that-aligns-with-the-office-header"></a>Office ヘッダーに合わせて更新されたナビゲーション バー
 

@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: ''
 ms.reviewer: v-stsau
 ms.openlocfilehash: a429d3bf3afd5003202b951a59150d1b232cdce1
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "843526"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224997"
 ---
 <!--from editor: Please provide caption info for screenshot.-->
 

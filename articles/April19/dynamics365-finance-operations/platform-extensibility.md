@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: cgarty
 audience: developer, customizer
 ms.openlocfilehash: cba088fc47a7a8296a7f22011c0fbe8d94116a3f
-ms.sourcegitcommit: 9d9f57d7fa917a6e3185205bf59537229546a00c
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "861127"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225212"
 ---
 # <a name="platform-extensibility-enhancements"></a>プラットフォーム拡張性の機能強化
 

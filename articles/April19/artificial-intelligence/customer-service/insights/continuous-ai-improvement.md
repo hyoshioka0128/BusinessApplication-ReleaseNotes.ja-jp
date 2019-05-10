@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: xiaoying
 ms.openlocfilehash: 8aa1ddd2d57ce17e3fdcca8a6ad036200260dbc4
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "843746"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224979"
 ---
 # <a name="artificial-intelligence-ai-continuously-improves-topic-clustering-based-on-human-feedback"></a>人間のフィードバックに基づく人工知能 (AI) によるトピックのクラスタリングの継続的な改善
 [!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]

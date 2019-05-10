@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: mikebc
 audience: developer, end user, customizer
 ms.openlocfilehash: 4e6dc8b2a04bf91b8dba9279db5466405de3673e
-ms.sourcegitcommit: 92b7053f06513207fc880a7ce9dabb00b4df5816
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "723647"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225151"
 ---
 # <a name="list-views"></a>リスト ビュー
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

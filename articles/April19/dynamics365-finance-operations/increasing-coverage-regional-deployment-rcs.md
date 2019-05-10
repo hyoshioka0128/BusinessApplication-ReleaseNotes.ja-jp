@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: janeaug
 ms.openlocfilehash: 76a8bdc9a1e34547b03cbbab55d9c401bd81aa94
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "894944"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224925"
 ---
 # <a name="expanded-regional-coverage-for-regulatory-configuration-service-rcs-deployments"></a>Regulatory Configuration Service (RCS) が展開される適用範囲地域の拡大
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

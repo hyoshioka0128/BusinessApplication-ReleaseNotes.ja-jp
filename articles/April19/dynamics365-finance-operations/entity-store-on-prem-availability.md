@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: MilindaV2
 ms.openlocfilehash: 958aff6631f41ce990b21cc2a12ab0643e0e2421
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210579"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225146"
 ---
 #  <a name="entity-store-support-for-on-premises-deployments"></a>オンプレミス展開でのエンティティ格納のサポート
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

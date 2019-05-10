@@ -6,12 +6,12 @@ ms.date: 3/7/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: mamandha
-ms.openlocfilehash: 42a51361dade840ec07282b2165d9eedac6d7ee2
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.openlocfilehash: 29d7bb9d6066a1e4666956e82c9e7309d719751a
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "843669"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225354"
 ---
 #  <a name="streamline-guide-administration-by-assigning-activities-to-roles"></a>ロールにアクティビティを割り当てることでガイドの管理を効率化する
 
@@ -34,7 +34,7 @@ ms.locfileid: "843669"
 
 **ロール**を選択すると、新しいドロップダウン フィールドが表示されます。 このドロップダウン フィールドには、テンプレート/ガイド内の既存のロールがすべて表示されます。 既存のロールがない場合は、**新規追加**オプションを選択して新しいロールを作成できます。
 
-![担当者の新規追加ドロップダウン](../media/add_new_assignee_dropdown.png "担当者の新規追加ドロップダウン")
+![担当者の新規追加ドロップダウン フィールド](../media/add_new_assignee_dropdown.png "担当者の新規追加ドロップダウン フィールド")
 
 新しいロールを作成するには、次の手順を実行します。
 

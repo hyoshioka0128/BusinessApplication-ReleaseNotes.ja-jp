@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: mhart
 ms.reviewer: m-hartmann
 ms.openlocfilehash: dcb5cc2b50238297c2a68c34afd942eb329896b4
-ms.sourcegitcommit: 4db495226091126eecdfb6795702b2d7a4c22a3d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "881154"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225016"
 ---
 #  <a name="whats-new-and-planned-for-market-insights"></a>Market Insights の新機能と予定されている機能
 

@@ -9,11 +9,11 @@ ms.service: business-applications
 ms.author: kfend
 ms.reviewer: annbe
 ms.openlocfilehash: 864ddba58b1f9b0bc0417a10f3c630a11d1f7e76
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "844278"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225440"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-for-project-service-automation"></a>Dynamics 365 for Project Service Automation の新機能と予定されている機能
 [!include[service banner](../../includes/service.md)]

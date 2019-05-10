@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ''
 ms.openlocfilehash: 2acf301adfb004bf424727c1ed2aa4a1cc519051
-ms.sourcegitcommit: 03de13679b4a53812274475e957d0124e6f4dd35
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "838100"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225395"
 ---
 # <a name="intelligent-prospect-recommendations"></a>インテリジェントな候補者の推奨
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

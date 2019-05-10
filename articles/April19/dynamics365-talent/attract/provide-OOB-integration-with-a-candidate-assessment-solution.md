@@ -6,12 +6,12 @@ ms.date: 03/08/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: renwe
-ms.openlocfilehash: e624ee7c60de37376afdf9a631792019a8e5e4f7
-ms.sourcegitcommit: 03de13679b4a53812274475e957d0124e6f4dd35
+ms.openlocfilehash: 42ade00f47b22c2d04e69a2c299975ef30e82f07
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "838187"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225393"
 ---
 #  <a name="provide-out-of-the-box-integration-with-microsoft-forms-pro"></a>Microsoft Forms Pro とそのまま統合できる
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
@@ -20,7 +20,7 @@ ms.locfileid: "838187"
 
 
 
-Attract では Microsoft Forms Pro をすぐに使用できるメカニズムがサポートされ、組織は手間をかけずに簡単にソリューションを設定して候補者の評価を管理できます。 Microsodt Forms Pro の機能の詳細については、[Microsoft Forms Pro のリリース ノート](../../forms-pro/planned-features.md)をご覧ください。
+Attract では Microsoft Forms Pro をすぐに使用できるメカニズムがサポートされ、組織は手間をかけずに簡単にソリューションを設定して候補者の評価を管理できます。 Microsoft Forms Pro の機能の詳細については、[Microsoft Forms Pro リリース ノート](../../forms-pro/planned-features.md)を参照してください。
 
 この機能では次のことができます。 
 

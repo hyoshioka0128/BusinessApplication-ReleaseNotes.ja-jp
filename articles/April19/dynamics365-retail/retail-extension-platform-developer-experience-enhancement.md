@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: 1d183bedf009adc5dd3156e378d0874545fbf598
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210989"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224876"
 ---
 #  <a name="retail-extension-platform-and-developer-experience-enhancement"></a>Retail 拡張プラットフォームと開発者エクスペリエンスの改善
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]

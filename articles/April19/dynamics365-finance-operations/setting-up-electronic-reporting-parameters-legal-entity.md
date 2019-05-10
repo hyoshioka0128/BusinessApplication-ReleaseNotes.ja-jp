@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: nselin
 ms.openlocfilehash: af21632089dc16587e2e5dd9840673dc45fc13ac
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "286770"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225376"
 ---
 #  <a name="electronic-reporting---setting-up-parameters-by-legal-entity"></a>電子申告 - 法人別のパラメーターの設定
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

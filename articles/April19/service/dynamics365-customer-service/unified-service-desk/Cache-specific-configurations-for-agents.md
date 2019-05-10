@@ -10,11 +10,11 @@ ms.assetid: AF34A5B0-7F0D-4DBD-9B83-258CC1FB3B23
 author: DeepapMS
 ms.author: deepap
 ms.openlocfilehash: 304d402ab127cc2c66748013412fee0e0088fc08
-ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "847468"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225385"
 ---
 # <a name="cache-specific-configurations-for-agents"></a>エージェント固有の構成のキャッシュ
 [!include[unified-service-desk banner](../../../includes/unified-service-desk.md)]

@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: nselin
 ms.openlocfilehash: b7894f45c4392977d9dac39b7f845d5078fcd424
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210487"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225188"
 ---
 # <a name="electronic-reporting---post-processing-of-generated-files"></a>電子申告 - 生成されたファイルの後処理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

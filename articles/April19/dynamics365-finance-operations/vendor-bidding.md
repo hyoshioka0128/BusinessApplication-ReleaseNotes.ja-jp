@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: 85299d0d0506cc9f7172dc4bbc6b2e4489676bd4
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "895504"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225248"
 ---
 # <a name="vendor-bidding--rfq-questions-from-vendors-and-summarized-responses"></a>仕入先の入札 - 仕入先からの RFQ に関する質問および要約された回答 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

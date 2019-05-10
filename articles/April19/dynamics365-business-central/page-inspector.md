@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: mikebc
 audience: developer, end user, customizer
 ms.openlocfilehash: 29ce32ab62e49f3515984a73c0d059b35ca057fd
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "404909"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224994"
 ---
 # <a name="page-inspection-formerly-about-this-page"></a>ページの検査 (以前の*このページについて*)
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

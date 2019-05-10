@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: a9f83388b3f51ea02d5472a72ccff0d5647b07d2
-ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "900131"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225175"
 ---
 <!--from editor: This had no metadata - I added the above.-->
 

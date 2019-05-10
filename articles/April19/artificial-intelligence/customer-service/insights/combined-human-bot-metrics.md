@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: xiaoying
 ms.reviewer: v-stsau
 ms.openlocfilehash: 5aa033dece0774cbe2b06a2a2ed7230801c170e0
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "843647"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224993"
 ---
 # <a name="get-a-combined-overview-of-human-and-virtual-agents"></a>人間のエージェントと仮想エージェントの総合的な概要の把握
 

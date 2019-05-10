@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: 23eaa6119252486a7929109788c0e64a9c2d3761
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "895512"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224897"
 ---
 # <a name="circular-a-133-report-for-grants-sefa"></a>交付金に関する通達 A-133 レポート (SEFA) 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

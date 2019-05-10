@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: kyley
 ms.reviewer: shellyha
 ms.openlocfilehash: a26fed2cae5332f05151b0269803cb0d35d94aaa
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210273"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225345"
 ---
 #  <a name="service-delivery"></a>サービス提供
 [!include[dynamics365-field-service banner](../../includes/dynamics365-field-service.md)]

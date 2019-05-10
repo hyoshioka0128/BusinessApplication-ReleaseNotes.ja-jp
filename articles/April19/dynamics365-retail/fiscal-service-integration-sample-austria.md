@@ -11,11 +11,11 @@ author: josaw
 ms.author: Annbe
 audience: Admin
 ms.openlocfilehash: 8c42bbaa7e7aefe57f49369fad2a2e889dc9d534
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210658"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224856"
 ---
 #  <a name="fiscal-service-integration-sample-for-austria"></a>オーストリア向け会計サービスの統合のサンプル
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]

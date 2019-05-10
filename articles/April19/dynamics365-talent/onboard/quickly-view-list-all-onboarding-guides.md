@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: 5e51a6a9fc0d0da4ec6c13e60d944f1536d3e57f
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210492"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225481"
 ---
 #  <a name="quickly-view-a-list-of-all-your-onboarding-guides"></a>全オンボーディング ガイドの一覧をすぐに表示する
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

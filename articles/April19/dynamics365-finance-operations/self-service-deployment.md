@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: sarvanis
 audience: admin, end user, IT pro
 ms.openlocfilehash: 51f10ce499d8fc5e4681740f18330c09bba9a318
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210304"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225218"
 ---
 # <a name="self-service-deployment"></a>セルフサービス展開
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

@@ -8,22 +8,22 @@ ms.topic: article
 ms.service: business-applications
 ms.author: adamw
 ms.openlocfilehash: aaf639981f245a1a658e59de395bb16beee56371
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "849846"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225101"
 ---
 #  <a name="improvements-to-power-bi-workspaces"></a>Power BI ワークスペースの機能向上
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]
 
 2018 年 8 月にリリースされた新しい Power BI ワークスペースのプレビューでは、次のことが可能になりました。
 
--    **セキュリティ グループ**、 **配布リスト**、さらには複数の **Office 365 グループ**を使用して、アクセスを管理します。
+-    **セキュリティ グループ**、 **配布リスト**、さらには複数の **Office 365 グループ**を使用して、アクセスを管理する。
 
--   Office 365 グループを作成しないで、Power BI にワークスペースを作成します。
+-   Office 365 グループを作成しないで、Power BI にワークスペースを作成する。
 
--   Power BI 管理者用のツールと API を使用して、ワークスペースを効果的に管理します。
+-   Power BI 管理者用のツールと API を使用して、ワークスペースを効果的に管理する。
 
 現在、次のステップとしてこれらの新しいワークスペースを一般提供するための作業を行っており、それには次の機能が含まれます。
 

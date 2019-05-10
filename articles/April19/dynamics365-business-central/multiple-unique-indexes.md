@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: kepontop
 audience: administrator
 ms.openlocfilehash: b72dafd23f1f9f445d2348d2c44637fb4d0d8e9a
-ms.sourcegitcommit: b9117e0a006fe421a672a4f6a7fbf0276efbddfa
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "878732"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225050"
 ---
 # <a name="multiple-unique-keys"></a>複数の固有キー
 

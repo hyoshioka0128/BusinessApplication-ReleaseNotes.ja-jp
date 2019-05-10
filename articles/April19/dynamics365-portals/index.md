@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: dileeps
 ms.reviewer: shjais
 ms.openlocfilehash: b8a0a7be0c1e492aad0e43f12e1cfec9404e32e6
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210255"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225327"
 ---
 # <a name="overview-of-dynamics-365-portal-april-19-release"></a>Dynamics 365 ポータル 2019 年 4 月リリースの概要
 [!include[dynamics365-portals banner](../includes/dynamics365-portals.md)]

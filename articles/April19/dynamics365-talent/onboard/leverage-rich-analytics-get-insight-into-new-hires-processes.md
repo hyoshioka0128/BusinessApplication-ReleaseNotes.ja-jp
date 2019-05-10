@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: c422a26c9c07e3124dc7e905c5bab07e3cb1b569
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210544"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225172"
 ---
 #  <a name="leverage-rich-analytics-to-get-insight-into-your-new-hires-and-processes"></a>豊富な分析機能を使用して新規の採用やプロセスに関する分析情報を得る
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

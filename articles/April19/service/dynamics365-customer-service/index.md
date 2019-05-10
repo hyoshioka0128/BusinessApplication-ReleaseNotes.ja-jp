@@ -10,11 +10,11 @@ author: DeepapMS
 ms.author: DeepapMS
 ms.reviewer: anjgupta
 ms.openlocfilehash: 757209255e2202f600c53daabe1d7e380507ffbd
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210777"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225447"
 ---
 #  <a name="overview-of-core-customer-service-april-19-release"></a>2019 年 4 月リリースのコア Customer Service の概要
 [!include[service banner](../../includes/service.md)]

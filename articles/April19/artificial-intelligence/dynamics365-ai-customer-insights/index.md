@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: jimholtz
 ms.reviewer: jimholtz
 ms.openlocfilehash: fed743614749d255ea2f0f4f5e9cf2dd67002a61
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406375"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224964"
 ---
 # <a name="overview-of-dynamics-365-customer-insights-april-19-release"></a>Dynamics 365 Customer Insights 2019 年 4 月リリースの概要
 [!include[dynamics365-ai-customer-insights banner](../../includes/dynamics365-ai-customer-insights.md)]

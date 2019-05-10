@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: 48178ebd03ff4fe987e4a22449b1fa64cacd58e6
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "895494"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224898"
 ---
 # <a name="cash-control"></a>現金管理 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

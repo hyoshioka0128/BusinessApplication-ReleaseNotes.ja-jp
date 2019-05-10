@@ -7,16 +7,16 @@ ms.assetid: ''
 ms.topic: article
 ms.service: business-applications
 ms.author: tsmarsha
-ms.openlocfilehash: 0d526652396a15bd5513f9790ddda7b61ab9c004
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.openlocfilehash: 64d5688227e0bdfe694936bd0f10061d23bc0166
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "895511"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224978"
 ---
 #  <a name="business-process-modeler-bpm-user-interface-improvements"></a>ビジネス プロセス モデラー (BPM) のユーザー インターフェイスの向上
 
-既定のユーザーインターフェイスと従来のユーザーインターフェイス間の機能のパリティをサポートするために、新しいビジネス プロセス モデラー (BPM) のエクスペリエンスで次の機能を利用できるようになりました。
+既定のユーザー インターフェイスと従来のユーザー インターフェイス間で同等の機能をサポートするために、新しいビジネス プロセス モデラー (BPM) のエクスペリエンスで次の機能を利用できるようになりました。
 
 - **Visio 添付ファイル インジケーター**: 業務プロセスに添付されている Visio 図面がある場合は、視覚的な注釈として Visio アイコンが追加されます。
 

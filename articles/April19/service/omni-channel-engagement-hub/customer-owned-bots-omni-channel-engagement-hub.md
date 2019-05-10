@@ -12,11 +12,11 @@ ms.technology: ''
 ms.author: shjais
 audience: Admin
 ms.openlocfilehash: 1cb82b21410588513ae4d4f277b607e5265b075a
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211086"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225422"
 ---
 #  <a name="enable-customers-to-bring-their-bots"></a>お客様が自分のボットを持ち込める機能
 

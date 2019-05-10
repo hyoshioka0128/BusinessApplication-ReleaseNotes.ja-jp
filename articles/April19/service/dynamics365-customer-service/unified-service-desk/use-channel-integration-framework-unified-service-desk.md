@@ -9,12 +9,12 @@ ms.topic: article
 ms.assetid: AF34A5B0-7F0D-4DBD-9B83-258CC1FB3B23
 author: kabala123
 ms.author: kabala
-ms.openlocfilehash: b59b93c6bfe76bd960afee0d621702a5a6137f90
-ms.sourcegitcommit: 03de13679b4a53812274475e957d0124e6f4dd35
+ms.openlocfilehash: 118d844912b90bdc4cf9f83dc5b7e49a979045f5
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "838111"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225404"
 ---
 # <a name="use-channel-integration-framework-with-unified-service-desk"></a>Unified Service Desk で Channel Integration Framework を使用する
 [!include[unified-service-desk banner](../../../includes/unified-service-desk.md)]

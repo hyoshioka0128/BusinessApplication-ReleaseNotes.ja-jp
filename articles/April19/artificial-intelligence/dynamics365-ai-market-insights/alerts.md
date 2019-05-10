@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: mhart
 ms.reviewer: m-hartmann
 ms.openlocfilehash: 3afdfcbfc0c8fda9cb3d96b7a41f677f0f8ca8e1
-ms.sourcegitcommit: 4db495226091126eecdfb6795702b2d7a4c22a3d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "881153"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225007"
 ---
 #  <a name="market-insights-alerts"></a>Market Insights アラート
 [!include[dynamics365-ai-market-insights banner](../../includes/dynamics365-ai-market-insights.md)]
