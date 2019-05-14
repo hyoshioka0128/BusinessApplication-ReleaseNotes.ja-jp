@@ -10,27 +10,27 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: blazkote
 audience: developer, end user
-ms.openlocfilehash: 3b5f0573d7499e283916a8f77479c259f40dec41
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: c26b82065b753b0e8ba461d197fa8400a94adbc2
+ms.sourcegitcommit: a42ceb5c2375ecb045c1710fea82e164bcb13dd3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1224989"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "1456498"
 ---
-# <a name="improved-contextual-search-experience"></a><span data-ttu-id="16c64-103">コンテキスト検索エクスペリエンスの改善</span><span class="sxs-lookup"><span data-stu-id="16c64-103">Improved contextual search experience</span></span>
+# <a name="improved-contextual-search-experience"></a><span data-ttu-id="d8c08-103">コンテキスト検索エクスペリエンスの改善</span><span class="sxs-lookup"><span data-stu-id="d8c08-103">Improved contextual search experience</span></span>
 
-## <a name="search-results-from-appsource"></a><span data-ttu-id="16c64-104">AppSource からの検索結果</span><span class="sxs-lookup"><span data-stu-id="16c64-104">Search results from AppSource</span></span>
-<span data-ttu-id="16c64-105">Microsoft では、AppSource でより柔軟な用語を使用してパートナー ソリューションを検索できるようにすることで、操作アシスト (Alt+Q) 機能を改善しました。</span><span class="sxs-lookup"><span data-stu-id="16c64-105">We have improved the Tell me (Alt+Q) feature by allowing more flexible terms and surfacing results for partner solutions on AppSource.</span></span> <span data-ttu-id="16c64-106">これによりユーザーは、パートナー コミュニティから入手できる幅広いソリューションの中から目的に合うソリューションを探し、Business Central を簡単に拡張できるようになります。</span><span class="sxs-lookup"><span data-stu-id="16c64-106">This allows users to seek help and easily extend Business Central with the many solutions that are available from the partner community.</span></span>
+## <a name="search-results-from-appsource"></a><span data-ttu-id="d8c08-104">AppSource からの検索結果</span><span class="sxs-lookup"><span data-stu-id="d8c08-104">Search results from AppSource</span></span>
+<span data-ttu-id="d8c08-105">Microsoft では、AppSource でより柔軟な用語を使用してパートナー ソリューションを検索できるようにすることで、操作アシスト (Alt+Q) 機能を改善しました。</span><span class="sxs-lookup"><span data-stu-id="d8c08-105">We have improved the Tell me (Alt+Q) feature by allowing more flexible terms and surfacing results for partner solutions on AppSource.</span></span> <span data-ttu-id="d8c08-106">これによりユーザーは、パートナー コミュニティから入手できる幅広いソリューションの中から目的に合うソリューションを探し、Business Central を簡単に拡張できるようになります。</span><span class="sxs-lookup"><span data-stu-id="d8c08-106">This allows users to seek help and easily extend Business Central with the many solutions that are available from the partner community.</span></span>
 
-<span data-ttu-id="16c64-107">![AppSource からの検索結果のスクリーンショット](media/search_commission.png "検索結果には AppSource 検索からの結果も含まれています")</span><span class="sxs-lookup"><span data-stu-id="16c64-107">![Screenshot of search results from AppSource](media/search_commission.png "Search results now also include results from AppSource search")</span></span>
+<span data-ttu-id="d8c08-107">![AppSource からの検索結果のスクリーンショット](media/search_commission.png "検索結果には AppSource 検索からの結果も含まれています")</span><span class="sxs-lookup"><span data-stu-id="d8c08-107">![Screenshot of search results from AppSource](media/search_commission.png "Search results now also include results from AppSource search")</span></span>
 
-## <a name="additional-search-terms"></a><span data-ttu-id="16c64-108">追加の検索語</span><span class="sxs-lookup"><span data-stu-id="16c64-108">Additional search terms</span></span>
+## <a name="additional-search-terms"></a><span data-ttu-id="d8c08-108">追加の検索語</span><span class="sxs-lookup"><span data-stu-id="d8c08-108">Additional search terms</span></span>
 
-<span data-ttu-id="16c64-109">新規ユーザーの場合は、Business Central にある関連エンティティの名前とは異なるビジネス用語を使用することがよくあります。</span><span class="sxs-lookup"><span data-stu-id="16c64-109">New users often use different business terms than those used to name the related entities in Business Central.</span></span> <span data-ttu-id="16c64-110">たとえば、"項目" ではなく "製品" を使用したり、"顧客" ではなく "クライアント" を使用したりすることがあります。</span><span class="sxs-lookup"><span data-stu-id="16c64-110">For example, they might use "product" instead of "item," or "client" instead of "customer."</span></span>
+<span data-ttu-id="d8c08-109">新規ユーザーの場合は、Business Central にある関連エンティティの名前とは異なるビジネス用語を使用することがよくあります。</span><span class="sxs-lookup"><span data-stu-id="d8c08-109">New users often use different business terms than those used to name the related entities in Business Central.</span></span> <span data-ttu-id="d8c08-110">たとえば、"項目" ではなく "製品" を使用したり、"顧客" ではなく "クライアント" を使用したりすることがあります。</span><span class="sxs-lookup"><span data-stu-id="d8c08-110">For example, they might use "product" instead of "item," or "client" instead of "customer."</span></span>
 
-<span data-ttu-id="16c64-111">開発者は、ページやレポートに代替の検索語を追加することで、ユーザーが目的のエンティティをより簡単に見つけられるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="16c64-111">Developers can now add alternate search terms to pages and reports to make it easier for users to find what they are looking for.</span></span> <span data-ttu-id="16c64-112">開発者は、ページやレポートの AdditionalSearchTermsML プロパティで、会社固有の用語を追加することができます。ユーザーはその用語を [操作アシスト] ボックスに入力して、目的のページやレポートを見つけることができます。</span><span class="sxs-lookup"><span data-stu-id="16c64-112">In the AdditionalSearchTermsML property on pages and reports, developers can add company-specific terms that users can then enter in the Tell me box to find the page or report in question.</span></span>
+<span data-ttu-id="d8c08-111">開発者は、ページやレポートに代替の検索語を追加することで、ユーザーが目的のエンティティをより簡単に見つけられるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="d8c08-111">Developers can now add alternate search terms to pages and reports to make it easier for users to find what they are looking for.</span></span> <span data-ttu-id="d8c08-112">開発者は、ページやレポートの AdditionalSearchTermsML プロパティで、会社固有の用語を追加することができます。ユーザーはその用語を [操作アシスト] ボックスに入力して、目的のページやレポートを見つけることができます。</span><span class="sxs-lookup"><span data-stu-id="d8c08-112">In the AdditionalSearchTermsML property on pages and reports, developers can add company-specific terms that users can then enter in the Tell me box to find the page or report in question.</span></span>
 
-<span data-ttu-id="16c64-113">Business Central では、一部のページやレポート用に、約 200 の代替検索語が公開されています (項目ページを検索するための "製品"や、アセンブリ BOM ページを検索するための "キット" など)。</span><span class="sxs-lookup"><span data-stu-id="16c64-113">Business Central is published with around 200 such alternate search terms for selected pages and reports, such as "product" to find the Items page and "kit" to find the Assembly BOM page.</span></span>
+<span data-ttu-id="d8c08-113">Business Central では、一部のページやレポート用に、約 200 の代替検索語が公開されています (項目ページを検索するための "製品"や、アセンブリ BOM ページを検索するための "キット" など)。</span><span class="sxs-lookup"><span data-stu-id="d8c08-113">Business Central is published with around 200 such alternate search terms for selected pages and reports, such as "product" to find the Items page and "kit" to find the Assembly BOM page.</span></span>
 
 <!--
 Describe the new feature, and then give an elevator pitch of the business value for it. Include high-value capabilities that light up something exciting for our customers. The feature should be something that a customer needs to plan for...definitely larger than a hotfix or bug fix.

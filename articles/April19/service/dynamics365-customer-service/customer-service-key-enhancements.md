@@ -10,34 +10,24 @@ ms.assetid: ec72a2b1-e5d4-9473-277c-1b86ca4acf96
 author: DeepapMS
 ms.author: Deepap
 ms.reviewer: anjgup
-ms.openlocfilehash: 4632c5779ff7fc6aa41393c10b2641e7954dec77
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 477be4aff6b4794030e9f0385cdf688fe711ff23
+ms.sourcegitcommit: d38444f318edcbde1d3c922cbf676072b87e5fbb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225387"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "1447164"
 ---
-# <a name="end-user-usability-enhancements"></a><span data-ttu-id="14427-104">使いやすさに関するエンドユーザー向けの機能強化</span><span class="sxs-lookup"><span data-stu-id="14427-104">End-user usability enhancements</span></span>
+# <a name="end-user-usability-enhancements"></a><span data-ttu-id="008f8-104">使いやすさに関するエンドユーザー向けの機能強化</span><span class="sxs-lookup"><span data-stu-id="008f8-104">End-user usability enhancements</span></span>
 
 [!include[service banner](../../includes/service.md)]
 
-##  <a name="case-form-ui-enhancements"></a><span data-ttu-id="14427-105">サポート案件フォームの UI の機能強化</span><span class="sxs-lookup"><span data-stu-id="14427-105">Case form UI enhancements</span></span>
+##  <a name="case-form-ui-enhancements"></a><span data-ttu-id="008f8-105">サポート案件フォームの UI の機能強化</span><span class="sxs-lookup"><span data-stu-id="008f8-105">Case form UI enhancements</span></span>
 
-<span data-ttu-id="14427-106">サポート案件フォームの情報密度の向上により、エージェントはサポート案件フォーム上の最も関連性の高い詳細情報に集中できるようになります。</span><span class="sxs-lookup"><span data-stu-id="14427-106">Improved information density on case form will help agents to focus on the most relevant details on a case form.</span></span> 
-
-
-##  <a name="timeline-enhancements"></a><span data-ttu-id="14427-107">タイムラインの機能強化</span><span class="sxs-lookup"><span data-stu-id="14427-107">Timeline enhancements</span></span>  
-
-<span data-ttu-id="14427-108">情報密度と使いやすさが向上したタイムラインにより、エージェントとスーパーバイザーは数回のクリックで活動のスナップショットを視覚化できます。</span><span class="sxs-lookup"><span data-stu-id="14427-108">Enhanced timeline with improved information density and usability will help agents and supervisors visualize activity snapshot in a few clicks.</span></span>
+<span data-ttu-id="008f8-106">サポート案件フォームの情報密度の向上により、エージェントはサポート案件フォーム上の最も関連性の高い詳細情報に集中できるようになります。</span><span class="sxs-lookup"><span data-stu-id="008f8-106">Improved information density on case form will help agents to focus on the most relevant details on a case form.</span></span> 
 
 
-##  <a name="show-elapsed-and-remaining-time-on-sla-timer"></a><span data-ttu-id="14427-109">SLA タイマーで経過時間と残り時間を表示</span><span class="sxs-lookup"><span data-stu-id="14427-109">Show elapsed and remaining time on SLA Timer</span></span>  
+##  <a name="timeline-enhancements"></a><span data-ttu-id="008f8-107">タイムラインの機能強化</span><span class="sxs-lookup"><span data-stu-id="008f8-107">Timeline enhancements</span></span>  
 
-<span data-ttu-id="14427-110">SLA タイマーの視覚化が強化され、エージェントに経過時間と残り時間が表示されるため、エージェントは主要業績評価指標を満たしているかどうかを把握しやすくなります。</span><span class="sxs-lookup"><span data-stu-id="14427-110">Enhanced visualization on SLA Timer will show agents the elapsed and remaining time, helping agents understand if they are meeting key performance indicators.</span></span>
+<span data-ttu-id="008f8-108">情報密度と使いやすさが向上したタイムラインにより、エージェントとスーパーバイザーは数回のクリックで活動のスナップショットを視覚化できます。</span><span class="sxs-lookup"><span data-stu-id="008f8-108">Enhanced timeline with improved information density and usability will help agents and supervisors visualize activity snapshot in a few clicks.</span></span>
 
-  
-## <a name="show-business-and-actual-hours-on-sla-timer"></a><span data-ttu-id="14427-111">SLA タイマーでの営業時間と実際の時間の表示</span><span class="sxs-lookup"><span data-stu-id="14427-111">Show Business and Actual hours on SLA Timer</span></span>
-
-
-<span data-ttu-id="14427-112">SLA タイマーの視覚化が強化され、営業時間と実際の時間の 2 つのモードで表示されるため、エージェントは自分の作業時間に基づいて SLA ターゲットを簡単に視覚化できるようになります。</span><span class="sxs-lookup"><span data-stu-id="14427-112">Visual enhancements to SLA Timer will show time in two modes, Business hours and Actual hours, for agents to easily visualize SLA targets based on their working hours.</span></span>
 
