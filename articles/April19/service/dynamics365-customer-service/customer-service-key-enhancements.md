@@ -10,12 +10,12 @@ ms.assetid: ec72a2b1-e5d4-9473-277c-1b86ca4acf96
 author: DeepapMS
 ms.author: Deepap
 ms.reviewer: anjgup
-ms.openlocfilehash: 4632c5779ff7fc6aa41393c10b2641e7954dec77
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 477be4aff6b4794030e9f0385cdf688fe711ff23
+ms.sourcegitcommit: d38444f318edcbde1d3c922cbf676072b87e5fbb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225387"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "1447164"
 ---
 # <a name="end-user-usability-enhancements"></a>使いやすさに関するエンドユーザー向けの機能強化
 
@@ -30,14 +30,4 @@ ms.locfileid: "1225387"
 
 情報密度と使いやすさが向上したタイムラインにより、エージェントとスーパーバイザーは数回のクリックで活動のスナップショットを視覚化できます。
 
-
-##  <a name="show-elapsed-and-remaining-time-on-sla-timer"></a>SLA タイマーで経過時間と残り時間を表示  
-
-SLA タイマーの視覚化が強化され、エージェントに経過時間と残り時間が表示されるため、エージェントは主要業績評価指標を満たしているかどうかを把握しやすくなります。
-
-  
-## <a name="show-business-and-actual-hours-on-sla-timer"></a>SLA タイマーでの営業時間と実際の時間の表示
-
-
-SLA タイマーの視覚化が強化され、営業時間と実際の時間の 2 つのモードで表示されるため、エージェントは自分の作業時間に基づいて SLA ターゲットを簡単に視覚化できるようになります。
 

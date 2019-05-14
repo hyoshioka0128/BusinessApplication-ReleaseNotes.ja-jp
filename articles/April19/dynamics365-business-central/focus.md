@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: blazkote
 audience: end user
-ms.openlocfilehash: e39d37b07c0352dc97865a3e09cc85aed7020861
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 6d5dbca2ddad93082a5371afd4ad3176d6c75ca3
+ms.sourcegitcommit: a42ceb5c2375ecb045c1710fea82e164bcb13dd3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225086"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "1456520"
 ---
 # <a name="focus-mode-on-document-pages"></a>ドキュメント ページでのフォーカス モード
 

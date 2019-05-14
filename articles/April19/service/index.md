@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: Karthig
 ms.reviewer: anjgup
-ms.openlocfilehash: 08a6725a652173eaafb24eee7c3e5735de176ab4
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 7781dc88ce077bbcf94d62d60ab50085c7545950
+ms.sourcegitcommit: d38444f318edcbde1d3c922cbf676072b87e5fbb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225436"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "1447197"
 ---
 #  <a name="overview-of-dynamics-365-for-customer-service-april-19-release"></a>Dynamics 365 for Customer Service 2019 年 4 月リリースの概要
 [!include[service banner](../includes/service.md)]
@@ -27,6 +27,6 @@ Dynamics 365 for Customer Service の目的は、ワールド クラスのカス
 
 -  **エージェント エクスペリエンス**: 2018 年 10 月リリースの Omni-channel Engagement Hub はプレビュー用でした。 Omni-channel Engagement Hub は、複数のチャネルで作業するエージェントのための、Unified Service Desk 上に構築されたカスタマイズ可能で生産性の高いアプリです。 2019 年 4 月のリリースでは、これを一般提供する予定です。 さらに、統一インターフェイス フレームワーク上に構築されたブラウザー ベースのマルチセッションでマルチアプリのエージェント エクスペリエンスも提供します。 
 
-    サポート案件管理は、顧客サービスの基本機能です。 使いやすさと生産性を向上させるため、主要なエクスペリエンスを作り直します。 これらの拡張機能には、サポート案件解決ダイアログの拡張性、サポート案件フォームのユーザー インターフェイスの密度の向上、および SLA タイマーの使いやすさの向上が含まれます。
+    サポート案件管理は、顧客サービスの基本機能です。 使いやすさと生産性を向上させるため、主要なエクスペリエンスを再構築します。 
 
--  **ナレッジ マネージメント**: サポート情報 (KB) の作成および分析のエクスペリエンスを大幅に強化します。 KB 管理者は、FAQ やハウツー記事などの一般的なシナリオ用の KB テンプレートを作成できます。 KB 作成者は、これらのテンプレートを利用して、標準化された KB 記事をすばやく作成できます。 ナレッジ マネージメント (KM) 分析では、サポート情報の使用状況を識別してギャップに対処することができます。 ナレッジ マネージャーは、効果的な検索と効果的ではない検索を分析し、適切な措置を講じることができます。
+-  **ナレッジ マネージメント**: サポート情報 (KB) の作成エクスペリエンスを大幅に強化します。 KB 管理者は、FAQ やハウツー記事などの一般的なシナリオ用の KB テンプレートを作成できます。 KB 作成者は、これらのテンプレートを利用して、標準化された KB 記事をすばやく作成できます。 

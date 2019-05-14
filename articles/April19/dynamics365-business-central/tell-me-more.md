@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: blazkote
 audience: developer, end user
-ms.openlocfilehash: 3b5f0573d7499e283916a8f77479c259f40dec41
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: c26b82065b753b0e8ba461d197fa8400a94adbc2
+ms.sourcegitcommit: a42ceb5c2375ecb045c1710fea82e164bcb13dd3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1224989"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "1456498"
 ---
 # <a name="improved-contextual-search-experience"></a>コンテキスト検索エクスペリエンスの改善
 

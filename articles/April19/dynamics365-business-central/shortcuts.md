@@ -10,15 +10,14 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: blazkote
 audience: end user
-ms.openlocfilehash: bc810ee1b4f8f6fca60e8dedd8e4a2a41847120c
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 800938b99c83e4e1e1a7be74207982527eda923b
+ms.sourcegitcommit: a42ceb5c2375ecb045c1710fea82e164bcb13dd3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225204"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "1456487"
 ---
 # <a name="new-system-keyboard-shortcuts"></a>新しいシステム キーボード ショートカット
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 Business Central 2018 年 10 月リリースの Web (デスクトップ) エクスペリエンスで既に提供され、高い評価をいただいていた一連のキーボード ショートカットに、さらに多くのキー コンビネーションが追加されました。 次に例を示します。 
 
@@ -32,10 +31,7 @@ Business Central 2018 年 10 月リリースの Web (デスクトップ) エク�
 既存および新規のキーボード ショートカットの詳細なリストは、[https://aka.ms/bckeys](https://aka.ms/bckeys) で入手できます。
 
 ## <a name="development-status"></a>開発ステータス
-開発中
-
-## <a name="target-timeframe"></a>目標時期
-2019 年 4 月
+リリース済み
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。 Business Central フォーラム ([https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas)) をご利用ください。

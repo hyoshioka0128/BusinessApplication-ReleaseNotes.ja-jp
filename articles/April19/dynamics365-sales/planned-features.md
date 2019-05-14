@@ -10,12 +10,12 @@ ms.assetid: 72f00658-576a-4962-9ba3-cd3564278cff
 author: bharavar
 ms.author: bharavar
 ms.reviewer: shujoshi
-ms.openlocfilehash: 5cbae1a50fc055a3dde59f18acf3288cc0d29b7f
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: e44d8b77715b5f16ceef4cba1414ce6c6ff02724
+ms.sourcegitcommit: 46e082f24757ecc032ed333bdac519b43fadd881
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1224844"
+ms.lasthandoff: 05/09/2019
+ms.locfileid: "1538942"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-for-sales"></a>Dynamics 365 for Sales の新機能と予定されている機能
 
@@ -32,8 +32,8 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | 機能         | リリースの種類         | 日付 |
 |-------------------------------|----------------------|----------------------|
 | [簡単になった Sales Navigator のインストール](intelligent-social-selling-relationship-sales-mrs.md) | 一般提供 | 2019 年 4 月 20 日           |
-| [より多くのデータ プロバイダーから得られる堅牢な顧客分析情報](robust-customer-insights-more-data-providers.md)                      | 一般提供 | 2019 年 4 月           |
-| [Microsoft Teams 統合](productive-sales-collaboration-teams.md)              | パブリック プレビュー | 2019 年 4 月           |
+| [より多くのデータ プロバイダーから得られる強固な顧客分析情報](robust-customer-insights-more-data-providers.md)                      | 一般提供 | 2019 年 4 月           |
+| [Microsoft Teams 統合](productive-sales-collaboration-teams.md)              | 一般提供 | 2019 年 5 月 3 日           |
 | [コンテンツのレコメンデーションを含むプレイブックの機能強化](content-recommendation-sales-playbook.md)                    | パブリック プレビュー<br>一般提供 | 2019 年 3 月 4 日<br>2019 年 4 月           |
 | [価格見積作成ツールとのシームレスな統合エクスペリエンス](seamless-configure-price-quote-integrated-experience.md)        | 一般提供 | 2019 年 4 月           |
 | [手動売上予測によって収益を正確に見積もり、情報に基づいた意思決定を実行する](simple-forecasting-effective-sales-performance-management.md)            | パブリック プレビュー | 2019 年 4 月           |

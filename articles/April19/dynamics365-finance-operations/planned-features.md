@@ -2,17 +2,17 @@
 title: Finance and Operations の新機能と予定されている機能 (2019 年 4 月)
 description: このトピックは、2019 年 2 月 から 2019 年 3 月までの間にプレビューになり、2019 年 4 月から 2019 年 9 月までの間にリリース予定の Finance and Operations の機能の一覧を示します。
 author: AnnBe
-ms.date: 04/25/2019
+ms.date: 05/06/2019
 ms.assetid: 7cd25ee8-8569-492a-9110-b814431c0d45
 ms.topic: article
 ms.service: business-applications
 ms.author: AnnBe
-ms.openlocfilehash: ad70507f8b5d3cff0eb4ca073301246db75c0f8a
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 70b0f077a771961d44f8762de21aaf832801f28e
+ms.sourcegitcommit: 02b513fd2e8c80086e6ff6de409a73483454cbce
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1236855"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "1449250"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-for-finance-and-operations"></a>Dynamics 365 for Finance and Operations の新機能と予定されている機能
 
@@ -151,9 +151,9 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [ネットワーク プリンターのシステム管理](system-manage-network-printers.md)                   | パブリック プレビュー |   クラウド                  | 2019 年 4 月 |
 | [電子メールによるクライアント警告通知](alert-email-notifications.md)                   | パブリック プレビュー |   両方                  | 2019 年 4 月 12 日 |
 | **クライアント** |  |  |  |
-| [強化されたグリッド エクスペリエンス](grid-experience.md)           | パブリック プレビュー |       両方               | 2019 年 7 月 |
-| [保存されているビュー](saved-views.md)           | パブリック プレビュー |    両方                  | 2019 年 7 月 |
-| [クライアントの生産性と使いやすさの向上](client-productivity-usability-improvements.md)           | 一般提供 |                両方      | 2019 年 7 月 |
+| [強化されたグリッド エクスペリエンス](grid-experience.md)           | パブリック プレビュー |       両方               | 2019 年 8 月 |
+| [保存されているビュー](saved-views.md)           | パブリック プレビュー |    両方                  | 2019 年 8 月 |
+| [クライアントの生産性と使いやすさの向上](client-productivity-usability-improvements.md)           | 一般提供 |                両方      | 未定 |
 | ["フィルター フィールドの追加" エクスペリエンスの向上](updated-add-filter-field.md)           | 一般提供 |                両方      | 2019 年 4 月 |
 | [Office ヘッダーに合わせて更新されたナビゲーション バー](updatedNavBar.md)           | 一般提供 |    両方                  | 2019 年 3 月 8 日 |
 | [プレビュー ビルドの明確な識別](previewBuildIndicator.md)                   | 一般提供 |   両方                  | 2019 年 3 月 8 日 |
@@ -163,6 +163,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [プラットフォーム拡張性の機能強化](platform-extensibility.md)| 一般提供 |               両方       | 2019 年 3 月 8 日 |
 | [プラットフォーム拡張性の機能強化ウェーブ 2](platform-extensibility2.md)| 一般提供 |               両方       | 2019 年 4 月 12 日 |
 | [プラットフォーム拡張性の機能強化ウェーブ 3](platform-extensibility3.md)| 一般提供 |               両方       | 2019 年 5 月 |
+| [プラットフォーム拡張性の機能強化ウェーブ 4](platform-extensibility4.md)| 一般提供 |               両方       | 2019 年 6 月 |
 | [アプリケーション トラッカーを使用したランタイム イベントの分析](application-tracker.md)| 一般提供 |               両方       | 2019 年 5 月 |
 
 ## <a name="integration"></a>統合

@@ -7,12 +7,12 @@ ms.topic: summary
 ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
-ms.openlocfilehash: fb6b1f6636232386f3cd009dcbc1d4c353fbcfaa
-ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
+ms.openlocfilehash: bbb3f0b09c5fc39aff2b090fd92835a179f1fe13
+ms.sourcegitcommit: cc74a3ad16406a1ad3dddf56d62cc9360606d5a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "1445188"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "1449317"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-guides-in-preview"></a>Dynamics 365 Guides (プレビュー) の新機能と予定されている機能
 

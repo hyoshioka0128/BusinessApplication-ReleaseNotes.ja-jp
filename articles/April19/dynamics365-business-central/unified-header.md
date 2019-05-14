@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: mikebc
 audience: administrator
-ms.openlocfilehash: e03bce7c5b2ba0b993ccdc8e20a42e3912a08aea
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: b7cc2c6e231f1b509ff5ed80ac981eae6d0085df
+ms.sourcegitcommit: d38444f318edcbde1d3c922cbf676072b87e5fbb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1224990"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "1447131"
 ---
 # <a name="customize-the-theme-for-your-organization"></a>組織のテーマのカスタマイズ
 Dynamics 365 アプリでは、Microsoft アプリ全体を通じて作業するユーザーにより効率化されたエクスペリエンスを提供するために、それぞれのヘッダーを Office 365 と共有される新しい統一ヘッダーと合わせるための更新が図られています。 Business Central では、更新されたヘッダーによって、ヘルプとサポートへのリンク、Business Central のパーソナライズ、設定の調整など、同様の機能とナビゲーションが提供されます。 最も注目に値するのは、デザインにブレッドクラムが含まれていないことです。

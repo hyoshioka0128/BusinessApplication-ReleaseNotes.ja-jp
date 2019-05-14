@@ -3,17 +3,17 @@ title: 2019 年 4 月の変更履歴
 description: 変更履歴
 author: Annbe
 manager: AnnBe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.assetid: ''
 ms.topic: article
 ms.author: renwe@microsoft.com
 ms.service: business-applications
-ms.openlocfilehash: 6039739e5ed80123e0895faa96c6b23be7956387
-ms.sourcegitcommit: 7fc1e31dbcdd6afe3b8447803a8e63d77d796e7e
+ms.openlocfilehash: dca1e7a88db7a3b8ce07c56137bc5665a8d7495e
+ms.sourcegitcommit: 69e99d7993d3b91d7dd801f38e7df7ba4e7c7571
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "1446479"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "1450121"
 ---
 # <a name="change-history"></a>変更履歴
 
@@ -35,7 +35,7 @@ ms.locfileid: "1446479"
 > |機能 |    変更 |    変更日付 |
 > |----------|-------|----------------|
 > | [手動売上予測によって収益を正確に見積もり、情報に基づいた意思決定を実行する](dynamics365-sales/simple-forecasting-effective-sales-performance-management.md) | 一般提供からパブリック プレビューに変更されました| 2 月 6 日 |
-> | [Microsoft Teams 統合](dynamics365-sales/productive-sales-collaboration-teams.md)  | 一般提供からパブリック プレビューに変更されました | 4 月 4 日 |
+> | [Microsoft Teams 統合](dynamics365-sales/productive-sales-collaboration-teams.md)  | パブリック プレビューから一般提供に変更されました  | 5 月 6 日 |
 
 ### <a name="feature-description-changed"></a>機能の説明の変更
 > [!div class="mx-tableFixed"]
@@ -53,6 +53,15 @@ ms.locfileid: "1446479"
 
 ## <a name="customer-service"></a>Customer Service
 
+### <a name="release-date-changed"></a>リリース日の変更
+> [!div class="mx-tableFixed"]
+> |機能 |    変更 |    変更日付 |
+> |----------|-------|----------------|
+> | [ナレッジ記事のテンプレート](service/knowledge-management/km-templates.md) | パブリック プレビューの日付が 2019 年 3 月から 2019 年 6 月に変更されました | 5 月 2 日 |
+> | [ナレッジ記事の評価](service/knowledge-management/knowledge-article-rating.md)  | 一般提供の日付が 2019 年 4 月から 2019 年 6 月に変更されました | 5 月 2 日 |
+> | [ナレッジ記事の自動フィルタリング](service/knowledge-management/auto-filter-knowledge-articles.md) | 一般提供の日付が 2019 年 4 月から 2019 年 6 月に変更されました | 5 月 2 日 |
+> | [タイムラインの機能強化](service/dynamics365-customer-service/customer-service-key-enhancements.md#timeline-enhancements) | 一般提供の日付が 2019 年 4 月から 2019 年 6 月に変更されました | 5 月 2 日 |
+
 ### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
 > [!div class="mx-tableFixed"]
 > | 機能 | 追加日付 |
@@ -62,14 +71,17 @@ ms.locfileid: "1446479"
 > | [スタック通知](service/dynamics365-customer-service/unified-service-desk/StackNotification.md) | 4 月 10 日 |
 > | [サポート案件フォームの UI の機能強化](service/dynamics365-customer-service/customer-service-key-enhancements.md#case-form-ui-enhancements)  |      3 月 29 日   |
 > | [タイムラインの機能強化](service/dynamics365-customer-service/customer-service-key-enhancements.md#timeline-enhancements)  |      3 月 29 日   |
-> | [SLA タイマーで経過時間と残り時間を表示](service/dynamics365-customer-service/customer-service-key-enhancements.md#show-elapsed-and-remaining-time-on-sla-timer)   |      3 月 29 日   |
-> | [SLA タイマーでの営業時間と実際の時間の表示](service/dynamics365-customer-service/customer-service-key-enhancements.md#show-business-and-actual-hours-on-sla-timer)    |      3 月 29 日   |
+
 
 ### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 > [!div class="mx-tableFixed"]
 > | 機能 | 削除日付 |
 > |---------|--------------|
 > |Dynamics 365 Virtual Agent for Customer Service の統合 |3 月 28 日|
+>|サポート案件の解決の拡張性|5 月 2 日|
+>|ナレッジ マネージメントの分析|5 月 2 日|
+>|SLA タイマーで経過時間と残り時間を表示 |5 月 2 日|
+>|SLA タイマーでの営業時間と実際の時間の表示 |5 月 2 日|
 
 ## <a name="field-service"></a>Field Service
 
@@ -126,6 +138,8 @@ ms.locfileid: "1446479"
 > | [仕入先請求書の回収](dynamics365-finance-operations/recover-vendor-invoices.md)| 3 月 26 日 |
 > | [電子メールによるクライアント警告通知](dynamics365-finance-operations/alert-email-notifications.md) | 3 月 28 日 |
 > | [買掛金勘定仕入先請求書の為替レート フィールドでの変更](dynamics365-finance-operations/AP-exch-rate.md) | 4 月 25 日 |
+> | [プラットフォーム拡張性の機能強化ウェーブ 4](dynamics365-finance-operations/platform-extensibility4.md) | 5 月 6 日 |
+
 
 ### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 > [!div class="mx-tableFixed"]
@@ -142,8 +156,6 @@ ms.locfileid: "1446479"
 > | [Common Data Service での Finance and Operations のデータ](dynamics365-finance-operations/integration-dual-write.md) | リリースの種類がパブリック プレビューに変更され、目標リリース日が 2019 年 6 月に変更されました| 2 月 7 日 |
 > | [強化されたグリッド エクスペリエンス](dynamics365-finance-operations/grid-experience.md)| リリースの種類がパブリック プレビューに変更されました| 2 月 22 日|
 > | [プラットフォーム拡張性の機能強化ウェーブ 2](dynamics365-finance-operations/platform-extensibility2.md)  | 目標リリース日が 2019 年 4 月に変更されました| 2 月 25 日 |
-> | [保存されているビュー](dynamics365-finance-operations/saved-views.md)  | 目標リリース日が 2019 年 7 月に変更されました| 2 月 28 日 |
-> | [クライアントの生産性と使いやすさの向上](dynamics365-finance-operations/client-productivity-usability-improvements.md)  | 目標リリース日が 2019 年 7 月に変更されました| 2 月 28 日 |
 > |[簡素化されたビュー - テンプレート](dynamics365-finance-operations/simplified-view-templates.md)|目標リリース日が 2019 年 4 月から未定に変更されました |2 月 28 日 |
 > |[Office ヘッダーに合わせて更新されたナビゲーション バー](dynamics365-finance-operations/updatedNavBar.md)|目標リリース日が 2019 年 3 月に変更されました |3 月 4 日 |
 > |[プレビュー ビルドの明確な識別](dynamics365-finance-operations/previewBuildIndicator.md)|目標リリース日が 2019 年 3 月に変更されました |3 月 4 日 |
@@ -155,6 +167,9 @@ ms.locfileid: "1446479"
 > | [計画サービス](dynamics365-finance-operations/planning-service.md) | 目標リリース日が 2019 年 7 月に変更されました| 3 月 14 日 |
 > | [電子申告 - 生成されたファイルの後処理](dynamics365-finance-operations/globalization-configurability-post-processing-generated-files.md) | 目標リリース日が 2019 年 5 月に変更されました| 3 月 14 日 |
 > | [銀行における外貨再評価](dynamics365-finance-operations/bank-foreign-currency-revaluation.md) | 目標リリース日が 2019 年 5 月に変更されました| 3 月 29 日 |
+> | [強化されたグリッド エクスペリエンス](dynamics365-finance-operations/grid-experience.md) | 目標リリース日が 2019 年 8 月に変更されました | 5 月 6 日|
+> | [保存されているビュー](dynamics365-finance-operations/saved-views.md) | 目標リリース日が 2019 年 8 月に変更されました | 5 月 6 日|
+> | [クライアントの生産性と使いやすさの向上](dynamics365-finance-operations/client-productivity-usability-improvements.md) | 目標リリース日付を「未定」に変更しました。 | 5 月 6 日|
 
 ### <a name="feature-description-changed"></a>機能の説明の変更
 > [!div class="mx-tableFixed"]
@@ -389,6 +404,7 @@ ms.locfileid: "1446479"
 > | 機能 | 追加日付 |
 > |---------|------------|
 > |[モバイル アプリ](dynamics365-mixed-reality/microsoft-dynamics365-remote-assist/mobile-app.md)|2 月 21 日   |
+> |[会社間通話](dynamics365-mixed-reality/microsoft-dynamics365-remote-assist/cross-company-calling.md)|5 月 6 日   |
 
 #### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 > [!div class="mx-tableFixed"]
@@ -459,7 +475,6 @@ ms.locfileid: "1446479"
 > | [一元化されたアセット ライブラリ](dynamics365-mixed-reality/microsoft-dynamics365-guides/centralized-asset-library.md)|2 月 24 日|
 > | [説明に画像と動画を追加する](dynamics365-mixed-reality/microsoft-dynamics365-guides/images-videos.md)|2 月 24 日|
 > | [一般的な 3D モデルのセットの組み込み](dynamics365-mixed-reality/microsoft-dynamics365-guides/common-3D-models.md)|2 月 24 日|
-> | [資産、ユーザー、アクセス許可を管理する](dynamics365-mixed-reality/microsoft-dynamics365-guides/admin-portal.md) | 2 月 24 日   |
 > | [効率化されたホログラムの配置と操作](dynamics365-mixed-reality/microsoft-dynamics365-guides/streamlined-hologram-placement.md)|2 月 24 日|
 > | [3D アセットのスタイルによる強調の追加](dynamics365-mixed-reality/microsoft-dynamics365-guides/styles.md)|2 月 24 日|
 > | [2 つの配置方法から選択](dynamics365-mixed-reality/microsoft-dynamics365-guides/alignment.md)|2 月 24 日|
@@ -472,6 +487,13 @@ ms.locfileid: "1446479"
 > | [作業中に進行状況を追跡](dynamics365-mixed-reality/microsoft-dynamics365-guides/track-progress.md)|2 月 24 日|
 > | [ダッシュボードでのプロセス効率の視覚化](dynamics365-mixed-reality/microsoft-dynamics365-guides/visualize-user-data.md)|2 月 24 日|
 > | [3D モデルの複製 (および削除)](dynamics365-mixed-reality/microsoft-dynamics365-guides/copy-models.md)|3 月 26 日|
+> | [空間に配置したホログラムのサイズを変更する](dynamics365-mixed-reality/microsoft-dynamics365-guides/change-hologram-size.md)|4 月 30 日|
+
+#### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
+> [!div class="mx-tableFixed"]
+> |機能 |        削除日付 |
+> |----------|--------------|
+> |資産、ユーザー、アクセス許可を管理する |4 月 30 日|
 
 ## <a name="microsoft-forms-pro"></a>Microsoft Forms Pro
 

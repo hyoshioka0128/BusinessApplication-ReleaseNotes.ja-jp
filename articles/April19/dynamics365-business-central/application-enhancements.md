@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: bnielse
 audience: developer, end user, customizer
-ms.openlocfilehash: baea8a5d132fb73605dec9efda4b718b97c529a1
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 79da702ef21a1d9b8ce52898f1ed7944c15398e5
+ms.sourcegitcommit: 42c3efb68858bdf231c1775f565bcf9f551ecb03
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225510"
+ms.lasthandoff: 05/09/2019
+ms.locfileid: "1539358"
 ---
 # <a name="application-enhancements"></a>アプリケーションの機能強化
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -249,10 +249,40 @@ RapidStart Services で Business Central にデータを移行しているとき
 
 詳細については、「[簡易入力を使用したデータ入力の高速化](https://docs.microsoft.com/en-us/dynamics365/business-central/ui-enter-data#QuickEntry)」を参照してください。
 
-## <a name="check-the-business-central-platform-version-number"></a>Business Central プラットフォームのバージョン番号を確認する
-問題のトラブルシューティングやサポートへの報告のときに、Business Central プラットフォームのバージョン番号を**システム情報**で見ることができるようになり、サポート プロセスのスピードアップに役立ちます。
+## <a name="include-shortcut-dimension-as-columns-in-configuration-package-exports"></a>コンフィギュレーション パッケージのエクスポートに列としてショートカット分析コードを含める
+データを移行したり、業績を報告したりするときには、顧客、仕入先、品目分析コードなど、関連するすべてのエンティティ属性を使用できるようにして、そのような属性に従ってデータを分析し、理解できるようにします。
+データのエクスポートおよびインポート時にすべてのタイプの分析コードを列として含めることができるので、レポート作成要件に従って簡単かつ直感的に分析コードを設定できるようになります。
 
-![システム情報ページのプラットフォーム バージョンが表示されたページ](media/sys-info-platform-version.png "システム情報ページのプラットフォーム バージョン情報の図")
+[コンフィギュレーション パッケージ] ページおよび [コンフィギュレーション ワークシート] ページで、グローバル分析コードと同じようにショートカット分析コードを列として含めることで、データのエクスポートおよびインポート時にそれらを処理できるようになりました。
+
+![列としての分析コードの列を含むコンフィギュレーション パッケージ ページ](media/config-package-dimensions-columns.png "列としての分析コードの列を含むコンフィギュレーション パッケージ ページの図")
+
+この[アイデア](https://experience.dynamics.com/ideas/idea/?ideaid=5e630dcb-65ba-e711-80c0-00155d7cd0b4)に投票してくださったお客様とパートナー様に謝意を表します。
+
+## <a name="fill-transfer-orders-with-purchase-receipt-lines"></a>移動オーダーに購買受領書明細行を入力する
+たとえば、遠隔地の倉庫に購入して国内の倉庫に商品を転送する場合など、海外からの複数の購入品の処理は面倒な場合があります。 倉庫の在庫置場の内容全体を転送すると便利な場合がありますが、特定の購入品を選択できるようにすると、遠隔地の倉庫から転送されるものをより細かく効率的に制御できます。 
+
+移動オーダー明細行に入力するときに、複数の購買受領書から、すべてまたは特定の購買受領書明細行を取得できるようになりました。
+
+![受領書明細行を取得する新しい機能が表示されている移動オーダー ページ](media/get-receipt-lines-transfer-order.png "受領書明細行を取得する新しい機能が表示されている移動オーダー ページの図")
+
+この[アイデア](https://experience.dynamics.com/ideas/idea/?ideaid=7bf64dff-749a-e811-b96f-0003ff68935d)に投票してくださったお客様とパートナー様に謝意を表します。
+
+## <a name="copy-item"></a>品目のコピー
+似たような特性を持つ品目は非常に頻繁にあります。 これらはマスター データの中心的な要素の 1 つなので、正確かつ一貫性のある設定ができることは重要です。 さまざまな種類の品目を作成するためのテンプレートを使用すると、作業を始めるときに役立つことは確かですが、属性、バリアント、価格などの他のデータを一貫して設定することも重要です。 
+
+時間を節約するために、品目のコピー機能を使用して既存の品目をコピーし、新しい品目のテンプレートとして使用することができます。
+
+![品目のコピー機能の要求ページ](media/copy-item.png "品目のコピー機能の要求ページを示す図")
+
+この[アイデア](https://experience.dynamics.com/ideas/idea/?ideaid=4891415a-9c18-e911-9461-0003ff68ee33)に投票してくださったお客様とパートナー様に謝意を表します。
+
+## <a name="purchase-and-sales-blocked-items-allowed-in-return-documents"></a>購入および販売がブロックされている品目を返品ドキュメントで使用できる
+特定の品目が販売または購入できなくなった場合、企業は通常、それらの品目の購入または販売をブロックします。 そのような品目を販売または購入しなくなっても、そのような品目を顧客が返品できるようにすることができます。 
+
+ブロックされている品目を、販売および購入の返品ドキュメントとクレジット メモ ドキュメントで使用し、転記できるようになりました。
+
+この[アイデア](https://experience.dynamics.com/ideas/idea/?ideaid=e11c2414-a4cb-e811-b96f-0003ff68932d)に投票してくださったお客様とパートナー様に謝意を表します。
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。 Business Central フォーラム ([https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas)) をご利用ください。

@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: blazkote
 audience: end user
-ms.openlocfilehash: 98c9eee8e7968f7414b700b325c5fb7d7e5f1865
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 06113ed70076c17477b9aac35fa4faa4e704b71b
+ms.sourcegitcommit: a42ceb5c2375ecb045c1710fea82e164bcb13dd3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225099"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "1456531"
 ---
 # <a name="autosave-indicator"></a>自動保存インジケーター
 

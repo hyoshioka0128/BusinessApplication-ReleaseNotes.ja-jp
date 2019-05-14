@@ -23,7 +23,7 @@
 ## [Dynamics 365 for Sales](dynamics365-sales/index.md)
 ### [新機能と予定されている機能](dynamics365-sales/planned-features.md)
 ### [簡単になった Sales Navigator のインストール](dynamics365-sales/intelligent-social-selling-relationship-sales-mrs.md)
-### [より多くのデータ プロバイダーから得られる堅牢な顧客分析情報](dynamics365-sales/robust-customer-insights-more-data-providers.md)
+### [より多くのデータ プロバイダーから得られる強固な顧客分析情報](dynamics365-sales/robust-customer-insights-more-data-providers.md)
 ### [Microsoft Teams 統合](dynamics365-sales/productive-sales-collaboration-teams.md)
 ### [コンテンツのレコメンデーションを含むプレイブックの機能強化](dynamics365-sales/content-recommendation-sales-playbook.md)
 ### [価格見積作成ツールとのシームレスな統合エクスペリエンス](dynamics365-sales/seamless-configure-price-quote-integrated-experience.md)
@@ -33,10 +33,8 @@
 ## [Dynamics 365 for Customer Service](service/index.md)
 ### [新機能と予定されている機能](service/planned-features.md)
 ### [コア Customer Service](service/dynamics365-customer-service/index.md)
-#### [サポート案件の解決の拡張性](service/dynamics365-customer-service/case-management-case-resolution-extensibility.md)
 #### [使いやすさに関するエンドユーザー向けの機能強化](service/dynamics365-customer-service/customer-service-key-enhancements.md)
 #### [ナレッジ記事のテンプレート](service/knowledge-management/km-templates.md)
-#### [ナレッジ マネージメントの分析](service/knowledge-management/km-analytics.md)
 #### [ナレッジ記事の評価](service/knowledge-management/knowledge-article-rating.md)  
 #### [ナレッジ記事の自動フィルタリング](service/knowledge-management/auto-filter-knowledge-articles.md)
 #### [Chrome プロセスを使用して Web アプリケーションを Unified Service Desk にホストする](service/dynamics365-customer-service/unified-service-desk/use-chrome-browser-host-web-applications.md)
@@ -167,6 +165,7 @@
 #### [プラットフォーム拡張性の機能強化](dynamics365-finance-operations/platform-extensibility.md)
 #### [プラットフォーム拡張性の機能強化ウェーブ 2](dynamics365-finance-operations/platform-extensibility2.md)
 #### [プラットフォーム拡張性の機能強化ウェーブ 3](dynamics365-finance-operations/platform-extensibility3.md)
+#### [プラットフォーム拡張性の機能強化ウェーブ 4](dynamics365-finance-operations/platform-extensibility4.md)
 #### [アプリケーション トラッカー](dynamics365-finance-operations/application-tracker.md)
 #### [電子メールによるクライアント警告通知](dynamics365-finance-operations/alert-email-notifications.md)
 
@@ -363,6 +362,7 @@
 #### [モバイル注釈](dynamics365-mixed-reality/microsoft-dynamics365-remote-assist/mobile-annotations.md)
 #### [グループ通話](dynamics365-mixed-reality/microsoft-dynamics365-remote-assist/group-calling.md)
 #### [モバイル アプリ](dynamics365-mixed-reality/microsoft-dynamics365-remote-assist/mobile-app.md)
+#### [会社間通話](dynamics365-mixed-reality/microsoft-dynamics365-remote-assist/cross-company-calling.md)
 #### [ローカライズ](dynamics365-mixed-reality/microsoft-dynamics365-remote-assist/localization.md)
 
 ### [Dynamics 365 Layout](dynamics365-mixed-reality/microsoft-dynamics365-layout/index.md)
@@ -393,7 +393,6 @@
 #### [一元化されたアセット ライブラリ](dynamics365-mixed-reality/microsoft-dynamics365-guides/centralized-asset-library.md)       
 #### [説明に画像と動画を追加する](dynamics365-mixed-reality/microsoft-dynamics365-guides/images-videos.md)  
 #### [一般的な 3D モデルのセットの組み込み](dynamics365-mixed-reality/microsoft-dynamics365-guides/common-3D-models.md)
-#### [資産、ユーザー、アクセス許可を管理する](dynamics365-mixed-reality/microsoft-dynamics365-guides/admin-portal.md)          
 #### [効率化されたホログラムの配置と操作](dynamics365-mixed-reality/microsoft-dynamics365-guides/streamlined-hologram-placement.md)
 #### [3D アセットのスタイルによる強調の追加](dynamics365-mixed-reality/microsoft-dynamics365-guides/styles.md)  
 #### [2 つの配置方法から選択](dynamics365-mixed-reality/microsoft-dynamics365-guides/alignment.md)  
@@ -406,6 +405,7 @@
 #### [作業中に進行状況を追跡](dynamics365-mixed-reality/microsoft-dynamics365-guides/track-progress.md)
 #### [ダッシュボードでのプロセス効率の視覚化](dynamics365-mixed-reality/microsoft-dynamics365-guides/visualize-user-data.md)
 #### [3D モデルの複製](dynamics365-mixed-reality/microsoft-dynamics365-guides/copy-models.md)
+#### [空間に配置したホログラムのサイズを変更する](dynamics365-mixed-reality/microsoft-dynamics365-guides/change-hologram-size.md)
 
 ## [Dynamics 365 ポータル](dynamics365-portals/index.md)
 ### [新機能と予定されている機能](dynamics365-portals/planned-features.md)
@@ -468,7 +468,7 @@
 #### [統一インターフェイスのみが既定のエクスペリエンスに](microsoft-powerapps/unified-interface-only-as-default-experience.md)
 #### [統一インターフェイス: ユーザーに選ばれたエクスペリエンス](microsoft-powerapps/unified-interface-experience-choice-users.md)
 
-### [リリースの詳細](https://docs.microsoft.com/business-applications-release-notes/powerplatform/released-versions/microsoft-powerapps)
+### [リリースの詳細](https://docs.microsoft.com/business-applications-release-notes/powerplatform/released-versions/powerapps)
 
 
 ## [Microsoft Flow](microsoft-flow/index.md)
@@ -513,7 +513,7 @@
 #### [PowerApps でのシームレスなフロー作成](microsoft-flow/seamless-creation.md)
 #### [コンシューマー向け OneDrive での Microsoft Flow の使用](microsoft-flow/use-onedrive-consumers.md)
 
-### [リリースの詳細](https://docs.microsoft.com/business-applications-release-notes/powerplatform/released-versions/microsoft-flow)
+### [リリースの詳細](https://docs.microsoft.com/business-applications-release-notes/powerplatform/released-versions/flow)
 
 
 ## [ビジネス インテリジェンス](business-intelligence/index.md)
