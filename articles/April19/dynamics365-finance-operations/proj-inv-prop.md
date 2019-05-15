@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: 208ecff1a1f76698eefb30f67a6e7868c9a24a09
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "895495"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225239"
 ---
 # <a name="project-invoice-proposal-selection-parameter-by-funding-source"></a>資金調達ソースによるプロジェクト仮発行請求書の選択パラメーター 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

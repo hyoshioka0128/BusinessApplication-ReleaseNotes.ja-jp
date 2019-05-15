@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: TJVass
 ms.openlocfilehash: d6d1770cc3f8ec34eec44a75196ce07ed3a42746
-ms.sourcegitcommit: d73e1555b600f6943f8bba67341c174150a07cdc
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/28/2019
-ms.locfileid: "902568"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224929"
 ---
 #  <a name="client-alert-notifications-by-email"></a>電子メールによるクライアント警告通知
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

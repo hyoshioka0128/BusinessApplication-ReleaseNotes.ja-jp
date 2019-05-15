@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: kyley
 ms.reviewer: krbjoran
 ms.openlocfilehash: e751bdcaa282854df0d631050a22d5e3b7c9e2c6
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210501"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225437"
 ---
 #  <a name="technician-productivity-enhancements"></a>技術者の生産性強化
 [!include[dynamics365-field-service banner](../../includes/dynamics365-field-service.md)]

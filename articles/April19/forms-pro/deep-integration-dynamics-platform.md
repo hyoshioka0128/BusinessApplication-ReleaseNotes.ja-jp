@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: prateeks
 ms.openlocfilehash: 148abd1c203648ef22499f61dec63f258e49f3e6
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406393"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225461"
 ---
 #  <a name="integration-with-dynamics-365-and-cds-for-apps"></a>Dynamics 365 および CDS for Apps との統合
 
@@ -35,5 +35,5 @@ Forms Pro は、Common Data Service (CDS) for Apps プラットフォームお�
 
 - **ビジネス データと調査データの統合**: ビジネス データと調査データは同じ CDS に格納されているため、Power BI でダッシュボードやワークフローを作成して、ビジネス プロセスを改善するためのフォローアップ アクションを作成できます。
 
-- **PowerApps の統合**: Forms Pro では、調査が PowerApp にネイティブに埋め込まれます。 これにより、PowerApps のデータを調査で利用することができ、その逆も可能です。
+- **PowerApps の統合**: Forms Pro では、調査が PowerApps にネイティブに埋め込まれます。 これにより、PowerApps のデータを調査で利用することができ、その逆も可能です。
 

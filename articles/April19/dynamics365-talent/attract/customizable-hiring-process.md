@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: Shielas
 ms.openlocfilehash: 9d9233d65501ae0a0066b16b354b2893b6eeb5ac
-ms.sourcegitcommit: 6c2bdf79defba9110d0d4a6921a3272ba46267bb
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/28/2019
-ms.locfileid: "901110"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225315"
 ---
 #  <a name="customizable-hiring-processes-for-productivity"></a>生産性向上のためにカスタマイズ可能な採用プロセス
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

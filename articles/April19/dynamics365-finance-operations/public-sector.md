@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: 388e7b1380afa3f1483e2108e4115ca9df1c69ed
-ms.sourcegitcommit: 892084dfa52dd42353ba3715e8e158a5f36b2a73
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "376395"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225246"
 ---
 #  <a name="public-sector-enhancements"></a>公的機関の機能強化
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -80,10 +80,10 @@ ms.locfileid: "376395"
         
 ## <a name="procurement-and-sourcing"></a>調達
 ### <a name="ability-to-apply-general-budget-reservation-to-multiple-purchase-agreement-lines-at-once"></a>一般予算引当を一度に複数の購買契約書明細行に適用する機能
-2019 年 4 月 - 購買契約書の複数の選択した明細行、または購買契約書のすべての明細行に同時に適用する 1 つ以上の一般予算引当明細行を選択することによって、購買契約書のデータ入力を合理化できるようになりました。
+2019 年 4 月 - 購買契約書の複数の選択した明細行、または購買契約書のすべての明細行に同時に適用する 1 つ以上の一般予算引当明細行を選択することによって、購買契約書のデータ入力を効率化できるようになりました。
         
 ### <a name="ability-to-apply-general-budget-reservation-to-multiple-purchase-requisition-lines-at-once"></a>一般予算引当を一度に複数の購買要求明細行に適用する機能
-2019 年 4 月 - 購買要求の複数の行に一般予算引当情報を同時に適用することによって、購買要求のデータ入力を合理化できるようになりました。
+2019 年 4 月 - 購買要求の複数の行に一般予算引当情報を同時に適用することによって、購買要求のデータ入力を効率化できるようになりました。
         
 ### <a name="calculate-purchase-order-delivery-dates-based-on-lead-times-and-working-days"></a>リード タイムと稼働日に基づいて発注書の配送日を計算する
 2019 年 5 月 - 仕入先のリード タイム ([見積依頼の返信] フォーム、[見積] タブ) および組織の就業日カレンダーに基づいて、明細行の配送日を計算します。 仕入先は各明細行のリード タイムを入力できます。 発注書が確認されると、リード タイムと就業日カレンダーに基づいて、確認日付から明細行の配送日が計算されます。 リード タイムが指定されていない場合は、配送日が確認日になります。 明細行のリード タイム情報は、見積依頼の返信、購買要求、購買契約、発注書の各フォームで利用できます。 アクション ウィンドウの [計算] タブの [配送日] ボタンを使用して、フォーム内のすべての明細行の配信日を計算しても、リード タイム詳細は上書きされません。 未確認または未承認のレコードのリード タイム詳細を更新できます。

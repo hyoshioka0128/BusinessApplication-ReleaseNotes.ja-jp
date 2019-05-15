@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: adamw
 ms.reviewer: mihart
-ms.openlocfilehash: e4cb985bfd9d9a15bb970455467d22004f149e90
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.openlocfilehash: d2a678e941cfb5dbeda4ad913b0c1d3ae8e7d5f4
+ms.sourcegitcommit: b21dce4d980f1816fe40b960b181c04f69733782
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "844256"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "1444453"
 ---
 # <a name="whats-new-and-planned-for-business-intelligence"></a>ビジネス インテリジェンスの新機能と予定されている機能
 
@@ -31,9 +31,8 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 
 | 機能                                                                 | リリースの種類         | 日付 |
 |-------------------------------------------------------------------------|----------------------|----------------------|
-| [Connector for LinkedIn Sales Navigator](power-bi-desktop/connector-linkedin-sales-navigator.md)   | パブリック プレビュー | 2019 年 6 月           |
 | [リレーションシップ ビューの改善](power-bi-desktop/improved-relationship-view.md)     | 一般提供 | 2019 年 4 月           |
-| [新しいフィルター エクスペリエンス](power-bi-desktop/new-filter-experience.md)        | 一般提供 | 2019 年 4 月           |
+| [新しいフィルター エクスペリエンス](power-bi-desktop/new-filter-experience.md)        | 一般提供 | 2019 年 6 月           |
 | [別のレポートへのドリルスルー](power-bi-desktop/drill-between-pbix-reports.md)        | パブリック プレビュー | 2019 年 4 月           |
 | [式ベースの書式設定](power-bi-desktop/expression-based-formatting.md)   | パブリック プレビュー | 2019 年 4 月           |
 | [レポート用パフォーマンス分析機能](power-bi-desktop/perf-report-analyzer.md)   | パブリック プレビュー | 2019 年 5 月           |
@@ -44,24 +43,25 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | 機能                                                                 | リリースの種類         | 日付 |
 |-------------------------------------------------------------------------|----------------------|----------------------|
 | **エンド ユーザーの消費**                                                |                      |                      |
-| [Power BI ホームとグローバル検索](power-bi-service/home-global-search.md)          | 一般提供 | 2019 年 9 月        |
-| [アプリ ナビゲーション](power-bi-service/app-navigation.md)                                        | パブリック プレビュー | 2019 年 3 月         |
+| [Power BI ホーム](power-bi-service/home-global-search.md)          | 一般提供 | 2019 年 9 月        |
+| [アプリ ナビゲーション](power-bi-service/app-navigation.md)                                        | パブリック プレビュー | 2019 年 5 月         |
 | **管理、共同作業、配分**                          |                      |                      |
 | [新しいワークスペース](power-bi-service/new-workspaces.md)                                        | 一般提供 | 2019 年 5 月           |
-| [共有データセットと認定データセット](power-bi-service/shared-certified-datasets.md)            | パブリック プレビュー | 2019 年 3 月         |
+| [共有データセットと認定データセット](power-bi-service/shared-certified-datasets.md)            | パブリック プレビュー | 2019 年 5 月         |
+| [閲覧者ロール](power-bi-service/viewer-role.md)                                        | 一般提供 | 2019 年 7 月           |
+| [従来のワークスペースを新しいワークスペース エクスペリエンスにアップグレードする](power-bi-service/workspace-upgrade.md) | 一般提供 | 2019 年 9 月           |
 | **エンタープライズ BI**                                                       |                      |                      |
 | [読み取り専用シナリオにおけるサードパーティの BI ツールの接続性 (XML/A)](power-bi-service/third-party-bi-tool-connectivity.md) *    | パブリック プレビュー | 2019 年 3 月           |
 | [ページ付けされたレポート機能の更新](power-bi-service/paginated-reports.md) *                                 | パブリック プレビュー       | 2019 年 4 月         |
 | [電子メール サブスクリプションの機能強化](power-bi-service/enhanced-email-subscriptions.md)             | 一般提供 | 2019 年 4 月           |
 | [Premium 向けの指標](power-bi-service/premium-metrics.md) *                                      | 一般提供 | 2019 年 8 月           |
-| [AS モデルのメタデータ変換](power-bi-service/metadata-translations-analysis-services-models.md)  | 一般提供 | 2019 年 5 月           |
 | [レポートのコメント](power-bi-service/commenting.md)   |一般提供   |2019 年 4 月    |
-| [SAP 変数](power-bi-service/sap-variables.md)                                          | 一般提供 | 2019 年 4 月           |
+| [SAP 変数](power-bi-service/sap-variables.md)                                          | 一般提供 | 2019 年 6 月           |
 | [Power BI 対応地域の追加](power-bi-service/additional-geos.md) *          | 一般提供 | 2019 年 9 月           |
 | [ヘルプとサポートの設定](power-bi-service/help-and-support-settings.md)            | パブリック プレビュー | 2019 年 3 月         |
 | **Power BI データフロー**                                                                              |          |  |
 | [データフローでのセルフサービス データの準備](power-bi-service/power-bi-dataflows/self-service-data-prep-with-dataflows.md)   |一般提供   |2019 年 4 月 |
-| [Azure の統合](power-bi-service/power-bi-dataflows/azure-integration.md)   |パブリック プレビュー   |2019 年 4 月    |
+| [Azure 統合](power-bi-service/power-bi-dataflows/azure-integration.md)   |パブリック プレビュー   |2019 年 4 月    |
 | [計算されたエンティティ](power-bi-service/power-bi-dataflows/computed-entities.md) *   |一般提供   |2019 年 4 月    |
 | [データフローの増分更新](power-bi-service/power-bi-dataflows/incremental-refresh.md) *  |一般提供   |2019 年 4 月    |
 | [Premium 容量に対するデータフロー](power-bi-service/power-bi-dataflows/dataflows-on-premium-capacity.md) *  |一般提供   |2019 年 4 月    |
@@ -85,8 +85,8 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | 機能                                                                 | リリースの種類         | 日付 |
 |-------------------------------------------------------------------------|----------------------|----------------------|
 | [B2B のサポート](power-bi-mobile/business-business-b2b-support.md)                                   | 一般提供 | 2019 年 4 月           |
-| [ホーム](power-bi-mobile/home.md)                                                          | 一般提供 | 2019 年 4 月           |
-| [レポートのコメント](power-bi-mobile/report-commenting.md)                                | 一般提供 | 2019 年 4 月           |
+| [ホーム](power-bi-mobile/home.md)                                                          | 一般提供 | 2019 年 9 月           |
+| [レポートのコメント](power-bi-mobile/report-commenting.md)                                | 一般提供 | 2019 年 5 月           |
 | [タブレット使用時の方向を縦向きに変更](power-bi-mobile/tablet-experience.md)                                                       | 一般提供 | 2019 年 4 月           |
 
 ## <a name="power-bi-template-apps"></a>Power BI テンプレート アプリ
@@ -131,3 +131,5 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [2019 年 5 月の Power BI Report Server Update](power-bi-report-server/new-features-power-bi-desktop.md)          | 一般提供 | 2019 年 5 月        |
 | [Power BI レポートの Excel へのエクスポート](power-bi-report-server/export-excel-power-bi-reports.md)       | 一般提供 | 2019 年 9 月        |
 | [PowerPivot モデルの更新](power-bi-report-server/powerpivot-model-refresh.md)                           | 一般提供 | 2019 年 9 月        |
+
+[!include[feedback](includes/service-feedback.md)]

@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: dileeps
 ms.reviewer: shjais
 ms.openlocfilehash: 009876af0d281fc90bf3314ece86bd0a6460d219
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211094"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225309"
 ---
 #  <a name="cds-starter-portal"></a>CDS スターター ポータル 
 [!include[dynamics365-portals banner](../includes/dynamics365-portals.md)]

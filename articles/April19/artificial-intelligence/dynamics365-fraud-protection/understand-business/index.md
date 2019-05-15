@@ -7,9 +7,15 @@ ms.date: 02/21/2019
 ms.assetid: 0d0a429a-c303-433b-80b7-dd41cbc87cbb
 ms.topic: article
 ms.custom:
-  - dyn365-fieldservice
+- dyn365-fieldservice
 ms.service: dynamics-365-customerservice
 ms.author: v-jowigh
+ms.openlocfilehash: fd20c70b513efe6846106f81da4cf305f89cc1c2
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225028"
 ---
 #  <a name="understand-your-business"></a>ビジネスの把握
 [!include[dynamics365-fraud-protection banner](../../../includes/dynamics365-fraud-protection.md)]

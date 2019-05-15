@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: 0cab0a8baa0cf24b2f28c6ca531b217cf1a5c578
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "895506"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225224"
 ---
 # <a name="update-bank-balances-when-posting-transactions-using-advanced-ledger-entry"></a>詳細な元帳エントリを使用してトランザクションを転記するときに銀行残高を更新する 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

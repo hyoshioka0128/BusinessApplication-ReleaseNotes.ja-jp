@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: prateeks
 ms.openlocfilehash: 547c0d3dcbbba73b41a6ecd001f67a2736af094c
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406340"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225492"
 ---
 #  <a name="distribute-using-multiple-channels"></a>複数のチャネルを使った配布
 [!include[forms-pro banner](../includes/forms-pro.md)]

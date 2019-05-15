@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: adamw
 ms.openlocfilehash: 41c6b1b2d6c36a419d37da571b44aae1e06b4dc0
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "849725"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225168"
 ---
 # <a name="cognitive-services-integration-premium"></a>Cognitive Services の統合 (Premium)
 

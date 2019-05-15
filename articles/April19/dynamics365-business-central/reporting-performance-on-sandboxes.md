@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: kepontop
 audience: administrator
 ms.openlocfilehash: dfb48bcb8c853eab576dd5a8962e825da5d8c464
-ms.sourcegitcommit: b9117e0a006fe421a672a4f6a7fbf0276efbddfa
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "878739"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224902"
 ---
 # <a name="rdlc-reporting-performance-on-sandboxes"></a>(RDLC) サンドボックスでのレポート作成のパフォーマンス
 

@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: 8cce930452d1ce7a836c0c1a321470a6fa3abccb
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210869"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225156"
 ---
 <!--from editor: Please add ms.reviewer (CP owner's alias) to the metadata and update the author (PM's GitHub name) and ms.author (PM's Microsoft alias) entries.--> 
 

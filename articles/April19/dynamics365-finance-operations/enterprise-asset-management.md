@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: arijitba
 ms.openlocfilehash: 275a2754c1efbf54d5f0621f781da741c9fed46b
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406349"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224915"
 ---
 #  <a name="enterprise-asset-management"></a>エンタープライズ資産管理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

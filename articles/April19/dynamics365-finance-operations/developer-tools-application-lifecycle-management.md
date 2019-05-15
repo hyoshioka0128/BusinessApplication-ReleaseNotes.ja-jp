@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: robadawy
 ms.openlocfilehash: cfdca7166381ea517ec88f0a1ebb2a15662a4802
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210340"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225152"
 ---
 #  <a name="developer-tools-and-application-lifecycle-management"></a>開発者ツールとアプリケーション ライフサイクルの管理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

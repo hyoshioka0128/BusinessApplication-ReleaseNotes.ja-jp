@@ -7,9 +7,15 @@ ms.date: 02/21/2019
 ms.assetid: e6f56afc-0629-4583-a0dd-9638968f66a9
 ms.topic: article
 ms.custom:
-  - dyn365-fieldservice
+- dyn365-fieldservice
 ms.service: dynamics-365-customerservice
 ms.author: v-jowigh
+ms.openlocfilehash: d1a634d6c1a392f2a32e8dc9e5928aca5e9822e6
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225098"
 ---
 #  <a name="evaluate"></a>評価
 [!include[dynamics365-fraud-protection banner](../../../includes/dynamics365-fraud-protection.md)]

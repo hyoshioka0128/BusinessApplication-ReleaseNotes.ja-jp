@@ -11,11 +11,11 @@ author: bharavar
 ms.author: bharavar
 ms.reviewer: shujoshi
 ms.openlocfilehash: 213ce0dcf160943c87606ac4b707faee56044a07
-ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "847537"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224863"
 ---
 #  <a name="overview-of-dynamics-365-for-sales-april-19-release"></a>Dynamics 365 for Sales 2019 年 4 月リリースの概要
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]

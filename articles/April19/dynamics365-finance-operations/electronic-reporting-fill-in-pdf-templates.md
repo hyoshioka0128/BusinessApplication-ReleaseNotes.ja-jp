@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: nselin
 ms.openlocfilehash: c6ec6fbcd8a295325ce88eb81ef6b906a58b2a7b
-ms.sourcegitcommit: 560c1b626b40ff3c51450183b6201cfc589b49e3
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "890852"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225017"
 ---
 #  <a name="electronic-reporting---generate-documents-in-pdf-format-by-filling-in-pdf-templates"></a>電子申告 - PDF テンプレートに記入することによる PDF 形式での文書生成
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

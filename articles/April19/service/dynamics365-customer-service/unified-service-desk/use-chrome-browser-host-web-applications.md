@@ -9,12 +9,12 @@ ms.topic: article
 ms.assetid: 60d8a08b-a473-20a4-2297-0060049bfe65
 author: kabala123
 ms.author: kabala
-ms.openlocfilehash: 805b3bd41cc208af2bf5113acf923066f7060dfb
-ms.sourcegitcommit: 03de13679b4a53812274475e957d0124e6f4dd35
+ms.openlocfilehash: bc8b2f71ef923b03611fa55fb41368c6df57a4d6
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "838089"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225493"
 ---
 #  <a name="use-chrome-process-to-host-web-applications-in-unified-service-desk"></a>Chrome プロセスを使用して Web アプリケーションを Unified Service Desk にホストする
 [!include[unified-service-desk banner](../../../includes/unified-service-desk.md)]

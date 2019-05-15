@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: b7002f1a3a93137623bee240fe794618d15101e0
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "895497"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224893"
 ---
 # <a name="generate-earnings-statements-from-project-timesheets"></a>プロジェクト タイムシートからの所得明細書の生成 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

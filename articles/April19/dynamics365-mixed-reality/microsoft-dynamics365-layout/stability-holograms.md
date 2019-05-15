@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: ornella
 ms.reviewer: v-brycho
 ms.openlocfilehash: 096696e693f3c356a1e61a1552bd50540e61c0df
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "404997"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225108"
 ---
 #  <a name="hologram-stability"></a>ホログラムの安定性
 [!include[microsoft-dynamics365-layout banner](../../includes/microsoft-dynamics365-layout.md)]

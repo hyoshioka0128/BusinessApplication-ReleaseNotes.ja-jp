@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: 055445904c2b344b5862a56001b044e4cd0cd7d6
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210486"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224840"
 ---
 #  <a name="retail-broadcast-updates"></a>Retail 更新プログラムの配信
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]

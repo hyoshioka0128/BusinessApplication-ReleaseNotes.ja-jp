@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: riluan
 ms.openlocfilehash: e25b3e8f5db704e1ecdb41e1d8ea5842e7246427
-ms.sourcegitcommit: 365db01dde7ccb5c763d209fedbc715d128b18a6
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "376767"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225296"
 ---
 #  <a name="global-tax-engine-india---enabling-tax-configuration-with-tax-currency-and-sales-tax-codes"></a>Global Tax Engine (インド) - 税通貨と消費税コードによる税コンフィギュレーションの有効化 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -20,7 +20,7 @@ ms.locfileid: "376767"
 > [!NOTE]
 > 現在、Global Tax Engine はインドでのみ利用可能です。
 
-売上税コードは、Global Tax Engine (GTE) と Dynamics 365 for Finance and Operations を統合するために必須の設定です。 以前は、税コンフィギュレーションを同期するときに GTE によって税コンポーネントと同じ名前の売上税コードが作成され、自動作成の売上税コードには会計通貨が使用されていました。 
+消費税コードは、Global Tax Engine (GTE) と Dynamics 365 for Finance and Operations を統合するために必須の設定です。 以前は、税コンフィギュレーションを同期するときに GTE によって税コンポーネントと同じ名前の消費税コードが作成され、自動作成の消費税コードには会計通貨が使用されていました。 
 
 世界中で複数の税を登録している企業では、異なる国で使用されている税コンポーネントに対して異なる税通貨を維持する必要があります。 この機能のリリースにより、ユーザーは、税設定で消費税コードを保守し、ルック アップテーブル内の消費税コードに税コンポーネントをマップし、これらの消費税コードの税通貨と決済期間を維持できます。
 

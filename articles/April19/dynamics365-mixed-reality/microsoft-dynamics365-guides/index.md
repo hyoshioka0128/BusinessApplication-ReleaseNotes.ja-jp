@@ -7,6 +7,12 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
+ms.openlocfilehash: 776cd02ecd3ffc7a4e0d8bcf531fc954ad7697b1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225131"
 ---
 #  <a name="overview-of-dynamics-365-guides-in-preview"></a>Dynamics 365 Guides (プレビュー) の概要
 

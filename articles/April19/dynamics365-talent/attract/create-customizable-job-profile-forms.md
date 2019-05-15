@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: 81a0ef32cb042b5eae4b4f0fe1046444b5455ab6
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210965"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225319"
 ---
 #  <a name="create-customizable-job-and-profile-forms"></a>カスタマイズ可能なジョブ フォームとプロファイル フォームを作成する 
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

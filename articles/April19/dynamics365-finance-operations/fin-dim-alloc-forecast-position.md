@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: 80e152fb07a04006b0ca38e92d32849e653769d2
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "895502"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224909"
 ---
 # <a name="financial-dimension-allocation-on-forecast-positions"></a>予測職位への財務分析コードの割り当て 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

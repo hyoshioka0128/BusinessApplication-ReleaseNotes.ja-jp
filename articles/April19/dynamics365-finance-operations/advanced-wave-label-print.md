@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 ms.openlocfilehash: 5cb50efd59637d4aca5e989244bcc64ec0acb7ea
-ms.sourcegitcommit: 6b5a05bc2ba73d392be45ad6eb5369c6b810ebf0
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "390351"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225190"
 ---
 # <a name="advanced-wave-label-printing"></a>高度なウェーブ ラベル印刷
 

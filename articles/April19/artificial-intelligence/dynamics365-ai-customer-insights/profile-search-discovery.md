@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: jimholtz
 ms.reviewer: jimholtz
 ms.openlocfilehash: dffe9a14ab55df09f496d6a3aaa03c3382dca9e9
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406254"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224988"
 ---
 # <a name="profile-search-and-discovery"></a>プロファイルの検索と探索
 [!include[dynamics365-ai-customer-insights banner](../../includes/dynamics365-ai-customer-insights.md)]

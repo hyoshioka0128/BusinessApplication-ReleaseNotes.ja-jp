@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
 ms.openlocfilehash: fe691289bc491c592e8e7a625e07e12e2caf6e87
-ms.sourcegitcommit: 5872e3919c0ba1c37b6c386baba612b9794b2493
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "722640"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225138"
 ---
 # <a name="centralized-asset-library"></a>一元化されたアセット ライブラリ
 

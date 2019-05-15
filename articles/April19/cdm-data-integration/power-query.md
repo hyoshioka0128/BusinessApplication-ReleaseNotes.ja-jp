@@ -2,20 +2,17 @@
 title: Power Query
 description: Power Query
 author: msftman
-ms.date: 01/21/2019
+ms.date: 03/29/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: deonhe
-ms.openlocfilehash: 16e399f3df7bb8bf3ebeb9ffcf4f9eacfd9ff75a
-ms.sourcegitcommit: ca9feb07bc4f4050b7621ba462eb0d3ad5cd8359
+ms.openlocfilehash: 8820b17d23301d104483f48e467022692cb2f375
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "390067"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225225"
 ---
-<!--Are the names in the screenshot from an approved fictitious names list?-->
-
-
 # <a name="power-query-becomes-smarter-and-more-powerful"></a>Power Query がよりスマートかつパワフルに
 [!include[cdm-data-integration banner](../includes/cdm-data-integration.md)]
 
@@ -33,11 +30,11 @@ ms.locfileid: "390067"
 
 今後数か月において、Microsoft ではこれをベースに Power Query のスマート データ準備機能を強化し、データ アナリストが少ない労力でより多くの分析情報をデータから得られるようにします。
 
-## <a name="high-enterprise-value-connectors-become-generally-available-for-power-bi-customers"></a>Power BI ユーザーへのエンタープライズ グレードの高レベルなコネクタの一般提供を開始
+## <a name="high-enterprise-value-connectors-become-generally-available-for-power-bi-customers"></a>Power BI ユーザーへのエンタープライズ レベルの高レベルなコネクタの一般提供を開始
 
-2019 年の 4 月までに、パブリック プレビューとして最近公開された Power BI のエンタープライズ グレードのコネクタの多くの機能の一般提供が開始されます。その中には次の機能が含まれます。
+2019 年の 4 月までに、パブリック プレビューとして最近公開された Power BI のエンタープライズ レベルのコネクタの多くの機能の一般提供が開始されます。その中には次の機能が含まれます。
 
-- Power BI サービス内の (オンプレミス データ ゲートウェイ経由の) SAP BW シングル サインオン (Kerberos)
+- Power BI サービスでの (オンプレミス データ ゲートウェイ経由) SAP BW シングル サインオン (Kerberos)
 - Power BI サービス内の (オンプレミス データ ゲートウェイ経由の) SAP HANA シングル サインオン (SAML)
 - PDF コネクタ
 - Essbase コネクタ

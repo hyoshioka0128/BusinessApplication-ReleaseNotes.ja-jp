@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 ms.openlocfilehash: d0c5b764ba527050e396da1a60b2f3963bd81ef8
-ms.sourcegitcommit: 6b5a05bc2ba73d392be45ad6eb5369c6b810ebf0
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "390355"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225220"
 ---
 # <a name="system-directed-work-sequencing"></a>システム主導の作業優先順位
 

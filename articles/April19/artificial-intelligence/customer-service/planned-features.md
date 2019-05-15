@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ankitsar
 ms.reviewer: shellyha
-ms.openlocfilehash: 4d8e253d0f3f9dd18327911b44b2187c4d4d4efe
-ms.sourcegitcommit: b97227f8b775dde083240d9d76484b20f84d6a8f
+ms.openlocfilehash: 71de2a607926b7193236fcec5895d309da68418c
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/26/2019
-ms.locfileid: "897805"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1236778"
 ---
 #  <a name="whats-new-and-planned-for-ai-for-customer-service"></a>AI for Customer Service の新機能と予定されている機能
 
@@ -45,7 +45,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [Salesforce、Zendesk、ServiceNow などのデータ ソースからデータを取り込む](insights/more-data-sources-support.md) | 一般提供 | 2019 年 8 月   |
 | [Dynamics 365 for Customer Service アプリケーション内でのインサイトの取得](insights/integrated-experience-with-dynamics-365-for-customer-service.md)   | 一般提供 | 2019 年 8 月             |
 | [Customer Service Insights のエクスペリエンスのパーソナライズ](insights/personalized-experience.md)  | 一般提供 | 2019 年 8 月  |
-| [同僚と分析情報やワークスペースを共有する](insights/workspace-sharing.md)  | 一般提供 | 2019 年 4 月             |
+| [同僚と分析情報やワークスペースを共有する](insights/workspace-sharing.md)  | 一般提供 | 2019 年 5 月             |
 | [カスタム エンティティやフィールド内に格納されているサポート データから分析情報を生成する](insights/custom-entities-support.md) | 一般提供 | 2019 年 4 月             |
 | [さらに分析するために Azure Data Lake v2 にデータをエクスポートする](insights/export-data-to-azure-data-lake-v2.md)  | 一般提供 | 2019 年 9 月      |
 | [組織のワークスペースを設定する](insights/setup-organizational-workspace.md)  | 一般提供 | 2019 年 8 月       |

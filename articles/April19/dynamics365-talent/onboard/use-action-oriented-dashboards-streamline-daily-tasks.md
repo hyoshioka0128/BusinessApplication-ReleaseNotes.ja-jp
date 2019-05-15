@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: anbichse
 ms.openlocfilehash: 9b649f3730e8a6f070ed984dd81fefd57d6100f6
-ms.sourcegitcommit: 6c2bdf79defba9110d0d4a6921a3272ba46267bb
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/28/2019
-ms.locfileid: "901099"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225483"
 ---
 #  <a name="use-action-oriented-dashboards-to-streamline-your-daily-tasks"></a>アクション指向型のダッシュボードを使用して日常業務を効率化する
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

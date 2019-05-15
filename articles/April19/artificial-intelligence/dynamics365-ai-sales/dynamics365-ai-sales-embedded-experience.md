@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: renwe
 ms.reviewer: ''
 ms.openlocfilehash: 2dd42944d858975c8e1d41d483319a85d99d077b
-ms.sourcegitcommit: 0bbb1567f9ea5f74c257d0419b0032edb55d766b
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/28/2019
-ms.locfileid: "770716"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224954"
 ---
 #  <a name="embedded-ai-capabilities-in-dynamics-365-for-sales-for-sellers"></a>販売担当者向け Dynamics 365 for Sales の埋め込み AI 機能
 [!include[dynamics365-ai-sales banner](../../includes/dynamics365-ai-sales.md)]

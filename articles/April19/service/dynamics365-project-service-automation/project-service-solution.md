@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: kfend
 ms.reviewer: annbe
 ms.openlocfilehash: 47410c4e86a570672b1856920d99857e581d1ee2
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406258"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225438"
 ---
 # <a name="project-service-solution"></a>Project Service ソリューション
 [!include[dynamics365-project-service-automation banner](../../includes/dynamics365-project-service-automation.md)]

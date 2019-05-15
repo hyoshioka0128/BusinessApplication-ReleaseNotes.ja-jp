@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: neerajnandwana-ms
 ms.reviewer: shjais
 ms.openlocfilehash: 75af2396cc47cf176cd2743c93effcf0e3075100
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210708"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225324"
 ---
 #  <a name="power-bi-embedded-support-for-portals"></a>ポータルでの Power BI Embedded のサポート
 [!include[dynamics365-portals banner](../includes/dynamics365-portals.md)]

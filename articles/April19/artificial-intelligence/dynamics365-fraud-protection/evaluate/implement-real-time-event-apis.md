@@ -11,11 +11,11 @@ ms.custom:
 ms.service: dynamics-365-customerservice
 ms.author: v-jowigh
 ms.openlocfilehash: ff103032a106cec0b642a76047d8263b409b8fde
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406292"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225034"
 ---
 #  <a name="implement-real-time-event-apis"></a>リアルタイム イベント API の実装
 [!include[dynamics365-fraud-protection banner](../../../includes/dynamics365-fraud-protection.md)]

@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: cgarty
 audience: developer, customizer
 ms.openlocfilehash: 1b49569acbb3a60b322e6ef49190219dc819cbb3
-ms.sourcegitcommit: 511cd14035b9e3cf8fb47f93d24c77c5d6de51f3
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "905531"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225211"
 ---
 # <a name="platform-extensibility-enhancements-wave-3"></a>プラットフォーム拡張性の機能強化ウェーブ 3
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

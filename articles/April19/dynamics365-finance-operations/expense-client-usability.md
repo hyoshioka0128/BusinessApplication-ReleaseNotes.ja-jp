@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ryansand
 ms.openlocfilehash: f8c59d1aa805684e1719d2547e1831326c39156c
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287581"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225003"
 ---
 #  <a name="expense-client-usability"></a>経費クライアントの使いやすさ
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

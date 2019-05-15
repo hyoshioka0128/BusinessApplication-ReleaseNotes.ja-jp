@@ -10,12 +10,12 @@ ms.assetid: f3643c06-dd97-40b3-9ad7-d5f653bed30e
 author: bharavar
 ms.author: bharavar
 ms.reviewer: shujoshi
-ms.openlocfilehash: a26b028ff1ef1928af2a77ede065faf403804fa7
-ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
+ms.openlocfilehash: fe62dca603d8ff9e9fded2abd5289066fb7a600a
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "847526"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224861"
 ---
 #  <a name="robust-customer-insights-from-more-data-providers"></a>より多くのデータ プロバイダーから得られる堅牢な顧客分析情報 
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -42,4 +42,6 @@ ms.locfileid: "847526"
 
 
 > [!NOTE]
-> サードパーティのデータ プロバイダーは、営業ハブと Sales Professional の両方のアプリケーションで利用できます。
+> 営業ハブと Sales Professional の両方のアプリケーションでサードパーティのデータ プロバイダーを利用できます。
+>
+> この機能は、Web クライアントと統一インターフェイスの両方で使用できます。 

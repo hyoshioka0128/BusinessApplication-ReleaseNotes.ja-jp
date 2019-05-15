@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: kepontop
 audience: administrator
 ms.openlocfilehash: 5e27b1884dc9a3f57043e01a239c05b38c5a995d
-ms.sourcegitcommit: b9117e0a006fe421a672a4f6a7fbf0276efbddfa
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "878736"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224918"
 ---
 # <a name="odata-performance-improvements"></a>OData のパフォーマンスの向上
 

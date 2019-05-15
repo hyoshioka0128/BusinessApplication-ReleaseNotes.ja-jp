@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: jimholtz
 ms.reviewer: jimholtz
 ms.openlocfilehash: 51dcb64d3592765e8edcb8cd2d101551b26538ae
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406386"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225040"
 ---
 # <a name="extensibility"></a>拡張性
 [!include[dynamics365-ai-customer-insights banner](../../includes/dynamics365-ai-customer-insights.md)]

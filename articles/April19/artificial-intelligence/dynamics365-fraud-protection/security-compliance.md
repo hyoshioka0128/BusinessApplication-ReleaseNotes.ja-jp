@@ -11,11 +11,11 @@ ms.custom:
 ms.service: dynamics-365-customerservice
 ms.author: v-jowigh
 ms.openlocfilehash: 4a8b16bab89e90a57b3f5d44135d1d710c64c1be
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406259"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225011"
 ---
 #  <a name="security-and-compliance"></a>セキュリティとコンプライアンス
 [!include[dynamics365-fraud-protection banner](../../includes/dynamics365-fraud-protection.md)]

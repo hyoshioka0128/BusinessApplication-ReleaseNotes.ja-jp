@@ -11,11 +11,11 @@ author: josaw
 ms.author: Annbe
 audience: Admin
 ms.openlocfilehash: 699ded340aa12d5a7d6ff706dceae72aadb36411
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211002"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225320"
 ---
 #  <a name="extension-of-fiscal-printer-integration-sample-for-italy"></a>イタリア向け会計プリンターの統合のサンプルの拡張
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]

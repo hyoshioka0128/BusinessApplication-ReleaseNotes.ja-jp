@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 ms.reviewer: deonhe
-ms.openlocfilehash: a218fcb5cf4f03267a77e4693e1d3eedd3f13746
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: c6342c82a02558222fc09ddbe4b24dd7b7054d3b
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287516"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225122"
 ---
 # <a name="common-data-model-cdm"></a>Common Data Model (CDM)
 [!include[cdm-data-integration banner](../includes/cdm-data-integration.md)]
@@ -36,7 +36,7 @@ Common Data Model は範囲と機能が進化し続けているため、消費�
 
 ## <a name="cdm-schema-documents"></a>CDM スキーマ ドキュメント
 
-CDM スキーマの定義は、エコシステムからのニーズに基づいて改善され続けています。 たとえば、名前空間処理のサポートの追加により、パートナーは自分のソリューションに固有の概念として識別およびバージョン管理できるスキーマを CDM 形式で開発およびリリースできます。 また、CDM スキーマ ドキュメントの正式なバージョン管理体系もリリースされました。 この体系により、プロデューサーとコンシューマーは、サポートしているバージョンを確実に報告および識別できます。
+CDM スキーマの定義は、エコシステムのニーズに基づいて継続的に改善されます。 たとえば、CDM スキーマ ドキュメントのバージョン管理スキームがリリースされました。 このスキームにより、プロデューサーとコンシューマーは、サポートしているバージョンを確実に報告および識別できます。
 
 ## <a name="sdk-and-tooling"></a>SDK とツール
 

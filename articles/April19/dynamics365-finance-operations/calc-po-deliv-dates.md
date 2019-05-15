@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: 5a0218c165f05ed34413a91e75fa21fcab8f56e6
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "895557"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224916"
 ---
 # <a name="calculate-purchase-order-delivery-dates-based-on-lead-times-and-working-days"></a>リード タイムと就業日に基づいて発注書の配送日を計算する 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

@@ -3,23 +3,21 @@ title: ページの検査 (以前の「このページについて」)
 description: ページおよびページの部分を調べて、データの問題をトラブルシューティングしたり、基になっているデータ モデルを理解したりします。 ページ インスペクターは、現在のレコード、フィルター、およびページに影響を与えている拡張機能についての情報を明らかにします。 以前は「このページについて」、それより前は「ズーム」と呼ばれていました。
 author: mikebcMSFT
 ms.reviewer: edupont
-ms.date: 02/06/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
 ms.author: mikebc
 audience: developer, end user, customizer
-ms.openlocfilehash: 29ce32ab62e49f3515984a73c0d059b35ca057fd
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.openlocfilehash: d8af1ee4d372faed46e51a13db6f51d4c6ffd275
+ms.sourcegitcommit: d38444f318edcbde1d3c922cbf676072b87e5fbb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "404909"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "1447186"
 ---
 # <a name="page-inspection-formerly-about-this-page"></a>ページの検査 (以前の*このページについて*)
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
-
 ビジネス データまたは機能構成のエラーのトラブルシューティングを行うときは、多くの場合、ページに表示されているもの以外の追加レベルの分析情報が必要です。 パワー ユーザーとサポート スタッフは、ページ (またはページ内の部分) を調べて、ページに表示されていないフィールドなど、現在のレコードの内容全体を明らかにすることができます。
 
 ![アイテム情報ボックスの検査](media/page-inspector.png "情報ボックスの 1 つが検査されているアイテム カードの横にあるページの検査ウィンドウ")
@@ -40,17 +38,12 @@ Microsoft Dynamics NAV での前身 (一般的に "このページについて" 
 - テーブルに現在適用されているフィルター。
 
 
-<!--
- 
-## Try it now
-Inspect the full record data for one of the products or services that you offer, by signing in to your online environment at https://businesscentral.dynamics.com/?page=30
+## <a name="try-it-now"></a>試してみましょう
+[https://businesscentral.dynamics.com/?page=30](https://businesscentral.dynamics.com/?page=30) のオンライン環境にサインインして、提供している品目の 1 つに関する全レコード データを調べます。
 
-## Resources
-Inspecting pages
-FAQ about inspecting pages
-Keyboard Shortcuts
-
--->
+## <a name="resources"></a>リソース
+[ページの検査](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-inspecting-pages)<br>  
+[キーボード ショートカット](https://aka.ms/bckeys)  
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。 Business Central フォーラム ([https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas)) をご利用ください。

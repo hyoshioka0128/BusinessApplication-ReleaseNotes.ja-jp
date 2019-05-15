@@ -8,11 +8,11 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.openlocfilehash: e75911bc072f0d748d43cdaa8b2eefad89de4d53
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210482"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225292"
 ---
 # <a name="sales-integration-enhancements"></a>Sales 統合の機能拡張
 

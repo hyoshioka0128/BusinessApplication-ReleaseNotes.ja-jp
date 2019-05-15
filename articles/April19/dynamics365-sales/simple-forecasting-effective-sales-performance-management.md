@@ -2,7 +2,7 @@
 title: 効果的な販売実績管理のためのシンプルな予測
 description: 特定の期間の収益を正確に予測し、情報に基づいた意思決定を行う。
 keywords: ''
-ms.date: 02/06/2019
+ms.date: 04/22/2019
 ms.service:
 - business-applications
 ms.topic: article
@@ -10,12 +10,12 @@ ms.assetid: 23612a8a-7d72-ddd3-7f00-c08463b3537e
 author: snaitik
 ms.author: naitikds
 ms.reviewer: shujoshi
-ms.openlocfilehash: 80fa1e9c97c4dfa0491a914507fe5c878e57d0bb
-ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
+ms.openlocfilehash: e3cf45eacb2fa5db710c8002731f35ae4921d516
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "847741"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224873"
 ---
 #  <a name="predict-revenue-accurately-and-make-informed-decisions-withmanualsales-forecasting"></a>手動売上予測によって収益を正確に見積もり、情報に基づいた意思決定を実行する 
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -44,4 +44,8 @@ ms.locfileid: "847741"
 
 > [!NOTE]
 > シンプル予測は営業ハブでのみ利用でき、Sales Professional アプリケーションでは利用できません。
+>
+> この機能は、統一インターフェイスでのみ使用できます。
 
+## <a name="resources"></a>リソース
+[売上予測による正確な売上の予測](https://docs.microsoft.com/dynamics365/customer-engagement/sales-enterprise/project-accurate-revenue-sales-forecasting)

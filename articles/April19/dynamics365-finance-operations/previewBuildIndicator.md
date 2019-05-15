@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: jasongre
 audience: admin, end user, IT pro
 ms.openlocfilehash: d20df874fb8b199496c4827791b586b02642aa40
-ms.sourcegitcommit: 9d9f57d7fa917a6e3185205bf59537229546a00c
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "861160"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225329"
 ---
 # <a name="clear-identification-of-preview-builds"></a>プレビュー ビルドの明確な識別
 

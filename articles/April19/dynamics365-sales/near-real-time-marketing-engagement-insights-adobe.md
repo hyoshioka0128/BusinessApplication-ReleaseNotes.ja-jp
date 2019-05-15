@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: ffef1052f98df8529f2883f25cbec17dac572036
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287022"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224880"
 ---
 #  <a name="near-real-time-marketing-engagement-insights-from-adobe"></a>Adobe からのほぼリアルタイムでのマーケティング エンゲージメントの分析情報
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -24,7 +24,7 @@ Adobe Campaign のサブスクライバーは、マーケティング活動と�
 
 ##### <a name="business-value"></a>ビジネス バリュー
 
-- Dynamics 365 for Sales を使用している販売担当者は、Adobe Marketing から顧客エンゲージメントの最新の更新を受け取るようになります。
+- Dynamics 365 for Sales を使用している販売担当者は、Adobe Marketing から顧客エンゲージメントの最新の更新情報を受け取るようになります。
 
 ##### <a name="persona"></a>ペルソナ
 

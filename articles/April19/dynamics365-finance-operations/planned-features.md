@@ -2,17 +2,17 @@
 title: Finance and Operations の新機能と予定されている機能 (2019 年 4 月)
 description: このトピックは、2019 年 2 月 から 2019 年 3 月までの間にプレビューになり、2019 年 4 月から 2019 年 9 月までの間にリリース予定の Finance and Operations の機能の一覧を示します。
 author: AnnBe
-ms.date: 03/22/2019
+ms.date: 05/06/2019
 ms.assetid: 7cd25ee8-8569-492a-9110-b814431c0d45
 ms.topic: article
 ms.service: business-applications
 ms.author: AnnBe
-ms.openlocfilehash: 765030aa40bba1d0ef235576808d4df25961e897
-ms.sourcegitcommit: d73e1555b600f6943f8bba67341c174150a07cdc
+ms.openlocfilehash: 70b0f077a771961d44f8762de21aaf832801f28e
+ms.sourcegitcommit: 02b513fd2e8c80086e6ff6de409a73483454cbce
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/28/2019
-ms.locfileid: "902499"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "1449250"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-for-finance-and-operations"></a>Dynamics 365 for Finance and Operations の新機能と予定されている機能
 
@@ -28,15 +28,16 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 
 | 機能                                 | リリースの種類         |クラウドまたはオンプレミス| 日付 |
 |-----------------------------------------|----------------------|--------------------|----------------------|
-| [自動元帳決済](automatic-ledger-settlements.md)| 一般提供 |  両方   | 2019 年 8 月           |
-| [仕訳帳転記の取消](reverse-journal-posting.md)| 一般提供 |  両方   |2019 年 8 月          |
+| [自動元帳決済](automatic-ledger-settlements.md)| 一般提供 |  両方   | 2019 年 8 月～ 10 月           |
+| [仕訳帳転記の取消](reverse-journal-posting.md)| 一般提供 |  両方   |2019 年 8 月～ 10 月          |
 | [収益認識](revenue-recognition.md)|一般提供 | 両方    |2019 年 7 月        |
-| [銀行における外貨再評価](bank-foreign-currency-revaluation.md)|一般提供 |  両方   |2019 年 8 月         |
+| [銀行における外貨再評価](bank-foreign-currency-revaluation.md)|一般提供 |  両方   |2019 年 5 月         |
 | [経費クライアントの使いやすさ](expense-client-usability.md)| 一般提供 | 両方    | 2019 年 8 月           |
 | [請求スケジュール](billing-schedules.md) | 一般提供 |      両方      | 2019 年 8 月            | 
-| [エンタープライズ与信管理](credit-management.md) | 一般提供 |      両方      | 2019 年 8 月～ 9 月            |
-| [銀行取引明細書の日付の編集と編集履歴の表示](edit-bank-date.md) | 一般提供 |      両方      | 2019 年 5 月～ 6 月     | 
+| [与信管理](credit-management.md) | 一般提供 |      両方      | 2019 年 8 月～ 10 月            |
+| [銀行取引明細書の日付の編集と編集履歴の表示](edit-bank-date.md) | 一般提供 |      両方      | 2019 年 5 月     | 
 | [仕入先請求書の回収](recover-vendor-invoices.md) | 一般提供 |      両方      | 2019 年 5 月     | 
+| [買掛金勘定仕入先請求書の為替レート フィールドでの変更](AP-exch-rate.md) | 一般提供 |    両方    | 2019 年 6 月|
 
 ## <a name="public-sector"></a>公的機関
 
@@ -148,11 +149,11 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [分析ワークスペース用の Web 編集ツール](web-edit-analytical-workspaces.md)                   | パブリック プレビュー |       クラウド               | 2019 年 4 月 |
 | [分析ワークスペースの個人用設定オプション](personalization-options-analytical-workspaces.md)                   | パブリック プレビュー |    クラウド                  | 2019 年 7 月 |
 | [ネットワーク プリンターのシステム管理](system-manage-network-printers.md)                   | パブリック プレビュー |   クラウド                  | 2019 年 4 月 |
-| [電子メールによるクライアント警告通知](alert-email-notifications.md)                   | パブリック プレビュー |   両方                  | 2019 年 4 月 |
+| [電子メールによるクライアント警告通知](alert-email-notifications.md)                   | パブリック プレビュー |   両方                  | 2019 年 4 月 12 日 |
 | **クライアント** |  |  |  |
-| [強化されたグリッド エクスペリエンス](grid-experience.md)           | パブリック プレビュー |       両方               | 2019 年 7 月 |
-| [保存されているビュー](saved-views.md)           | パブリック プレビュー |    両方                  | 2019 年 7 月 |
-| [クライアントの生産性と使いやすさの向上](client-productivity-usability-improvements.md)           | 一般提供 |                両方      | 2019 年 7 月 |
+| [強化されたグリッド エクスペリエンス](grid-experience.md)           | パブリック プレビュー |       両方               | 2019 年 8 月 |
+| [保存されているビュー](saved-views.md)           | パブリック プレビュー |    両方                  | 2019 年 8 月 |
+| [クライアントの生産性と使いやすさの向上](client-productivity-usability-improvements.md)           | 一般提供 |                両方      | 未定 |
 | ["フィルター フィールドの追加" エクスペリエンスの向上](updated-add-filter-field.md)           | 一般提供 |                両方      | 2019 年 4 月 |
 | [Office ヘッダーに合わせて更新されたナビゲーション バー](updatedNavBar.md)           | 一般提供 |    両方                  | 2019 年 3 月 8 日 |
 | [プレビュー ビルドの明確な識別](previewBuildIndicator.md)                   | 一般提供 |   両方                  | 2019 年 3 月 8 日 |
@@ -160,8 +161,9 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | **開発** |  |  |  |
 | [開発者ツールとアプリケーション ライフサイクルの管理](developer-tools-application-lifecycle-management.md)| パブリック プレビュー |               両方       | 2019 年 4 月 – 2019 年 7 月 (機能の増分リリース) |
 | [プラットフォーム拡張性の機能強化](platform-extensibility.md)| 一般提供 |               両方       | 2019 年 3 月 8 日 |
-| [プラットフォーム拡張性の機能強化ウェーブ 2](platform-extensibility2.md)| 一般提供 |               両方       | 2019 年 4 月 |
+| [プラットフォーム拡張性の機能強化ウェーブ 2](platform-extensibility2.md)| 一般提供 |               両方       | 2019 年 4 月 12 日 |
 | [プラットフォーム拡張性の機能強化ウェーブ 3](platform-extensibility3.md)| 一般提供 |               両方       | 2019 年 5 月 |
+| [プラットフォーム拡張性の機能強化ウェーブ 4](platform-extensibility4.md)| 一般提供 |               両方       | 2019 年 6 月 |
 | [アプリケーション トラッカーを使用したランタイム イベントの分析](application-tracker.md)| 一般提供 |               両方       | 2019 年 5 月 |
 
 ## <a name="integration"></a>統合
@@ -178,6 +180,5 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 |-----------------------------------------------------------------------------------------------------------|----------------------|----------------------|----------------------|
 | [データの所在地 - 中国のクラウド](data-residency-china-cloud.md)   | 一般提供 |   クラウド               | 2019 年 4 月           |
 | [One Version エクスペリエンス](one-version-experience.md)    | 一般提供 |    クラウド                  | 2019 年 4 月           |
-| [診断アシスタント](diagnostic-assistant.md)           | パブリック プレビュー |    クラウド                  | 2019 年 7 月       |
 | [セルフサービス展開](self-service-deployment.md)  | 一般提供 |  クラウド     | 2019 年 5 月 |
 | [ビジネス プロセス モデラー (BPM) のユーザー インターフェイスの向上](BPM-UI-Improvement.md) | 一般提供 | クラウド | 2019 年 3 月 4 日 |

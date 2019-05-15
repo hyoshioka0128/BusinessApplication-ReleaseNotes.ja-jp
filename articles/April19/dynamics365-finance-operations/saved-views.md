@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: jasongre
 audience: admin, end user, customizer, business analyst, IT pro
 ms.openlocfilehash: 9c8f0711f7c8290b0c7bf54596c21dd6867db5ed
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210714"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225274"
 ---
 # <a name="saved-views"></a>保存されているビュー
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

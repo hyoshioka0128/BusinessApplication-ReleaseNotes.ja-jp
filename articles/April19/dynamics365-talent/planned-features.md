@@ -2,18 +2,18 @@
 title: Talent の新機能と予定されている機能 (2019 年 4 月)
 description: Talent の新機能の概要
 author: josaw1
-ms.date: 03/08/2019
+ms.date: 05/01/2019
 ms.assetid: 22d14c6a-0c1c-4589-9f6d-c82799b680a9
 ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.reviewer: josaw
-ms.openlocfilehash: c72e617cb03147f0bf74ccc4d7baef0b7229003a
-ms.sourcegitcommit: 6c2bdf79defba9110d0d4a6921a3272ba46267bb
+ms.openlocfilehash: 9a825cf99eb842aad8a3cebb68f48a9b2f9f0738
+ms.sourcegitcommit: 7fc1e31dbcdd6afe3b8447803a8e63d77d796e7e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/28/2019
-ms.locfileid: "901121"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "1446443"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-for-talent"></a>Dynamics 365 for Talent の新機能と予定されている機能
 
@@ -43,7 +43,7 @@ be published in the right edition of the release notes (October 2018 vs. April
 | [カスタマイズ可能なジョブ フォームとプロファイル フォームを作成する](attract/create-customizable-job-profile-forms.md) | パブリック プレビュー | 2019 年 4 月 |
 | [候補者の前歴 (社内または社外) に対応したカスタム採用ワークフローの作成](attract/create-custom-recruiting-workflows-that-map-candidate-origin-internal-vs-external.md) | パブリック プレビュー| 2019 年 4 月           |
 | [検索機能の強化](attract/search-enhancements.md) | パブリック プレビュー | 2019 年 4 月           |
-| [Microsoft Forms Pro とそのまま統合できる](attract/provide-OOB-integration-with-a-candidate-assessment-solution.md)  | パブリック プレビュー | 2019 年 4 月           |
+| [Microsoft Forms Pro とそのまま統合できる](attract/provide-OOB-integration-with-a-candidate-assessment-solution.md)  | パブリック プレビュー | 2019 年 7 月           |
 | [次点の候補者を追跡する](attract/silver-medalists.md)   | パブリック プレビュー | 2019 年 3 月|
 | **分析とアクション**                            |                      |                      |
 | [分析を通じて採用プロセスに関する分析情報を得る](attract/use-analytics-hiring-process-insights.md)     | パブリック プレビュー | 2019 年 4 月           |
@@ -82,9 +82,10 @@ be published in the right edition of the release notes (October 2018 vs. April
 
 | 機能                                 | リリースの種類         | 日付 |
 |-----------------------------------------|----------------------|----------------------|
-| [CDS for Apps で Core HR のエンティティを展開する](core-hr/expand-data-entities-cds-apps.md) | 一般提供 | 2019 年 4 月           |
-| [早退および欠勤のルールとポリシー](core-hr/leave-absence-rules.md)  | 一般提供 | 2019 年 4 月 |
-
+| [Common Data Service で Core HR のエンティティを展開する](core-hr/expand-data-entities-cds-apps.md) | 一般提供 | 2019 年 7 月           |
+| [早退および欠勤のルールとポリシー](core-hr/leave-absence-rules.md)  | 一般提供 | 2019 年 7 月 |
+| [米国コンプライアンス レポート](core-hr/us-compliance-reports.md)  | 一般提供 | 2019 年 7 月 |
+| [高度な報酬のセキュリティ](core-hr/advanced-compensation-security.md) | 一般提供 | 2019 年 4 月 |
 
 
 

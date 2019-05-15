@@ -1,23 +1,22 @@
 ---
-title: 改善された Power BI コネクター
+title: 改善された Power BI コネクタ
 description: Power BI コネクタに関する 2 つの大きな改善点。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/08/2019
-ms.assetid: ff7358cb-f6c4-e811-a971-000d3a137208
+ms.date: 04/14/2019
+ms.assetid: c987bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 7f5bd1b9affa15f7dc2f091c31cb1f93159bf140
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 3205514b1c0ad33a5b8d7756b48279e962a23895
+ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210545"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "1445364"
 ---
-# <a name="improved-power-bi-connector"></a>改善された Power BI コネクター
-
+# <a name="improved-power-bi-connector"></a>改善された Power BI コネクタ
 
 [!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 

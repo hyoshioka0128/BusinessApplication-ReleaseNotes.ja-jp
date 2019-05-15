@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: mikebc
 audience: developer, customizer
 ms.openlocfilehash: e30845ac756e5e136b59a5cbff7c1db3e59dd658
-ms.sourcegitcommit: 92b7053f06513207fc880a7ce9dabb00b4df5816
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "723646"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225054"
 ---
 # <a name="designer-enhancements-for-developers"></a>開発者向けデザイナーの機能強化
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

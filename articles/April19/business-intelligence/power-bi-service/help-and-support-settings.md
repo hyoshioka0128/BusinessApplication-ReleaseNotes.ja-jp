@@ -12,11 +12,11 @@ ms.technology: ''
 ms.author: HaydnR
 audience: ''
 ms.openlocfilehash: fd0544262a3f8e206496fb43ee206428f71ac395
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "850363"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225174"
 ---
 # <a name="power-bi-help-and-support-settings"></a>Power BI のヘルプとサポートの設定
 

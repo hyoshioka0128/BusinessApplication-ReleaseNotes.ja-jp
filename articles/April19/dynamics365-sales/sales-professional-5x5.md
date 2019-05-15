@@ -1,27 +1,30 @@
 ---
-title: Dynamics 365 for Sales Professional を初めて使用するユーザー向けの簡略化されたエクスペリエンス
-description: 初めて使用するユーザー向けの新しい実行エクスペリエンスを使用して Sales Professional アプリケーションをセットアップし、ほんの数分で価値を実感できます。
-author: bharavar
-ms.date: 01/21/2019
+title: Dynamics 365 for Sales Professional の簡略化された最初の実行エクスペリエンス
+description: 新しい最初の実行エクスペリエンスを使用して Sales Professional アプリケーションをセットアップし、ほんの数分で価値を実感できます。
+keywords: ''
+ms.date: 04/22/2019
+ms.service:
+- business-applications
 ms.topic: article
-ms.service: business-applications
+ms.assetid: 337c3fa8-a348-52f9-8961-0def9826b0ab
+author: bharavar
 ms.author: bharavar
 ms.reviewer: shujoshi
-ms.openlocfilehash: 9dc644d6738cafd31e43866e94cce2dfcef72d51
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: 5ff5eeecc0368c753122df321b849d93520fe4c7
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211087"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224853"
 ---
-#  <a name="simplified-first-run-experience-to-get-started-with-sales-professional"></a>Sales Professional を初めて使用するユーザー向けの簡略化されたエクスペリエンス
+#  <a name="simplified-first-run-experience-to-get-started-with-sales-professional"></a>Sales Professional 使用開始時の簡略化された最初の実行エクスペリエンス
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
 
 
 
 
-Dynamics 365 for Sales Professional アプリケーションは、営業チームが初日から高い生産性を発揮できるように、簡略化されたセットアップおよび構成エクスペリエンスを提供できるようになりました。
+Dynamics 365 for Sales Professional アプリケーションは、営業チームが使用開始初日から高い生産性を発揮できるように、簡略化されたセットアップおよび構成エクスペリエンスを提供できるようになりました。
 
 ## <a name="business-value"></a>ビジネス バリュー
 
@@ -43,3 +46,8 @@ Dynamics 365 for Sales Professional アプリケーションは、営業チー�
 
 -   Sales Professional アプリケーション内から関連するすべてのアプリケーション設定にアクセスできる。
 
+> [!NOTE]
+> この機能は、統一インターフェイスでのみ使用できます。 
+
+## <a name="resources"></a>リソース
+[管理設定の概要](https://docs.microsoft.com/dynamics365/customer-engagement/sales-professional/admin-settings-overview)

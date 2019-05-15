@@ -12,11 +12,11 @@ ms.technology: ''
 ms.author: aolson
 audience: end user
 ms.openlocfilehash: 25d303840ef67b69473513e58ecb56494f5452d1
-ms.sourcegitcommit: 365db01dde7ccb5c763d209fedbc715d128b18a6
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "376875"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225154"
 ---
 # <a name="enterprise-credit-management"></a>エンタープライズ与信管理
 

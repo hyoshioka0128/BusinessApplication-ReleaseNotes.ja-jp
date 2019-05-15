@@ -7,9 +7,15 @@ ms.date: 02/21/2019
 ms.assetid: 8446e8f6-7870-4349-8896-d49a2a3f8bfc
 ms.topic: article
 ms.custom:
-  - dyn365-fieldservice
+- dyn365-fieldservice
 ms.service: dynamics-365-customerservice
 ms.author: v-jowigh
+ms.openlocfilehash: 0d64d04595777b98771ffa4f53b9c4ae437cc208
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225096"
 ---
 #  <a name="rules-engine"></a>ルール エンジン
 [!include[dynamics365-fraud-protection banner](../../../includes/dynamics365-fraud-protection.md)]

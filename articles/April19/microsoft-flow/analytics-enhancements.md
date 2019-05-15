@@ -3,23 +3,22 @@ title: 分析の強化
 description: 分析レポートに、環境全体で使用、作成、共有されたフローまたはエラーのあるフローの所有者に関する詳細が追加されました。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 01/08/2019
-ms.assetid: 377458cb-f6c4-e811-a971-000d3a137208
+ms.date: 04/14/2019
+ms.assetid: ed86bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: c698117c08690fb3c97c25ed2fb69afcaa92e976
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.openlocfilehash: fd4c8e683dcfe827410e31ea3b5d1446cb352a41
+ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210476"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "1445515"
 ---
 # <a name="analytics-enhancements"></a>分析の強化
 
 
-[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
 分析レポートに、環境全体で使用、作成、共有されたフローまたはエラーのあるフローの所有者に関する詳細が追加されました。 さらに、環境内で使用されているコネクタの概要を示すコネクタ レポートが提供されます。
 

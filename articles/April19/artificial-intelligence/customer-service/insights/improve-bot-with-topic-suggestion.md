@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: xiaoying
 ms.reviewer: v-stsau
 ms.openlocfilehash: 4fe6f9b234ab27b8948485e489c1ddc964f37009
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "843603"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224980"
 ---
 # <a name="improve-dynamics-365-virtual-agent-for-customer-service-through-topics-for-automation"></a>自動化のトピックを通じた Dynamics 365 Virtual Agent for Customer Service の改善 
 

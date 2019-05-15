@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: mapau
 ms.reviewer: v-brycho
 ms.openlocfilehash: 9f08316af776e0bc524e02b34574776b9e2daeae
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210853"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225238"
 ---
 # <a name="improved-integration-with-dynamics-365-for-field-service"></a>Dynamics 365 for Field Service との統合の改善
 [!include[microsoft-dynamics365-remote-assist banner](../../includes/microsoft-dynamics365-remote-assist.md)]

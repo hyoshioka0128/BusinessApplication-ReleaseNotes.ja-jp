@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: jasongre
 audience: developer, admin, end user, customizer, business analyst, IT pro
 ms.openlocfilehash: 0c8a1c33467229a99cb088a46a5408dd3639eccc
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210618"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224906"
 ---
 # <a name="enhanced-grid-experiences"></a>強化されたグリッド エクスペリエンス
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

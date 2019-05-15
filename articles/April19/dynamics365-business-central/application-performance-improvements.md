@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: kepontop
 audience: administrator
 ms.openlocfilehash: 3b90d7b310c45ffe6b98005f206e8c3f2ca57319
-ms.sourcegitcommit: b9117e0a006fe421a672a4f6a7fbf0276efbddfa
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "878726"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225073"
 ---
 # <a name="application-performance-improvements"></a>アプリケーションのパフォーマンスの向上
 

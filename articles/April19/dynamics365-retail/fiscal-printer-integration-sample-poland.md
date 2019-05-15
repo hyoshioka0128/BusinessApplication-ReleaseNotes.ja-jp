@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: epopov
 ms.openlocfilehash: 1ee990d0762e2da3c8cc5f87bc8f922da34a6869
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210857"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224854"
 ---
 #  <a name="fiscal-printer-integration-sample-for-poland"></a>ポーランド向けの会計プリンター統合サンプル
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]

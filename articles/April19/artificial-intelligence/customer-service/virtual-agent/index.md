@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: navrinas
 ms.reviewer: v-stsau
 ms.openlocfilehash: 57343a4dbc4de27b3f372ba169d17163aad66536
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "843790"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224967"
 ---
 # <a name="overview-of-dynamics-365-virtual-agent-for-customer-service-april-19-release"></a>Dynamics 365 Virtual Agent for Customer Service 2019 年 4 月リリースの概要
 [!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]

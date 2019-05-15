@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: d3877da1d8104ddd75fb9b32ef1d68651dcbd9ff
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210394"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224890"
 ---
 #  <a name="master-planning-stability-and-recovery-improvements"></a>マスター プランの安定性と復元性の改善
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

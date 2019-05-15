@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: adamw
 ms.reviewer: mihart
 ms.openlocfilehash: 857ceb50ef4663a4af7fd097d53fbab153040fd6
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "850264"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224946"
 ---
 #  <a name="themes-api"></a>テーマ API 
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]

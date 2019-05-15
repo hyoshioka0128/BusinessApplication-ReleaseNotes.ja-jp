@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: jaredha
 audience: admin
 ms.openlocfilehash: 8c4e6ca1cf4213a7b8f2645bcebd6787ecfdcd95
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210894"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225202"
 ---
 # <a name="enhancements-for-application-lifecycle-management"></a>アプリケーション ライフサイクル管理の機能強化
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

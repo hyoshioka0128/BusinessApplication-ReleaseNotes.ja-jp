@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: adamw
 ms.openlocfilehash: 0ab83bc4b37ce663955ec05c5449cce0c506b3fb
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "849626"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224945"
 ---
 #  <a name="publish-ssrs-paginated-reports-to-power-bi-premium-workspaces"></a>SSRS のページ付けされたレポートを Power BI Premium ワークスペースに公開する
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]

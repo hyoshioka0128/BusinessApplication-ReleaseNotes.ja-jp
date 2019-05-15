@@ -1,17 +1,17 @@
 ---
 title: Retail Cloud Scale Unit - 複数地域
 description: Retail Cloud Scale Unit - 複数地域
-author: ReneeW-CPub
-ms.date: 01/21/2019
+author: AamirAllaq
+ms.date: 04/09/2019
 ms.topic: article
 ms.service: business-applications
-ms.author: renwe
-ms.openlocfilehash: 9827e558287bfeaa45f378d2126e2765e8a49f34
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.author: aamiral
+ms.openlocfilehash: a0173ceb3771f45068bbacad21696d546c8fb842
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210892"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224837"
 ---
 #  <a name="retail-cloud-scale-unit--multi-region"></a>Retail Cloud Scale Unit - 複数地域
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
@@ -21,7 +21,7 @@ ms.locfileid: "210892"
 
 このようなケースにおける高いネットワーク遅延に対処するために、一般的に今日の IT 管理者は自社の環境をハイブリッド トポロジに展開し、一部のコンポーネントはオンプレミス (実店舗内) または地域のプライベート データ センターに設置します。 しかし、これには設備投資や運用にかかる費用や負担が発生します。
 
-小売業者向けのマルチ地域のサポートはこれらの問題を軽減します。管理者は Microsoft のデータ センターのグローバル ネットワークを活用し、各店舗が最寄りのクラウド リージョンのサービスを利用することで、待ち時間が短縮され、ユーザーが受ける応答性が向上します。
+小売業者向けの複数地域サポートはこれらの問題を軽減します。管理者は Microsoft のデータ センターのグローバル ネットワークを活用し、各店舗が最寄りのクラウド リージョンのサービスを利用することで、待ち時間が短縮され、ユーザーが認識する応答性が向上します。
 
 ## <a name="business-value"></a>ビジネス バリュー
 

@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: kepontop
 audience: administrator
 ms.openlocfilehash: 35cc644c5e3754ef83c4d41bba4179d845627041
-ms.sourcegitcommit: b9117e0a006fe421a672a4f6a7fbf0276efbddfa
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "878735"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225043"
 ---
 # <a name="relaxed-requirement-on-8-kb-row-size"></a>8 KB 行サイズの要件の緩和
 

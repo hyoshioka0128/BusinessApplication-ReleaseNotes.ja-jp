@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: e39e5b886ec82d4fb62bba9922d62d13cd55804f
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210431"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225283"
 ---
 #  <a name="inclusive-language-checker"></a>包括的な言語チェッカー
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

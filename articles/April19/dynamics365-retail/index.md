@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: 7b9a00a7a97393a8cd93bac1ed61077bf04e0305
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210453"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224868"
 ---
 #  <a name="overview-of-dynamics-365-for-retail-april-19-release"></a>Dynamics 365 for Retail 2019 年 4 月リリースの概要
 [!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]

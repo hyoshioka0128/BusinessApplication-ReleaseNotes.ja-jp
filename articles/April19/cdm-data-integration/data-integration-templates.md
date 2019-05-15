@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: sabinn
 ms.reviewer: deonhe
 ms.openlocfilehash: af6c1fc06557dcf37c88cb740b544b267015ff3f
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210746"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225195"
 ---
 # <a name="data-integration-templates"></a>データ統合テンプレート
 [!include[cdm-data-integration banner](../includes/cdm-data-integration.md)]

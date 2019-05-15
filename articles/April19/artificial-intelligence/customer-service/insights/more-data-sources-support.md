@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: xiaoying
 ms.reviewer: v-stsau
 ms.openlocfilehash: 0643f06d5e644a5f03224f93e59ed1bca8a8ce59
-ms.sourcegitcommit: 3cdd8274c1ec917ff14c0e1d26983d68711380f8
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "892271"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224972"
 ---
 # <a name="bring-your-data-from-data-sources-such-as-salesforce-zendesk-servicenow-or-others"></a>Salesforce、Zendesk、ServiceNow などのデータ ソースからデータを取り込む
 [!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]

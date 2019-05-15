@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ''
 ms.openlocfilehash: 8c8210490915a3d08e2ae7a99280a0e13c096e72
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210417"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225392"
 ---
 #  <a name="search-enhancements"></a>検索機能の強化
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: Sunil-Garg
 ms.openlocfilehash: 3aa280e04b43332dc14002915a1ff0f067062467
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "844201"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225150"
 ---
 #  <a name="business-events-for-integrations"></a>統合のためのビジネス イベント  
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

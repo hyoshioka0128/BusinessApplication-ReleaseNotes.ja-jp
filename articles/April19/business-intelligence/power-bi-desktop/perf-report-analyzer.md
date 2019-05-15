@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: kimani
 ms.reviewer: mihart
 ms.openlocfilehash: 1d3f7f6e108f76e8da3596098c5b0ff00e2a4081
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "849703"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224983"
 ---
 # <a name="performance-analyzer-for-reports"></a>レポート用パフォーマンス分析機能
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]

@@ -3,23 +3,22 @@ title: 業務プロセス フロー用のアクション センター
 description: Microsoft Flow では、承認と業務プロセス フローのための統一されたランディング ページが提供されるようになります。
 author: KaranSr
 ms.reviewer: deonhe
-ms.date: 01/08/2019
-ms.assetid: 2b7458cb-f6c4-e811-a971-000d3a137208
+ms.date: 04/14/2019
+ms.assetid: df86bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: karansr
 audience: Power user
-ms.openlocfilehash: 77ea6539bdd3f9cce4bb9ff2a47f04e509b5dbed
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.openlocfilehash: 6acdf0bf2dbfc38192173e2914447848b3a45f71
+ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "286864"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "1445474"
 ---
 # <a name="action-center-for-business-process-flows"></a>業務プロセス フロー用のアクション センター
 
 
-[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
 現在の Microsoft Flow の承認では、ユーザーは 1 つのレコードで複数の業務プロセス フローを使用できます。 しかし、ユーザーのアクションを待っているすべてのプロセスを一箇所で見る手段はありません。
 

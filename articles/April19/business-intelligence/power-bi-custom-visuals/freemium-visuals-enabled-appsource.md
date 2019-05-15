@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: adamw
 ms.openlocfilehash: f185b50569dbf6ac8dbd8ae1b1beba6ce27e7e98
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "850440"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225135"
 ---
 #  <a name="freemium-visuals-enabled-through-appsource"></a>AppSource でのフリーミアム ビジュアルの有効化
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]

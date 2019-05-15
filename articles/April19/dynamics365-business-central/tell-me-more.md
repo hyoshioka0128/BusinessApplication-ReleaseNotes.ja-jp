@@ -10,16 +10,14 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: blazkote
 audience: developer, end user
-ms.openlocfilehash: 3b5f0573d7499e283916a8f77479c259f40dec41
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.openlocfilehash: c26b82065b753b0e8ba461d197fa8400a94adbc2
+ms.sourcegitcommit: a42ceb5c2375ecb045c1710fea82e164bcb13dd3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "404502"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "1456498"
 ---
 # <a name="improved-contextual-search-experience"></a>コンテキスト検索エクスペリエンスの改善
-
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
 ## <a name="search-results-from-appsource"></a>AppSource からの検索結果
 Microsoft では、AppSource でより柔軟な用語を使用してパートナー ソリューションを検索できるようにすることで、操作アシスト (Alt+Q) 機能を改善しました。 これによりユーザーは、パートナー コミュニティから入手できる幅広いソリューションの中から目的に合うソリューションを探し、Business Central を簡単に拡張できるようになります。

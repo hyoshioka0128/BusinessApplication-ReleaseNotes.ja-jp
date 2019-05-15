@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mrolecki
 ms.openlocfilehash: 7098d439fb3af955bc14795cbc2ec6c8717bd936
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "288291"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225217"
 ---
 #  <a name="additional-configurable-invoice-layouts"></a>構成可能な請求書レイアウトの追加
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

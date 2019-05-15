@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: trkeya
 ms.openlocfilehash: c109bcef27ebb8f8348dd33be5fd18553c318151
-ms.sourcegitcommit: 03de13679b4a53812274475e957d0124e6f4dd35
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "838140"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225322"
 ---
 #  <a name="audit-your-hiring-process"></a>採用プロセスを監査する
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

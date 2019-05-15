@@ -3,23 +3,21 @@ title: 簡単入力
 description: 簡単入力機能は、使用頻度の低いフィールドはスキップすることで、レコードの繰り返し入力に要する時間を短縮します。
 author: mikebcMSFT
 ms.reviewer: edupont
-ms.date: 01/21/2019
+ms.date: 04/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
 ms.author: mikebc
 audience: developer, end user, customizer
-ms.openlocfilehash: 8ab1b587dfb80b177b290429cec4f2dd5a47a697
-ms.sourcegitcommit: 3c1c87393de3c81395a981f7eea040c5ee62ab45
+ms.openlocfilehash: c93d104d0687cebeba3af05bccf9bd3177d0fd74
+ms.sourcegitcommit: d38444f318edcbde1d3c922cbf676072b87e5fbb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "285315"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "1447142"
 ---
 # <a name="quick-entry"></a>簡単入力
-[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
-
 デスクトップ ブラウザーおよび Windows デスクトップ アプリ用の強力な簡単入力機能を使用して、レコードの繰り返し入力に要する時間を短縮します。
 
 ## <a name="business-value"></a>ビジネス バリュー
@@ -41,16 +39,15 @@ ms.locfileid: "285315"
 - 次の簡単入力フィールドがそのグループ内にある場合に、折りたたまれたクイック タブ (フィールド グループ) を展開する。
 - そのページの最後の簡単入力フィールドに到達すると一回りして最初のフィールドに戻る。
  
-<!--
-## Try it now
-Experience the difference between using Tab and Enter keys on a new sales order by signing in to your online environment at https://businesscentral.dynamics.com/?page=42&mode=create
-## Resources
-Using Quick Entry 
-Keyboard Shortcuts
-Personalize your workspace
-Technical Documentation: QuickEntry property
-Technical Documentation: Using the Designer
--->
+## <a name="try-it-now"></a>試してみましょう
+[https://businesscentral.dynamics.com/?page=42&mode=create](https://businesscentral.dynamics.com/?page=42&mode=create) でオンライン環境にログインして、新しい販売注文で Tab キーを使用する場合と Enter キーを使用する場合の違いを体験してください。
+
+## <a name="resources"></a>リソース
+[簡単入力の使用](https://docs.microsoft.com/dynamics365/business-central/ui-enter-data#QuickEntry)<br>  
+[キーボード ショートカット](https://aka.ms/bckeys)  <br>
+[ワークスペースのパーソナライズ](https://docs.microsoft.com/dynamics365/business-central/ui-personalization-user)  <br>
+[技術文書: QuickEntry プロパティ](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/properties/devenv-quickentry-property)  <br>
+[技術文書: デザイナーの使用](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-inclient-designer)  
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。 Business Central フォーラム ([https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas)) をご利用ください。

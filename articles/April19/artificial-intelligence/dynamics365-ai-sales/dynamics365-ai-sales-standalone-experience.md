@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: renwe
 ms.reviewer: ''
 ms.openlocfilehash: 0dbb2c32b6b85f04799e2ed0cd08f95940690e6f
-ms.sourcegitcommit: 1a61095607f38831541a95f4ceb2a54bb756a41b
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "879331"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225038"
 ---
 #  <a name="sales-insights-application-for-sales-managers"></a>営業マネージャー向けの Sales Insights アプリケーション
 [!include[dynamics365-ai-sales banner](../../includes/dynamics365-ai-sales.md)]

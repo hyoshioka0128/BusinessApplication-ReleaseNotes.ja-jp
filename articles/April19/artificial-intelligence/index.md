@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: shellyha
 ms.reviewer: shellyha
 ms.openlocfilehash: 6f855e6a47baa5563174f87b95de8e4a0e245def
-ms.sourcegitcommit: cb60b8678619bdabcbea7c0bc29027c5af897b17
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/28/2019
-ms.locfileid: "770467"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225087"
 ---
 #  <a name="overview-of-artificial-intelligence-ai-capabilities-in-the-april-19-release"></a>2019 年 4 月リリースでの人工知能 (AI) 機能の概要
 
@@ -36,7 +36,7 @@ ms.locfileid: "770467"
 2019 年 4 月リリースでは、検索を作成しながら関連トピックを提案することから始めて、組織は重要な質問に回答できるようになります。 データ分析は、Bing 検索データとソーシャル メディア上の情報を関連付けることにより、さらに強力で洗練されたものになります。 さらに、アラート (毎日または毎週更新される電子メール サービス) では、ユーザーは自分にとって重要なトピックの最新情報を得ることができます。
 
 ## <a name="dynamics-365-customer-insights-enhancements"></a>Dynamics 365 Customer Insights の機能拡張
-[Dynamics 365 Customer Insights](dynamics365-ai-customer-insights/index.md) では、すべての組織が顧客データを統合して理解し、インテリジェントなインサイトとアクションに利用できます。 2019 年 4 月のリリースでは、組織は、顧客データを統一して充実させ、AI 主導型エクスペリエンスを利用してソース間で顧客データをクレンジングおよび標準化し 、Dynamics 365 のビジネス プロセスワーク フローにコンテキスト対応の顧客 "カード" を埋め込み、予測モデルをカスタマイズし、独自の顧客アプリとダッシュボードを構築する、といったことができるようになります。
+[Dynamics 365 Customer Insights](dynamics365-ai-customer-insights/index.md) では、すべての組織が顧客データを統合して理解し、インテリジェントなインサイトとアクションに利用できます。 2019 年 4 月のリリースでは、組織は、顧客データを統一して充実させ、AI 主導型エクスペリエンスを利用してソース間で顧客データをクレンジングおよび標準化し、Dynamics 365 のビジネス プロセスワーク フローにコンテキスト対応の顧客 "カード" を埋め込み、予測モデルをカスタマイズし、独自の顧客アプリとダッシュボードを構築する、といったことができるようになります。
 
 ## <a name="dynamics-365-fraud-protection-availability"></a>Dynamics 365 Fraud Protection の利用可能性
 [Dynamics 365 Fraud Protection](dynamics365-fraud-protection/index.md) では最初に、e コマースにおける支払い詐欺防止と関連するシナリオに焦点を当てます。 e コマース業者は詐欺損失を減らし、銀行の受入率を上げて、より高い収益を生み出し、顧客のオンライン ショッピング エクスペリエンスを向上させることができます。

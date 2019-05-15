@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: antonfrMSFT
 ms.reviewer: mihart
 ms.openlocfilehash: e41da8d4b1875eb5abfbd15c98263b97560e6283
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "849879"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225130"
 ---
 # <a name="new-diagram-view-to-visualize-dataflow-dependencies"></a>データフローの依存関係を視覚化する新しいダイアグラム ビュー
 

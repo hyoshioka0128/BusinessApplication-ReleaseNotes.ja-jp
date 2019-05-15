@@ -11,11 +11,11 @@ ms.custom:
 ms.service: dynamics-365-customerservice
 ms.author: v-jowigh
 ms.openlocfilehash: d43f6b841dcbaddfb322b1484825e9b2a915fe21
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406364"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225095"
 ---
 #  <a name="order-and-manage-risk-rules"></a>リスク ルールの順序付けと管理
 [!include[dynamics365-fraud-protection banner](../../../includes/dynamics365-fraud-protection.md)]

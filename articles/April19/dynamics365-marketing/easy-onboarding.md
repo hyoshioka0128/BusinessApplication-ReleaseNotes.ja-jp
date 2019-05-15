@@ -8,11 +8,11 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.openlocfilehash: 0be801890f266509a6629681d2fd4fb067fc1cc2
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "405063"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225358"
 ---
 # <a name="easy-onboarding"></a>オンボーディングが簡単
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]

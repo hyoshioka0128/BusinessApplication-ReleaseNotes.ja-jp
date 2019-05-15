@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: ornella
 ms.reviewer: v-brycho
 ms.openlocfilehash: fd33de1fa535f641054d88ed1cf25d41c70a5834
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "405008"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225114"
 ---
 # <a name="measurement-tool-improvements"></a>測定ツールの改善
 [!include[microsoft-dynamics365-layout banner](../../includes/microsoft-dynamics365-layout.md)]

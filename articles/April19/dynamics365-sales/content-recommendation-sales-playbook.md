@@ -10,12 +10,12 @@ ms.assetid: d9319480-1ec0-9202-ee03-94b7c9584de0
 author: snaitik
 ms.author: naitikds
 ms.reviewer: shujoshi
-ms.openlocfilehash: 30c65dcb00d1b5359777cfb0f45df59e1f3ae359
-ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
+ms.openlocfilehash: 1106bf4d770e601170ac38192397508a4184ddb8
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "847497"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224867"
 ---
 #  <a name="playbook-enhancements-with-content-recommendations"></a>コンテンツのレコメンデーションを含むプレイブックの機能強化
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -42,3 +42,5 @@ ms.locfileid: "847497"
 
 > [!NOTE]
 > プレイブックによるコンテンツのレコメンデーションは、営業ハブでのみ利用でき、Sales Professional アプリケーションでは利用できません。
+>
+> この機能は、統一インターフェイスでのみ使用できます。

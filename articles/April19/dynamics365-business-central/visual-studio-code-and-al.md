@@ -10,11 +10,11 @@ ms.service: business-applications
 ms.author: pborring
 audience: developer, admin, citizen developer, customizer
 ms.openlocfilehash: f9d612c6593ad5e239859320a2ad66302f02c02f
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "404755"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225325"
 ---
 # <a name="visual-studio-code-and-al"></a>Visual Studio Code と AL
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

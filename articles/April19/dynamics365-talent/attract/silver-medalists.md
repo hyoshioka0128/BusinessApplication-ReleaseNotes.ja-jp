@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: 6b9a800e66e6c350d1c9d98e0c04c3ea52c93d1f
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210270"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225391"
 ---
 #  <a name="designate-silver-medalists-to-track-high-value-candidates"></a>銀メダリストを指名して高価値な候補者を追跡する 
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]

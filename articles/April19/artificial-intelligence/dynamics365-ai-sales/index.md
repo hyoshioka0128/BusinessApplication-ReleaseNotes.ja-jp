@@ -6,10 +6,14 @@ ms.date: 02/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: renwe
-ms.reviewer: null
+ms.reviewer: ''
+ms.openlocfilehash: 880333ddd5fe7e314edffb10f304abd1bbb9437d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224926"
 ---
-
-
 # <a name="overview-of-ai-for-sales-april-19-release"></a>AI for Sales の 2019 年 4 月リリースの概要
 [!include[dynamics365-ai-sales banner](../../includes/dynamics365-ai-sales.md)]
 

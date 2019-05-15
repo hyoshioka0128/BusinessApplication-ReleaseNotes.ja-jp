@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: antonfrMSFT
 ms.reviewer: mihart
 ms.openlocfilehash: ffbb640980acf05aba83f30a21be90434f9c7670
-ms.sourcegitcommit: e9ae36f4f7ff145fcdc3d3ebfb2080fc33083f69
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "849637"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225089"
 ---
 # <a name="incremental-dataflow-refresh"></a>データフローの増分更新
 [!include[business-intelligence banner](../../../includes/business-intelligence.md)]

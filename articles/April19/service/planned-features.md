@@ -9,12 +9,12 @@ ms.assetid: 0aa924a3-84fd-4371-8dd1-f66dc623d2b5
 author: DeepapMS
 ms.author: Deepap
 ms. reviewer: anjgup
-ms.openlocfilehash: 0b5d407fbe442227d2a6d3528ac2652b939b4488
-ms.sourcegitcommit: 0f62a62236557be57864a216d36c692aa8fccddb
+ms.openlocfilehash: 7e1b2c5709a268e20aa0dac92059ad22eb199763
+ms.sourcegitcommit: d38444f318edcbde1d3c922cbf676072b87e5fbb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/29/2019
-ms.locfileid: "907533"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "1447208"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-for-customer-service"></a>Dynamics 365 for Customer Service の新機能と予定されている機能 
 
@@ -30,19 +30,16 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | 機能                                                                          | リリースの種類         | 日付 |
 |----------------------------------------------------------------------------------|----------------------|----------------------|
 | **コア Customer Service**       |        |        |
-| [サポート案件の解決の拡張性](dynamics365-customer-service/case-management-case-resolution-extensibility.md) | 一般提供 | 2019 年 6 月            |
 | [サポート案件フォームの UI の機能強化](dynamics365-customer-service/customer-service-key-enhancements.md#case-form-ui-enhancements)      |  一般提供       |  2019 年 2 月      |
-| [タイムラインの機能強化](dynamics365-customer-service/customer-service-key-enhancements.md#timeline-enhancements)    |  一般提供       |  2019 年 4 月      |
-| [SLA タイマーで経過時間と残り時間を表示](dynamics365-customer-service/customer-service-key-enhancements.md#show-elapsed-and-remaining-time-on-sla-timer)    |  パブリック プレビュー       |  2019 年 8 月      |
-| [SLA タイマーでの営業時間と実際の時間の表示](dynamics365-customer-service/customer-service-key-enhancements.md#show-business-and-actual-hours-on-sla-timer)   |  パブリック プレビュー       |  2019 年 8 月      |
-| [ナレッジ記事のテンプレート](knowledge-management/km-templates.md)                              | パブリック プレビュー | 2019 年 3 月             |
-| [ナレッジ マネージメントの分析](knowledge-management/km-analytics.md)                                    | パブリック プレビュー       | 2019 年 4 月             |
-| [ナレッジ記事の評価](knowledge-management/knowledge-article-rating.md)                                | 一般提供      | 2019 年 4 月    |
-| [ナレッジ記事の自動フィルタリング](knowledge-management/auto-filter-knowledge-articles.md)                                  | 一般提供       | 2019 年 4 月    |
-| [Chrome プロセスを使用して Web アプリケーションを Unified Service Desk にホストする](dynamics365-customer-service/unified-service-desk/use-chrome-browser-host-web-applications.md) | パブリック プレビュー | 2019 年 3 月 8 日 |
-| [Unified Service Desk で Channel Integration Framework を使用する](dynamics365-customer-service/unified-service-desk/use-channel-integration-framework-unified-service-desk.md) | パブリック プレビュー | 2019 年 3 月 8 日 |
-| [Unified Service Desk に対するシングル サインオン](dynamics365-customer-service/unified-service-desk/Single-Sign-On-for-Unified-Service-Desk.md) | パブリック プレビュー | 2019 年 3 月 8 日 |
-| [エージェント固有の構成のキャッシュ](dynamics365-customer-service/unified-service-desk/Cache-specific-configurations-for-agents.md) | パブリック プレビュー | 2019 年 3 月 8 日 |
+| [タイムラインの機能強化](dynamics365-customer-service/customer-service-key-enhancements.md#timeline-enhancements)    |  一般提供       |  2019 年 6 月      |
+| [ナレッジ記事のテンプレート](knowledge-management/km-templates.md)                              | パブリック プレビュー | 2019 年 6 月             |
+| [ナレッジ記事の評価](knowledge-management/knowledge-article-rating.md)                                | 一般提供      | 2019 年 6 月    |
+| [ナレッジ記事の自動フィルタリング](knowledge-management/auto-filter-knowledge-articles.md)                                  | 一般提供       | 2019 年 6 月    |
+| [Chrome プロセスを使用して Web アプリケーションを Unified Service Desk にホストする](dynamics365-customer-service/unified-service-desk/use-chrome-browser-host-web-applications.md) | 一般提供 | 2019 年 4 月 10 日 |
+| [Unified Service Desk で Channel Integration Framework を使用する](dynamics365-customer-service/unified-service-desk/use-channel-integration-framework-unified-service-desk.md) | 一般提供 | 2019 年 4 月 10 日 |
+| [Unified Service Desk に対するシングル サインオン](dynamics365-customer-service/unified-service-desk/Single-Sign-On-for-Unified-Service-Desk.md) | 一般提供 | 2019 年 4 月 10 日 |
+| [エージェント固有の構成のキャッシュ](dynamics365-customer-service/unified-service-desk/Cache-specific-configurations-for-agents.md) | 一般提供 | 2019 年 4 月 10 日 |
+| [スタック通知](dynamics365-customer-service/unified-service-desk/StackNotification.md) | 一般提供 | 2019 年 4 月 10 日 |
 | **Omni-channel Engagement Hub**       |        |        |
 | [マルチセッション エージェント エクスペリエンス (Unified Service Desk)](omni-channel-engagement-hub/multi-session-agent-experiences-web-usd.md) | 一般提供 | 2019 年 7 月\*           |
 | [マルチセッション エージェント エクスペリエンス (Web)](omni-channel-engagement-hub/multi-session-agent-experiences-web-usd.md) | パブリック プレビュー | 2019 年 4 月           |
@@ -54,3 +51,4 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [お客様が自分のボットを持ち込める機能](omni-channel-engagement-hub/customer-owned-bots-omni-channel-engagement-hub.md)       | パブリック プレビュー       | 2019 年 4 月             |
 
 \*2019 年 7 月にカナダ、米国、政府機関クラウド (GCC) の地域/国、ヨーロッパで使用可能になり、その後その他の地域に展開されます。
+

@@ -2,18 +2,18 @@
 title: Dynamics 365 for Retail の新機能と予定されている機能 (2019 年 4 月)
 description: このトピックでは、Dynamics 365 for Retail でリリース予定の機能の一覧を示します。
 author: ReneeW-CPub
-ms.date: 01/21/2019
+ms.date: 04/11/2019
 ms.assetid: 8cf8e242-945a-45b3-9b88-7d7b960314ba
 ms.topic: article
 ms.service: business-applications
 ms.author: josaw
 ms.reviewer: josaw
-ms.openlocfilehash: edfc71037ae1bf81f960f229be72d2bf2e8e9ae5
-ms.sourcegitcommit: 03de13679b4a53812274475e957d0124e6f4dd35
+ms.openlocfilehash: 895c39e4f8a7eb8e10f00e0b341020ae94b45d9f
+ms.sourcegitcommit: 7fc1e31dbcdd6afe3b8447803a8e63d77d796e7e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "838078"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "1446461"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-for-retail"></a>Dynamics 365 for Retail の新機能と予定されている機能
 
@@ -29,7 +29,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 
 | 機能                                                                                | リリースの種類         | 日付            |
 |----------------------------------------------------------------------------------------|----------------------|-----------------------------------------------|
-| [製品の見つけやすさの改善](product-discoverability-enhancements.md)                 | 一般提供 | 2019 年 4 月                                      |
+| [e コマース統合での支払い方法の一覧表示](ListPI_RN.md)                        | 一般提供 | 2019 年 4 月             |
 | [Retail Cloud Scale Unit - 複数地域](retail-cloud-scale-unit-multi-region.md)                        | 一般提供 | 2019 年 4 月             |
 | [Retail 更新プログラムの配信](retail-broadcast-updates.md)                                          | 一般提供 | 2019 年 4 月             |
 | [Retail 拡張プラットフォームと開発者エクスペリエンスの改善](retail-extension-platform-developer-experience-enhancement.md)  | 一般提供 | 2019 年 4 月             | 
@@ -38,6 +38,8 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [ポーランド向けの会計プリンター統合サンプル](fiscal-printer-integration-sample-poland.md)           | 一般提供 | 2019 年 4 月                                    |
 | [チェコ共和国向けの会計サービス統合サンプル](fiscal-service-integration-sample-czech-republic.md) | 一般提供 | 2019 年 5 月                                      |
 |[オムニチャネル自動請求](omni-channel-auto-charges.md)  |一般提供  | 2019 年 4 月 |
+| [実行時にハードウェア ステーションのマーチャント プロパティを更新する](HWSMerchUpdate.md)                        | 一般提供 | 2019 年 7 月             |
+| [製品の見つけやすさの改善](product-discoverability-enhancements.md)                 | パブリック プレビュー | 2019 年 9 月                                      |
 
 
 

@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: dileeps
 ms.reviewer: shjais
 ms.openlocfilehash: 7e5266e9c93a46336b29788e788797b05f5d077c
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "211103"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225308"
 ---
 #  <a name="displaying-external-data-in-portals"></a>ポータルでの外部データの表示
 [!include[dynamics365-portals banner](../includes/dynamics365-portals.md)]

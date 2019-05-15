@@ -8,11 +8,11 @@ ms.date: 01/21/2019
 ms.topic: article
 ms.service: business-applications
 ms.openlocfilehash: de94b3aa397d9231b5a0b5e23b008542fc779098
-ms.sourcegitcommit: ac307fd892ac55f69fd1c076ab2e9135da9528ee
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "720303"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225261"
 ---
 # <a name="extensibility-for-campaigns-and-segments"></a>キャンペーンとセグメントの拡張性
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]

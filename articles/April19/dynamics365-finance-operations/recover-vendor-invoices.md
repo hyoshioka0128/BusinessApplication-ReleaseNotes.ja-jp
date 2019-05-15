@@ -3,7 +3,7 @@ title: 仕入先請求書の回収
 description: このトピックでは、仕入先請求書を回収する方法について説明します。
 author: aprilolson
 manager: AnnBe
-ms.date: 03/25/2019
+ms.date: 04/11/2019
 ms.reviewer: shylaw
 ms.topic: article
 ms.prod: ''
@@ -11,12 +11,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: aolson
 audience: end user
-ms.openlocfilehash: aef234ec9631195f3123ac6120324c5ffdd10945
-ms.sourcegitcommit: caaacb1fb5bb3600848a9e2205ab4f04ecf7e749
+ms.openlocfilehash: d11df7eab2c8ebd4f70df3ec0512e9818825d580
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/28/2019
-ms.locfileid: "902335"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225207"
 ---
 # <a name="recover-vendor-invoices"></a>仕入先請求書の回収
 
@@ -31,4 +31,4 @@ ms.locfileid: "902335"
  
 [仕入先請求書の回収] ページを使用して、仕入先請求書を回収または解放し、編集できるようにすることができます。 [仕入先請求書の回収] ページを有効にするには、[買掛金管理パラメーター] ページを使用します。
 
-
+詳細については、[仕入先請求書の概要についてのヘルプ トピック](https://docs.microsoft.com/dynamics365/unified-operations/financials/accounts-payable/vendor-invoices-overview)を参照してください。

@@ -11,11 +11,11 @@ ms.technology: ''
 ms.author: kepontop
 audience: administrator
 ms.openlocfilehash: f47ada053b21d0e4464676b80a2879a4e494e9ac
-ms.sourcegitcommit: b9117e0a006fe421a672a4f6a7fbf0276efbddfa
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "878733"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224901"
 ---
 # <a name="support-for-sql-server-data-compression"></a>SQL Server データ圧縮のサポート
 
@@ -23,7 +23,7 @@ ms.locfileid: "878733"
 
 Business Central では 2019 年 4 月現在、SQL Server データ圧縮の使用はサポートされている構成です。
 
-データ圧縮を使用し、データベース内のテーブルを選択してサイズを減らすことができます。 スペースの節約に加えて、データ圧縮は、データがより少ないページに格納され、クエリでディスクから読み取る必要があるページが少なくなるので、 I/O 集約型ワークロードのパフォーマンスの向上に役立ちます。 これは、ストレージ システムが SSD ではなくディスクに基づいている場合に特に便利です。
+データ圧縮を使用し、データベース内のテーブルを選択してサイズを減らすことができます。 スペースの節約に加えて、データ圧縮は、データがより少ないページに格納され、クエリでディスクから読み取る必要があるページが少なくなるので、I/O 集約型ワークロードのパフォーマンスの向上に役立ちます。 これは、ストレージ システムが SSD ではなくディスクに基づいている場合に特に便利です。
 
 AL の CompressionType プロパティを使用することにより、テーブルのメタデータで圧縮を構成し、Business Central のテーブル同期プロセスに SQL Server テーブルの変更を処理させることも、SQL Server で直接データ圧縮を制御することもできます。
 

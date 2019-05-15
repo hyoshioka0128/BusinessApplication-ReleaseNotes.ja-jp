@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: 3ee596139828d811f25c1bf1e6c3cb1b905dc850
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210940"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225192"
 ---
 #  <a name="automatic-ledger-settlements"></a>自動元帳決済
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

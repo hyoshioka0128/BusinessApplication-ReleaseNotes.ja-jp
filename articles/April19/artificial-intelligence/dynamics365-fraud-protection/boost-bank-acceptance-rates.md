@@ -11,11 +11,11 @@ ms.custom:
 ms.service: dynamics-365-customerservice
 ms.author: v-jowigh
 ms.openlocfilehash: b290436b7d5f813dd9d42386c3fc90a49eadc996
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406251"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225014"
 ---
 #  <a name="boost-bank-acceptance-rates"></a>銀行の受入率の向上
 [!include[dynamics365-fraud-protection banner](../../includes/dynamics365-fraud-protection.md)]

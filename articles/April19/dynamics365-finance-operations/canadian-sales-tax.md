@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: 7f7b1714e25e0704d3d9970f972d22fe47578d22
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "895513"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225191"
 ---
 # <a name="canadian-harmonized-sales-tax"></a>カナダの統一消費税
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

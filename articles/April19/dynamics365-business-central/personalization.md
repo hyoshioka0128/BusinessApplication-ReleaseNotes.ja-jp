@@ -10,12 +10,12 @@ ms.service: business-applications
 ms.technology: ''
 ms.author: mikebc
 audience: end user
-ms.openlocfilehash: d9fad98e87da1bfa4e39486701da21d3ae1a1b6b
-ms.sourcegitcommit: 92b7053f06513207fc880a7ce9dabb00b4df5816
+ms.openlocfilehash: 24d28961f30cf1bb6006700b0953d986697923f1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "723628"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225171"
 ---
 # <a name="personalization-enhancements"></a>個人用設定の改善
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -25,7 +25,7 @@ ms.locfileid: "723628"
 ## <a name="optimize-for-productivity-by-adjusting-the-action-bar"></a>アクション バーの調整による生産性の最適化
 1 つのサイズがすべてに適合するとは限りません。 ユーザーは、リスト、ワークシート、カード、またはドキュメント ページ上のアクションのレイアウトを微調整して、それらの正確な動作を最適化することができます。 自分のタスク、ロール、部署に関連しないアクションは非表示にします。 グループ間でのアクションの移動や、グループの非表示または並べ替えを行います。 繊細なビジュアル インジケーターは、Business Central の 2019 年 4 月のリリースで何が可能であるかをユーザーにガイドします。
 
-![ページのアクション バーで個々のアクションの個人用設定を可能にするメニューのコンセプト デザイン。](media/personalize-actions.png "アクションのパーソナライズ")
+![ページのアクション バーで個々のアクションの個人用設定を可能にするメニューのコンセプト デザイン](media/personalize-actions.png "アクションのパーソナライズ")
 
 ## <a name="optimize-for-data-input-with-quick-entry"></a>簡単入力によるデータ入力の最適化
 簡単入力はデスクトップ ユーザーにとって生産性の高い機能であり、レコードの繰り返し入力に要する時間を短縮します。 フィールドで Enter キーを押すと、フォーカスが次の編集可能な簡単入力フィールドに移動します。自動入力されているフィールドはスキップされ、指定されているフィールドもスキップされることがあります。 ユーザーはすべてのページでフィールドの動作をパーソナライズし、そのユーザーや部署がレコードを入力するときの通常の動作を最適化できます。 個人用設定メニューを使用して、簡単入力のフィールドを追加または除外するだけです。

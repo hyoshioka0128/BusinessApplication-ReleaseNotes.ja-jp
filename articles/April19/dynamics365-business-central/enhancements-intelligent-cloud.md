@@ -9,11 +9,11 @@ ms.author: jenolson
 audience: Admin
 ms.date: 01/21/2019
 ms.openlocfilehash: 234f7f631351cc6e302d4d7827c8379ed5aaacfc
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210604"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225067"
 ---
 # <a name="enhancements-to-the-intelligent-cloud-for-dynamics-smb-and-dynamics-365-business-central"></a>Dynamics SMB と Dynamics 365 Business Central 向けの Intelligent Cloud の機能強化
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]

@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: ornella
 ms.reviewer: v-brycho
 ms.openlocfilehash: 7f7e5b6081e053baffbb4689e83afc5fd3b6e7e8
-ms.sourcegitcommit: dc43e428dad399477e12f9b33d0a01339198a31b
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "780282"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225107"
 ---
 # <a name="learning-cards-provide-step-by-step-instructions-for-layout-features"></a>Layout 機能のステップ バイ ステップの説明を提供する学習カード
 

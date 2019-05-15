@@ -3,21 +3,20 @@ title: モデル駆動型フォームへのキャンバス アプリの埋め込
 description: モデル駆動型フォームへのキャンバス アプリの埋め込みの一般提供開始と機能強化
 author: aneesmsft
 ms.reviewer: anneta
-ms.date: 03/14/2019
-ms.assetid: f078d43c-a1e3-e811-a97a-000d3a1378f6
+ms.date: 04/14/2019
+ms.assetid: 6b87bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: aneesa
 audience: Power user
-ms.openlocfilehash: 19c0a02c352d1d11adb621c58bec4723397f294d
-ms.sourcegitcommit: ca3b94f829721c2ba02b25134536a58babed2d2b
+ms.openlocfilehash: d00f91e37b4e3f2f5a61ca104af587c2a517bb80
+ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "900164"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "1445916"
 ---
 # <a name="embedding-canvas-apps-in-model-driven-forms-is-generally-available-and-enhanced"></a>モデル駆動型フォームへのキャンバス アプリの埋め込みの一般提供開始と機能強化
-
 
 [!include[microsoft-powerapps banner](../includes/microsoft-powerapps.md)]
 
@@ -26,7 +25,7 @@ ms.locfileid: "900164"
 プレビュー リリース以降、埋め込みキャンバス アプリには、モデル駆動型フォームと埋め込みキャンバス アプリの統合をいっそう深くできる新しい機能が追加されています。 次のような機能が含まれます。
 
 - 埋め込みキャンバス アプリからホスト モデル駆動型フォーム上のメソッドをトリガーする。
-- 新しいモデル駆動型フォーム デザイナーにより強化および合理化されたオーサリング エクスペリエンス。
+- 新しいモデル駆動型フォーム デザイナーにより強化および効率化されたオーサリング エクスペリエンス。
 
 > [!NOTE]
 > この機能は、統一インターフェイスでのみ使用できます。

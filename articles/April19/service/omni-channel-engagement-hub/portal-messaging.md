@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: 73ffe16a85a0613958cb79d565a9cd28f83d1b32
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210420"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225368"
 ---
 #  <a name="portal-messaging"></a>ポータルのメッセージ機能 
 [!include[service banner](../../includes/service.md)]

@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: prateeks
 ms.openlocfilehash: a74758720e888e54b0cad381d5ef678673ba6428
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406252"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225502"
 ---
 #  <a name="design-a-survey"></a>調査の設計
 [!include[forms-pro banner](../includes/forms-pro.md)]

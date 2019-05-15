@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.openlocfilehash: f4c3996f77c28fadf08ce6eac55189297e607883
-ms.sourcegitcommit: 1a326997459281936558d131b647fad3a28e5aef
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "287884"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225289"
 ---
 #  <a name="simplified-view---templates"></a>簡素化されたビュー - テンプレート 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

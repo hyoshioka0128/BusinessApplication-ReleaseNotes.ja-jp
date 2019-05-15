@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: mirzaab
 ms.openlocfilehash: eaf591959dc026da2656155f488d08ee958d6d14
-ms.sourcegitcommit: 6b5a05bc2ba73d392be45ad6eb5369c6b810ebf0
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "390353"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225249"
 ---
 # <a name="work-line-details"></a>作業ラインの詳細
 

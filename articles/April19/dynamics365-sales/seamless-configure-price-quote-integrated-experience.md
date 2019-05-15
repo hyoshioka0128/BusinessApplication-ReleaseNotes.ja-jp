@@ -2,7 +2,7 @@
 title: 価格見積作成ツールとのシームレスな統合エクスペリエンス
 description: 価格見積作成機能を使用すると、販売担当者は顧客に対する適切な製品ソリューションを効率的にまとめて、それらの見積もりを出すことができます。
 keywords: ''
-ms.date: 01/21/2019
+ms.date: 04/22/2019
 ms.service:
 - business-applications
 ms.topic: article
@@ -10,12 +10,12 @@ ms.assetid: 1ef1155a-bfd6-aaa2-4cd1-f4016b81d268
 author: bharavar
 ms.author: bharavar
 ms.reviewer: shujoshi
-ms.openlocfilehash: b4a0db1cdf506969ee2491d07d2622d92ca0197e
-ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
+ms.openlocfilehash: 9205b1cc1cfc01fd9e3ade850f2a58f78f661114
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "847262"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224855"
 ---
 #  <a name="seamless-configure-price-quote-integrated-experience"></a>価格見積作成ツールとのシームレスな統合エクスペリエンス 
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -42,8 +42,12 @@ Dynamics 365 for Sales では、優れた CPQ ソリューション プロバイ
 
 -   営業担当者は、CPQ ソリューション プロバイダーのサービスを複数の Microsoft サービスを統合することで、イマーシブで直感的な製品構成を体験できるようになります。
 
--   Common Data Service (CDS) for Apps をデータの接着剤として使用し、選択した CPQ ソリューション プロバイダーと Dynamics 365 for Sales をシームレスに統合することで、Dynamics 365 Backoffice アプリ (Dynamics 365 for Finance and Operations および Dynamics 365 Business Central) によって生成された製品カタログデータを読み取ると共に、見積もり、値引き、および製品構成データを書き戻すことができます。これにより、複数のソースから取得したデータ上にインテリジェントな分析アプリケーションを構築することができます。
+-   Common Data Service をデータの接着剤として使用し、選択した CPQ ソリューション プロバイダーと Dynamics 365 for Sales をシームレスに統合することで、Dynamics 365 Backoffice アプリ (Dynamics 365 for Finance and Operations および Dynamics 365 Business Central) によって生成された製品カタログデータを読み取ると共に、見積もり、値引き、および製品構成データを書き戻すことができます。これにより、複数のソースから取得したデータ上にインテリジェントな分析アプリケーションを構築することができます。
+
+-  営業担当者が PDF ドキュメントを生成して保存し、電子メールで送信できます (5 月 - 6 月)。
 
 
 > [!NOTE]
-> パートナーの CPQ ソリューションは、営業ハブと Sales Professional の両方のアプリケーションで利用できます。
+> パートナーの CPQ ソリューションを営業ハブと Sales Professional の両方のアプリケーションで利用できます。
+>
+> この機能は、統一インターフェイスでのみ使用できます。

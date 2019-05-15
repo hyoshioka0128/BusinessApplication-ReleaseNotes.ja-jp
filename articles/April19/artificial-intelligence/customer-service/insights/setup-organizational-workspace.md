@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: xiaoying
 ms.reviewer: v-stsau
 ms.openlocfilehash: f3d037f232d1107b80d337eb3eed5be387aeb800
-ms.sourcegitcommit: 3b77d2603bb0c2166c61729c589e1c2e2296fc9d
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "843735"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225035"
 ---
 # <a name="set-up-organizational-workspaces"></a>組織のワークスペースを設定する 
 [!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]

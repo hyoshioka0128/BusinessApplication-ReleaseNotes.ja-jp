@@ -9,12 +9,12 @@ ms.topic: article
 ms.assetid: 1dbeb187-adbf-92bf-c239-8ead1e788b30
 author: ReneeW-CPub
 ms.author: renwe
-ms.openlocfilehash: 5bf5eae361270ee7909ea7bfc2bf276aea792353
-ms.sourcegitcommit: eaab909534946036226ae04b39d3b4afd75e7929
+ms.openlocfilehash: e1a15f7679e8850d4bbeb760ef42a23a9cb70fbd
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "847716"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224832"
 ---
 #  <a name="microsoft-teams-integration"></a>Microsoft Teams 統合 
 [!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
@@ -29,7 +29,8 @@ Dynamics 365 app for Microsoft Teams を使用すると、営業チームは Dyn
 - **コラボレーション ハブ**: 取引をまとめるために必要なレコードに Office アプリケーションを使用してアクセスできます。
 - **機能間コラボレーション**: Dynamics 365 のユーザー アカウントをお持ちでない顧客や同僚と機能を超えて共同作業を行うことができます。
 - **ファイル統合**: Office 365 を使用して文書を共同編集し、自動的に Dynamics 365 と同期します。
-- **Teams のモバイル アプリ:** 外出先でも Dynamics 365 ボットを使用し、Microsoft Teams モバイル アプリからレコードを検索して更新できます。
+- **Teams のモバイル アプリ**: 外出先でも Dynamics 365 ボットを使用し、Microsoft Teams モバイル アプリからレコードを検索して更新できます。
+
 
 ## <a name="persona"></a>ペルソナ
 
@@ -38,4 +39,8 @@ Dynamics 365 app for Microsoft Teams を使用すると、営業チームは Dyn
 ## <a name="features"></a>機能
 - Teams チャネルに [Dynamics 365] タブを追加して Dynamics 365 のレコードにアクセスする。 Dynamics 365 ビューを使用して、Dynamics 365 の単一のレコード (1 つの営業案件など) だけでなく、複数のレコードでも幅広く共同作業を行うことができます。 
 - Dynamics 365 と Microsoft Teams の間でシームレスなドキュメント共同編集。
-- 会話を通じて一連のレコード ("アクティブな案件" など) について共同作業を行うことができる。Microsoft Teams モバイル アプリの Dynamics 365 ボットを使用して、外出先でもレコードに簡単にアクセスできます。
+- 会話を通じて一連のレコード ("アクティブな営業案件" など) について共同作業を行うことができる。Microsoft Teams モバイル アプリの Dynamics 365 ボットを使用して、外出先でもレコードに簡単にアクセスできます。
+
+> [!NOTE]
+> この機能は、統一インターフェイスでのみ使用できます。 
+

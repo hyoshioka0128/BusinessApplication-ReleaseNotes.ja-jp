@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: jimholtz
 ms.reviewer: jimholtz
 ms.openlocfilehash: d365cb1ba323a8b5c4762571fb0e379a90a283f4
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406372"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225060"
 ---
 # <a name="eliminate-data-silos-and-unify-customer-data"></a>データ サイロの排除と顧客データの統合 
 [!include[dynamics365-ai-customer-insights banner](../../includes/dynamics365-ai-customer-insights.md)]

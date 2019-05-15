@@ -10,11 +10,11 @@ ms.service: business-applications
 ms.author: henrikwh
 audience: developer, customizer
 ms.openlocfilehash: 2fe3f86669a26b270b980bc556dfeb63506bf64f
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210814"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225199"
 ---
 # <a name="standard-web-api"></a>標準 Web API 
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -77,7 +77,7 @@ Business Central では、OAS 3.0 の生成がサポートされる予定です�
 /journal({id})/journalLine(id)
 ```
 
-この例では、当該の制限により、 **journalLines** への**添付ファイル**が使いづらくなっています。リソースを直接アドレス指定する方法がないためです。
+この例では、当該の制限により、**journalLines** への**添付ファイル**が使いづらくなっています。リソースを直接アドレス指定する方法がないためです。
 
 ```
 /journal({id})/journalLine(id)/attachment(id)

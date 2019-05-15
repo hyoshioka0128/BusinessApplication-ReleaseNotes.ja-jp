@@ -11,11 +11,11 @@ ms.custom:
 ms.service: dynamics-365-customerservice
 ms.author: v-jowigh
 ms.openlocfilehash: 4ec1e58d47cf5b1b0d2c5f596caffa50e4a75f08
-ms.sourcegitcommit: a48a8ad8fbddb30b1d4f738911ddafffb9fb6ba1
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "406263"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225021"
 ---
 #  <a name="understand-your-decisions-made-in-dynamics-365-fraud-protection"></a>Dynamics 365 Fraud Protection で行われた決定の把握
 [!include[dynamics365-fraud-protection banner](../../../includes/dynamics365-fraud-protection.md)]

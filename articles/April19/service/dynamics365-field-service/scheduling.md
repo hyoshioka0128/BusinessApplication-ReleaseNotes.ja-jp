@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: dgittler
 ms.reviewer: shellyha
 ms.openlocfilehash: f6a6140b50c8d7bd352e9274398c9b7951240088
-ms.sourcegitcommit: 7a0b27faf75a86b1f5c7e82ff257f3d2b66ad81c
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "403797"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225490"
 ---
 #  <a name="scheduling-capabilities"></a>スケジューリング機能
 [!include[dynamics365-field-service banner](../../includes/dynamics365-field-service.md)]

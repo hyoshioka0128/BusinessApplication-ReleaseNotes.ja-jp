@@ -7,13 +7,18 @@ ms.topic: overview
 ms.service: business-applications
 ms.author: mhart
 ms.reviewer: m-hartmann
+ms.openlocfilehash: 40577a4e447e35cc82e9616cde59c9f9a3dd15fb
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.translationtype: HT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1224955"
 ---
-
 #  <a name="overview-of-dynamics-365-market-insights-april-19-release"></a>Dynamics 365 Market Insights 2019 年 4 月リリースの概要
 [!include[dynamics365-ai-market-insights banner](../../includes/dynamics365-ai-market-insights.md)]
 
 
-組織がデータ主導の分析情報を通じてより良い決定を下し、効率性を推進すると、ビジネスの変革が起こります。 Dynamics 365 Market Insights を使用すると、ビジネス プロフェッショナルは、消費者が自分のブランドや製品について**話したり、探したり、感じたり**していることに基づいて、アクションにつながる分析情報を収集できます。 これらのアクションにつながる分析情報を使用して、お客様は自社の市場で出現しつつあるトレンドを常に把握し、迅速に対応することができます。 ソーシャル シグナルに関する AI を活用した分析情報と、Microsoft 独自の Web および検索データを通じて、Market Insights は、消費者のセンチメント、検索の傾向、視聴者の関心、および製品のフィードバックに関する包括的かつ正確な理解を提供し、お客様が関連するニュース ストーリーや検索およびソーシャル インサイトを定期的に更新できるようにします。
+組織がデータ主導の分析情報を通じてより良い決定を下し、効率性を推進すると、ビジネスの変革が起こります。 Dynamics 365 Market Insights を使用すると、ビジネス専門家は、消費者が自社のブランドや製品について**話したり、探したり、感じたりしていること**に基づいて、アクションにつながる分析情報を収集できます。 これらのアクションにつながる分析情報を使用して、お客様は自社の市場で出現しつつあるトレンドを常に把握し、迅速に対応することができます。 ソーシャル シグナルに関する AI を活用した分析情報と、Microsoft 独自の Web および検索データを通じて、Market Insights は、消費者のセンチメント、検索の傾向、視聴者の関心、および製品のフィードバックに関する包括的かつ正確な理解を提供し、お客様が関連するニュース ストーリーや検索およびソーシャル インサイトを定期的に更新できるようにします。
 
 Dynamics 365 Market Insights の 2019 年 4 月リリースは、関連する分析情報を得るために監視する必要のある**関連トピックの提案** (企業、ブランド、製品、エンティティ - 既存および新規) から始めて、お客様が以下の質問に答えられるようにします。
 

@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: josaw
 ms.openlocfilehash: 30d187bf4f614103c5b01992db1b597dda1d2f6e
-ms.sourcegitcommit: 9a31d79f2ae098559c294503984e0d9ddc37c0ad
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "210810"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225176"
 ---
 #  <a name="accelerate-guide-creation-by-importing-an-existing-template-into-yours"></a>既存のテンプレートを自分のテンプレートにインポートすることでガイド作成に要する時間を短縮する
 

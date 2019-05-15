@@ -8,11 +8,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: aolson
 ms.openlocfilehash: 3d415fad5cf9f838ba29b366d9e1713b786b0290
-ms.sourcegitcommit: c8f2816cfd27cf7451e4651aa0038cc8400098d4
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2019
-ms.locfileid: "895515"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225185"
 ---
 # <a name="forecast-position-reports"></a>予測職位レポート 
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]

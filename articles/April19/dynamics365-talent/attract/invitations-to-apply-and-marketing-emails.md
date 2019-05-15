@@ -7,11 +7,11 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ''
 ms.openlocfilehash: 357e3897fbfc52d0534d4e5e7ae9314142c30a44
-ms.sourcegitcommit: 03de13679b4a53812274475e957d0124e6f4dd35
+ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "838151"
+ms.lasthandoff: 04/29/2019
+ms.locfileid: "1225282"
 ---
 # <a name="invitations-for-prospective-candidates"></a>見込み候補者への招待状
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
