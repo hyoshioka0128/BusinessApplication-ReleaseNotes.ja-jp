@@ -1,6 +1,11 @@
 {  
   "redirections": [
     {
+      "source_path": "articles/April19/business-intelligence/power-bi-desktop/end-user-exploration.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/admin-portal.md",
       "redirect_url": "../../change-history",
       "redirect_document_id": "false"
