@@ -1,5 +1,15 @@
+
 {  
   "redirections": [
+    {
+      "source_path": "articles/April19/business-intelligence/power-bi-mobile/home.md",
+      "redirect_url": "../../change-history",
+      "redirect_document_id": "false"
+    },    {
+      "source_path": "articles/April19/dynamics365-talent/core-hr/us-compliance-reports.md",
+      "redirect_url": "../../change-history#features-removed-from-release-notes-4",
+      "redirect_document_id": "false"
+    },
     {
       "source_path": "articles/April19/business-intelligence/power-bi-desktop/end-user-exploration.md",
       "redirect_url": "../../change-history",
