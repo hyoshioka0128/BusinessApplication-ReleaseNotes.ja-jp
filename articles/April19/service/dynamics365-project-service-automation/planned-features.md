@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: kfend
 ms.reviewer: annbe
-ms.openlocfilehash: 864ddba58b1f9b0bc0417a10f3c630a11d1f7e76
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: e1af4c93c64f6be67788a625394bb8f8570826d8
+ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225440"
+ms.lasthandoff: 05/29/2019
+ms.locfileid: "1608542"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-for-project-service-automation"></a>Dynamics 365 for Project Service Automation の新機能と予定されている機能
 [!include[service banner](../../includes/service.md)]
@@ -24,9 +24,9 @@ ms.locfileid: "1225440"
 
 **日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
-Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 
 | 機能                                             | リリースの種類         | 日付 |
 |-----------------------------------------------------|----------------------|----------------------|
-| [Project Service ソリューション](project-service-solution.md)                         | 一般提供 | 2019 年 7 月～ 9 月           |
+| [Project Service ソリューション](project-service-solution.md)                         | 一般提供 | 2019 年 7 月から 9 月           |

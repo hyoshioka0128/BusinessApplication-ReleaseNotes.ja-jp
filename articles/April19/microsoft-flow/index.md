@@ -1,20 +1,20 @@
 ---
 title: Microsoft Flow 2019 年 4 月リリースの概要
-description: ''
+description: お気に入りのアプリを Microsoft Flow と統合することで、タスクを自動化します。 ワークフローの自動化で、反復的なタスクを簡単にします。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 04/13/2019
+ms.date: 05/01/2019
 ms.assetid: 2cb5c700-835d-e911-a973-000d3a1c79c5
 ms.topic: overview
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 3ad67d8276ed18950b7fcde5d7f4b2a48308b88d
-ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
+ms.openlocfilehash: bed331912d351d47e4caead152edb67400d59ba7
+ms.sourcegitcommit: 2377f9a8537925401f30f33dd73d1eb1eecda35a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "1445376"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "1621734"
 ---
 # <a name="overview-of-microsoft-flow-april-2019-release"></a>Microsoft Flow 2019 年 4 月リリースの概要
 [!include[microsoft-flow banner](../includes/microsoft-flow.md)]

@@ -2,19 +2,19 @@
 title: エンタープライズ レベルのガバナンスとコンプライアンス
 description: Microsoft Flow は、データ セキュリティ、アプリケーション ライフサイクル管理、およびサポート性に関して組織を支援します。
 author: stepsic-microsoft-com
-ms.reviewer: deonhe
+ms.reviewer: MSFTMan
 ms.date: 04/13/2019
 ms.assetid: 9e1cc5ca-815d-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 3863f4d50b87453db2935c494722fe0035dd2dea
-ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
+ms.openlocfilehash: decb6982afff1c38e0d28d4e73c196978db4404b
+ms.sourcegitcommit: 2377f9a8537925401f30f33dd73d1eb1eecda35a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "1445232"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "1621558"
 ---
 # <a name="enterprise-grade-governance-and-compliance"></a>エンタープライズ レベルのガバナンスとコンプライアンス
 

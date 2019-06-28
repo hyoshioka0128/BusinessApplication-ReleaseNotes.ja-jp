@@ -3,19 +3,19 @@ title: リスト ビュー
 description: 独自の名前付きのフィルター処理されたリスト ビューを保存し、名前を変更し、削除し、他のユーザーと共有します。
 author: mikebcMSFT
 ms.reviewer: edupont
-ms.date: 02/25/2019
+ms.date: 06/10/2019
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
 ms.author: mikebc
 audience: developer, end user, customizer
-ms.openlocfilehash: 4e6dc8b2a04bf91b8dba9279db5466405de3673e
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 9d05c8832c64724b9768816471a6fdd58d51fd0f
+ms.sourcegitcommit: 336017dbdece373a5cb6d620dc1c8eb28c794e9a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225151"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "1629990"
 ---
 # <a name="list-views"></a>リスト ビュー
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -25,13 +25,14 @@ ms.locfileid: "1225151"
 開発者には、最近のクライアント用に Visual Studio Code でカスタム リスト ビューを作成するための新しいシンプルで直感的なモデルもあります。 開発者がそれぞれに固有のカスタム列レイアウトを使用してリストの代替ビューを作成できるようになるだけでなく、新しいビューによって以前のモデルの欠点のほとんどが解消されます。 たとえば、移動方法に関係なく、ビューが 1 つのリスト ページに表示されるようになりました。
 
 ## <a name="saving-and-personalizing-list-views"></a>リスト ビューの保存とパーソナライズ
-
-2019 年 4 月以降のマイナー更新で使用可能になり、ユーザーが自分のリスト フィルターや同様の個人用設定を保存して、異なるデータ スライス方法を作成できるようになります。 リスト ビューには、"販売する品目" のような名前が設定されていて、合計や分析コードに対するフィルター、適切なデータに動的にフィルターを適用するためのフィルター トークン (%MyCustomers など)、さらに複雑で調整されたリストのビューを作成できる異なる並べ替えが含まれる場合があります。 ユーザーはリストの異なるビューをすばやく切り替えることができます。これには、独自の個人的なビューや、ビジネス アプリケーションやロールに標準で付属するビューが含まれます。 他の個人用設定と同様に、リスト ビューは、ユーザーがサインインしているデバイスやブラウザーに関係なく、ユーザーと一緒に移動します。
-
-![フィルター ウィンドウのメニューを使用してリスト ビューへの変更を保存する方法を示す概念設計](media/list-views.png "リスト ビューへの変更の保存に関する概念設計")
-
+Business Central に対する 2019 年 4 月の更新プログラムでは、ビジネス ユーザーはフィルターを調整したり、変更をリストの新しいビューとして保存したりすることはできません。 この機能は、Dynamics 365 Business Central の 2019 年ウェーブ 2 リリース計画に移行されました。 https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/dynamics365-business-central/saving-personalizing-list-views で詳細をご確認ください。
 
 <!--
+Available in a minor update after April '19, users will be able to save their list filters and similar personalizations to create different ways of slicing their data. List views are given a name, such as "Items I sell," and might include filters on totals and dimensions, filter tokens (such as %MyCustomers) to dynamically filter to the right data, as well as different sorting allowing more complex and tailored views of a list. Users can quickly switch between different views of a list, which includes their own personal views or standard views in their business application or for their role. Similar to other personalizations, list views roam with the user no matter which device or browser they sign in to.
+
+![Concept design illustrating how changes to a list view could be saved using a menu in the filter pane](media/list-views.png "Concept design for saving changes to a list view")
+
+
 Describe the new feature, and then give an elevator pitch of the business value for it. Include high-value capabilities that light up something exciting for our customers. The feature should be something that a customer needs to plan for...definitely larger than a hotfix or bug fix.
 
 If the feature has been designated as a key feature, complete the entire template. Otherwise, only complete the **Business value**, **Describe the feature**, and **Status** sections.

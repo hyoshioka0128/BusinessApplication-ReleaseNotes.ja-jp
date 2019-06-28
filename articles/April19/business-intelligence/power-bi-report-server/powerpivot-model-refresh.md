@@ -1,4 +1,5 @@
 ---
+redirect_url: ../planned-features
 title: PowerPivot モデルの更新
 description: PowerPivot モデルが含まれる Excel のワークブックを最新の情報に更新できます。
 author: AdamDWilson
@@ -7,12 +8,12 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: 54458940461f4ddf3ca6abe33bfe188578fb802d
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 298b79a63f8d4737b19d447c1e21f8af4b3a177a
+ms.sourcegitcommit: e87f34899c2994cde37e92498623fb67e4176977
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225231"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "1608057"
 ---
 # <a name="powerpivot-model-refresh"></a>PowerPivot モデルの更新
 [!include[business-intelligence banner](../../includes/business-intelligence.md)]

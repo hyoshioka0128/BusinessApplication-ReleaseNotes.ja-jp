@@ -7,12 +7,12 @@ ms.reviewer: shjais
 ms.topic: article
 ms.service: business-applications
 ms.author: prateeks
-ms.openlocfilehash: 28025b4835903b63b1c58532e1e88053028c2b5c
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: b2bbf3ebfc2da8e6d323019aba419d2c55d3c958
+ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225459"
+ms.lasthandoff: 05/29/2019
+ms.locfileid: "1608520"
 ---
 #  <a name="whats-new-and-planned-for-microsoft-forms-pro"></a>Microsoft Forms Pro の新機能と予定されている機能 
 
@@ -24,7 +24,7 @@ ms.locfileid: "1225459"
 
 **日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
-Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 
 

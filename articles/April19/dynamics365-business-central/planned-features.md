@@ -7,13 +7,13 @@ ms.topic: summary
 ms.service: business-applications
 ms.author: edupont
 audience: Admin
-ms.date: 04/03/2019
-ms.openlocfilehash: 17a3716d8c876b32b0cbda542f6589667bb93e4f
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.date: 05/13/2019
+ms.openlocfilehash: 52794834e608323492b7620d405ff5ec41d6afe4
+ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1224904"
+ms.lasthandoff: 05/29/2019
+ms.locfileid: "1608457"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-business-central"></a>Dynamics 365 Business Central の新機能と予定されている機能
 
@@ -23,7 +23,7 @@ ms.locfileid: "1224904"
 
 **日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
-Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 ## <a name="application-enhancements"></a>アプリケーションの機能強化
 | 機能 | リリースの種類 | オンラインとオンプレミス |日付 |
@@ -52,7 +52,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [日付式でバックグラウンド ジョブをスケジュールする](application-enhancements.md#schedule-background-jobs-with-a-date-formula)| 一般提供 | 両方 | 2019 年 4 月 |
 | [転記された売上請求書の修正クレジットメモを作成するときに合計貸方金額を確認する](application-enhancements.md#check-for-total-amount-credited-when-creating-a-corrective-credit-memo-for-a-posted-sales-invoice)| 一般提供 | 両方 | 2019 年 4 月 |
 | [G/L エントリで説明を変更する](application-enhancements.md#change-descriptions-on-gl-entries)| 一般提供 | 両方 | 2019 年 4 月 |
-| [国および通貨の属性としての ISO コードの追加](application-enhancements.md#iso-codes-added-as-attributes-for-countries-and-currencies)| 一般提供 | 両方 | 2019 年 4 月 |
+| [国および通貨の属性としての ISO コードの追加](application-enhancements.md#add-iso-codes-as-attributes-for-countries-and-currencies)| 一般提供 | 両方 | 2019 年 4 月 |
 | [RapidStart コンフィギュレーション パッケージのエラーを確認してエクスポートする](application-enhancements.md#review-and-export-errors-in-rapidstart-configuration-packages)| 一般提供 | 両方 | 2019 年 4 月 |
 | [Excel からコンフィギュレーション パッケージにインポートされるデータを確認する](application-enhancements.md#review-data-imported-from-excel-to-a-configuration-package)| 一般提供 | 両方 | 2019 年 4 月 |
 | [前払転記をプレビューする](application-enhancements.md#preview-prepayment-posting)| 一般提供 | 両方 | 2019 年 4 月 |
@@ -60,7 +60,11 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [転記設定ページと G/L 勘定科目検索ですべての G/L 勘定科目を表示する](application-enhancements.md#show-all-gl-accounts-on-posting-setup-pages-and-in-gl-account-lookups)| 一般提供 | 両方 | 2019 年 4 月 |
 | [より多くのロール センター活動グループを使用する](application-enhancements.md#use-more-role-center-activity-groups)| 一般提供 | 両方 | 2019 年 4 月 |
 | [ドキュメントの住所フィールドをスキップするように UI をパーソナライズする](application-enhancements.md#personalize-the-ui-to-skip-over-the-address-field-on-documents)| 一般提供 | 両方 | 2019 年 4 月 |
-| [Business Central プラットフォームのバージョン番号を確認する](application-enhancements.md#check-the-business-central-platform-version-number)|一般提供 | 両方 | 2019 年 4 月 |
+|[コンフィギュレーション パッケージのエクスポートに列としてショートカット分析コードを含める](application-enhancements.md#include-shortcut-dimension-as-columns-in-configuration-package-exports)|一般提供 | 両方 | 2019 年 5 月 |
+|[移動オーダーに購買受領書明細行を入力する](application-enhancements.md#fill-transfer-orders-with-purchase-receipt-lines)|一般提供 | 両方 | 2019 年 5 月 |
+|[品目のコピー](application-enhancements.md#copy-items)|一般提供 | 両方 | 2019 年 5 月 |
+|[販売および購入がブロックされている品目を返品ドキュメントで使用する](application-enhancements.md#use-items-blocked-from-sales-and-purchasing-in-return-documents)|一般提供 | 両方 | 2019 年 5 月 |
+|[品目数量の丸めを展開および構成する](application-enhancements.md#expand-and-configure-item-quantity-rounding)|一般提供 | 両方 | 2019 年 5 月 |
 
 ## <a name="productivity-enhancements-for-business-users"></a>ビジネス ユーザーの生産性向上
 
@@ -93,7 +97,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [Business Central と Dynamics 365 for Sales の統合の強化](sales-integration-hardening.md) | 一般提供 | 両方 | 2019 年 4 月 |
 | [組織のテーマのカスタマイズ](unified-header.md)| 一般提供| クラウド | 2019 年 4 月 |
 | [アプリケーション ライフサイクル管理の機能強化](application-lifecycle-management.md)| 一般提供| 両方 | 2019 年 4 月 |
-| [Dynamics SMB と Dynamics 365 Business Central のインテリジェント クラウドの機能強化](enhancements-intelligent-cloud.md)| 一般提供 | 両方 | 2019 年 4 月 |
+| [Dynamics SMB と Dynamics 365 Business Central 向けのインテリジェント クラウドの機能強化](enhancements-intelligent-cloud.md)| 一般提供 | 両方 | 2019 年 4 月 |
 
 ## <a name="powerful-features-for-developers"></a>開発者向けの強力な機能
 

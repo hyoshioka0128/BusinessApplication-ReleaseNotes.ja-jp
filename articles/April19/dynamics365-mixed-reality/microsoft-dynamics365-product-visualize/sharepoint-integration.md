@@ -2,17 +2,17 @@
 title: Dynamics 365 Product Visualize で SharePoint 統合を使用して 3D コンテンツをインポートする
 description: Dynamics 365 Product Visualize で SharePoint 統合を使用して 3D コンテンツを Dynamics 365 for Sales の営業案件にインポートします。
 author: Mamithan
-ms.date: 02/21/2019
+ms.date: 05/15/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: mamithan
 ms.reviewer: v-brycho
-ms.openlocfilehash: b49f4495e50fa1044f6ebe63d323cc273dac6b7d
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 980e1d87b4507812935e9f22c2868c6b5675ba89
+ms.sourcegitcommit: cf4dbc9865a44606bbf9346d74fe8c4a3fc9a3b5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225247"
+ms.lasthandoff: 05/16/2019
+ms.locfileid: "1578977"
 ---
 # <a name="sharepoint-integration"></a>SharePoint 統合
 

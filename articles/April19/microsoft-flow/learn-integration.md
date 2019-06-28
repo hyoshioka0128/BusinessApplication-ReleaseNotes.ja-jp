@@ -3,18 +3,18 @@ title: Microsoft Learn 統合
 description: 現在、Microsoft Flow の新しいトレーニング、新しいラーニング パス、チュートリアルを開始しています。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 04/14/2019
+ms.date: 05/06/2019
 ms.assetid: 0588bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 4bebb4d98c364e5c40eea77d2363918f4888b6bf
-ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
+ms.openlocfilehash: 0bdc31f13cc9a4b8b970886f561f1bcdd40167fe
+ms.sourcegitcommit: 2377f9a8537925401f30f33dd73d1eb1eecda35a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "1445386"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "1621712"
 ---
 # <a name="microsoft-learn-integration"></a>Microsoft Learn 統合
 

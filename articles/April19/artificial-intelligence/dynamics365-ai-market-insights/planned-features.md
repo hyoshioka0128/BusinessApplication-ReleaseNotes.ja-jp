@@ -7,12 +7,12 @@ ms.topic: summary
 ms.service: business-applications
 ms.author: mhart
 ms.reviewer: m-hartmann
-ms.openlocfilehash: dcb5cc2b50238297c2a68c34afd942eb329896b4
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 6f8a40acf55527841f60f44757e6299e8b1892f5
+ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225016"
+ms.lasthandoff: 05/29/2019
+ms.locfileid: "1608432"
 ---
 #  <a name="whats-new-and-planned-for-market-insights"></a>Market Insights の新機能と予定されている機能
 
@@ -22,7 +22,7 @@ ms.locfileid: "1225016"
 
 **日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
-Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 | 機能                                    | リリースの種類         | 日付 |
 |--------------------------------------------|----------------------|----------------------|

@@ -2,17 +2,17 @@
 title: Dynamics 365 Guides (プレビュー) の新機能と予定されている機能 (2019 年 4 月)
 description: Dynamics 365 Guides (プレビュー) の 2019 年 4 月の更新プログラムで予定されている機能の概要
 author: algodin
-ms.date: 04/30/2019
+ms.date: 05/28/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
-ms.openlocfilehash: bbb3f0b09c5fc39aff2b090fd92835a179f1fe13
-ms.sourcegitcommit: cc74a3ad16406a1ad3dddf56d62cc9360606d5a2
+ms.openlocfilehash: e985a9cbe14a922a805e0dffdbb247989bf0dc70
+ms.sourcegitcommit: e2243b254425db9a6eeb24f72ccc8bccaaf0b042
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "1449317"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "1617737"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-guides-in-preview"></a>Dynamics 365 Guides (プレビュー) の新機能と予定されている機能
 
@@ -22,7 +22,7 @@ ms.locfileid: "1449317"
 
 **日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
-Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 
 ## <a name="authoring-on-pc"></a>PC でのオーサリング
@@ -36,6 +36,8 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [一元化されたアセット ライブラリ](centralized-asset-library.md)                 | パブリック プレビュー      | 2019 年 2 月 24 日            |
 | [説明に画像と動画を追加する](images-videos.md)                     | パブリック プレビュー      | 2019 年 2 月 24 日             |
 | [一般的な 3D モデルのセットの組み込み](common-3D-models.md)                      | パブリック プレビュー      | 2019 年 2 月 24 日             |
+| [アンカー設定方法を選ぶ](alignment.md)                               | パブリック プレビュー      | 2019 年 2 月 24 日|
+| [アンカー設定方法をいつでも切り替え可能](anchoring-improvements.md)| パブリック プレビュー | 2019 年 5 月 28 日 |
 
 ## <a name="authoring-on-hololens"></a>HoloLens でのオーサリング
  
@@ -43,7 +45,6 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 |-------------------------------------------------------------------------------|----------------------|----------------------|
 | [効率化されたホログラムの配置と操作](streamlined-hologram-placement.md)    | パブリック プレビュー  | 2019 年 2 月 24 日       |
 | [3D アセットのスタイルによる強調の追加](styles.md)               | パブリック プレビュー      | 2019 年 2 月 24 日             |
-| [2 つの配置方法から選択](alignment.md)                               | パブリック プレビュー      | 2019 年 2 月 24 日|
 | [3D モデルの複製 (および削除)](copy-models.md)|パブリック プレビュー|2019 年 3 月 26 日|
 | [空間に配置したホログラムのサイズを変更する](change-hologram-size.md)|パブリック プレビュー|2019 年 4 月 30 日|
 
@@ -54,7 +55,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 |-------------------------------------------------------------------------------|----------------------|----------------------|
 | [シンプルな段階的構造により何も見逃さない](step-by-step.md)    | パブリック プレビュー  | 2019 年 2 月 24 日       |
 | [ハンズフリー制御](hands-free-control.md)               | パブリック プレビュー      | 2019 年 2 月 24 日             |
-| [固定ホログラム](anchored-holograms.md)                               | パブリック プレビュー      | 2019 年 2 月 24 日             |
+| [アンカーで固定されたホログラム](anchored-holograms.md)                               | パブリック プレビュー      | 2019 年 2 月 24 日             |
 | [視線でホログラムのオンとオフを切り替える](holographic-toggle.md)                               | パブリック プレビュー      | 2019 年 2 月 24 日             |
 | [ホログラフィック テザーでフォーカスの場所を示す](holographic-tether.md)                               | パブリック プレビュー      | 2019 年 2 月 24 日             |
 | [作業の際に指示がユーザーと共に移動](tag-along.md)                               | パブリック プレビュー      | 2019 年 2 月 24 日             |

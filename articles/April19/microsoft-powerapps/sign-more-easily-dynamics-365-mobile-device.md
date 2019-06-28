@@ -1,22 +1,22 @@
 ---
-title: モバイル デバイスでの Dynamics 365 へのサインインがより簡単に
-description: iOS の Dynamics 365 アプリでは、向上したサインイン エクスペリエンスがサポートされています
+title: iOS デバイスでの Dynamics 365 アプリへのサインインがより簡単に
+description: iOS デバイスでの Dynamics 365 アプリへのサインインがより簡単に
 author: Kavishi
 ms.reviewer: mkaur
-ms.date: 04/29/2019
+ms.date: 05/09/2019
 ms.assetid: 8388bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: kaagar
 audience: Power user
-ms.openlocfilehash: e7b8c7789f0cf19bf21c2c7e414766b89164773a
-ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
+ms.openlocfilehash: 0fbcf5bd4f3de4507c4c81ac91c37f6c13ab907c
+ms.sourcegitcommit: 6c1c9ed9328a3b6194ebc4741d0beeef0ef435f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "1446341"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "1605570"
 ---
-# <a name="sign-in-more-easily-to-dynamics-365-on-a-mobile-device"></a>モバイル デバイスでの Dynamics 365 へのサインインがより簡単に
+# <a name="sign-in-more-easily-to-a-dynamics-365-app-on-an-ios-device"></a>iOS デバイスでの Dynamics 365 アプリへのサインインがより簡単に
 
 [!include[microsoft-powerapps banner](../includes/microsoft-powerapps.md)]
 

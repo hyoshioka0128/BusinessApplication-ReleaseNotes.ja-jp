@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: Karthig
 ms.reviewer: anjgup
-ms.openlocfilehash: 7781dc88ce077bbcf94d62d60ab50085c7545950
-ms.sourcegitcommit: d38444f318edcbde1d3c922cbf676072b87e5fbb
+ms.openlocfilehash: 813c7764acecc651131ab94516f73db88df92bad
+ms.sourcegitcommit: d7b0345f604eed8c063e6c3233ed64fb86779e3e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "1447197"
+ms.lasthandoff: 06/10/2019
+ms.locfileid: "1624490"
 ---
 #  <a name="overview-of-dynamics-365-for-customer-service-april-19-release"></a>Dynamics 365 for Customer Service 2019 年 4 月リリースの概要
 [!include[service banner](../includes/service.md)]
@@ -23,9 +23,9 @@ Dynamics 365 for Customer Service の目的は、ワールド クラスのカス
 
 ## <a name="themes-for-customer-service-april-19-release"></a>2019 年 4 月リリースの Customer Service のテーマ
 
--  **チャネル**: 柔軟性が向上したチャネルをお客様に提供するという目標に沿い、お客様がリアルタイムのサポートを求めるチャネルとしてライブ チャットを提供します。 また、お客様が自動的に通知を受け取り、サポート担当者と自分のペースで連携できるように、SMS のサポートを有効にします。 
+-  **チャネル**: 柔軟性が向上したチャネルをお客様に提供するという目標に沿い、お客様がリアルタイムのサポートを求めるチャネルとしてチャットを提供します。 また、お客様が自動的に通知を受け取り、サポート担当者と自分のペースで連携できるように、SMS のサポートを有効にします。 
 
--  **エージェント エクスペリエンス**: 2018 年 10 月リリースの Omni-channel Engagement Hub はプレビュー用でした。 Omni-channel Engagement Hub は、複数のチャネルで作業するエージェントのための、Unified Service Desk 上に構築されたカスタマイズ可能で生産性の高いアプリです。 2019 年 4 月のリリースでは、これを一般提供する予定です。 さらに、統一インターフェイス フレームワーク上に構築されたブラウザー ベースのマルチセッションでマルチアプリのエージェント エクスペリエンスも提供します。 
+-  **エージェント エクスペリエンス**: 2018 年 10 月リリースの顧客サービス用オムニチャネルはプレビュー用でした。 顧客サービス用オムニチャネルは、複数のチャネルで作業するエージェントのための、Unified Service Desk 上に構築されたカスタマイズ可能で生産性の高いアプリです。 2019 年 4 月のリリースでは、これを一般提供する予定です。 さらに、統一インターフェイス フレームワーク上に構築されたブラウザー ベースのマルチセッションでマルチアプリのエージェント エクスペリエンスも提供します。 
 
     サポート案件管理は、顧客サービスの基本機能です。 使いやすさと生産性を向上させるため、主要なエクスペリエンスを再構築します。 
 

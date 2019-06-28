@@ -1,21 +1,21 @@
 ---
 title: アプリケーションの機能強化
 description: アプリケーションの機能強化
-author: bnielse
-ms.reviewer: edupont
-ms.date: 04/03/2019
+author: ikoletic
+ms.reviewer: sgroespe
+ms.date: 05/13/2019
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
-ms.author: bnielse
+ms.author: ivkoleti
 audience: developer, end user, customizer
-ms.openlocfilehash: 79da702ef21a1d9b8ce52898f1ed7944c15398e5
-ms.sourcegitcommit: 42c3efb68858bdf231c1775f565bcf9f551ecb03
+ms.openlocfilehash: 3bbf647b6094d7e2759f8dcf43b31d5c6a1e47b2
+ms.sourcegitcommit: 048c7e7d2e4a01679712f2e54c9b1e8ba96542f2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "1539358"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "1540181"
 ---
 # <a name="application-enhancements"></a>アプリケーションの機能強化
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -180,9 +180,9 @@ Business Central 全体のすべての**説明**および**名前**フィール�
 この[アイデア](https://experience.dynamics.com/ideas/idea/?ideaid=5021b534-b6ec-e811-a140-0003ff68cf0c)に投票してくださったお客様とパートナー様に謝意を表します。
 
 ## <a name="check-for-total-amount-credited-when-creating-a-corrective-credit-memo-for-a-posted-sales-invoice"></a>転記された売上請求書の修正クレジットメモを作成するときに合計貸方金額を確認する
-転記された売上請求書を修正するとき、転記された売上請求書に対して修正されたクレジット メモがすでに作成されているかどうか、またそれが完全に適用されているか部分的に適用されているかが、通知されるようになりました。 その通知から、転記された売上請求書にすでに適用されているドキュメントを表示したり、適用するドキュメントと金額を選択したりすることができます。 これにより、重複を防ぎ、修正対象の転記された売上請求書への適用が完全か部分的かを確認できます。
+転記された売上請求書を修正するとき、転記された売上請求書に対して修正されたクレジット メモが既に作成されているかどうか、またそれが完全に適用されているか部分的に適用されているかが、通知されるようになりました。 その通知から、転記された売上請求書に既に適用されているドキュメントを表示したり、適用するドキュメントと金額を選択したりすることができます。 これにより、重複を防ぎ、修正対象の転記された売上請求書への適用が完全か部分的かを確認できます。
 
-![すでに修正済みの転記された売上請求書に対して修正クレジット メモを作成しようとするとユーザーが受け取る通知の表示](media/check-already-corrected.png "すでに修正済みの転記された売上請求書に対して修正クレジット メモを作成しようとするとユーザーが受け取る通知とアクションの図")
+![既に修正済みの転記された売上請求書に対して修正クレジット メモを作成しようとするとユーザーが受け取る通知の表示](media/check-already-corrected.png "既に修正済みの転記された売上請求書に対して修正クレジット メモを作成しようとするとユーザーが受け取る通知とアクションの図。")
 
 この[アイデア](https://experience.dynamics.com/ideas/idea/?ideaid=68b11816-c1d6-e811-b96f-0003ff6885b1)に投票してくださったお客様とパートナー様に謝意を表します。
 
@@ -193,7 +193,7 @@ Business Central 全体のすべての**説明**および**名前**フィール�
 
 この[アイデア](https://experience.dynamics.com/ideas/idea/?ideaid=68b11816-c1d6-e811-b96f-0003ff6885b1)に投票してくださったお客様とパートナー様に謝意を表します。
 
-## <a name="iso-codes-added-as-attributes-for-countries-and-currencies"></a>国および通貨の属性として追加された ISO コード
+## <a name="add-iso-codes-as-attributes-for-countries-and-currencies"></a>国および通貨の属性としての ISO コードの追加
 規制報告、電子請求書発行、および電子銀行業務の標準では、通常、規則または標準に準拠するため、説明のほかに ISO の国コードと通貨コードが必要です。 国や地域の ISO 3166-1 標準の数字 (3 桁) コードと英数字 (2 文字) コードを追加できるようになりました。 また、通貨の ISO 4217 標準の数字 (3 桁) コードと英数字 (3 文字) コードも追加できます。
 
 ![ISO コードが入力された国/地域ページの表示](media/iso-code-country-currency.png "国/地域ページでの ISO コードと ISO 数値コードの図")
@@ -233,6 +233,47 @@ RapidStart Services で Business Central にデータを移行しているとき
 
 ![\[すべての勘定科目を表示\] および \[検索ですべての勘定科目を表示\] オプションが表示された一般転記設定ページ](media/show-all-accounts.png "\[すべての勘定科目を表示\] および \[検索ですべての勘定科目を表示\] オプションが表示された一般転記設定ページの図")
 
+## <a name="include-shortcut-dimension-as-columns-in-configuration-package-exports"></a>コンフィギュレーション パッケージのエクスポートに列としてショートカット分析コードを含める
+データを移行したり、業績を報告したりするときには、顧客、仕入先、品目分析コードなど、関連するすべての属性を使用できるようにして、そのような属性に従ってデータを分析し、理解できるようにします。
+
+データのエクスポートおよびインポート時にすべてのタイプの分析コードを列として含めることができるので、レポート作成要件に従って簡単かつ直感的に分析コードを設定できるようになります。
+
+**コンフィギュレーション パッケージ** ページおよび**コンフィギュレーション ワークシート** ページで、グローバル分析コードと同じようにショートカット分析コードを列として含めることで、データのエクスポートおよびインポート時にそれらを処理できるようになりました。
+
+![列としての分析コードの列を含むコンフィギュレーション パッケージ ページ](media/config-package-dimensions-columns.png "列としての分析コードの列を含むコンフィギュレーション パッケージ ページの図")
+
+この[アイデア](https://experience.dynamics.com/ideas/idea/?ideaid=5e630dcb-65ba-e711-80c0-00155d7cd0b4)に投票してくださったお客様とパートナー様に謝意を表します。
+
+## <a name="fill-transfer-orders-with-purchase-receipt-lines"></a>移動オーダーに購買受領書明細行を入力する
+たとえば、遠隔地の倉庫に購入して国内の倉庫に商品を転送する場合など、海外からの複数の購買受領書の処理は面倒な場合があります。 倉庫の在庫置場の内容全体を転送すると便利な場合がありますが、特定の購買受領書明細行を選択できるようにすると、遠隔地の倉庫から転送されるものをより細かく効率的に制御できます。
+
+移動オーダー明細行に入力するときに、複数の購買受領書から、すべてまたは特定の購買受領書明細行を取得できるようになりました。
+
+![受領書明細行を取得する新しい機能が表示されている移動オーダー ページ](media/get-receipt-lines-transfer-order.png "受領書明細行を取得する新しい機能が表示されている移動オーダー ページの図")
+
+この[アイデア](https://experience.dynamics.com/ideas/idea/?ideaid=7bf64dff-749a-e811-b96f-0003ff68935d)に投票してくださったお客様とパートナー様に謝意を表します。
+
+## <a name="copy-items"></a>品目のコピー
+複数の品目が同じ特性を持つのはよくあることです。 品目カードは重要な種類のマスター データであるため、正確に一貫して入力することが重要です。 さまざまな種類の品目を作成するためのテンプレートを使用すると、作業を始めるときに役立ちますが、属性、バリアント、価格などの追加データを一貫して設定することも重要です。
+
+時間を節約するために、品目のコピー機能を使用して既存の品目をコピーし、新しい品目のテンプレートとして使用することができます。
+
+![品目のコピー機能の要求ページ](media/copy-item.png "品目のコピー機能の要求ページを示す図")
+
+この[アイデア](https://experience.dynamics.com/ideas/idea/?ideaid=4891415a-9c18-e911-9461-0003ff68ee33)に投票してくださったお客様とパートナー様に謝意を表します。
+
+## <a name="use-items-blocked-from-sales-and-purchasing-in-return-documents"></a>販売および購入がブロックされている品目を返品ドキュメントで使用する
+特定の品目が販売または購入できなくなった場合、企業は通常、それらの品目の購入または販売をブロックします。 そのような品目を販売または購入しなくなっても、そのような品目を顧客が返品できるようにすることができます。
+
+販売および購入の返品ドキュメントとクレジット メモ ドキュメントで、**販売がブロックされています**および**購入がブロックされています**チェック ボックスをオンにして、品目を使用および転記できるようになりました。
+
+この[アイデア](https://experience.dynamics.com/ideas/idea/?ideaid=e11c2414-a4cb-e811-b96f-0003ff68932d)に投票してくださったお客様とパートナー様に謝意を表します。
+
+## <a name="expand-and-configure-item-quantity-rounding"></a>品目数量の丸めを展開および構成する
+開発者は、専用のメソッドを呼び出すか、Codeunit 5402 の測定単位管理でイベントをサブスクライブすることにより、既定の丸め精度 0.00001 を使用および変更できるようになりました。 サポートされている測定は、次のとおりです。数量、体積、時間、重さです。
+
+この[アイデア](https://experience.dynamics.com/ideas/idea/?ideaid=6faf5343-122c-e911-9461-0003ff68d4fd)に投票してくださったお客様とパートナー様に謝意を表します。
+
 ## <a name="use-more-role-center-activity-groups"></a>より多くのロール センター活動グループを使用する
 選択されるロール センターは次のように更新されました。
 
@@ -247,42 +288,7 @@ RapidStart Services で Business Central にデータを移行しているとき
 
 ![簡単入力の個人用設定を示すページ](media/app-uptake-quick-entry.png "住所フィールドに簡単入力の個人用設定を適用している図")
 
-詳細については、「[簡易入力を使用したデータ入力の高速化](https://docs.microsoft.com/en-us/dynamics365/business-central/ui-enter-data#QuickEntry)」を参照してください。
-
-## <a name="include-shortcut-dimension-as-columns-in-configuration-package-exports"></a>コンフィギュレーション パッケージのエクスポートに列としてショートカット分析コードを含める
-データを移行したり、業績を報告したりするときには、顧客、仕入先、品目分析コードなど、関連するすべてのエンティティ属性を使用できるようにして、そのような属性に従ってデータを分析し、理解できるようにします。
-データのエクスポートおよびインポート時にすべてのタイプの分析コードを列として含めることができるので、レポート作成要件に従って簡単かつ直感的に分析コードを設定できるようになります。
-
-[コンフィギュレーション パッケージ] ページおよび [コンフィギュレーション ワークシート] ページで、グローバル分析コードと同じようにショートカット分析コードを列として含めることで、データのエクスポートおよびインポート時にそれらを処理できるようになりました。
-
-![列としての分析コードの列を含むコンフィギュレーション パッケージ ページ](media/config-package-dimensions-columns.png "列としての分析コードの列を含むコンフィギュレーション パッケージ ページの図")
-
-この[アイデア](https://experience.dynamics.com/ideas/idea/?ideaid=5e630dcb-65ba-e711-80c0-00155d7cd0b4)に投票してくださったお客様とパートナー様に謝意を表します。
-
-## <a name="fill-transfer-orders-with-purchase-receipt-lines"></a>移動オーダーに購買受領書明細行を入力する
-たとえば、遠隔地の倉庫に購入して国内の倉庫に商品を転送する場合など、海外からの複数の購入品の処理は面倒な場合があります。 倉庫の在庫置場の内容全体を転送すると便利な場合がありますが、特定の購入品を選択できるようにすると、遠隔地の倉庫から転送されるものをより細かく効率的に制御できます。 
-
-移動オーダー明細行に入力するときに、複数の購買受領書から、すべてまたは特定の購買受領書明細行を取得できるようになりました。
-
-![受領書明細行を取得する新しい機能が表示されている移動オーダー ページ](media/get-receipt-lines-transfer-order.png "受領書明細行を取得する新しい機能が表示されている移動オーダー ページの図")
-
-この[アイデア](https://experience.dynamics.com/ideas/idea/?ideaid=7bf64dff-749a-e811-b96f-0003ff68935d)に投票してくださったお客様とパートナー様に謝意を表します。
-
-## <a name="copy-item"></a>品目のコピー
-似たような特性を持つ品目は非常に頻繁にあります。 これらはマスター データの中心的な要素の 1 つなので、正確かつ一貫性のある設定ができることは重要です。 さまざまな種類の品目を作成するためのテンプレートを使用すると、作業を始めるときに役立つことは確かですが、属性、バリアント、価格などの他のデータを一貫して設定することも重要です。 
-
-時間を節約するために、品目のコピー機能を使用して既存の品目をコピーし、新しい品目のテンプレートとして使用することができます。
-
-![品目のコピー機能の要求ページ](media/copy-item.png "品目のコピー機能の要求ページを示す図")
-
-この[アイデア](https://experience.dynamics.com/ideas/idea/?ideaid=4891415a-9c18-e911-9461-0003ff68ee33)に投票してくださったお客様とパートナー様に謝意を表します。
-
-## <a name="purchase-and-sales-blocked-items-allowed-in-return-documents"></a>購入および販売がブロックされている品目を返品ドキュメントで使用できる
-特定の品目が販売または購入できなくなった場合、企業は通常、それらの品目の購入または販売をブロックします。 そのような品目を販売または購入しなくなっても、そのような品目を顧客が返品できるようにすることができます。 
-
-ブロックされている品目を、販売および購入の返品ドキュメントとクレジット メモ ドキュメントで使用し、転記できるようになりました。
-
-この[アイデア](https://experience.dynamics.com/ideas/idea/?ideaid=e11c2414-a4cb-e811-b96f-0003ff68932d)に投票してくださったお客様とパートナー様に謝意を表します。
+詳細については、「[簡易入力を使用したデータ入力の高速化](https://docs.microsoft.com/dynamics365/business-central/ui-enter-data#QuickEntry)」を参照してください。
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
 Dynamics 365 Business Central の機能向上のためのアイデア、提案、フィードバックをお寄せください。 Business Central フォーラム ([https://aka.ms/businesscentralideas](https://aka.ms/businesscentralideas)) をご利用ください。

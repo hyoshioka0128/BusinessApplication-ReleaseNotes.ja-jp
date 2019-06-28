@@ -3,18 +3,18 @@ title: 優れた配布チャネルとしての Teams
 description: PowerApps と Teams のより高度な統合
 author: juliepstrauss
 ms.reviewer: pehecke
-ms.date: 04/14/2019
+ms.date: 05/13/2019
 ms.assetid: 9f88bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: JStrauss
 audience: Power user
-ms.openlocfilehash: 3aa2886eac061c1563079ee3297a72e2a36f2dfa
-ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
+ms.openlocfilehash: a47a89406966f764c0e62721b9878ad01533915c
+ms.sourcegitcommit: 6c1c9ed9328a3b6194ebc4741d0beeef0ef435f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "1445992"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "1605603"
 ---
 # <a name="teams-is-a-first-class-distribution-channel-public-preview"></a>優れた配布チャネルとしての Teams (パブリック プレビュー)
 

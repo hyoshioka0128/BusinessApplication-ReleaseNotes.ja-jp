@@ -3,22 +3,22 @@ title: 自動フローであらゆる Common Data Service アクションを呼�
 description: Common Data Service で使用できるすべてのアクションを自動フローで呼び出すことができるようになりました。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 04/30/2019
+ms.date: 05/06/2019
 ms.assetid: fd86bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 1cc2c23fc29ed7216a5ac6b477c617a477ae2817
-ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
+ms.openlocfilehash: 9242645970ebe81f02284fcc4f85d602fb6d173e
+ms.sourcegitcommit: 2377f9a8537925401f30f33dd73d1eb1eecda35a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "1445801"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "1621646"
 ---
 # <a name="automated-flows-can-call-any-common-data-service-action"></a>自動フローであらゆる Common Data Service アクションを呼び出すことが可能
 
-
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
 Common Data Service のワークフローと同等のものにする作業の一貫として、Common Data Service で使用可能なすべてのアクションを自動フローで呼び出すことができるようになりました。 これには、販売注文の遂行から Excel ファイルのエクスポートまでのすべてが含まれます。 アクションは、レコードの作成や更新など、データベースに副作用を与える可能性がある操作を表します。 アクションは、パラメーターを必要としたり、値を返したりする場合があり、特定のレコードと関連付けることができます。
 

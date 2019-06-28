@@ -3,18 +3,18 @@ title: 自動フローによる Common Data Service での変更セットのサ�
 description: 変更セットのスコープについてのネイティブな理解が Microsoft Flow デザイナーに追加され、ユーザーはこれまでアトミックなトランザクションを必要とした従来の Common Data Service ワークフローを置き換えることができるようになりました。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 04/30/2019
+ms.date: 05/06/2019
 ms.assetid: 0187bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 8ff53e57b2603d32770c044a11a0f531e3cff419
-ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
+ms.openlocfilehash: 544114f77d692e9015f70d0e503fb6a8953666aa
+ms.sourcegitcommit: 2377f9a8537925401f30f33dd73d1eb1eecda35a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "1445812"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "1621789"
 ---
 # <a name="automated-flows-support-change-sets-in-common-data-service"></a>自動フローによる Common Data Service での変更セットのサポート
 

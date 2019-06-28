@@ -2,18 +2,18 @@
 title: Dynamics 365 Layout の新機能と予定されている機能 (2019 年 4 月)
 description: Dynamics 365 Layout の 2019 年 4 月リリースの機能一覧
 author: ornellaalt
-ms.date: 05/02/2019
+ms.date: 05/15/2019
 ms.assetid: c4f0809b-23a7-4f8c-a956-f06a41f25145
 ms.topic: summary
 ms.service: business-applications
 ms.author: ornella
 ms.reviewer: v-brycho
-ms.openlocfilehash: 8b6ad71bb8cc6b817c8dbbca15c801650d6cfa6e
-ms.sourcegitcommit: 7fc1e31dbcdd6afe3b8447803a8e63d77d796e7e
+ms.openlocfilehash: 66d0c8ef9fcb578a3f433d3fe40a7b534c5a626a
+ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "1446432"
+ms.lasthandoff: 05/29/2019
+ms.locfileid: "1608388"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-layout"></a>Dynamics 365 Layout の新機能と予定されている機能
 
@@ -23,10 +23,12 @@ ms.locfileid: "1446432"
 
 **日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
-Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 | 機能                                                                       | リリースの種類         | 日付 |
 |-------------------------------------------------------------------------------|----------------------|----------------------|
 | [インポート プロセスの改善](asset-quality.md)|一般提供|2019 年 4 月 18 日|
-| [Layout 機能のステップ バイ ステップの説明を提供する学習カード](teaching-moments.md)|一般提供|2019 年 5 月|
+| [指導モーメントによるオンラインの指示の提供](teaching-moments.md)|一般提供|2019 年 5 月 8 日|
+| [デモ レイアウトでの新しい学習リソースの提供](demo-layouts.md)|一般提供|2019 年 5 月 8 日|
+| [ホログラム フェード設定](hologram-fade.md)|一般提供|2019 年 5 月 8 日|
 | [HoloLens 2 との互換性](hololens-2.md)|一般提供|2019 年 7 月|

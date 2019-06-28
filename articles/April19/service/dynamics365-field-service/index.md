@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: kyley
 ms.reviewer: shellyha
-ms.openlocfilehash: f7ec4c5ae53476c9bd318517604064d1540807b2
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: bb88074500b715a08d1fdc8a16a371bcfe56a0dd
+ms.sourcegitcommit: 54ade0d34315b507974a3b0b3953f59f80cb5ce8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225476"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "1625708"
 ---
 #  <a name="overview-of-dynamics-365-for-field-service-april-19-release"></a>Dynamics 365 for Field Service 2019 年 4 月リリースの概要
 [!include[dynamics365-field-service banner](../../includes/dynamics365-field-service.md)]
@@ -40,6 +40,6 @@ Field Service では、IoT アラートを監視および追跡できます。
 
 **技術者の生産性向上**: Field Service モバイル アプリケーションの強化と改善を続けています。 2018 年 10 月リリースでは、プッシュ通知とリアルタイムのジオ トラッキングがリリースされました。 2018 年 10 月リリースでは、HoloLens Remote Assist アプリ内での埋め込み Field Service のコンテキストも有効にしました。
 
-2019 年 4 月リリースでは、埋め込み IoT データ、検査、および時間入力の機能を Field Service モバイル アプリに追加する予定です。
+2019 年 4 月リリースでは、埋め込み IoT データと時間入力の機能を Field Service モバイル アプリに追加する予定です。
 
-**サービス提供の改善**: 2019 年 4 月リリースには、プロセス、安全性、または規制の要件を満たすために、技術者が項目のチェックリストを迅速かつ簡単に考慮できるようにするための検査機能が含まれます。 また、時間追跡機能により、技術者の時間をいっそう正確に考慮できるようになり、コストと収益の計算に役立ちます。
+**サービス提供の向上**: 2019 年 4 月リリースには、技術者の時間をいっそう正確に考慮するための時間追跡機能が含まれ、これはコストと収益の計算に役立ちます。

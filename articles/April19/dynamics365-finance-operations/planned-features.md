@@ -2,17 +2,17 @@
 title: Finance and Operations の新機能と予定されている機能 (2019 年 4 月)
 description: このトピックは、2019 年 2 月 から 2019 年 3 月までの間にプレビューになり、2019 年 4 月から 2019 年 9 月までの間にリリース予定の Finance and Operations の機能の一覧を示します。
 author: AnnBe
-ms.date: 05/06/2019
+ms.date: 06/12/2019
 ms.assetid: 7cd25ee8-8569-492a-9110-b814431c0d45
 ms.topic: article
 ms.service: business-applications
 ms.author: AnnBe
-ms.openlocfilehash: 70b0f077a771961d44f8762de21aaf832801f28e
-ms.sourcegitcommit: 02b513fd2e8c80086e6ff6de409a73483454cbce
+ms.openlocfilehash: 0f81e07ff73436c41cdcbd0a7b37a2ddaa491203
+ms.sourcegitcommit: 6e42681d041ccf1c90ccada6d14b62b0e64958f8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "1449250"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "1628366"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-for-finance-and-operations"></a>Dynamics 365 for Finance and Operations の新機能と予定されている機能
 
@@ -22,62 +22,67 @@ ms.locfileid: "1449250"
 
 **日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
-Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 ## <a name="financial-management"></a>財務管理
 
 | 機能                                 | リリースの種類         |クラウドまたはオンプレミス| 日付 |
 |-----------------------------------------|----------------------|--------------------|----------------------|
-| [自動元帳決済](automatic-ledger-settlements.md)| 一般提供 |  両方   | 2019 年 8 月～ 10 月           |
-| [仕訳帳転記の取消](reverse-journal-posting.md)| 一般提供 |  両方   |2019 年 8 月～ 10 月          |
-| [収益認識](revenue-recognition.md)|一般提供 | 両方    |2019 年 7 月        |
+| [自動元帳決済](automatic-ledger-settlements.md)| 一般提供 |  両方   | 2019 年 10 月から 12 月           |
+| [仕訳帳転記の取消](reverse-journal-posting.md)| 一般提供 |  両方   |2019 年 10 月から 12 月          |
+| [収益認識](revenue-recognition.md)|一般提供 | 両方    |2019 年 9 月        |
 | [銀行における外貨再評価](bank-foreign-currency-revaluation.md)|一般提供 |  両方   |2019 年 5 月         |
-| [経費クライアントの使いやすさ](expense-client-usability.md)| 一般提供 | 両方    | 2019 年 8 月           |
-| [請求スケジュール](billing-schedules.md) | 一般提供 |      両方      | 2019 年 8 月            | 
-| [与信管理](credit-management.md) | 一般提供 |      両方      | 2019 年 8 月～ 10 月            |
+| [経費クライアントの使いやすさ](expense-client-usability.md)| 一般提供 | 両方    | 2019 年 6 月           |
+| [請求スケジュール](billing-schedules.md) | 一般提供 |      両方      | 2020 年 1 月 - 4 月            | 
+| [与信管理](credit-management.md) | 一般提供 |      両方      | 2019 年 10 月から 12 月            |
 | [銀行取引明細書の日付の編集と編集履歴の表示](edit-bank-date.md) | 一般提供 |      両方      | 2019 年 5 月     | 
 | [仕入先請求書の回収](recover-vendor-invoices.md) | 一般提供 |      両方      | 2019 年 5 月     | 
 | [買掛金勘定仕入先請求書の為替レート フィールドでの変更](AP-exch-rate.md) | 一般提供 |    両方    | 2019 年 6 月|
+| [顧客に割り当てられた自由書式の請求書テンプレートを非アクティブとしてマークする](fti-template-inactive.md) | 一般提供 |    両方    | 2019 年 6 月|
+| [仕入先請求書、販売注文、および販売契約書の新しい固定為替レート](new-fixed-exrate.md) | 一般提供 |    両方    | 2019 年 7 月|
+| [口座調整のキャンセル](cancel-bank-rec.md) | 一般提供 |    両方    | 2019 年 9 月|
+| [空白状態で小切手を作成する機能をオフにする](checks-blank-status.md) | 一般提供 |    両方    | 2019 年 9 月|
+
 
 ## <a name="public-sector"></a>公的機関
 
 | 機能                                 | リリースの種類         |クラウドまたはオンプレミス| 日付 |
 |-----------------------------------------|----------------------|--------------------|----------------------|
 | **買掛金勘定** |  |  |  |
-| [主勘定に 1099 連邦税の既定値を関連付ける](fed1099.md) | 一般提供 | 両方 | 2019 年 9 月〜 11 月 |
-| [支払仕訳帳集計レポート](payment-journal-sum-report.md) | 一般提供 | 両方 | 2019 年 10 月〜 12 月 |
-| [買掛金勘定仕入先請求書の勘定配賦を編集する機能を制限する](dist-ap-vendinvoics.md) | 一般提供 | 両方 | 2019 年 10 月〜 12 月 |
+| [主勘定に 1099 連邦税の既定値を関連付ける](fed1099.md) | 一般提供 | 両方 | 2019 年 9 月から 11 月 |
+| [支払仕訳帳集計レポート](payment-journal-sum-report.md) | 一般提供 | 両方 | 2019 年 10 月から 12 月 |
+| [買掛金勘定仕入先請求書の勘定配賦を編集する機能を制限する](dist-ap-vendinvoics.md) | 一般提供 | 両方 | 2019 年 10 月から 12 月 |
 | **予算作成** |  |  |  |
-| [予測職位の時間レート フィールド](hourly-forecast-positions.md) | 一般提供 | 両方 | 2019 年 4 月〜 6 月 |
-| [集計予算と実績レポート](sum-budget-actual-report.md) | 一般提供 | 両方 | 2019 年 5 月～ 7 月 |
-| [予測職位への財務分析コードの割り当て](fin-dim-alloc-forecast-position.md) | 一般提供 | 両方 | 2019 年 5 月～ 7 月 |
-| [予測職位レポート](forecast-position-report.md) | 一般提供 | 両方 | 2019 年 6 月〜 8 月 |
-| [予測職位と職位の職務明細書の更新](job-description.md) | 一般提供 | 両方 | 2019 年 9 月〜 11 月 |
-| [予算計画を置き換えるオプションの削除](remove-replace-budget-plan.md) | 一般提供 | 両方 | 2019 年 9 月〜 11 月 |
+| [予測職位の時間レート フィールド](hourly-forecast-positions.md) | 一般提供 | 両方 | 2019 年 4 月から 6 月 |
+| [集計予算と実績レポート](sum-budget-actual-report.md) | 一般提供 | 両方 | 2019 年 5 月から 7 月 |
+| [予測職位への財務分析コードの割り当て](fin-dim-alloc-forecast-position.md) | 一般提供 | 両方 | 2019 年 5 月から 7 月 |
+| [予測職位レポート](forecast-position-report.md) | 一般提供 | 両方 | 2019 年 6 月から 8 月 |
+| [予測職位と職位の職務明細書の更新](job-description.md) | 一般提供 | 両方 | 2019 年 9 月から 11 月 |
+| [予算計画を置き換えるオプションの削除](remove-replace-budget-plan.md) | 一般提供 | 両方 | 2019 年 9 月から 11 月 |
 | **現金および銀行管理** |  |  |  |
-| [没収](escheatment.md) | 一般提供 | 両方 | 2019 年 5 月～ 7 月 |
-| [現金管理](cash-control.md) | 一般提供 | 両方 | 2019 年 6 月〜 8 月 |
+| [没収](escheatment.md) | 一般提供 | 両方 | 2019 年 5 月から 7 月 |
+| [現金管理](cash-control.md) | 一般提供 | 両方 | 2019 年 6 月から 8 月 |
 | **一般会計** |  |  |  |
-| [利息配賦](interest-distribution.md) | 一般提供 | 両方 | 2019 年 4 月〜 6 月 |
-| [詳細な元帳エントリを使用してトランザクションを転記するときに銀行残高を更新する](update-bank-balances.md) | 一般提供 | 両方 | 2019 年 7 月～ 9 月 |
-| [会計登録者の会計責任に関する日次明細](daily-statement.md) | 一般提供 | 両方 | 2019 年 8 月～ 10 月 |
-| [カナダの統一消費税](canadian-sales-tax.md) | 一般提供 | 両方 | 2019 年 12 月〜 2020 年 2 月 |
+| [利息配賦](interest-distribution.md) | 一般提供 | 両方 | 2019 年 4 月から 6 月 |
+| [詳細な元帳エントリを使用してトランザクションを転記するときに銀行残高を更新する](update-bank-balances.md) | 一般提供 | 両方 | 2019 年 7 月から 9 月 |
+| [会計登録者の会計責任に関する日次明細](daily-statement.md) | 一般提供 | 両方 | 2019 年 8 月から 10 月 |
+| [カナダの統一消費税](canadian-sales-tax.md) | 一般提供 | 両方 | 2019 年 12 月から 2020 年 2 月 |
 | **調達** |  |  |  |
-| [一般予算引当を複数の購買契約書明細行に適用](apply-gbr-mult.md) | 一般提供 | 両方 | 2019 年 5 月～ 7 月 |
-| [一般予算引当を一度に複数の購買要求明細行に適用する機能](gbr-purch-req.md) | 一般提供 | 両方 | 2019 年 4 月〜 6 月 |
-| [リード タイムと就業日に基づいて発注書の配送日を計算する](calc-po-deliv-dates.md) | 一般提供 | 両方 | 2019 年 5 月～ 7 月 |
-| [仕入先の入札 - 仕入先からの RFQ に関する質問および要約された回答](vendor-bidding.md) | 一般提供 | 両方 | 2019 年 8 月～ 10 月 |
-| [RFQ 活動](rfq-activity.md) | 一般提供 | 両方 | 2019 年 7 月～ 9 月 |
-| [購買契約書の機能強化](purch-agreement-enh.md) | 一般提供 | 両方 | 2019 年 7 月～ 9 月 |
-| [発注書明細行の詳細への RFQ リンクの追加](rfq-link-po.md) | 一般提供 | 両方 | 2019 年 7 月～ 9 月 |
-| [購買カード処理](purch-card-processing.md) | 一般提供 | 両方 | 2019 年 5 月～ 7 月 |
-| [受け取る数量を入力するための受領書フォームの新しいフィールド](qty-to-receive.md) | 一般提供 | 両方 | 2019 年 12 月〜 2020 年 2 月 |
-| [複数の購買作業項目の委任](delegate-purch-work-items.md) | 一般提供 | 両方 | 2019 年 9 月〜 11 月 |
+| [一般予算引当を複数の購買契約書明細行に適用](apply-gbr-mult.md) | 一般提供 | 両方 | 2019 年 5 月から 7 月 |
+| [一般予算引当を一度に複数の購買要求明細行に適用する機能](gbr-purch-req.md) | 一般提供 | 両方 | 2019 年 4 月から 6 月 |
+| [リード タイムと就業日に基づいて発注書の配送日を計算する](calc-po-deliv-dates.md) | 一般提供 | 両方 | 2019 年 5 月から 7 月 |
+| [仕入先の入札 - 仕入先からの RFQ に関する質問および要約された回答](vendor-bidding.md) | 一般提供 | 両方 | 2019 年 8 月から 10 月 |
+| [RFQ 活動](rfq-activity.md) | 一般提供 | 両方 | 2019 年 7 月から 9 月 |
+| [購買契約書の機能強化](purch-agreement-enh.md) | 一般提供 | 両方 | 2019 年 7 月から 9 月 |
+| [発注書明細行の詳細への RFQ リンクの追加](rfq-link-po.md) | 一般提供 | 両方 | 2019 年 7 月から 9 月 |
+| [購買カード処理](purch-card-processing.md) | 一般提供 | 両方 | 2019 年 5 月から 7 月 |
+| [受け取る数量を入力するための受領書フォームの新しいフィールド](qty-to-receive.md) | 一般提供 | 両方 | 2019 年 12 月から 2020 年 2 月 |
+| [複数の購買作業項目の委任](delegate-purch-work-items.md) | 一般提供 | 両方 | 2019 年 9 月から 11 月 |
 | **プロジェクト** |  |  |  |
-| [プロジェクト契約資金調達限度確定済み金額の詳細](proj-fund-limit.md) | 一般提供 | 両方 | 2019 年 5 月～ 7 月 |
-| [交付金に関する通達 A-133 レポート (SEFA)](circularA133.md) | 一般提供 | 両方 | 2020 年 1 月〜 3 月 |
-| [資金調達ソースによるプロジェクト仮発行請求書の選択パラメーター](proj-inv-prop.md) | 一般提供 | 両方 | 2019 年 12 月〜 2020 年 2 月 |
-| [プロジェクト タイムシートからの所得明細書の生成](earning-stmt-proj.md) | 一般提供 | 両方 | 2019 年 10 月〜 12 月 |
+| [プロジェクト契約資金調達限度確定済み金額の詳細](proj-fund-limit.md) | 一般提供 | 両方 | 2019 年 5 月から 7 月 |
+| [交付金に関する通達 A-133 レポート (SEFA)](circularA133.md) | 一般提供 | 両方 | 2020 年 1 月から 3 月 |
+| [資金調達ソースによるプロジェクト仮発行請求書の選択パラメーター](proj-inv-prop.md) | 一般提供 | 両方 | 2019 年 12 月から 2020 年 2 月 |
+| [プロジェクト タイムシートからの所得明細書の生成](earning-stmt-proj.md) | 一般提供 | 両方 | 2019 年 10 月から 12 月 |
 
 
 ## <a name="product-information-management-and-inventory"></a>製品情報の管理と在庫
@@ -110,9 +115,11 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 |---------------------------------------------------------------------|----------------------------|----------------------|-------|
 | [マスター プランの安定性と復元性の改善](master-planning-stability-recovery-improvements.md)          | 一般提供       | 両方               | 2019 年 3 月 8 日             |
 | [古い計画データの削除の改善](improved-removal-obsolete-planning-data.md)                   | 一般提供       | 両方                | 2019 年 3 月 8 日             |
+| [マスター プラン構成ウィザード](mrp-wizard.md) | 一般提供 | 両方 | 2019 年 4 月|
 | [計画サービス](planning-service.md)          | パブリック プレビュー       | クラウド                | 2019 年 7 月             |
 | [コネクテッド マニュファクチャリング](connected-manufacturing.md) | パブリック プレビュー | 両方 | 2019 年 7 月 |
 | [エンタープライズ資産管理](enterprise-asset-management.md) | パブリック プレビュー | 両方 | 2019 年 7 月 |
+
 
 
 ## <a name="globalization"></a>グローバリゼーション
@@ -151,19 +158,21 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [ネットワーク プリンターのシステム管理](system-manage-network-printers.md)                   | パブリック プレビュー |   クラウド                  | 2019 年 4 月 |
 | [電子メールによるクライアント警告通知](alert-email-notifications.md)                   | パブリック プレビュー |   両方                  | 2019 年 4 月 12 日 |
 | **クライアント** |  |  |  |
-| [強化されたグリッド エクスペリエンス](grid-experience.md)           | パブリック プレビュー |       両方               | 2019 年 8 月 |
-| [保存されているビュー](saved-views.md)           | パブリック プレビュー |    両方                  | 2019 年 8 月 |
-| [クライアントの生産性と使いやすさの向上](client-productivity-usability-improvements.md)           | 一般提供 |                両方      | 未定 |
+| [非アクティブのためセッションが終了する前にユーザーに警告する](alert-user-before-session-ends.md)           | 一般提供 |                両方      | 2019 年 7 月 |
 | ["フィルター フィールドの追加" エクスペリエンスの向上](updated-add-filter-field.md)           | 一般提供 |                両方      | 2019 年 4 月 |
 | [Office ヘッダーに合わせて更新されたナビゲーション バー](updatedNavBar.md)           | 一般提供 |    両方                  | 2019 年 3 月 8 日 |
 | [プレビュー ビルドの明確な識別](previewBuildIndicator.md)                   | 一般提供 |   両方                  | 2019 年 3 月 8 日 |
 | [ユーザー セッションを最後の状態に回復する機能](recover-user-session.md)| パブリック プレビュー |               両方| 2019 年 4 月 – 2019 年 7 月 (機能の増分リリース) |
+| [強化されたグリッド エクスペリエンス](grid-experience.md)           | パブリック プレビュー |       両方               | 2019 年 10 月 |
+| [保存されているビュー](saved-views.md)           | パブリック プレビュー |    両方                  | 2019 年 10 月 |
+| [クライアントの生産性と使いやすさの向上](client-productivity-usability-improvements.md)           | 一般提供 |                両方      | 未定 |
 | **開発** |  |  |  |
 | [開発者ツールとアプリケーション ライフサイクルの管理](developer-tools-application-lifecycle-management.md)| パブリック プレビュー |               両方       | 2019 年 4 月 – 2019 年 7 月 (機能の増分リリース) |
 | [プラットフォーム拡張性の機能強化](platform-extensibility.md)| 一般提供 |               両方       | 2019 年 3 月 8 日 |
 | [プラットフォーム拡張性の機能強化ウェーブ 2](platform-extensibility2.md)| 一般提供 |               両方       | 2019 年 4 月 12 日 |
 | [プラットフォーム拡張性の機能強化ウェーブ 3](platform-extensibility3.md)| 一般提供 |               両方       | 2019 年 5 月 |
 | [プラットフォーム拡張性の機能強化ウェーブ 4](platform-extensibility4.md)| 一般提供 |               両方       | 2019 年 6 月 |
+| [プラットフォーム拡張性の機能強化ウェーブ 5](platform-extensibility5.md)| 一般提供 |               両方       | 2019 年 7 月 |
 | [アプリケーション トラッカーを使用したランタイム イベントの分析](application-tracker.md)| 一般提供 |               両方       | 2019 年 5 月 |
 
 ## <a name="integration"></a>統合
@@ -182,3 +191,5 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [One Version エクスペリエンス](one-version-experience.md)    | 一般提供 |    クラウド                  | 2019 年 4 月           |
 | [セルフサービス展開](self-service-deployment.md)  | 一般提供 |  クラウド     | 2019 年 5 月 |
 | [ビジネス プロセス モデラー (BPM) のユーザー インターフェイスの向上](BPM-UI-Improvement.md) | 一般提供 | クラウド | 2019 年 3 月 4 日 |
+| [Azure Monitor にオンボードする](azure-monitor-support.md) | 一般提供 | クラウド | 2019 年 8 月 |
+| [One Version の LCS 更新](LCS-UpdatesForOneVersion.md) | 一般提供 | クラウド | 2019 年 6 月 |
