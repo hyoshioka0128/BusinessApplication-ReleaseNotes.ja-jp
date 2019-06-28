@@ -3,18 +3,18 @@ title: 電子メール、HTML、PDF からの構造化データの抽出
 description: ユーザーが電子メール、HTML ファイル、PDF からコンテンツを解析できる新しいインテリジェンス機能を、Microsoft Flow に統合しました。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 04/14/2019
+ms.date: 05/06/2019
 ms.assetid: 8987bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: d88a104b105a5bb017a140a26d03125036cde842
-ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
+ms.openlocfilehash: 669a9bade91762f40d5e2790739ce52ad06def39
+ms.sourcegitcommit: 2377f9a8537925401f30f33dd73d1eb1eecda35a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "1445426"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "1621613"
 ---
 # <a name="extract-structured-data-from-emails-html-and-pdf-public-preview"></a>電子メール、HTML、PDF からの構造化データの抽出 (パブリック プレビュー)
 

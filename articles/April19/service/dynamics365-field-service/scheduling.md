@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: dgittler
 ms.reviewer: shellyha
-ms.openlocfilehash: f6a6140b50c8d7bd352e9274398c9b7951240088
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: c0fef0a5704f73eb2d2a444d2d607ab01355bc63
+ms.sourcegitcommit: 738a9a637dcc50b6ac52d47433e684ea61cedd52
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225490"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "1623898"
 ---
 #  <a name="scheduling-capabilities"></a>スケジューリング機能
 [!include[dynamics365-field-service banner](../../includes/dynamics365-field-service.md)]
@@ -20,21 +20,18 @@ ms.locfileid: "1225490"
 
 この記事では、2019 年 4 月リリースの新しいスケジューリング機能について説明します。
 
-## <a name="variable-resource-location-optimization"></a>さまざまな場所へのリソースの配置 (最適化)
+## <a name="support-for-greater-than-1-resource-capacity"></a>複数のリソース キャパシティのサポート
 
-チームのスタッフ配置場所を日によって変えることで、チーム運営の変革をサポートします。 顧客の要望によっては、リソースをさまざまな場所に派遣する必要があることがあります。 その場所は近隣地域である場合もあれば、遠隔地や国外の場合もあります。 場合によっては、リソースを月に 1 回遠隔地に派遣してそこで作業をしてもらうことや、チームが 1 か所に駐在せずに顧客の所在地を転々と移動することもあります。 毎週水曜日にリソースは倉庫から部品をピックアップし、それ以外の曜日は本部から仕事を開始するケースも考えられます。
-日付に応じて場所を設定できる機能がサポートされたことで、API を使用してリソースの場所を変更し、これらの場所に関わるさまざまな要望を満たすことができます。 
+場合によっては、すべてのリソースが同じように生産的とは限りません。 たとえば、経験豊富な技術者は 2 台の自転車を同時に修理できますが、経験の浅い技術者は一度に 1 台の自転車しか作業できない可能性があります。 このようなケースに対応するために、リソース スケジュール最適化は 1 を超えるキャパシティでリソースをスケジュールできるようになりました。
 
-リソースをさまざまな場所に配置して最適化する機能により、日次ベースで技術者の始業場所と終業場所を設定できます。これは、サービス マネージャー、派遣担当者、別の従業員が実行できます。
 
-## <a name="optimization-insights"></a>最適化の分析情報
+## <a name="support-for-matches-resource-role-constraints"></a>"リソースの種類に一致する" 制約のサポート
 
-サービス マネージャーと派遣担当者は、リソースのスケジュールが効果的であり、スケジューリングの結果がビジネスの目標と一致していることを確認する責任があります。
+組織は要件に対するリソース ロールを定義できるようになりました。オプティマイザーは、一致したリソース ロールを持つリソースに予約を割り当てると同時に、他の定義済み制約を満たします。
 
-この機能が提供する Power BI ベースの分析ダッシュボードからは数多くの分析情報が得られ、単純な実行や複数の実行にわたる最適化の要約や統計を表示することで、企業が最適化の結果を評価し、スケジューリングの目標やリソースの使用状況などを測定するのを支援します。
+## <a name="support-for-must-choose-resource-constraints"></a>"リソースの選択が必要" 制約のサポート
 
-![最適化の分析情報](media/scheduling-1.png "最適化の分析情報")
-<!-- picture -->
+特定のリソースを常に重要な顧客に派遣するなど、企業は顧客との間に特別な契約を結ぶことがあります。 新しい**リソースの選択が必要**制約では、企業が要件に対するリソースの基本設定を定義できます。 オプティマイザーは、他の定義済み制約も満たしながら、**リソースの選択が必要**リストでリソースに予約を割り当てます。
 
 ## <a name="optimization-objective-for-as-soon-as-possible-asap"></a>「できるだけ早く (ASAP)」の最適化目標 
 

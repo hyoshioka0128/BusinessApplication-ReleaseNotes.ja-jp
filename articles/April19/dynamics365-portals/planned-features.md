@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: dileeps
 ms.reviewer: shjais
-ms.openlocfilehash: 7aed88298435100718a1b42a22bc1742c2f4d0b6
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 3a043bd8e1d8644c178be09a1f7df4568bc4c31f
+ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225312"
+ms.lasthandoff: 05/29/2019
+ms.locfileid: "1608476"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-portal"></a>Dynamics 365 ポータルの新機能と予定されている機能
 
@@ -23,7 +23,7 @@ ms.locfileid: "1225312"
 
 **日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
-Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 
 | 機能  | リリースの種類 | 日付 |

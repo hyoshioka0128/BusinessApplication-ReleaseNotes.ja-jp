@@ -8,12 +8,12 @@ ms.topic: summary
 ms.service: business-applications
 ms.author: mapau
 ms.reviewer: v-brycho
-ms.openlocfilehash: 8715edb9ea87361956e5affbd46e60eddd4437ff
-ms.sourcegitcommit: cc74a3ad16406a1ad3dddf56d62cc9360606d5a2
+ms.openlocfilehash: 1e0687732d6c7252608ec21d1cdb1b8e31d6aaa3
+ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "1449306"
+ms.lasthandoff: 05/29/2019
+ms.locfileid: "1608366"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-remote-assist"></a>Dynamics 365 Remote Assist の新機能と予定されている機能
 
@@ -24,7 +24,7 @@ ms.locfileid: "1449306"
 
 **日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
-Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 
 

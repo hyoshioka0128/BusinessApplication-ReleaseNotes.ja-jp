@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.reviewer: elben
-ms.openlocfilehash: 74ab369cc3f17811571b35264a35c486c7d86fed
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 0fb683231506d7b3c932d55355f532023b111148
+ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225013"
+ms.lasthandoff: 05/29/2019
+ms.locfileid: "1608421"
 ---
 #  <a name="whats-new-and-planned-for-ai-for-sales"></a>AI for Sales の新機能と予定されている機能
 
@@ -23,7 +23,7 @@ ms.locfileid: "1225013"
 
 **日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
-Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 
 ## <a name="dynamics-365-sales-insights-embedded-capabilities-for-sellers"></a>Dynamics 365 Sales Insights: 販売担当者向けの埋め込み機能

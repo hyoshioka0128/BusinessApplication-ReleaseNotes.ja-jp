@@ -7,12 +7,12 @@ ms.reviewer: shellyha
 ms.date: 04/09/2019
 ms.topic: article
 ms.service: business-applications
-ms.openlocfilehash: 9e113e306d9b21d73c1bb5ab87635b5b24839978
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: af2631408884554fd6512d0ea05acf33f3c06f39
+ms.sourcegitcommit: d099a82effbb96a7079a9d088ee40847fa8d7a7f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225455"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "1616193"
 ---
 #  <a name="embedded-iot"></a>埋め込み IoT
 [!include[dynamics365-field-service banner](../../includes/dynamics365-field-service.md)]
@@ -26,8 +26,6 @@ IoT アラートを受け取った後は、アラートを診断する必要が�
 
 -   次のレベルの分析は、資産からの測定値の履歴と傾向を見ることです。 これは、孤立したイベント、またはパターンやトレンドの一部であるイベントがあるかどうかを理解するのに役立ちます。 これには調整可能なタイム スケールが含まれます。 履歴ビューには、資産の最近の修復履歴も含まれます。 これは修復、イベント、傾向との関係を理解するのに役立ちます。
 
--   分析のもう 1 つの分野は、類似の資産/デバイスとの比較です。 たとえば、同じカテゴリー内の他の資産に対する同じ測定値を見てみます。
-    これは、正常な状態をよりよく理解し、関連する資産/デバイスで同様のイベントまたは傾向が発生しているかどうかを判断するのに役立ちます。
 
 この情報は、次のようなコンテキストでのビジュアル化でプレビューとして利用できるようになります。
 
@@ -47,7 +45,5 @@ IoT アラートを受け取った後は、アラートを診断する必要が�
 
 ![IoT の視覚化](media/embedded-iot-remotecommands.png "IoT の視覚化")
 
-## <a name="device-provisioning"></a>デバイスのプロビジョニング
-IoT Central デバイスと Field Service デバイスまたは資産との間のマッピングは、フィールド サービスの取引先企業への適切なマッピングなど、埋め込み IoT 機能を使用するために重要です。
-
-デバイスまたは資産の同期マッピング機能を、IoT Central 統合でプレビューとして使用できるようになります。
+## <a name="connected-field-service-solution-in-field-service-75-release"></a>Field Service 7.5 リリースの Connected Field Service ソリューション
+これまで Field Service バージョン 7.5 を使用していたお客様にとって、Connected Field Service と IoT ソリューションのインストールは Microsoft AppSource での追加ステップでした。 このリリースでは、Connected Field Service と IoT ソリューションを Field Service ソリューションに含めることでこの余分なステップを削除し、お客様が IoT 機能を簡単にオンボードして展開時間を短縮できるようにします。

@@ -2,19 +2,19 @@
 title: Dynamics 365 と Office 365 をカバーする統合プラットフォーム
 description: Microsoft Flow では、Microsoft Teams、Excel、OneDrive などのビジネス/生産性アプリから、プロセスを直接自動化して拡張できます。
 author: stepsic-microsoft-com
-ms.reviewer: deonhe
+ms.reviewer: MSFTMan
 ms.date: 04/13/2019
 ms.assetid: ae1cc5ca-815d-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: f4c33b2dda663fc3ac2828dc3f2ab44a72e5ff65
-ms.sourcegitcommit: 2a74fca6d58a1a6abe2c19cac21deae64d5fd8af
+ms.openlocfilehash: cd695e8e6df85d9b8c78047d6a5c0230a400c8c3
+ms.sourcegitcommit: 2377f9a8537925401f30f33dd73d1eb1eecda35a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "1445287"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "1621767"
 ---
 # <a name="unified-platform-across-dynamics-365-and-office-365"></a>Dynamics 365 と Office 365 をカバーする統合プラットフォーム
 

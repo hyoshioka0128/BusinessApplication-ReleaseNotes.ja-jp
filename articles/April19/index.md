@@ -7,15 +7,15 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ramanasr
 ms.reviewer: renwe
-ms.openlocfilehash: dadf7df6a75aad5d211c4732f1afa43da983cab2
-ms.sourcegitcommit: b84af121dadc7e66057ee0132bf9425774e48a94
+ms.openlocfilehash: aed0e2ef660581e9c040270d7a9e930c2291eca7
+ms.sourcegitcommit: 3db8e5371cb94786374423d6f863fb5ace9faf02
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "1444689"
+ms.lasthandoff: 05/31/2019
+ms.locfileid: "1615732"
 ---
 #  <a name="april-19-release-notes"></a>2019 年 4 月版リリース ノート
-**[2019 年 4 月リリース ノート PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2058936)** (最終更新日 2019 年 4 月 30 日)
+**[2019 年 4 月リリース ノート PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2058936)** (最終更新日 2019 年 5 月 30 日)
 
 2019 年 4 月のリリース ノートでは、2019 年 4 月から 2019 年 9 月中にリリースされる Dynamics 365 および Power Platform に関するすべての新機能について説明します。 一部の機能のプレビューは 2019 年 2 月に開始されます。 このリリース ノートは、[オンライン](https://aka.ms/businessappsreleasenotes)で参照することも、[PDF ファイル](https://go.microsoft.com/fwlink/p/?linkid=2058936)のドキュメントとしてダウンロードすることもできます。
 
@@ -25,7 +25,7 @@ Dynamics 365 および Power Platform のリリースの 2019 年 4 月ウェー
 リリース ノートで説明されている機能は、まだリリースされていない場合があります。 提供タイムラインおよび予定されている機能は、変更される可能性、または出荷されない可能性があります ([Microsoft ポリシー](https://go.microsoft.com/fwlink/p/?linkid=2007332)を参照)。
 
 ##  <a name="dynamics-365"></a>Dynamics 365 
-2019 年 4 月リリースでの Dynamics 365 アプリケーションの機能強化には数百もの新機能が含まれており、その対象範囲としては、Sales、Marketing、Customer Service、ポータル、Field Service、Project Service Automation、Finance and Operations、Talent、Retail、および Business Central がカバーされています。 今リリースでは、Microsoft レイアウトと Microsoft リモート アシストを使用して、新しい複合現実エクスペリエンスが追加されています。 
+2019 年 4 月リリースでの Dynamics 365 アプリケーションの機能強化には数百もの新機能が含まれており、その対象範囲としては、Sales、Marketing、Customer Service、Portal、Field Service、Project Service Automation、Finance and Operations、Talent、Retail、および Business Central がカバーされています。 今リリースでは、Microsoft レイアウトと Microsoft リモート アシストを使用して、新しい複合現実エクスペリエンスが追加されています。 
  
 Microsoft Forms Pro は、Microsoft Forms の上に構築され、Dynamics 365 および Common Data Service for Apps と統合された、まったく新しい企業調査アプリです。 
  

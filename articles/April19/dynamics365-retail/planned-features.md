@@ -2,18 +2,18 @@
 title: Dynamics 365 for Retail の新機能と予定されている機能 (2019 年 4 月)
 description: このトピックでは、Dynamics 365 for Retail でリリース予定の機能の一覧を示します。
 author: ReneeW-CPub
-ms.date: 04/11/2019
+ms.date: 05/21/2019
 ms.assetid: 8cf8e242-945a-45b3-9b88-7d7b960314ba
 ms.topic: article
 ms.service: business-applications
 ms.author: josaw
 ms.reviewer: josaw
-ms.openlocfilehash: 895c39e4f8a7eb8e10f00e0b341020ae94b45d9f
-ms.sourcegitcommit: 7fc1e31dbcdd6afe3b8447803a8e63d77d796e7e
+ms.openlocfilehash: 65be9af97f1b709a09a723403fa6f586ce01c788
+ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "1446461"
+ms.lasthandoff: 05/29/2019
+ms.locfileid: "1608597"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-for-retail"></a>Dynamics 365 for Retail の新機能と予定されている機能
 
@@ -23,7 +23,7 @@ ms.locfileid: "1446461"
 
 **日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
-Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 
 
@@ -39,7 +39,9 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [チェコ共和国向けの会計サービス統合サンプル](fiscal-service-integration-sample-czech-republic.md) | 一般提供 | 2019 年 5 月                                      |
 |[オムニチャネル自動請求](omni-channel-auto-charges.md)  |一般提供  | 2019 年 4 月 |
 | [実行時にハードウェア ステーションのマーチャント プロパティを更新する](HWSMerchUpdate.md)                        | 一般提供 | 2019 年 7 月             |
-| [製品の見つけやすさの改善](product-discoverability-enhancements.md)                 | パブリック プレビュー | 2019 年 9 月                                      |
+| [製品の見つけやすさの改善](product-discoverability-enhancements.md)                 | 一般提供 | 2019 年 8 月                                      |
+| [販売明細行間に割引を分散する](distribute-discount.md)                 | 一般提供 | 2019 年 8 月                            |
+
 
 
 

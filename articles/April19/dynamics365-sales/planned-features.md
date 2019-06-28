@@ -10,12 +10,12 @@ ms.assetid: 72f00658-576a-4962-9ba3-cd3564278cff
 author: bharavar
 ms.author: bharavar
 ms.reviewer: shujoshi
-ms.openlocfilehash: e44d8b77715b5f16ceef4cba1414ce6c6ff02724
-ms.sourcegitcommit: 46e082f24757ecc032ed333bdac519b43fadd881
+ms.openlocfilehash: bd237f20939dc01538631a5d6f5a54e89fba36c6
+ms.sourcegitcommit: ac97c73f60bd2869f9ca139cf06801fbdc4507b9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "1538942"
+ms.lasthandoff: 05/30/2019
+ms.locfileid: "1614925"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-for-sales"></a>Dynamics 365 for Sales の新機能と予定されている機能
 
@@ -25,7 +25,7 @@ ms.locfileid: "1538942"
 
 **日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
-Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 
 
@@ -35,6 +35,6 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [より多くのデータ プロバイダーから得られる強固な顧客分析情報](robust-customer-insights-more-data-providers.md)                      | 一般提供 | 2019 年 4 月           |
 | [Microsoft Teams 統合](productive-sales-collaboration-teams.md)              | 一般提供 | 2019 年 5 月 3 日           |
 | [コンテンツのレコメンデーションを含むプレイブックの機能強化](content-recommendation-sales-playbook.md)                    | パブリック プレビュー<br>一般提供 | 2019 年 3 月 4 日<br>2019 年 4 月           |
-| [価格見積作成ツールとのシームレスな統合エクスペリエンス](seamless-configure-price-quote-integrated-experience.md)        | 一般提供 | 2019 年 4 月           |
+| [価格見積作成ツールとのシームレスな統合エクスペリエンス](seamless-configure-price-quote-integrated-experience.md)        | 一般提供 | 2019 年 4 月から 5 月           |
 | [手動売上予測によって収益を正確に見積もり、情報に基づいた意思決定を実行する](simple-forecasting-effective-sales-performance-management.md)            | パブリック プレビュー | 2019 年 4 月           |
 | [Dynamics 365 for Sales Professional の簡略化された最初の実行エクスペリエンス](sales-professional-5x5.md)            | 一般提供 | 2019 年 4 月           |

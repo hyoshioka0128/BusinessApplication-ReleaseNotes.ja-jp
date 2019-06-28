@@ -3,18 +3,18 @@ title: Microsoft Stream 動画のビデオ コントロール
 description: アプリ内で Microsoft Stream 動画を表示する
 author: fikaradz
 ms.reviewer: anneta
-ms.date: 04/30/2019
+ms.date: 05/17/2019
 ms.assetid: bf88bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: fikaradz
 audience: Power user
-ms.openlocfilehash: 340af89b76397b1c60aa5c1ed4c92a8909c771e5
-ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
+ms.openlocfilehash: 0e5d96b19f48d5660635b831e738e3883628f4ea
+ms.sourcegitcommit: 6c1c9ed9328a3b6194ebc4741d0beeef0ef435f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "1446335"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "1605581"
 ---
 # <a name="video-control-for-microsoft-stream-videos"></a>Microsoft Stream 動画のビデオ コントロール
 

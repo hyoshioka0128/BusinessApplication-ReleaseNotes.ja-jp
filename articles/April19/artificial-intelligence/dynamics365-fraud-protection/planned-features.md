@@ -10,12 +10,12 @@ ms.custom:
 - dyn365-fieldservice
 ms.service: dynamics-365-customerservice
 ms.author: v-jowigh
-ms.openlocfilehash: 4a71c7a89e8f2fd7c4be901ff48025b51120eb69
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: fd2ec6233b35f660b7193ca4774deb4b00250e23
+ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225097"
+ms.lasthandoff: 05/29/2019
+ms.locfileid: "1608531"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-fraud-protection"></a>Dynamics 365 Fraud Protection の新機能と予定されている機能
 
@@ -29,7 +29,7 @@ ms.locfileid: "1225097"
 
  **日付** 列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
-Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、 [ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、 [ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 | 機能                                                                                        | リリースの種類         | 日付         |
 |------------------------------------------------------------------------------------------------|----------------------|--------------|
@@ -42,7 +42,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | **[ルール エンジン](rules-engine/index.md)**                                                                           |
 | [リストとコーホートの管理](rules-engine/manage-lists-cohorts.md)                                                 | パブリック プレビュー       | 2019 年 4 月   |
 | [リスク ルールの順序付けと管理](rules-engine/order-manage-risk-rules.md)                                              | パブリック プレビュー       | 2019 年 4 月   |
-| **[仮想詐欺アナリスト](virtual-fraud-analyst/index.md)**                                                          |
+| **[Virtual Fraud Analyst](virtual-fraud-analyst/index.md)**                                                          |
 | [レコメンデーション](virtual-fraud-analyst/recommendations.md)                                                           | パブリック プレビュー       | 2019 年 7 月   |
 | **[銀行の受入率の向上](boost-bank-acceptance-rates.md)**                                         | パブリック プレビュー       | 2019 年 4 月   |
 | **[ビジネスの把握](understand-business/index.md)**                                                  |

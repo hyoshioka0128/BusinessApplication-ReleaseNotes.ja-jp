@@ -3,18 +3,18 @@ title: Microsoft PowerApps 2019 年 4 月リリースの概要
 description: PowerApps は、ブラウザー、携帯電話、タブレットで実行されるビジネス アプリを、コーディングなしで作成できるようにするサービスです。
 author: evchaki
 ms.reviewer: anneta
-ms.date: 04/26/2019
+ms.date: 05/01/2019
 ms.assetid: 30b5c700-835d-e911-a973-000d3a1c79c5
 ms.topic: overview
 ms.service: business-applications
 ms.author: evchaki
 audience: Power user
-ms.openlocfilehash: 1cf980e4fb43c4611c39a10f307122cdaea3fb05
-ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
+ms.openlocfilehash: 31b57e16f5c16556fc35088dc4a269b565f3251d
+ms.sourcegitcommit: 6c1c9ed9328a3b6194ebc4741d0beeef0ef435f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "1445977"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "1605702"
 ---
 # <a name="overview-of-microsoft-powerapps-april-2019-release"></a>Microsoft PowerApps 2019 年 4 月リリースの概要
 [!include[microsoft-powerapps banner](../includes/microsoft-powerapps.md)]

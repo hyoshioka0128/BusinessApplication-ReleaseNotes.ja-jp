@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.reviewer: josaw
-ms.openlocfilehash: 9a825cf99eb842aad8a3cebb68f48a9b2f9f0738
-ms.sourcegitcommit: 7fc1e31dbcdd6afe3b8447803a8e63d77d796e7e
+ms.openlocfilehash: f2f88d6750b33f43b5fe3a3d95de346beb0be78a
+ms.sourcegitcommit: 3952e641fab14714721f1665aee9e22fac922417
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "1446443"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "1622137"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-for-talent"></a>Dynamics 365 for Talent の新機能と予定されている機能
 
@@ -23,7 +23,7 @@ ms.locfileid: "1446443"
 
 **日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
-Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 
 <!--Note:- Some of the features marked for April 2019 might ship earlier. These will
@@ -39,11 +39,10 @@ be published in the right edition of the release notes (October 2018 vs. April
 | [Broadbean を使用してより多くのサイトに求人を簡単に掲載できる](attract/easily-post-jobs-more-sites.md)                | パブリック プレビュー | 2019 年 4 月           |
 | [キャリア サイトを通じて候補者のエンゲージメントを高める](attract/improve-candidate-engagement-via-career-site.md)    | 一般提供 | 2019 年 7 月           |
 | [ソースの追跡機能](attract/track-job-site-return-investment-candidate-origin.md)      | パブリック プレビュー | 2019 年 3 月           |
-| [1 回のクリックで複数の候補者に対して管理アクションを実行する](attract/take-administrative-actions-multiple-candidates-single-click.md)    |パブリック プレビュー| 2019 年 5 月      |
-| [カスタマイズ可能なジョブ フォームとプロファイル フォームを作成する](attract/create-customizable-job-profile-forms.md) | パブリック プレビュー | 2019 年 4 月 |
+| [1 回のクリックで複数の候補者に対して管理アクションを実行する](attract/take-administrative-actions-multiple-candidates-single-click.md)    |パブリック プレビュー| 2019 年 6 月      |
+| [カスタマイズ可能なジョブ フォームとプロファイル フォームを作成する](attract/create-customizable-job-profile-forms.md) | パブリック プレビュー | 2019 年 6 月 |
 | [候補者の前歴 (社内または社外) に対応したカスタム採用ワークフローの作成](attract/create-custom-recruiting-workflows-that-map-candidate-origin-internal-vs-external.md) | パブリック プレビュー| 2019 年 4 月           |
 | [検索機能の強化](attract/search-enhancements.md) | パブリック プレビュー | 2019 年 4 月           |
-| [Microsoft Forms Pro とそのまま統合できる](attract/provide-OOB-integration-with-a-candidate-assessment-solution.md)  | パブリック プレビュー | 2019 年 7 月           |
 | [次点の候補者を追跡する](attract/silver-medalists.md)   | パブリック プレビュー | 2019 年 3 月|
 | **分析とアクション**                            |                      |                      |
 | [分析を通じて採用プロセスに関する分析情報を得る](attract/use-analytics-hiring-process-insights.md)     | パブリック プレビュー | 2019 年 4 月           |
@@ -84,7 +83,6 @@ be published in the right edition of the release notes (October 2018 vs. April
 |-----------------------------------------|----------------------|----------------------|
 | [Common Data Service で Core HR のエンティティを展開する](core-hr/expand-data-entities-cds-apps.md) | 一般提供 | 2019 年 7 月           |
 | [早退および欠勤のルールとポリシー](core-hr/leave-absence-rules.md)  | 一般提供 | 2019 年 7 月 |
-| [米国コンプライアンス レポート](core-hr/us-compliance-reports.md)  | 一般提供 | 2019 年 7 月 |
 | [高度な報酬のセキュリティ](core-hr/advanced-compensation-security.md) | 一般提供 | 2019 年 4 月 |
 
 

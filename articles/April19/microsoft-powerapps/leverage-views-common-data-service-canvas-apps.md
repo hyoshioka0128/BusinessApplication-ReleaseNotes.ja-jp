@@ -3,18 +3,18 @@ title: キャンバス アプリで Common Data Service からのビューを活
 description: キャンバス アプリで Common Data Service からのビューを活用する
 author: aorth
 ms.reviewer: anneta
-ms.date: 04/22/2019
+ms.date: 05/16/2019
 ms.assetid: ed87bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: aorth
 audience: Power user
-ms.openlocfilehash: d3b33cb3e209c4702d5fca406daf20a3be96ba8c
-ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
+ms.openlocfilehash: bbd73f6a7e6317d48edc8388ef9698c39b6f7a0f
+ms.sourcegitcommit: 6c1c9ed9328a3b6194ebc4741d0beeef0ef435f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "1446329"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "1605592"
 ---
 # <a name="leverage-views-from-common-data-service-in-canvas-apps-public-preview"></a>キャンバス アプリで Common Data Service からのビューを活用する (パブリック プレビュー)
 

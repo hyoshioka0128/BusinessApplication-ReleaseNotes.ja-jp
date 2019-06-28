@@ -2,18 +2,18 @@
 title: AI for Customer Service の新機能と予定されている機能 (2019 年 4 月)
 description: ここでは、2019 年 4 月から 2019 年 10 月の間に AI for Customer Service でリリースが計画されている機能の一覧を示します。
 author: shellyhaverkamp
-ms.date: 02/21/2019
+ms.date: 05/28/2019
 ms.assetid: 5993958f-d851-40b0-89b7-b855b9df7e71
 ms.topic: article
 ms.service: business-applications
-ms.author: ankitsar
+ms.author: tpalmer
 ms.reviewer: shellyha
-ms.openlocfilehash: 71de2a607926b7193236fcec5895d309da68418c
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 4123c182168d39a12f5dc2eef9194897795a7ace
+ms.sourcegitcommit: 864f4558b09899fada96ac95108ae63039029fb7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1236778"
+ms.lasthandoff: 06/10/2019
+ms.locfileid: "1624751"
 ---
 #  <a name="whats-new-and-planned-for-ai-for-customer-service"></a>AI for Customer Service の新機能と予定されている機能
 
@@ -21,7 +21,7 @@ ms.locfileid: "1236778"
 
 **日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
-Dynamics 365 ビジネス アプリケーションを利用できる地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
+Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
 
 ## <a name="dynamics-365-virtual-agent-for-customer-service"></a>Dynamics 365 Virtual Agent for Customer Service
@@ -45,7 +45,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる地域の一
 | [Salesforce、Zendesk、ServiceNow などのデータ ソースからデータを取り込む](insights/more-data-sources-support.md) | 一般提供 | 2019 年 8 月   |
 | [Dynamics 365 for Customer Service アプリケーション内でのインサイトの取得](insights/integrated-experience-with-dynamics-365-for-customer-service.md)   | 一般提供 | 2019 年 8 月             |
 | [Customer Service Insights のエクスペリエンスのパーソナライズ](insights/personalized-experience.md)  | 一般提供 | 2019 年 8 月  |
-| [同僚と分析情報やワークスペースを共有する](insights/workspace-sharing.md)  | 一般提供 | 2019 年 5 月             |
+| [同僚と分析情報やワークスペースを共有する](insights/workspace-sharing.md)  | 一般提供 | 2019 年 6 月             |
 | [カスタム エンティティやフィールド内に格納されているサポート データから分析情報を生成する](insights/custom-entities-support.md) | 一般提供 | 2019 年 4 月             |
 | [さらに分析するために Azure Data Lake v2 にデータをエクスポートする](insights/export-data-to-azure-data-lake-v2.md)  | 一般提供 | 2019 年 9 月      |
 | [組織のワークスペースを設定する](insights/setup-organizational-workspace.md)  | 一般提供 | 2019 年 8 月       |

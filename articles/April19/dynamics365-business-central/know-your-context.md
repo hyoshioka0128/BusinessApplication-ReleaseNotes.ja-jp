@@ -3,19 +3,19 @@ title: コンテキストまたはシステム インジケーター
 description: 定期的に会社、環境、または稼働日を変更する人は、インジケーターを見ると自分がどこにいるのかすぐにわかります。
 author: kotelko
 ms.reviewer: edupont
-ms.date: 01/21/2019
+ms.date: 05/10/2019
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
 ms.author: blazkote
 audience: end user
-ms.openlocfilehash: 738724882f298443136f3e0ed6f462cedded781d
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 04ee86d671ecf0a99714d142658978d95b4c5182
+ms.sourcegitcommit: 6e35a95a3ec33c1b4478fe5247fab577ed7a3a8d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225077"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "1539897"
 ---
 # <a name="work-date-indicator"></a>作業日インジケーター
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
@@ -29,6 +29,10 @@ ms.locfileid: "1225077"
 - 作業日を調整します。
 - 作業日を今日に切り替えます。
 - 通知をオフにします。
+
+また、**自分の設定** > **通知**でアラームのオン/オフを切り替えることができます。
+
+![作業日インジケーター](media/work_date_reminder.png "作業日インジケーターのアラーム設定")
 
 ## <a name="system-indicator"></a>システム インジケーター
 
