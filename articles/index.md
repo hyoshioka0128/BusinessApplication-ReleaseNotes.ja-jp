@@ -1,15 +1,16 @@
 ---
+redirect_url: /dynamics365/release-plans
 layout: HubPage
 hide_bc: true
 title: Dynamics 365 および Power Platform リリース ノート
 description: Dynamics 365、Power BI、PowerApps、Microsoft Flow、その他の新機能について紹介します (Sales、Service、Marketing、Operations、Finance、Talent、Retail 関連の新機能を含む)。
 ms.topic: hub-page
-ms.openlocfilehash: aec400f074b3eae42046c18f2f907a7a6bb62568
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 94c468655c0464a763c5bee618fbbbfa4305478c
+ms.sourcegitcommit: 5b1b4a4d37d3d33025465b384fd5da11dc39bf7b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225001"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "1631854"
 ---
 <div id="main" class="v2">
 <div class="container">

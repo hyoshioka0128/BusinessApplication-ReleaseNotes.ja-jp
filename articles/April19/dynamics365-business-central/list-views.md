@@ -3,35 +3,36 @@ title: リスト ビュー
 description: 独自の名前付きのフィルター処理されたリスト ビューを保存し、名前を変更し、削除し、他のユーザーと共有します。
 author: mikebcMSFT
 ms.reviewer: edupont
-ms.date: 02/25/2019
+ms.date: 06/10/2019
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
 ms.author: mikebc
 audience: developer, end user, customizer
-ms.openlocfilehash: 4e6dc8b2a04bf91b8dba9279db5466405de3673e
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 9d05c8832c64724b9768816471a6fdd58d51fd0f
+ms.sourcegitcommit: 336017dbdece373a5cb6d620dc1c8eb28c794e9a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225151"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "1629990"
 ---
-# <a name="list-views"></a><span data-ttu-id="6b9fa-103">リスト ビュー</span><span class="sxs-lookup"><span data-stu-id="6b9fa-103">List views</span></span>
+# <a name="list-views"></a><span data-ttu-id="868e1-103">リスト ビュー</span><span class="sxs-lookup"><span data-stu-id="868e1-103">List views</span></span>
 [!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
 
-## <a name="a-new-view-api-for-developers"></a><span data-ttu-id="6b9fa-104">開発者向けの新しいビュー API</span><span class="sxs-lookup"><span data-stu-id="6b9fa-104">A new view API for developers</span></span>
+## <a name="a-new-view-api-for-developers"></a><span data-ttu-id="868e1-104">開発者向けの新しいビュー API</span><span class="sxs-lookup"><span data-stu-id="868e1-104">A new view API for developers</span></span>
 
-<span data-ttu-id="6b9fa-105">開発者には、最近のクライアント用に Visual Studio Code でカスタム リスト ビューを作成するための新しいシンプルで直感的なモデルもあります。</span><span class="sxs-lookup"><span data-stu-id="6b9fa-105">Developers have a new, simple and intuitive model to build custom list views in Visual Studio Code for the modern clients.</span></span> <span data-ttu-id="6b9fa-106">開発者がそれぞれに固有のカスタム列レイアウトを使用してリストの代替ビューを作成できるようになるだけでなく、新しいビューによって以前のモデルの欠点のほとんどが解消されます。</span><span class="sxs-lookup"><span data-stu-id="6b9fa-106">Not only does it empower developers to create alternate views of a list with each their own custom column layout, but the new views also overcome most of the shortcomings with the earlier model.</span></span> <span data-ttu-id="6b9fa-107">たとえば、移動方法に関係なく、ビューが 1 つのリスト ページに表示されるようになりました。</span><span class="sxs-lookup"><span data-stu-id="6b9fa-107">For example, views now appear on a list page irrespective of how you navigate to it.</span></span>
+<span data-ttu-id="868e1-105">開発者には、最近のクライアント用に Visual Studio Code でカスタム リスト ビューを作成するための新しいシンプルで直感的なモデルもあります。</span><span class="sxs-lookup"><span data-stu-id="868e1-105">Developers have a new, simple, and intuitive model to build custom list views in Visual Studio Code for the modern clients.</span></span> <span data-ttu-id="868e1-106">開発者がそれぞれに固有のカスタム列レイアウトを使用してリストの代替ビューを作成できるようになるだけでなく、新しいビューによって以前のモデルの欠点のほとんどが解消されます。</span><span class="sxs-lookup"><span data-stu-id="868e1-106">Not only does it empower developers to create alternate views of a list with each their own custom column layout, but the new views also overcome most of the shortcomings with the earlier model.</span></span> <span data-ttu-id="868e1-107">たとえば、移動方法に関係なく、ビューが 1 つのリスト ページに表示されるようになりました。</span><span class="sxs-lookup"><span data-stu-id="868e1-107">For example, views now appear on a list page irrespective of how you navigate to it.</span></span>
 
-## <a name="saving-and-personalizing-list-views"></a><span data-ttu-id="6b9fa-108">リスト ビューの保存とパーソナライズ</span><span class="sxs-lookup"><span data-stu-id="6b9fa-108">Saving and personalizing list views</span></span>
-
-<span data-ttu-id="6b9fa-109">2019 年 4 月以降のマイナー更新で使用可能になり、ユーザーが自分のリスト フィルターや同様の個人用設定を保存して、異なるデータ スライス方法を作成できるようになります。</span><span class="sxs-lookup"><span data-stu-id="6b9fa-109">Available in a minor update after April '19, users will be able to save their list filters and similar personalizations to create different ways of slicing their data.</span></span> <span data-ttu-id="6b9fa-110">リスト ビューには、"販売する品目" のような名前が設定されていて、合計や分析コードに対するフィルター、適切なデータに動的にフィルターを適用するためのフィルター トークン (%MyCustomers など)、さらに複雑で調整されたリストのビューを作成できる異なる並べ替えが含まれる場合があります。</span><span class="sxs-lookup"><span data-stu-id="6b9fa-110">List views are given a name, such as "Items I sell," and might include filters on totals and dimensions, filter tokens (such as %MyCustomers) to dynamically filter to the right data, as well as different sorting allowing more complex and tailored views of a list.</span></span> <span data-ttu-id="6b9fa-111">ユーザーはリストの異なるビューをすばやく切り替えることができます。これには、独自の個人的なビューや、ビジネス アプリケーションやロールに標準で付属するビューが含まれます。</span><span class="sxs-lookup"><span data-stu-id="6b9fa-111">Users can quickly switch between different views of a list, which includes their own personal views or views that come as standard in their business application or for their role.</span></span> <span data-ttu-id="6b9fa-112">他の個人用設定と同様に、リスト ビューは、ユーザーがサインインしているデバイスやブラウザーに関係なく、ユーザーと一緒に移動します。</span><span class="sxs-lookup"><span data-stu-id="6b9fa-112">Similar to other personalizations, list views roam with the user, no matter which device or browser they sign in to.</span></span>
-
-<span data-ttu-id="6b9fa-113">![フィルター ウィンドウのメニューを使用してリスト ビューへの変更を保存する方法を示す概念設計](media/list-views.png "リスト ビューへの変更の保存に関する概念設計")</span><span class="sxs-lookup"><span data-stu-id="6b9fa-113">![Concept design illustrating how changes to a list view could be saved using a menu in the filter pane](media/list-views.png "Concept design for saving changes to a list view")</span></span>
-
+## <a name="saving-and-personalizing-list-views"></a><span data-ttu-id="868e1-108">リスト ビューの保存とパーソナライズ</span><span class="sxs-lookup"><span data-stu-id="868e1-108">Saving and personalizing list views</span></span>
+<span data-ttu-id="868e1-109">Business Central に対する 2019 年 4 月の更新プログラムでは、ビジネス ユーザーはフィルターを調整したり、変更をリストの新しいビューとして保存したりすることはできません。</span><span class="sxs-lookup"><span data-stu-id="868e1-109">In the April '19 update to Business Central, business users cannot adjust filters and save their changes as a new view of the list.</span></span> <span data-ttu-id="868e1-110">この機能は、Dynamics 365 Business Central の 2019 年ウェーブ 2 リリース計画に移行されました。</span><span class="sxs-lookup"><span data-stu-id="868e1-110">This feature has been moved to the Dynamics 365 Business Central 2019 Wave 2 release plan.</span></span> <span data-ttu-id="868e1-111">https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/dynamics365-business-central/saving-personalizing-list-views で詳細をご確認ください。</span><span class="sxs-lookup"><span data-stu-id="868e1-111">Learn more about it at https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/dynamics365-business-central/saving-personalizing-list-views.</span></span>
 
 <!--
+Available in a minor update after April '19, users will be able to save their list filters and similar personalizations to create different ways of slicing their data. List views are given a name, such as "Items I sell," and might include filters on totals and dimensions, filter tokens (such as %MyCustomers) to dynamically filter to the right data, as well as different sorting allowing more complex and tailored views of a list. Users can quickly switch between different views of a list, which includes their own personal views or standard views in their business application or for their role. Similar to other personalizations, list views roam with the user no matter which device or browser they sign in to.
+
+![Concept design illustrating how changes to a list view could be saved using a menu in the filter pane](media/list-views.png "Concept design for saving changes to a list view")
+
+
 Describe the new feature, and then give an elevator pitch of the business value for it. Include high-value capabilities that light up something exciting for our customers. The feature should be something that a customer needs to plan for...definitely larger than a hotfix or bug fix.
 
 If the feature has been designated as a key feature, complete the entire template. Otherwise, only complete the **Business value**, **Describe the feature**, and **Status** sections.

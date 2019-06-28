@@ -1,19 +1,23 @@
 ---
-title: Layout 機能のステップ バイ ステップの説明を提供する学習カード
-description: 学習カードを使用して、Dynamics 365 Layout の機能についてのステップバイステップの説明を取得します。 たとえば、資産の複製、複数選択の実行、モデルのサイズ変更、測定ツールの使用方法などを学びます。
+title: Dynamics 365 Layout 機能のステップ バイ ステップの説明を提供する学習カード
+description: 指導モーメントを使用して、Dynamics 365 Layout の機能についてのステップバイステップの説明を取得します。 たとえば、資産の複製、複数選択の実行、モデルのサイズ変更、測定ツールの使用方法などを学びます。
 author: ornellaalt
-ms.date: 03/05/2019
+ms.date: 05/15/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: ornella
 ms.reviewer: v-brycho
-ms.openlocfilehash: 7f7e5b6081e053baffbb4689e83afc5fd3b6e7e8
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: b7ae743b19c4e9359afd7aecabffa2b462e54669
+ms.sourcegitcommit: 0afd6e1dbe23f2bc9388678cecdd06a298a339f7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225107"
+ms.lasthandoff: 05/16/2019
+ms.locfileid: "1588466"
 ---
-# <a name="learning-cards-provide-step-by-step-instructions-for-layout-features"></a><span data-ttu-id="ebfed-104">Layout 機能のステップ バイ ステップの説明を提供する学習カード</span><span class="sxs-lookup"><span data-stu-id="ebfed-104">Learning cards provide step-by-step instructions for Layout features</span></span>
+# <a name="teaching-moments-provide-online-instructions"></a><span data-ttu-id="b6d87-104">指導モーメントによるオンラインの指示の提供</span><span class="sxs-lookup"><span data-stu-id="b6d87-104">Teaching moments provide online instructions</span></span> 
 
-<span data-ttu-id="ebfed-105">学習カードを使用して、Layout の新しい機能を発見したり、機能のサポートを受けたります。</span><span class="sxs-lookup"><span data-stu-id="ebfed-105">Use learning cards to discover new Layout features or to get support on features.</span></span> <span data-ttu-id="ebfed-106">ステップバイステップの説明を提供する学習カードは、**ヘルプ** メニューに付け足されています。</span><span class="sxs-lookup"><span data-stu-id="ebfed-106">Learning cards, which offer step-by-step instructions, will be attached to the **Help** menu.</span></span> <span data-ttu-id="ebfed-107">資産の複製、複数選択、資産のサイズ変更、測定ツールの使用など、選択した機能についての学習カードがあります。</span><span class="sxs-lookup"><span data-stu-id="ebfed-107">There will be learning cards for select features, such as duplicating an asset, multiselect, resizing an asset, and using measurement tools.</span></span> 
+<span data-ttu-id="b6d87-105">指導モーメントを使用して、Dynamics 365 Layout の新しい機能を発見したり、機能のサポートを受けたりします。</span><span class="sxs-lookup"><span data-stu-id="b6d87-105">Use teaching moments to discover new Dynamics 365 Layout features or to get support on features.</span></span> <span data-ttu-id="b6d87-106">指導モーメントには**ヘルプ** メニューからアクセスします。</span><span class="sxs-lookup"><span data-stu-id="b6d87-106">Access teaching moments from the **Help** menu.</span></span> 
+
+<span data-ttu-id="b6d87-107">![指導モーメント](media/teaching-moments.PNG "指導モーメント")</span><span class="sxs-lookup"><span data-stu-id="b6d87-107">![Teaching moments](media/teaching-moments.PNG "Teaching moments")</span></span>
+
+<span data-ttu-id="b6d87-108">Dynamics 365 Layout の詳細については、「[Dynamics 365 Layout ユーザー ガイド](https://docs.microsoft.com/dynamics365/mixed-reality/layout/user-guide)」をご覧ください。</span><span class="sxs-lookup"><span data-stu-id="b6d87-108">For more information on Dynamics 365 Layout, see the [Dynamics 365 Layout user guide](https://docs.microsoft.com/dynamics365/mixed-reality/layout/user-guide).</span></span>
