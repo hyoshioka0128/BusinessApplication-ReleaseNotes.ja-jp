@@ -643,6 +643,111 @@
       "source_path": "articles/April18/availability.md",
       "redirect_url": "https://aka.ms/dynamics_365_international_availability_deck",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-product-visualize/automatic-activity-posting.md",
+      "redirect_url": "../../change-history#mixed-reality",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/dynamics365-mixed-reality/microsoft-dynamics365-product-visualize/3D-model-layers.md",
+      "redirect_url": "../../change-history#mixed-reality",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/dynamics365-talent/attract/provide-OOB-integration-with-a-candidate-assessment-solution.md",
+      "redirect_url": "../../change-history#features-removed-from-release-notes-4",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/business-intelligence/power-bi-report-server/powerpivot-model-refresh.md",
+      "redirect_url": "../planned-features",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/service/omni-channel-engagement-hub/customer-owned-bots-omni-channel-engagement-hub.md",
+      "redirect_url": "../omnichannel-for-customer-service/customer-owned-bots",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/service/omni-channel-engagement-hub/index.md",
+      "redirect_url": "../omnichannel-for-customer-service/index",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/service/omni-channel-engagement-hub/live-chat-channel.md",
+      "redirect_url": "../omnichannel-for-customer-service/live-chat-channel",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/service/omni-channel-engagement-hub/multi-session-agent-experiences-web-usd.md",
+      "redirect_url": "../omnichannel-for-customer-service/multi-session-agent-experiences-web-usd",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/service/omni-channel-engagement-hub/portal-messaging.md",
+      "redirect_url": "../omnichannel-for-customer-service/portal-messaging",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/service/omni-channel-engagement-hub/sms.md",
+      "redirect_url": "../omnichannel-for-customer-service/sms",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/service/omni-channel-engagement-hub/supervisor-experiences.md",
+      "redirect_url": "../omnichannel-for-customer-service/supervisor-experiences",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/service/omni-channel-engagement-hub/unified-routing-work-distribution.md",
+      "redirect_url": "../omnichannel-for-customer-service/unified-routing-work-distribution",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/qna-autosuggested-questions.md",
+      "redirect_url": "../../../../october18/intelligence-platform/power-bi-service/pervasive-artificial-intelligence-bi/qna-autosuggested-questions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/qna-did-you-mean.md",
+      "redirect_url": "../../../../october18/intelligence-platform/power-bi-service/pervasive-artificial-intelligence-bi/qna-did-you-mean",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/qna-follow-up-questions.md",
+      "redirect_url": "../../../../october18/intelligence-platform/power-bi-service/pervasive-artificial-intelligence-bi/qna-follow-up-questions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/python-service.md",
+      "redirect_url": "../../../../october18/intelligence-platform/power-bi-service/pervasive-artificial-intelligence-bi/python-service",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/service/omnichannel-for-customer-service/portal-messaging.md",
+      "redirect_url": "../planned-features",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/dynamics365-talent/attract/invitations-to-apply-and-marketing-emails.md",
+      "redirect_url": "../planned-features",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/dynamics365-talent/attract/customizable-hiring-process.md",
+      "redirect_url": "../planned-features",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/dynamics365-talent/attract/take-administrative-actions-multiple-candidates-single-click.md",
+      "redirect_url": "../planned-features",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "articles/April19/dynamics365-talent/attract/create-customizable-job-profile-forms.md",
+      "redirect_url": "../planned-features",
+      "redirect_document_id": false
     }
   ]
 }
