@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
 ms.openlocfilehash: 1fad47b2619e734be1471c25ea88a8bb1c52a947
-ms.sourcegitcommit: 7dc161c9ae6cbe3cc1ce8bf2936cc887c07a275f
+ms.sourcegitcommit: d17c18839d36c91f1e83f4942a43128c4563ec9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "1592777"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1690991"
 ---
 # <a name="change-the-size-of-holograms-placed-in-space"></a>空間に配置したホログラムのサイズを変更する
 

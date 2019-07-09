@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
 ms.openlocfilehash: 132ac7419f759353deffd45c74a24a0a99192921
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.sourcegitcommit: d17c18839d36c91f1e83f4942a43128c4563ec9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1236822"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1690936"
 ---
 # <a name="streamlined-hologram-placement-and-manipulation"></a>効率化されたホログラムの配置と操作
 

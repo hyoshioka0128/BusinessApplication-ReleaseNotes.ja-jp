@@ -48,7 +48,6 @@
 #### [スーパーバイザー エクスペリエンス](service/omnichannel-for-customer-service/supervisor-experiences.md)
 #### [統合されたルーティングと作業の配分](service/omnichannel-for-customer-service/unified-routing-work-distribution.md)
 #### [Dynamics 365 用のチャット](service/omnichannel-for-customer-service/live-chat-channel.md)
-#### [ポータルのメッセージ機能](service/omnichannel-for-customer-service/portal-messaging.md)
 #### [SMS](service/omnichannel-for-customer-service/sms.md)
 #### [お客様が自分のボットを持ち込める機能](service/omnichannel-for-customer-service/customer-owned-bots.md)
 
@@ -79,7 +78,8 @@
 #### [顧客に割り当てられた自由書式の請求書テンプレートを非アクティブとしてマークする](dynamics365-finance-operations/fti-template-inactive.md)
 #### [仕入先請求書、販売注文、および販売契約書の新しい固定為替レート](dynamics365-finance-operations/new-fixed-exrate.md)
 #### [口座調整のキャンセル](dynamics365-finance-operations/cancel-bank-rec.md)
-#### [空白状態で小切手を作成する機能をオフにする](dynamics365-finance-operations/checks-blank-status.md)
+#### [小切手のページで空白状態の小切手を作成する](dynamics365-finance-operations/checks-blank-status.md)
+#### [仕入先請求書のワークフローの状態を回復不能から下書きにリセットする](dynamics365-finance-operations/reset-workflow-vend.md)
 
 ### 公的機関
 #### [主勘定に 1099 連邦税の既定値を関連付ける](dynamics365-finance-operations/fed1099.md)
@@ -199,8 +199,6 @@
 #### [Broadbean を使用してより多くのサイトに求人を簡単に掲載できる](dynamics365-talent/attract/easily-post-jobs-more-sites.md)
 #### [キャリア サイトを通じて候補者のエンゲージメントを高める](dynamics365-talent/attract/improve-candidate-engagement-via-career-site.md)
 #### [ソースの追跡機能](dynamics365-talent/attract/track-job-site-return-investment-candidate-origin.md)
-#### [1 回のクリックで複数の候補者に対して管理アクションを実行する](dynamics365-talent/attract/take-administrative-actions-multiple-candidates-single-click.md)
-#### [カスタマイズ可能なジョブ フォームとプロファイル フォームを作成する](dynamics365-talent/attract/create-customizable-job-profile-forms.md)
 #### [候補者の前歴 (社内または社外) に対応したカスタム採用ワークフローの作成](dynamics365-talent/attract/create-custom-recruiting-workflows-that-map-candidate-origin-internal-vs-external.md)
 #### [検索機能の強化](dynamics365-talent/attract/search-enhancements.md)
 #### [次点の候補者を追跡する](dynamics365-talent/attract/silver-medalists.md)
@@ -208,23 +206,18 @@
 #### [社内候補者のパイプラインを編成する](dynamics365-talent/attract/organize-internal-candidate-pipeline.md)
 #### [LinkedIn のプロフィールを使用して求人に応募する](dynamics365-talent/attract/use-linkedin-profile-apply-job.md)
 #### [インテリジェントな候補者の推奨](dynamics365-talent/attract/prospect-recommendations.md)
-#### [見込み候補者への招待状](dynamics365-talent/attract/invitations-to-apply-and-marketing-emails.md)
 #### [タレント プールの機能拡張](dynamics365-talent/attract/talent-pool-enhancements.md)
 #### [採用プロセスを監査する](dynamics365-talent/attract/audit-your-hiring-process.md)
 #### [候補者との連絡用にカスタマイズされた電子メール テンプレートとアカウントを作成する](dynamics365-talent/attract/create-customized-e-mail-templates-accounts-candidate-communications.md)
-#### [組織のニーズに合わせて採用プロセスをカスタマイズする](dynamics365-talent/attract/customizable-hiring-process.md)
 
 ### Onboard
 #### [アクション指向型のダッシュボードを使用して日常業務を効率化する](dynamics365-talent/onboard/use-action-oriented-dashboards-streamline-daily-tasks.md)
 #### [豊富な分析機能を使用して新規の採用やプロセスに関する分析情報を得る](dynamics365-talent/onboard/leverage-rich-analytics-get-insight-into-new-hires-processes.md)
 #### [新規採用者に対してアラーム メールを使用して案内確認を行う](dynamics365-talent/onboard/encourage-guide-completion-new-hire-reminder-emails.md)
-#### [関係のあるチーム メンバーと 1 対 1 の面談を自動的に設定することで新規採用者がすぐになじめるようにする](dynamics365-talent/onboard/get-new-hire-integrated-quickly-automatically-scheduling-1-1s-relevant-team-members.md)
-#### [全オンボーディング ガイドの一覧をすぐに表示する](dynamics365-talent/onboard/quickly-view-list-all-onboarding-guides.md)
-#### [新規採用者にオンボーディング ガイドに関するフィードバックを求める](dynamics365-talent/onboard/solicit-new-hires-feedback-their-onboarding-guides.md)
 #### [ロールにアクティビティを割り当てることでガイドの管理を効率化する](dynamics365-talent/onboard/assign-activities-roles.md)
 #### [Onboard Teams を使用して組織全体でベスト プラクティスを共有する](dynamics365-talent/onboard/share-best-practices-teams.md)
 #### [既存のテンプレートを自分のテンプレートにインポートすることでガイド作成に要する時間を短縮する](dynamics365-talent/onboard/import-template-into-yours.md)
-#### [必要なガイドにすぐにアクセスしてオンボーディング ジャーニーをスムーズに開始する](dynamics365-talent/onboard/zero-to-guide.md)
+#### [テンプレート ギャラリーから始めてガイドをすばやく作成する](dynamics365-talent/onboard/template-gallery.md)
 
 ### Core HR
 #### [CDS for Apps でデータ エンティティを展開する](dynamics365-talent/core-hr/expand-data-entities-cds-apps.md)
@@ -379,6 +372,7 @@
 #### [デモ レイアウトでの新しい学習リソースの提供](dynamics365-mixed-reality/microsoft-dynamics365-layout/demo-layouts.md)
 #### [ホログラム フェード設定](dynamics365-mixed-reality/microsoft-dynamics365-layout/hologram-fade.md)
 #### [HoloLens 2 との互換性](dynamics365-mixed-reality/microsoft-dynamics365-layout/hololens-2.md)
+#### [Dynamics 365 Import Tool の新しいファイル形式 (プレビュー)](dynamics365-mixed-reality/microsoft-dynamics365-layout/import-tool-formats.md)
 
 ### [Dynamics 365 Product Visualize](dynamics365-mixed-reality/microsoft-dynamics365-product-visualize/index.md)
 #### [新機能と予定されている機能](dynamics365-mixed-reality/microsoft-dynamics365-product-visualize/planned-features.md)
@@ -507,6 +501,7 @@
 #### [業務プロセス フロー内のカスタム コントロール](microsoft-flow/custom-controls-business-process-flows.md)
 #### [Visio でのデザイン フロー](microsoft-flow/design-flows-visio.md)
 #### [Dynamics 365 アプリケーションによる Flow 上への機能の構築](microsoft-flow/dynamics-365-applications-building-features.md)
+#### [新しいフィルター エクスペリエンス](business-intelligence/power-bi-desktop/new-filter-experience.md)
 #### [Flow for SharePoint の管理シナリオ](microsoft-flow/sharepoint-admin-scenarios.md)
 #### [改善された Power BI コネクタ](microsoft-flow/improved-power-bi-connector.md)
 #### [Power BI でのアラート作成の統合](microsoft-flow/integrated-alert-creation-power-bi.md)
@@ -522,15 +517,17 @@
 ## [ビジネス インテリジェンス](business-intelligence/index.md)
 ### [新機能と予定されている機能](business-intelligence/planned-features.md)
 ### [Power BI Desktop]()
-#### [リレーションシップ ビューの改善](business-intelligence/power-bi-desktop/improved-relationship-view.md)
-#### [新しいフィルター エクスペリエンス](business-intelligence/power-bi-desktop/new-filter-experience.md)
 #### [別のレポートへのドリルスルー](business-intelligence/power-bi-desktop/drill-between-pbix-reports.md)
 #### [式ベースの書式設定](business-intelligence/power-bi-desktop/expression-based-formatting.md)
+#### [アイコン セット](business-intelligence/power-bi-desktop/icon-sets.md) 
+#### [キー インフルエンサーのビジュアル化](business-intelligence/power-bi-desktop/key-influencers-visualization.md)
+#### [オブジェクトのグループ化](business-intelligence/power-bi-desktop/object-grouping.md)
 #### [レポート用パフォーマンス分析機能](business-intelligence/power-bi-desktop/perf-report-analyzer.md)
+#### [リレーションシップ ビューの改善](business-intelligence/power-bi-desktop/improved-relationship-view.md)
 #### [新しい既定のテーマ](business-intelligence/power-bi-desktop/new-default-theme.md)
 #### [テーマ エディター: グローバル既定値](business-intelligence/power-bi-desktop/theme-editor-global-defaults.md)
 #### [スライサーのビジュアル レベル フィルタリング](business-intelligence/power-bi-desktop/visual-level-filtering-slicers.md)
-#### [キー インフルエンサーのビジュアル化](business-intelligence/power-bi-desktop/key-influencers-visualization.md)
+
 
 ### [Power BI サービス]()
 #### [アプリ ナビゲーション](business-intelligence/power-bi-service/app-navigation.md)
@@ -566,10 +563,7 @@
 ##### [AutoML: 二項分類モデルと多項分類モデル](business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/automl-binary-multinomial-classification-models.md)
 ##### [Cognitive Services の統合 (Premium)](business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/cognitive-services-integration-premium.md)
 ##### [分析情報 - キー インフルエンサー](business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/insights-key-influencers.md)
-##### [Q&A - 自動提案](business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/qna-autosuggested-questions.md)
-##### [Q&A - 修正候補](business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/qna-did-you-mean.md)
-##### [Q&A - フォローアップの質問](business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/qna-follow-up-questions.md)
-##### [サービスでの Python のサポート](business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/python-service.md)
+
 
 
 ### [Power BI Mobile]()

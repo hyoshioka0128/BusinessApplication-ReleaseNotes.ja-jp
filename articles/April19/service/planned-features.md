@@ -9,12 +9,12 @@ ms.assetid: 0aa924a3-84fd-4371-8dd1-f66dc623d2b5
 author: DeepapMS
 ms.author: Deepap
 ms. reviewer: anjgup
-ms.openlocfilehash: 0595240334abd036f483d1f536f1b8981b0f2941
-ms.sourcegitcommit: 97131f1dfd2ec1e3b1b02768aaa5810a71ef52ac
+ms.openlocfilehash: 69d7d3422daab1687487c207c63a9d03e13d1e90
+ms.sourcegitcommit: 8fa2e2a5c9e5be6b642221db254107e741d26208
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "1631901"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "1702685"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-for-customer-service"></a>Dynamics 365 for Customer Service の新機能と予定されている機能 
 
@@ -32,9 +32,9 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | **コア Customer Service**       |        |        |
 | [サポート案件フォームの UI の機能強化](dynamics365-customer-service/customer-service-key-enhancements.md#case-form-ui-enhancements)      |  一般提供       |  2019 年 2 月      |
 | [タイムラインの機能強化](dynamics365-customer-service/customer-service-key-enhancements.md#timeline-enhancements)    |  一般提供       |  2019 年 6 月      |
-| [ナレッジ記事のテンプレート](knowledge-management/km-templates.md)                              | パブリック プレビュー | 2019 年 6 月             |
-| [ナレッジ記事の評価](knowledge-management/knowledge-article-rating.md)                                | 一般提供      | 2019 年 6 月    |
-| [ナレッジ記事の自動フィルタリング](knowledge-management/auto-filter-knowledge-articles.md)                                  | 一般提供       | 2019 年 6 月    |
+| [ナレッジ記事のテンプレート](knowledge-management/km-templates.md)                              | プライベート プレビュー | 2019 年 6 月             |
+| [ナレッジ記事の評価](knowledge-management/knowledge-article-rating.md)                                | 一般提供      | 2019 年 7 月    |
+| [ナレッジ記事の自動フィルタリング](knowledge-management/auto-filter-knowledge-articles.md)                                  | 一般提供       | 2019 年 7 月    |
 | [Chrome プロセスを使用して Web アプリケーションを Unified Service Desk にホストする](dynamics365-customer-service/unified-service-desk/use-chrome-browser-host-web-applications.md) | 一般提供 | 2019 年 4 月 10 日 |
 | [Unified Service Desk で Channel Integration Framework を使用する](dynamics365-customer-service/unified-service-desk/use-channel-integration-framework-unified-service-desk.md) | 一般提供 | 2019 年 4 月 10 日 |
 | [Unified Service Desk に対するシングル サインオン](dynamics365-customer-service/unified-service-desk/Single-Sign-On-for-Unified-Service-Desk.md) | 一般提供 | 2019 年 4 月 10 日 |
@@ -45,8 +45,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | [マルチセッション エージェント エクスペリエンス (Web)](omnichannel-for-customer-service/multi-session-agent-experiences-web-usd.md) | 一般提供 | 2019 年 7 月\*          |
 | [スーパーバイザー エクスペリエンス](omnichannel-for-customer-service/supervisor-experiences.md)        | 一般提供 | 2019 年 7 月\*           |
 | [統合されたルーティングと作業の配分](omnichannel-for-customer-service/unified-routing-work-distribution.md)  | 一般提供 | 2019 年 7 月\*           |
-| [Dynamics 365 用のチャット](omnichannel-for-customer-service/live-chat-channel.md)         | 一般提供 | 2019 年 7 月\*           |
-| [ポータルのメッセージ機能](omnichannel-for-customer-service/portal-messaging.md)             | 一般提供 | 2019 年 7 月\*             |
+| [Dynamics 365 用のチャット](omnichannel-for-customer-service/live-chat-channel.md)         | 一般提供 | 2019 年 7 月\* |
 | [SMS](omnichannel-for-customer-service/sms.md)                                | パブリック プレビュー       | 2019 年 3 月             |
 | [お客様が自分のボットを持ち込める機能](omnichannel-for-customer-service/customer-owned-bots.md)       | パブリック プレビュー       | 2019 年 4 月             |
 

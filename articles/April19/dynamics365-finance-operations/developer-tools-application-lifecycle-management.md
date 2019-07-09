@@ -2,16 +2,16 @@
 title: 開発者ツールとアプリケーション ライフサイクルの管理
 description: Finance and Operations と Retail の開発環境の設定は、すぐに使用できるクラウドおよびオンプレミスの VM の利用可能性を通して簡単かつ確実に行うことができます。
 author: robadawy
-ms.date: 01/21/2019
+ms.date: 06/24/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: robadawy
-ms.openlocfilehash: cfdca7166381ea517ec88f0a1ebb2a15662a4802
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: d515148e3a4848101762bd2f08276b271aa2a5e2
+ms.sourcegitcommit: 0ea5527b0231308498194bb834c920749b8aae06
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225152"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "1703027"
 ---
 #  <a name="developer-tools-and-application-lifecycle-management"></a>開発者ツールとアプリケーション ライフサイクルの管理
 [!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
@@ -26,4 +26,4 @@ Unified Operations 開発ツール、アプリケーション メタデータ、
 
 さらに、ビルド自動化フレームワークは VM を必要とせず、Azure DevOps のビルド機能のみに依存します。 リリース候補であるビルドを、LCS およびサンドボックス クラウド環境に自動的に展開できます。
 
-新しいお客様の場合、LCS の事前構成済み開発環境 (VM) はお客様の Azure サブスクリプションでホストされ、Microsoft によって管理されることはありません。 これらの環境を実行するコストを削減するため、新しい LCS 機能が導入されます。 Microsoft によって管理される Tier-1 環境 (現在は開発/テスト環境) は、テストおよび構成環境のみとなり (RDP アクセスは不可)、他の種類のクラウド環境と同じアーキテクチャになります。
+更新: 2019 年 4 月 1 日のリリースに間に合うように、Visual Studio Marketplace には Finance and Operations カスタム ビルド (AOT デプロイ可能パッケージ) をアップロードおよびデプロイするための Azure DevOps タスクが含まれるようになりました。 詳細および関連するお知らせについては、[Dynamics 365 for Finance and Operations での開発とカスタマイズに関するインサイダーのヒント](https://community.dynamics.com/365/financeandoperations/b/newdynamicsax)のブログを参照してください。

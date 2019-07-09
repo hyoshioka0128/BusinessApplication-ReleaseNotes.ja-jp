@@ -3,17 +3,17 @@ title: 2019 年 4 月の変更履歴
 description: 変更履歴
 author: Annbe
 manager: AnnBe
-ms.date: 06/12/2019
+ms.date: 07/01/2019
 ms.assetid: ''
 ms.topic: article
 ms.author: renwe@microsoft.com
 ms.service: business-applications
-ms.openlocfilehash: b66ee3ab8c6523ab2657a7d8c7cf49130f5e2ed0
-ms.sourcegitcommit: 405baded9df90bf7c53ca03cc937f5366187c1b1
+ms.openlocfilehash: 88bf85737336ec09074b335684a771ca6395765b
+ms.sourcegitcommit: 8a18715375f2403ce81c01b285e0e49828d70e6d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "1633132"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "1719031"
 ---
 # <a name="change-history"></a>変更履歴
 
@@ -59,10 +59,10 @@ ms.locfileid: "1633132"
 > |機能 |    変更 |    変更日付 |
 > |----------|-------|----------------|
 > | [ナレッジ記事のテンプレート](service/knowledge-management/km-templates.md) | パブリック プレビューの日付が 2019 年 3 月から 2019 年 6 月に変更されました | 5 月 2 日 |
-> | [ナレッジ記事の評価](service/knowledge-management/knowledge-article-rating.md)  | 一般提供の日付が 2019 年 4 月から 2019 年 6 月に変更されました | 5 月 2 日 |
-> | [ナレッジ記事の自動フィルタリング](service/knowledge-management/auto-filter-knowledge-articles.md) | 一般提供の日付が 2019 年 4 月から 2019 年 6 月に変更されました | 5 月 2 日 |
 > | [タイムラインの機能強化](service/dynamics365-customer-service/customer-service-key-enhancements.md#timeline-enhancements) | 一般提供の日付が 2019 年 4 月から 2019 年 6 月に変更されました | 5 月 2 日 |
-> | [マルチセッション エージェント エクスペリエンス (Web)](service/omnichannel-for-customer-service/multi-session-agent-experiences-web-usd.md) | パブリック プレビューから一般提供に変更され、日付は 2019 年 4 月から 2019 年 7 月になりました | 
+> | [マルチセッション エージェント エクスペリエンス (Web)](service/omnichannel-for-customer-service/multi-session-agent-experiences-web-usd.md) | パブリック プレビューから一般提供に変更され、日付は 2019 年 4 月から 2019 年 7 月になりました |
+> | [ナレッジ記事の評価](service/knowledge-management/knowledge-article-rating.md)  | 一般提供の日付が 2019 年 6 月から 2019 年 7 月に変更されました | 6 月 25 日 |
+> | [ナレッジ記事の自動フィルタリング](service/knowledge-management/auto-filter-knowledge-articles.md) | 一般提供の日付が 2019 年 6 月から 2019 年 7 月に変更されました | 6 月 25 日 |
 
 ### <a name="features-added-to-release-notes"></a>リリース ノートに追加された機能
 > [!div class="mx-tableFixed"]
@@ -84,6 +84,7 @@ ms.locfileid: "1633132"
 >|ナレッジ マネージメントの分析|5 月 2 日|
 >|SLA タイマーで経過時間と残り時間を表示 |5 月 2 日|
 >|SLA タイマーでの営業時間と実際の時間の表示 |5 月 2 日|
+>|ポータルのメッセージ機能| 6 月 25 日 |
 
 ## <a name="field-service"></a>Field Service
 
@@ -105,6 +106,7 @@ ms.locfileid: "1633132"
 > |デバイスのプロビジョニング | 5 月 22 日 | 
 > |さまざまな場所へのリソースの配置の最適化 | 6 月 6 日 | 
 > |最適化の分析情報 | 6 月 6 日 | 
+> |SLA の機能拡張 | 6 月 26 日 | 
 
 ### <a name="release-date-changed"></a>リリース日の変更
 > |機能 |    変更 |    変更日付 |
@@ -164,8 +166,10 @@ ms.locfileid: "1633132"
 > | [非アクティブのためセッションが終了する前にユーザーに警告する](dynamics365-finance-operations/alert-user-before-session-ends.md) | 5 月 31 日 |
 > | [マスター プラン構成ウィザード](dynamics365-finance-operations/mrp-wizard.md) | 6 月 4 日 |
 > | [口座調整のキャンセル](dynamics365-finance-operations/cancel-bank-rec.md) | 6 月 6 日 |
-> | [空白状態で小切手を作成する機能をオフにする](dynamics365-finance-operations/checks-blank-status.md) | 6 月 12 日 |
+> | [小切手のページで空白状態の小切手を作成する](dynamics365-finance-operations/checks-blank-status.md) | 6 月 12 日 |
 > | [プラットフォーム拡張性の機能強化ウェーブ 5](dynamics365-finance-operations/platform-extensibility5.md) | 6 月 12 日 |
+> | [仕入先請求書のワークフローの状態を回復不能から下書きにリセットする](dynamics365-finance-operations/reset-workflow-vend.md) | 6 月 19 日 |
+
 
 ### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 > [!div class="mx-tableFixed"]
@@ -197,6 +201,7 @@ ms.locfileid: "1633132"
 > | [保存されているビュー](dynamics365-finance-operations/saved-views.md)  | 目標リリース日が 2019 年 10 月に変更されました|5 月 21 日|
 > | [収益認識](dynamics365-finance-operations/revenue-recognition.md) | 目標リリース日が 2019 年 9 月に変更されました|5 月 29 日|
 > | [請求スケジュール](dynamics365-finance-operations/billing-schedules.md) | 目標リリース日が 2020 年 1 - 4 月に変更されました  | 6 月 6 日 |    
+> | [One Version の LCS 更新](dynamics365-finance-operations/LCS-UpdatesForOneVersion.md) | 目標リリース日が 2019 年 7 月に変更されました | 6 月 13 日 |
 
 
 ### <a name="feature-description-changed"></a>機能の説明の変更
@@ -209,6 +214,7 @@ ms.locfileid: "1633132"
 > | [Regulatory Configuration Service (RCS) が展開される適用範囲地域の拡大](dynamics365-finance-operations/increasing-coverage-regional-deployment-rcs.md) | 3 月 21 日 |
 > | [プラットフォーム拡張性の機能強化ウェーブ 3](dynamics365-finance-operations/platform-extensibility3.md) | 3 月 28 日 |
 > | [Common Data Service での Finance and Operations のデータ](dynamics365-finance-operations/integration-dual-write.md) | 4 月 12 日 |
+> | [開発者ツールとアプリケーション ライフサイクルの管理](dynamics365-finance-operations/developer-tools-application-lifecycle-management.md) | 6 月 24 日 |
 
 ## <a name="talent"></a>Talent
 
@@ -216,48 +222,64 @@ ms.locfileid: "1633132"
 > [!div class="mx-tableFixed"]
 > | 機能 | 追加日付 |
 > |---------|------------|
-> |[米国コンプライアンス レポート](dynamics365-talent/core-hr/us-compliance-reports.md)  | 3 月 29 日 |
+> |[テンプレート ギャラリーから始めてガイドをすばやく作成する](dynamics365-talent/onboard/template-gallery.md) | 6 月 17 日 |
 > |[高度な報酬のセキュリティ](dynamics365-talent/core-hr/advanced-compensation-security.md)  | 3 月 29 日 |
 
 ### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 > [!div class="mx-tableFixed"]
 > | 機能 | 削除日付 |
 > |---------|--------------|
-> |オファー準備期間の短縮|3 月 5 日|
-> |LinkedIn 内から直接求人に応募する| 3 月 5 日 |
-> |Microsoft Forms Pro とそのまま統合できる| 5 月 20 日 |
-> |米国コンプライアンス レポート| 6 月 6 日 |
+> | Microsoft Forms Pro とそのまま統合できる | 5 月 20 日 |
+> | 米国コンプライアンス レポート| 6 月 6 日 |
+> | 1 回のクリックで複数の候補者に対して管理アクションを実行する | 6 月 17 日 |
+> | カスタマイズ可能なジョブ フォームとプロファイル フォームを作成する | 6 月 17 日 |
+> | 見込み候補者への招待状 | 6 月 17 日 |
+> | 生産性向上のために採用プロセスのカスタマイズ | 6 月 17 日 |
+> | オファー準備期間の短縮 |3 月 5 日|
+> | LinkedIn 内から直接求人に応募する | 3 月 5 日 |
+> | 関係のあるチーム メンバーと 1 対 1 の面談を自動的に設定することで新規採用者がすぐになじめるようにする | 6 月 17 日 |
+> | 全オンボーディング ガイドの一覧をすぐに表示する | 6 月 17 日 |
+> | 新規採用者にオンボーディング ガイドに関するフィードバックを求める | 6 月 17 日 |
+> | 必要なガイドにすぐにアクセスしてオンボーディング ジャーニーをスムーズに開始する | 6 月 17 日 |
+
 
 ### <a name="release-date-changed"></a>リリース日の変更
 > [!div class="mx-tableFixed"]
 > |機能 |    変更 |    変更日付 |
 > |----------|-------|----------------|
-> | [米国コンプライアンス レポート](dynamics365-talent/core-hr/us-compliance-reports.md) | 2019 年 7 月の一般提供から 2019 年 9 月の一般提供に変更されました | 5 月 28 日 |
+> | [キャリア サイトを通じて候補者のエンゲージメントを高める](dynamics365-talent/attract/improve-candidate-engagement-via-career-site.md) | 2019 年 4 月のパブリック プレビューから 2019 年 7 月の一般提供に変更されました | 6 月 17 日 | 
+> | [Broadbean を使用してより多くのサイトに求人を簡単に掲載できる](dynamics365-talent/attract/easily-post-jobs-more-sites.md) | 2019 年 4 月の一般提供から 2019 年 4 月のパブリック プレビューに変更されました  | 6 月 17 日  |
+> | [LinkedIn のプロフィールを使用して求人に応募する](dynamics365-talent/attract/use-linkedin-profile-apply-job.md) | 2019 年 4 月の一般提供から 2019 年 4 月のパブリック プレビューに変更されました | 6 月 17 日  |
+> | [検索機能の強化](dynamics365-talent/attract/search-enhancements.md) | 2019 年 4 月のパブリック プレビューから 2019 年 8 月の一般提供に変更されました | 6 月 17 日 |
+> | [次点の候補者を追跡する](dynamics365-talent/attract/silver-medalists.md) | 2019 年 3 月のパブリック プレビューから 2019 年 7 月の一般提供に変更されました |    6 月 17 日 |
+> | [タレント プールの機能拡張](dynamics365-talent/attract/talent-pool-enhancements.md) | 2019 年 5 月のパブリック プレビューから 2019 年 7 月の一般提供に変更されました |   6 月 17 日 | 
+> | [ソースの追跡機能](dynamics365-talent/attract/track-job-site-return-investment-candidate-origin.md) | 2019 年 4 月のパブリック プレビューから 2019 年 7 月の一般提供に変更されました |   6 月 17 日 |
+> | [採用プロセスを監査する](dynamics365-talent/attract/audit-your-hiring-process.md) | 2019 年 5 月のパブリック プレビューから 2019 年 6 月の一般提供に変更されました | 6 月 17 日 |
+> | [社内候補者のパイプラインを編成する](dynamics365-talent/attract/organize-internal-candidate-pipeline.md) | 2019 年 3 月のパブリック プレビューから 2019 年 2 月の一般提供に変更されました | 6 月 17 日 |
+> | [アクション指向型のダッシュボードを使用して日常業務を効率化する](dynamics365-talent/onboard/use-action-oriented-dashboards-streamline-daily-tasks.md) | 2019 年 4 月のパブリック プレビューから 2019 年 8 月の一般提供に変更されました | 6 月 17 日 |
+> | [豊富な分析機能を使用して新規の採用やプロセスに関する分析情報を得る](dynamics365-talent/onboard/leverage-rich-analytics-get-insight-into-new-hires-processes.md) | 2019 年 4 月のパブリック プレビューから 2019 年 9 月の一般提供に変更されました | 6 月 17 日 |
+> | [新規採用者に対してアラーム メールを使用して案内確認を行う](dynamics365-talent/onboard/encourage-guide-completion-new-hire-reminder-emails.md) | 2019 年 3 月のパブリック プレビューから 2019 年 8 月の一般提供に変更されました | 6 月 17 日 |
+> | [ロールにアクティビティを割り当てることでガイドの管理を効率化する](dynamics365-talent/onboard/assign-activities-roles.md) | 一般提供が 2019 年 4 月から 2019 年 8 月に変更されました | 6 月 17 日 |
+> | [既存のテンプレートを自分のテンプレートにインポートすることでガイド作成に要する時間を短縮する](dynamics365-talent/onboard/import-template-into-yours.md) | 一般提供が 2019 年 4 月から 2019 年 2 月に変更されました | 6 月 17 日 |
 > | [1 回のクリックで複数の候補者に対して管理アクションを実行する](dynamics365-talent/attract/take-administrative-actions-multiple-candidates-single-click.md)    | 2019 年 5 月から 2019 年 6 月のパブリック プレビューに変更されました | 5 月 17 日      |
-> | [カスタマイズ可能なジョブ フォームとプロファイル フォームを作成する](dynamics365-talent/attract/create-customizable-job-profile-forms.md) | 2019 年 4 月から 2019 年 6 月のパブリック プレビューに変更されました | 5 月 17 日 |
 > | [Common Data Service で Core HR のエンティティを展開する](dynamics365-talent/core-hr/expand-data-entities-cds-apps.md) | 2019 年 4 月の一般提供から 2019 年 7 月の一般提供に変更されました | 4 月 8 日 | 
 > | [早退および欠勤のルールとポリシー](dynamics365-talent/core-hr/leave-absence-rules.md) | 2019 年 4 月の一般提供から 2019 年 7 月の一般提供に変更されました | 4 月 8 日 |
 > | [候補者の前歴 (社内または社外) に対応したカスタム採用ワークフローの作成](dynamics365-talent/attract/create-custom-recruiting-workflows-that-map-candidate-origin-internal-vs-external.md) | 2019 年 3 月から 2019 年 4 月のパブリック プレビューに変更されました| 3 月 29 日 |
-> | [検索機能の強化](dynamics365-talent/attract/search-enhancements.md) | 2019 年 2 月から 2019 年 4 月のパブリック プレビューに変更されました| 3 月 7 日 |
-> | [キャリア サイトを通じて候補者のエンゲージメントを高める](dynamics365-talent/attract/improve-candidate-engagement-via-career-site.md)| 2019 年 4 月のパブリック プレビューから 2019 年 7 月の一般提供に変更されました |  | 
-> | [Broadbean を使用してより多くのサイトに求人を簡単に掲載できる](dynamics365-talent/attract/easily-post-jobs-more-sites.md)| 2019 年 4 月の一般提供から 2019 年 4 月のパブリック プレビューに変更されました  |   |
-> | [LinkedIn のプロフィールを使用して求人に応募する](dynamics365-talent/attract/use-linkedin-profile-apply-job.md) | 2019 年 4 月の一般提供から 2019 年 4 月のパブリック プレビューに変更されました |   |
+
 
 ### <a name="feature-description-changed"></a>機能の説明の変更
 > [!div class="mx-tableFixed"]
 > |機能 |    変更 |    変更日付 |
 > |----------|-------|----------------|
 > | [採用プロセスを監査する](dynamics365-talent/attract/audit-your-hiring-process.md) |オファーに関する記述を削除しました|3 月 1 日|
-> | [生産性向上のためにカスタマイズ可能な採用プロセス](dynamics365-talent/attract/customizable-hiring-process.md)|ロックされたステージに関する記述を削除し、プログラムでのアクティビティの完了に関する記述を追加しました|3 月 29 日|
-> | [見込み候補者への招待状](dynamics365-talent/attract/invitations-to-apply-and-marketing-emails.md) | 目次のタイトルを変更しました (ファイルの内容変更)| 3 月 7 日 |
 > | [インテリジェントな候補者の推奨](dynamics365-talent/attract/prospect-recommendations.md) | 目次と予定されている機能を追加しました (ファイルの内容変更)| 3 月 7 日 |
 > | [Broadbean を使用してより多くのサイトに求人を簡単に掲載できる](dynamics365-talent/attract/easily-post-jobs-more-sites.md)| 機能の説明を変更し、Broadbean に関する記述を追加しました  |  |
-> | [Microsoft Forms Pro とそのまま統合できる](dynamics365-talent/attract/provide-OOB-integration-with-a-candidate-assessment-solution.md)  | 機能の説明を変更し、Form Pro に関する記述を追加しました | |
 > | [Onboard Teams を使用して組織全体でベスト プラクティスを共有する](dynamics365-talent/onboard/share-best-practices-teams.md)|   | 3 月 7 日 |
 > | [ロールにアクティビティを割り当てることでガイドの管理を効率化する](dynamics365-talent/onboard/assign-activities-roles.md)|   | 3 月 7 日 |
 > | [CDS for Apps で Core HR のエンティティを展開する](dynamics365-talent/core-hr/expand-data-entities-cds-apps.md) | | 3 月 29 日 |
 > | [早退および欠勤のルールとポリシー](dynamics365-talent/core-hr/leave-absence-rules.md)  |  |  3 月 29 日 |
-
+> | [候補者との連絡用にカスタマイズされた電子メール テンプレートとアカウントを作成する](dynamics365-talent/attract/create-customized-e-mail-templates-accounts-candidate-communications.md) | ユーザーが送信した電子メールのテキスト コンテンツをだれが変更できるかを管理者が制御できるという箇条書きを削除しました。 | 6 月 17 日 | 
+> | [キャリア サイトを通じて候補者のエンゲージメントを高める](dynamics365-talent/attract/improve-candidate-engagement-via-career-site.md) | 職務の通知と職務のお気に入り登録に関する機能を削除しました | 6 月 19 日 |
 
 ## <a name="retail"></a>Retail
 
@@ -465,6 +487,7 @@ ms.locfileid: "1633132"
 > |[指導モーメントによるオンラインの指示の提供](dynamics365-mixed-reality/microsoft-dynamics365-layout/teaching-moments.md)|5 月 8 日   |
 > |[デモ レイアウトでの新しい学習リソースの提供](dynamics365-mixed-reality/microsoft-dynamics365-layout/demo-layouts.md)|5 月 8 日   |
 > |[ホログラム フェード設定](dynamics365-mixed-reality/microsoft-dynamics365-layout/hologram-fade.md)|5 月 8 日   |
+> |[Dynamics 365 Import Tool の新しいファイル形式 (プレビュー)](dynamics365-mixed-reality/microsoft-dynamics365-layout/import-tool-formats.md)|6 月 21 日   |
 
 #### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 > [!div class="mx-tableFixed"]
@@ -626,12 +649,14 @@ ms.locfileid: "1633132"
 > | [テーマ エディター: グローバル既定値](business-intelligence/power-bi-desktop/theme-editor-global-defaults.md) | 5 月 10 日 |
 > | [スライサーのビジュアル レベル フィルタリング](business-intelligence/power-bi-desktop/visual-level-filtering-slicers.md) | 5 月 10 日 |
 > | [キー インフルエンサーのビジュアル化](business-intelligence/power-bi-desktop/key-influencers-visualization.md) | 5 月 10 日 |
+> | [アイコン セット](business-intelligence/power-bi-desktop/icon-sets.md) | 6 月 19 日 |
+> | [オブジェクトのグループ化](business-intelligence/power-bi-desktop/object-grouping.md) | 6 月 19 日 |
 
 #### <a name="features-removed-from-release-notes"></a>リリース ノートから削除された機能
 > [!div class="mx-tableFixed"]
 > | 機能 | 削除日付 |
 > |---------|--------------|
-> |LinkedIn Sales Navigator 用コネクタ|3 月 15 日|
+> |Connector for LinkedIn Sales Navigator|3 月 15 日|
 > |エンド ユーザーの調査 | 6 月 6 日 |
 
 #### <a name="release-date-changed"></a>リリース日の変更
@@ -641,6 +666,7 @@ ms.locfileid: "1633132"
 > |[リレーションシップ ビューの改善](business-intelligence/power-bi-desktop/improved-relationship-view.md)|2019 年 4 月から 2019 年 3 月に変更されました|6 月 6 日|
 > |[新しいフィルター エクスペリエンス](business-intelligence/power-bi-desktop/new-filter-experience.md)|2019 年 6 月から 2019 年 7 月に変更されました|6 月 6 日|
 > |[スライサーのビジュアル レベル フィルタリング](business-intelligence/power-bi-desktop/visual-level-filtering-slicers.md)|2019 年 9 月から 2019 年 6 月に変更されました|6 月 6 日|
+> | [新しい既定のテーマ](business-intelligence/power-bi-desktop/new-default-theme.md) | 2019 年 6 月から 2019 年 9 月に変更されました | 6 月 19 日 |
 
 ### <a name="power-bi-service"></a>Power BI サービス
 
@@ -661,13 +687,18 @@ ms.locfileid: "1633132"
 > |機能 | 変更 | 変更日付 |
 > |----------|-------|----------------|
 > |[読み取り専用シナリオにおけるサードパーティの BI ツールの接続性 (XML/A)](business-intelligence/power-bi-service/third-party-bi-tool-connectivity.md)|2019 年 2 月から 2019 年 3 月に変更されました| 3 月 4 日|
-> |[SAP 変数](business-intelligence/power-bi-service/sap-variables.md)|2019 年 4 月から 2019 年 6 月に変更されました|3 月 18 日|
+> |[SAP 変数](business-intelligence/power-bi-service/sap-variables.md)|2019 年 6 月から 2019 年 8 月に変更されました|7 月 1 日|
 > |[新しいワークスペース](business-intelligence/power-bi-service/new-workspaces.md)|2019 年 5 月から 2019 年 4 月に変更されました|4 月 10 日|
 > |[アプリ ナビゲーション](business-intelligence/power-bi-service/app-navigation.md)|2019 年 3 月から 2019 年 5 月に変更されました|4 月 10 日|
 > |[共有データセットと認定データセット](business-intelligence/power-bi-service/shared-certified-datasets.md)|2019 年 5 月から 2019 年 6 月に変更されました|5 月 22 日|
 > |[分析情報 - キー インフルエンサー](business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/insights-key-influencers.md)|2019 年 4 月から 2019 年 9 月に変更されました|5 月 28 日|
 > |[Azure ML 統合](business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/azureml-integration.md)|2019 年 4 月から 2019 年 6 月に変更されました|6 月 6 日|
 > |[Cognitive Services の統合 (Premium)](business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/cognitive-services-integration-premium.md)|2019 年 4 月から 2019 年 6 月に変更されました|6 月 6 日|
+> |[大規模データ演算エンジン](business-intelligence/power-bi-service/power-bi-dataflows/large-scale-data-compute-engine.md)|2019 年 4 月から 2019 年 6 月に変更されました|6 月 17 日|
+> | [Q&A - 自動提案](business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/qna-autosuggested-questions.md) | 2019 年 4 月から 2019 年 2 月に変更され、2019 年 4 月のリリース ノートから 2018 年 10 月のリリース ノートに移動されました | 6 月 17 日    |
+> | [Q&A - 修正候補](business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/qna-did-you-mean.md) | 2019 年 4 月から 2019 年 2 月に変更され、2019 年 4 月のリリース ノートから 2018 年 10 月のリリース ノートに移動されました | 6 月 17 日         |
+> | [Q&A - フォローアップの質問](business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/qna-follow-up-questions.md) | 2019 年 4 月から 2019 年 2 月に変更され、2019 年 4 月のリリース ノートから 2018 年 10 月のリリース ノートに移動されました | 6 月 17 日     |
+> | [サービスでの Python のサポート](business-intelligence/power-bi-service/pervasive-artificial-intelligence-bi/python-service.md) | 2019 年 4 月から 2019 年 2 月に変更され、2019 年 4 月のリリース ノートから 2018 年 10 月のリリース ノートに移動されました | 6 月 17 日    |
 
 #### <a name="feature-description-changed"></a>機能の説明の変更
 > [!div class="mx-tableFixed"]

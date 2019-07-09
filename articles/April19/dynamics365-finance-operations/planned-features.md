@@ -2,17 +2,17 @@
 title: Finance and Operations の新機能と予定されている機能 (2019 年 4 月)
 description: このトピックは、2019 年 2 月 から 2019 年 3 月までの間にプレビューになり、2019 年 4 月から 2019 年 9 月までの間にリリース予定の Finance and Operations の機能の一覧を示します。
 author: AnnBe
-ms.date: 06/12/2019
+ms.date: 06/20/2019
 ms.assetid: 7cd25ee8-8569-492a-9110-b814431c0d45
 ms.topic: article
 ms.service: business-applications
 ms.author: AnnBe
-ms.openlocfilehash: 0f81e07ff73436c41cdcbd0a7b37a2ddaa491203
-ms.sourcegitcommit: 6e42681d041ccf1c90ccada6d14b62b0e64958f8
+ms.openlocfilehash: f02f7e4098e2d6fec906db4015f68deb176ff72a
+ms.sourcegitcommit: 9358108eff1ff9fce8c131e93214ac3f2976c60f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "1628366"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "1701354"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-for-finance-and-operations"></a>Dynamics 365 for Finance and Operations の新機能と予定されている機能
 
@@ -41,7 +41,8 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | [顧客に割り当てられた自由書式の請求書テンプレートを非アクティブとしてマークする](fti-template-inactive.md) | 一般提供 |    両方    | 2019 年 6 月|
 | [仕入先請求書、販売注文、および販売契約書の新しい固定為替レート](new-fixed-exrate.md) | 一般提供 |    両方    | 2019 年 7 月|
 | [口座調整のキャンセル](cancel-bank-rec.md) | 一般提供 |    両方    | 2019 年 9 月|
-| [空白状態で小切手を作成する機能をオフにする](checks-blank-status.md) | 一般提供 |    両方    | 2019 年 9 月|
+| [小切手のページで空白状態の小切手を作成する](checks-blank-status.md) | 一般提供 |    両方    | 2019 年 9 月|
+| [仕入先請求書のワークフローの状態を回復不能から下書きにリセットする](reset-workflow-vend.md) | 一般提供 |    両方    | 2019 年 9 月|
 
 
 ## <a name="public-sector"></a>公的機関
@@ -192,4 +193,4 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | [セルフサービス展開](self-service-deployment.md)  | 一般提供 |  クラウド     | 2019 年 5 月 |
 | [ビジネス プロセス モデラー (BPM) のユーザー インターフェイスの向上](BPM-UI-Improvement.md) | 一般提供 | クラウド | 2019 年 3 月 4 日 |
 | [Azure Monitor にオンボードする](azure-monitor-support.md) | 一般提供 | クラウド | 2019 年 8 月 |
-| [One Version の LCS 更新](LCS-UpdatesForOneVersion.md) | 一般提供 | クラウド | 2019 年 6 月 |
+| [One Version の LCS 更新](LCS-UpdatesForOneVersion.md) | 一般提供 | クラウド | 2019 年 7 月 |
