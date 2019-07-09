@@ -2,29 +2,29 @@
 title: 分析を通じて採用プロセスに関する分析情報を得る
 description: 採用チームのメンバーは、パイプラインの状態を把握し、パイプライン内の候補者を効率的に通過させていく必要があります。
 author: ReneeW-CPub
-ms.date: 01/21/2019
+ms.date: 06/24/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: renwe
-ms.openlocfilehash: ea51f0784876cb0670302582484c2e88224d384e
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 5cc47fa5d78f04bcbd1355287c9f67f4f795b5c0
+ms.sourcegitcommit: 9cb5e6de8cb5a5c5450f5d983aa4f786be720d60
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225208"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "1703437"
 ---
-#  <a name="use-analytics-for-hiring-process-insights"></a><span data-ttu-id="3d0b7-103">分析を通じて採用プロセスに関する分析情報を得る</span><span class="sxs-lookup"><span data-stu-id="3d0b7-103">Use analytics for hiring process insights</span></span> 
+#  <a name="use-analytics-for-hiring-process-insights"></a><span data-ttu-id="941b4-103">分析を通じて採用プロセスに関する分析情報を得る</span><span class="sxs-lookup"><span data-stu-id="941b4-103">Use analytics for hiring process insights</span></span> 
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
+<span data-ttu-id="941b4-104">この機能は現在パブリック プレビュー段階です。</span><span class="sxs-lookup"><span data-stu-id="941b4-104">This feature is currently in Public Preview.</span></span> <span data-ttu-id="941b4-105">プレビュー機能の有効化の詳細については、「[Talent のプレビュー機能へのアクセス](https://docs.microsoft.com/dynamics365/unified-operations/talent/access-preview-feature)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="941b4-105">For more information about enabling preview features, see [Access preview features in Talent](https://docs.microsoft.com/dynamics365/unified-operations/talent/access-preview-feature).</span></span>
 
+<span data-ttu-id="941b4-106">採用チームは、パイプラインの状態を把握したうえで、採用プロセスの改善のためにどのような対策が必要かを把握する必要があります。</span><span class="sxs-lookup"><span data-stu-id="941b4-106">Hiring teams want to understand the status of their pipeline and what levers to pull to improve the hiring process.</span></span> <span data-ttu-id="941b4-107">分析レポートを使用すると、データを集約し、主要な指標を使用して、プロセス改善の可能性がある領域を特定できます。</span><span class="sxs-lookup"><span data-stu-id="941b4-107">Analytic reports aggregate data and raise key metrics, highlighting potential areas for process improvement.</span></span> <span data-ttu-id="941b4-108">Attract の統合された分析エクスペリエンスでは、トランザクション データと主要な採用指標を合わせて分析することで、優れた人材をより早く採用するために必要な分析情報を取得できます。</span><span class="sxs-lookup"><span data-stu-id="941b4-108">The integrated analytics experience of Attract brings transactional data and key hiring metrics together to give hiring teams the insights they need to hire the best talent, faster.</span></span> 
 
+<span data-ttu-id="941b4-109">この機能では、以下のものが提供されます。</span><span class="sxs-lookup"><span data-stu-id="941b4-109">This feature will provide:</span></span>
 
+- <span data-ttu-id="941b4-110">パイプラインですべての職務を集約するのに役立つ、専用の分析ハブ。</span><span class="sxs-lookup"><span data-stu-id="941b4-110">A dedicated Analytics Hub to help your pipeline aggregate across all jobs.</span></span>
+- <span data-ttu-id="941b4-111">職務の採用プロセスに関するスナップショットを取得するための職務分析機能。</span><span class="sxs-lookup"><span data-stu-id="941b4-111">Job Analytics to take a snapshot of the hiring process for a job.</span></span>
+- <span data-ttu-id="941b4-112">主要なプロセス指標 (歩留まり率、オファー受け入れ率、採用までの時間など)。</span><span class="sxs-lookup"><span data-stu-id="941b4-112">Key process metrics such as yield rate, offer accept rate, and time to hire.</span></span>
+- <span data-ttu-id="941b4-113">クロス フィルタリングによって主要指標の相関関係に関する分析情報を取得できる、対話型レポート。</span><span class="sxs-lookup"><span data-stu-id="941b4-113">Interactive reports with cross-filtering for insights into how key metrics relate.</span></span>
 
-<span data-ttu-id="3d0b7-104">採用チームは、パイプラインの状態を把握したうえで、採用プロセスの改善のためにどのような対策が必要かを把握する必要があります。</span><span class="sxs-lookup"><span data-stu-id="3d0b7-104">Hiring teams want to understand the status of their pipeline and what levers to pull to improve the hiring process.</span></span> <span data-ttu-id="3d0b7-105">分析レポートを使用すると、データを集約し、主要な指標を使用して、プロセス改善の可能性がある領域を特定できます。</span><span class="sxs-lookup"><span data-stu-id="3d0b7-105">Analytic reports aggregate data and raise key metrics, highlighting potential areas for process improvement.</span></span> <span data-ttu-id="3d0b7-106">Attract の統合された分析エクスペリエンスでは、トランザクション データと主要な採用指標を合わせて分析することで、優れた人材をより早く採用するために必要な分析情報を取得できます。</span><span class="sxs-lookup"><span data-stu-id="3d0b7-106">The integrated analytics experience of Attract brings transactional data and key hiring metrics together to give hiring teams the insights they need to hire the best talent, faster.</span></span> 
-
-<span data-ttu-id="3d0b7-107">この機能では、以下のものが提供されます。</span><span class="sxs-lookup"><span data-stu-id="3d0b7-107">This feature will provide:</span></span>
-
-- <span data-ttu-id="3d0b7-108">パイプラインですべての職務を集約するのに役立つ、専用の分析ハブ。</span><span class="sxs-lookup"><span data-stu-id="3d0b7-108">A dedicated Analytics Hub to help your pipeline aggregate across all jobs.</span></span>
-- <span data-ttu-id="3d0b7-109">職務の採用プロセスに関するスナップショットを取得するための職務分析機能。</span><span class="sxs-lookup"><span data-stu-id="3d0b7-109">Job Analytics to take a snapshot of the hiring process for a job.</span></span>
-- <span data-ttu-id="3d0b7-110">主要なプロセス指標 (歩留まり率、オファー受け入れ率、採用までの時間など)。</span><span class="sxs-lookup"><span data-stu-id="3d0b7-110">Key process metrics such as yield rate, offer accept rate, and time to hire.</span></span>
-- <span data-ttu-id="3d0b7-111">クロス フィルタリングによって主要指標の相関関係に関する分析情報を取得できる、対話型レポート。</span><span class="sxs-lookup"><span data-stu-id="3d0b7-111">Interactive reports with cross-filtering for insights into how key metrics relate.</span></span>
+<span data-ttu-id="941b4-114">Attract の分析の詳細については、「[プロセス インサイトの採用に分析レポートを使用する](https://docs.microsoft.com/dynamics365/unified-operations/talent/analytic-reports)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="941b4-114">For more information about analytics in Attract, see [Use analytic reports for hiring process insights](https://docs.microsoft.com/dynamics365/unified-operations/talent/analytic-reports).</span></span>

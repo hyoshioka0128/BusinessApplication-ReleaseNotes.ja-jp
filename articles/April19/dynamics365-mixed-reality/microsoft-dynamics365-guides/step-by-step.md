@@ -8,16 +8,16 @@ ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
 ms.openlocfilehash: cd41aa30ac57bf2745a45ad19977ef6ebf2e2da5
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.sourcegitcommit: d17c18839d36c91f1e83f4942a43128c4563ec9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1236712"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1690903"
 ---
-# <a name="simple-step-by-step-structure-ensures-nothing-is-missed"></a><span data-ttu-id="b82e7-103">シンプルな段階的構造により何も見逃さない</span><span class="sxs-lookup"><span data-stu-id="b82e7-103">Simple step-by-step structure ensures nothing is missed</span></span>
+# <a name="simple-step-by-step-structure-ensures-nothing-is-missed"></a><span data-ttu-id="ca9ea-103">シンプルな段階的構造により何も見逃さない</span><span class="sxs-lookup"><span data-stu-id="ca9ea-103">Simple step-by-step structure ensures nothing is missed</span></span>
 
-<span data-ttu-id="b82e7-104">ホログラフィック指示カードを介して段階的指示と付属メディアにアクセスします。</span><span class="sxs-lookup"><span data-stu-id="b82e7-104">Access step-by-step instructions and attached media through holographic instruction cards.</span></span>
+<span data-ttu-id="ca9ea-104">ホログラフィック指示カードを介して段階的指示と付属メディアにアクセスします。</span><span class="sxs-lookup"><span data-stu-id="ca9ea-104">Access step-by-step instructions and attached media through holographic instruction cards.</span></span>
 
-<span data-ttu-id="b82e7-105">![手順ごとの説明](media/step-card.PNG "手順ごとの説明")</span><span class="sxs-lookup"><span data-stu-id="b82e7-105">![Step-by-step instructions](media/step-card.PNG "Step-by-step instructions")</span></span>
+<span data-ttu-id="ca9ea-105">![手順ごとの説明](media/step-card.PNG "手順ごとの説明")</span><span class="sxs-lookup"><span data-stu-id="ca9ea-105">![Step-by-step instructions](media/step-card.PNG "Step-by-step instructions")</span></span>
 
-[<span data-ttu-id="b82e7-106">Guides のしくみの詳細</span><span class="sxs-lookup"><span data-stu-id="b82e7-106">Learn more about how Guides works</span></span>](https://docs.microsoft.com/dynamics365/mixed-reality/guides/authoring-overview)
+[<span data-ttu-id="ca9ea-106">Guides のしくみの詳細</span><span class="sxs-lookup"><span data-stu-id="ca9ea-106">Learn more about how Guides works</span></span>](https://docs.microsoft.com/dynamics365/mixed-reality/guides/authoring-overview)

@@ -8,12 +8,12 @@ ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
 ms.openlocfilehash: 53846cb9bb114f8181ce6451eb28fdb07ad52f43
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.sourcegitcommit: d17c18839d36c91f1e83f4942a43128c4563ec9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1236800"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1691002"
 ---
-# <a name="fbx-and-gltf-formats-automatically-transcoded"></a><span data-ttu-id="e52c0-103">FBX および GLTF 形式の自動トランスコード</span><span class="sxs-lookup"><span data-stu-id="e52c0-103">FBX and GLTF formats automatically transcoded</span></span>
+# <a name="fbx-and-gltf-formats-automatically-transcoded"></a><span data-ttu-id="48410-103">FBX および GLTF 形式の自動トランスコード</span><span class="sxs-lookup"><span data-stu-id="48410-103">FBX and GLTF formats automatically transcoded</span></span>
 
-<span data-ttu-id="e52c0-104">FBX ファイルと GLTF ファイルは、ライブラリへのアップロード時に、Microsoft HoloLens 用の正しい形式 (GLB) に自動的にトランスコードされます。</span><span class="sxs-lookup"><span data-stu-id="e52c0-104">FBX and GLTF files are automatically transcoded into the right format (GLB) for Microsoft HoloLens when the library is uploaded.</span></span>
+<span data-ttu-id="48410-104">FBX ファイルと GLTF ファイルは、ライブラリへのアップロード時に、Microsoft HoloLens 用の正しい形式 (GLB) に自動的にトランスコードされます。</span><span class="sxs-lookup"><span data-stu-id="48410-104">FBX and GLTF files are automatically transcoded into the right format (GLB) for Microsoft HoloLens when the library is uploaded.</span></span>
