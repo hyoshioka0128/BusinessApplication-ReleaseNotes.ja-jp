@@ -9,12 +9,12 @@ ms.topic: article
 ms.assetid: 3cb6f4dd-a0d6-3cb3-c2ed-34156cae9c85
 author: ReneeW-CPub
 ms.author: renwe
-ms.openlocfilehash: b539fc28d8eab10deaa0b367952c7fe7a6c92c70
-ms.sourcegitcommit: 6e42681d041ccf1c90ccada6d14b62b0e64958f8
+ms.openlocfilehash: 3a8076c55b168293cab1687fbfcdd67a0c238ee9
+ms.sourcegitcommit: 8fa2e2a5c9e5be6b642221db254107e741d26208
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "1628455"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "1702674"
 ---
 #  <a name="unified-routing-and-work-distribution"></a>統合されたルーティングと作業の配分
 [!include[service banner](../../includes/service.md)]
@@ -25,4 +25,8 @@ ms.locfileid: "1628455"
 
 ![統合されたルーティングと作業配分](media/unified-routing-work-distribution-1.png "統合されたルーティングと作業配分")
 
-統合されたルーティングと作業の配分システムを使用すれば、適切なエージェントに適切なタスクを割り当てることができます。 また、複数のチャネルや非同期の作業項目 (サポート案件、潜在顧客など) をカバーして、作業項目と要求を統合できます。
+統合されたルーティングと作業の配分システムを使用すれば、適切なエージェントに適切なタスクを割り当てることができます。       
+
+ > [!Note]
+ > サポート案件とその他のエンティティは、リリース ウェーブ 2 のオムニチャネル ルーティングと作業の配分に対して有効になる予定です。 詳細については、「[統合ルーティング](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/dynamics365-customer-service/unified-routing-queues)」を参照してください。
+

@@ -2,23 +2,22 @@
 title: Onboard Teams を使用して組織全体でベスト プラクティスを共有する
 description: 各部署のオンボーディング管理者は、個々の従業員と常に連絡を取り合う必要があります。
 author: manavm77
-ms.date: 03/07/2019
+ms.date: 06/25/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: mamandha
-ms.openlocfilehash: 913a3c8be9e385aa678ec4ce54b07388a07d55e5
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 2982ee7311c9837c1a568db94358103180a750cc
+ms.sourcegitcommit: 9cb5e6de8cb5a5c5450f5d983aa4f786be720d60
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225504"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "1703470"
 ---
 #  <a name="share-best-practices-across-your-organization-using-onboard-teams"></a>Onboard Teams を使用して組織全体でベスト プラクティスを共有する
 
-
-
-
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+この機能は現在一般提供されています。
 
 新しい従業員をオンボードするには連携が必要です。 コンテンツは、複数のレベル、部署、または地域で共有されます。 部署のリーダーは、部署やチーム内でシームレスにコンテンツを共有する機能を必要とします。 また、オンボーディングの進捗状況やマネージャーのエンゲージメントを把握するための可視性も必要です。 ただし、部署の境界は必ずしも簡単に使用できる形式で文書化されているとは限りません。 Onboard Teams を使用すれば、部署リーダーはチームや部署のメンバーを定義して、コラボレーション、コンテンツ共有、レポート作成を効率化できます。
 

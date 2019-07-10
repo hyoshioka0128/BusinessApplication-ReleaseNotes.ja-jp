@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: adamw
 ms.reviewer: mihart
-ms.openlocfilehash: fcc144959afcd7e5cd3d987ee895080c8a2852cd
-ms.sourcegitcommit: 405baded9df90bf7c53ca03cc937f5366187c1b1
+ms.openlocfilehash: 5548a57790a3b6460bf5105e1b0a03a631f2dfa0
+ms.sourcegitcommit: c825efc4b337a198ed3fe1a11f1da8f4eb5de77d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "1633110"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "1718543"
 ---
 # <a name="whats-new-and-planned-for-business-intelligence"></a>ビジネス インテリジェンスの新機能と予定されている機能
 
@@ -30,14 +30,16 @@ ms.locfileid: "1633110"
 | 機能                                                                 | リリースの種類         | 日付 |
 |-------------------------------------------------------------------------|----------------------|----------------------|
 | [リレーションシップ ビューの改善](power-bi-desktop/improved-relationship-view.md)     | 一般提供 | 2019 年 3 月 12 日           |
-| [新しいフィルター エクスペリエンス](power-bi-desktop/new-filter-experience.md)        | 一般提供 | 2019 年 7 月           |
 | [別のレポートへのドリルスルー](power-bi-desktop/drill-between-pbix-reports.md)        | パブリック プレビュー | 2019 年 4 月 10 日           |
 | [式ベースの書式設定](power-bi-desktop/expression-based-formatting.md)   | パブリック プレビュー | 2019 年 4 月 10 日           |
-| [レポート用パフォーマンス分析機能](power-bi-desktop/perf-report-analyzer.md)   | パブリック プレビュー | 2019 年 5 月 17 日           |
-| [新しい既定のテーマ](power-bi-desktop/new-default-theme.md)   | 一般提供 | 2019 年 6 月           |
+| [レポート用パフォーマンス分析機能](power-bi-desktop/perf-report-analyzer.md)   | 一般提供 | 2019 年 5 月 17 日           |
+| [スライサーのビジュアル レベル フィルタリング](power-bi-desktop/visual-level-filtering-slicers.md)   | 一般提供 | 2019 年 6 月 10 日           |
+| [新しいフィルター エクスペリエンス](power-bi-desktop/new-filter-experience.md)        | 一般提供 | 2019 年 7 月           |
+| [アイコン セット](power-bi-desktop/icon-sets.md)        | 一般提供 | 2019 年 7 月           |
+| [新しい既定のテーマ](power-bi-desktop/new-default-theme.md)   | 一般提供 | 2019 年 9 月           |
 | [テーマ エディター: グローバル既定値](power-bi-desktop/theme-editor-global-defaults.md)   | 一般提供 | 2019 年 9 月           |
-| [スライサーのビジュアル レベル フィルタリング](power-bi-desktop/visual-level-filtering-slicers.md)   | 一般提供 | 2019 年 6 月           |
 | [キー インフルエンサーのビジュアル化](power-bi-desktop/key-influencers-visualization.md)   | 一般提供 | 2019 年 9 月           |
+| [オブジェクトのグループ化](power-bi-desktop/object-grouping.md)   | 一般提供 | 2019 年 9 月           |
 
 
 ## <a name="power-bi-service"></a>Power BI サービス
@@ -58,7 +60,7 @@ ms.locfileid: "1633110"
 | [電子メール サブスクリプションの機能強化](power-bi-service/enhanced-email-subscriptions.md)             | 一般提供 | 2019 年 4 月           |
 | [Premium 向けの指標](power-bi-service/premium-metrics.md) *                                      | 一般提供 | 2019 年 8 月           |
 | [レポートのコメント](power-bi-service/commenting.md)   |一般提供   |2019 年 4 月    |
-| [SAP 変数](power-bi-service/sap-variables.md)                                          | 一般提供 | 2019 年 6 月           |
+| [SAP 変数](power-bi-service/sap-variables.md)                                          | 一般提供 | 2019 年 8 月           |
 | [Power BI 対応地域の追加](power-bi-service/additional-geos.md) *          | 一般提供 | 2019 年 9 月           |
 | [ヘルプとサポートの設定](power-bi-service/help-and-support-settings.md)            | パブリック プレビュー | 2019 年 3 月         |
 | [レポート パフォーマンスのメトリック](power-bi-service/report-performance-metrics.md)            | 一般提供 | 2019 年 8 月         |
@@ -71,17 +73,14 @@ ms.locfileid: "1633110"
 | [データフローの増分更新](power-bi-service/power-bi-dataflows/incremental-refresh.md) *  |一般提供   |2019 年 4 月    |
 | [Premium 容量に対するデータフロー](power-bi-service/power-bi-dataflows/dataflows-on-premium-capacity.md) *  |一般提供   |2019 年 4 月    |
 | [リンクしているエンティティ](power-bi-service/power-bi-dataflows/linked-entities.md) *   |一般提供   |2019 年 4 月    |
-| [大規模データ演算エンジン](power-bi-service/power-bi-dataflows/Large-scale-data-compute-engine.md) *     | パブリック プレビュー       | 2019 年 4 月           |
+| [大規模データ演算エンジン](power-bi-service/power-bi-dataflows/Large-scale-data-compute-engine.md) *     | パブリック プレビュー       | 2019 年 6 月           |
 | [データフローの依存関係を視覚化する新しいダイアグラム ビュー](power-bi-service/power-bi-dataflows/new-diagram-view-to-visualize-dataflow-dependencies.md)              | パブリック プレビュー       | 2019 年 4 月           |
 | **BI 用のパーベイシブ人工知能**       |  |         |
 | [Azure ML 統合](power-bi-service/pervasive-artificial-intelligence-bi/azureml-integration.md)                                       | 一般提供 | 2019 年 6 月           |
 | [自動機械学習: 二項分類モデルと多項分類モデル](power-bi-service/pervasive-artificial-intelligence-bi/automl-binary-multinomial-classification-models.md) * | パブリック プレビュー       | 2019 年 4 月           |
 | [Cognitive Services の統合 (Premium)](power-bi-service/pervasive-artificial-intelligence-bi/cognitive-services-integration-premium.md) *      | 一般提供 | 2019 年 6 月           |
 | [分析情報 - キー インフルエンサー](power-bi-service/pervasive-artificial-intelligence-bi/insights-key-influencers.md)                     | 一般提供 | 2019 年 9 月           |
-| [Q&A - 自動提案](power-bi-service/pervasive-artificial-intelligence-bi/qna-autosuggested-questions.md)  |    一般提供 | 2019 年 4 月         |
-| [Q&A - 修正候補](power-bi-service/pervasive-artificial-intelligence-bi/qna-did-you-mean.md)  |              一般提供 | 2019 年 4 月             |
-| [Q&A - フォローアップの質問](power-bi-service/pervasive-artificial-intelligence-bi/qna-follow-up-questions.md)                                       | 一般提供 | 2019 年 4 月           |
-| [サービスでの Python のサポート](power-bi-service/pervasive-artificial-intelligence-bi/python-service.md)                                       | 一般提供 | 2019 年 4 月           |
+
 
 > \*この機能を使用するには [Power BI Premium](https://docs.microsoft.com/power-bi/service-premium) が必要です。
 

@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
 ms.openlocfilehash: 53846cb9bb114f8181ce6451eb28fdb07ad52f43
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.sourcegitcommit: d17c18839d36c91f1e83f4942a43128c4563ec9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1236800"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1691002"
 ---
 # <a name="fbx-and-gltf-formats-automatically-transcoded"></a>FBX および GLTF 形式の自動トランスコード
 

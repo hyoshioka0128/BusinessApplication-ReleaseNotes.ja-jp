@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: dgittler
 ms.reviewer: krbjoran
-ms.openlocfilehash: cd0b74e5a9d15eaab8ea1c3c316c4c2907e14641
-ms.sourcegitcommit: 738a9a637dcc50b6ac52d47433e684ea61cedd52
+ms.openlocfilehash: 53042b95721a8141d8beaaf0426779ceed5c0f38
+ms.sourcegitcommit: c825efc4b337a198ed3fe1a11f1da8f4eb5de77d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "1623887"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "1718532"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-for-field-service"></a>Dynamics 365 for Field Service の新機能と予定されている機能
 
@@ -41,5 +41,4 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | **技術者の生産性**                             |                      |                      |
 | [埋め込み IoT](technician-productivity.md#embedded-iot)                         | 一般提供 | 2019 年 5 月           |
 | **サービス提供**                                  |                      |                      |
-| [SLA の機能拡張](service-delivery.md#sla-enhancements)                                    | 一般提供 | 2019 年 6 月            |
-| [マルチリソースの作業指示書管理の改善](service-delivery.md#enhanced-multi-resource-work-order-management)       | 一般提供 | 2019 年 6 月            |
+| [マルチリソースの作業指示書管理の改善](service-delivery.md#enhanced-multi-resource-work-order-management)       | 一般提供 | 2019 年 9 月            |

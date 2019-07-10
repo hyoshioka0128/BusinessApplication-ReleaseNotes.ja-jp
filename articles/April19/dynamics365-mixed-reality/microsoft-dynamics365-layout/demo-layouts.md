@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: ornella
 ms.reviewer: v-brycho
 ms.openlocfilehash: a69eb73f1d49298009a60b6e488f2f6ceca29cf2
-ms.sourcegitcommit: 7dc161c9ae6cbe3cc1ce8bf2936cc887c07a275f
+ms.sourcegitcommit: d17c18839d36c91f1e83f4942a43128c4563ec9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "1592779"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1690881"
 ---
 # <a name="demo-layouts-provide-new-learning-resource"></a>デモ レイアウトでの新しい学習リソースの提供
 

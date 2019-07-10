@@ -2,26 +2,24 @@
 title: LinkedIn のプロフィールを使用して求人に応募する
 description: 自分についての情報を記入することは、求人に応募する際に候補者が経験しなければならない最大のハードルの 1 つです。
 author: ReneeW-CPub
-ms.date: 01/21/2019
+ms.date: 06/24/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: renwe
-ms.openlocfilehash: 6e984c605eeeb52d206839e470695bce3809a0c3
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: dc528d16825b91880cf85c1eb866b65510f91c44
+ms.sourcegitcommit: 9cb5e6de8cb5a5c5450f5d983aa4f786be720d60
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225470"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "1703481"
 ---
 #  <a name="use-linkedin-profile-to-apply-for-a-job"></a>LinkedIn のプロフィールを使用して求人に応募する
 [!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-
-
-
+この機能は現在パブリック プレビュー段階です。 プレビュー機能の有効化の詳細については、「[Talent のプレビュー機能へのアクセス](https://docs.microsoft.com/dynamics365/unified-operations/talent/access-preview-feature)」を参照してください。
 
 自分についての情報を記入することは、求人に応募する際に候補者が経験しなければならない最大のハードルの 1 つです。 複数のフォームに情報を記入するのは面倒な作業なので、適格な候補者が応募の前に辞退してしまう可能性もあります。
-LinkedIn での応募機能を使用すれば、候補者は自分の LinkedIn プロフィールを使用して、Attract キャリア サイト内の求人に簡単に応募することができます。 この機能により、応募する候補者の作業を効率化し、候補者が応募時に直面する最大の障壁の 1 つを取り除くことができます。 また、採用組織で LinkedIn Apply Starters 機能を使用すれば、LinkedIn のデータで応募作業を開始したものの、送信に至らなかった候補者を追跡することができます。 これにより、採用担当者はそれらの候補者をタレント プールに追加して、組織全体の採用機会のために、それらの候補者を育成していくことができます。
+LinkedIn での応募機能を使用すれば、候補者は自分の LinkedIn プロフィールを使用して、Attract キャリア サイト内の求人に簡単に応募することができます。 この機能により、応募する候補者の作業を効率化し、候補者が応募時に直面する最大の障壁の 1 つを取り除くことができます。
 
 この機能では、候補者は次のことができます。
 

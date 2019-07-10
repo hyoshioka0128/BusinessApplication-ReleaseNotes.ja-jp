@@ -7,21 +7,15 @@ ms.topic: article
 ms.service: business-applications
 ms.author: kyley
 ms.reviewer: shellyha
-ms.openlocfilehash: a26fed2cae5332f05151b0269803cb0d35d94aaa
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: c278bb4a84a96831f862b18250e96fac47d13f38
+ms.sourcegitcommit: c825efc4b337a198ed3fe1a11f1da8f4eb5de77d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225345"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "1718521"
 ---
 #  <a name="service-delivery"></a>サービス提供
 [!include[dynamics365-field-service banner](../../includes/dynamics365-field-service.md)]
-
-## <a name="sla-enhancements"></a>SLA の機能拡張
-
-2018 年 10 月リリースの機能強化では、SLA KPI を使用して、SLA を作業指示書に関連付けて定義できるようになりました。SLA KPI により、作業指示書の到着時刻が自動的に抽出され、スケジュール アシスタントとリソース スケジュール最適化の両方のスケジュール ロジックに反映されます。 ただし、ロジックは今後も手動で適用するか、顧客定義のロジックを通じて適用する必要があります。
-
-顧客定義のパラメーターに基づいて作業指示書が作成された場合に、SLA を自動的に適用できるようになりました。
 
 ## <a name="enhanced-multi-resource-work-order-management"></a>マルチリソースの作業指示書管理の改善
 

@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
 ms.openlocfilehash: b13c68307597f1754150434fbee2759cce94aa60
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.sourcegitcommit: d17c18839d36c91f1e83f4942a43128c4563ec9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1236734"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1690969"
 ---
 # <a name="holographic-tethers-show-where-to-focus"></a>ホログラフィック テザーでフォーカスの場所を示す
 

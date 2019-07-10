@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
 ms.openlocfilehash: 2b44be10fee2983ed939ee0e1de1764f50f2f4e8
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.sourcegitcommit: d17c18839d36c91f1e83f4942a43128c4563ec9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1236767"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1690870"
 ---
 # <a name="add-images-and-videos-to-your-instructions"></a>説明に画像と動画を追加する
 

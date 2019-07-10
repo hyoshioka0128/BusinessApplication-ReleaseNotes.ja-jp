@@ -7,15 +7,15 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ramanasr
 ms.reviewer: renwe
-ms.openlocfilehash: aed0e2ef660581e9c040270d7a9e930c2291eca7
-ms.sourcegitcommit: 3db8e5371cb94786374423d6f863fb5ace9faf02
+ms.openlocfilehash: dfa120aaf2f3236d067804f2ae2ee370e4111c3b
+ms.sourcegitcommit: ed1c9aaff9ac070495ac0c066287104392861817
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "1615732"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "1726669"
 ---
 #  <a name="april-19-release-notes"></a>2019 年 4 月版リリース ノート
-**[2019 年 4 月リリース ノート PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2058936)** (最終更新日 2019 年 5 月 30 日)
+**[2019 年 4 月リリース ノート PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2058936)** (最終更新日 2019 年 7 月 1 日)
 
 2019 年 4 月のリリース ノートでは、2019 年 4 月から 2019 年 9 月中にリリースされる Dynamics 365 および Power Platform に関するすべての新機能について説明します。 一部の機能のプレビューは 2019 年 2 月に開始されます。 このリリース ノートは、[オンライン](https://aka.ms/businessappsreleasenotes)で参照することも、[PDF ファイル](https://go.microsoft.com/fwlink/p/?linkid=2058936)のドキュメントとしてダウンロードすることもできます。
 

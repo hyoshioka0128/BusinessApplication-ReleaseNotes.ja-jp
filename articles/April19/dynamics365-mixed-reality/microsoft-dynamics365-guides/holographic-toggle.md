@@ -8,11 +8,11 @@ ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
 ms.openlocfilehash: d4cec3e47b8129f13d176e161d72bee012d2fa2c
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.sourcegitcommit: d17c18839d36c91f1e83f4942a43128c4563ec9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1236756"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "1690892"
 ---
 # <a name="turn-holograms-on-and-off-with-a-glance"></a>視線でホログラムのオンとオフを切り替える
 
