@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 ms.reviewer: deonhe
-ms.openlocfilehash: 67b4eeac937952b456c2f2f04608f549a539d6b5
-ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
+ms.openlocfilehash: e2cd3850bba5ea596dc8b40f18911ce92a3b37c2
+ms.sourcegitcommit: 611196f6d269078b130fa2f6e4734db9fc3eb8de
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/29/2019
-ms.locfileid: "1608564"
+ms.lasthandoff: 07/05/2019
+ms.locfileid: "1729689"
 ---
 # <a name="whats-new-and-planned-for-common-data-model-and-data-integration"></a>Common Data Model とデータ統合の新機能と予定されている機能
 
@@ -66,7 +66,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | [Dynamics 365 for Finance and Operations ユーザーが Common Data Service のデータをネイティブに取得できるスムーズなエクスペリエンス](dual-write-link-common-data-service-apps.md) | パブリック プレビュー | 2019 年 5 月           |
 | [二重書き込みを有効にする前に初期データを書き込む機能](dual-write-link-common-data-service-apps.md) | パブリック プレビュー | 2019 年 5 月           |
 | [計画済みまたは計画外のメンテナンスに対する二重書き込みの回復性の確保](dual-write-link-common-data-service-apps.md) | パブリック プレビュー | 2019 年 5 月           |
-| [二重書き込みにおける複数の法人のサポート](dual-write-link-common-data-service-apps.md) | パブリック プレビュー | 2019 年 5 月           |
+| [二重書き込みにおける複数の法人のサポート](dual-write-link-common-data-service-apps.md) | パブリック プレビュー | 2019 年 7 月           |
 
 ## <a name="cds-data-integrator"></a>CDS データ インテグレーター
 

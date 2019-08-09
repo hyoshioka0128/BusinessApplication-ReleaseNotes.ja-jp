@@ -4,15 +4,15 @@ description: 2019 年 4 月の Dynamics 365 for Marketing の新機能の概要
 author: jain-shailesh
 ms.author: shjain
 ms.reviewer: kamaybac
-ms.date: 01/21/2019
+ms.date: 07/23/2019
 ms.topic: summary
 ms.service: business-applications
-ms.openlocfilehash: 735dc8ff36d30dfad2b982598afd239f4fdcad3d
-ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
+ms.openlocfilehash: f1eb30fd49365d76ee9ccb2ad1253bcb11f905f9
+ms.sourcegitcommit: d67d2ec8f1a32a34bbad4dce94d7d1f7346da4b6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/29/2019
-ms.locfileid: "1608399"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "1797099"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-for-marketing"></a>Dynamics 365 for Marketing の新機能と予定されている機能
 
@@ -23,10 +23,6 @@ ms.locfileid: "1608399"
 **日付**列で月が使用されている場合、機能はその月に配信されます。 配布日は、その月の最初の日だけでなく、その月の任意の日にすることができます。
 
 Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
-
-  > [!NOTE]
-  > Dynamics 365 for Customer Engagement 環境でプレビュー機能を有効にするには、「[2019 年 4 月のプレビュー機能をアクティブにして使う](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/marketing-preview-features)」を参照してください。
-
 
 | 機能                                                                           | リリースの種類         | 日付 |
 |-----------------------------------------------------------------------------------|----------------------|----------------------|
@@ -42,8 +38,4 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | [セグメント ブースト](segment-boost.md) | パブリック プレビュー | 2019 年 6 月 |
 | [スパム スコア](spam-score-prediction-emails.md) | パブリック プレビュー | 2019 年 6 月 |
 | [Web サイトの個人用設定](website-personalization.md)                                  | パブリック プレビュー<br>一般提供       | 2019 年 3 月 <br> 2019 年 4 月          |
-| [複合現実コンテンツ](mixed-reality-content.md)                                  | パブリック プレビュー       | 2019 年 12 月           |
-
-
-
-
+| [複合現実コンテンツ](mixed-reality-content.md)                                  | 取り消し済み       | この機能に関心がある場合は、[Marketing フォーラム](https://community.dynamics.com/365/marketing/f/dynamics-365-for-marketing-forum)でお知らせくだされば、関心に基づいて可能なリリースを計画することができます。             |

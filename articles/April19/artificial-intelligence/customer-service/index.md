@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: navrinas
 ms.reviewer: shellyha
-ms.openlocfilehash: bcc35be8461e1bb90d0e4f3d6c2bb5b272b6c33e
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 0d79b5c15aa5da519abb76ff29c0ce7ee1a23bf8
+ms.sourcegitcommit: 9a214c9c1f0638ff7ce2bfe5320324310d5c14e9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1224982"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "1732313"
 ---
 # <a name="overview-of-ai-for-customer-service-april-19-release"></a>AI for Customer Service の 2019 年 4 月リリースの概要
 [!include[customer-service banner](../../includes/dynamics365-ai-customer-service.md)]
@@ -36,9 +36,9 @@ Customer Service Insights では、AI テクノロジを使用して、新しく
 
 * **人間のフィードバックに基づく人工知能 (AI) によるサポート トピックのクラスタリングの継続的な改善**: ユーザーは、AI モデルに入力を提供することによって、AI トピックのクラスタリングを改善できます。 トピックの名前を変更したり、トピックを組み合わせたり、トピックを分離したり、クラスターの細分性を制御したりして、AI モデルをビジネスに合わせて調整できるようになりました。
 
-* **顧客サービス エクスペリエンスの 360 度のビューを取得する**: ユーザーは、1 つのダッシュボードに仮想エージェントと人間のエージェントの分析を統合することができます。 この 360 度のビューにより、顧客サービスのエクスペリエンスを総合的に向上させることができます。 また、ユーザーは、エージェントのパフォーマンス、エスカレートされたサポート案件、および SLA への準拠に関する新しいダッシュボードを使用して、詳細なコンテキストに関するインサイトを得ることができます。
+* **顧客サービス エクスペリエンスの 360 度のビューを取得する**: ユーザーは、1 つのダッシュボードに製品とチャネルの分析を統合することができます。 この完全ビューにより、顧客サービスのエクスペリエンスを総合的に向上させることができます。 
 
-* **Salesforce、Zendesk、ServiceNow、またはその他のデータ ソースからのデータの取り込み**: ユーザーは、Salesforce、Zendesk、ServiceNow などの他のシステムのサポート案件データに接続することにより、Dynamics 365 Customer Service Insights を利用できます。 追加のサポート案件管理システムを、Common Data Service に接続することができます。
+* **Salesforce、Zendesk、ServiceNow、またはその他のデータ ソースからのデータの取り込み**: ユーザーは、Common Data Service を通じて Salesforce、Zendesk、ServiceNow などの他のシステムのサポート案件データに接続することにより、Dynamics 365 Customer Service Insights を利用できます。
 
 * **Dynamics 365 for Customer Service からインサイトを直接取得する**: ユーザーは、埋め込まれたインサイト ダッシュボードを使用して、Dynamics 365 for Customer Service アプリケーション内で直接 Dynamics 365 Customer Service Insights にアクセスできます。 
 

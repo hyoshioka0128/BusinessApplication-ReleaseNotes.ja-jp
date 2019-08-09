@@ -4,19 +4,17 @@ description: 登録ページをカスタマイズし、Dynamics 365 for Marketin
 author: jain-shailesh
 ms.author: shjain
 ms.reviewer: kamaybac
-ms.date: 01/21/2019
+ms.date: 07/23/2019
 ms.topic: article
 ms.service: business-applications
-ms.openlocfilehash: 3aa35fd8176ba90a4e3b0bf58ced3915d3d978c0
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 10b188d06a12e88fa9c798a309f62f8e697b69cb
+ms.sourcegitcommit: d67d2ec8f1a32a34bbad4dce94d7d1f7346da4b6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225328"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "1797066"
 ---
 # <a name="enhanced-event-registration-experience"></a>強化されたイベント登録エクスペリエンス
-[!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
-
 
 イベント登録エクスペリエンスは、関連するブランドや製品に対する見込顧客の初期の印象を左右するため、マーケティング担当者にとって非常に重要です。 効率が悪いと、リードを失う可能性があります。 このリリースでは、イベント登録エクスペリエンスに対していくつかの機能強化が行われています。
 
@@ -28,3 +26,9 @@ ms.locfileid: "1225328"
 
 ![セッションの待機リスト](media/sessionwaitlist.png "セッションの待機リスト")
 <!-- Picture 1 -->
+
+## <a name="resources"></a>リソース
+
+- [セッション レベル登録と待機リストを設定する](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/session-level-registration)
+- [イベント登録 QR コード要素](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/content-blocks-reference#qr-code)
+- [イベント出席者の招待、登録、宿泊施設の提供](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/invite-register-house-event-attendees)

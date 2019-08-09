@@ -3,19 +3,19 @@ title: オムニチャネル自動請求
 description: 自動請求がすべての小売チャネルで機能します。
 author: hhainesms
 manager: AnnBe
-ms.date: 10/24/2018
+ms.date: 07/25/2019
 ms.topic: article
 ms.prod: ''
 ms.service: business-applications
 ms.technology: ''
 ms.author: hhainesms
 audience: ''
-ms.openlocfilehash: 7c3ee7600df9386cbf0b8c9e4221b23b164a97ee
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 331871262c67ca3bfc84fe54ddbc90f98f35ee00
+ms.sourcegitcommit: 046db029e8a47105f7ac4fa969dcaa2744022f55
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1224882"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "1789780"
 ---
 # <a name="omni-channel-auto-charges"></a>オムニチャネル自動請求
 
@@ -28,3 +28,5 @@ Dynamics 365 for Finance and Operations の既存の自動請求機能が強化�
 新しい計算ロジックが追加されます。 この新しいロジックを構成すると、個々の販売明細とそれに関連する配送モードに基づいて、料金をいっそうきめ細かく計算できるようになります。  これにより、各品目の配送モードに基づいて配送料金をより正確に計算することができ、明細レベルで料金を詳細に追跡できます。これは、返品処理時に役立つ可能性があります。
 
 この機能の目標は、すべての小売販売チャネルで機能する一貫した構成と計算ロジックを提供することです。
+
+詳細については、「[オムニチャネルの高度な自動請求](https://docs.microsoft.com/en-us/dynamics365/unified-operations/retail/omni-auto-charges)」を参照してください。

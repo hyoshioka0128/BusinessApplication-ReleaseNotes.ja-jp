@@ -2,18 +2,18 @@
 title: Dynamics 365 Layout の新機能と予定されている機能 (2019 年 4 月)
 description: Dynamics 365 Layout の 2019 年 4 月リリースの機能一覧
 author: ornellaalt
-ms.date: 06/24/2019
+ms.date: 07/16/2019
 ms.assetid: c4f0809b-23a7-4f8c-a956-f06a41f25145
 ms.topic: summary
 ms.service: business-applications
 ms.author: ornella
 ms.reviewer: v-brycho
-ms.openlocfilehash: 1e1800d04d8aa82ea469db13b6e1499b473b37cb
-ms.sourcegitcommit: fbc1a6b57007d5c2373d6a77f71b3b1dab1c9f8f
+ms.openlocfilehash: 9904c5d6ef6e7896594dd5377181487d30ba7e88
+ms.sourcegitcommit: 12c8f9d1f7a8451d56a52cd7217da03e66e79fb0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "1703193"
+ms.lasthandoff: 07/17/2019
+ms.locfileid: "1755862"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-layout"></a>Dynamics 365 Layout の新機能と予定されている機能
 
@@ -32,4 +32,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | [デモ レイアウトでの新しい学習リソースの提供](demo-layouts.md)|一般提供|2019 年 5 月 8 日|
 | [ホログラム フェード設定](hologram-fade.md)|一般提供|2019 年 5 月 8 日|
 | [Dynamics 365 Import Tool の新しいファイル形式 (プレビュー)](import-tool-formats.md)|パブリック プレビュー|2019 年 6 月 24 日|
-| [HoloLens 2 との互換性](hololens-2.md)|一般提供|2019 年 7 月|
+| [HoloLens 2 との互換性](hololens-2.md)|一般提供|2019 年 7 月 16 日|
+| [HoloLens 2 でのローカライズのサポート](localization-hololens-2.md)|一般提供|2019 年 7 月 16 日|
+| [ロックされたレイアウト](locked-layouts.md)|一般提供|2019 年 7 月 16 日|
+

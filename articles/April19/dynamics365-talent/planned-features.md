@@ -2,18 +2,18 @@
 title: Talent の新機能と予定されている機能 (2019 年 4 月)
 description: Talent の新機能の概要
 author: andreabichsel
-ms.date: 06/24/2019
+ms.date: 07/29/2019
 ms.assetid: 22d14c6a-0c1c-4589-9f6d-c82799b680a9
 ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.reviewer: anbichse
-ms.openlocfilehash: cf46659f6fcaafa16078460407f2e34293362de8
-ms.sourcegitcommit: 9cb5e6de8cb5a5c5450f5d983aa4f786be720d60
+ms.openlocfilehash: 366b74b2bcc7f3db48fafe5865fc03c73a53e2a3
+ms.sourcegitcommit: d72a019de8123f2d9f914e5f561e87b5286dc547
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/27/2019
-ms.locfileid: "1703492"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "1793017"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-for-talent"></a>Dynamics 365 for Talent の新機能と予定されている機能
 
@@ -44,6 +44,7 @@ be published in the right edition of the release notes (October 2018 vs. April
 | [次点の候補者を追跡する](attract/silver-medalists.md)   | 一般提供 | 2019 年 7 月 |
 | **分析とアクション**                            |                      |                      |
 | [分析を通じて採用プロセスに関する分析情報を得る](attract/use-analytics-hiring-process-insights.md)     | パブリック プレビュー | 2019 年 4 月           |
+| [ホームページでジョブの承認を確認する](attract/view-job-approvals-home-page.md) | 一般提供 | 2019 年 7 月 |
 | **社内モビリティ**                              |                      |                      |
 | [社内候補者のパイプラインを編成する](attract/organize-internal-candidate-pipeline.md)       | 一般提供 | 2019 年 2 月 |
 | **LinkedIn との組み合わせでより効果的に**                  |                      |                      |
@@ -53,7 +54,7 @@ be published in the right edition of the release notes (October 2018 vs. April
 | [タレント プールの機能拡張](attract/talent-pool-enhancements.md)    | 一般提供 | 2019 年 7 月           |
 | **管理とコンプライアンスの強化**     |                      |                      |
 | [採用プロセスを監査する](attract/audit-your-hiring-process.md)   | 一般提供 | 2019 年 6 月           |
-| [候補者との連絡用にカスタマイズされた電子メール テンプレートとアカウントを作成する](attract/create-customized-e-mail-templates-accounts-candidate-communications.md)          | パブリック プレビュー | 2019 年 6 月           |
+| [候補者との連絡用にカスタマイズされた電子メール テンプレートとアカウントを作成する](attract/create-customized-e-mail-templates-accounts-candidate-communications.md)          | 一般提供 | 2019 年 7 月 7 日           |
 
 ##  <a name="onboard"></a>Onboard
 

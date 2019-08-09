@@ -1,18 +1,18 @@
 ---
 title: Dynamics 365 Remote Assist の 2019 年 4 月の更新プログラムでのモバイル上のリモート アシスト機能
 description: Dynamics 365 Remote Assist の 2019 年 4 月更新プログラムでのモバイル上のリモート アシスト機能により、拡張現実対応の Android デバイスに HoloLens エクスペリエンスがもたらされます。
-author: MatthewJonPaul
+author: bencorn
 ms.date: 04/02/2019
 ms.topic: article
 ms.service: business-applications
-ms.author: mapau
+ms.author: becorn
 ms.reviewer: v-brycho
-ms.openlocfilehash: ae1a4a8c5cbb4ea6ed0438eb9463ea2949cbb361
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 7b2a4a706534eff0c63f1d32cfde67bacc533213
+ms.sourcegitcommit: 400975521747b572d34c7758bc5c887ff6fb55fc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225389"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "1755725"
 ---
 # <a name="mobile-app-in-preview"></a>モバイル アプリ (プレビュー)
 [!include[microsoft-dynamics365-remote-assist banner](../../includes/microsoft-dynamics365-remote-assist.md)]

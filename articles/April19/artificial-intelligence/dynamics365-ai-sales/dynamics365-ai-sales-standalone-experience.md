@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.reviewer: ''
-ms.openlocfilehash: 0dbb2c32b6b85f04799e2ed0cd08f95940690e6f
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 72a8586d28a1dd7d4fbd940be38c135a50c7059a
+ms.sourcegitcommit: 0f48f7dc02fb03b69b5dc2725aab0f46e25cb069
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225038"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "1833809"
 ---
 #  <a name="sales-insights-application-for-sales-managers"></a>営業マネージャー向けの Sales Insights アプリケーション
 [!include[dynamics365-ai-sales banner](../../includes/dynamics365-ai-sales.md)]
@@ -37,12 +37,6 @@ AI for Sales では、パイプラインと取引に関する主要業績評価�
 営業マネージャーは、営業マネージャー向けスタンドアロン エクスペリエンス内の改善された検索エクスペリエンスを使用して、探している情報とインサイトをより迅速に見つけることができます。 最も一般的な質問や重要な質問に対する回答が、質問に回答するための最良の主要業績評価指標を含む対話型レポートを営業マネージャーがすばやく開いてフィルター処理するのに役立つ、厳選された結果を通して提供されます。
 
 さらに、あまり一般的ではない質問については、営業マネージャーが探している分析情報を入手するのに役立つ可能性のある最適なデータを自動的に見つけて視覚化することができます。 営業マネージャーが最善の質問を理解できるよう、検索エクスペリエンスでは改良されたオートコンプリートと推奨される質問の包括的なライブラリも提供されます。
-
-
-### <a name="predictive-forecasting"></a>見通し予測
-
-予測プロセスから手動でエラーが発生しやすいステップを削除することで、営業マネージャーは AI ベースのモデルを活用して、各期間の終わりにチームの収益を正確に予測できます。 売上予算に対する予測を視覚化して、コーチングとコース修正の機会を明らかにできます。 見通し予測により、マネージャーはさらに正確な予測を提供し、適切な取引に集中することができます。
-
 
 ## <a name="call-intelligence"></a>コール インテリジェンス
 

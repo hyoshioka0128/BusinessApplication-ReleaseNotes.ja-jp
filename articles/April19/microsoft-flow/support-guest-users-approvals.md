@@ -3,18 +3,18 @@ title: 承認におけるゲスト ユーザーのサポート
 description: 承認で、他のテナントとの共有と、それらのテナントへの割り当てがサポートされます。 これは、AAD のゲスト ユーザーを通じて実現されます。つまり、他のテナントのユーザーをゲストとして招待し、ロールとアクセス許可を割り当てることができます。
 author: KaranSr
 ms.reviewer: deonhe
-ms.date: 05/06/2019
+ms.date: 06/26/2019
 ms.assetid: 9b88bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: karansr
 audience: Power user
-ms.openlocfilehash: e9da2f4a8dc710bc4061cab2d08d572cf09cdda5
-ms.sourcegitcommit: 2377f9a8537925401f30f33dd73d1eb1eecda35a
+ms.openlocfilehash: d8bc1e87a106a6d0c517544550bf32688919d87f
+ms.sourcegitcommit: 13a94b4173f5b62040e0eb13b7dffe7a901e3b29
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "1621481"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "1756873"
 ---
 # <a name="support-for-guest-users-in-approvals"></a>承認におけるゲスト ユーザーのサポート
 

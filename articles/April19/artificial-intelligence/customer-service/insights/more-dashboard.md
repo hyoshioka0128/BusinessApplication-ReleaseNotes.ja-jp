@@ -1,30 +1,10 @@
 ---
-title: エージェントの概要、エスカレートされたサポート案件、および SLA コンプライアンス ダッシュボード
-description: パブリック プレビュー時から使用できる既存のダッシュボードに加えて、ユーザーはエージェントのパフォーマンス、エスカレートされたサポート案件、SLA コンプライアンスについても、コンテキストに応じた分析情報を得ることができます。
-author: gxy001
-ms.date: 01/21/2019
-ms.topic: article
-ms.service: business-applications
-ms.author: xiaoying
-ms.reviewer: v-stsau
-ms.openlocfilehash: 9cadc3b29254924f741249390ec9ceed9d5a7b88
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+redirect_url: ../planned-features#dynamics-365-customer-service-insights
+ms.openlocfilehash: 91484568dc8ee2d955c57e188c9f34af3a0c74cf
+ms.sourcegitcommit: d09f6016b146f3126173f8f9023013b682859f61
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1224981"
+ms.lasthandoff: 07/08/2019
+ms.locfileid: "1729828"
 ---
-# <a name="agent-overview-escalated-cases-and-sla-compliance-dashboards"></a>エージェントの概要、エスカレートされたサポート案件、および SLA コンプライアンス ダッシュボード
-[!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]
-
-
-パブリック プレビューのときから使用できる KPI サマリー、受け付けたサポート案件、サポート案件の解決、顧客満足度に関する既存のダッシュボードに加えて、ユーザーは、エージェントのパフォーマンス、エスカレートされたサポート案件、サービス レベル アグリーメント (SLA) のコンプライアンスについても、コンテキストに応じた分析情報を取得できます。
-
-![KPI サマリー ダッシュボードには、顧客サービスを測定するための主要業績評価指標のスナップショットが表示される](../media/customer-service-insights-2.png "KPI サマリー")
-
-
-- エージェント概要ダッシュボードでは、平均解決時間、顧客満足度 (CSAT)、SLA コンプライアンス、応答時間など、エージェントのパフォーマンスを見ることができます。 複数のチャネルについての AI 主導の分析情報を取得し、長所やパフォーマンスに影響がある部分を強調表示して、トレーニングと改善の機会を明らかにすることができます。
-
-- エスカレートされたサポート案件のダッシュボードでは、顧客サポート案件のエスカレーションにおける一般的な傾向とパターンについての AI 主導の分析情報が提供されます。 エスカレートされたサポート案件で発生しているトピックを識別し、影響が広範囲に及ぶ前にプロアクティブに問題に対処することができます。 そのまますぐに使用できる一連の指標、グラフ、および履歴の比較では、顧客サービスのパフォーマンスに対するエスカレーションの影響を視覚化して評価することができます。
-
-- SLA コンプライアンス ダッシュボードは、顧客サービス チームによる SLA の責務の達成度合を把握するのに役立ちます。 AI 主導の分析情報とすぐに使用できる指標、グラフ、履歴の比較は、SLA コンプライアンス レベルを評価し、傾向を識別し、SLA 違反の原因となる一般的なトピックを強調するのに役立ちます。
+ ローカライズ可能なコンテンツはありません。 ファイルはリダイレクト専用です。

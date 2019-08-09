@@ -1,19 +1,18 @@
 ---
 title: Dynamics 365 Remote Assist の新機能と予定されている機能 (2019 年 4 月)
 description: Dynamics 365 Remote Assist の 2019 年 4 月の更新プログラムで予定されている機能の一覧
-author: MatthewJonPaul
-ms.date: 05/06/2019
-ms.assetid: b02d802b-98a6-460c-8562-9bd8029fbad5
+author: bencorn
+ms.date: 07/16/2019
 ms.topic: summary
 ms.service: business-applications
-ms.author: mapau
+ms.author: becorn
 ms.reviewer: v-brycho
-ms.openlocfilehash: 1e0687732d6c7252608ec21d1cdb1b8e31d6aaa3
-ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
+ms.openlocfilehash: b559dd4cde456098a388729c2ced3ce639998bf8
+ms.sourcegitcommit: 400975521747b572d34c7758bc5c887ff6fb55fc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/29/2019
-ms.locfileid: "1608366"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "1755681"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-remote-assist"></a>Dynamics 365 Remote Assist の新機能と予定されている機能
 
@@ -34,5 +33,6 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | [グループ通話](group-calling.md)                                         | 一般提供 | 2019 年 4 月 1 日             |
 | [モバイル アプリ](mobile-app.md)           | パブリック プレビュー | 2019 年 4 月 1 日|
 | [会社間通話](cross-company-calling.md)|一般提供|2019 年 5 月 6 日|
+| [HoloLens 2 との互換性](hololens-2.md)|一般提供|2019 年 7 月|
 | [ローカライズ](localization.md)       | 一般提供 | 2019 年 9 月             |
 

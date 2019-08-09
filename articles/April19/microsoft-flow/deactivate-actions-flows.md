@@ -3,18 +3,18 @@ title: フロー内のアクションを無効にする
 description: フロー内の特定のアクションを無効にできます。これは、失敗を分離してフローのテストを続けるのに役立ちます。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 05/06/2019
+ms.date: 06/26/2019
 ms.assetid: 5387bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 7c777c0274e1c97d18b640e350e7c7ddb936a984
-ms.sourcegitcommit: 2377f9a8537925401f30f33dd73d1eb1eecda35a
+ms.openlocfilehash: 8297c6cf45cec79996dc6eb4dbec86e47bbc5ae3
+ms.sourcegitcommit: 13a94b4173f5b62040e0eb13b7dffe7a901e3b29
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "1621569"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "1756723"
 ---
 # <a name="deactivate-actions-in-flows"></a>フロー内のアクションを無効にする
 

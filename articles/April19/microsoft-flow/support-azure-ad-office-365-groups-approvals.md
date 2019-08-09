@@ -3,18 +3,18 @@ title: 承認における Azure AD と Office 365 グループのサポート
 description: 特定のユーザーの代わりに、Azure AD または Office 365 のグループに承認依頼を送信します。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 05/06/2019
+ms.date: 06/26/2019
 ms.assetid: 9788bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: f1e850a9bb7a436b8678445a8f8ed06a856757db
-ms.sourcegitcommit: 2377f9a8537925401f30f33dd73d1eb1eecda35a
+ms.openlocfilehash: abb14b83dec7dc9538bc75cc5167fb5ee6c2b3a3
+ms.sourcegitcommit: 13a94b4173f5b62040e0eb13b7dffe7a901e3b29
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "1621690"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "1756822"
 ---
 # <a name="support-for-azure-ad-and-office-365-groups-in-approvals"></a>承認における Azure AD と Office 365 グループのサポート
 

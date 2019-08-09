@@ -2,20 +2,18 @@
 title: One Version エクスペリエンス
 description: 予測可能な継続的サービス更新をサポートするための更新エクスペリエンスに対する複数の変更を、Lifecycle Services で利用できるようになります。
 author: manalidongre
-ms.date: 01/21/2019
+ms.date: 07/25/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: manalidongre
-ms.openlocfilehash: 7c445d6671ade4136afcb69800dd71c8bd441465
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 13484108db8299cb65c077e415acb0b19d0aeca7
+ms.sourcegitcommit: 621f29310d390702592913bc8538346bea078286
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225424"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "1789357"
 ---
 #  <a name="one-version-experience"></a>One Version エクスペリエンス
-[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
-
 
 予測可能な継続的[サービス更新](https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/get-started/one-version)をサポートするための更新エクスペリエンスに対する複数の変更を、Lifecycle Services (LCS) で利用できるようになります。
 

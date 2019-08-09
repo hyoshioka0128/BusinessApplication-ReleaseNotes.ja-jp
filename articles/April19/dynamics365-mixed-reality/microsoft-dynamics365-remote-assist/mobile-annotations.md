@@ -1,18 +1,18 @@
 ---
 title: Dynamics 365 Remote Assist の 2019 年 4 月更新でのモバイル注釈機能
 description: Dynamics 365 Remote Assist の 2019 年 4 月更新でのモバイル注釈機能では、Teams モバイル クライアント上のエキスパートが、Remote Assist ユーザーの画面に注釈を付けたり、OneDrive でファイルを追加したりすることができます。
-author: MatthewJonPaul
+author: bencorn
 ms.date: 04/02/2019
 ms.topic: article
 ms.service: business-applications
-ms.author: mapau
+ms.author: becorn
 ms.reviewer: v-brycho
-ms.openlocfilehash: 786f970ee0e90f91cebc08207eac4a39fff9d195
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: e1cd21fc9b7ae5a0ac4ce4eefa9892c39ebaa6d6
+ms.sourcegitcommit: 400975521747b572d34c7758bc5c887ff6fb55fc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225413"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "1755704"
 ---
 #  <a name="mobile-annotations"></a>モバイル注釈
 [!include[microsoft-dynamics365-remote-assist banner](../../includes/microsoft-dynamics365-remote-assist.md)]

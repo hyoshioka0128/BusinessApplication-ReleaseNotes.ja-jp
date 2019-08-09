@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: renwe
 ms.reviewer: elben
-ms.openlocfilehash: 0fb683231506d7b3c932d55355f532023b111148
-ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
+ms.openlocfilehash: 380a32f752863dd190b565d240d3603b09411081
+ms.sourcegitcommit: 0f48f7dc02fb03b69b5dc2725aab0f46e25cb069
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/29/2019
-ms.locfileid: "1608421"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "1833798"
 ---
 #  <a name="whats-new-and-planned-for-ai-for-sales"></a>AI for Sales の新機能と予定されている機能
 
@@ -49,7 +49,6 @@ Dynamics 365 Sales Insights では、パイプラインと取引に関する主�
 | [KPI、ビジュアル、レポート](dynamics365-ai-sales-standalone-experience.md) | 一般提供  | 2019 年 7 月  |
 | [Sales Insights](dynamics365-ai-sales-standalone-experience.md) | パブリック プレビュー  | 2019 年 7 月  |
 | [検索エクスペリエンスの改善](dynamics365-ai-sales-standalone-experience.md#improved-search-experience) | パブリック プレビュー  | 2019 年 7 月  |
-| [見通し予測](dynamics365-ai-sales-standalone-experience.md#predictive-forecasting) | パブリック プレビュー  | 2019 年 4 月  |
 
 ### <a name="call-intelligence"></a>コール インテリジェンス
 コール インテリジェンス機能は、よりスマートなコーチングを可能にし、販売転換率を高めます。 コール センターの電話録音システムをアプリに接続することにより、コール センター管理者は、販売担当者が顧客とどのように関わっているのかをよりよく理解するのに役立つ会話の分析情報を生成できます。

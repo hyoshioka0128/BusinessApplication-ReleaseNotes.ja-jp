@@ -3,18 +3,18 @@ title: 自動フローであらゆる Common Data Service アクションを呼�
 description: Common Data Service で使用できるすべてのアクションを自動フローで呼び出すことができるようになりました。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 05/06/2019
+ms.date: 06/26/2019
 ms.assetid: fd86bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 9242645970ebe81f02284fcc4f85d602fb6d173e
-ms.sourcegitcommit: 2377f9a8537925401f30f33dd73d1eb1eecda35a
+ms.openlocfilehash: c4b6807481fba7fb07b337aa8cbbd13af5374bcd
+ms.sourcegitcommit: 13a94b4173f5b62040e0eb13b7dffe7a901e3b29
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "1621646"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "1756778"
 ---
 # <a name="automated-flows-can-call-any-common-data-service-action"></a>自動フローであらゆる Common Data Service アクションを呼び出すことが可能
 

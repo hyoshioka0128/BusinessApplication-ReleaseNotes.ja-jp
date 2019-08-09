@@ -1,33 +1,23 @@
 ---
-title: 電子メール、HTML、PDF からの構造化データの抽出
-description: ユーザーが電子メール、HTML ファイル、PDF からコンテンツを解析できる新しいインテリジェンス機能を、Microsoft Flow に統合しました。
+title: Microsoft Flow で AI Builder (プレビュー) を使用する
+description: ユーザーが非構造化データ ソースからのコンテンツの解析やテキストの分類などを行うことができる新しいインテリジェンス機能を、Microsoft Flow に統合しました。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 05/06/2019
+ms.date: 06/26/2019
 ms.assetid: 8987bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 669a9bade91762f40d5e2790739ce52ad06def39
-ms.sourcegitcommit: 2377f9a8537925401f30f33dd73d1eb1eecda35a
+ms.openlocfilehash: 29132ab6b76df7fdd39a68e9de85694896de3b3c
+ms.sourcegitcommit: 13a94b4173f5b62040e0eb13b7dffe7a901e3b29
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "1621613"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "1756961"
 ---
-# <a name="extract-structured-data-from-emails-html-and-pdf-public-preview"></a>電子メール、HTML、PDF からの構造化データの抽出 (パブリック プレビュー)
+# <a name="use-ai-builder-preview-in-microsoft-flow-public-preview"></a>Microsoft Flow (パブリック プレビュー) で AI Builder (プレビュー) を使用する
 
-[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-ユーザーが電子メール、HTML ファイル、PDF からコンテンツを解析できる新しいインテリジェンス機能を、Microsoft Flow に統合しました。 これにより、ユーザーはフロー内のロジックを駆動し、ダウンストリームのコネクタで使用できる、構造化データを取得できます。
 
-従来、電子メールの処理が 自動化フローで最もよく発生するタスクです。 ただし、電子メールの本文の内容を解析および推論する機能は非常に限られています。 ユーザーは 1 日に何百もの電子メールを受け取る可能性があり、それらに迅速に応答できる必要があります。 Microsoft Flow のインテリジェンス機能では、電子メールの本文からでもコンテンツを抽出することができるようになりました。 ユーザーは、次の操作を実行できます。
-
-- 電子メールに含まれる**テーブル**を抽出します。 たとえば、仕入先価格表などです。
-- HTML/テキスト ドキュメントから**特定のエンティティ**を抽出します。 たとえば、サービス インシデントから ID とステータスを抽出します。
-- 電子メールに**繰り返しパターン**が含まれる場合、そのすべてのインスタンスを抽出します。 たとえば、複数の区間がある航空券などです。
-
-ユーザーは 1 つ以上のドキュメントまたは電子メールの例から必要なコンテンツを選択するだけでよく、将来同じ特性を持つドキュメントからそのコンテンツが抽出されます。
-
-![電子メール抽出の設定](media/EmailExtraction-1.png "電子メール抽出の設定")
+AI Builder (プレビュー) は、業務の専門知識を持つチーム向けの Microsoft Power Platform の新しい機能であり、プロセスを容易に自動化し、結果を予測して業績を高めることができます。 AI Builder は、ポイント アンド クリックまたはタッチのエクスペリエンスを通じて Microsoft AI の強力な機能を提供するターンキー ソリューションです。 プログラミングやデータ サイエンスを知らなくても AI を構築できます。 Microsoft Flow に直接統合することで、AI がいっそう使いやすくなります。 フローでの AI Builder の使用を開始するには、[こちらの Microsoft Flow での AI Builder の使用方法の概要をお読みください](https://docs.microsoft.com/ai-builder/use-in-flow-overview)。

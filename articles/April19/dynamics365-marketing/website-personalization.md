@@ -4,18 +4,17 @@ description: アクセスするユーザーに基づいてランディング ペ
 author: jain-shailesh
 ms.author: shjain
 ms.reviewer: kamaybac
-ms.date: 01/21/2019
+ms.date: 07/23/2019
 ms.topic: article
 ms.service: business-applications
-ms.openlocfilehash: 275002a749ba1d11710458954139a556c6157197
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: b2d94a22db5013eb7131d061c3f6332976fed51b
+ms.sourcegitcommit: d67d2ec8f1a32a34bbad4dce94d7d1f7346da4b6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225264"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "1797000"
 ---
 # <a name="website-personalization"></a>Web サイトの個人用設定
-[!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]
 
 ランディング ページは、マーケティング電子メール内で使用される最も一般的な行動喚起項目です。 これらのページを、それぞれの見込顧客の属性や過去の行動に基づいてパーソナライズできるようになりました。 この個人用設定を使用して、レイアウト、動的コンテンツ、ブランディングなどを調整することができます。
 
@@ -23,3 +22,6 @@ ms.locfileid: "1225264"
 
 ![パーソナライズされた Web ページ](media/PersonalizationLandingPages.png "パーソナライズされた Web ページ")
 
+## <a name="resources"></a>リソース
+
+[パーソナライズされたページ コンテンツを提供する](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/personalized-page-content)

@@ -3,18 +3,18 @@ title: フロー アクションのコピーと貼り付け
 description: フロー デザイナー内のアクションを複製したい場合に、アクションをコピーして貼り付けることができます。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 05/06/2019
+ms.date: 06/26/2019
 ms.assetid: 3187bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 922d85ce1adafbcd075ca53ba6fdbb85b0999dee
-ms.sourcegitcommit: 2377f9a8537925401f30f33dd73d1eb1eecda35a
+ms.openlocfilehash: db03f8e7561a55890a35531bfaf3bf781f0975de
+ms.sourcegitcommit: 13a94b4173f5b62040e0eb13b7dffe7a901e3b29
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "1621602"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "1756983"
 ---
 # <a name="copy-and-paste-flow-actions"></a>フロー アクションのコピーと貼り付け
 
