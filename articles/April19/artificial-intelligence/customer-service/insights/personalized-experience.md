@@ -1,22 +1,10 @@
 ---
-title: Customer Service Insights のエクスペリエンスのパーソナライズ
-description: ユーザーは既定のフィルターの設定などを通じて自身のエクスペリエンスをパーソナライズし、関心の高い分野に注力することができます。
-author: gxy001
-ms.date: 02/21/2019
-ms.topic: article
-ms.service: business-applications
-ms.author: xiaoying
-ms.reviewer: v-stsau
-ms.openlocfilehash: 88e67d0f5a6b9316d9e1c6c76920f228fa2b1e8c
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+redirect_url: ../planned-features#dynamics-365-customer-service-insights
+ms.openlocfilehash: 91484568dc8ee2d955c57e188c9f34af3a0c74cf
+ms.sourcegitcommit: d09f6016b146f3126173f8f9023013b682859f61
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225022"
+ms.lasthandoff: 07/08/2019
+ms.locfileid: "1729838"
 ---
-# <a name="personalize-the-customer-service-insights-experience"></a><span data-ttu-id="8946c-103">Customer Service Insights のエクスペリエンスのパーソナライズ</span><span class="sxs-lookup"><span data-stu-id="8946c-103">Personalize the Customer Service Insights experience</span></span>
-
-[!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]
-
-
-<span data-ttu-id="8946c-104">顧客サービス管理者は、自身のエクスペリエンスをパーソナライズすることで、関心の高い分野に注力できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="8946c-104">Customer service managers can now focus on the areas that they care most about by personalizing their experience.</span></span> <span data-ttu-id="8946c-105">一度既定のフィルターを設定すると、セッションを通じてすべてのダッシュボードに一貫して適用されます。</span><span class="sxs-lookup"><span data-stu-id="8946c-105">You can set default filters once and they will be consistently applied to all dashboards across sessions.</span></span>
+ <span data-ttu-id="c8cdc-101">ローカライズ可能なコンテンツはありません。</span><span class="sxs-lookup"><span data-stu-id="c8cdc-101">No localizable content.</span></span> <span data-ttu-id="c8cdc-102">ファイルはリダイレクト専用です。</span><span class="sxs-lookup"><span data-stu-id="c8cdc-102">File exists for redirection only.</span></span>

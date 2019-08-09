@@ -1,21 +1,10 @@
 ---
-title: さらに分析するために Azure Data Lake v2 にデータをエクスポートする
-description: ユーザーは、Dynamics 365 Customer Service Insights から独自の Azure Data Lake v2 ストレージにデータをエクスポートして、詳細に分析したり、他のデータと相関させたりできます。
-author: gxy001
-ms.date: 03/22/2019
-ms.topic: article
-ms.service: business-applications
-ms.author: xiaoying
-ms.reviewer: v-stsau
-ms.openlocfilehash: 965ee1aa3db1cfa96b7699c4e6bcb66ad6f10f5a
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+redirect_url: ../planned-features#dynamics-365-customer-service-insights
+ms.openlocfilehash: 91484568dc8ee2d955c57e188c9f34af3a0c74cf
+ms.sourcegitcommit: d09f6016b146f3126173f8f9023013b682859f61
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1224974"
+ms.lasthandoff: 07/08/2019
+ms.locfileid: "1729859"
 ---
-# <a name="export-data-to-azure-data-lake-v2-for-further-analysis"></a><span data-ttu-id="4417b-103">さらに分析するために Azure Data Lake v2 にデータをエクスポートする</span><span class="sxs-lookup"><span data-stu-id="4417b-103">Export data to Azure Data Lake v2 for further analysis</span></span>
-[!include[customer-service banner](../../../includes/dynamics365-ai-customer-service.md)]
-
-
-<span data-ttu-id="4417b-104">Dynamics 365 Customer Service Insights が標準で提供している機能に加えて、さらに詳細な分析や他のデータとの相関が必要になる場合があります。</span><span class="sxs-lookup"><span data-stu-id="4417b-104">In addition to what Dynamics 365 Customer Service Insights provides out of the box, you may require further analysis or correlating with other data.</span></span> <span data-ttu-id="4417b-105">このリリースでは、Dynamics 365 Customer Service Insights からユーザー独自の Azure Data Lake v2 ストレージにデータをエクスポートすることができます。</span><span class="sxs-lookup"><span data-stu-id="4417b-105">With this release, you can export data from Dynamics 365 Customer Service Insights to your own Azure Data Lake v2 storage.</span></span> <span data-ttu-id="4417b-106">エクスポートされたデータは Common Data Model に基づいており、一貫性のあるスキーマを提供し、AI 生成トピックとビジネス インテリジェンス (BI) 集約データの両方を含みます。</span><span class="sxs-lookup"><span data-stu-id="4417b-106">The exported data is based on the Common Data Model, which provides a consistent schema and contains both AI-generated topics and business intelligence (BI) aggregated data.</span></span>
+ <span data-ttu-id="4ccf4-101">ローカライズ可能なコンテンツはありません。</span><span class="sxs-lookup"><span data-stu-id="4ccf4-101">No localizable content.</span></span> <span data-ttu-id="4ccf4-102">ファイルはリダイレクト専用です。</span><span class="sxs-lookup"><span data-stu-id="4ccf4-102">File exists for redirection only.</span></span>
