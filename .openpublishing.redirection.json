@@ -1,6 +1,166 @@
 
 {  
-  "redirections": [
+  "redirections": [    {
+      "source_path": "articles/index.md",
+      "redirect_url": "/dynamics365/release-plans",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/artificial-intelligence/customer-service/insights/combined-human-bot-metrics.md",
+      "redirect_url": "../planned-features#dynamics-365-customer-service-insights",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/artificial-intelligence/customer-service/insights/export-data-to-azure-data-lake-v2.md",
+      "redirect_url": "../planned-features#dynamics-365-customer-service-insights",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/artificial-intelligence/customer-service/insights/integrated-experience-with-dynamics-365-for-customer-service.md",
+      "redirect_url": "../planned-features#dynamics-365-customer-service-insights",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/artificial-intelligence/customer-service/insights/more-dashboard.md",
+      "redirect_url": "../planned-features#dynamics-365-customer-service-insights",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/artificial-intelligence/customer-service/insights/personalized-experience.md",
+      "redirect_url": "../planned-features#dynamics-365-customer-service-insights",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/artificial-intelligence/customer-service/insights/setup-organizational-workspace.md",
+      "redirect_url": "../planned-features#dynamics-365-customer-service-insights",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-finance-operations/additional-configurable-invoice-layouts.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-finance-operations/automatic-ledger-settlements.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-finance-operations/automatic-ledger-settlements",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-finance-operations/billing-schedules.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-finance-operations/billing-schedules",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-finance-operations/cancel-bank-rec.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-finance-operations/cancel-bank-reconciliation",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-finance-operations/checks-blank-status.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-finance-operations/create-checks-blank-status-checks-page",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-finance-operations/configurable-e-invoices-brazil-nf-e-nfs-e.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-finance-operations/configurable-mexican-e-invoice-cfdi.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-finance-operations/connected-manufacturing.md",
+      "redirect_url": "../change-history#finance-and-operations",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-finance-operations/credit-management.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-finance-operations/credit-management",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-finance-operations/reset-workflow-vend.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-finance-operations/reset-workflow-status-vendor-invoices-unrecoverable-draft",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-finance-operations/revenue-recognition.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-finance-operations/revenue-recognition",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/dynamics365-finance-operations/reverse-journal-posting.md",
+      "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-finance-operations/reverse-journal-posting",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-flow/change-actions-that-have-dependencies.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-powerapps/access-data-cds-apps-offline-model-driven-apps.md",
+      "redirect_url": "access-common-data-service-data-offline-mode-customer-engagement-apps-mobile",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-powerapps/app-licensing-requirements-presented-makers-while-building-apps.md",
+      "redirect_url": "../change-history",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-powerapps/configure-dependent-option-sets.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-powerapps/create-view-related-flows-entity.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-powerapps/dynamics-365-mobile-support-email-login.md",
+      "redirect_url": "sign-more-easily-dynamics-365-mobile-device",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-powerapps/one-unified-control-framework.md",
+      "redirect_url": "one-unified-component-framework",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-powerapps/pcf-ga-model-driven.md",
+      "redirect_url": "one-unified-component-framework",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-powerapps/share-entities-using-security-groups-azure-active-directory.md",
+      "redirect_url": "using-security-roles-security-groups-azure-active-directory",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-powerapps/tooling-update-isvs-professional-developers.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-powerapps/unified-interface-as-default-experience.md",
+      "redirect_url": "unified-interface-only-as-default-experience",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-powerapps/unified-interface-only-as-default-experience.md",
+      "redirect_url": "planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/April19/microsoft-powerapps/video-control-supports-ms-stream-videos.md",
+      "redirect_url": "video-control-supports-stream-videos",
+      "redirect_document_id": "false"
+    },
+
     {
       "source_path": "articles/April19/business-intelligence/power-bi-mobile/home.md",
       "redirect_url": "../../change-history",
