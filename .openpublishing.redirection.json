@@ -1,6 +1,7 @@
 
 {  
-  "redirections": [    {
+  "redirections": [
+    {
       "source_path": "articles/index.md",
       "redirect_url": "/dynamics365/release-plans",
       "redirect_document_id": "false"
@@ -93,11 +94,6 @@
     {
       "source_path": "articles/April19/dynamics365-finance-operations/reverse-journal-posting.md",
       "redirect_url": "/dynamics365-release-plan/2019wave2/dynamics365-finance-operations/reverse-journal-posting",
-      "redirect_document_id": "false"
-    },
-    {
-      "source_path": "articles/April19/microsoft-flow/change-actions-that-have-dependencies.md",
-      "redirect_url": "planned-features",
       "redirect_document_id": "false"
     },
     {
