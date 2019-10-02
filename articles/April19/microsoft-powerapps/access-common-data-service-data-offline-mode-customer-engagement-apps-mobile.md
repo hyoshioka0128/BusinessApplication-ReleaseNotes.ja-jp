@@ -1,23 +1,23 @@
 ---
 title: モバイルの Customer Engagement アプリ使用時のオフライン モードでの Common Data Service データへのアクセス
 description: モバイルの Customer Engagement アプリ使用時のオフライン モードでの Common Data Service データへのアクセス
-author: kavishi
+author: TourDeRyan
 ms.reviewer: mkaur
-ms.date: 04/30/2019
+ms.date: 07/20/2019
 ms.assetid: d586bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
-ms.author: kaagar
+ms.author: rycu
 audience: Power user
-ms.openlocfilehash: 35648c8cce53378903b199793a2d48dcca441428
-ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
+ms.openlocfilehash: fe290364ca96b4680149d220f87cd5524acab7bd
+ms.sourcegitcommit: eed373714b1975b10d4a4e3b186f2116f9b6c06c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "1446338"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "1993940"
 ---
-# <a name="access-common-data-service-data-in-offline-mode-for-customer-engagement-apps-on-mobile-public-preview"></a><span data-ttu-id="2ab9b-103">モバイルの Customer Engagement アプリ使用時にオフライン モードで Common Data Service データにアクセスできます (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="2ab9b-103">Access Common Data Service data in offline mode for Customer Engagement apps on mobile (Public Preview)</span></span>
+# <a name="access-common-data-service-data-in-offline-mode-for-customer-engagement-apps-on-mobile-public-preview"></a><span data-ttu-id="7bf53-103">モバイルの Customer Engagement アプリ使用時にオフライン モードで Common Data Service データにアクセスできます (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="7bf53-103">Access Common Data Service data in offline mode for Customer Engagement apps on mobile (Public Preview)</span></span>
 
 
 
-<span data-ttu-id="2ab9b-104">オフライン モードでもデータを操作できるようになったため、外出先でも生産性を維持できます。</span><span class="sxs-lookup"><span data-stu-id="2ab9b-104">Users can now work on their data even in offline mode and stay productive on the go.</span></span>
+<span data-ttu-id="7bf53-104">オフライン モードでもデータを操作できるようになったため、外出先でも生産性を維持できます。</span><span class="sxs-lookup"><span data-stu-id="7bf53-104">Users can now work on their data even in offline mode and stay productive on the go.</span></span>
