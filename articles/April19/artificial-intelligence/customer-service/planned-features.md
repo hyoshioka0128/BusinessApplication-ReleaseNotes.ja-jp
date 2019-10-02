@@ -2,18 +2,18 @@
 title: AI for Customer Service の新機能と予定されている機能 (2019 年 4 月)
 description: ここでは、2019 年 4 月から 2019 年 10 月の間に AI for Customer Service でリリースが計画されている機能の一覧を示します。
 author: shellyhaverkamp
-ms.date: 05/28/2019
+ms.date: 08/05/2019
 ms.assetid: 5993958f-d851-40b0-89b7-b855b9df7e71
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 ms.reviewer: shellyha
-ms.openlocfilehash: 45f6827028d03293c6fca58ec6a6a11f207f42ad
-ms.sourcegitcommit: 9a214c9c1f0638ff7ce2bfe5320324310d5c14e9
+ms.openlocfilehash: b52ec98d8b5a244d26e80d781cf9f6dbc36207cf
+ms.sourcegitcommit: 9c7b08c332ea6bc83b5399d184935c47971dc5d0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "1732302"
+ms.lasthandoff: 08/08/2019
+ms.locfileid: "1866654"
 ---
 #  <a name="whats-new-and-planned-for-ai-for-customer-service"></a>AI for Customer Service の新機能と予定されている機能
 
@@ -43,5 +43,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | [同僚と分析情報やワークスペースを共有する](insights/workspace-sharing.md)  | 一般提供 | 2019 年 6 月             |
 | [トピックの名前変更によってトピック生成を改善する](insights/rename-topic.md) | 一般提供 | 2019 年 6 月             |
 | [Salesforce、Zendesk、ServiceNow などのデータ ソースからデータを取り込む](insights/more-data-sources-support.md) | 一般提供 | 2019 年 8 月   |
-| [Dynamics 365 for Customer Service アプリケーション内での分析情報の取得](insights/integrated-experience-with-dynamics-365-for-customer-service.md)   | パブリック プレビュー | 2019 年 9 月             |
+| [トピック生成での追加言語のサポート](insights/model-language.md) | パブリック プレビュー | 2019 年 8 月   |
+| [製品内のガイド付きの最初の実行エクスペリエンス](insights/first-run.md) | 一般提供 | 2019 年 8 月   |
+| [Power BI Embedded レポートを含むユーザー インターフェイスでの 40 を超える言語のサポート](insights/UI-localization.md) | 一般提供 | 2019 年 8 月   |
 | [自動化提案を介した仮想エージェントの改善](insights/improve-bot-with-topic-suggestion.md) | パブリック プレビュー  | 2019 年 10 月  |

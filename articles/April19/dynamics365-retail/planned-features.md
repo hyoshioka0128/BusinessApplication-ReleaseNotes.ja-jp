@@ -2,18 +2,18 @@
 title: Dynamics 365 for Retail の新機能と予定されている機能 (2019 年 4 月)
 description: このトピックでは、Dynamics 365 for Retail でリリース予定の機能の一覧を示します。
 author: ReneeW-CPub
-ms.date: 07/25/2019
+ms.date: 08/06/2019
 ms.assetid: 8cf8e242-945a-45b3-9b88-7d7b960314ba
 ms.topic: article
 ms.service: business-applications
 ms.author: josaw
 ms.reviewer: josaw
-ms.openlocfilehash: 0b95fb13aa300cc1cd1e624a20c00d477ad395a9
-ms.sourcegitcommit: f931cc4b97a401bc2230686962fd812b1d67db1e
+ms.openlocfilehash: 9bd0e265e76e5b30cce45f8f38fe32875268f798
+ms.sourcegitcommit: 57ca03d54f537b2444b6abead0895e2775417546
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "1789817"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "1864618"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-for-retail"></a>Dynamics 365 for Retail の新機能と予定されている機能
 
@@ -30,9 +30,9 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | 機能                                                                                | リリースの種類         | 日付            |
 |----------------------------------------------------------------------------------------|----------------------|-----------------------------------------------|
 | [e コマース統合での支払い方法の一覧表示](ListPI_RN.md)                        | 一般提供 | 2019 年 4 月             |
-| [Retail Cloud Scale Unit - 複数地域](retail-cloud-scale-unit-multi-region.md)                        | 一般提供 | 2019 年 4 月             |
-| [Retail 更新プログラムの配信](retail-broadcast-updates.md)                                          | 一般提供 | 2019 年 4 月             |
-| [Retail 拡張プラットフォームと開発者エクスペリエンスの改善](retail-extension-platform-developer-experience-enhancement.md)  | 一般提供 | 2019 年 4 月             | 
+| [Retail Cloud Scale Unit - 複数地域](retail-cloud-scale-unit-multi-region.md)                        | 一般提供 | 2019 年 4 月 12 日             |
+| [Retail 更新プログラムの配信](retail-broadcast-updates.md)                                          | 一般提供 | 2019 年 4 月 12 日             |
+| [Retail 拡張プラットフォームと開発者エクスペリエンスの改善](retail-extension-platform-developer-experience-enhancement.md)  | 一般提供 | 2019 年 4 月 5 日             | 
 | [イタリア向け会計プリンターの統合のサンプルの拡張](fiscal-printer-integration-sample-italy-2.md)           | 一般提供 | 2019 年 4 月 12 日                                    |
 | [オーストリア向け会計サービスの統合のサンプル](fiscal-service-integration-sample-austria.md)           | 一般提供 | 2019 年 4 月 12 日                                    |
 | [ポーランド向けの会計プリンター統合サンプル](fiscal-printer-integration-sample-poland.md)           | 一般提供 | 2019 年 4 月 12 日                                    |

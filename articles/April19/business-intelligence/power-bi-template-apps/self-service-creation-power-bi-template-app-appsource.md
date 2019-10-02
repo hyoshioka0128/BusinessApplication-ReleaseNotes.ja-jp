@@ -7,12 +7,12 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: avive
-ms.openlocfilehash: 880635651d873f6650d2c321ae2f0adb935eb49d
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: a4e30b066b913b2498a1055875b8f8ee4b969f11
+ms.sourcegitcommit: 975253473a597c7bd64a2088593a08d423bfdf7b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225198"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "1995777"
 ---
 # <a name="self-service-creation-of-a-power-bi-template-app-in-appsource"></a>AppSource での Power BI テンプレート アプリのセルフサービス作成
 

@@ -2,17 +2,17 @@
 title: Dynamics 365 Guides (プレビュー) の新機能と予定されている機能 (2019 年 4 月)
 description: Dynamics 365 Guides (プレビュー) の 2019 年 4 月の更新プログラムで予定されている機能の概要
 author: algodin
-ms.date: 07/23/2019
+ms.date: 08/27/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
-ms.openlocfilehash: 542caa118e77f4e75664f0adceeb97ec4a9cf72e
-ms.sourcegitcommit: 7a09f6963a71dced1648555295d5139195aaa2c6
+ms.openlocfilehash: f13d347d867ede219bd437390f6308c996ec76e3
+ms.sourcegitcommit: 63b486bd4c7261b3c7df4503f6c964dbdca26f9f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "1787571"
+ms.lasthandoff: 08/28/2019
+ms.locfileid: "1923337"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-guides-in-preview"></a>Dynamics 365 Guides (プレビュー) の新機能と予定されている機能
 
@@ -39,6 +39,9 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | [アンカー設定方法を選ぶ](alignment.md)                               | パブリック プレビュー      | 2019 年 2 月 24 日 |
 | [アンカー設定方法をいつでも切り替え可能](anchoring-improvements.md)| パブリック プレビュー | 2019 年 5 月 28 日 |
 | [ユーザー エクスペリエンスの向上](pc-ux.md)|パブリック プレビュー|2019 年 7 月 9 日|
+| [新機能パネル](new.md)|パブリック プレビュー|2019 年 7 月 9 日|
+| [PC アプリのアクセシビリティの強化](accessibility.md)|パブリック プレビュー|2019 年 8 月 27 日|
+| [追加言語のサポート](localization.md)|パブリック プレビュー|2019 年 8 月 27 日|
 
 ## <a name="authoring-on-hololens"></a>HoloLens でのオーサリング
  
@@ -49,7 +52,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | [3D モデルの複製 (および削除)](copy-models.md)|パブリック プレビュー|2019 年 3 月 26 日|
 | [空間に配置したホログラムのサイズを変更する](change-hologram-size.md)|パブリック プレビュー|2019 年 4 月 30 日|
 | [ユーザー エクスペリエンスの向上](hololens-ux.md)|パブリック プレビュー|2019 年 7 月 9 日|
-
+| [追加言語のサポート](localization.md)|パブリック プレビュー|2019 年 8 月 27 日|
 
 ## <a name="operating-on-hololens"></a>HoloLens での操作
  

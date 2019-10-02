@@ -6,12 +6,12 @@ ms.date: 03/29/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: deonhe
-ms.openlocfilehash: 8820b17d23301d104483f48e467022692cb2f375
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: cc49e5643138351fa31b180fe2f2b5c7e9a21e36
+ms.sourcegitcommit: 6dace9a8682f19cf4b3a514283a5acf3d16bcc89
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225225"
+ms.lasthandoff: 09/06/2019
+ms.locfileid: "1991417"
 ---
 # <a name="power-query-becomes-smarter-and-more-powerful"></a>Power Query がよりスマートかつパワフルに
 [!include[cdm-data-integration banner](../includes/cdm-data-integration.md)]
@@ -32,13 +32,15 @@ ms.locfileid: "1225225"
 
 ## <a name="high-enterprise-value-connectors-become-generally-available-for-power-bi-customers"></a>Power BI ユーザーへのエンタープライズ レベルの高レベルなコネクタの一般提供を開始
 
-2019 年の 4 月までに、パブリック プレビューとして最近公開された Power BI のエンタープライズ レベルのコネクタの多くの機能の一般提供が開始されます。その中には次の機能が含まれます。
+2019 年の 9 月までに、パブリック プレビューとして最近公開された Power BI のエンタープライズ レベルのコネクタの多くの機能の一般提供が開始されます。その中には次の機能が含まれます。
 
 - Power BI サービスでの (オンプレミス データ ゲートウェイ経由) SAP BW シングル サインオン (Kerberos)
 - Power BI サービス内の (オンプレミス データ ゲートウェイ経由の) SAP HANA シングル サインオン (SAML)
 - PDF コネクタ
 - Essbase コネクタ
 - IBM DB2 DirectQuery
+- PostgreSQL のネイティブ クエリの折り重ね
+- Power Platform データフロー
 
 さらに、次のコネクタがパブリック プレビューに入ります。
 
@@ -54,18 +56,12 @@ Power Query は Windows/デスクトップに埋め込み可能なコンポー�
 
 - Amazon Redshift
 - Impala
-- Apache Spark
-- HDInsight Spark
-- HDInsight Hive 対話型クエリ
 - Vertica
-- Google BigQuery
 - Teradata
-- Informix
-- Sybase
 - MySQL
 - PostgreSQL
 
-## <a name="increased-support-for-developers-on-the-power-query-platform"></a>開発者に対する Power Query プラットフォームに関わるサポートを改善
+## <a name="increased-support-for-developers-on-the-power-query-platform"></a>開発者に対する Power Query プラットフォームにかかわるサポートを改善
 
 認定コネクタの一般提供開始と Power BI のカスタム コネクタ開発により、コネクタの開発に使用する同じツールを Power Query プラットフォームで世界中の開発者が利用できるようにしました。
 

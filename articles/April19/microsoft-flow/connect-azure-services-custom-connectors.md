@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: b4c454054ba28345b8e6f2d3f5180980d183a52d
-ms.sourcegitcommit: 13a94b4173f5b62040e0eb13b7dffe7a901e3b29
+ms.openlocfilehash: 938f8a9b4c6afcd695ed392a0ced532cb720720d
+ms.sourcegitcommit: 8edb4083244f1fd7bc34d165af28550093070daa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "1756994"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "1870854"
 ---
 # <a name="connect-to-azure-services-from-custom-connectors"></a>カスタム コネクタから Azure サービスへの接続
 
@@ -42,11 +42,12 @@ Azure Functions または Azure Logic Apps でホストされている RESTful A
 
 Azure Functions では、API を Microsoft Flow にインポートする前に特定の条件を満たす必要があります。 Microsoft Flow または PowerApps で使用する予定の場合は、次のことに留意してアプリを作成してください。
 
-1.  [アプリ ランタイム バージョンを設定します](https://docs.microsoft.com/azure/azure-functions/functions-openapi-definition#set-the-functions-runtime-version)
-1.  [OpenAPI 定義を生成します (Swagger)](https://docs.microsoft.com/azure/azure-functions/functions-openapi-definition#generate-the-openapi-definition)
+1.  [アプリ ランタイム バージョンを設定する](https://docs.microsoft.com/azure/azure-functions/functions-openapi-definition#set-the-functions-runtime-version)
+1.  [OpenAPI 定義を生成する (Swagger)](https://docs.microsoft.com/azure/azure-functions/functions-openapi-definition#generate-the-openapi-definition)
 
-    > [注] Azure では、API をホストする URL を提供するか、Azure portal で提供されているテンプレートに基づいて定義を生成することができます。 Azure テンプレートを使用することを選択した場合は、HTTP によってトリガーされた関数からのメタデータを使用してスパース定義が作成されます。 ただし、使用する前にそれを変更し、API 操作とデータ構造に関する追加のメタデータを提供する必要があります。
-1.  [クロス オリジン リソース共有 (CORS) の構成を有効にします](https://docs.microsoft.com/azure/azure-functions/functions-how-to-use-azure-function-app-settings#cors)
+    > [!NOTE]
+    > Azure では、API をホストする URL を提供するか、Azure portal に提供されているテンプレートに基づいて定義を生成することができます。 Azure テンプレートを使用することを選択した場合は、HTTP によってトリガーされた関数からのメタデータを使用してスパース定義が作成されます。 ただし、使用する前にそれを変更し、API 操作とデータ構造に関する追加のメタデータを提供する必要があります。
+1.  [クロス オリジン リソース共有 (CORS) の構成を有効にする](https://docs.microsoft.com/azure/azure-functions/functions-how-to-use-azure-function-app-settings#cors)
 
 ## <a name="still-to-come"></a>今後の予定
 

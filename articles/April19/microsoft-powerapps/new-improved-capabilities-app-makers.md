@@ -2,19 +2,19 @@
 title: アプリ作成者向けの新機能と改善された機能
 description: キャンバス アプリやモデル駆動型アプリの作成者の生産性を高める新機能と既存の機能の改善。
 author: clwesene
-ms.reviewer: anneta
+ms.reviewer: phecke
 ms.date: 04/30/2019
 ms.assetid: a61cc5ca-815d-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: clwesene
 audience: Power user
-ms.openlocfilehash: 2ad5910e73337104f0788bd5a57b0f8d882df0be
-ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
+ms.openlocfilehash: 7ce6e6de3e6e53433965c631f8a0deeead92a685
+ms.sourcegitcommit: eed373714b1975b10d4a4e3b186f2116f9b6c06c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "1446340"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "1994110"
 ---
 # <a name="new-and-improved-capabilities-for-app-makers"></a>アプリ作成者向けの新機能と改善された機能
 

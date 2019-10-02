@@ -2,19 +2,19 @@
 title: 効率化された PowerApps のエクスペリエンス
 description: 効率化された PowerApps のエクスペリエンス
 author: evchaki
-ms.reviewer: anneta
-ms.date: 04/30/2019
+ms.reviewer: pehecke
+ms.date: 07/20/2019
 ms.assetid: 9588bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: evchaki
 audience: Power user
-ms.openlocfilehash: d72fde63893a7bf81aaeb58faf3773268186a383
-ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
+ms.openlocfilehash: 389a3ef2d71145e9933816687cb9031a5f0c5f6d
+ms.sourcegitcommit: eed373714b1975b10d4a4e3b186f2116f9b6c06c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "1446014"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "1994066"
 ---
 # <a name="streamlined-powerapps-experience"></a>効率化された PowerApps のエクスペリエンス
 

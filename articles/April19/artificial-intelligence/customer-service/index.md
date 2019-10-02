@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: navrinas
 ms.reviewer: shellyha
-ms.openlocfilehash: 0d79b5c15aa5da519abb76ff29c0ce7ee1a23bf8
-ms.sourcegitcommit: 9a214c9c1f0638ff7ce2bfe5320324310d5c14e9
+ms.openlocfilehash: 123f0db58b44ebccf211bee39ac82db6947ac865
+ms.sourcegitcommit: 9c7b08c332ea6bc83b5399d184935c47971dc5d0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "1732313"
+ms.lasthandoff: 08/08/2019
+ms.locfileid: "1866698"
 ---
 # <a name="overview-of-ai-for-customer-service-april-19-release"></a>AI for Customer Service の 2019 年 4 月リリースの概要
 [!include[customer-service banner](../../includes/dynamics365-ai-customer-service.md)]
@@ -20,7 +20,7 @@ ms.locfileid: "1732313"
 
 AI for Customer Service の焦点は、人工知能 (AI) の力によって大規模なカスタマー ケアをデジタル的に変革することです。
 
-2019 年 4 月のリリースは、AI for Customer Service オファリングの大きなマイルストーンとなります。Dynamics 365 Customer Service Insights が一般公開されるようになり、Dynamics 365 Virtual Agent for Customer Service のパブリック プレビューがリリースされます。
+2019 年 4 月のリリースは、AI for Customer Service オファリングの大きなマイルストーンとなります。Dynamics 365 Customer Service Insights が一般公開となり、Dynamics 365 Virtual Agent for Customer Service のパブリック プレビューがリリースされます。
 
 AI for Customer Service のこれらの製品は、プロの開発者の手でシームレスに拡張でき、Dynamics 365 だけでなくさまざまなビジネス システムと統合することができます。
 
@@ -40,9 +40,7 @@ Customer Service Insights では、AI テクノロジを使用して、新しく
 
 * **Salesforce、Zendesk、ServiceNow、またはその他のデータ ソースからのデータの取り込み**: ユーザーは、Common Data Service を通じて Salesforce、Zendesk、ServiceNow などの他のシステムのサポート案件データに接続することにより、Dynamics 365 Customer Service Insights を利用できます。
 
-* **Dynamics 365 for Customer Service からインサイトを直接取得する**: ユーザーは、埋め込まれたインサイト ダッシュボードを使用して、Dynamics 365 for Customer Service アプリケーション内で直接 Dynamics 365 Customer Service Insights にアクセスできます。 
-
-* **あらゆる規模の組織に対応**: Dynamics 365 Customer Service Insights では、コラボレーションと、ダッシュボードの共有、カスタム エンティティやフィールドの使用などの他のエンタープライズ機能が、サポートされるようになりました。 サービスの展開される地域が増え、お客様は自分のデータのより近くで展開を探すことができます。
+* **あらゆる規模の組織に対応**: Dynamics 365 Customer Service Insights では、カスタム エンティティやフィールドなどを使用することで、コラボレーションや、ダッシュボード共有などの他のエンタープライズ機能を、サポートするようになりました。 サービスの展開される地域が増え、お客様は自分のデータのより近くで展開を探すことができます。
 
 ## <a name="dynamics-365-virtual-agent-for-customer-service"></a>Dynamics 365 Virtual Agent for Customer Service
 
@@ -50,7 +48,7 @@ Customer Service Insights では、AI テクノロジを使用して、新しく
 
 通常、仮想エージェントの作成は複雑で時間のかかる作業であり、開発者と AI 専門家のチームが必要です。 その結果、仮想エージェントを利用できるのは非常に大きい企業だけでした。 その場合でも、長いコンテンツ更新サイクルに苦労することがよくあります。
 
-Virtual Agent for Customer Service を使用すると、あらゆる規模の企業の顧客サービス ドメインの専門家や IT 部門が、仮想エージェントを作成できます。 Dynamics 365 Customer Service Insights と緊密に統合することで、サポート チームは、AI エキスパート、データ サイエンティスト、またはプロの開発者のチームを必要とせずに、仮想エージェント会話エディターを使用して自動化できる、量の多いサポート トピックを特定できます。
+Virtual Agent for Customer Service を使用すると、あらゆる規模の企業の顧客サービス ドメインの専門家や IT 部門が、仮想エージェントを作成できます。 Dynamics 365 Customer Service Insights との緊密な統合によって、サポート チームは、AI エキスパート、データ サイエンティスト、またはプロの開発者のチームを必要とせずに、Virtual Agent 会話エディターを使用して自動化できる、量の多いサポート トピックを特定できます。
 
 Virtual Agent for Customer Service を使用すると、すべての顧客サービス マネージャーが、AI のエキスパートや開発者のチームを必要とせずに、簡単でコード不要のグラフィカル インターフェイスとテンプレートを使用して、強力なカスタム仮想エージェントを作成することができます。 Virtual Agent for Customer Service は、顧客とチャットし、明確化のための適切な質問をして問題を特定し、それらを解決に導くことができます。
 

@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 ms.reviewer: deonhe
-ms.openlocfilehash: e2cd3850bba5ea596dc8b40f18911ce92a3b37c2
-ms.sourcegitcommit: 611196f6d269078b130fa2f6e4734db9fc3eb8de
+ms.openlocfilehash: 1aae144df06eda7aa43a4275c1c8aa9302f396f2
+ms.sourcegitcommit: 5250ee7f4dd508239258d52f57b4f17b55dc789b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/05/2019
-ms.locfileid: "1729689"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "1862855"
 ---
 # <a name="whats-new-and-planned-for-common-data-model-and-data-integration"></a>Common Data Model とデータ統合の新機能と予定されている機能
 
@@ -125,7 +125,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | [OOTB 認定カスタム データ コネクタのサポート (拡張性サポート)](gateway.md#on-premises-data-gateway-supports-out-of-box-certified-data-connectors)                                 | パブリック プレビュー | 2019 年 4 月           |
 | [オンプレミスのデータ ソース用の複数の資格情報](gateway.md#on-premises-data-gateway-supports-out-of-box-certified-data-connectors)                                                   | 一般提供 | 2019 年 6 月           |
 | [テナント間のゲートウェイ管理](gateway.md#gateway-administration-across-a-tenant)                                                    | パブリック プレビュー | 2019 年 4 月           |
-| [ゲートウェイ管理の改善](gateway.md#management-enhancements)                                                        | パブリック プレビュー | 2019 年 5 月           |
+| [ゲートウェイ管理の改善](gateway.md#management-enhancements)                                                        | パブリック プレビュー | 2019 年 9 月           |
 | [改善された信頼性、サポート性、診断](gateway.md#improved-reliability-supportability-and-diagnostics)                                | 一般提供 | 2019 年 4 月           |
 | [SAP BW アプリケーションおよびメッセージ サーバー用 Power BI サービスでの (オンプレミス データ ゲートウェイ経由) SAP BW シングル サインオン (Kerberos)](gateway.md#sap-bw-single-sign-on-kerberos-in-power-bi-service-via-on-premises-data-gateway-for-sap-bw-application-and-message-server)  | パブリック プレビュー | 2019 年 4 月           |
 | [Power BI サービス内の (オンプレミス データ ゲートウェイ経由の) SAP HANA シングル サインオン (SAML)](gateway.md#sap-hana-single-sign-on-saml-in-power-bi-service-via-on-premises-data-gateway)                                            | パブリック プレビュー | 2019 年 4 月           |

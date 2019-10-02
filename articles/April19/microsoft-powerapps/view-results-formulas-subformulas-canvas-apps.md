@@ -2,19 +2,19 @@
 title: キャンバス アプリで式や下位式の結果を表示する
 description: キャンバス アプリで式や下位式の結果を表示する
 author: gregli-msft
-ms.reviewer: anneta
+ms.reviewer: pehecke
 ms.date: 04/22/2019
 ms.assetid: c188bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: gregli
 audience: Power user
-ms.openlocfilehash: 080b5a0af4ba5d4e32495e2f105c17a0560f1896
-ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
+ms.openlocfilehash: dff4496aae1dc166426dfbc188263e90e04c536b
+ms.sourcegitcommit: eed373714b1975b10d4a4e3b186f2116f9b6c06c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "1445882"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "1993943"
 ---
 # <a name="view-results-of-formulas-and-subformulas-in-canvas-apps-public-preview"></a>キャンバス アプリで式や下位式の結果を表示する (パブリック プレビュー)
 
