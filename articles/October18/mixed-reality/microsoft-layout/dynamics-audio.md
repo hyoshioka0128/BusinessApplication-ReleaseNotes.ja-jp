@@ -8,10 +8,10 @@ ms.topic: article
 ms.service: business-applications
 ms.reviewer: v-brycho
 ms.translationtype: HT
-ms.sourcegitcommit: ba1e0a919b45697fd78e54e462b89f37cc8880b5
-ms.openlocfilehash: 9c28f8e5143bb55533d7eb55543160219a70370c
+ms.sourcegitcommit: 975253473a597c7bd64a2088593a08d423bfdf7b
+ms.openlocfilehash: ef16e65f373b6764587781fd145e3e21ed0fe84b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 11/30/2018
+ms.lasthandoff: 10/03/2019
 
 ---
 
