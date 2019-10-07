@@ -7,12 +7,12 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: adamw
-ms.openlocfilehash: f7207b6dcb3241cf1bb1180455e3ec1da206841a
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: a4ff5e09f9b77c87400da0dbd87e24f7a64d2dbf
+ms.sourcegitcommit: 975253473a597c7bd64a2088593a08d423bfdf7b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225079"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "1995766"
 ---
 # <a name="template-app-customization-and-personalization"></a>テンプレート アプリのカスタマイズと個人用設定
 

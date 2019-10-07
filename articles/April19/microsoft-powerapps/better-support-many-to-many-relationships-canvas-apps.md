@@ -2,19 +2,19 @@
 title: キャンバス アプリでの多対多リレーションシップのサポート強化
 description: キャンバス アプリケーションで一対多および多対多の関係をたどり、レコード相互の関連付け/関連付け解除を行います
 author: gregli-msft
-ms.reviewer: anneta
+ms.reviewer: pehecke
 ms.date: 04/26/2019
 ms.assetid: 0587bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: gregli
 audience: Power user
-ms.openlocfilehash: 746277f651c17041522e6b9aa1f590ba4c8c95b4
-ms.sourcegitcommit: 71c309c00b3ce1028adfd94f110aa6682b07af01
+ms.openlocfilehash: 156cc56bbb2a27e21ce42f0e68e2e13b272e62d9
+ms.sourcegitcommit: eed373714b1975b10d4a4e3b186f2116f9b6c06c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "1446115"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "1993879"
 ---
 # <a name="better-support-for-many-to-many-relationships-in-canvas-apps-public-preview"></a>キャンバス アプリでの多対多リレーションシップのサポート強化 (パブリック プレビュー)
 

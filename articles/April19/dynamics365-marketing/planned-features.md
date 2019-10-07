@@ -4,15 +4,15 @@ description: 2019 年 4 月の Dynamics 365 for Marketing の新機能の概要
 author: jain-shailesh
 ms.author: shjain
 ms.reviewer: kamaybac
-ms.date: 01/21/2019
+ms.date: 08/06/2019
 ms.topic: summary
 ms.service: business-applications
-ms.openlocfilehash: 735dc8ff36d30dfad2b982598afd239f4fdcad3d
-ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
+ms.openlocfilehash: 27763c1c959d6bf00de10646994c5e9e84c05fd7
+ms.sourcegitcommit: 8c32b34ef39bb7dd7bf6d77072b65e4ab052ea09
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/29/2019
-ms.locfileid: "1608399"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "1864136"
 ---
 # <a name="whats-new-and-planned-for-dynamics-365-for-marketing"></a>Dynamics 365 for Marketing の新機能と予定されている機能
 
@@ -24,26 +24,18 @@ ms.locfileid: "1608399"
 
 Dynamics 365 ビジネス アプリケーションを利用できる国または地域の一覧については、[ご利用いただける国と地域に関するガイド](https://aka.ms/dynamics_365_international_availability_deck)を参照してください。
 
-  > [!NOTE]
-  > Dynamics 365 for Customer Engagement 環境でプレビュー機能を有効にするには、「[2019 年 4 月のプレビュー機能をアクティブにして使う](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/marketing-preview-features)」を参照してください。
-
-
 | 機能                                                                           | リリースの種類         | 日付 |
 |-----------------------------------------------------------------------------------|----------------------|----------------------|
-| [キャンペーンとセグメントの拡張性](extensibility-campaigns-segments.md)          | パブリック プレビュー<br>一般提供 | 2019 年 3 月<br>2019 年 4 月         |
-| [コンテンツ管理システムとの統合](integration-content-management-systems.md)        | パブリック プレビュー<br>一般提供 | 2019 年 3 月<br>2019 年 4 月  |
-| [オンボーディングが簡単](easy-onboarding.md)                                             | 一般提供 | 2019 年 4 月         |
-| [ライフサイクルの改善とより深い分析情報](lifecycle-enhancements-deeper-insights.md)   | 一般提供 | 2019 年 4 月        |
-| [Sales 統合の機能拡張](addtojourney.md)                                             | 一般提供 | 2019 年 4 月         |
-| [ソーシャル投稿](linkedin-social-posting.md)                              | パブリック プレビュー<br>一般提供| 2019 年 2 月 1 日<br>2019 年 4 月           |
-| [イベント登録とチェックイン エクスペリエンスの改善](customized-event-registration.md)  | 一般提供 | 2019 年 4 月         |
-| [マーケティング担当者向けセグメント化エクスペリエンス](marketer-centric-segmentation-experience.md) | 一般提供 | 2019 年 4 月         |
-| [スマート スケジューリング](email-scheduling-recommendation.md) | パブリック プレビュー | 2019 年 6 月 |
-| [セグメント ブースト](segment-boost.md) | パブリック プレビュー | 2019 年 6 月 |
-| [スパム スコア](spam-score-prediction-emails.md) | パブリック プレビュー | 2019 年 6 月 |
-| [Web サイトの個人用設定](website-personalization.md)                                  | パブリック プレビュー<br>一般提供       | 2019 年 3 月 <br> 2019 年 4 月          |
-| [複合現実コンテンツ](mixed-reality-content.md)                                  | パブリック プレビュー       | 2019 年 12 月           |
-
-
-
-
+| [キャンペーンとセグメントの拡張性](extensibility-campaigns-segments.md)          | パブリック&nbsp;プレビュー<br>一般提供&nbsp; | 2019 年 3 月 1 日<br>2019 年 4 月 1 日         |
+| [コンテンツ管理システムとの統合](integration-content-management-systems.md)        | パブリック&nbsp;プレビュー<br>一般提供&nbsp; | 2019 年 3 月 1 日<br>2019 年 4 月 1 日  |
+| [オンボーディングが簡単](easy-onboarding.md)                                             | 一般提供 | 2019 年 4 月 1 日         |
+| [ライフサイクルの改善とより深い分析情報](lifecycle-enhancements-deeper-insights.md)   | 一般提供 | 2019 年 4 月 1 日        |
+| [Sales 統合の機能拡張](addtojourney.md)                                             | 一般提供 | 2019 年 4 月 1 日         |
+| [ソーシャル投稿](linkedin-social-posting.md)                              | パブリック プレビュー<br>一般提供| 2019 年 2 月 1 日<br>2019 年 4 月 1 日           |
+| [イベント登録とチェックイン エクスペリエンスの改善](customized-event-registration.md)  | 一般提供 | 2019 年 4 月 1 日         |
+| [マーケティング担当者向けセグメント化エクスペリエンス](marketer-centric-segmentation-experience.md) | 一般提供 | 2019 年 4 月 1 日         |
+| [スマート スケジューリング](email-scheduling-recommendation.md) | パブリック プレビュー | 2019 年 5 月 31 日 |
+| [セグメント ブースト](segment-boost.md) | パブリック プレビュー | 2019 年 5 月 31 日 |
+| [スパム スコア](spam-score-prediction-emails.md) | パブリック プレビュー | 2019 年 5 月 31 日 |
+| [Web サイトの個人用設定](website-personalization.md)                                  | パブリック&nbsp;プレビュー<br>一般提供&nbsp;       | 2019 年 3 月 1 日 <br> 2019 年 4 月 1 日          |
+| [複合現実コンテンツ](mixed-reality-content.md)                                  | 取消済み       | この機能に関心がある場合は、[Marketing フォーラム](https://community.dynamics.com/365/marketing/f/dynamics-365-for-marketing-forum)でお知らせくだされば、関心に基づいて可能なリリースを計画することができます。             |

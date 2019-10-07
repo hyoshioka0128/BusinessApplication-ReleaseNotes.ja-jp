@@ -7,12 +7,12 @@ ms.reviewer: mihart
 ms.topic: article
 ms.service: business-applications
 ms.author: avive
-ms.openlocfilehash: 8143b889861b96d0910c137f5cc461b61f494a28
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 68c9c9e28efb8b49858e7049bbd43137fc66bbc0
+ms.sourcegitcommit: 975253473a597c7bd64a2088593a08d423bfdf7b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225080"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "1995748"
 ---
 # <a name="self-service-builder-experience-for-template-apps"></a>テンプレート アプリ用のセルフサービス ビルダー エクスペリエンス
 

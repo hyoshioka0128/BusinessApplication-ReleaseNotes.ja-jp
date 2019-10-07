@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: dgittler
 ms.reviewer: krbjoran
-ms.openlocfilehash: 53042b95721a8141d8beaaf0426779ceed5c0f38
-ms.sourcegitcommit: c825efc4b337a198ed3fe1a11f1da8f4eb5de77d
+ms.openlocfilehash: bfb338661e4eb57977b72395e13906f59d0ff3e3
+ms.sourcegitcommit: be5846a81cde54311cb5334d6f9898f461407e30
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "1718532"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "1874862"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-for-field-service"></a>Dynamics 365 for Field Service の新機能と予定されている機能
 
@@ -30,15 +30,15 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | 機能                                             | リリースの種類         | 日付 |
 |-----------------------------------------------------|----------------------|----------------------|
 | **埋め込み IoT**                     |                      |                      |
-| [埋め込み IoT の視覚化](embedded-iot-iot-central.md#embedded-iot-visualizations)                         | パブリック プレビュー | 2019 年 7 月           |
-| [デバイスのコマンド](embedded-iot-iot-central.md#device-commands)                                     | 一般提供 | 2019 年 6 月           |
-| [Field Service 7.5 リリースの Connected Field Service ソリューション](embedded-iot-iot-central.md#connected-field-service-solution-in-field-service-75-release)                                 | 一般提供 | 2019 年 5 月           |
+| [埋め込み IoT の視覚化](embedded-iot-iot-central.md#embedded-iot-visualizations)                         | パブリック プレビュー | 2019 年 7 月 31 日           |
+| [デバイスのコマンド](embedded-iot-iot-central.md#device-commands)                                     | 一般提供 | 2019 年 6 月 30 日           |
+| [Field Service 7.5 リリースの Connected Field Service ソリューション](embedded-iot-iot-central.md#connected-field-service-solution-in-field-service-75-release)                                 | 一般提供 | 2019 年 5 月 31 日           |
 | **スケジューリング**                                          |                      |                      |
 | [複数のリソース キャパシティのサポート](scheduling.md)         | 一般提供 | 2019 年 9 月            |
 | ["リソースの種類に一致する" 制約のサポート](scheduling.md)                    | 一般提供 | 2019 年 9 月       |
 | ["リソースの選択が必要" 制約のサポート](scheduling.md)             | 一般提供 | 2019 年 9 月       |
 | [「できるだけ早く (ASAP)」の最適化目標](scheduling.md#optimization-objective-for-as-soon-as-possible-asap) | 一般提供 | 2019 年 9 月            |
 | **技術者の生産性**                             |                      |                      |
-| [埋め込み IoT](technician-productivity.md#embedded-iot)                         | 一般提供 | 2019 年 5 月           |
+| [埋め込み IoT](technician-productivity.md#embedded-iot)                         | 一般提供 | 2019 年 5 月 31 日           |
 | **サービス提供**                                  |                      |                      |
 | [マルチリソースの作業指示書管理の改善](service-delivery.md#enhanced-multi-resource-work-order-management)       | 一般提供 | 2019 年 9 月            |

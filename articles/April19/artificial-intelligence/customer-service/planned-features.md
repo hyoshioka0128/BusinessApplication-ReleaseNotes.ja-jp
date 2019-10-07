@@ -2,18 +2,18 @@
 title: AI for Customer Service の新機能と予定されている機能 (2019 年 4 月)
 description: ここでは、2019 年 4 月から 2019 年 10 月の間に AI for Customer Service でリリースが計画されている機能の一覧を示します。
 author: shellyhaverkamp
-ms.date: 05/28/2019
+ms.date: 08/05/2019
 ms.assetid: 5993958f-d851-40b0-89b7-b855b9df7e71
 ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 ms.reviewer: shellyha
-ms.openlocfilehash: 4123c182168d39a12f5dc2eef9194897795a7ace
-ms.sourcegitcommit: 864f4558b09899fada96ac95108ae63039029fb7
+ms.openlocfilehash: b52ec98d8b5a244d26e80d781cf9f6dbc36207cf
+ms.sourcegitcommit: 9c7b08c332ea6bc83b5399d184935c47971dc5d0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "1624751"
+ms.lasthandoff: 08/08/2019
+ms.locfileid: "1866654"
 ---
 #  <a name="whats-new-and-planned-for-ai-for-customer-service"></a>AI for Customer Service の新機能と予定されている機能
 
@@ -39,13 +39,11 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | 機能    | リリースの種類         | 日付 |
 |------------|----------------------|----------------------|
 | [人間のフィードバックに基づく人工知能 (AI) によるトピックのクラスタリングの継続的な改善](insights/continuous-ai-improvement.md) | 一般提供 | 2019 年 4 月             |
-| [人間のエージェントと仮想エージェントの総合的な概要の把握](insights/combined-human-bot-metrics.md) | パブリック プレビュー | 2019 年 8 月  |
-| [エージェントの概要、エスカレートされたサポート案件、および SLA コンプライアンス ダッシュボード](insights/more-dashboard.md) | 一般提供 | 2019 年 6 月  |
-| [自動化提案を介した仮想エージェントの改善](insights/improve-bot-with-topic-suggestion.md) | パブリック プレビュー  | 2019 年 8 月  |
-| [Salesforce、Zendesk、ServiceNow などのデータ ソースからデータを取り込む](insights/more-data-sources-support.md) | 一般提供 | 2019 年 8 月   |
-| [Dynamics 365 for Customer Service アプリケーション内でのインサイトの取得](insights/integrated-experience-with-dynamics-365-for-customer-service.md)   | 一般提供 | 2019 年 8 月             |
-| [Customer Service Insights のエクスペリエンスのパーソナライズ](insights/personalized-experience.md)  | 一般提供 | 2019 年 8 月  |
-| [同僚と分析情報やワークスペースを共有する](insights/workspace-sharing.md)  | 一般提供 | 2019 年 6 月             |
 | [カスタム エンティティやフィールド内に格納されているサポート データから分析情報を生成する](insights/custom-entities-support.md) | 一般提供 | 2019 年 4 月             |
-| [さらに分析するために Azure Data Lake v2 にデータをエクスポートする](insights/export-data-to-azure-data-lake-v2.md)  | 一般提供 | 2019 年 9 月      |
-| [組織のワークスペースを設定する](insights/setup-organizational-workspace.md)  | 一般提供 | 2019 年 8 月       |
+| [同僚と分析情報やワークスペースを共有する](insights/workspace-sharing.md)  | 一般提供 | 2019 年 6 月             |
+| [トピックの名前変更によってトピック生成を改善する](insights/rename-topic.md) | 一般提供 | 2019 年 6 月             |
+| [Salesforce、Zendesk、ServiceNow などのデータ ソースからデータを取り込む](insights/more-data-sources-support.md) | 一般提供 | 2019 年 8 月   |
+| [トピック生成での追加言語のサポート](insights/model-language.md) | パブリック プレビュー | 2019 年 8 月   |
+| [製品内のガイド付きの最初の実行エクスペリエンス](insights/first-run.md) | 一般提供 | 2019 年 8 月   |
+| [Power BI Embedded レポートを含むユーザー インターフェイスでの 40 を超える言語のサポート](insights/UI-localization.md) | 一般提供 | 2019 年 8 月   |
+| [自動化提案を介した仮想エージェントの改善](insights/improve-bot-with-topic-suggestion.md) | パブリック プレビュー  | 2019 年 10 月  |

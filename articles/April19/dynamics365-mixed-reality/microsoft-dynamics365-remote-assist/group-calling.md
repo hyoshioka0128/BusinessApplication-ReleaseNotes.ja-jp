@@ -1,18 +1,18 @@
 ---
 title: Dynamics 365 Remote Assist ユーザーと Microsoft Teams のエキスパートの間のグループ通話
 description: 新しいグループ通話機能を使用すると、Microsoft Teams の複数のエキスパートが Dynamics 365 Remote Assist でユーザーを支援できます。
-author: MatthewJonPaul
+author: bencorn
 ms.date: 04/02/2019
 ms.topic: article
 ms.service: business-applications
-ms.author: mapau
+ms.author: becorn
 ms.reviewer: v-brycho
-ms.openlocfilehash: f7805f225bdaa232439c91023af06f4b2a3125d5
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 714a9fab41a06022af75be118950544d5587fe68
+ms.sourcegitcommit: 400975521747b572d34c7758bc5c887ff6fb55fc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225509"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "1755736"
 ---
 #  <a name="group-calling"></a>グループ通話
 [!include[microsoft-dynamics365-remote-assist banner](../../includes/microsoft-dynamics365-remote-assist.md)]

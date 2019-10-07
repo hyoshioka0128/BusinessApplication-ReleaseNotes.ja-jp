@@ -3,18 +3,18 @@ title: 自動フローによる Common Data Service でのバッチ操作のサ�
 description: フローにバッチ スコープを追加して、これらすべての異なる操作を Common Data Service の 1 回の呼び出しにまとめることができます。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 05/06/2019
+ms.date: 06/26/2019
 ms.assetid: ff86bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 3f1a1bf012b4d064cfca0038fa074a4fbad50f38
-ms.sourcegitcommit: 2377f9a8537925401f30f33dd73d1eb1eecda35a
+ms.openlocfilehash: ae243ba46aba64372411a5548fdd09a142713c05
+ms.sourcegitcommit: 13a94b4173f5b62040e0eb13b7dffe7a901e3b29
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "1621657"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "1757049"
 ---
 # <a name="automated-flows-support-batch-operations-in-common-data-service"></a>自動フローによる Common Data Service でのバッチ操作のサポート
 

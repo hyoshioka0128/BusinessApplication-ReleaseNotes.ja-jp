@@ -6,12 +6,12 @@ ms.date: 04/02/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: anbichse
-ms.openlocfilehash: 5384c1ef6c1ea1fbaf15b284cb9a9534f35ae270
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: 3ceba1aea806d6fdc33909a00c2d20c14433d489
+ms.sourcegitcommit: e334677133a9eb08e73c0f7233d1342cfb690a64
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225488"
+ms.lasthandoff: 08/15/2019
+ms.locfileid: "1875236"
 ---
 # <a name="maximize-employee-productivity-through-leave-and-absence-management"></a>休暇管理によって従業員の生産性を最大化する
       
@@ -34,6 +34,4 @@ ms.locfileid: "1225488"
 
 休暇は、多くの組織が従業員に対して提供している福利厚生です。 従業員の休暇を追跡し、休暇の計算方法を理解することは非常に重要です。 これは組織が従業員の質問に答え、正確な休暇が従業員に付与されるようにするために役立ちます。 
 
-## <a name="leave-suspension"></a>休暇の保留
 
-組織に、従業員が長期間欠勤している場合の休暇の扱いに関するポリシーが存在する場合があります。 一部の組織では、これは欠勤中に休暇の見越計上を保留することを意味します。 人事担当者は、従業員が欠勤している場合の休暇の保留に関する規則を作成できます。 

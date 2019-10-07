@@ -4,15 +4,15 @@ description: Dynamics 365 for Marketing 向けのドラッグ アンド ドロ�
 author: jain-shailesh
 ms.author: shjain
 ms.reviewer: kamaybac
-ms.date: 01/21/2019
+ms.date: 07/23/2019
 ms.topic: article
 ms.service: business-applications
-ms.openlocfilehash: 717d057ba01df23f81eb5994163cde9624b5941b
-ms.sourcegitcommit: 921dde7a25596a81c049162eee650d7a2009f17d
+ms.openlocfilehash: bb4546044587615dcb454db4ca5849f748589b9b
+ms.sourcegitcommit: d67d2ec8f1a32a34bbad4dce94d7d1f7346da4b6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2019
-ms.locfileid: "1225216"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "1797121"
 ---
 # <a name="codeless-editing-of-advanced-content"></a>高度なコンテンツのコードレス編集
 [!include[dynamics365-marketing banner](../includes/dynamics365-marketing.md)]

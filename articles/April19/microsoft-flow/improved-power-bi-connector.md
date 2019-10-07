@@ -3,18 +3,18 @@ title: 改善された Power BI コネクタ
 description: Power BI コネクタに関する 2 つの大きな改善点。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 05/06/2019
+ms.date: 07/01/2019
 ms.assetid: c987bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 006bde34ca0ebe666d6d60ed33a90855324bd5c2
-ms.sourcegitcommit: 2377f9a8537925401f30f33dd73d1eb1eecda35a
+ms.openlocfilehash: 7b8379c10ebeb816ee20760f1b4e8b7bbe4f8eab
+ms.sourcegitcommit: 13a94b4173f5b62040e0eb13b7dffe7a901e3b29
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "1621723"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "1756939"
 ---
 # <a name="improved-power-bi-connector"></a>改善された Power BI コネクタ
 

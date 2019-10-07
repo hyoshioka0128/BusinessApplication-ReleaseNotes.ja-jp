@@ -7,17 +7,17 @@ ms.topic: article
 ms.service: business-applications
 ms.author: ramanasr
 ms.reviewer: renwe
-ms.openlocfilehash: dfa120aaf2f3236d067804f2ae2ee370e4111c3b
-ms.sourcegitcommit: ed1c9aaff9ac070495ac0c066287104392861817
+ms.openlocfilehash: 4c065aa03203ae279e1225886f8c8b2b27ad7ad1
+ms.sourcegitcommit: 8f993ee55389e5e36b4a01b021cbb7fafdabde54
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "1726669"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "1968373"
 ---
 #  <a name="april-19-release-notes"></a>2019 年 4 月版リリース ノート
-**[2019 年 4 月リリース ノート PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2058936)** (最終更新日 2019 年 7 月 1 日)
+**[2019 年 4 月リリース ノート PDF のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=2058936)** (最終更新日 2019 年 8 月 27 日)
 
-2019 年 4 月のリリース ノートでは、2019 年 4 月から 2019 年 9 月中にリリースされる Dynamics 365 および Power Platform に関するすべての新機能について説明します。 一部の機能のプレビューは 2019 年 2 月に開始されます。 このリリース ノートは、[オンライン](https://aka.ms/businessappsreleasenotes)で参照することも、[PDF ファイル](https://go.microsoft.com/fwlink/p/?linkid=2058936)のドキュメントとしてダウンロードすることもできます。
+2019 年 4 月版リリース ノートでは、2019 年 4 月から 2019 年 9 月中にリリースされる Dynamics 365 および Power Platform に関するすべての新機能について説明します。 一部の機能のプレビューは 2019 年 2 月に開始されます。 このリリース ノートは、[オンライン](https://aka.ms/businessappsreleasenotes)で参照することも、[PDF ファイル](https://go.microsoft.com/fwlink/p/?linkid=2058936)のドキュメントとしてダウンロードすることもできます。
 
 ##  <a name="april-19-release-overview"></a>2019 年 4 月リリースの概要 
 Dynamics 365 および Power Platform のリリースの 2019 年 4 月ウェーブでは、ビジネスを変革するための重要な機能が提供されています。  
@@ -64,4 +64,4 @@ Microsoft Forms Pro は、Microsoft Forms の上に構築され、Dynamics 365 �
 
 
 ## <a name="tell-us-what-you-think"></a>フィードバック
-ぜひご意見をお寄せください。 [Dynamics 365](https://community.dynamics.com/) または [Power Platform](https://powerusers.microsoft.com/) (Power BI、PowerApps、Microsoft Flow) のコミュニティ フォーラムでフィードバックを共有しましょう。 お客様のフィードバックは改善に役立てられます。 
+ぜひご意見をお寄せください。 [Dynamics 365](https://community.dynamics.com/) または [Power Platform](https://powerusers.microsoft.com/) (Power BI、PowerApps、Microsoft Flow) のコミュニティ フォーラムでフィードバックを共有してください。 皆様からのフィードバックは改善に役立てられます。 

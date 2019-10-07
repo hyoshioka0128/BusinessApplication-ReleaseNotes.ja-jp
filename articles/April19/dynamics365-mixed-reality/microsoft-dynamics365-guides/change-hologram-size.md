@@ -2,17 +2,17 @@
 title: 空間に配置したホログラムのサイズを変更する
 description: Dynamics 365 Guides の 4 月リリースに含まれる新しいプレビュー段階の機能を使用して、空間に配置されたホログラムのサイズを変更します
 author: Algodin
-ms.date: 04/30/2019
+ms.date: 07/09/2019
 ms.topic: article
 ms.service: business-applications
 ms.author: algodin
 ms.reviewer: v-brycho
-ms.openlocfilehash: 1fad47b2619e734be1471c25ea88a8bb1c52a947
-ms.sourcegitcommit: d17c18839d36c91f1e83f4942a43128c4563ec9d
+ms.openlocfilehash: a1884a97a8f524538ae9908d616ef8b8c586008b
+ms.sourcegitcommit: 53da30b4fbfb9a23521d6c7e93c2d3d5aa562cae
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "1690991"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "1738329"
 ---
 # <a name="change-the-size-of-holograms-placed-in-space"></a>空間に配置したホログラムのサイズを変更する
 

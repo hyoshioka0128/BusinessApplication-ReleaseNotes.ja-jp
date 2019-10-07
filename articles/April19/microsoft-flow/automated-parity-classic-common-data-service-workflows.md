@@ -3,18 +3,18 @@ title: 従来の Common Data Service ワークフローと同等の自動フロ�
 description: このリリースでは、従来の非同期 Common Data Service ワークフローでサポートされていたすべてのシナリオを、自動フローで実現できるようになりました。
 author: stepsic-microsoft-com
 ms.reviewer: deonhe
-ms.date: 05/06/2019
+ms.date: 06/26/2019
 ms.assetid: fb86bed6-565e-e911-a973-000d3a1c79c5
 ms.topic: article
 ms.service: business-applications
 ms.author: stepsic
 audience: Power user
-ms.openlocfilehash: 095fbf9873a3f4050ee99718e7b1bf38be5de56c
-ms.sourcegitcommit: 2377f9a8537925401f30f33dd73d1eb1eecda35a
+ms.openlocfilehash: 5d327030bc74e127eebc509faf4ed8c34ed21a84
+ms.sourcegitcommit: 13a94b4173f5b62040e0eb13b7dffe7a901e3b29
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "1621668"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "1757016"
 ---
 # <a name="automated-flow-parity-with-classic-common-data-service-workflows"></a>従来の Common Data Service ワークフローと同等の自動フロー
 

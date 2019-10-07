@@ -65,21 +65,13 @@
 ## [Dynamics 365 for Finance and Operations](dynamics365-finance-operations/index.md)
 ### [新機能と予定されている機能](dynamics365-finance-operations/planned-features.md)
 ### 財務管理
-#### [自動元帳決済](dynamics365-finance-operations/automatic-ledger-settlements.md)
-#### [仕訳帳転記の取消](dynamics365-finance-operations/reverse-journal-posting.md)
-#### [収益認識](dynamics365-finance-operations/revenue-recognition.md)
 #### [銀行における外貨再評価](dynamics365-finance-operations/bank-foreign-currency-revaluation.md)
 #### [経費クライアントの使いやすさ](dynamics365-finance-operations/expense-client-usability.md)
-#### [請求スケジュール](dynamics365-finance-operations/billing-schedules.md)
-#### [エンタープライズ与信管理](dynamics365-finance-operations/credit-management.md)
-#### [銀行取引明細書の日付の編集と編集履歴の表示](dynamics365-finance-operations/edit-bank-date.md)
+#### [口座取引明細書の日付の編集と編集履歴の表示](dynamics365-finance-operations/edit-bank-date.md)
 #### [仕入先請求書の回収](dynamics365-finance-operations/recover-vendor-invoices.md)
 #### [買掛金勘定仕入先請求書の為替レート フィールドでの変更](dynamics365-finance-operations/AP-exch-rate.md)
 #### [顧客に割り当てられた自由書式の請求書テンプレートを非アクティブとしてマークする](dynamics365-finance-operations/fti-template-inactive.md)
 #### [仕入先請求書、販売注文、および販売契約書の新しい固定為替レート](dynamics365-finance-operations/new-fixed-exrate.md)
-#### [口座調整のキャンセル](dynamics365-finance-operations/cancel-bank-rec.md)
-#### [小切手のページで空白状態の小切手を作成する](dynamics365-finance-operations/checks-blank-status.md)
-#### [仕入先請求書のワークフローの状態を回復不能から下書きにリセットする](dynamics365-finance-operations/reset-workflow-vend.md)
 
 ### 公的機関
 #### [主勘定に 1099 連邦税の既定値を関連付ける](dynamics365-finance-operations/fed1099.md)
@@ -130,14 +122,11 @@
 ### 製造
 #### [マスター プランの安定性と復元性の改善](dynamics365-finance-operations/master-planning-stability-recovery-improvements.md)  
 #### [古い計画データの削除の改善](dynamics365-finance-operations/improved-removal-obsolete-planning-data.md)
-#### [計画サービス](dynamics365-finance-operations/planning-service.md)
-#### [コネクテッド マニュファクチャリング](dynamics365-finance-operations/connected-manufacturing.md)
-#### [エンタープライズ資産管理](dynamics365-finance-operations/enterprise-asset-management.md)
+#### [計画の最適化](dynamics365-finance-operations/planning-service.md)
+#### [資産管理](dynamics365-finance-operations/enterprise-asset-management.md)
 
 ### グローバリゼーション
-#### [構成可能な請求書レイアウトの追加](dynamics365-finance-operations/additional-configurable-invoice-layouts.md)
-#### [ブラジル向けの構成可能な E-Invoice (NF-e と NFS-e)](dynamics365-finance-operations/configurable-e-invoices-brazil-nf-e-nfs-e.md)
-#### [メキシコ向けの構成可能な E-Invoice (CFDI)](dynamics365-finance-operations/configurable-mexican-e-invoice-cfdi.md)
+
 #### [ロシア語にローカライズされた追加機能](dynamics365-finance-operations/russian-localization.md)
 #### [Regulatory Configuration Service (RCS) が展開される適用範囲地域の拡大](dynamics365-finance-operations/increasing-coverage-regional-deployment-rcs.md)
 #### [電子申告 - 顧客が構築した構成のパフォーマンスの最適化](dynamics365-finance-operations/performance-optimization-customer-built-features.md)
@@ -209,6 +198,7 @@
 #### [タレント プールの機能拡張](dynamics365-talent/attract/talent-pool-enhancements.md)
 #### [採用プロセスを監査する](dynamics365-talent/attract/audit-your-hiring-process.md)
 #### [候補者との連絡用にカスタマイズされた電子メール テンプレートとアカウントを作成する](dynamics365-talent/attract/create-customized-e-mail-templates-accounts-candidate-communications.md)
+#### [ホームページでジョブの承認を確認する](dynamics365-talent/attract/view-job-approvals-home-page.md)
 
 ### Onboard
 #### [アクション指向型のダッシュボードを使用して日常業務を効率化する](dynamics365-talent/onboard/use-action-oriented-dashboards-streamline-daily-tasks.md)
@@ -307,16 +297,14 @@
 
 #### [Dynamics 365 Customer Service Insights](artificial-intelligence/customer-service/insights/index.md)
 ##### [人間のフィードバックに基づく人工知能 (AI) によるトピックのクラスタリングの継続的な改善](artificial-intelligence/customer-service/insights/continuous-ai-improvement.md)
-##### [人間のエージェントと仮想エージェントの総合的な概要の把握](artificial-intelligence/customer-service/insights/combined-human-bot-metrics.md)
-##### [エージェントの概要、エスカレートされたサポート案件、および SLA コンプライアンス ダッシュボード](artificial-intelligence/customer-service/insights/more-dashboard.md)
+##### [トピックの名前変更によってトピック生成を改善する](artificial-intelligence/customer-service/insights/rename-topic.md)
 ##### [自動化のトピックを通じた Dynamics 365 Virtual Agent for Customer Service の改善](artificial-intelligence/customer-service/insights/improve-bot-with-topic-suggestion.md)
 ##### [Salesforce、Zendesk、ServiceNow などのデータ ソースからデータを取り込む](artificial-intelligence/customer-service/insights/more-data-sources-support.md)
-##### [Dynamics 365 for Customer Service アプリケーション内でのインサイトの取得](artificial-intelligence/customer-service/insights/integrated-experience-with-dynamics-365-for-customer-service.md)
-##### [Customer Service Insights のエクスペリエンスのパーソナライズ](artificial-intelligence/customer-service/insights/personalized-experience.md)
 ##### [同僚と分析情報やワークスペースを共有する](artificial-intelligence/customer-service/insights/workspace-sharing.md)
-##### [カスタム エンティティやフィールド内に格納されているデータから分析情報を生成する](artificial-intelligence/customer-service/insights/custom-entities-support.md)
-##### [さらに分析するために Azure Data Lake v2 にデータをエクスポートする](artificial-intelligence/customer-service/insights/export-data-to-azure-data-lake-v2.md)
-##### [組織のワークスペースを設定する](artificial-intelligence/customer-service/insights/setup-organizational-workspace.md)      
+##### [カスタム エンティティやフィールド内に格納されているデータから分析情報を生成する](artificial-intelligence/customer-service/insights/custom-entities-support.md)  
+##### [トピック生成での追加言語のサポート](artificial-intelligence/customer-service/insights/model-language.md)
+##### [製品内のガイド付きの最初の実行エクスペリエンス](artificial-intelligence/customer-service/insights/first-run.md)
+##### [ユーザー インターフェイスでの 40 を超える言語のサポート](artificial-intelligence/customer-service/insights/UI-localization.md)  
 
 
 ### [Dynamics 365 Market Insights](artificial-intelligence/dynamics365-ai-market-insights/index.md)
@@ -363,7 +351,10 @@
 #### [グループ通話](dynamics365-mixed-reality/microsoft-dynamics365-remote-assist/group-calling.md)
 #### [モバイル アプリ](dynamics365-mixed-reality/microsoft-dynamics365-remote-assist/mobile-app.md)
 #### [会社間通話](dynamics365-mixed-reality/microsoft-dynamics365-remote-assist/cross-company-calling.md)
-#### [ローカライズ](dynamics365-mixed-reality/microsoft-dynamics365-remote-assist/localization.md)
+#### [HoloLens 2 との互換性](dynamics365-mixed-reality/microsoft-dynamics365-remote-assist/hololens-2.md)
+#### [テキスト チャットのスナップショット リンク](dynamics365-mixed-reality/microsoft-dynamics365-remote-assist/snapshot.md)
+#### [プロトコルの有効化の向上](dynamics365-mixed-reality/microsoft-dynamics365-remote-assist/protocol-activation.md)
+#### [HoloLens 2 でのローカライズのサポート](dynamics365-mixed-reality/microsoft-dynamics365-remote-assist/localization.md)
 
 ### [Dynamics 365 Layout](dynamics365-mixed-reality/microsoft-dynamics365-layout/index.md)
 #### [新機能と予定されている機能](dynamics365-mixed-reality/microsoft-dynamics365-layout/planned-features.md)
@@ -371,8 +362,11 @@
 #### [指導モーメントによるオンラインの指示の提供](dynamics365-mixed-reality/microsoft-dynamics365-layout/teaching-moments.md)
 #### [デモ レイアウトでの新しい学習リソースの提供](dynamics365-mixed-reality/microsoft-dynamics365-layout/demo-layouts.md)
 #### [ホログラム フェード設定](dynamics365-mixed-reality/microsoft-dynamics365-layout/hologram-fade.md)
-#### [HoloLens 2 との互換性](dynamics365-mixed-reality/microsoft-dynamics365-layout/hololens-2.md)
 #### [Dynamics 365 Import Tool の新しいファイル形式 (プレビュー)](dynamics365-mixed-reality/microsoft-dynamics365-layout/import-tool-formats.md)
+#### [HoloLens 2 との互換性](dynamics365-mixed-reality/microsoft-dynamics365-layout/hololens-2.md)
+#### [HoloLens 2 でのローカライズのサポート](dynamics365-mixed-reality/microsoft-dynamics365-layout/localization-hololens-2.md)
+#### [ロックされたレイアウト](dynamics365-mixed-reality/microsoft-dynamics365-layout/locked-layouts.md)
+#### [ルーム スキャンの改善](dynamics365-mixed-reality/microsoft-dynamics365-layout/room-scanning.md)
 
 ### [Dynamics 365 Product Visualize](dynamics365-mixed-reality/microsoft-dynamics365-product-visualize/index.md)
 #### [新機能と予定されている機能](dynamics365-mixed-reality/microsoft-dynamics365-product-visualize/planned-features.md)
@@ -384,6 +378,9 @@
 #### [Microsoft Teams 統合](dynamics365-mixed-reality/microsoft-dynamics365-product-visualize/teams-integration.md)
 #### [SharePoint 統合](dynamics365-mixed-reality/microsoft-dynamics365-product-visualize/sharepoint-integration.md)
 #### [3D コンテンツ ギャラリー](dynamics365-mixed-reality/microsoft-dynamics365-product-visualize/3D-content-gallery.md)
+#### [3D コンテンツ操作](dynamics365-mixed-reality/microsoft-dynamics365-product-visualize/3D-content-manipulation.md)
+#### [3D モデル レイヤーを表示または非表示にする](dynamics365-mixed-reality/microsoft-dynamics365-product-visualize/model-layers.md)
+#### [Product Visualize ソリューション (コントロールとメモの保存の追加)](dynamics365-mixed-reality/microsoft-dynamics365-product-visualize/solution.md)
 
 ### [Dynamics 365 Guides](dynamics365-mixed-reality/microsoft-dynamics365-guides/index.md)
 #### [新機能と予定されている機能](dynamics365-mixed-reality/microsoft-dynamics365-guides/planned-features.md)
@@ -408,6 +405,12 @@
 #### [3D モデルの複製](dynamics365-mixed-reality/microsoft-dynamics365-guides/copy-models.md)
 #### [空間に配置したホログラムのサイズを変更する](dynamics365-mixed-reality/microsoft-dynamics365-guides/change-hologram-size.md)
 #### [アンカー設定方法をいつでも切り替え可能](dynamics365-mixed-reality/microsoft-dynamics365-guides/anchoring-improvements.md)
+#### [PC アプリのユーザー エクスペリエンスの向上](dynamics365-mixed-reality/microsoft-dynamics365-guides/pc-ux.md)
+#### [HoloLens アプリのユーザー エクスペリエンスの向上](dynamics365-mixed-reality/microsoft-dynamics365-guides/hololens-ux.md)
+#### [Dynamics 365 for Field Service の統合](dynamics365-mixed-reality/microsoft-dynamics365-guides/field-service.md)
+#### [新機能パネル](dynamics365-mixed-reality/microsoft-dynamics365-guides/new.md)
+#### [PC アプリのアクセシビリティの強化](dynamics365-mixed-reality/microsoft-dynamics365-guides/accessibility.md)
+#### [追加言語のサポート](dynamics365-mixed-reality/microsoft-dynamics365-guides/localization.md)
 
 ## [Dynamics 365 ポータル](dynamics365-portals/index.md)
 ### [新機能と予定されている機能](dynamics365-portals/planned-features.md)
@@ -435,6 +438,7 @@
 
 ### [どこにでもアプリを埋め込み](microsoft-powerapps/embed-apps-everywhere.md)
 #### [優れた配布チャネルとしての Teams](microsoft-powerapps/teams-first-class-distribution-channel.md)
+#### [Outlook 用モデル駆動型アプリの一般提供](microsoft-powerapps/model-driven-app-outlook-be-generally.md)
 
 ### [強化されたプラットフォーム機能](microsoft-powerapps/enhanced-platform-capabilities.md)
 #### [モバイルの Customer Engagement アプリ使用時のオフライン モードでの Common Data Service データへのアクセス](microsoft-powerapps/access-common-data-service-data-offline-mode-customer-engagement-apps-mobile.md)
@@ -444,10 +448,13 @@
 #### [効率化された PowerApps のエクスペリエンス](microsoft-powerapps/streamlined-experience.md)
 #### [Azure Active Directory のセキュリティ グループでのセキュリティ ロールの使用](microsoft-powerapps/using-security-roles-security-groups-azure-active-directory.md)
 #### [Microsoft Stream 動画のビデオ コントロール](microsoft-powerapps/video-control-supports-stream-videos.md)
+#### [iOS および Android 用の Dynamics 365 モバイル アプリでのモデル駆動型アプリ一覧の機能強化](microsoft-powerapps/enhancements-model-driven-app-list-dynamics-365-mobile-app-ios-android.md)
 
 ### [アプリ作成者向けの新機能と改善された機能](microsoft-powerapps/new-improved-capabilities-app-makers.md)
+#### [キャンバス アプリによる所有者、顧客、関連エンティティに対するポリモーフィック ルックアップのサポート](microsoft-powerapps/canvas-app-support-polymorphic-lookups-owner-customer-regarding-entities.md)
 #### [受信トレイ内のアプリ使用状況レポート](microsoft-powerapps/app-usage-reports-inbox.md)
 #### [キャンバス アプリでの多対多リレーションシップのサポート強化](microsoft-powerapps/better-support-many-to-many-relationships-canvas-apps.md)
+#### [Dynamics 365 ユーザー向けのカスタム学習パスの構築](microsoft-powerapps/build-custom-learning-paths-dynamics-365-users..md)
 #### [キャンバス アプリでリッチ コンポーネントとコントロールを作成して再利用する](microsoft-powerapps/compose-reuse-rich-components-controls-canvas-apps.md)
 #### [レスポンシブ レイアウトでのキャンバス アプリの作成](microsoft-powerapps/create-canvas-apps-responsive-layout.md)
 #### [モデル駆動型フォームへのキャンバス アプリの埋め込みの一般提供開始と機能強化](microsoft-powerapps/embedding-canvas-apps-model-driven-forms-generally-enhanced.md)
@@ -457,29 +464,36 @@
 #### [キャンバス アプリで Common Data Service からのビューを活用する](microsoft-powerapps/leverage-views-common-data-service-canvas-apps.md)
 #### [Common Data Service の新しいフォーム デザイナーの一般提供開始](microsoft-powerapps/new-common-data-service-form-designer-generally.md)
 #### [Common Data Service の新しいビュー デザイナーの一般提供開始](microsoft-powerapps/new-view-designer-common-data-service-generally.md)
-#### [Common Data Service コネクタで環境を選択する](microsoft-powerapps/enable-common-data-service-connector-select-environment.md)
 #### [PowerApps 用の統一コンポーネント フレームワーク](microsoft-powerapps/one-unified-component-framework.md)
 #### [キャンバス アプリで式や下位式の結果を表示する](microsoft-powerapps/view-results-formulas-subformulas-canvas-apps.md)
+#### [Common Data Service コネクタで環境を選択できるようにする](microsoft-powerapps/enable-common-data-service-connector-select-environment.md)
 
 ### [すべてのユーザーに対応する統一インターフェイス](microsoft-powerapps/unified-interface-everyone.md)
 #### [iOS デバイスでの Dynamics 365 アプリへのサインインがより簡単に](microsoft-powerapps/sign-more-easily-dynamics-365-mobile-device.md)
 #### [統一インターフェイス: ユーザーに選ばれたエクスペリエンス](microsoft-powerapps/unified-interface-experience-choice-users.md)
 
-### [リリースの詳細](https://docs.microsoft.com/business-applications-release-notes/powerplatform/released-versions/powerapps)
+### [AI Builder を使用してインテリジェントなアプリを構築する](microsoft-powerapps/build-intelligent-apps-using-ai-builder.md)
+#### [AI Builder で PowerApps にインテリジェンスを追加する](microsoft-powerapps/add-intelligence-ai-builder.md)
+
+### [スケーラブルなエンタープライズ ソリューション](microsoft-powerapps/scalable-enterprise-solutions.md)
+#### [カスケード変更の信頼性の向上](microsoft-powerapps/improved-reliability-cascading-changes.md)
+
+### [リリースの詳細](https://docs.microsoft.com/business-applications-release-notes/powerplatform/released-versions/microsoft-powerapps)
 
 
 ## [Microsoft Flow](microsoft-flow/index.md)
 ### [新機能と予定されている機能](microsoft-flow/planned-features.md)
 
 ### [AI 対応のエクスペリエンス](microsoft-flow/ai-enabled-experiences.md)
-#### [業務プロセス フロー用のアクション センター](microsoft-flow/action-center-business-process-flows.md)
+#### [ビジネス プロセス フロー用のアクション センター](microsoft-flow/action-center-business-process-flows.md)
 #### [フロー アクションのコピーと貼り付け](microsoft-flow/copy-paste-actions.md)
 #### [フロー内のアクションを無効にする](microsoft-flow/deactivate-actions-flows.md)
 #### [すべてのテンプレートに対する Diet デザイナー](microsoft-flow/diet-designer-all-templates.md)
-#### [電子メール、HTML、PDF からの構造化データの抽出](microsoft-flow/extract-structured-data-emails-html-pdf.md)
+#### [Microsoft Flow で AI Builder (プレビュー) を使用する](microsoft-flow/extract-structured-data-emails-html-pdf.md)
 #### [改善されたフロー チェッカーと修復手順](microsoft-flow/improved-checker-remediation-steps.md)
 #### [モバイル デバイスのデバイス シグナルの利用](microsoft-flow/leverage-device-signals-mobile-devices.md)
 #### [Microsoft Learn 統合](microsoft-flow/learn-integration.md)
+#### [フローのプロパティ ページでトリガーの問題を表示する](microsoft-flow/see-problems-triggers-properties-page.md)
 
 ### [エンタープライズ レベルのガバナンスとコンプライアンス](microsoft-flow/enterprise-grade-governance-compliance.md)
 #### [分析の強化](microsoft-flow/analytics-enhancements.md)
@@ -488,9 +502,11 @@
 #### [データ損失防止の強化](microsoft-flow/data-loss-prevention-enhancements.md)
 #### [Common Data Service を使用したフローのアプリケーション ライフサイクル管理の向上](microsoft-flow/general-availability-solution-capabilities.md)
 #### [フロー実行期間の増加](microsoft-flow/increased-run-duration.md)
-#### [Microsoft Flow 米国政府 – GCC High](microsoft-flow/us-government-–-gcc-high.md)
+#### [Microsoft Flow US Government – GCC High](microsoft-flow/us-government-–-gcc-high.md)
 #### [承認における Azure AD と Office 365 グループのサポート](microsoft-flow/support-azure-ad-office-365-groups-approvals.md)
 #### [承認におけるゲスト ユーザーのサポート](microsoft-flow/support-guest-users-approvals.md)
+#### [長期にわたる承認とその他の承認の改善](microsoft-flow/long-lived-approvals-other-approval-improvements.md)
+#### [ビジネス プロセス フローのインスタント フロー ステップ](microsoft-flow/instant-steps-business-process-flows.md)
 
 ### [Dynamics 365 と Office 365 をカバーする統合プラットフォーム](microsoft-flow/unified-platform-across-dynamics-365-office-365.md)
 #### [従来の Common Data Service ワークフローと同等の自動フロー](microsoft-flow/automated-parity-classic-common-data-service-workflows.md)
@@ -498,20 +514,19 @@
 #### [自動フローによる Common Data Service でのバッチ操作のサポート](microsoft-flow/automated-flows-support-batch-operations-common-data-service.md)
 #### [自動フローによる Common Data Service での変更セットのサポート](microsoft-flow/automated-flows-support-change-sets-common-data-service.md)
 #### [Microsoft Teams でのコンテキスト フローによる高度な自動化](microsoft-flow/contextual-flows-power-automation-teams.md)
-#### [業務プロセス フロー内のカスタム コントロール](microsoft-flow/custom-controls-business-process-flows.md)
+#### [ビジネス プロセス フロー内のカスタム コントロール](microsoft-flow/custom-controls-business-process-flows.md)
 #### [Visio でのデザイン フロー](microsoft-flow/design-flows-visio.md)
 #### [Dynamics 365 アプリケーションによる Flow 上への機能の構築](microsoft-flow/dynamics-365-applications-building-features.md)
-#### [新しいフィルター エクスペリエンス](business-intelligence/power-bi-desktop/new-filter-experience.md)
 #### [Flow for SharePoint の管理シナリオ](microsoft-flow/sharepoint-admin-scenarios.md)
 #### [改善された Power BI コネクタ](microsoft-flow/improved-power-bi-connector.md)
 #### [Power BI でのアラート作成の統合](microsoft-flow/integrated-alert-creation-power-bi.md)
 #### [OneDrive for Business フロー起動パネル](microsoft-flow/onedrive-business-launch-panel.md)
-#### [OneDrive for Business 要求のサインオフ](microsoft-flow/onedrive-business-request-sign-off.md)
+#### [OneDrive for Business の標準テンプレート](microsoft-flow/onedrive-business-request-sign-off.md)
 #### [PowerApps でのシームレスなフロー作成](microsoft-flow/seamless-creation.md)
 #### [コンシューマー向け OneDrive での Microsoft Flow の使用](microsoft-flow/use-onedrive-consumers.md)
 #### [Word コネクタが繰り返しテーブルをサポートする](microsoft-flow/word-connector-supports-repeating-tables.md)
 
-### [リリースの詳細](https://docs.microsoft.com/business-applications-release-notes/powerplatform/released-versions/flow)
+### [リリースの詳細](https://docs.microsoft.com/business-applications-release-notes/powerplatform/released-versions/microsoft-flow)
 
 
 ## [ビジネス インテリジェンス](business-intelligence/index.md)

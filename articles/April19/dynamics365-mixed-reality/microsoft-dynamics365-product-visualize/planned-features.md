@@ -2,17 +2,17 @@
 title: Dynamics 365 Product Visualize の新機能と予定されている機能 (2019 年 4 月)
 description: Dynamics 365 Product Visualize の 4 月の更新プログラムで予定されている機能の一覧
 author: Mamithan
-ms.date: 05/15/2019
+ms.date: 07/23/2019
 ms.topic: summary
 ms.service: business-applications
 ms.author: mamithan
 ms.reviewer: v-brycho
-ms.openlocfilehash: ba02968623a409e3806f262ddc6abba0022cb74e
-ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
+ms.openlocfilehash: ae561b93875bb7349992c841ad98c17ae3f1f0e3
+ms.sourcegitcommit: 7a09f6963a71dced1648555295d5139195aaa2c6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/29/2019
-ms.locfileid: "1608377"
+ms.lasthandoff: 07/24/2019
+ms.locfileid: "1787538"
 ---
 #  <a name="whats-new-and-planned-for-dynamics-365-product-visualize"></a>Dynamics 365 Product Visualize の新機能と予定されている機能
 
@@ -35,4 +35,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | [Microsoft Teams 統合](teams-integration.md)                    | パブリック プレビュー | 2019 年 4 月 1 日 |
 | [SharePoint 統合](sharepoint-integration.md)                    | パブリック プレビュー | 2019 年 4 月 1 日 |
 | [3D コンテンツ ギャラリー](3D-content-gallery.md)                    | パブリック プレビュー | 2019 年 4 月 1 日 |
+| [3D コンテンツ操作](3D-content-manipulation.md)| パブリック プレビュー | 2019 年 7 月 23 日 |
+| [3D モデル レイヤーを表示または非表示にする](model-layers.md)|パブリック プレビュー|2019 年 7 月 23 日|
+| [Product Visualize ソリューション (コントロールとメモの保存スペースの追加)](solution.md)|パブリック プレビュー| 2019 年 7 月 23 日|
 

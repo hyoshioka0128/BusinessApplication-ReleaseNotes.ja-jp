@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: business-applications
 ms.author: tpalmer
 ms.reviewer: deonhe
-ms.openlocfilehash: 67b4eeac937952b456c2f2f04608f549a539d6b5
-ms.sourcegitcommit: 6f7f00bf9a8748c43840f76d9a34365b8913741b
+ms.openlocfilehash: 1aae144df06eda7aa43a4275c1c8aa9302f396f2
+ms.sourcegitcommit: 5250ee7f4dd508239258d52f57b4f17b55dc789b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/29/2019
-ms.locfileid: "1608564"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "1862855"
 ---
 # <a name="whats-new-and-planned-for-common-data-model-and-data-integration"></a>Common Data Model とデータ統合の新機能と予定されている機能
 
@@ -66,7 +66,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | [Dynamics 365 for Finance and Operations ユーザーが Common Data Service のデータをネイティブに取得できるスムーズなエクスペリエンス](dual-write-link-common-data-service-apps.md) | パブリック プレビュー | 2019 年 5 月           |
 | [二重書き込みを有効にする前に初期データを書き込む機能](dual-write-link-common-data-service-apps.md) | パブリック プレビュー | 2019 年 5 月           |
 | [計画済みまたは計画外のメンテナンスに対する二重書き込みの回復性の確保](dual-write-link-common-data-service-apps.md) | パブリック プレビュー | 2019 年 5 月           |
-| [二重書き込みにおける複数の法人のサポート](dual-write-link-common-data-service-apps.md) | パブリック プレビュー | 2019 年 5 月           |
+| [二重書き込みにおける複数の法人のサポート](dual-write-link-common-data-service-apps.md) | パブリック プレビュー | 2019 年 7 月           |
 
 ## <a name="cds-data-integrator"></a>CDS データ インテグレーター
 
@@ -125,7 +125,7 @@ Dynamics 365 ビジネス アプリケーションを利用できる国または
 | [OOTB 認定カスタム データ コネクタのサポート (拡張性サポート)](gateway.md#on-premises-data-gateway-supports-out-of-box-certified-data-connectors)                                 | パブリック プレビュー | 2019 年 4 月           |
 | [オンプレミスのデータ ソース用の複数の資格情報](gateway.md#on-premises-data-gateway-supports-out-of-box-certified-data-connectors)                                                   | 一般提供 | 2019 年 6 月           |
 | [テナント間のゲートウェイ管理](gateway.md#gateway-administration-across-a-tenant)                                                    | パブリック プレビュー | 2019 年 4 月           |
-| [ゲートウェイ管理の改善](gateway.md#management-enhancements)                                                        | パブリック プレビュー | 2019 年 5 月           |
+| [ゲートウェイ管理の改善](gateway.md#management-enhancements)                                                        | パブリック プレビュー | 2019 年 9 月           |
 | [改善された信頼性、サポート性、診断](gateway.md#improved-reliability-supportability-and-diagnostics)                                | 一般提供 | 2019 年 4 月           |
 | [SAP BW アプリケーションおよびメッセージ サーバー用 Power BI サービスでの (オンプレミス データ ゲートウェイ経由) SAP BW シングル サインオン (Kerberos)](gateway.md#sap-bw-single-sign-on-kerberos-in-power-bi-service-via-on-premises-data-gateway-for-sap-bw-application-and-message-server)  | パブリック プレビュー | 2019 年 4 月           |
 | [Power BI サービス内の (オンプレミス データ ゲートウェイ経由の) SAP HANA シングル サインオン (SAML)](gateway.md#sap-hana-single-sign-on-saml-in-power-bi-service-via-on-premises-data-gateway)                                            | パブリック プレビュー | 2019 年 4 月           |
