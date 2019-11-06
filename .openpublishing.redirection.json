@@ -2,6 +2,16 @@
 {  
   "redirections": [
     {
+      "source_path": "articles/October18/dynamics365-talent/onboard/auto-save.md",
+      "redirect_url": "../planned-features",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "articles/October18/dynamics365-talent/onboard/corehr-checklist-integration.md",
+      "redirect_url": "../planned-features",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "articles/index.md",
       "redirect_url": "/dynamics365/release-plans",
       "redirect_document_id": "false"
